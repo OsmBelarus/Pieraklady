@@ -1,0 +1,180 @@
+# Objects : [w193773669]
+# name:be: []
+msgid "Автопарк №14"
+msgstr ""
+
+# Objects : [w193312863]
+# name:be: []
+msgid "Белпласт"
+msgstr ""
+
+# Objects : [w193772021]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [n1365412374]
+# name:be: [Валожын]
+msgid "Воложин"
+msgstr ""
+
+# Objects : [w89781804]
+# name:be: []
+msgid "ВЧ"
+msgstr ""
+
+# Objects : [r2647169]
+# name:be: []
+msgid "Гагарина улица"
+msgstr ""
+
+# Objects : [w193760929]
+# name:be: []
+msgid "Горгаз"
+msgstr ""
+
+# Objects : [w193766989]
+# name:be: []
+msgid "Гортоп"
+msgstr ""
+
+# Objects : [n2766736598]
+# name:be: []
+msgid "Гостиница Корона"
+msgstr ""
+
+# Objects : [n2788680255]
+# name:be: [Палац Тышкевічаў]
+msgid "Дворец Тышкевичей"
+msgstr ""
+
+# Objects : [w193773667]
+# name:be: []
+msgid "ДЭУ ЛДД-612"
+msgstr ""
+
+# Objects : [w193766992]
+# name:be: []
+msgid "ДЭУ ЛДД-614"
+msgstr ""
+
+# Objects : [w193465265]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [w193312864]
+# name:be: []
+msgid "Зернохранилище"
+msgstr ""
+
+# Objects : [w197627196]
+# name:be: []
+msgid "Зооветснаб"
+msgstr ""
+
+# Objects : [n2788680479]
+# name:be: [Ешыбот]
+msgid "Иешива"
+msgstr ""
+
+# Objects : [w196363669]
+# name:be: []
+msgid "Карея"
+msgstr ""
+
+# Objects : [n1376555555, n2788680926]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681700]
+# name:be: [Царква Св. Канстанціна й Алены]
+msgid "Константина и Елены"
+msgstr ""
+
+# Objects : [n2788681939]
+# name:be: [Касцёл Святога Юзафа рамесніка]
+msgid "Костел Святого Иосифа"
+msgstr ""
+
+# Objects : [w193772178]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w172469661]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w89781234]
+# name:be: []
+msgid "Льнозавод"
+msgstr ""
+
+# Objects : [r2647170]
+# name:be: []
+msgid "Мира улица"
+msgstr ""
+
+# Objects : [w197057114]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [r2647171]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w193465261]
+# name:be: []
+msgid "Райсельэнерго"
+msgstr ""
+
+# Objects : [w170822340]
+# name:be: []
+msgid "РАПТ"
+msgstr ""
+
+# Objects : [w193363938]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w197238007]
+# name:be: []
+msgid "Санстанция"
+msgstr ""
+
+# Objects : [w193465262]
+# name:be: []
+msgid "Склады РАЙПО"
+msgstr ""
+
+# Objects : [w193465264]
+# name:be: []
+msgid "Станция обезжелезивания воды"
+msgstr ""
+
+# Objects : [r2639405]
+# name:be: []
+msgid "СШ №2"
+msgstr ""
+
+# Objects : [w89781802]
+# name:be: []
+msgid "фруктовый сад колхоза им. Ленина"
+msgstr ""
+
+# Objects : [w193315700]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w193465266]
+# name:be: []
+msgid "Электоросети"
+msgstr ""
+

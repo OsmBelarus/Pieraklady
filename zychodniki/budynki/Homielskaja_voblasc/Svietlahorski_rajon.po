@@ -1,0 +1,445 @@
+# Objects : [w91400601]
+# name:be: []
+msgid "KSART"
+msgstr ""
+
+# Objects : [w288499124]
+# name:be: []
+msgid "АВМ"
+msgstr ""
+
+# Objects : [n1537088695]
+# name:be: [Аўтамыйня]
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w102277248]
+# name:be: []
+msgid "Автосервис у Маевского"
+msgstr ""
+
+# Objects : [w141253220]
+# name:be: []
+msgid "Автошкола ДОСААФ"
+msgstr ""
+
+# Objects : [w206689177]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w310090986]
+# name:be: []
+msgid "База"
+msgstr ""
+
+# Objects : [w285878505]
+# name:be: []
+msgid "Банно-прачечный комбинат"
+msgstr ""
+
+# Objects : [w285878506, w68389845]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w285189073]
+# name:be: []
+msgid "баня котельная"
+msgstr ""
+
+# Objects : [w207874820]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w126521279]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w68389987]
+# name:be: [Белдзяржстрах]
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w126521293]
+# name:be: []
+msgid "БелИнвестБанк"
+msgstr ""
+
+# Objects : [w144802136]
+# name:be: []
+msgid "Березки"
+msgstr ""
+
+# Objects : [w290154330]
+# name:be: []
+msgid "Бытовые помещения"
+msgstr ""
+
+# Objects : [w103106830]
+# name:be: [ДАІ]
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w68389941]
+# name:be: []
+msgid "Городской центр культуры"
+msgstr ""
+
+# Objects : [w126521350]
+# name:be: []
+msgid "ДДЮиТ"
+msgstr ""
+
+# Objects : [w285189074]
+# name:be: []
+msgid "дет.сад"
+msgstr ""
+
+# Objects : [w248858478]
+# name:be: []
+msgid "Детская"
+msgstr ""
+
+# Objects : [w285873703, w32049125]
+# name:be: []
+msgid "детский сад"
+msgstr ""
+
+# Objects : [w129401423, w293278856]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w192688465]
+# name:be: []
+msgid "Детский сад №13"
+msgstr ""
+
+# Objects : [w68578670]
+# name:be: []
+msgid "Детский сад №15"
+msgstr ""
+
+# Objects : [w206516084]
+# name:be: []
+msgid "Детский сад №25"
+msgstr ""
+
+# Objects : [w290571405]
+# name:be: []
+msgid "Дзіцячы садок № 22"
+msgstr ""
+
+# Objects : [w68578631]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w103108173]
+# name:be: []
+msgid "Дом Быта на М-Оне №2"
+msgstr ""
+
+# Objects : [w290154331]
+# name:be: []
+msgid "Дом животноводов"
+msgstr ""
+
+# Objects : [w285862844]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w126521512]
+# name:be: []
+msgid "Дом культуры энергетиков"
+msgstr ""
+
+# Objects : [w282855436]
+# name:be: []
+msgid "Дом №1"
+msgstr ""
+
+# Objects : [w103104960]
+# name:be: []
+msgid "Дом №2"
+msgstr ""
+
+# Objects : [w289611346]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w248856966]
+# name:be: []
+msgid "Искамед"
+msgstr ""
+
+# Objects : [w287674070]
+# name:be: [Камелія]
+msgid "Камелия"
+msgstr ""
+
+# Objects : [w103132236]
+# name:be: []
+msgid "кинотеатр Юность"
+msgstr ""
+
+# Objects : [w282047296, w284610237]
+# name:be: []
+msgid "клуб"
+msgstr ""
+
+# Objects : [w288207006]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [w263670316]
+# name:be: []
+msgid "Компьюторный центр"
+msgstr ""
+
+# Objects : [w285873704]
+# name:be: []
+msgid "контора совхоза"
+msgstr ""
+
+# Objects : [w290154332]
+# name:be: []
+msgid "Кормоцех"
+msgstr ""
+
+# Objects : [w290154333, w290154334, w290154335, w290154336]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
+# Objects : [w290154337]
+# name:be: []
+msgid "Котельная МТД"
+msgstr ""
+
+# Objects : [w286330049]
+# name:be: []
+msgid "Крама"
+msgstr ""
+
+# Objects : [w281758138]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w285873245, w286064739, w286222308, w287339046]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w126521249, w207879400]
+# name:be: []
+msgid "Мебель"
+msgstr ""
+
+# Objects : [w207886325]
+# name:be: []
+msgid "Ниточка"
+msgstr ""
+
+# Objects : [w310093780]
+# name:be: []
+msgid "Оптика"
+msgstr ""
+
+# Objects : [w208866034]
+# name:be: []
+msgid "Отдел внутренних дел"
+msgstr ""
+
+# Objects : [w137835340]
+# name:be: []
+msgid "Пассаж"
+msgstr ""
+
+# Objects : [w209164446]
+# name:be: []
+msgid "ПАСЧ №4"
+msgstr ""
+
+# Objects : [w283577142]
+# name:be: []
+msgid "ПГРП 24"
+msgstr ""
+
+# Objects : [w285877075]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [w290167401]
+# name:be: []
+msgid "Прачечная"
+msgstr ""
+
+# Objects : [w68389975]
+# name:be: []
+msgid "Райвоенкомат"
+msgstr ""
+
+# Objects : [w293004934]
+# name:be: []
+msgid "Райский уголок"
+msgstr ""
+
+# Objects : [w205962117]
+# name:be: []
+msgid "Ранак"
+msgstr ""
+
+# Objects : [w306662811]
+# name:be: []
+msgid "Родная сторона"
+msgstr ""
+
+# Objects : [w206515695]
+# name:be: []
+msgid "Светлогорское РАЙПО"
+msgstr ""
+
+# Objects : [w290154338]
+# name:be: []
+msgid "Свинарник"
+msgstr ""
+
+# Objects : [w298466309]
+# name:be: []
+msgid "Серебряные ключи"
+msgstr ""
+
+# Objects : [w209731045]
+# name:be: []
+msgid "Склад полиэфирной нити"
+msgstr ""
+
+# Objects : [w248857986]
+# name:be: []
+msgid "Солнышко"
+msgstr ""
+
+# Objects : [w288207005]
+# name:be: []
+msgid "Сосны"
+msgstr ""
+
+# Objects : [w144802153]
+# name:be: []
+msgid "Спортивный центр"
+msgstr ""
+
+# Objects : [w285877076]
+# name:be: []
+msgid "столовая"
+msgstr ""
+
+# Objects : [w285189072]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w126521284]
+# name:be: []
+msgid "Сундучок"
+msgstr ""
+
+# Objects : [w74355324]
+# name:be: []
+msgid "Тарговы цэнтр"
+msgstr ""
+
+# Objects : [w290154339]
+# name:be: []
+msgid "Телятник"
+msgstr ""
+
+# Objects : [w144802200]
+# name:be: []
+msgid "Тенисный корт"
+msgstr ""
+
+# Objects : [w246678151, w246678152]
+# name:be: []
+msgid "ТП; ЦТП"
+msgstr ""
+
+# Objects : [w141253895]
+# name:be: []
+msgid "Универсам ЮБИЛЕЙНЫЙ"
+msgstr ""
+
+# Objects : [w137835299]
+# name:be: []
+msgid "Управление Химволокно"
+msgstr ""
+
+# Objects : [w289006629]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w68389858]
+# name:be: []
+msgid "Хит"
+msgstr ""
+
+# Objects : [w282855438]
+# name:be: []
+msgid "Хлораторная"
+msgstr ""
+
+# Objects : [w206688922]
+# name:be: []
+msgid "Хозтовары"
+msgstr ""
+
+# Objects : [w287254771]
+# name:be: []
+msgid "церков"
+msgstr ""
+
+# Objects : [w283588911]
+# name:be: []
+msgid "Цех окраски"
+msgstr ""
+
+# Objects : [w246678149, w246678150, w68578674]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w289611347]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w288353015]
+# name:be: []
+msgid "ШРП-2"
+msgstr ""
+
+# Objects : [w282855439]
+# name:be: []
+msgid "ШРП №3"
+msgstr ""
+
+# Objects : [w264718941]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+
+# Objects : [w285877079]
+# name:be: []
+msgid "№11"
+msgstr ""
+

@@ -1,0 +1,460 @@
+# Objects : [w104826312]
+# name:be: []
+msgid ""Фейерверки""
+msgstr ""
+
+# Objects : [w118575318]
+# name:be: []
+msgid "201-1"
+msgstr ""
+
+# Objects : [w310703559]
+# name:be: []
+msgid "Ctok-city"
+msgstr ""
+
+# Objects : [w41160676]
+# name:be: [Аўтасэрвіс]
+msgid "Автосервис"
+msgstr ""
+
+# Objects : [w310703560]
+# name:be: []
+msgid "Алиса"
+msgstr ""
+
+# Objects : [w146584136]
+# name:be: [Аптэка № 163]
+msgid "Аптека № 163"
+msgstr ""
+
+# Objects : [w146355462]
+# name:be: [Атлант]
+msgid "Атлант"
+msgstr ""
+
+# Objects : [w38078029]
+# name:be: []
+msgid "Базис № 28"
+msgstr ""
+
+# Objects : [w38058828]
+# name:be: [Крама № 7]
+msgid "Базис № 7"
+msgstr ""
+
+# Objects : [w293818006, w41160670]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w152626043]
+# name:be: [Лазня]
+msgid "Баня 2-го разряда"
+msgstr ""
+
+# Objects : [w41102189]
+# name:be: [Басейн «Ізумруд»]
+msgid "Бассейн Изумруд"
+msgstr ""
+
+# Objects : [w41104350]
+# name:be: [Басейн «Садко»]
+msgid "Бассейн Садко"
+msgstr ""
+
+# Objects : [w38076022]
+# name:be: [Басейн СШ № 4]
+msgid "бассейн СШ № 4"
+msgstr ""
+
+# Objects : [w172124104]
+# name:be: []
+msgid "Бизнес - центр"
+msgstr ""
+
+# Objects : [w122421552]
+# name:be: [Бізнес-цэнтр «Любава»]
+msgid "Бизнес-центр "Любава""
+msgstr ""
+
+# Objects : [w41088681]
+# name:be: []
+msgid "Гипермаркет Зодиак"
+msgstr ""
+
+# Objects : [w41099076]
+# name:be: [Гарадскі палац культуры]
+msgid "Городской дворец культуры"
+msgstr ""
+
+# Objects : [w41104344]
+# name:be: [Дзяржстрах]
+msgid "Госстрах"
+msgstr ""
+
+# Objects : [w41102194]
+# name:be: [Гасцініца «Беларусь»]
+msgid "Гостиница Беларусь"
+msgstr ""
+
+# Objects : [r3297555]
+# name:be: [Гасцінічны комплекс «Дружба»]
+msgid "Гостиничный комплекс «Дружба»"
+msgstr ""
+
+# Objects : [w38059867]
+# name:be: [Гасцінічны комплекс «Нафтан»]
+msgid "Гостиничный комплекс «Нафтан»"
+msgstr ""
+
+# Objects : [w41160688]
+# name:be: [Дзвіна]
+msgid "Двина"
+msgstr ""
+
+# Objects : [w38075254]
+# name:be: [Цэнтр пазашкольнай работы]
+msgid "Дворец детей и молодежи"
+msgstr ""
+
+# Objects : [r301544]
+# name:be: [Палац культуры нафтавікоў]
+msgid "Дворец культуры нефтяников"
+msgstr ""
+
+# Objects : [w174929355, w301571984, w38059903]
+# name:be: [Дыяніс]
+msgid "Дионис"
+msgstr ""
+
+# Objects : [w41104342]
+# name:be: [Дом быту]
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w38058805]
+# name:be: [Дом кнігі]
+msgid "Дом книги"
+msgstr ""
+
+# Objects : [w41104343]
+# name:be: [Дом гандлю]
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [w38076050]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w146616446]
+# name:be: [Алена Нэкст]
+msgid "Елена Next"
+msgstr ""
+
+# Objects : [w220043576]
+# name:be: []
+msgid "Завод КПД Филиал ОАО "Трест 16""
+msgstr ""
+
+# Objects : [w41097191]
+# name:be: [Залатая ніва]
+msgid "Золотая нива"
+msgstr ""
+
+# Objects : [w38058812]
+# name:be: []
+msgid "Ивушка"
+msgstr ""
+
+# Objects : [w241892068]
+# name:be: []
+msgid "Касса"
+msgstr ""
+
+# Objects : [w158196577]
+# name:be: [КПС-3]
+msgid "КНС-3"
+msgstr ""
+
+# Objects : [w93376343]
+# name:be: [Калабок]
+msgid "Колобок"
+msgstr ""
+
+# Objects : [w38076009]
+# name:be: [Магазін «Камсамольскі»]
+msgid "Магазин Комсомольский"
+msgstr ""
+
+# Objects : [w38076029]
+# name:be: []
+msgid "Магазин телефонов"
+msgstr ""
+
+# Objects : [w38075276]
+# name:be: []
+msgid "Мила"
+msgstr ""
+
+# Objects : [w41104328]
+# name:be: [Банк «Масква-Мінск»]
+msgid "Москва-Минск Банк"
+msgstr ""
+
+# Objects : [w41097092]
+# name:be: [Падаткавая інспекцыя]
+msgid "Налоговая инспекция"
+msgstr ""
+
+# Objects : [w190864676]
+# name:be: []
+msgid "Новополоцкая городская и районная инспекция природных ресурсов и охраны окружающей среды"
+msgstr ""
+
+# Objects : [w190864685]
+# name:be: []
+msgid "Новополоцкий городской отдел по чрезвычайным ситуациям"
+msgstr ""
+
+# Objects : [w41088664]
+# name:be: []
+msgid "Новополоцкий городской отдел по чрезвычайным ситуациям 2"
+msgstr ""
+
+# Objects : [w41088680]
+# name:be: [Наваполацкі хлебазавод]
+msgid "Новополоцкий хлебозавод"
+msgstr ""
+
+# Objects : [w302622199]
+# name:be: []
+msgid "ОАО "Трест №16""
+msgstr ""
+
+# Objects : [w190870727]
+# name:be: []
+msgid "ОАО АТП 6 Диспетчерская"
+msgstr ""
+
+# Objects : [w41097094]
+# name:be: [Інтэрнат ПДУ №2]
+msgid "Общежитие ПГУ №2"
+msgstr ""
+
+# Objects : [w41164557]
+# name:be: [Арбіта]
+msgid "Орбита"
+msgstr ""
+
+# Objects : [w38059868]
+# name:be: [Палац шлюбаў]
+msgid "Отдел ЗАГС Новополоцкого горисполкома"
+msgstr ""
+
+# Objects : [w41141119]
+# name:be: [Офісны цэнтр]
+msgid "Офисный центр"
+msgstr ""
+
+# Objects : [w41097096]
+# name:be: [Паўлінка]
+msgid "Павлинка"
+msgstr ""
+
+# Objects : [w41088673]
+# name:be: [ПДУ, вучэбны корпус]
+msgid "ПГУ, учебный корпус"
+msgstr ""
+
+# Objects : [w41088659]
+# name:be: [Паліклініка №4]
+msgid "Поликлиника 4"
+msgstr ""
+
+# Objects : [w240415324]
+# name:be: [Полацкі дзяржаўны ўніверсітэт]
+msgid "Полоцкий государственный университет"
+msgstr ""
+
+# Objects : [w41088675]
+# name:be: [Полацкі ЦСМС]
+msgid "Полоцкий ЦСМС"
+msgstr ""
+
+# Objects : [w41141337]
+# name:be: [Пралеска]
+msgid "Пралеска"
+msgstr ""
+
+# Objects : [w125848778]
+# name:be: [Прыёмны пункт другаснай сыравіны]
+msgid "Приёмный пункт вторсырья"
+msgstr ""
+
+# Objects : [w147139735]
+# name:be: [Пракуратура]
+msgid "Прокуратура г.Новополоцка"
+msgstr ""
+
+# Objects : [w41104337]
+# name:be: [Рубін]
+msgid "Рубин"
+msgstr ""
+
+# Objects : [w41160675]
+# name:be: []
+msgid "Рынок "Дисна""
+msgstr ""
+
+# Objects : [w172124102]
+# name:be: []
+msgid "Санаторий - профилакторий "Родник""
+msgstr ""
+
+# Objects : [w41097184]
+# name:be: [СГ Транс]
+msgid "СГ Транс"
+msgstr ""
+
+# Objects : [w207697585]
+# name:be: [Ратавальная станцыя]
+msgid "Спасательная станция"
+msgstr ""
+
+# Objects : [w309261444]
+# name:be: []
+msgid "Спортивный комплекс №2"
+msgstr ""
+
+# Objects : [w41095902]
+# name:be: []
+msgid "Спорткомплекс "Атлант""
+msgstr ""
+
+# Objects : [w41097095]
+# name:be: [Сталовая ПДУ]
+msgid "Столовая ПГУ"
+msgstr ""
+
+# Objects : [w302621444]
+# name:be: []
+msgid "Столовая филиала УМ-141 ОАО "Трест №16""
+msgstr ""
+
+# Objects : [w41160689]
+# name:be: []
+msgid "Страйк"
+msgstr ""
+
+# Objects : [w41088660]
+# name:be: [Стралецкі капітал]
+msgid "Стрелецкий капитал"
+msgstr ""
+
+# Objects : [w226076584]
+# name:be: []
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [w38078027]
+# name:be: [Суд]
+msgid "Суд"
+msgstr ""
+
+# Objects : [w41097102]
+# name:be: [Мытня]
+msgid "Таможня"
+msgstr ""
+
+# Objects : [w41098886]
+# name:be: [Цеплапункт]
+msgid "Теплопункт"
+msgstr ""
+
+# Objects : [w41160665]
+# name:be: [Друкарня]
+msgid "Типография"
+msgstr ""
+
+# Objects : [w41102143]
+# name:be: [Гандлёвае прадпрыемства Базіс]
+msgid "Торговое предприятие Базис"
+msgstr ""
+
+# Objects : [w168247794]
+# name:be: []
+msgid "Трамвайное депо"
+msgstr ""
+
+# Objects : [w119301743]
+# name:be: [Туберкулёзны дыспансер]
+msgid "Туберкулезный диспансер"
+msgstr ""
+
+# Objects : [w38627203]
+# name:be: [ГЦ Задыяк]
+msgid "ТЦ Зодиак"
+msgstr ""
+
+# Objects : [w243456007]
+# name:be: []
+msgid "Тяговая подстанция 2"
+msgstr ""
+
+# Objects : [w220043575]
+# name:be: []
+msgid "Тяговая подстанция 3"
+msgstr ""
+
+# Objects : [w253581800]
+# name:be: []
+msgid "Умка"
+msgstr ""
+
+# Objects : [w41088704]
+# name:be: []
+msgid "Универсам "Нафтан""
+msgstr ""
+
+# Objects : [w41095903]
+# name:be: [Вучылішча алімпійскага рэзерву]
+msgid "Училище олимпийского резерва"
+msgstr ""
+
+# Objects : [w296876456]
+# name:be: []
+msgid "Филиал "Новополоцкжелезобетон" ОАО "Кричевцементношифер""
+msgstr ""
+
+# Objects : [w41141128]
+# name:be: [Хімік]
+msgid "Химик"
+msgstr ""
+
+# Objects : [w244896464]
+# name:be: [Цэнтр занятасці]
+msgid "Центр занятости"
+msgstr ""
+
+# Objects : [w41097101]
+# name:be: []
+msgid "Центр ремесел"
+msgstr ""
+
+# Objects : [w156439577]
+# name:be: [Цэнтрум]
+msgid "Центрум"
+msgstr ""
+
+# Objects : [w151265809, w151266586]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [w243917713]
+# name:be: [Эканом]
+msgid "Эконом"
+msgstr ""
+

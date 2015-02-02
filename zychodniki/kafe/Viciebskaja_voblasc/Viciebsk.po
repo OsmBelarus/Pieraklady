@@ -1,0 +1,530 @@
+# Objects : [n1158125009]
+# name:be: [Arena Deserto]
+msgid "Arena Deserto"
+msgstr ""
+
+# Objects : [n1158124773]
+# name:be: [Markfill]
+msgid "Markfill"
+msgstr ""
+
+# Objects : [n1036966528]
+# name:be: [Melody]
+msgid "Melody"
+msgstr ""
+
+# Objects : [n306066341]
+# name:be: [Аўрора]
+msgid "Аврора"
+msgstr ""
+
+# Objects : [n1094099440]
+# name:be: [Айс]
+msgid "Айс"
+msgstr ""
+
+# Objects : [n326023903]
+# name:be: [Амарыт]
+msgid "Аморит"
+msgstr ""
+
+# Objects : [n1501725495]
+# name:be: [Амстэрдам]
+msgid "Амстердам"
+msgstr ""
+
+# Objects : [n1160861782]
+# name:be: [Аранжавы апельсін]
+msgid "Апельсиновый рай"
+msgstr ""
+
+# Objects : [n324658253]
+# name:be: [Арэна-pizza]
+msgid "Арена Pizza"
+msgstr ""
+
+# Objects : [n683378193]
+# name:be: [Арэна-грыль]
+msgid "Арена Гриль"
+msgstr ""
+
+# Objects : [n1729238459]
+# name:be: []
+msgid "Арена-пицца"
+msgstr ""
+
+# Objects : [n1464339293, n338978799]
+# name:be: [Арэна-сушы]
+msgid "Арена суши"
+msgstr ""
+
+# Objects : [n1712348875]
+# name:be: []
+msgid "Арена Суши"
+msgstr ""
+
+# Objects : [n1477785744]
+# name:be: [Арт-кавярня «Маэстра»]
+msgid "арт-кафе «Маэстро»"
+msgstr ""
+
+# Objects : [n1304240434]
+# name:be: [Банкетная зала]
+msgid "Банкетный зал"
+msgstr ""
+
+# Objects : [n1276842680]
+# name:be: []
+msgid "Бар "Двинский бровар""
+msgstr ""
+
+# Objects : [n727032151]
+# name:be: [Белла Марыя]
+msgid "Белла Мария"
+msgstr ""
+
+# Objects : [n717539622]
+# name:be: [Блок]
+msgid "Блок"
+msgstr ""
+
+# Objects : [n1106635911]
+# name:be: [Бульбяная]
+msgid "Бульбяная"
+msgstr ""
+
+# Objects : [n1124825589]
+# name:be: []
+msgid "Васильки"
+msgstr ""
+
+# Objects : [n3097156925]
+# name:be: []
+msgid "Веста № 69"
+msgstr ""
+
+# Objects : [n1631293482]
+# name:be: []
+msgid "Ветразь"
+msgstr ""
+
+# Objects : [n1193015257]
+# name:be: [Вікторыя]
+msgid "Виктория"
+msgstr ""
+
+# Objects : [n806433470]
+# name:be: [Віцебская карчма]
+msgid "Витебский трактир"
+msgstr ""
+
+# Objects : [n1537013062]
+# name:be: [Гермес]
+msgid "Гермес"
+msgstr ""
+
+# Objects : [n1109040492]
+# name:be: [Горад]
+msgid "Город"
+msgstr ""
+
+# Objects : [n1157361808]
+# name:be: [Гранд-кафэ]
+msgid "Гранд Кафе"
+msgstr ""
+
+# Objects : [n1902072542]
+# name:be: []
+msgid "Граф Суворов"
+msgstr ""
+
+# Objects : [n339503582]
+# name:be: [Губернская карчма]
+msgid "Губернский трактир"
+msgstr ""
+
+# Objects : [n1260788757]
+# name:be: [Гулівер]
+msgid "Гулливер"
+msgstr ""
+
+# Objects : [n2589561221]
+# name:be: []
+msgid "Двина"
+msgstr ""
+
+# Objects : [n1043416198]
+# name:be: [Жарпіца]
+msgid "Жарпицца"
+msgstr ""
+
+# Objects : [n905861058]
+# name:be: [Журавінка]
+msgid "Журавинка"
+msgstr ""
+
+# Objects : [n1303790276]
+# name:be: [Задзвінне]
+msgid "Задвинье"
+msgstr ""
+
+# Objects : [n3033159037]
+# name:be: []
+msgid "Золотое руно"
+msgstr ""
+
+# Objects : [n339065575]
+# name:be: [Залаты дракон]
+msgid "Золотой дракон"
+msgstr ""
+
+# Objects : [n1357426383]
+# name:be: [Залаты леў]
+msgid "Золотой Лев"
+msgstr ""
+
+# Objects : [n2551902120]
+# name:be: []
+msgid "Капитал"
+msgstr ""
+
+# Objects : [n2479738141]
+# name:be: [Сталовая]
+msgid "Катюша"
+msgstr ""
+
+# Objects : [n1106651755]
+# name:be: []
+msgid "Кафе "Гоа""
+msgstr ""
+
+# Objects : [n861267354]
+# name:be: [Кавярня «ОК»]
+msgid "Кафе "ОК""
+msgstr ""
+
+# Objects : [n335777389]
+# name:be: [Кавярня «Славянская»]
+msgid "Кафе "Славянское""
+msgstr ""
+
+# Objects : [n1763616293]
+# name:be: []
+msgid "кафе «Ника»"
+msgstr ""
+
+# Objects : [n1606610370, n2480869569]
+# name:be: []
+msgid "Кафетерий"
+msgstr ""
+
+# Objects : [n1405018684]
+# name:be: [Кафетэрый Веста]
+msgid "Кафетерий Веста"
+msgstr ""
+
+# Objects : [n3098252561]
+# name:be: []
+msgid "Кафетерий № 1"
+msgstr ""
+
+# Objects : [n1360093888]
+# name:be: [Квартал]
+msgid "Квартал"
+msgstr ""
+
+# Objects : [n2925252700]
+# name:be: []
+msgid "Корчма на Покровке"
+msgstr ""
+
+# Objects : [n806433341]
+# name:be: [Кавярня]
+msgid "Кофейня"
+msgstr ""
+
+# Objects : [n3282043464]
+# name:be: []
+msgid "Кофейня-кондитерская «Бисквит»"
+msgstr ""
+
+# Objects : [n807645348]
+# name:be: []
+msgid "Кофе Ман"
+msgstr ""
+
+# Objects : [n341356195]
+# name:be: [Лідскія бліны]
+msgid "Лидские блины"
+msgstr ""
+
+# Objects : [n1319458640]
+# name:be: [Любава]
+msgid "Любава"
+msgstr ""
+
+# Objects : [n1145306916]
+# name:be: [Любімы горад]
+msgid "Любимый город"
+msgstr ""
+
+# Objects : [n775573067]
+# name:be: [Ля Ратушы]
+msgid "Ля Ратуши"
+msgstr ""
+
+# Objects : [n1733719289]
+# name:be: []
+msgid "Магнолия"
+msgstr ""
+
+# Objects : [w269837999]
+# name:be: [Макдональдс]
+msgid "МакДональдс"
+msgstr ""
+
+# Objects : [n2667597194]
+# name:be: []
+msgid "Мега"
+msgstr ""
+
+# Objects : [n1305904624]
+# name:be: [Метан+]
+msgid "Метан+"
+msgstr ""
+
+# Objects : [n2874246250]
+# name:be: []
+msgid "Мини-кафе"
+msgstr ""
+
+# Objects : [n2492158826]
+# name:be: []
+msgid "Мистраль"
+msgstr ""
+
+# Objects : [n1312612095]
+# name:be: [Маладзёжная]
+msgid "Молодежное"
+msgstr ""
+
+# Objects : [n2969422406]
+# name:be: []
+msgid "Моменто Pizza"
+msgstr ""
+
+# Objects : [n1093528829]
+# name:be: [Абжора]
+msgid "Обжора"
+msgstr ""
+
+# Objects : [n1298572201]
+# name:be: [Акцябрынушка]
+msgid "Октябринушка"
+msgstr ""
+
+# Objects : [n728893081]
+# name:be: [Востраў скарбаў]
+msgid "Остров сокровищ"
+msgstr ""
+
+# Objects : [n1599901599]
+# name:be: []
+msgid "Пассаж"
+msgstr ""
+
+# Objects : [n2492175137]
+# name:be: []
+msgid "Пейзаж"
+msgstr ""
+
+# Objects : [n3097159554, n473746354]
+# name:be: [Пяльменная]
+msgid "Пельменная"
+msgstr ""
+
+# Objects : [n1497689665]
+# name:be: [Піт-стоп]
+msgid "ПитСтоп"
+msgstr ""
+
+# Objects : [n1094894103, n1139890646]
+# name:be: [Піцэрыя]
+msgid "Пиццерия"
+msgstr ""
+
+# Objects : [n2473369592]
+# name:be: []
+msgid "Пиццерия "Presto Pizza ". Фастфуд "Funny Chicken".  "Уноси-ка суши""
+msgstr ""
+
+# Objects : [n2589603360]
+# name:be: [Піцэрыя «Даміно»]
+msgid "Пиццерия "Домино""
+msgstr ""
+
+# Objects : [n2541365344]
+# name:be: [Піцэрыя ISOLA]
+msgid "Пиццерия ISOLA"
+msgstr ""
+
+# Objects : [n2158025784]
+# name:be: []
+msgid "Планета Pizza"
+msgstr ""
+
+# Objects : [n1357426387]
+# name:be: [Планета-бюргер]
+msgid "Планета бюргер"
+msgstr ""
+
+# Objects : [n3169992674]
+# name:be: []
+msgid "Придвинье"
+msgstr ""
+
+# Objects : [n1238734780, n2485339754]
+# name:be: [Пчала]
+msgid "Пчела"
+msgstr ""
+
+# Objects : [n1639215893]
+# name:be: []
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [n1356008413]
+# name:be: [рэстаран «Кантынент»]
+msgid "ресторан «Континент»"
+msgstr ""
+
+# Objects : [n1631293480]
+# name:be: []
+msgid "ресторан «Лучёса»"
+msgstr ""
+
+# Objects : [n930010233]
+# name:be: [Рудакова]
+msgid "Рудаково"
+msgstr ""
+
+# Objects : [n3097158999, n3097243848, n3097245823]
+# name:be: []
+msgid "рюмочная"
+msgstr ""
+
+# Objects : [n727032154]
+# name:be: [Паўночная сталіца]
+msgid "Северная столица"
+msgstr ""
+
+# Objects : [n1201957923]
+# name:be: [Славяначка]
+msgid "Славяночка"
+msgstr ""
+
+# Objects : [n1103802339]
+# name:be: []
+msgid "Собрание"
+msgstr ""
+
+# Objects : [n1215715418]
+# name:be: [Сонейка]
+msgid "Солнышко"
+msgstr ""
+
+# Objects : [n2293950018]
+# name:be: [Спрынт]
+msgid "Спринт"
+msgstr ""
+
+# Objects : [n2398661130, w167802518, w241240670]
+# name:be: []
+msgid "столовая"
+msgstr ""
+
+# Objects : [n1250896039, n1255604843, n1398220515, n1398264251, n1411586410, n2361961160, n2551902121, n2905121413, n2967829351, n3133367436, w172024234, w27904344]
+# name:be: [Сталовая]
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n2831512273]
+# name:be: []
+msgid "столовая БТК"
+msgstr ""
+
+# Objects : [w37763354]
+# name:be: [Сталовая ВДМУ]
+msgid "Столовая ВГМУ"
+msgstr ""
+
+# Objects : [n1835088502]
+# name:be: []
+msgid "Столовая ВГТУ"
+msgstr ""
+
+# Objects : [n2342436102]
+# name:be: []
+msgid "Столовая ВГУ"
+msgstr ""
+
+# Objects : [w30193303]
+# name:be: [Сталовая Віцебскэнерга]
+msgid "Столовая Витебскэнерго"
+msgstr ""
+
+# Objects : [n2401994121]
+# name:be: []
+msgid "Сябрына"
+msgstr ""
+
+# Objects : [n903715310]
+# name:be: [Талыш]
+msgid "Талыш"
+msgstr ""
+
+# Objects : [n1820607793, n442951340]
+# name:be: [У Ганны]
+msgid "У Ганны"
+msgstr ""
+
+# Objects : [n867979214]
+# name:be: [У Ганны-2]
+msgid "У Ганны-2"
+msgstr ""
+
+# Objects : [n331012804]
+# name:be: [У Кліма]
+msgid "У Клима"
+msgstr ""
+
+# Objects : [w277989983]
+# name:be: []
+msgid "Хутка-смачна"
+msgstr ""
+
+# Objects : [w172610775, w172610776, w172610777, w172610778, w172610779, w172610780, w96629779]
+# name:be: [Хутка-Смачна]
+msgid "Хутка-Смачна"
+msgstr ""
+
+# Objects : [n3097248152]
+# name:be: []
+msgid "Чебуречная"
+msgstr ""
+
+# Objects : [n739410899]
+# name:be: [Шварцвальд]
+msgid "Шварцвальд"
+msgstr ""
+
+# Objects : [n806433640]
+# name:be: []
+msgid "Эйлат"
+msgstr ""
+
+# Objects : [n1277995897]
+# name:be: [Паўднёвае]
+msgid "Южное"
+msgstr ""
+

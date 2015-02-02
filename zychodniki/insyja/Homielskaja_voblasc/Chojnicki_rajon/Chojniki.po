@@ -1,0 +1,270 @@
+# Objects : [n275181444]
+# name:be: []
+msgid "АБЗ ДЭУ 155"
+msgstr ""
+
+# Objects : [w260411936]
+# name:be: []
+msgid "Автодром"
+msgstr ""
+
+# Objects : [n2482312782]
+# name:be: []
+msgid "башня"
+msgstr ""
+
+# Objects : [w234153647, w259707267, w259707269]
+# name:be: []
+msgid "Болото"
+msgstr ""
+
+# Objects : [n2480042771]
+# name:be: []
+msgid "В.И.Ленин"
+msgstr ""
+
+# Objects : [w259040646]
+# name:be: []
+msgid "Гаражи автошколы"
+msgstr ""
+
+# Objects : [w260432143]
+# name:be: []
+msgid "Гаражи ТБЗ"
+msgstr ""
+
+# Objects : [n2766736573]
+# name:be: []
+msgid "Гостиница Журавинка"
+msgstr ""
+
+# Objects : [n2707941729]
+# name:be: [Група па грамадзянству і міграціі]
+msgid "Группа по гражданству и миграции"
+msgstr ""
+
+# Objects : [w259033118]
+# name:be: []
+msgid "Депортамент охраны"
+msgstr ""
+
+# Objects : [w260086621]
+# name:be: []
+msgid "ДОК"
+msgstr ""
+
+# Objects : [w260411938]
+# name:be: []
+msgid "ДЭУ 45"
+msgstr ""
+
+# Objects : [w260411939]
+# name:be: []
+msgid "ЖБИ"
+msgstr ""
+
+# Objects : [w260438138]
+# name:be: []
+msgid "Завод "Салют""
+msgstr ""
+
+# Objects : [w234153628, w260407366, w260407367]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w260419106]
+# name:be: []
+msgid "Комбикормовый завод"
+msgstr ""
+
+# Objects : [w278378152]
+# name:be: []
+msgid "ЛЕСХОЗ"
+msgstr ""
+
+# Objects : [w259704592]
+# name:be: []
+msgid "Магазин "Ритуал""
+msgstr ""
+
+# Objects : [w234153629]
+# name:be: []
+msgid "Малишевское кладбище"
+msgstr ""
+
+# Objects : [w260411940]
+# name:be: []
+msgid "Маслосырзавод"
+msgstr ""
+
+# Objects : [n2788683188, w240461501]
+# name:be: [Музей]
+msgid "Музей"
+msgstr ""
+
+# Objects : [w260419107]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [n2707941730]
+# name:be: [Аддзел унутраных спраў]
+msgid "Отдел внутренних дел"
+msgstr ""
+
+# Objects : [n2707941731]
+# name:be: []
+msgid "Отдел принудительного исполнения Хойникского района"
+msgstr ""
+
+# Objects : [n2659202542]
+# name:be: []
+msgid "Памятник воинам-интернационалистам"
+msgstr ""
+
+# Objects : [n2643709110]
+# name:be: []
+msgid "Памятник воинам-освободителям"
+msgstr ""
+
+# Objects : [n2658988246]
+# name:be: []
+msgid "Памятник жертвам нацизма"
+msgstr ""
+
+# Objects : [n2658988247]
+# name:be: []
+msgid "Памятник пострадавшим от последствий на ЧАЭС"
+msgstr ""
+
+# Objects : [w259157700]
+# name:be: []
+msgid "Парники"
+msgstr ""
+
+# Objects : [w260411941]
+# name:be: []
+msgid "ПМС"
+msgstr ""
+
+# Objects : [w260086230]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w240268130]
+# name:be: []
+msgid "Ремонтный завод"
+msgstr ""
+
+# Objects : [w260409601]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2707941732]
+# name:be: []
+msgid "Рэдакцыя раённай газеты "Хойніцкія навіны""
+msgstr ""
+
+# Objects : [w240257635]
+# name:be: []
+msgid "РЭС Филиал РУП "Гомельэнерго""
+msgstr ""
+
+# Objects : [w240257636]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [w240257637]
+# name:be: []
+msgid "Сельхозхимия"
+msgstr ""
+
+# Objects : [w260451956]
+# name:be: []
+msgid "Склады РайПО"
+msgstr ""
+
+# Objects : [w240461505]
+# name:be: []
+msgid "стадион"
+msgstr ""
+
+# Objects : [w264432145]
+# name:be: []
+msgid "Стадион"
+msgstr ""
+
+# Objects : [n2707941733]
+# name:be: [Суд Хойніцкага раёна]
+msgid "Суд Хойникского района"
+msgstr ""
+
+# Objects : [n2651559451]
+# name:be: []
+msgid "Танк Т 34-85"
+msgstr ""
+
+# Objects : [w260086624]
+# name:be: []
+msgid "ТБЗ"
+msgstr ""
+
+# Objects : [w260432157]
+# name:be: []
+msgid "Территория ПГРЭЗ"
+msgstr ""
+
+# Objects : [w260884549]
+# name:be: []
+msgid "Терртория консервного завода(заброшена)"
+msgstr ""
+
+# Objects : [w260086626]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [w259033119, w259703097]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [n2481972558]
+# name:be: []
+msgid "фонтан"
+msgstr ""
+
+# Objects : [n1778401687]
+# name:be: [Хойнікі]
+msgid "Хойники"
+msgstr ""
+
+# Objects : [w260411943]
+# name:be: []
+msgid "Хойникский автопарк"
+msgstr ""
+
+# Objects : [n2707941735]
+# name:be: [Хойніцкі раённы выканаўчы камітэт]
+msgid "Хойникский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n2707941734]
+# name:be: [Хойніцкі раённы Савет дэпутатаў]
+msgid "Хойникский районный Совет депутатов"
+msgstr ""
+
+# Objects : [w259034805]
+# name:be: []
+msgid "ХПУ"
+msgstr ""
+
+# Objects : [w288623937]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+

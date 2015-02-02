@@ -1,0 +1,170 @@
+# Objects : [n500168023, n500168026]
+# name:be: []
+msgid "1 Ру"
+msgstr ""
+
+# Objects : [n790036300, n790036327]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n581996254, n581996306, n790036207]
+# name:be: [Вішнеўка]
+msgid "Вишневка"
+msgstr ""
+
+# Objects : [n790036212, n790036282, n790036310, n790036338]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n498464032, n498464033]
+# name:be: []
+msgid "Гпту-72"
+msgstr ""
+
+# Objects : [n581996297, n581996300]
+# name:be: []
+msgid "Детский Городок"
+msgstr ""
+
+# Objects : [n500168028, n500168031]
+# name:be: []
+msgid "Ззжб-6"
+msgstr ""
+
+# Objects : [n1243916697, n1243916699, n581996212, n790036311]
+# name:be: []
+msgid "Кдп "Молодежный""
+msgstr ""
+
+# Objects : [n790036369]
+# name:be: []
+msgid "кинотеатр "Зорка-Венера""
+msgstr ""
+
+# Objects : [n790036286, n790036312]
+# name:be: []
+msgid "магазин "Кристалл""
+msgstr ""
+
+# Objects : [n581996295, n581996327]
+# name:be: []
+msgid "магазин "Шахтер""
+msgstr ""
+
+# Objects : [n786901362, n786901370]
+# name:be: []
+msgid "магазин "Юбилейный""
+msgstr ""
+
+# Objects : [n671374436, n671374442]
+# name:be: []
+msgid "Меховая фабрика"
+msgstr ""
+
+# Objects : [n790036240, n790036368]
+# name:be: []
+msgid "микрорайон №12"
+msgstr ""
+
+# Objects : [n1243916694, n1243916704]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [n1264705522, n790036354, n790036386]
+# name:be: [Набярэжная вуліца]
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [n790036230, n790036258, n790036288, n790036314]
+# name:be: []
+msgid "Насосная-2"
+msgstr ""
+
+# Objects : [n581996226]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [n790036357, n790036388]
+# name:be: [Паліклініка]
+msgid "поликлиника"
+msgstr ""
+
+# Objects : [n1243916696, n1243916705, n581996243, n581996247]
+# name:be: []
+msgid "проспект Мира"
+msgstr ""
+
+# Objects : [n1244609753, n959140419]
+# name:be: [Рынак]
+msgid "рынок"
+msgstr ""
+
+# Objects : [n498464030, n498464031]
+# name:be: []
+msgid "стадион "Строитель""
+msgstr ""
+
+# Objects : [n790036227, n790036257]
+# name:be: []
+msgid "стадион "Шахтер""
+msgstr ""
+
+# Objects : [n581996290, n581996293]
+# name:be: [Тэхнікум]
+msgid "техникум"
+msgstr ""
+
+# Objects : [n1243916709, n790036340]
+# name:be: []
+msgid "Торговый Центр"
+msgstr ""
+
+# Objects : [n1243916702]
+# name:be: []
+msgid "узел связи"
+msgstr ""
+
+# Objects : [n1244153209, n1244153210]
+# name:be: []
+msgid "ул. Б. Шахтёров"
+msgstr ""
+
+# Objects : [n1243916701]
+# name:be: []
+msgid "ул. Октябрьская-2"
+msgstr ""
+
+# Objects : [n1243916706, n790036213]
+# name:be: [вуліца Заслонава]
+msgid "улица Заслонова"
+msgstr ""
+
+# Objects : [n1243916703, n1243916708]
+# name:be: []
+msgid "универсам"
+msgstr ""
+
+# Objects : [n790036218, n790036370]
+# name:be: [Хлебазавод]
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n790036217, n790036242]
+# name:be: []
+msgid "Центр Детского Творчества"
+msgstr ""
+
+# Objects : [n1243916698, n1243916707]
+# name:be: []
+msgid "Чижевичи"
+msgstr ""
+
+# Objects : [n790036226, n790036256]
+# name:be: [Школа №5]
+msgid "школа №5"
+msgstr ""
+

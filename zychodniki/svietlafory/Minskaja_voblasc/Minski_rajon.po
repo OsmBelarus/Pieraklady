@@ -1,0 +1,940 @@
+# Objects : [n3190770348]
+# name:be: []
+msgid ".."
+msgstr ""
+
+# Objects : [n1237044418]
+# name:be: []
+msgid "1ая Минская Птицефабрика"
+msgstr ""
+
+# Objects : [n767183345, n767183415, n767183682, n767184162]
+# name:be: [1-я брама]
+msgid "1-е ворота"
+msgstr ""
+
+# Objects : [n767183717, n767183846, n767183870]
+# name:be: [2-я брама]
+msgid "2-е ворота"
+msgstr ""
+
+# Objects : [n767183416, n767183532]
+# name:be: []
+msgid "6-й км"
+msgstr ""
+
+# Objects : [n767183343]
+# name:be: [Аўтарынак]
+msgid "Авторынок"
+msgstr ""
+
+# Objects : [n439285504, n439285519, n439285530]
+# name:be: []
+msgid "аг. Лесной"
+msgstr ""
+
+# Objects : [n1782647199]
+# name:be: []
+msgid "Аксаковщина"
+msgstr ""
+
+# Objects : [n1782647263]
+# name:be: []
+msgid "Аксаковщина Поворот"
+msgstr ""
+
+# Objects : [n767183628, n767184148]
+# name:be: []
+msgid "база "Коммунальник""
+msgstr ""
+
+# Objects : [n2124820097, n2426337896]
+# name:be: []
+msgid "Байдаки"
+msgstr ""
+
+# Objects : [n2805421773, n2805421774]
+# name:be: []
+msgid "Белица"
+msgstr ""
+
+# Objects : [n2728719044, n2728719045]
+# name:be: []
+msgid "Белые Лужи"
+msgstr ""
+
+# Objects : [n2036181868, n642264150]
+# name:be: []
+msgid "Богатырёво"
+msgstr ""
+
+# Objects : [n442889821, n442889824]
+# name:be: [Баравая]
+msgid "Боровая"
+msgstr ""
+
+# Objects : [n439285470]
+# name:be: [Барауляны  -2]
+msgid "Боровляны -2"
+msgstr ""
+
+# Objects : [n959616238]
+# name:be: [Бараўляны-2]
+msgid "Боровляны-2"
+msgstr ""
+
+# Objects : [n439285474, n439285480]
+# name:be: []
+msgid "Боровляны 6"
+msgstr ""
+
+# Objects : [n1317884036]
+# name:be: [Бараўцы]
+msgid "Боровцы"
+msgstr ""
+
+# Objects : [n2805421775, n2805421776]
+# name:be: []
+msgid "Вишневка"
+msgstr ""
+
+# Objects : [n1116664904, n1384479084]
+# name:be: [Вішнёўка]
+msgid "Вишнёвка"
+msgstr ""
+
+# Objects : [n1195275762, n1195275768]
+# name:be: [Ваенны гарадок]
+msgid "Военный городок"
+msgstr ""
+
+# Objects : [n827868289]
+# name:be: []
+msgid "Волма"
+msgstr ""
+
+# Objects : [n1359186738]
+# name:be: []
+msgid "Волмянский шлях"
+msgstr ""
+
+# Objects : [n1116664911, n1116664914]
+# name:be: []
+msgid "Вяча"
+msgstr ""
+
+# Objects : [n1272926862]
+# name:be: []
+msgid "Глебковка"
+msgstr ""
+
+# Objects : [n1415165106]
+# name:be: [Галынка]
+msgid "Голынка"
+msgstr ""
+
+# Objects : [n2412839160, n2412839165]
+# name:be: []
+msgid "Горани"
+msgstr ""
+
+# Objects : [n1264038953, n1272926866]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [n1264038960]
+# name:be: [Гарадзішча]
+msgid "Городище дачи"
+msgstr ""
+
+# Objects : [n1272926799, n767183660]
+# name:be: [Гарадок]
+msgid "Городок"
+msgstr ""
+
+# Objects : [n1237030140]
+# name:be: []
+msgid "Городок Большевик"
+msgstr ""
+
+# Objects : [n442019997, n442019998]
+# name:be: []
+msgid "госпиталь ВОВ"
+msgstr ""
+
+# Objects : [n2828707903, n2828707904]
+# name:be: []
+msgid "Гузгаловка"
+msgstr ""
+
+# Objects : [n767183849]
+# name:be: [Дачы]
+msgid "дачи"
+msgstr ""
+
+# Objects : [n1015986104]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
+# Objects : [n442019996, n442019999]
+# name:be: [Дзіцячая паліклініка]
+msgid "детская поликлиника"
+msgstr ""
+
+# Objects : [n767088356, n767088363]
+# name:be: []
+msgid "Детский озд. лагерь "Лидер""
+msgstr ""
+
+# Objects : [n992664415, n992664417]
+# name:be: []
+msgid "Детский Онкологический Центр"
+msgstr ""
+
+# Objects : [n1840696616, n1840696622]
+# name:be: []
+msgid "Дофаренция"
+msgstr ""
+
+# Objects : [n3165707648]
+# name:be: []
+msgid "Дроздово"
+msgstr ""
+
+# Objects : [n2434961725]
+# name:be: []
+msgid "Дружба Оздоровительный лагерь"
+msgstr ""
+
+# Objects : [n1286656869, n1286656899]
+# name:be: []
+msgid "Дубовляны"
+msgstr ""
+
+# Objects : [n767184117]
+# name:be: []
+msgid "Ельница"
+msgstr ""
+
+# Objects : [n817806227, n817806264]
+# name:be: []
+msgid "Ефимово"
+msgstr ""
+
+# Objects : [n275320176]
+# name:be: []
+msgid "ж/д ст. Колодищи"
+msgstr ""
+
+# Objects : [n2011156260]
+# name:be: []
+msgid "Жуковка"
+msgstr ""
+
+# Objects : [n1272926824]
+# name:be: []
+msgid "Жуков Луг"
+msgstr ""
+
+# Objects : [n1272926809]
+# name:be: []
+msgid "Жуков Луг - 1"
+msgstr ""
+
+# Objects : [n1272926812, n1649059342]
+# name:be: []
+msgid "Жуков Луг - 2"
+msgstr ""
+
+# Objects : [n767183763, n767183821]
+# name:be: []
+msgid "Завод "Вторчермет""
+msgstr ""
+
+# Objects : [n767183806]
+# name:be: []
+msgid "Западное кладбище"
+msgstr ""
+
+# Objects : [n437247670]
+# name:be: []
+msgid "Зелёный Бор"
+msgstr ""
+
+# Objects : [n767183446]
+# name:be: [Кар’ер]
+msgid "Карьер"
+msgstr ""
+
+# Objects : [n1264039043]
+# name:be: []
+msgid "Кашинского"
+msgstr ""
+
+# Objects : [n767183429, n767183718]
+# name:be: []
+msgid "Кожзавод"
+msgstr ""
+
+# Objects : [n1098160581, n1098160582]
+# name:be: []
+msgid "Колодищи-2"
+msgstr ""
+
+# Objects : [n2645430129]
+# name:be: [Копішча]
+msgid "Копище"
+msgstr ""
+
+# Objects : [n1272926829]
+# name:be: []
+msgid "Королёв Стан - 1"
+msgstr ""
+
+# Objects : [n1272926801]
+# name:be: []
+msgid "Королёв Стан - 2"
+msgstr ""
+
+# Objects : [n1320757732]
+# name:be: []
+msgid "Косынь-1"
+msgstr ""
+
+# Objects : [n767183721, n767183957]
+# name:be: [Катэджы]
+msgid "Коттеджи"
+msgstr ""
+
+# Objects : [n817806250, n817806292]
+# name:be: [Ксаверава]
+msgid "Ксаверово"
+msgstr ""
+
+# Objects : [n2036182583, n2927434877, n2927434886, n642264151]
+# name:be: []
+msgid "Культторг"
+msgstr ""
+
+# Objects : [n842670294]
+# name:be: []
+msgid "Кэмпинг"
+msgstr ""
+
+# Objects : [n1271427203, n832615043]
+# name:be: [Лясная]
+msgid "Лесная"
+msgstr ""
+
+# Objects : [n2814834111]
+# name:be: []
+msgid "Луговая Слобода"
+msgstr ""
+
+# Objects : [n1317884044, n642264155, n767183472, n767183625]
+# name:be: [Магазін]
+msgid "магазин"
+msgstr ""
+
+# Objects : [n1692358230]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n767183377]
+# name:be: []
+msgid "магазин "стройматериалы""
+msgstr ""
+
+# Objects : [n1286634326, n1840685902]
+# name:be: []
+msgid "Малиновка"
+msgstr ""
+
+# Objects : [n1874313852, n378269722]
+# name:be: []
+msgid "Марьяливо"
+msgstr ""
+
+# Objects : [n767183509]
+# name:be: []
+msgid "Михановичи (кладбище)"
+msgstr ""
+
+# Objects : [n767183703, n767183837]
+# name:be: [Мост]
+msgid "мост"
+msgstr ""
+
+# Objects : [n842670296]
+# name:be: []
+msgid "Мотель"
+msgstr ""
+
+# Objects : [n2036176161]
+# name:be: []
+msgid "Музей народной архитектуры и быта"
+msgstr ""
+
+# Objects : [n2822181418, n2822181419]
+# name:be: []
+msgid "Наука"
+msgstr ""
+
+# Objects : [n1320705594]
+# name:be: []
+msgid "Нелидовичи-1"
+msgstr ""
+
+# Objects : [n3009900836, n3009900837]
+# name:be: []
+msgid "НИИ"
+msgstr ""
+
+# Objects : [n442080424]
+# name:be: []
+msgid "НИИ Онкологии"
+msgstr ""
+
+# Objects : [n1551816612, n2801176721]
+# name:be: []
+msgid "Новая Веска"
+msgstr ""
+
+# Objects : [n2801176722, n2801176723]
+# name:be: []
+msgid "Новоселье"
+msgstr ""
+
+# Objects : [n767081436, n767184075]
+# name:be: []
+msgid "Новый двор"
+msgstr ""
+
+# Objects : [n437965807, n441189184, n441189188]
+# name:be: [Абласная бальніца]
+msgid "Областная больница"
+msgstr ""
+
+# Objects : [n767183641, n767183843]
+# name:be: []
+msgid "Обчак дер."
+msgstr ""
+
+# Objects : [n767183961]
+# name:be: []
+msgid "оздоровительный Центр Ждановичи"
+msgstr ""
+
+# Objects : [n1692362169, n642264148]
+# name:be: [Азярцо]
+msgid "Озерцо"
+msgstr ""
+
+# Objects : [n2728719046, n2728719047]
+# name:be: []
+msgid "Околица"
+msgstr ""
+
+# Objects : [n1367053815, n1367053819]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [n736868962]
+# name:be: []
+msgid "Оптик"
+msgstr ""
+
+# Objects : [n1320705531, n1320705621]
+# name:be: [Восава]
+msgid "Осово"
+msgstr ""
+
+# Objects : [n2724928167]
+# name:be: []
+msgid "Остановка служебного автобуса"
+msgstr ""
+
+# Objects : [n1233546237]
+# name:be: []
+msgid "П. Аннополь"
+msgstr ""
+
+# Objects : [n1116963419]
+# name:be: [Паперня]
+msgid "Паперня"
+msgstr ""
+
+# Objects : [n1317884034]
+# name:be: []
+msgid "Паперня 1"
+msgstr ""
+
+# Objects : [n1317884026, n1317884050]
+# name:be: []
+msgid "Паперня-2"
+msgstr ""
+
+# Objects : [n767088370]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [n1272926813]
+# name:be: []
+msgid "переезд"
+msgstr ""
+
+# Objects : [n1272926879]
+# name:be: []
+msgid "Переезд"
+msgstr ""
+
+# Objects : [n1840661781, n767183559]
+# name:be: [Скрыжаванне, Скрыжаваньне]
+msgid "Перекресток"
+msgstr ""
+
+# Objects : [n499482690, n499482691]
+# name:be: []
+msgid "Петровский переулок"
+msgstr ""
+
+# Objects : [n1840699433, n808568170]
+# name:be: []
+msgid "пов. Вербицкие"
+msgstr ""
+
+# Objects : [n1272926854, n2349000412]
+# name:be: []
+msgid "поворот Колодищи"
+msgstr ""
+
+# Objects : [n1916151086]
+# name:be: []
+msgid "поворот На. Шепели"
+msgstr ""
+
+# Objects : [n1116664918, n1116664932]
+# name:be: [Паварот на Вішнёўку]
+msgid "поворот на Вишневку"
+msgstr ""
+
+# Objects : [n767183465, n767183560]
+# name:be: []
+msgid "поворот на Глебколвичи"
+msgstr ""
+
+# Objects : [n767183340, n767183352]
+# name:be: []
+msgid "поворот на Дегтяревку"
+msgstr ""
+
+# Objects : [n3047195733, n3161371443]
+# name:be: []
+msgid "Поворот на Дегтяревку"
+msgstr ""
+
+# Objects : [n767183714, n767184147]
+# name:be: []
+msgid "поворот на Колодищи"
+msgstr ""
+
+# Objects : [n2424692031]
+# name:be: []
+msgid "Поворот на Колодищи"
+msgstr ""
+
+# Objects : [n2728720137, n2728720138]
+# name:be: []
+msgid "Поворот на Ляды"
+msgstr ""
+
+# Objects : [n439285472]
+# name:be: [Паварот на Малінаўку]
+msgid "поворот на Малиновку"
+msgstr ""
+
+# Objects : [n1947208812]
+# name:be: []
+msgid "поворот на Мачулищи"
+msgstr ""
+
+# Objects : [n1944951108]
+# name:be: []
+msgid "Поворот на Мачулищи"
+msgstr ""
+
+# Objects : [n767183564, n767183567]
+# name:be: []
+msgid "поворот на Новый двор"
+msgstr ""
+
+# Objects : [n767183484]
+# name:be: []
+msgid "поворот на Обчак"
+msgstr ""
+
+# Objects : [n2805421781, n2805421782]
+# name:be: []
+msgid "Поворот на Пятевщину"
+msgstr ""
+
+# Objects : [n1116960036, n1116960417]
+# name:be: []
+msgid "поворот на Рахманьки"
+msgstr ""
+
+# Objects : [n1378089747]
+# name:be: []
+msgid "поворот на Сельхоз посёлок "Большевик""
+msgstr ""
+
+# Objects : [n767183609]
+# name:be: []
+msgid "поворот на Сосны"
+msgstr ""
+
+# Objects : [n1630532014, n1630532017]
+# name:be: []
+msgid "поворот на Чуриловичи"
+msgstr ""
+
+# Objects : [n2881876178]
+# name:be: []
+msgid "поворот на Шабаны"
+msgstr ""
+
+# Objects : [n767183595]
+# name:be: []
+msgid "поворот Обчак"
+msgstr ""
+
+# Objects : [n1384949685, n2728719050]
+# name:be: [пав. Узбор'е]
+msgid "поворот Узборье"
+msgstr ""
+
+# Objects : [n2036170036, n642264149]
+# name:be: []
+msgid "Поворт к музею"
+msgstr ""
+
+# Objects : [n1233501593]
+# name:be: [Падзёркі]
+msgid "Подзёрки"
+msgstr ""
+
+# Objects : [n2801176729, n2801176730]
+# name:be: []
+msgid "Подсады"
+msgstr ""
+
+# Objects : [n2146882990]
+# name:be: []
+msgid "Полигон"
+msgstr ""
+
+# Objects : [n767183466, n767183825, n767184066]
+# name:be: []
+msgid "пос. Гатово"
+msgstr ""
+
+# Objects : [n767183412, n767183769]
+# name:be: []
+msgid "пос. Озерище"
+msgstr ""
+
+# Objects : [n767183600]
+# name:be: []
+msgid "пос. Стайки"
+msgstr ""
+
+# Objects : [n1402513540]
+# name:be: [Юбілейны]
+msgid "пос. Юбилейный"
+msgstr ""
+
+# Objects : [n439285523]
+# name:be: []
+msgid "Посёлок Лесной"
+msgstr ""
+
+# Objects : [n767183353, n767183831]
+# name:be: []
+msgid "Пост ГАИ"
+msgstr ""
+
+# Objects : [n1449885932, n1449885944]
+# name:be: [Прывакзальная вуліца]
+msgid "Привокзальная улица"
+msgstr ""
+
+# Objects : [n817806216, n817806286]
+# name:be: [Прывольны]
+msgid "Привольный"
+msgstr ""
+
+# Objects : [n1359186739, n275320174, n814012858]
+# name:be: []
+msgid "Путейская улица"
+msgstr ""
+
+# Objects : [n1402513554, n612218713, n767183439, n767184087]
+# name:be: []
+msgid "Путепровод"
+msgstr ""
+
+# Objects : [n441157225, n441157227, n519909600]
+# name:be: [Радыёцэнтр]
+msgid "Радиоцентр"
+msgstr ""
+
+# Objects : [n1916151084]
+# name:be: []
+msgid "Радуга"
+msgstr ""
+
+# Objects : [n439285493, n439285496]
+# name:be: []
+msgid "Районная больница"
+msgstr ""
+
+# Objects : [n2728719048, n2728719049]
+# name:be: []
+msgid "Раубичи"
+msgstr ""
+
+# Objects : [n1426157093]
+# name:be: []
+msgid "С/т Вишневка"
+msgstr ""
+
+# Objects : [n1262262354]
+# name:be: []
+msgid "С/т Зелёный Бор"
+msgstr ""
+
+# Objects : [n476263404]
+# name:be: []
+msgid "Садовая"
+msgstr ""
+
+# Objects : [n767183793]
+# name:be: []
+msgid "Селицкого, 11"
+msgstr ""
+
+# Objects : [n1402513552]
+# name:be: []
+msgid "Сеница (Церковь)"
+msgstr ""
+
+# Objects : [n1402513539]
+# name:be: []
+msgid "Сенница"
+msgstr ""
+
+# Objects : [n1402513530, n3057884416]
+# name:be: []
+msgid "Сенница (Церковь)"
+msgstr ""
+
+# Objects : [n489465400]
+# name:be: []
+msgid "Сосновый"
+msgstr ""
+
+# Objects : [n767183508, n767183741]
+# name:be: []
+msgid "спорткомплекс"
+msgstr ""
+
+# Objects : [n2894386611, n767088367]
+# name:be: []
+msgid "ст. Ждановичи"
+msgstr ""
+
+# Objects : [n1938799528]
+# name:be: []
+msgid "ст. Радошковичи"
+msgstr ""
+
+# Objects : [n1170602663, n1272926901]
+# name:be: [Старына]
+msgid "Старина"
+msgstr ""
+
+# Objects : [n767183558, n767183708]
+# name:be: [Будаўнічы рынак]
+msgid "Строительный рынок"
+msgstr ""
+
+# Objects : [n767183808]
+# name:be: []
+msgid "стройматериалы магазин"
+msgstr ""
+
+# Objects : [n1306646370]
+# name:be: [Сухарукія]
+msgid "Сухорукие"
+msgstr ""
+
+# Objects : [n378274681]
+# name:be: []
+msgid "Танк"
+msgstr ""
+
+# Objects : [n767485283]
+# name:be: []
+msgid "Тарасово"
+msgstr ""
+
+# Objects : [n767485924]
+# name:be: []
+msgid "Тарасово-1"
+msgstr ""
+
+# Objects : [n442845723]
+# name:be: []
+msgid "Тубдиспансер"
+msgstr ""
+
+# Objects : [n1686374240, n1686374279]
+# name:be: []
+msgid "Ул. Строителей"
+msgstr ""
+
+# Objects : [n1349700345, n1349700346]
+# name:be: []
+msgid "ул. Хвойная"
+msgstr ""
+
+# Objects : [n1363867487, n959616239]
+# name:be: []
+msgid "улица 40 лет Победы"
+msgstr ""
+
+# Objects : [n499482687, n499482689]
+# name:be: [Мінская]
+msgid "улица Геофизика"
+msgstr ""
+
+# Objects : [n767183678]
+# name:be: [вуліца Міру]
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [n803817102, n803817103]
+# name:be: [вуліца К. Астрожскага]
+msgid "улица Острожского"
+msgstr ""
+
+# Objects : [n1946094137, n662421707]
+# name:be: []
+msgid "Урожайная"
+msgstr ""
+
+# Objects : [n2801176739]
+# name:be: []
+msgid "Учгаз"
+msgstr ""
+
+# Objects : [n439285483, n439285488]
+# name:be: [Вучгас]
+msgid "Учхоз"
+msgstr ""
+
+# Objects : [n767183759, n767184085]
+# name:be: []
+msgid "Уютный"
+msgstr ""
+
+# Objects : [n767183424, n767183624]
+# name:be: []
+msgid "Уютный-1"
+msgstr ""
+
+# Objects : [n523137023]
+# name:be: []
+msgid "филиал БГУ"
+msgstr ""
+
+# Objects : [n965543004, n965543005]
+# name:be: []
+msgid "Хатежино"
+msgstr ""
+
+# Objects : [n2200300405]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n767183529]
+# name:be: []
+msgid "Цнянка-1"
+msgstr ""
+
+# Objects : [n767183359, n767183365]
+# name:be: [Цнянка-2]
+msgid "Цнянка-2"
+msgstr ""
+
+# Objects : [n767183817]
+# name:be: [Цнянка]
+msgid "Цнянка-3"
+msgstr ""
+
+# Objects : [n767183540]
+# name:be: [Чыжоўскія могілкі]
+msgid "Чижовское кладбище"
+msgstr ""
+
+# Objects : [n1420513642, n1706189222]
+# name:be: [Чурылавічы]
+msgid "Чуриловичи"
+msgstr ""
+
+# Objects : [n1916151085]
+# name:be: []
+msgid "Шепели"
+msgstr ""
+
+# Objects : [n1170156133, n1170156142, n767082189, n767088355, n767183687, n959616240, n973739241]
+# name:be: [Школа]
+msgid "школа"
+msgstr ""
+
+# Objects : [n1956793157, n1956793222]
+# name:be: []
+msgid "Щитомиричи"
+msgstr ""
+
+# Objects : [n1598869156]
+# name:be: []
+msgid "Экспобел"
+msgstr ""
+
+# Objects : [n378284231, n442889826]
+# name:be: [Экспацэнтр]
+msgid "Экспоцентр"
+msgstr ""
+
+# Objects : [n1271427197]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+
+# Objects : [n1272926840, n1272926883]
+# name:be: [Юхнаўка]
+msgid "Юхновка"
+msgstr ""
+
+# Objects : [n767183550, n767183835]
+# name:be: [Якубовічы]
+msgid "Якубовичи"
+msgstr ""
+

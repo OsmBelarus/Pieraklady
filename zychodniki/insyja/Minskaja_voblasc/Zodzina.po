@@ -1,0 +1,185 @@
+# Objects : [n1588286743]
+# name:be: []
+msgid "Автоматическая мойка"
+msgstr ""
+
+# Objects : [n3184135362]
+# name:be: []
+msgid "Банкомат"
+msgstr ""
+
+# Objects : [w125733238]
+# name:be: []
+msgid "БелАЗ"
+msgstr ""
+
+# Objects : [n306065380]
+# name:be: []
+msgid "Больница Скорой Помощи"
+msgstr ""
+
+# Objects : [n306065477]
+# name:be: []
+msgid "Верасок"
+msgstr ""
+
+# Objects : [n306065369]
+# name:be: []
+msgid "Воданап Башня"
+msgstr ""
+
+# Objects : [n3184142095]
+# name:be: []
+msgid "Гармония"
+msgstr ""
+
+# Objects : [n2446010713]
+# name:be: []
+msgid "Городской пляж"
+msgstr ""
+
+# Objects : [n2766736665]
+# name:be: []
+msgid "Гостиница Раница"
+msgstr ""
+
+# Objects : [n306065533]
+# name:be: []
+msgid "Дк Белаз"
+msgstr ""
+
+# Objects : [n1510029875]
+# name:be: []
+msgid "Дом Культуры "Ровесник""
+msgstr ""
+
+# Objects : [n3184134844]
+# name:be: []
+msgid "Жилой дом"
+msgstr ""
+
+# Objects : [n306065454]
+# name:be: [Жодзіна]
+msgid "Жодино"
+msgstr ""
+
+# Objects : [n2446009995]
+# name:be: []
+msgid "Жодинская ТЭЦ"
+msgstr ""
+
+# Objects : [n3184138739]
+# name:be: []
+msgid "Инстетут Земледелия"
+msgstr ""
+
+# Objects : [n1128438298]
+# name:be: []
+msgid "Крест на месте церкви"
+msgstr ""
+
+# Objects : [n3184139679]
+# name:be: []
+msgid "Молодёжный центр"
+msgstr ""
+
+# Objects : [n306065481]
+# name:be: []
+msgid "монумент “Мать-патриотка”"
+msgstr ""
+
+# Objects : [w111707588]
+# name:be: [Маскоўскія]
+msgid "Московское кладбище"
+msgstr ""
+
+# Objects : [n2446003152]
+# name:be: []
+msgid "ООО ФАКТОР"
+msgstr ""
+
+# Objects : [n1274233781]
+# name:be: [Помнік загінуўшым пры вызваленні Жодзіна]
+msgid "Памятник погибшим при освобождении Жодино"
+msgstr ""
+
+# Objects : [n3184136413]
+# name:be: []
+msgid "Приезжий цирк"
+msgstr ""
+
+# Objects : [n1271786862]
+# name:be: []
+msgid "Пушка"
+msgstr ""
+
+# Objects : [n2387591880]
+# name:be: []
+msgid "РУ "СМОЛЕВИЧИРАЙГАЗ""
+msgstr ""
+
+# Objects : [n1588285142]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n306065479]
+# name:be: []
+msgid "Создателям карьерных самосвалов"
+msgstr ""
+
+# Objects : [n1510031171]
+# name:be: [Стадыён]
+msgid "Стадион"
+msgstr ""
+
+# Objects : [n3184140168]
+# name:be: []
+msgid "Стадион "ТОРПЕДО""
+msgstr ""
+
+# Objects : [n3184142805]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [n3184137356]
+# name:be: []
+msgid "Терапевтический центр ЦГБ"
+msgstr ""
+
+# Objects : [n1509995869]
+# name:be: []
+msgid "Фарсаль"
+msgstr ""
+
+# Objects : [n1788453388]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+
+# Objects : [n1788453399]
+# name:be: []
+msgid "Фоц"
+msgstr ""
+
+# Objects : [n2446009272]
+# name:be: []
+msgid "Центр гигиены и эпидемиологии"
+msgstr ""
+
+# Objects : [n3184143418]
+# name:be: []
+msgid "Центр детского творчества"
+msgstr ""
+
+# Objects : [n3184142096]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n2387591881]
+# name:be: []
+msgid "Энергосбыт, абонентский отдел"
+msgstr ""
+

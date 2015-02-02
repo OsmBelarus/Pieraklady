@@ -1,0 +1,65 @@
+# Objects : [w171223749]
+# name:be: []
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w184437578, w293367919]
+# name:be: [Дачная вулiца]
+msgid "Дачная улица"
+msgstr ""
+
+# Objects : [w171223822, w172606250]
+# name:be: []
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w129373059]
+# name:be: [Маісееўшчына—Багданава]
+msgid "Моисеевщина-Богданово"
+msgstr ""
+
+# Objects : [w172282948]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w172606245]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w124825141]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w171223827]
+# name:be: []
+msgid "ст. Лавки-ГРС"
+msgstr ""
+
+# Objects : [w157658550, w171223825, w307543940]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w124825138, w309413003]
+# name:be: []
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w109784038, w292961004]
+# name:be: []
+msgid "улица Комиссара Петрова"
+msgstr ""
+
+# Objects : [w32939218]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w168494118]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+

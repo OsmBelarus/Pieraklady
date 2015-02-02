@@ -1,0 +1,90 @@
+# Objects : [r4541717]
+# name:be: []
+msgid "Автобаза"
+msgstr ""
+
+# Objects : [n2766736571]
+# name:be: []
+msgid "Гостиница Ельск"
+msgstr ""
+
+# Objects : [n2652208225]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [n306064666, n306064705]
+# name:be: [Ельск]
+msgid "Ельск"
+msgstr ""
+
+# Objects : [n2652208227]
+# name:be: [Ельскі раённы выканаўчы камітэт]
+msgid "Ельский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n306064656]
+# name:be: [Ельскі раённы аддзел унутраных спраў]
+msgid "Ельский районный отдел внутренних дел"
+msgstr ""
+
+# Objects : [n2652208226]
+# name:be: [Ельскі раённы Савет дэпутатаў]
+msgid "Ельский районный Совет депутатов"
+msgstr ""
+
+# Objects : [w42143332]
+# name:be: []
+msgid "Ельский РЭС"
+msgstr ""
+
+# Objects : [n306064655]
+# name:be: []
+msgid "Жертвам ВОВ и Чернобыля"
+msgstr ""
+
+# Objects : [w241212169]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [n306064661]
+# name:be: [Ленін]
+msgid "Ленин"
+msgstr ""
+
+# Objects : [w313827198]
+# name:be: []
+msgid "ООО"Евроторг""
+msgstr ""
+
+# Objects : [n306064653]
+# name:be: []
+msgid "Погибшим Землякам"
+msgstr ""
+
+# Objects : [w239134536]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [n2652208228]
+# name:be: [Суд Ельскага раёна]
+msgid "Суд Ельского района"
+msgstr ""
+
+# Objects : [r2789928]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [n2788686605]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n306064702]
+# name:be: []
+msgid "Црб"
+msgstr ""
+

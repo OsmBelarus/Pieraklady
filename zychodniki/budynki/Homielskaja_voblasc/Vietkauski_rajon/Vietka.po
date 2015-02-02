@@ -1,0 +1,180 @@
+# Objects : [w59283381]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w238842166]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w167348223]
+# name:be: []
+msgid "Ветковская библиотека"
+msgstr ""
+
+# Objects : [w241248839]
+# name:be: []
+msgid "Ветковская районная поликлиника"
+msgstr ""
+
+# Objects : [w133977169]
+# name:be: []
+msgid "Ветковский КБО"
+msgstr ""
+
+# Objects : [w167348536]
+# name:be: []
+msgid "Ветковский музей"
+msgstr ""
+
+# Objects : [w167348316]
+# name:be: []
+msgid "Ветковский райисполком"
+msgstr ""
+
+# Objects : [w133986391]
+# name:be: []
+msgid "Ветковский РЭС"
+msgstr ""
+
+# Objects : [w167344655]
+# name:be: []
+msgid "Ветковское КЖУП"
+msgstr ""
+
+# Objects : [w249494528]
+# name:be: []
+msgid "ГРП-2"
+msgstr ""
+
+# Objects : [w252126056]
+# name:be: []
+msgid "ГРП-5"
+msgstr ""
+
+# Objects : [w249504522]
+# name:be: []
+msgid "Департамент охраны МВД"
+msgstr ""
+
+# Objects : [w133977174]
+# name:be: []
+msgid "Дом культуры городской"
+msgstr ""
+
+# Objects : [w238844085]
+# name:be: []
+msgid "ДРСУ-185"
+msgstr ""
+
+# Objects : [w319661821]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w167342550]
+# name:be: []
+msgid "Киновидеопредприятие"
+msgstr ""
+
+# Objects : [w259335070]
+# name:be: []
+msgid "Киновидеосеть"
+msgstr ""
+
+# Objects : [w249883430]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w253442284]
+# name:be: []
+msgid "Магазин "Башня""
+msgstr ""
+
+# Objects : [w238844048]
+# name:be: []
+msgid "Мастерская"
+msgstr ""
+
+# Objects : [w238844021]
+# name:be: []
+msgid "Мастерская ДРСУ-185"
+msgstr ""
+
+# Objects : [w133986410]
+# name:be: []
+msgid "Отдел образования"
+msgstr ""
+
+# Objects : [w167344901]
+# name:be: []
+msgid "Пролетарская котельная"
+msgstr ""
+
+# Objects : [w241248840]
+# name:be: []
+msgid "Районный центр гигиены и эпидемиологии"
+msgstr ""
+
+# Objects : [w245665173]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w167344030]
+# name:be: []
+msgid "Сахарторг №7"
+msgstr ""
+
+# Objects : [w167349323]
+# name:be: []
+msgid "Совет Депутатов"
+msgstr ""
+
+# Objects : [w251590483]
+# name:be: []
+msgid "Станция ОСВОД"
+msgstr ""
+
+# Objects : [w133986411]
+# name:be: []
+msgid "Старт"
+msgstr ""
+
+# Objects : [w167349380]
+# name:be: []
+msgid "Суд"
+msgstr ""
+
+# Objects : [w238844042]
+# name:be: []
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w238844025]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w238843978]
+# name:be: []
+msgid "Хлопкопрядильная фабрика"
+msgstr ""
+
+# Objects : [w167347250]
+# name:be: []
+msgid "Хозмаг"
+msgstr ""
+
+# Objects : [w133986402]
+# name:be: []
+msgid "Эдельвейс"
+msgstr ""
+
+# Objects : [w167341760]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+

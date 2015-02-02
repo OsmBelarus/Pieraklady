@@ -1,0 +1,45 @@
+# Objects : [n1286206848]
+# name:be: []
+msgid "Великий Бор"
+msgstr ""
+
+# Objects : [n1283779908]
+# name:be: []
+msgid "Дричин"
+msgstr ""
+
+# Objects : [n1286206807]
+# name:be: []
+msgid "Житин"
+msgstr ""
+
+# Objects : [n1283779897]
+# name:be: []
+msgid "Кремок"
+msgstr ""
+
+# Objects : [n2582387515, n2582388667]
+# name:be: []
+msgid "Маслозавод"
+msgstr ""
+
+# Objects : [n2582408172, n2582408173]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [n306066736, n306066739]
+# name:be: []
+msgid "Остановка"
+msgstr ""
+
+# Objects : [n2582379163, n2582380172]
+# name:be: []
+msgid "Советский"
+msgstr ""
+
+# Objects : [n2582408170, n2582408171]
+# name:be: []
+msgid "Ягодная"
+msgstr ""
+

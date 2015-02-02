@@ -1,0 +1,195 @@
+# Objects : [r1767220]
+# name:be: []
+msgid "Автобус №1: Вокзал - Тимоново"
+msgstr ""
+
+# Objects : [r1767219]
+# name:be: []
+msgid "Автобус №2: Хотень - Тимоново"
+msgstr ""
+
+# Objects : [w133532233]
+# name:be: []
+msgid "Автопарк №9"
+msgstr ""
+
+# Objects : [w133487739]
+# name:be: []
+msgid "база ПМК-256"
+msgstr ""
+
+# Objects : [n1705905644]
+# name:be: []
+msgid "Ваенкомат"
+msgstr ""
+
+# Objects : [n2766736569]
+# name:be: []
+msgid "Гостиница Дружба"
+msgstr ""
+
+# Objects : [w78444788]
+# name:be: []
+msgid "Завод ЖБИ ПМК-256"
+msgstr ""
+
+# Objects : [w302259745]
+# name:be: []
+msgid "Известковый"
+msgstr ""
+
+# Objects : [w78444787]
+# name:be: []
+msgid "Известковый завод"
+msgstr ""
+
+# Objects : [n882188218]
+# name:be: [Клімавічы]
+msgid "Климовичи"
+msgstr ""
+
+# Objects : [w206229945]
+# name:be: []
+msgid "Комбинат стройматериалов"
+msgstr ""
+
+# Objects : [n688457841]
+# name:be: [Краязнаўчы музей]
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w302257108]
+# name:be: []
+msgid "КСМ"
+msgstr ""
+
+# Objects : [w78444789]
+# name:be: []
+msgid "КХП"
+msgstr ""
+
+# Objects : [w85013948]
+# name:be: []
+msgid "ЛВЗ"
+msgstr ""
+
+# Objects : [w212613101]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w203575894]
+# name:be: []
+msgid "Мастерская"
+msgstr ""
+
+# Objects : [w207576309]
+# name:be: []
+msgid "Мехмастерские"
+msgstr ""
+
+# Objects : [w324995498, w74152852]
+# name:be: []
+msgid "Мини РЫНОК"
+msgstr ""
+
+# Objects : [n1159715323]
+# name:be: [Ніка]
+msgid "Ника"
+msgstr ""
+
+# Objects : [r2757048, w205336447]
+# name:be: []
+msgid "ПМК - 88"
+msgstr ""
+
+# Objects : [w207312852]
+# name:be: []
+msgid "ПМК № 46"
+msgstr ""
+
+# Objects : [w206374872]
+# name:be: []
+msgid "ПМК №9"
+msgstr ""
+
+# Objects : [w78342938]
+# name:be: []
+msgid "ПЭС"
+msgstr ""
+
+# Objects : [w207553228]
+# name:be: []
+msgid "РайЗаг"
+msgstr ""
+
+# Objects : [n1359775138]
+# name:be: []
+msgid "Районный дом культуры"
+msgstr ""
+
+# Objects : [w203586759]
+# name:be: []
+msgid "РСУ"
+msgstr ""
+
+# Objects : [w206245151, w206245152]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w206352605, w206361056]
+# name:be: []
+msgid "САРАЙ"
+msgstr ""
+
+# Objects : [w203575897, w203575898]
+# name:be: []
+msgid "Слад"
+msgstr ""
+
+# Objects : [w208687244]
+# name:be: []
+msgid "Спиртзавод"
+msgstr ""
+
+# Objects : [w206345307]
+# name:be: []
+msgid "СТАДИОН"
+msgstr ""
+
+# Objects : [n1443129618]
+# name:be: []
+msgid "Строитель"
+msgstr ""
+
+# Objects : [w77487764]
+# name:be: [вуліца 50 гадоў Вялікага Кастрычніка]
+msgid "улица 50 лет Великого Октября"
+msgstr ""
+
+# Objects : [n2788684732]
+# name:be: [Сядзіба Мяшчэрскіх]
+msgid "Усадьба Мещерских"
+msgstr ""
+
+# Objects : [w203575900]
+# name:be: []
+msgid "Филиал Климовичский РГС"
+msgstr ""
+
+# Objects : [w207576310]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [w208687245]
+# name:be: []
+msgid "Хоз. двор."
+msgstr ""
+
+# Objects : [n2788686385]
+# name:be: [Царква Святога Міхала Арханёла]
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+

@@ -1,0 +1,220 @@
+# Objects : [w25285073]
+# name:be: []
+msgid "1-й Богановский проезд"
+msgstr ""
+
+# Objects : [w25285155]
+# name:be: []
+msgid "1-й Добрынский проезд"
+msgstr ""
+
+# Objects : [w25285130]
+# name:be: []
+msgid "1-й Долинский проезд"
+msgstr ""
+
+# Objects : [w25285160]
+# name:be: []
+msgid "1-й Торгошицкий проезд"
+msgstr ""
+
+# Objects : [w25285153]
+# name:be: []
+msgid "1-я Добрынская"
+msgstr ""
+
+# Objects : [w25285162]
+# name:be: []
+msgid "1-я Долинская"
+msgstr ""
+
+# Objects : [w25285131]
+# name:be: []
+msgid "1-я Новосадская"
+msgstr ""
+
+# Objects : [w25283576]
+# name:be: []
+msgid "1-я Садовая"
+msgstr ""
+
+# Objects : [w25285072]
+# name:be: []
+msgid "2-й Богановский проезд"
+msgstr ""
+
+# Objects : [w25285152]
+# name:be: []
+msgid "2-й Добрынский проезд"
+msgstr ""
+
+# Objects : [w25285070]
+# name:be: []
+msgid "2-й Долинский проезд"
+msgstr ""
+
+# Objects : [w25285159]
+# name:be: []
+msgid "2-й Торгошицкий проезд"
+msgstr ""
+
+# Objects : [w25285069]
+# name:be: []
+msgid "2-я Богановская"
+msgstr ""
+
+# Objects : [w25285135]
+# name:be: []
+msgid "2-я Долинская"
+msgstr ""
+
+# Objects : [w25285120]
+# name:be: []
+msgid "2-я Новосадская"
+msgstr ""
+
+# Objects : [w25283534]
+# name:be: []
+msgid "2-я Садовая"
+msgstr ""
+
+# Objects : [w25285158]
+# name:be: []
+msgid "3-й Торгошицкий проезд"
+msgstr ""
+
+# Objects : [w79271152]
+# name:be: []
+msgid "3-я Новосадская"
+msgstr ""
+
+# Objects : [w25283119]
+# name:be: []
+msgid "3-я Садовая"
+msgstr ""
+
+# Objects : [w25283546]
+# name:be: []
+msgid "4-я Садовая"
+msgstr ""
+
+# Objects : [w25283489]
+# name:be: []
+msgid "Весёлая улица"
+msgstr ""
+
+# Objects : [w25285119]
+# name:be: []
+msgid "Добрынская"
+msgstr ""
+
+# Objects : [w25285071]
+# name:be: []
+msgid "Достоевского"
+msgstr ""
+
+# Objects : [w25283441]
+# name:be: []
+msgid "Звёздная улица"
+msgstr ""
+
+# Objects : [w37848472]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w25283572, w81729032]
+# name:be: [Лунінецкая вуліца]
+msgid "Лунинецкая улица"
+msgstr ""
+
+# Objects : [w308425470]
+# name:be: []
+msgid "Молодежная улица"
+msgstr ""
+
+# Objects : [w25283443]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w25283164, w25283438]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w25283434]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w242185145]
+# name:be: []
+msgid "Оснежицкая улица"
+msgstr ""
+
+# Objects : [w81118626]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w322248537]
+# name:be: [Пінская вуліца]
+msgid "Пинская улица"
+msgstr ""
+
+# Objects : [w25283504, w25283595]
+# name:be: []
+msgid "Поперечная"
+msgstr ""
+
+# Objects : [w25283486]
+# name:be: []
+msgid "Поперечная улица"
+msgstr ""
+
+# Objects : [w25285128]
+# name:be: []
+msgid "Торгошицкая"
+msgstr ""
+
+# Objects : [w25283442]
+# name:be: []
+msgid "улица Веры Хоружей"
+msgstr ""
+
+# Objects : [w40983541]
+# name:be: []
+msgid "улица Доватора"
+msgstr ""
+
+# Objects : [w25283487]
+# name:be: []
+msgid "улица Зои Космодемьянской"
+msgstr ""
+
+# Objects : [w25283063]
+# name:be: []
+msgid "улица Космонавтов"
+msgstr ""
+
+# Objects : [w25283445]
+# name:be: []
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w25283472]
+# name:be: []
+msgid "Утренняя"
+msgstr ""
+
+# Objects : [w66744689]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w322248538]
+# name:be: []
+msgid "Южная"
+msgstr ""
+

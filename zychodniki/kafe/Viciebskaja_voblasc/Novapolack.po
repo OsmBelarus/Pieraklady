@@ -1,0 +1,100 @@
+# Objects : [n502652138]
+# name:be: [Plaza Вернісаж]
+msgid "Plaza Вернисаж"
+msgstr ""
+
+# Objects : [n1497130797, n502722282]
+# name:be: [Усьмешка]
+msgid "Smile"
+msgstr ""
+
+# Objects : [n3116284920]
+# name:be: []
+msgid "TEDDY"
+msgstr ""
+
+# Objects : [n306067214]
+# name:be: [Белы востраў]
+msgid "Белый Остров"
+msgstr ""
+
+# Objects : [n1082807633]
+# name:be: [Бірхаўс]
+msgid "Бирхаус"
+msgstr ""
+
+# Objects : [n1218140255]
+# name:be: [Бульбяная]
+msgid "Бульбяная"
+msgstr ""
+
+# Objects : [n1497145334]
+# name:be: []
+msgid "ВерасОк"
+msgstr ""
+
+# Objects : [n306067151]
+# name:be: [Верасы]
+msgid "Верасы"
+msgstr ""
+
+# Objects : [n1209091359]
+# name:be: [Дзвіна]
+msgid "Двина"
+msgstr ""
+
+# Objects : [n1314890151]
+# name:be: [Дружба]
+msgid "Дружба"
+msgstr ""
+
+# Objects : [n502722281]
+# name:be: [Жар-птушка]
+msgid "Жар-Птушка"
+msgstr ""
+
+# Objects : [n306067146]
+# name:be: [Залатая бочка]
+msgid "Золотая Бочка"
+msgstr ""
+
+# Objects : [n2609456582]
+# name:be: []
+msgid "Лилея"
+msgstr ""
+
+# Objects : [n1082599158]
+# name:be: [Народны]
+msgid "Народный"
+msgstr ""
+
+# Objects : [n1082617324]
+# name:be: [Нафтан]
+msgid "Нафтан"
+msgstr ""
+
+# Objects : [n616425063]
+# name:be: [Пачастунак]
+msgid "Пачастунак"
+msgstr ""
+
+# Objects : [n2527229296]
+# name:be: []
+msgid "Пиццерия"
+msgstr ""
+
+# Objects : [n1175649679]
+# name:be: [Рэстаран, кавярня, бар]
+msgid "Ресторан Кафе Бар"
+msgstr ""
+
+# Objects : [n674492288]
+# name:be: [Чарачная «Бульбяная»]
+msgid "Рюмочная "Бульбяная""
+msgstr ""
+
+# Objects : [n2481576308, n2782821510]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+

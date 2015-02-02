@@ -1,0 +1,255 @@
+# Objects : [w32682785]
+# name:be: []
+msgid "35а"
+msgstr ""
+
+# Objects : [n377596336]
+# name:be: []
+msgid "OВД"
+msgstr ""
+
+# Objects : [w32682020]
+# name:be: [Аўташкола]
+msgid "Автошкола"
+msgstr ""
+
+# Objects : [w32682088]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2389014320]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n1304763087]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w32680661]
+# name:be: [Ваенкамат]
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w275110703]
+# name:be: [ДЛГУ «Лагойскі лясгас»]
+msgid "ГЛХУ «Логойский лесхоз»"
+msgstr ""
+
+# Objects : [n941841076]
+# name:be: []
+msgid "Гостиница «Олимп»"
+msgstr ""
+
+# Objects : [n2387922119]
+# name:be: []
+msgid "ГУ «Логойский районный центр гигиены и эпидемиологии»"
+msgstr ""
+
+# Objects : [w32682651]
+# name:be: []
+msgid "ГУП "Логойское ПМС""
+msgstr ""
+
+# Objects : [w32682501]
+# name:be: []
+msgid "ДДТ"
+msgstr ""
+
+# Objects : [w32682620]
+# name:be: []
+msgid "Док"
+msgstr ""
+
+# Objects : [n377596716]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w32682021]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [n942629178]
+# name:be: []
+msgid "ДЭУ"
+msgstr ""
+
+# Objects : [w32682830]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [n2387922121]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [n2788680415]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n1818794975]
+# name:be: []
+msgid "Инфоцентр Бай"
+msgstr ""
+
+# Objects : [w32682780]
+# name:be: [ЗП ТАА "Мінаўта"]
+msgid "ИП ООО «Минавто»"
+msgstr ""
+
+# Objects : [n367770650]
+# name:be: []
+msgid "кафе-бар «Остров»"
+msgstr ""
+
+# Objects : [n2788681951]
+# name:be: [Касцёл Святога Казіміра]
+msgid "Костел Святого Казимира"
+msgstr ""
+
+# Objects : [w32682591]
+# name:be: []
+msgid "Купальня"
+msgstr ""
+
+# Objects : [n377596702]
+# name:be: [Ленін]
+msgid "Ленин"
+msgstr ""
+
+# Objects : [n941778469]
+# name:be: []
+msgid "Логойская центральная районная больница"
+msgstr ""
+
+# Objects : [n377596728]
+# name:be: []
+msgid "Логойский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n942629184]
+# name:be: []
+msgid "Мельница"
+msgstr ""
+
+# Objects : [w32682896]
+# name:be: []
+msgid "Молодежный центр"
+msgstr ""
+
+# Objects : [n2387922122]
+# name:be: []
+msgid "МОУП «Логойская типография»"
+msgstr ""
+
+# Objects : [w32682657]
+# name:be: [МТС]
+msgid "МТС"
+msgstr ""
+
+# Objects : [n306063998]
+# name:be: []
+msgid "Паненская гора"
+msgstr ""
+
+# Objects : [w32681334]
+# name:be: []
+msgid "Пассаж торговый центр"
+msgstr ""
+
+# Objects : [n2788683780]
+# name:be: [Прысядзібны парк пры былой сядзібе Тышкевічаў]
+msgid "Приусадебный парк при бывшей усадьбе Тышкевичей"
+msgstr ""
+
+# Objects : [n654017340]
+# name:be: []
+msgid "Причал"
+msgstr ""
+
+# Objects : [n2389014323]
+# name:be: []
+msgid "Районный совет депутатов"
+msgstr ""
+
+# Objects : [n941799678]
+# name:be: []
+msgid "редакция "Родны Край""
+msgstr ""
+
+# Objects : [w80764794]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2389014324]
+# name:be: []
+msgid "Салон связи МТС"
+msgstr ""
+
+# Objects : [w32682775]
+# name:be: []
+msgid "СООО «Лекфарм»"
+msgstr ""
+
+# Objects : [w80764793]
+# name:be: []
+msgid "СООО «ТрайплФарм»"
+msgstr ""
+
+# Objects : [n942634840]
+# name:be: [Суд]
+msgid "Суд"
+msgstr ""
+
+# Objects : [w32682024]
+# name:be: [Тэхагляд]
+msgid "Техосмотр"
+msgstr ""
+
+# Objects : [n941841080]
+# name:be: []
+msgid "ФОК-1"
+msgstr ""
+
+# Objects : [n2387922124]
+# name:be: []
+msgid "Центр социального обслуживания"
+msgstr ""
+
+# Objects : [n2788686503]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w32682776]
+# name:be: []
+msgid "ЧПУП «Амкодор-Логойск»"
+msgstr ""
+
+# Objects : [w32682825]
+# name:be: [СаюзГранiт]
+msgid "ЧУП «СоюзГранит»"
+msgstr ""
+
+# Objects : [w32682571]
+# name:be: []
+msgid "Школьные мастерские"
+msgstr ""
+
+# Objects : [w32682510, w32682512]
+# name:be: []
+msgid "Электро подстанция"
+msgstr ""
+
+# Objects : [n377596406]
+# name:be: []
+msgid "Энгельс"
+msgstr ""
+

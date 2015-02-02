@@ -1,0 +1,55 @@
+# Objects : [w310526495]
+# name:be: []
+msgid "База отдыха"
+msgstr ""
+
+# Objects : [n271043348]
+# name:be: []
+msgid "Бумажково"
+msgstr ""
+
+# Objects : [w267798455]
+# name:be: []
+msgid "довоенная ж/д линия СТАРУШКИ – БОБРУЙСК"
+msgstr ""
+
+# Objects : [w25183010, w25190626]
+# name:be: [Заазерскае]
+msgid "Заозерское"
+msgstr ""
+
+# Objects : [w25190034]
+# name:be: []
+msgid "Овинское"
+msgstr ""
+
+# Objects : [n1365667049]
+# name:be: [Кастрычнік]
+msgid "Октябрь"
+msgstr ""
+
+# Objects : [n3159477048]
+# name:be: []
+msgid "Памятник погибшим войнам во 2-ой мировой войне"
+msgstr ""
+
+# Objects : [n3172329627]
+# name:be: []
+msgid "Партизанский аэродром, ВОВ"
+msgstr ""
+
+# Objects : [n3170436114]
+# name:be: []
+msgid "Погибшим в ВОВ"
+msgstr ""
+
+# Objects : [n306068937]
+# name:be: [Рабкор]
+msgid "Рабкор"
+msgstr ""
+
+# Objects : [n271044590]
+# name:be: [Ратміравічы]
+msgid "Ратмировичи"
+msgstr ""
+

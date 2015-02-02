@@ -1,0 +1,295 @@
+# Objects : [n1086630377]
+# name:be: []
+msgid "222417"
+msgstr ""
+
+# Objects : [w314989682]
+# name:be: []
+msgid "Second hand"
+msgstr ""
+
+# Objects : [n3206064762]
+# name:be: []
+msgid "Ази Асланов"
+msgstr ""
+
+# Objects : [w241923168]
+# name:be: []
+msgid "Аўтавакзал"
+msgstr ""
+
+# Objects : [n3208845563]
+# name:be: []
+msgid "Бесплатная парковка"
+msgstr ""
+
+# Objects : [n1365350341, n1390613645]
+# name:be: [Вілейка]
+msgid "Вилейка"
+msgstr ""
+
+# Objects : [n1086624645]
+# name:be: []
+msgid "Вилейский РОВД"
+msgstr ""
+
+# Objects : [n1086602521]
+# name:be: [Вілія]
+msgid "Вилия"
+msgstr ""
+
+# Objects : [n3206086374]
+# name:be: []
+msgid "Вильяна"
+msgstr ""
+
+# Objects : [n1109729695]
+# name:be: []
+msgid "в Молодечно"
+msgstr ""
+
+# Objects : [n1109740099]
+# name:be: []
+msgid "Выстовочный зал"
+msgstr ""
+
+# Objects : [n3206086796]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [n1108865038]
+# name:be: []
+msgid "Гастинец"
+msgstr ""
+
+# Objects : [w308107376]
+# name:be: []
+msgid "Гермес"
+msgstr ""
+
+# Objects : [w255898393]
+# name:be: []
+msgid "Городская Баня"
+msgstr ""
+
+# Objects : [w314980631]
+# name:be: []
+msgid "Горячий хлеб"
+msgstr ""
+
+# Objects : [n2766736528]
+# name:be: []
+msgid "Гостиница Вилия"
+msgstr ""
+
+# Objects : [n1095074876]
+# name:be: []
+msgid "Дворец Культуры"
+msgstr ""
+
+# Objects : [n3208837305, n3209012034, n3209024273, n3210717574, w314984538, w314985740, w314989075, w314989216]
+# name:be: []
+msgid "Детская площадка"
+msgstr ""
+
+# Objects : [n3303681555]
+# name:be: []
+msgid "Дзіцячы садок №3"
+msgstr ""
+
+# Objects : [n1095009739]
+# name:be: []
+msgid "Дубочек"
+msgstr ""
+
+# Objects : [w171389704]
+# name:be: [Еўраопт]
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n2788680375]
+# name:be: [Чыгуначны вакзал]
+msgid "Железнодорожный вокзал"
+msgstr ""
+
+# Objects : [w171401947]
+# name:be: []
+msgid "Завод Зенит"
+msgstr ""
+
+# Objects : [w171387983, w171401974]
+# name:be: []
+msgid "Зенит"
+msgstr ""
+
+# Objects : [n3210534803]
+# name:be: []
+msgid "Игровые площадки"
+msgstr ""
+
+# Objects : [w322196730]
+# name:be: []
+msgid "Каналізацыйная станцыя - канализационная станция"
+msgstr ""
+
+# Objects : [w315117911]
+# name:be: []
+msgid "Клумба"
+msgstr ""
+
+# Objects : [w171400150]
+# name:be: []
+msgid "кожно венерологический диспансер"
+msgstr ""
+
+# Objects : [w314864235]
+# name:be: []
+msgid "Ларьки"
+msgstr ""
+
+# Objects : [w269139866]
+# name:be: []
+msgid "Ленин"
+msgstr ""
+
+# Objects : [w314977163]
+# name:be: []
+msgid "Магазин штор и тканей"
+msgstr ""
+
+# Objects : [n1102519412]
+# name:be: []
+msgid "Максавто"
+msgstr ""
+
+# Objects : [n1104578426]
+# name:be: []
+msgid "Мебельный"
+msgstr ""
+
+# Objects : [n1095062245]
+# name:be: []
+msgid "Нептун"
+msgstr ""
+
+# Objects : [w269147695]
+# name:be: []
+msgid "Онкодиспансер"
+msgstr ""
+
+# Objects : [n3208845228, n3208845561, n3208845562, n3208849329, n3209017808]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
+# Objects : [w308107201]
+# name:be: []
+msgid "Пицца"
+msgstr ""
+
+# Objects : [n3208861910]
+# name:be: []
+msgid "Плавательный бассейн"
+msgstr ""
+
+# Objects : [n3208889622]
+# name:be: []
+msgid "платная парковка"
+msgstr ""
+
+# Objects : [n3208855814]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [n1086769665]
+# name:be: []
+msgid "Роддом"
+msgstr ""
+
+# Objects : [w314983830]
+# name:be: []
+msgid "Рыбные продукты"
+msgstr ""
+
+# Objects : [w94245072]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w308143819]
+# name:be: []
+msgid "Салон ритуальных услуг"
+msgstr ""
+
+# Objects : [n1109711929]
+# name:be: []
+msgid "Санэпидемстанция"
+msgstr ""
+
+# Objects : [w314989122]
+# name:be: []
+msgid "Спортивная площадка"
+msgstr ""
+
+# Objects : [w314970111]
+# name:be: []
+msgid "Спорт комплекс"
+msgstr ""
+
+# Objects : [w323207788]
+# name:be: []
+msgid "Станцыя прыроднага газу - Станция природного газа"
+msgstr ""
+
+# Objects : [n1109711423]
+# name:be: [Стаматалогія]
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w323473582]
+# name:be: []
+msgid "Сховішча - Укрытие"
+msgstr ""
+
+# Objects : [n1095062241]
+# name:be: []
+msgid "Тенистая аллея"
+msgstr ""
+
+# Objects : [w314989441]
+# name:be: []
+msgid "ТЦ Модуль"
+msgstr ""
+
+# Objects : [w323583038]
+# name:be: []
+msgid "Цеплавая гаспадарка - Теплохозяйство"
+msgstr ""
+
+# Objects : [n2788685748]
+# name:be: [Касцёл Узвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n2788686342]
+# name:be: [Царква Прападобнай Марыі Эгіпэцкай]
+msgid "Церковь Св. Прп"
+msgstr ""
+
+# Objects : [w269150617]
+# name:be: [Цэнтральная раённая паліклініка]
+msgid "Цэнтральная раённая паліклініка"
+msgstr ""
+
+# Objects : [w269149213]
+# name:be: [Цэнтральны раённы шпіталь]
+msgid "Цэнтральны раённы шпіталь"
+msgstr ""
+
+# Objects : [w171387993]
+# name:be: []
+msgid "Шанс"
+msgstr ""
+

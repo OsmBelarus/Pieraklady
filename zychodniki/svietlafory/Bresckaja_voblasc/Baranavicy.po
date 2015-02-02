@@ -1,0 +1,130 @@
+# Objects : [n2455358631, n2455358640, n736619695]
+# name:be: []
+msgid "16"
+msgstr ""
+
+# Objects : [n736619691]
+# name:be: []
+msgid "16, 18"
+msgstr ""
+
+# Objects : [n2455369035, n2455376768]
+# name:be: []
+msgid "16,26"
+msgstr ""
+
+# Objects : [n2060102038]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [n2099433738]
+# name:be: []
+msgid "26"
+msgstr ""
+
+# Objects : [n736619687]
+# name:be: []
+msgid "3, 16, 18"
+msgstr ""
+
+# Objects : [n3224616622]
+# name:be: []
+msgid "Агрострой"
+msgstr ""
+
+# Objects : [n524679088]
+# name:be: [Алеся]
+msgid "Алеся"
+msgstr ""
+
+# Objects : [n3223183714]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n3224635497, n3224635643]
+# name:be: []
+msgid "Диспансер"
+msgstr ""
+
+# Objects : [n3224726384]
+# name:be: []
+msgid "Дом культуры текстильщиков"
+msgstr ""
+
+# Objects : [n3223255197]
+# name:be: []
+msgid "Дом школьника"
+msgstr ""
+
+# Objects : [n3224633161]
+# name:be: []
+msgid "Железнодарожная больница"
+msgstr ""
+
+# Objects : [n3224633178]
+# name:be: []
+msgid "Железнодорожная больница"
+msgstr ""
+
+# Objects : [n524679176]
+# name:be: [Камуністычная]
+msgid "Коммунистическая"
+msgstr ""
+
+# Objects : [n3194537312]
+# name:be: []
+msgid "Красноармейская"
+msgstr ""
+
+# Objects : [n3223000221]
+# name:be: []
+msgid "Магазин "Алеся""
+msgstr ""
+
+# Objects : [n3194477182, n3194482274]
+# name:be: []
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [n524679036, n524679041]
+# name:be: [Прытыцкага]
+msgid "Притыцкого"
+msgstr ""
+
+# Objects : [n3224635871, n3224687359]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [n3224699235, n3224699671]
+# name:be: []
+msgid "Трикотажная фабрика"
+msgstr ""
+
+# Objects : [n3224727980, n3224727981]
+# name:be: []
+msgid "ул.Кирова"
+msgstr ""
+
+# Objects : [n3194671744, n3194674795]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [n3223197812]
+# name:be: []
+msgid "улица Коммунистическая"
+msgstr ""
+
+# Objects : [n3224735522, n3224737261]
+# name:be: []
+msgid "Фабричная"
+msgstr ""
+
+# Objects : [n3195343404]
+# name:be: []
+msgid "Швейная фабрика"
+msgstr ""
+

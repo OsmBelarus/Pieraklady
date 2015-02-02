@@ -1,0 +1,155 @@
+# Objects : [w325866152]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [w314458674]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w314459464, w314459468, w314462043]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w314634651]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w108718751]
+# name:be: [Вакзал]
+msgid "Вокзал"
+msgstr ""
+
+# Objects : [w314462044]
+# name:be: []
+msgid "Дом"
+msgstr ""
+
+# Objects : [w314459561]
+# name:be: []
+msgid "Домик для гостей"
+msgstr ""
+
+# Objects : [w30998073]
+# name:be: []
+msgid "корп. 1"
+msgstr ""
+
+# Objects : [w31018448]
+# name:be: []
+msgid "корп. 2"
+msgstr ""
+
+# Objects : [w31018458]
+# name:be: []
+msgid "корп. 3"
+msgstr ""
+
+# Objects : [w314465517]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w117895986]
+# name:be: []
+msgid "Кристина"
+msgstr ""
+
+# Objects : [w314459463]
+# name:be: []
+msgid "Летняя кухня"
+msgstr ""
+
+# Objects : [w314634681]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w128510563]
+# name:be: []
+msgid "Магазин Хожово-Агро"
+msgstr ""
+
+# Objects : [w225564994]
+# name:be: []
+msgid "ОАО "Забудова""
+msgstr ""
+
+# Objects : [w290000954]
+# name:be: []
+msgid "ООО "Дорожник-сервис""
+msgstr ""
+
+# Objects : [w314465515]
+# name:be: []
+msgid "Парник"
+msgstr ""
+
+# Objects : [w239436305]
+# name:be: []
+msgid "Рагозы"
+msgstr ""
+
+# Objects : [w239014599]
+# name:be: []
+msgid "Санаторий Богатырь"
+msgstr ""
+
+# Objects : [w314461508]
+# name:be: []
+msgid "Санаторий Подорожник"
+msgstr ""
+
+# Objects : [w314459238, w314459466]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w98342205]
+# name:be: []
+msgid "Спортивный зал"
+msgstr ""
+
+# Objects : [w31018646]
+# name:be: []
+msgid "Столовая, спортзал"
+msgstr ""
+
+# Objects : [w285863193]
+# name:be: []
+msgid "Торговый центр"
+msgstr ""
+
+# Objects : [w207215906]
+# name:be: []
+msgid "Фабрика мебельных деталей"
+msgstr ""
+
+# Objects : [w128510565]
+# name:be: []
+msgid "Хожевский сельсовет"
+msgstr ""
+
+# Objects : [w314460182]
+# name:be: []
+msgid "хозпостройка"
+msgstr ""
+
+# Objects : [w314459564, w314460008, w314460183, w314462116]
+# name:be: []
+msgid "Хозпостройка"
+msgstr ""
+
+# Objects : [w170318966]
+# name:be: []
+msgid "Холхловский сельсовет"
+msgstr ""
+
+# Objects : [w292821236]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+

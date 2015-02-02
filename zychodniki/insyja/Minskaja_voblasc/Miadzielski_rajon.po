@@ -1,0 +1,630 @@
+# Objects : [w279112548]
+# name:be: []
+msgid ""Главный" корпус сан. "Сосны""
+msgstr ""
+
+# Objects : [w279112551]
+# name:be: []
+msgid ""Круглый" корпус сан. "Сосны""
+msgstr ""
+
+# Objects : [w279112555]
+# name:be: []
+msgid ""Лечебный" корпус сан. "Сосны""
+msgstr ""
+
+# Objects : [n3107253805]
+# name:be: []
+msgid "«Продукты»"
+msgstr ""
+
+# Objects : [n438109661, n875341186]
+# name:be: []
+msgid "GSM"
+msgstr ""
+
+# Objects : [w25187251]
+# name:be: []
+msgid "Iмшарац"
+msgstr ""
+
+# Objects : [n1632538011]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n2500362495]
+# name:be: []
+msgid "Автостоянка (во время костёльного фэста)"
+msgstr ""
+
+# Objects : [n2833523808]
+# name:be: []
+msgid "Администрация сан. "Сосны""
+msgstr ""
+
+# Objects : [w25187881]
+# name:be: []
+msgid "Акунёк"
+msgstr ""
+
+# Objects : [n1544242694]
+# name:be: []
+msgid "Антонисберг"
+msgstr ""
+
+# Objects : [n243002980, w25134669, w25197771]
+# name:be: [Балдук]
+msgid "Балдук"
+msgstr ""
+
+# Objects : [n2967153861, w293142300]
+# name:be: [Беймішкі]
+msgid "Беймишки"
+msgstr ""
+
+# Objects : [w25195688]
+# name:be: []
+msgid "Белоголовое"
+msgstr ""
+
+# Objects : [w118899664]
+# name:be: [Вялiкi Больцык]
+msgid "Большой Болтик"
+msgstr ""
+
+# Objects : [n2788679890]
+# name:be: [Брама царкоўная]
+msgid "Брама церковная"
+msgstr ""
+
+# Objects : [n306063168]
+# name:be: [Будслаў]
+msgid "Будслав"
+msgstr ""
+
+# Objects : [w277904308]
+# name:be: []
+msgid "Бывшая котельная"
+msgstr ""
+
+# Objects : [w242566127]
+# name:be: []
+msgid "бывший аэродром"
+msgstr ""
+
+# Objects : [n2833523810]
+# name:be: []
+msgid "Бювет"
+msgstr ""
+
+# Objects : [w25192827]
+# name:be: []
+msgid "Вiльчынiя"
+msgstr ""
+
+# Objects : [r61735]
+# name:be: []
+msgid "Веретейское"
+msgstr ""
+
+# Objects : [n1482487413, n1482487414]
+# name:be: []
+msgid "Ветряной электрогенератор"
+msgstr ""
+
+# Objects : [n2788679992, n2788679994, n2788679996]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [w25202663]
+# name:be: []
+msgid "Вишневское"
+msgstr ""
+
+# Objects : [n2009457840, n2788680142]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1482487415]
+# name:be: []
+msgid "Водяная мельница (руины)"
+msgstr ""
+
+# Objects : [r182014]
+# name:be: []
+msgid "Глубелька"
+msgstr ""
+
+# Objects : [w25198278]
+# name:be: []
+msgid "Глубля"
+msgstr ""
+
+# Objects : [w25193931, w38236215]
+# name:be: [Глухое воз.]
+msgid "Глухое"
+msgstr ""
+
+# Objects : [n1544242699]
+# name:be: []
+msgid "Голубой ручей"
+msgstr ""
+
+# Objects : [w133747875]
+# name:be: []
+msgid "Городище, селище"
+msgstr ""
+
+# Objects : [n2766728253]
+# name:be: []
+msgid "гостинца Швакшты"
+msgstr ""
+
+# Objects : [n3031716287]
+# name:be: []
+msgid "ДОТ 1й мировой войны"
+msgstr ""
+
+# Objects : [w25200102]
+# name:be: [Дзягілі]
+msgid "Дягили"
+msgstr ""
+
+# Objects : [n3245652190]
+# name:be: [Дзятлаўшчына]
+msgid "Дятловщина"
+msgstr ""
+
+# Objects : [n2788680360]
+# name:be: [Чыгуначная станцыя]
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w25189061]
+# name:be: []
+msgid "Жутинское"
+msgstr ""
+
+# Objects : [n2788680503]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Илии"
+msgstr ""
+
+# Objects : [w38236214]
+# name:be: []
+msgid "Карасiк"
+msgstr ""
+
+# Objects : [n2788680605]
+# name:be: []
+msgid "Касцёл бернардынцаў XVIII ст., Нацыянальный санктуарый"
+msgstr ""
+
+# Objects : [w314700574]
+# name:be: []
+msgid "Католическое кладбище"
+msgstr ""
+
+# Objects : [n1544242709]
+# name:be: []
+msgid "Кемпинг"
+msgstr ""
+
+# Objects : [n1576502476]
+# name:be: []
+msgid "Кладбище (бывшее) солдат 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788680692, n2788680697, n2788680698, n2788680701]
+# name:be: [Могілкі вайсковыя часоў 1-й сусветнай вайны]
+msgid "Кладбище военное времен 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788681020]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n1576519822]
+# name:be: []
+msgid "Кладбище солдат 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788681409, n2788681414]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681447]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [n2788681532]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n2788681568]
+# name:be: [Могілкі хрысціянскія]
+msgid "Кладбище христианское"
+msgstr ""
+
+# Objects : [n306065959]
+# name:be: [Княгінін]
+msgid "Княгинин"
+msgstr ""
+
+# Objects : [n2788682395]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788681721]
+# name:be: [Касцёл Маці Божай Нястомнае Дапамогі]
+msgid "Костел Божией Матери"
+msgstr ""
+
+# Objects : [n2788681858]
+# name:be: [Касцёл Святога Андрэя Апостала]
+msgid "Костел Св. Андрея Апостола"
+msgstr ""
+
+# Objects : [n2788682257]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n2788682336]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n1544242710]
+# name:be: []
+msgid "Кочерги"
+msgstr ""
+
+# Objects : [n1544242712]
+# name:be: []
+msgid "Лагерь"
+msgstr ""
+
+# Objects : [n2500362498]
+# name:be: [Лагер пілігрымаў]
+msgid "Лагерь паломников (во время костёльного фэста)"
+msgstr ""
+
+# Objects : [n2766728135, w81964391]
+# name:be: []
+msgid "Лесная поляна"
+msgstr ""
+
+# Objects : [w153992350, w25197551]
+# name:be: []
+msgid "Лотвины"
+msgstr ""
+
+# Objects : [w25186881]
+# name:be: []
+msgid "Малы Больцык"
+msgstr ""
+
+# Objects : [w81964433]
+# name:be: []
+msgid "Медпункт"
+msgstr ""
+
+# Objects : [w38236204]
+# name:be: []
+msgid "Мёртвае"
+msgstr ""
+
+# Objects : [n2971167814, w293509637]
+# name:be: [Мікольцы]
+msgid "Микольцы"
+msgstr ""
+
+# Objects : [n2500401206]
+# name:be: [магіла Паўліны Мядёлкі]
+msgid "могила Павлины Мядёлки"
+msgstr ""
+
+# Objects : [w25190073]
+# name:be: [Нагаўскае]
+msgid "Наговское"
+msgstr ""
+
+# Objects : [n2766728147]
+# name:be: []
+msgid "Нарочанка"
+msgstr ""
+
+# Objects : [r3823614]
+# name:be: []
+msgid "Нарочанский филиал Моложечненского молочного комбината"
+msgstr ""
+
+# Objects : [n2766728151, n306066023]
+# name:be: [Нарач]
+msgid "Нарочь"
+msgstr ""
+
+# Objects : [w25537491]
+# name:be: []
+msgid "НАРОЧЬ"
+msgstr ""
+
+# Objects : [r3367925]
+# name:be: [Нацыянальны парк «Нарачанскі»]
+msgid "Национальный парк «Нарочанский»"
+msgstr ""
+
+# Objects : [w69735456]
+# name:be: []
+msgid "о. Замок"
+msgstr ""
+
+# Objects : [w248619150]
+# name:be: []
+msgid "о. Кульчино"
+msgstr ""
+
+# Objects : [w81964412]
+# name:be: []
+msgid "Озерный причал"
+msgstr ""
+
+# Objects : [n1544242713]
+# name:be: []
+msgid "Озеро Белое"
+msgstr ""
+
+# Objects : [w25194903]
+# name:be: [Арэхавае]
+msgid "Ореховое"
+msgstr ""
+
+# Objects : [w125210468]
+# name:be: []
+msgid "Очистные сооружения г. Мядель"
+msgstr ""
+
+# Objects : [n1283211075]
+# name:be: []
+msgid "Памятник"
+msgstr ""
+
+# Objects : [n2500313175]
+# name:be: []
+msgid "памятник героям войны"
+msgstr ""
+
+# Objects : [n1576504061]
+# name:be: []
+msgid "Памятник солдатам 1-й мировой войны"
+msgstr ""
+
+# Objects : [w171562459]
+# name:be: []
+msgid "Православное кладбище"
+msgstr ""
+
+# Objects : [n2788684204]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2766728206]
+# name:be: []
+msgid "Проньки"
+msgstr ""
+
+# Objects : [n2500327880]
+# name:be: [Разны алтар «Ушэсце Марыі» 17ст.]
+msgid "Резной алтарь «Вознесение Марии»17в."
+msgstr ""
+
+# Objects : [w25194897]
+# name:be: []
+msgid "Россохи"
+msgstr ""
+
+# Objects : [n2407370865, w25195420]
+# name:be: [Рудакова]
+msgid "Рудаково"
+msgstr ""
+
+# Objects : [n1422447027, n2766722469]
+# name:be: []
+msgid "Санаторий Белая Русь"
+msgstr ""
+
+# Objects : [n2766722503]
+# name:be: []
+msgid "Санаторий Журавушка"
+msgstr ""
+
+# Objects : [n2766722632]
+# name:be: []
+msgid "Санаторий Сосны"
+msgstr ""
+
+# Objects : [w38236217]
+# name:be: [Сьвіно]
+msgid "Свино"
+msgstr ""
+
+# Objects : [w25196282]
+# name:be: []
+msgid "Свирьнище"
+msgstr ""
+
+# Objects : [n2500409455, n2500409461]
+# name:be: []
+msgid "скамейки"
+msgstr ""
+
+# Objects : [w279113333]
+# name:be: []
+msgid "Спорткомплекс сан. "Сосны""
+msgstr ""
+
+# Objects : [n3018465038]
+# name:be: []
+msgid "Средняя Школа №1"
+msgstr ""
+
+# Objects : [w153016694]
+# name:be: []
+msgid "стадион"
+msgstr ""
+
+# Objects : [n1283245470]
+# name:be: [Стадыён]
+msgid "Стадион"
+msgstr ""
+
+# Objects : [w242570349]
+# name:be: [старыя каталіцкія могілкі]
+msgid "старое катол. кладбище"
+msgstr ""
+
+# Objects : [n2500313081]
+# name:be: [Фігура Дзевы Марыі з анёламі]
+msgid "статуя Девы Марии с ангелами"
+msgstr ""
+
+# Objects : [n2500443009]
+# name:be: [Фігура Хрыста]
+msgid "Статуя Христа"
+msgstr ""
+
+# Objects : [w81964379]
+# name:be: [Сталовая]
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n2500362501]
+# name:be: []
+msgid "стоянка автобусов (во время костельного фэста)"
+msgstr ""
+
+# Objects : [n1544242717]
+# name:be: []
+msgid "Тюшки"
+msgstr ""
+
+# Objects : [n2788684506]
+# name:be: [Сядзібна-паркавы комплекс Аскеркаў]
+msgid "Усадебно-парковый комплекс Оскерков"
+msgstr ""
+
+# Objects : [n2788684509]
+# name:be: [Сядзібна-паркавы комплекс Ахраноўскіх]
+msgid "Усадебно-парковый комплекс Охрановских"
+msgstr ""
+
+# Objects : [n2788684554]
+# name:be: [Сядзібна-паркавы комплекс Старжынскіх]
+msgid "Усадебно-парковый комплекс Старжинских"
+msgstr ""
+
+# Objects : [n2788684968]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n306065594]
+# name:be: []
+msgid "Усадьба 'Ольшев'"
+msgstr ""
+
+# Objects : [n306065602]
+# name:be: []
+msgid "Усадьба Сулистровских"
+msgstr ""
+
+# Objects : [n2788685414, n2788685415]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788685310]
+# name:be: [Гаспадарчы двор Скірмунтаў]
+msgid "Хозяйственный двор Скирмунтов"
+msgstr ""
+
+# Objects : [n2788685316]
+# name:be: [Гаспадарчы двор Хамінскіх]
+msgid "Хозяйственный двор Хаминских"
+msgstr ""
+
+# Objects : [n2766728244]
+# name:be: []
+msgid "Хомино"
+msgstr ""
+
+# Objects : [n2788687382, n2788687383]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686276]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788686512]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788686680, n2788686691]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2407388858, n2766728245]
+# name:be: []
+msgid "Чайка"
+msgstr ""
+
+# Objects : [n2788687708, n2788687716]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687536]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2967128432, w293140566]
+# name:be: [Чорная Лужа]
+msgid "Чёрная Лужа"
+msgstr ""
+
+# Objects : [w25195369]
+# name:be: [Чорнае воз.]
+msgid "Черное"
+msgstr ""
+
+# Objects : [n1559348852]
+# name:be: [Цудатворны абраз Маці Божай Будслаўскай]
+msgid "Чудотворная икона Божьей Матери Будславской"
+msgstr ""
+
+# Objects : [n243003058, w25134705]
+# name:be: [Шэметава]
+msgid "Шеметово"
+msgstr ""
+
+# Objects : [w38236216]
+# name:be: []
+msgid "Ячменёк"
+msgstr ""
+

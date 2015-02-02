@@ -1,0 +1,60 @@
+# Objects : [w223516324]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w244858868]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w223513162]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w223516327]
+# name:be: []
+msgid "Дворец культуры"
+msgstr ""
+
+# Objects : [w223516329]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w254045150, w254588245]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w288291408]
+# name:be: []
+msgid "Насосная"
+msgstr ""
+
+# Objects : [w308103834]
+# name:be: [Родны кут]
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w302618237]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [w220165946]
+# name:be: []
+msgid "ТД Ремтехника"
+msgstr ""
+
+# Objects : [w216486338]
+# name:be: []
+msgid "Теплопункт"
+msgstr ""
+
+# Objects : [w223510988]
+# name:be: []
+msgid "Эконом №13"
+msgstr ""
+

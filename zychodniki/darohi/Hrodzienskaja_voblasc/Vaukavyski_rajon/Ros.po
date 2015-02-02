@@ -1,0 +1,125 @@
+# Objects : [w69139035, w69139648]
+# name:be: [Гвардзейская вуліца]
+msgid "Гвардейская улица"
+msgstr ""
+
+# Objects : [w201735888, w69139329]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w69138622]
+# name:be: [Заходняя вуліца]
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [w69139558]
+# name:be: [Кааператыўная вуліца]
+msgid "Кооперативная улица"
+msgstr ""
+
+# Objects : [w69139764]
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w69139761]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w69137745]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w243599359]
+# name:be: []
+msgid "ул. Гастэлло"
+msgstr ""
+
+# Objects : [w243625226]
+# name:be: []
+msgid "ул. Заводская"
+msgstr ""
+
+# Objects : [w69138547]
+# name:be: []
+msgid "ул. Лесная"
+msgstr ""
+
+# Objects : [w313550762]
+# name:be: []
+msgid "ул. Липовая"
+msgstr ""
+
+# Objects : [w69139177]
+# name:be: []
+msgid "ул. Мира"
+msgstr ""
+
+# Objects : [w313683789]
+# name:be: []
+msgid "ул. Молодёжная"
+msgstr ""
+
+# Objects : [w69138411]
+# name:be: []
+msgid "ул. Новая"
+msgstr ""
+
+# Objects : [w313524340, w313524341]
+# name:be: []
+msgid "ул. Привокзальная"
+msgstr ""
+
+# Objects : [w69138733]
+# name:be: []
+msgid "ул. Суворова"
+msgstr ""
+
+# Objects : [w313683790]
+# name:be: []
+msgid "ул. Тиделя"
+msgstr ""
+
+# Objects : [w243599355]
+# name:be: []
+msgid "ул. Центральная"
+msgstr ""
+
+# Objects : [w313676880, w69138932]
+# name:be: []
+msgid "ул. Чапаева"
+msgstr ""
+
+# Objects : [w69138422]
+# name:be: []
+msgid "ул. Энгельса"
+msgstr ""
+
+# Objects : [w69138483]
+# name:be: []
+msgid "ул. Юбилейная"
+msgstr ""
+
+# Objects : [w69138650]
+# name:be: [вуліца 8 Сакавіка]
+msgid "улица 8 Марта"
+msgstr ""
+
+# Objects : [w69137817, w69139646]
+# name:be: [вуліца Карла Маркса]
+msgid "улица Карла Маркса"
+msgstr ""
+
+# Objects : [w69140060]
+# name:be: [вуліца Матросава]
+msgid "улица Матросова"
+msgstr ""
+
+# Objects : [w201735893, w69138907]
+# name:be: [вуліца Шэвякова]
+msgid "улица Шевякова"
+msgstr ""
+

@@ -1,0 +1,285 @@
+# Objects : [n1316548482]
+# name:be: []
+msgid "44 Меридиан"
+msgstr ""
+
+# Objects : [n796955751]
+# name:be: []
+msgid "5 Магазин"
+msgstr ""
+
+# Objects : [n1277038429]
+# name:be: [Ultratech]
+msgid "Ultratech"
+msgstr ""
+
+# Objects : [n675682996]
+# name:be: [Velcom]
+msgid "Velcom"
+msgstr ""
+
+# Objects : [n764917212]
+# name:be: []
+msgid "ZIKO"
+msgstr ""
+
+# Objects : [n796950638]
+# name:be: []
+msgid "Август"
+msgstr ""
+
+# Objects : [n1271808360]
+# name:be: []
+msgid "АлексБор"
+msgstr ""
+
+# Objects : [n1271808353]
+# name:be: [АЛМІ]
+msgid "АЛМИ"
+msgstr ""
+
+# Objects : [n764101046]
+# name:be: []
+msgid "Арт"
+msgstr ""
+
+# Objects : [n3059739133]
+# name:be: []
+msgid "Белвест Маг № 42"
+msgstr ""
+
+# Objects : [n504469070]
+# name:be: []
+msgid "Буратино"
+msgstr ""
+
+# Objects : [n675682992]
+# name:be: [Віцязь]
+msgid "Витязь"
+msgstr ""
+
+# Objects : [n2592359857]
+# name:be: []
+msgid "Гномик"
+msgstr ""
+
+# Objects : [n764461007]
+# name:be: []
+msgid "Горячий хлеб"
+msgstr ""
+
+# Objects : [n675682987]
+# name:be: []
+msgid "Декор"
+msgstr ""
+
+# Objects : [n477864224]
+# name:be: []
+msgid "Евросеть"
+msgstr ""
+
+# Objects : [n767309026]
+# name:be: []
+msgid "Золотой колос"
+msgstr ""
+
+# Objects : [n1309519277]
+# name:be: []
+msgid "ИВЭН"
+msgstr ""
+
+# Objects : [n764917227]
+# name:be: []
+msgid "Импульс"
+msgstr ""
+
+# Objects : [n764917231]
+# name:be: [Каўбасы]
+msgid "Колбасы"
+msgstr ""
+
+# Objects : [n764917233]
+# name:be: []
+msgid "Компьютер +"
+msgstr ""
+
+# Objects : [n504499631]
+# name:be: []
+msgid "Крыница"
+msgstr ""
+
+# Objects : [n925134576]
+# name:be: []
+msgid "Купеческий"
+msgstr ""
+
+# Objects : [n764461017]
+# name:be: []
+msgid "Лилия Тур"
+msgstr ""
+
+# Objects : [n764917191]
+# name:be: []
+msgid "Люмикс"
+msgstr ""
+
+# Objects : [n1407107758]
+# name:be: []
+msgid "Магазин "Луги""
+msgstr ""
+
+# Objects : [n1407112967]
+# name:be: []
+msgid "Магазин автозапчастей "Автошанс""
+msgstr ""
+
+# Objects : [n860044249]
+# name:be: []
+msgid "Мегатоп"
+msgstr ""
+
+# Objects : [n767309049]
+# name:be: [Мілавіца]
+msgid "Милавица"
+msgstr ""
+
+# Objects : [n860152258]
+# name:be: []
+msgid "Мир Косметики Витэкс"
+msgstr ""
+
+# Objects : [n764101154]
+# name:be: []
+msgid "Молодечно мебель"
+msgstr ""
+
+# Objects : [n2592366224]
+# name:be: []
+msgid "Москва"
+msgstr ""
+
+# Objects : [n764101140]
+# name:be: [Ніагара]
+msgid "Ниагара"
+msgstr ""
+
+# Objects : [n521864865]
+# name:be: [Оптыка]
+msgid "Оптика"
+msgstr ""
+
+# Objects : [n764917205]
+# name:be: [Аранжавы верблюд]
+msgid "Оранжевый верблюд"
+msgstr ""
+
+# Objects : [n519175587]
+# name:be: []
+msgid "Паляшук"
+msgstr ""
+
+# Objects : [n533830770]
+# name:be: []
+msgid "Парк"
+msgstr ""
+
+# Objects : [n764461002, n764917188]
+# name:be: []
+msgid "Пикант"
+msgstr ""
+
+# Objects : [n767309020]
+# name:be: []
+msgid "Пирамида"
+msgstr ""
+
+# Objects : [n914888526]
+# name:be: []
+msgid "Полымя"
+msgstr ""
+
+# Objects : [n2874371330]
+# name:be: []
+msgid "Престиж"
+msgstr ""
+
+# Objects : [n1463792471]
+# name:be: []
+msgid "Приём б/у АКБ, продажа новых АКБ, группа компаний ПАК."
+msgstr ""
+
+# Objects : [n764917203]
+# name:be: [Прырода]
+msgid "Природа"
+msgstr ""
+
+# Objects : [n519175589]
+# name:be: []
+msgid "Пятый Элемент"
+msgstr ""
+
+# Objects : [n764461012]
+# name:be: []
+msgid "Росинка"
+msgstr ""
+
+# Objects : [n2592358921]
+# name:be: []
+msgid "Рымботехника"
+msgstr ""
+
+# Objects : [n541990774]
+# name:be: []
+msgid "Санта-9"
+msgstr ""
+
+# Objects : [n767308987]
+# name:be: []
+msgid "Славянка"
+msgstr ""
+
+# Objects : [n2592359858]
+# name:be: []
+msgid "Современник"
+msgstr ""
+
+# Objects : [n764101044]
+# name:be: []
+msgid "Сюрприз"
+msgstr ""
+
+# Objects : [n1385232773]
+# name:be: [Тавары для дома]
+msgid "Товары для дома"
+msgstr ""
+
+# Objects : [n764917196]
+# name:be: []
+msgid "Товары для женщин"
+msgstr ""
+
+# Objects : [n764917238]
+# name:be: [Цэнтральная]
+msgid "Центральный"
+msgstr ""
+
+# Objects : [n764917194]
+# name:be: [Штопар]
+msgid "Штопор"
+msgstr ""
+
+# Objects : [n675682984]
+# name:be: []
+msgid "Эталон"
+msgstr ""
+
+# Objects : [n767309017]
+# name:be: []
+msgid "Янина"
+msgstr ""
+
+# Objects : [n764917221]
+# name:be: []
+msgid "Ясельда"
+msgstr ""
+

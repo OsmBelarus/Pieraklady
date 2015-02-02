@@ -1,0 +1,615 @@
+# Objects : [w321803146]
+# name:be: []
+msgid "12"
+msgstr ""
+
+# Objects : [w323799392]
+# name:be: []
+msgid "45"
+msgstr ""
+
+# Objects : [w323799393]
+# name:be: []
+msgid "46"
+msgstr ""
+
+# Objects : [w323799394]
+# name:be: []
+msgid "50"
+msgstr ""
+
+# Objects : [w323771177]
+# name:be: []
+msgid "62"
+msgstr ""
+
+# Objects : [w323769313]
+# name:be: []
+msgid "7А"
+msgstr ""
+
+# Objects : [w321803147]
+# name:be: []
+msgid "9"
+msgstr ""
+
+# Objects : [w211865849]
+# name:be: []
+msgid "Агротехнический колледж"
+msgstr ""
+
+# Objects : [w211850563]
+# name:be: []
+msgid "административное здание"
+msgstr ""
+
+# Objects : [w209024424]
+# name:be: []
+msgid "Административное здание ЦРБ"
+msgstr ""
+
+# Objects : [w211863175]
+# name:be: []
+msgid "администрация рынка"
+msgstr ""
+
+# Objects : [w209136932]
+# name:be: []
+msgid "Апельсин"
+msgstr ""
+
+# Objects : [w203434277]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w205462942]
+# name:be: []
+msgid "бассейн СОЖ"
+msgstr ""
+
+# Objects : [w211863176, w211912429]
+# name:be: []
+msgid "Безсоюзпечать"
+msgstr ""
+
+# Objects : [w264740395]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w204376029]
+# name:be: []
+msgid "Белита-Витэкс"
+msgstr ""
+
+# Objects : [w211905649, w253134509]
+# name:be: []
+msgid "бойлерная"
+msgstr ""
+
+# Objects : [w209323613]
+# name:be: []
+msgid "Больница ЖД"
+msgstr ""
+
+# Objects : [w209316398]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [w227103214]
+# name:be: []
+msgid "бытовая химия, краски, обои"
+msgstr ""
+
+# Objects : [w226831584]
+# name:be: []
+msgid "Верас"
+msgstr ""
+
+# Objects : [w209182016]
+# name:be: []
+msgid "Ветснаб"
+msgstr ""
+
+# Objects : [w208656681]
+# name:be: []
+msgid "Вневедомственная охрана"
+msgstr ""
+
+# Objects : [w211901698]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w211910959]
+# name:be: []
+msgid "городская баня"
+msgstr ""
+
+# Objects : [w209184383]
+# name:be: []
+msgid "Городской архив"
+msgstr ""
+
+# Objects : [w209141946]
+# name:be: []
+msgid "Горячий хлеб"
+msgstr ""
+
+# Objects : [w204537283]
+# name:be: []
+msgid "Дворец Потемкина"
+msgstr ""
+
+# Objects : [w222743762]
+# name:be: []
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w205616697]
+# name:be: []
+msgid "Доброном"
+msgstr ""
+
+# Objects : [w208406486]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w211858578]
+# name:be: []
+msgid "Дом культуры Цементник"
+msgstr ""
+
+# Objects : [w204204145]
+# name:be: []
+msgid "ДОМ ПИОНЕРОВ"
+msgstr ""
+
+# Objects : [w211858581]
+# name:be: []
+msgid "дом связи"
+msgstr ""
+
+# Objects : [w204201544]
+# name:be: []
+msgid "ДОМ СОВЕТОВ"
+msgstr ""
+
+# Objects : [w211912430]
+# name:be: []
+msgid "Дорожное"
+msgstr ""
+
+# Objects : [w211903573]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [w242699021]
+# name:be: []
+msgid "ДРСУ-198"
+msgstr ""
+
+# Objects : [w211913302]
+# name:be: []
+msgid "ДСУ-20"
+msgstr ""
+
+# Objects : [w203360667]
+# name:be: []
+msgid "ЕВРООПТ"
+msgstr ""
+
+# Objects : [w209166648]
+# name:be: []
+msgid "Железнодорожный вокзал"
+msgstr ""
+
+# Objects : [w209133464]
+# name:be: []
+msgid "Игровой клуб ЖЕТОН"
+msgstr ""
+
+# Objects : [w208407605]
+# name:be: []
+msgid "Игровые клубы Жетон"
+msgstr ""
+
+# Objects : [w209024425]
+# name:be: []
+msgid "Инвекционное отделение ЦРБ"
+msgstr ""
+
+# Objects : [w211909063]
+# name:be: []
+msgid "Каравай"
+msgstr ""
+
+# Objects : [w209166649]
+# name:be: []
+msgid "Квадрат"
+msgstr ""
+
+# Objects : [w209024426]
+# name:be: []
+msgid "Котельная ЦРБ"
+msgstr ""
+
+# Objects : [w208552007]
+# name:be: []
+msgid "кристалл"
+msgstr ""
+
+# Objects : [w211850099]
+# name:be: []
+msgid "Литвина Сервис"
+msgstr ""
+
+# Objects : [w209170804]
+# name:be: []
+msgid "локомативное депо"
+msgstr ""
+
+# Objects : [w209024427]
+# name:be: []
+msgid "ЛОР отделение ЦРБ"
+msgstr ""
+
+# Objects : [w209316401]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w264740258]
+# name:be: []
+msgid "магазин "Хлебный дар""
+msgstr ""
+
+# Objects : [w204209965]
+# name:be: []
+msgid "Магазин  Доброном"
+msgstr ""
+
+# Objects : [w209130203]
+# name:be: []
+msgid "магазин Домовой"
+msgstr ""
+
+# Objects : [w209133465]
+# name:be: []
+msgid "Магазин купола"
+msgstr ""
+
+# Objects : [w209033198]
+# name:be: []
+msgid "магазин Ласунак"
+msgstr ""
+
+# Objects : [w211857218]
+# name:be: []
+msgid "магазин ОРСа"
+msgstr ""
+
+# Objects : [w211857219]
+# name:be: []
+msgid "магазин ОРСа хозайственный"
+msgstr ""
+
+# Objects : [w209161757]
+# name:be: []
+msgid "магазин Продукты"
+msgstr ""
+
+# Objects : [w207721748, w209134333]
+# name:be: []
+msgid "магазин промышленных товаров"
+msgstr ""
+
+# Objects : [w208407606]
+# name:be: []
+msgid "Магазин СОЖ"
+msgstr ""
+
+# Objects : [w211850564]
+# name:be: []
+msgid "магазин Стройматериалы"
+msgstr ""
+
+# Objects : [w209137180]
+# name:be: []
+msgid "магазин Хлебный куток"
+msgstr ""
+
+# Objects : [w209130736]
+# name:be: []
+msgid "магазин Эльдорадо"
+msgstr ""
+
+# Objects : [w209333608]
+# name:be: []
+msgid "Мебель"
+msgstr ""
+
+# Objects : [w204530758]
+# name:be: []
+msgid "МЕЛКООПТОВЫЙ"
+msgstr ""
+
+# Objects : [w209166650]
+# name:be: []
+msgid "Милена"
+msgstr ""
+
+# Objects : [w209024428]
+# name:be: []
+msgid "Морг ЦРБ"
+msgstr ""
+
+# Objects : [w209145513]
+# name:be: []
+msgid "мясо-колбасы"
+msgstr ""
+
+# Objects : [w209024429]
+# name:be: []
+msgid "Невралгическое отделение ЦРБ"
+msgstr ""
+
+# Objects : [w209333611]
+# name:be: []
+msgid "Обувь"
+msgstr ""
+
+# Objects : [w222291206]
+# name:be: []
+msgid "Общежитие ЦШК"
+msgstr ""
+
+# Objects : [w209145608]
+# name:be: []
+msgid "океан"
+msgstr ""
+
+# Objects : [w204209956]
+# name:be: []
+msgid "Орбита"
+msgstr ""
+
+# Objects : [w208834349]
+# name:be: []
+msgid "отделение №714/05 АСБ Беларусбанк"
+msgstr ""
+
+# Objects : [w209139925]
+# name:be: []
+msgid "Патриот"
+msgstr ""
+
+# Objects : [w209024430]
+# name:be: []
+msgid "Пищеблок ЦРБ"
+msgstr ""
+
+# Objects : [w209199839]
+# name:be: []
+msgid "подсобные помещения"
+msgstr ""
+
+# Objects : [w211850102]
+# name:be: []
+msgid "Покрасочный цех"
+msgstr ""
+
+# Objects : [w208678969]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w204201545]
+# name:be: []
+msgid "ПОЧТА"
+msgstr ""
+
+# Objects : [w209024431]
+# name:be: []
+msgid "Прачечная и другие помещения ЦРБ"
+msgstr ""
+
+# Objects : [w209322468]
+# name:be: []
+msgid "Придорожное"
+msgstr ""
+
+# Objects : [w210754008]
+# name:be: []
+msgid "продукты"
+msgstr ""
+
+# Objects : [w209164756]
+# name:be: []
+msgid "продукты Молодежный"
+msgstr ""
+
+# Objects : [w209318338]
+# name:be: []
+msgid "Продукты ОРС"
+msgstr ""
+
+# Objects : [w239285001]
+# name:be: []
+msgid "р/ящ"
+msgstr ""
+
+# Objects : [w204201546]
+# name:be: []
+msgid "РАЙИСПОЛКОМ"
+msgstr ""
+
+# Objects : [w211901699]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w204201547]
+# name:be: []
+msgid "РУП "Белтелеком""
+msgstr ""
+
+# Objects : [w209137179]
+# name:be: []
+msgid "салон связи Евросеть"
+msgstr ""
+
+# Objects : [w209033185]
+# name:be: []
+msgid "Свадебный салон"
+msgstr ""
+
+# Objects : [w209145511]
+# name:be: []
+msgid "светлый"
+msgstr ""
+
+# Objects : [w242701185, w242701193]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [w209317468]
+# name:be: []
+msgid "Склад продтоваров ОРСа"
+msgstr ""
+
+# Objects : [w205463151, w208406682]
+# name:be: []
+msgid "СОЖ"
+msgstr ""
+
+# Objects : [w203434279]
+# name:be: []
+msgid "Союзпечать"
+msgstr ""
+
+# Objects : [w211914346]
+# name:be: []
+msgid "СПМК-102"
+msgstr ""
+
+# Objects : [w211914347]
+# name:be: []
+msgid "СПМК-111"
+msgstr ""
+
+# Objects : [w209033205]
+# name:be: []
+msgid "спортивный магазин"
+msgstr ""
+
+# Objects : [w203434278]
+# name:be: []
+msgid "станция скорая помощь"
+msgstr ""
+
+# Objects : [w211850100]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [w209333612]
+# name:be: []
+msgid "Столовая ОРСа"
+msgstr ""
+
+# Objects : [w204211818]
+# name:be: []
+msgid "Стоматологическая поликлиника"
+msgstr ""
+
+# Objects : [w211850101]
+# name:be: []
+msgid "Страхование Зелёная карта"
+msgstr ""
+
+# Objects : [w209145609]
+# name:be: []
+msgid "строительный"
+msgstr ""
+
+# Objects : [w209024432]
+# name:be: []
+msgid "Терапетивческое отделение Кричевской ЦРБ"
+msgstr ""
+
+# Objects : [w207697743]
+# name:be: []
+msgid "Торговый дом "ВЕК""
+msgstr ""
+
+# Objects : [w209141922]
+# name:be: []
+msgid "Торговый цент ПЛАНЕТА"
+msgstr ""
+
+# Objects : [w209130735]
+# name:be: []
+msgid "Торговый центр Гарант"
+msgstr ""
+
+# Objects : [w207697745]
+# name:be: []
+msgid "Трансформаторная подсанция"
+msgstr ""
+
+# Objects : [w209139926]
+# name:be: []
+msgid "Три кита"
+msgstr ""
+
+# Objects : [w203464209]
+# name:be: []
+msgid "Туристическое бюро"
+msgstr ""
+
+# Objects : [w209133784]
+# name:be: []
+msgid "Универсальный магазин"
+msgstr ""
+
+# Objects : [w208407607]
+# name:be: []
+msgid "Универсам Купаловский""
+msgstr ""
+
+# Objects : [w211863177, w211863178, w211863179]
+# name:be: []
+msgid "Фрукты-Овощи"
+msgstr ""
+
+# Objects : [w209322469]
+# name:be: []
+msgid "Хозяйственный"
+msgstr ""
+
+# Objects : [w209033190]
+# name:be: []
+msgid "Цетральная детская библиотека"
+msgstr ""
+
+# Objects : [w209024433]
+# name:be: []
+msgid "Цетральный корпус ЦРБ"
+msgstr ""
+
+# Objects : [w209145350]
+# name:be: []
+msgid "шанхай"
+msgstr ""
+
+# Objects : [w204531463]
+# name:be: []
+msgid "ЭЛЕКТРОСЕТЬ"
+msgstr ""
+

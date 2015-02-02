@@ -1,0 +1,75 @@
+# Objects : [n306066654]
+# name:be: []
+msgid "Богуславка"
+msgstr ""
+
+# Objects : [w25192822]
+# name:be: [Баравое]
+msgid "Боровое"
+msgstr ""
+
+# Objects : [w253331086]
+# name:be: []
+msgid "Бутербродная"
+msgstr ""
+
+# Objects : [n2788679953]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [w245983729, w253637408]
+# name:be: []
+msgid "водоем"
+msgstr ""
+
+# Objects : [w25198265]
+# name:be: [Выгода]
+msgid "Выгода"
+msgstr ""
+
+# Objects : [w230862081]
+# name:be: []
+msgid "Детский лагерь "Христитанин""
+msgstr ""
+
+# Objects : [w25192312]
+# name:be: []
+msgid "Дикое"
+msgstr ""
+
+# Objects : [n2924647796]
+# name:be: []
+msgid "ДОТ 142"
+msgstr ""
+
+# Objects : [n2924647797]
+# name:be: []
+msgid "ДОТ 176"
+msgstr ""
+
+# Objects : [w218880045, w248782362, w249878775, w253816313]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w227345963]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w252732494]
+# name:be: []
+msgid "ТП"
+msgstr ""
+
+# Objects : [n2788684702, n2788684704]
+# name:be: [Сядзіба Жылінскіх]
+msgid "Усадьба Жилинских"
+msgstr ""
+
+# Objects : [n2788686954]
+# name:be: [Царква Святых Космы і Даміяна]
+msgid "Церковь Святых Космы и Дамиана"
+msgstr ""
+

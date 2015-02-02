@@ -1,0 +1,25 @@
+# Objects : [n1432040819]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n1432040822, n1432040823]
+# name:be: []
+msgid "магазин "Строитель""
+msgstr ""
+
+# Objects : [n1432040824, n1432040825]
+# name:be: [Абутковая фабрыка]
+msgid "Обувная фабрика"
+msgstr ""
+
+# Objects : [n1432040826, n1432040827]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [n1432040834]
+# name:be: [Універмаг]
+msgid "универмаг"
+msgstr ""
+

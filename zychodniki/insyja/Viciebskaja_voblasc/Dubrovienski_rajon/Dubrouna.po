@@ -1,0 +1,65 @@
+# Objects : [w156001182]
+# name:be: []
+msgid "Ветстанция"
+msgstr ""
+
+# Objects : [n2788680208]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w155792600]
+# name:be: []
+msgid "Забубровенское"
+msgstr ""
+
+# Objects : [w156185705]
+# name:be: []
+msgid "Красноармейское"
+msgstr ""
+
+# Objects : [w151704336]
+# name:be: []
+msgid "Ленок"
+msgstr ""
+
+# Objects : [w306783535]
+# name:be: []
+msgid "Лицей с/х производства"
+msgstr ""
+
+# Objects : [w156162056, w156185707]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w146340545]
+# name:be: []
+msgid "Магазин Райпо"
+msgstr ""
+
+# Objects : [n2788683005]
+# name:be: [Кляштар бэрнардынаў]
+msgid "Монастырь бернардинцев"
+msgstr ""
+
+# Objects : [w151601206]
+# name:be: []
+msgid "Огородник"
+msgstr ""
+
+# Objects : [w155256012]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2788684385]
+# name:be: [Суконная мануфактура]
+msgid "Суконная мануфактура"
+msgstr ""
+
+# Objects : [w156162058]
+# name:be: []
+msgid "УП ЖКХ "Дубровно Коммунальник""
+msgstr ""
+

@@ -1,0 +1,170 @@
+# Objects : [w292683348]
+# name:be: []
+msgid "ангар"
+msgstr ""
+
+# Objects : [w25198717]
+# name:be: []
+msgid "Антонов"
+msgstr ""
+
+# Objects : [w25200656]
+# name:be: [Белае]
+msgid "Белое"
+msgstr ""
+
+# Objects : [n271041159]
+# name:be: [Брынёва]
+msgid "Бринёво"
+msgstr ""
+
+# Objects : [n2666727051]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w81554197]
+# name:be: []
+msgid "Дачный поселок"
+msgstr ""
+
+# Objects : [w48864184]
+# name:be: []
+msgid "Житковичский моторостроительный завод"
+msgstr ""
+
+# Objects : [w292988994]
+# name:be: []
+msgid "заправка ГСМ"
+msgstr ""
+
+# Objects : [n2788680612]
+# name:be: [Могілкі Барысаглебскія]
+msgid "Кладбище Борисоглебское"
+msgstr ""
+
+# Objects : [n2788680736]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [w258104365]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w25195522]
+# name:be: []
+msgid "Коноплище"
+msgstr ""
+
+# Objects : [w294804385]
+# name:be: []
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w293000589]
+# name:be: [Малочна-таварная ферма "Верасніца"]
+msgid "Молочно-товарная ферма "Вересница""
+msgstr ""
+
+# Objects : [w25193951]
+# name:be: []
+msgid "Найда"
+msgstr ""
+
+# Objects : [r3875969, w291858804, w291858805]
+# name:be: [Нацыянальны парк "Прыпяцкі"]
+msgid "Национальный парк "Припятский""
+msgstr ""
+
+# Objects : [w293669134, w294789270]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w25194961, w25197382]
+# name:be: []
+msgid "Плесо"
+msgstr ""
+
+# Objects : [w25194460]
+# name:be: []
+msgid "Плищин"
+msgstr ""
+
+# Objects : [n2965938321, w293668687]
+# name:be: []
+msgid "Победа улица"
+msgstr ""
+
+# Objects : [n306068845]
+# name:be: []
+msgid "Полесский"
+msgstr ""
+
+# Objects : [w25193314, w25193921]
+# name:be: []
+msgid "Скрипица"
+msgstr ""
+
+# Objects : [w278765549]
+# name:be: []
+msgid "Случанка"
+msgstr ""
+
+# Objects : [w25189971]
+# name:be: []
+msgid "Ст.Река"
+msgstr ""
+
+# Objects : [w25186054]
+# name:be: []
+msgid "Старуха"
+msgstr ""
+
+# Objects : [n2766728231, n306068790]
+# name:be: [Старушкі]
+msgid "Старушки"
+msgstr ""
+
+# Objects : [w293032259]
+# name:be: []
+msgid "Территория гаража"
+msgstr ""
+
+# Objects : [w289703782]
+# name:be: []
+msgid "Торфопредприятие"
+msgstr ""
+
+# Objects : [n1147415615]
+# name:be: []
+msgid "Учебный городок"
+msgstr ""
+
+# Objects : [n2766728241]
+# name:be: []
+msgid "Хлупинская Буда"
+msgstr ""
+
+# Objects : [n2788687477]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [r540963]
+# name:be: [Чырвоная]
+msgid "Червоное"
+msgstr ""
+
+# Objects : [n2766728246]
+# name:be: []
+msgid "Черетянка"
+msgstr ""
+
+# Objects : [w25198061]
+# name:be: []
+msgid "Широкое"
+msgstr ""
+

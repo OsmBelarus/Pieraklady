@@ -1,0 +1,225 @@
+# Objects : [r71116]
+# name:be: [Баранавіцкі раён]
+msgid "Барановичский район"
+msgstr ""
+
+# Objects : [r70637]
+# name:be: [Бялыніцкі раён]
+msgid "Белыничский район"
+msgstr ""
+
+# Objects : [r70575]
+# name:be: [Бярэзінскі раён]
+msgid "Березинский район"
+msgstr ""
+
+# Objects : [r70569]
+# name:be: [Барысаўскі раён]
+msgid "Борисовский район"
+msgstr ""
+
+# Objects : [r70568]
+# name:be: [Вілейскі раён]
+msgid "Вилейский район"
+msgstr ""
+
+# Objects : [r70565]
+# name:be: [Валожынскі раён]
+msgid "Воложинский район"
+msgstr ""
+
+# Objects : [r71121]
+# name:be: [Ганцавіцкі раён]
+msgid "Ганцевичский район"
+msgstr ""
+
+# Objects : [r71138]
+# name:be: [Глускі раён]
+msgid "Глусский район"
+msgstr ""
+
+# Objects : [r70563]
+# name:be: [Дзяржынскі раён]
+msgid "Дзержинский район"
+msgstr ""
+
+# Objects : [r70716]
+# name:be: [Докшыцкі раён]
+msgid "Докшицкий район"
+msgstr ""
+
+# Objects : [r71149]
+# name:be: [Жыткавіцкі раён]
+msgid "Житковичский район"
+msgstr ""
+
+# Objects : [r70732]
+# name:be: [Іўеўскі раён]
+msgid "Ивьевский район"
+msgstr ""
+
+# Objects : [r71130]
+# name:be: [Клецкі раён]
+msgid "Клецкий район"
+msgstr ""
+
+# Objects : [r70577]
+# name:be: [Клічаўскі раён]
+msgid "Кличевский район"
+msgstr ""
+
+# Objects : [r71132]
+# name:be: [Капыльскі раён]
+msgid "Копыльский район"
+msgstr ""
+
+# Objects : [r70751]
+# name:be: [Карэліцкі раён]
+msgid "Кореличский район"
+msgstr ""
+
+# Objects : [r70638]
+# name:be: [Круглянскі раён]
+msgid "Круглянский район"
+msgstr ""
+
+# Objects : [r70639]
+# name:be: [Крупскі раён]
+msgid "Крупский район"
+msgstr ""
+
+# Objects : [r70679]
+# name:be: [Лепельскі раён]
+msgid "Лепельский район"
+msgstr ""
+
+# Objects : [r70542]
+# name:be: [Лагойскі раён]
+msgid "Логойский район"
+msgstr ""
+
+# Objects : [r71124]
+# name:be: [Лунінецкі раён]
+msgid "Лунинецкий район"
+msgstr ""
+
+# Objects : [r71140]
+# name:be: [Любанскі раён]
+msgid "Любаньский район"
+msgstr ""
+
+# Objects : [r71117]
+# name:be: [Ляхавіцкі раён]
+msgid "Ляховичский район"
+msgstr ""
+
+# Objects : [r59190]
+# name:be: [Мінскі раён]
+msgid "Минский район"
+msgstr ""
+
+# Objects : [r70566]
+# name:be: [Маладзечанскі раён]
+msgid "Молодечненский район"
+msgstr ""
+
+# Objects : [r70719]
+# name:be: [Мядзельскі раён]
+msgid "Мядельский район"
+msgstr ""
+
+# Objects : [r71128]
+# name:be: [Нясвіжскі раён]
+msgid "Несвижский район"
+msgstr ""
+
+# Objects : [r70749]
+# name:be: [Навагрудскі раён]
+msgid "Новогрудский район"
+msgstr ""
+
+# Objects : [r59755]
+# name:be: [Акцябрскі раён]
+msgid "Октябрьский район"
+msgstr ""
+
+# Objects : [r59753]
+# name:be: [Асіповіцкі раён]
+msgid "Осиповичский район"
+msgstr ""
+
+# Objects : [r70721]
+# name:be: [Астравецкі раён]
+msgid "Островецкий район"
+msgstr ""
+
+# Objects : [r70728]
+# name:be: [Ашмянскі раён]
+msgid "Ошмянский район"
+msgstr ""
+
+# Objects : [r71145]
+# name:be: [Петрыкаўскі раён]
+msgid "Петриковский район"
+msgstr ""
+
+# Objects : [r70707]
+# name:be: [Пастаўскі раён]
+msgid "Поставский район"
+msgstr ""
+
+# Objects : [r70549]
+# name:be: [Пухавіцкі раён]
+msgid "Пуховичский район"
+msgstr ""
+
+# Objects : [r71134]
+# name:be: [Слуцкі раён]
+msgid "Слуцкий район"
+msgstr ""
+
+# Objects : [r69554]
+# name:be: [Смалявіцкі раён]
+msgid "Смолевичский район"
+msgstr ""
+
+# Objects : [r70725]
+# name:be: [Смаргонскі раён]
+msgid "Сморгонский район"
+msgstr ""
+
+# Objects : [r71133]
+# name:be: [Салігорскі раён]
+msgid "Солигорский район"
+msgstr ""
+
+# Objects : [r71135]
+# name:be: [Старадарожскі раён]
+msgid "Стародорожский район"
+msgstr ""
+
+# Objects : [r70752]
+# name:be: [Стаўбцоўскі раён]
+msgid "Столбцовский район"
+msgstr ""
+
+# Objects : [r70649]
+# name:be: [Талачынскі раён]
+msgid "Толочинский район"
+msgstr ""
+
+# Objects : [r70561]
+# name:be: [Уздзенскі раён]
+msgid "Узденский район"
+msgstr ""
+
+# Objects : [r70746]
+# name:be: [Чашніцкі раён]
+msgid "Чашникский район"
+msgstr ""
+
+# Objects : [r59751]
+# name:be: [Чэрвеньскі раён]
+msgid "Червенский район"
+msgstr ""
+

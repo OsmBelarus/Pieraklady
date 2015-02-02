@@ -1,0 +1,110 @@
+# Objects : [n1248253824]
+# name:be: []
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [n1241774862, n791167275]
+# name:be: [Банк "Масква-Мінск"]
+msgid "Банк "Москва-Минск""
+msgstr ""
+
+# Objects : [n2765815644, n3295396962]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1248253762, n1302690360, n1748324012, n2557623096, n306063932, n306064041, n3158890692, n3295396961, n3295540831, n3307583807, n3307638768, n3322778162]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n2106318335]
+# name:be: []
+msgid "БелВЭБ"
+msgstr ""
+
+# Objects : [n3056912433, n306068116]
+# name:be: []
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [n1242826571, n1246224736, n1798084565, n306063512, n306063922, n306064003]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [w102279452]
+# name:be: []
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [w58064512]
+# name:be: []
+msgid "Брестское управление Нацбанка"
+msgstr ""
+
+# Objects : [n1446468414, n3189607988]
+# name:be: []
+msgid "ВТБ Банк"
+msgstr ""
+
+# Objects : [n1771632444]
+# name:be: []
+msgid "ВТБ-Банк"
+msgstr ""
+
+# Objects : [n1629403521]
+# name:be: []
+msgid "Дельтабанк"
+msgstr ""
+
+# Objects : [w58064500]
+# name:be: []
+msgid "Москва-Минск"
+msgstr ""
+
+# Objects : [n2643972354]
+# name:be: []
+msgid "Мтбанк"
+msgstr ""
+
+# Objects : [n1204103307]
+# name:be: [МТБанк]
+msgid "МТБанк"
+msgstr ""
+
+# Objects : [n953914546]
+# name:be: [ААТ «ААБ Беларусбанк» філіял №100]
+msgid "ОАО "АСБ Беларусбанк" филиал №100"
+msgstr ""
+
+# Objects : [n1236162701]
+# name:be: []
+msgid "отд. Белагропромбанк"
+msgstr ""
+
+# Objects : [n764074474]
+# name:be: []
+msgid "отделение №100/118 АСБ "Беларусбанк""
+msgstr ""
+
+# Objects : [n739674584]
+# name:be: [Аддзяленне №126/47 Беларусбанка]
+msgid "отделение №126/47 Беларусбанка"
+msgstr ""
+
+# Objects : [n840576703]
+# name:be: [Пріорбанк: цэнтр банкаўскіх паслуг]
+msgid "Приорбанк: Центр Банковских Услуг 500"
+msgstr ""
+
+# Objects : [n3306870466]
+# name:be: []
+msgid "Франсабанк"
+msgstr ""
+
+# Objects : [n1752944754]
+# name:be: []
+msgid "Хоумкредитбанк"
+msgstr ""
+

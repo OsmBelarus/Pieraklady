@@ -1,0 +1,280 @@
+# Objects : [n2202222623]
+# name:be: []
+msgid "24 часа"
+msgstr ""
+
+# Objects : [n3178581660]
+# name:be: []
+msgid "Dozari"
+msgstr ""
+
+# Objects : [n2223383176]
+# name:be: []
+msgid "Golden Play"
+msgstr ""
+
+# Objects : [n2262621045]
+# name:be: []
+msgid "Velcom"
+msgstr ""
+
+# Objects : [n2262583892]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1677694652, n1677717643, n2249297395, n2278130135]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [n2244477329]
+# name:be: []
+msgid "Валерия"
+msgstr ""
+
+# Objects : [n2225640073]
+# name:be: []
+msgid "Верас"
+msgstr ""
+
+# Objects : [n2225548274]
+# name:be: []
+msgid "Верасок"
+msgstr ""
+
+# Objects : [n2225667693]
+# name:be: []
+msgid "Гаспадынька"
+msgstr ""
+
+# Objects : [n2202190464, n2262583893]
+# name:be: []
+msgid "Горячий хлеб"
+msgstr ""
+
+# Objects : [n2202200418]
+# name:be: []
+msgid "Детский мир"
+msgstr ""
+
+# Objects : [n2260094546]
+# name:be: []
+msgid "Дом Мебели"
+msgstr ""
+
+# Objects : [n1233154405]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
+# Objects : [n2262621047]
+# name:be: []
+msgid "Домовой плюс"
+msgstr ""
+
+# Objects : [n2225647568]
+# name:be: []
+msgid "Жемчужина"
+msgstr ""
+
+# Objects : [n1776805797]
+# name:be: []
+msgid "Журавушка"
+msgstr ""
+
+# Objects : [n1247602844]
+# name:be: []
+msgid "Ивушка"
+msgstr ""
+
+# Objects : [n2262621048]
+# name:be: []
+msgid "Калинка"
+msgstr ""
+
+# Objects : [n2226014161]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [n1247602852]
+# name:be: []
+msgid "Корзинка"
+msgstr ""
+
+# Objects : [n2202209365, n2246676597]
+# name:be: []
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n3178612753]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n2246689657]
+# name:be: []
+msgid "Маяк"
+msgstr ""
+
+# Objects : [n1233154391]
+# name:be: []
+msgid "Минутка"
+msgstr ""
+
+# Objects : [n2278130136]
+# name:be: []
+msgid "Мираж"
+msgstr ""
+
+# Objects : [n2262621049]
+# name:be: []
+msgid "Мтс"
+msgstr ""
+
+# Objects : [n2226008850]
+# name:be: []
+msgid "На Варшавской"
+msgstr ""
+
+# Objects : [n2262583894]
+# name:be: []
+msgid "Наталья"
+msgstr ""
+
+# Objects : [n2246999087]
+# name:be: []
+msgid "Околица"
+msgstr ""
+
+# Objects : [n2249288586]
+# name:be: []
+msgid "Олимп"
+msgstr ""
+
+# Objects : [n2225764796]
+# name:be: []
+msgid "Омега"
+msgstr ""
+
+# Objects : [n1677695025, n3178608314]
+# name:be: []
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n2244510765]
+# name:be: []
+msgid "Перекрёсток"
+msgstr ""
+
+# Objects : [n2225672264]
+# name:be: []
+msgid "Петушок"
+msgstr ""
+
+# Objects : [n2202191777]
+# name:be: []
+msgid "Подарки"
+msgstr ""
+
+# Objects : [n2225542536]
+# name:be: []
+msgid "Полесье"
+msgstr ""
+
+# Objects : [n2262621050]
+# name:be: []
+msgid "Престиж"
+msgstr ""
+
+# Objects : [n1233154369, n1776805798]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2226009880]
+# name:be: []
+msgid "Продукты №3"
+msgstr ""
+
+# Objects : [n2608254749]
+# name:be: []
+msgid "Ритуал"
+msgstr ""
+
+# Objects : [n1677682092]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [n2278130137]
+# name:be: []
+msgid "Скарб"
+msgstr ""
+
+# Objects : [n1677694769]
+# name:be: []
+msgid "Спорттовары"
+msgstr ""
+
+# Objects : [n2202213455]
+# name:be: []
+msgid "Строитель"
+msgstr ""
+
+# Objects : [n2225639859]
+# name:be: []
+msgid "Строй свой дом"
+msgstr ""
+
+# Objects : [n2225633611]
+# name:be: []
+msgid "Сузор'е"
+msgstr ""
+
+# Objects : [n2278157840]
+# name:be: []
+msgid "Техно"
+msgstr ""
+
+# Objects : [n2226006564]
+# name:be: []
+msgid "Товары повседневного спроса"
+msgstr ""
+
+# Objects : [n2278130138]
+# name:be: []
+msgid "Уют"
+msgstr ""
+
+# Objects : [n1677694001]
+# name:be: []
+msgid "Флора"
+msgstr ""
+
+# Objects : [n2225640155]
+# name:be: []
+msgid "Фортуна"
+msgstr ""
+
+# Objects : [n2596833515]
+# name:be: []
+msgid "Цифра"
+msgstr ""
+
+# Objects : [n1233154401, n306069659]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n2608254752]
+# name:be: []
+msgid "Эконом"
+msgstr ""
+
+# Objects : [n3178616087]
+# name:be: []
+msgid "Элегант"
+msgstr ""
+

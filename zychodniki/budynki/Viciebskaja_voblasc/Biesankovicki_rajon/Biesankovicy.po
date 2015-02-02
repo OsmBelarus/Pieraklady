@@ -1,0 +1,80 @@
+# Objects : [w147256920]
+# name:be: ["Культавары"]
+msgid ""Культовары""
+msgstr ""
+
+# Objects : [w147229312]
+# name:be: []
+msgid ""Продукты""
+msgstr ""
+
+# Objects : [w146603485]
+# name:be: []
+msgid ""Сосны""
+msgstr ""
+
+# Objects : [w147256921]
+# name:be: []
+msgid "автомагазин "Гаспадар""
+msgstr ""
+
+# Objects : [w147422121]
+# name:be: []
+msgid "Аптека ветеринарная"
+msgstr ""
+
+# Objects : [w147227499]
+# name:be: []
+msgid "Аптека УП "Фармация""
+msgstr ""
+
+# Objects : [w147254969]
+# name:be: [Райвыканкам]
+msgid "Бешенковичский райисполком"
+msgstr ""
+
+# Objects : [w147256914]
+# name:be: []
+msgid "Библиотека центральная"
+msgstr ""
+
+# Objects : [w130740927]
+# name:be: [Дзяжурны]
+msgid "Дежурный"
+msgstr ""
+
+# Objects : [w147227425]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w147135921]
+# name:be: [Магазін дзіцячага адзення "" Бель Бімба ""]
+msgid "Магазин детской одежды " "Белль Бимбо"""
+msgstr ""
+
+# Objects : [w146590700]
+# name:be: []
+msgid "районная поликлиника"
+msgstr ""
+
+# Objects : [w147135922]
+# name:be: [Раённы гісторыка-краязнаўчы музей]
+msgid "Районный историко-краеведческий музей"
+msgstr ""
+
+# Objects : [w240251500]
+# name:be: [ГЦ "Журавінка"]
+msgid "ТЦ "Журавинка""
+msgstr ""
+
+# Objects : [w147256927]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w130740934]
+# name:be: [Універсам "Бешанковіцкі"]
+msgid "Универсам "Бешенковичский""
+msgstr ""
+

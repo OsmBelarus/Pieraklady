@@ -1,0 +1,225 @@
+# Objects : [w34575241]
+# name:be: []
+msgid "Вторая пионерская улица"
+msgstr ""
+
+# Objects : [w34575663]
+# name:be: [Дняпроўская вуліца]
+msgid "Днепровская улица"
+msgstr ""
+
+# Objects : [w34575104]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w34575519]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w34575239]
+# name:be: []
+msgid "Кооперативная улица"
+msgstr ""
+
+# Objects : [w34575441]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w34574965]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w311216187, w34575725, w34575767]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w34575553]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w311368889, w34574759, w34574856]
+# name:be: []
+msgid "переулок Чапаева"
+msgstr ""
+
+# Objects : [w34575584]
+# name:be: []
+msgid "переулок Шевелёва"
+msgstr ""
+
+# Objects : [w255229980, w34575027]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w137929783]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w34574908]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w102208392]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w34574963]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w311368890, w34575185]
+# name:be: []
+msgid "улица 40 лет БССР"
+msgstr ""
+
+# Objects : [w34575785]
+# name:be: []
+msgid "улица Апарина"
+msgstr ""
+
+# Objects : [w34575268]
+# name:be: [вуліца Батава]
+msgid "улица Батова"
+msgstr ""
+
+# Objects : [w34574755]
+# name:be: [вуліца Волкава]
+msgid "улица Волкова"
+msgstr ""
+
+# Objects : [w34575664]
+# name:be: []
+msgid "улица Ворошилова"
+msgstr ""
+
+# Objects : [w34575652]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w34575252]
+# name:be: []
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w310625381]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [w34574966]
+# name:be: [вуліца Ермакова]
+msgid "улица Ермакова"
+msgstr ""
+
+# Objects : [w34575585]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w34575722]
+# name:be: [вуліца Казлова]
+msgid "улица Козлова"
+msgstr ""
+
+# Objects : [w34574690]
+# name:be: [вуліца Канстанцінава]
+msgid "улица Константинова"
+msgstr ""
+
+# Objects : [w80249234]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w34575662]
+# name:be: []
+msgid "улица маршала Рокоссовского"
+msgstr ""
+
+# Objects : [w34574964]
+# name:be: [вуліца Мележа]
+msgid "улица Мележа"
+msgstr ""
+
+# Objects : [w34575790]
+# name:be: []
+msgid "улица Мелиораторов"
+msgstr ""
+
+# Objects : [w34575786]
+# name:be: []
+msgid "улица Партизанская"
+msgstr ""
+
+# Objects : [w34575248]
+# name:be: [вуліца Пінчука]
+msgid "улица Пинчука"
+msgstr ""
+
+# Objects : [w34573697, w34574424, w34574425, w34575354, w34575376]
+# name:be: [вуліца Сінякова]
+msgid "улица Синякова"
+msgstr ""
+
+# Objects : [w34575101]
+# name:be: [вуліца Тэльмана]
+msgid "улица Тельмана"
+msgstr ""
+
+# Objects : [w34575350]
+# name:be: [вуліца Фраленкова]
+msgid "улица Фроленкова"
+msgstr ""
+
+# Objects : [w34574698]
+# name:be: [вуліца Царыкава]
+msgid "улица Царикова"
+msgstr ""
+
+# Objects : [w137929781, w34574843]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w137929782, w80249233]
+# name:be: [вуліца Шэвелёва]
+msgid "улица Шевелёва"
+msgstr ""
+
+# Objects : [w34575275]
+# name:be: [вуліца Шыпілава]
+msgid "улица Шипилова"
+msgstr ""
+
+# Objects : [w34575245]
+# name:be: []
+msgid "улица Щорса"
+msgstr ""
+
+# Objects : [w34574976]
+# name:be: []
+msgid "улица Южная"
+msgstr ""
+
+# Objects : [w34575688]
+# name:be: []
+msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w137929785]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+

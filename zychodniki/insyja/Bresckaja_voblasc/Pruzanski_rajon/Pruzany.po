@@ -1,0 +1,250 @@
+# Objects : [w316187164]
+# name:be: []
+msgid "Mart inn"
+msgstr ""
+
+# Objects : [n1942692466]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n1456254137]
+# name:be: [Верас]
+msgid "Верас"
+msgstr ""
+
+# Objects : [n1483772231]
+# name:be: []
+msgid "Вертолёт Ми-24"
+msgstr ""
+
+# Objects : [w183862547]
+# name:be: []
+msgid "ветстанция"
+msgstr ""
+
+# Objects : [n1252485715]
+# name:be: []
+msgid "Водный дворец"
+msgstr ""
+
+# Objects : [n1942692477]
+# name:be: []
+msgid "Герб города Пружаны"
+msgstr ""
+
+# Objects : [w291554013]
+# name:be: []
+msgid "горгаз"
+msgstr ""
+
+# Objects : [n2766736622]
+# name:be: []
+msgid "Гостиница Мухавец"
+msgstr ""
+
+# Objects : [n2323053996]
+# name:be: []
+msgid "Дворец культуры"
+msgstr ""
+
+# Objects : [w316186395]
+# name:be: []
+msgid "дрсу-140"
+msgstr ""
+
+# Objects : [w126213979]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [w128122609]
+# name:be: []
+msgid "Завод радиодеталей"
+msgstr ""
+
+# Objects : [w126497866]
+# name:be: [Каталіцкія могілкі]
+msgid "Католическое кладбище"
+msgstr ""
+
+# Objects : [n2788681099]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [w291555889]
+# name:be: []
+msgid "Коммунальник"
+msgstr ""
+
+# Objects : [n2788682312]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n1942692482]
+# name:be: []
+msgid "Кран АБК-4"
+msgstr ""
+
+# Objects : [n3305904759]
+# name:be: []
+msgid "КУПП АПП "Пружанская архитектура""
+msgstr ""
+
+# Objects : [w321088545]
+# name:be: []
+msgid "курочка"
+msgstr ""
+
+# Objects : [w183862817]
+# name:be: []
+msgid "Ледовая площадка"
+msgstr ""
+
+# Objects : [n1467631959]
+# name:be: [Ленін]
+msgid "Ленин"
+msgstr ""
+
+# Objects : [w183862818]
+# name:be: []
+msgid "Минирынок"
+msgstr ""
+
+# Objects : [n997645936]
+# name:be: [Мухавец]
+msgid "Мухавец"
+msgstr ""
+
+# Objects : [n1467634809]
+# name:be: []
+msgid "Нулевой километр"
+msgstr ""
+
+# Objects : [n1483751822]
+# name:be: []
+msgid "Памятник лётчику С. М. Гудимову"
+msgstr ""
+
+# Objects : [n1483772237]
+# name:be: []
+msgid "Памятник сожжённым деревням"
+msgstr ""
+
+# Objects : [n997634924]
+# name:be: []
+msgid "Полесские легенды"
+msgstr ""
+
+# Objects : [w126494771]
+# name:be: []
+msgid "Православное кладбище"
+msgstr ""
+
+# Objects : [w128079749, w128079750]
+# name:be: []
+msgid "Пружанская районная больница"
+msgstr ""
+
+# Objects : [n1942692524, n1942692535]
+# name:be: []
+msgid "Пружанский государственный аграрно-технический колледж"
+msgstr ""
+
+# Objects : [w127625212]
+# name:be: []
+msgid "Пружанский льнозавод"
+msgstr ""
+
+# Objects : [w128079108]
+# name:be: []
+msgid "Пружанский молокозавод"
+msgstr ""
+
+# Objects : [n1416160049]
+# name:be: []
+msgid "Пружанский рынок"
+msgstr ""
+
+# Objects : [n2711320691]
+# name:be: []
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [n997635192]
+# name:be: []
+msgid "Рандеву"
+msgstr ""
+
+# Objects : [n695498915]
+# name:be: []
+msgid "река Мухавец"
+msgstr ""
+
+# Objects : [n997631817]
+# name:be: [РАУС]
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w133403894]
+# name:be: []
+msgid "санстанция"
+msgstr ""
+
+# Objects : [n1942692555]
+# name:be: []
+msgid "Слияние рек Муха и Вец"
+msgstr ""
+
+# Objects : [n3143749052]
+# name:be: []
+msgid "Стамоталогическая поликлиника "
+msgstr ""
+
+# Objects : [n2788684393]
+# name:be: [Гандлёвыя рады]
+msgid "Торговые ряды"
+msgstr ""
+
+# Objects : [n2788684576]
+# name:be: [Сядзібна-паркавы комплекс Швыкоўскіх]
+msgid "Усадебно-парковый комплекс Швыковских"
+msgstr ""
+
+# Objects : [n997638513]
+# name:be: []
+msgid "Усадьба Швыковских"
+msgstr ""
+
+# Objects : [n997646162]
+# name:be: []
+msgid "Фараон"
+msgstr ""
+
+# Objects : [n1942692559]
+# name:be: []
+msgid "ФСЗН"
+msgstr ""
+
+# Objects : [n2788686258]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788687632]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n997647174]
+# name:be: []
+msgid "Эдем"
+msgstr ""
+
+# Objects : [n1252485710]
+# name:be: []
+msgid "Электростанция"
+msgstr ""
+

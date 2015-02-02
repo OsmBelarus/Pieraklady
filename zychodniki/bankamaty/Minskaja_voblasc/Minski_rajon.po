@@ -1,0 +1,35 @@
+# Objects : [n1296485988]
+# name:be: []
+msgid "Альфабанк"
+msgstr ""
+
+# Objects : [n661028922]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n305685770, n305685772]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n305685771]
+# name:be: [Белінвест]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n305685798]
+# name:be: []
+msgid "Белсвиссбанк"
+msgstr ""
+
+# Objects : [n2129823474]
+# name:be: []
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n305686710, n305686791]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+

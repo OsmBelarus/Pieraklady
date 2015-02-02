@@ -1,0 +1,545 @@
+# Objects : [w208239177]
+# name:be: [1-ы Ленінскі завулак]
+msgid "1-й Ленинский переулок"
+msgstr ""
+
+# Objects : [w25273401]
+# name:be: [1-я Ленінская вуліца]
+msgid "1-я Ленинская улица"
+msgstr ""
+
+# Objects : [w208217963, w25545383]
+# name:be: [2-я Ленінская вуліца]
+msgid "2-я Ленинская улица"
+msgstr ""
+
+# Objects : [w208381077]
+# name:be: [Баравая вуліца]
+msgid "Боровая улица"
+msgstr ""
+
+# Objects : [w208377857]
+# name:be: [Вясновая вуліца]
+msgid "Весенняя улица"
+msgstr ""
+
+# Objects : [w25543435]
+# name:be: [Вішнёвая вуліца]
+msgid "Вишнёвая улица"
+msgstr ""
+
+# Objects : [w208215931]
+# name:be: [Вакзальная вуліца]
+msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w208376490, w208377855]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w208377856]
+# name:be: [Вясковая вуліца]
+msgid "Деревенская улица"
+msgstr ""
+
+# Objects : [w208233083]
+# name:be: [Дружная вуліца]
+msgid "Дружная улица"
+msgstr ""
+
+# Objects : [w208377362]
+# name:be: [Дзягільнская вуліца]
+msgid "Дягильнская улица"
+msgstr ""
+
+# Objects : [w208215729]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w208239041]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w208238982]
+# name:be: [Заводскі завулак]
+msgid "Заводской переулок"
+msgstr ""
+
+# Objects : [w201543800]
+# name:be: [Загарадная вуліца]
+msgid "Загородная улица"
+msgstr ""
+
+# Objects : [w208233145]
+# name:be: [Заходняя вуліца]
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [w208233144]
+# name:be: [Зорная вуліца]
+msgid "Звёздная улица"
+msgstr ""
+
+# Objects : [w208383318]
+# name:be: [Зялёная вуліца]
+msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w97685812]
+# name:be: [Інтэрнацыянальная вуліца]
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w25543436]
+# name:be: [Кальцавая вуліца]
+msgid "Кольцевая улица"
+msgstr ""
+
+# Objects : [w208223760]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [w208221714]
+# name:be: [Камуністычная вуліца]
+msgid "Коммунистическая улица"
+msgstr ""
+
+# Objects : [w208220487]
+# name:be: [Камуністычны завулак]
+msgid "Коммунистический переулок"
+msgstr ""
+
+# Objects : [w34713738]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w25543441]
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w97685695]
+# name:be: [Крутагорская вуліца]
+msgid "Крутогорская улица"
+msgstr ""
+
+# Objects : [w208378346]
+# name:be: [Лазурная вуліца]
+msgid "Лазурная улица"
+msgstr ""
+
+# Objects : [w25543443]
+# name:be: [Ленінградская вуліца]
+msgid "Ленинградская улица"
+msgstr ""
+
+# Objects : [w208377648]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w208378486]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w208377249]
+# name:be: [Майская вуліца]
+msgid "Майская улица"
+msgstr ""
+
+# Objects : [w208378294]
+# name:be: [Макаўчыцкая вуліца]
+msgid "Макавчицкая улица"
+msgstr ""
+
+# Objects : [w25273370, w25273403, w25545382, w57851227]
+# name:be: [Мінская вуліца]
+msgid "Минская улица"
+msgstr ""
+
+# Objects : [w25543444]
+# name:be: [Моладзевая вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w208388478]
+# name:be: [Набярэжная вуліца]
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w208233142]
+# name:be: [Негарэльская вуліца]
+msgid "Негорельская улица"
+msgstr ""
+
+# Objects : [w25545537]
+# name:be: [Азёрная вуліца]
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w208375733, w208405578]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w25543513]
+# name:be: [Паркавая вуліца]
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w208377657]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w25543511, w25545393]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w318749484]
+# name:be: []
+msgid "Переулок Вишнёвый"
+msgstr ""
+
+# Objects : [w208376424]
+# name:be: [завулак Астроўскага]
+msgid "переулок Островского"
+msgstr ""
+
+# Objects : [w25543437]
+# name:be: [завулак Садовы]
+msgid "переулок Садовый"
+msgstr ""
+
+# Objects : [w208233767, w208376177]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w25545386]
+# name:be: [плошча Дзяржынскага]
+msgid "площадь Дзержинского"
+msgstr ""
+
+# Objects : [w208231582]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w34713593]
+# name:be: [Паштовы завулак]
+msgid "Почтовый переулок"
+msgstr ""
+
+# Objects : [w208377858]
+# name:be: [Святочная вуліца]
+msgid "Праздничная улица"
+msgstr ""
+
+# Objects : [w34713578]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w208398525]
+# name:be: [Рачная вуліца]
+msgid "Речная улица"
+msgstr ""
+
+# Objects : [w97680398]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w208377321]
+# name:be: [Светлая вуліца]
+msgid "Светлая улица"
+msgstr ""
+
+# Objects : [w97685682]
+# name:be: [Паўночная вуліца]
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w25543369]
+# name:be: [Паўночны завулак]
+msgid "Северный переулок"
+msgstr ""
+
+# Objects : [w25273364]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w25543375]
+# name:be: [Савецкі завулак]
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w208377859]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w97685657]
+# name:be: [Танкавая вуліца]
+msgid "Танковая улица"
+msgstr ""
+
+# Objects : [w208216337]
+# name:be: [Ціхая вуліца]
+msgid "Тихая улица"
+msgstr ""
+
+# Objects : [w208377769]
+# name:be: [Працоўная вуліца]
+msgid "Трудовая улица"
+msgstr ""
+
+# Objects : [w208222527]
+# name:be: [вуліца 11 ліпеня]
+msgid "улица 11 июля"
+msgstr ""
+
+# Objects : [w208232930, w58756868]
+# name:be: [вуліца 50 гадоў Перамогі]
+msgid "улица 50 лет Победы"
+msgstr ""
+
+# Objects : [w25542245]
+# name:be: [вуліца 9 Мая]
+msgid "улица 9 Мая"
+msgstr ""
+
+# Objects : [w77423581]
+# name:be: [вуліца Будзёнага]
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [w208398038, w208398310]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w208397246]
+# name:be: [вулiца Гармазы]
+msgid "улица Гармазы"
+msgstr ""
+
+# Objects : [w77423579]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [w25543442]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w208375763]
+# name:be: [вуліца Гурына]
+msgid "улица Гурина"
+msgstr ""
+
+# Objects : [w208233640]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [w208222525]
+# name:be: [вуліца Заслонава]
+msgid "улица Заслонова"
+msgstr ""
+
+# Objects : [w208232970, w208238039]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w25275673]
+# name:be: [вуліца Карла Маркса]
+msgid "улица Карла Маркса"
+msgstr ""
+
+# Objects : [w208233655]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w25543434]
+# name:be: [вуліца Касманаўтаў]
+msgid "улица Космонавтов"
+msgstr ""
+
+# Objects : [w84724952]
+# name:be: [вуліца Кашавога]
+msgid "улица Кошевого"
+msgstr ""
+
+# Objects : [w208231278]
+# name:be: [вуліца Крупскай]
+msgid "улица Крупской"
+msgstr ""
+
+# Objects : [w25542242]
+# name:be: [вуліца Лермантава]
+msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [w208239042]
+# name:be: [вуліца Ламаносава]
+msgid "улица Ломоносова"
+msgstr ""
+
+# Objects : [w208216050, w208216067]
+# name:be: [вуліца Марата Казея]
+msgid "улица Марата Казея"
+msgstr ""
+
+# Objects : [w208377658]
+# name:be: [вуліца Нахімава]
+msgid "улица Нахимова"
+msgstr ""
+
+# Objects : [w208233143]
+# name:be: [вуліца Навасёлаў]
+msgid "улица Новосёлов"
+msgstr ""
+
+# Objects : [w227173657, w25545397]
+# name:be: [вуліца Амельянюка]
+msgid "улица Омельянюка"
+msgstr ""
+
+# Objects : [w91888694]
+# name:be: [вуліца Арджанікідзэ]
+msgid "улица Орджоникидзе"
+msgstr ""
+
+# Objects : [w25543423]
+# name:be: [вуліца Астроўскага]
+msgid "улица Островского"
+msgstr ""
+
+# Objects : [w208375761]
+# name:be: []
+msgid "улица Пограничная"
+msgstr ""
+
+# Objects : [w25273399]
+# name:be: [вуліца Пратасава]
+msgid "улица Протасова"
+msgstr ""
+
+# Objects : [w25542244]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w208215730]
+# name:be: [вуліца Розы Люксембург]
+msgid "улица Розы Люксембург"
+msgstr ""
+
+# Objects : [w208239970]
+# name:be: [вуліца Свярдлова]
+msgid "улица Свердлова"
+msgstr ""
+
+# Objects : [w208396303]
+# name:be: [вуліца Будаўнікоў]
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w208234496]
+# name:be: [вуліца Суворава]
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [w97685694]
+# name:be: [вуліца Талстога]
+msgid "улица Толстого"
+msgstr ""
+
+# Objects : [w208388016]
+# name:be: [вуліца Тургенева]
+msgid "улица Тургенева"
+msgstr ""
+
+# Objects : [w131644051, w25545389]
+# name:be: [вуліца Фаміных]
+msgid "улица Фоминых"
+msgstr ""
+
+# Objects : [w208235014]
+# name:be: [вуліца Францыска Скарыны]
+msgid "улица Франциска Скорины"
+msgstr ""
+
+# Objects : [w208215607]
+# name:be: [вуліца Фрунзэ]
+msgid "улица Фрунзе"
+msgstr ""
+
+# Objects : [w25543370]
+# name:be: [вуліца Фурманава]
+msgid "улица Фурманова"
+msgstr ""
+
+# Objects : [w208233079]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w25542243]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w25542241]
+# name:be: [вуліца Шарко]
+msgid "улица Шарко"
+msgstr ""
+
+# Objects : [w208239988]
+# name:be: [вуліца Энгельса]
+msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w25543376]
+# name:be: [вуліца Якуба Коласа]
+msgid "улица Якуба Коласа"
+msgstr ""
+
+# Objects : [w208377739, w97685669]
+# name:be: [вуліца Янкі Купалы]
+msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w25543439]
+# name:be: [Кветкавая вуліца]
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w208377250]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w208388805]
+# name:be: [Шасэйная вуліца]
+msgid "Шоссейная улица"
+msgstr ""
+
+# Objects : [w208233665]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

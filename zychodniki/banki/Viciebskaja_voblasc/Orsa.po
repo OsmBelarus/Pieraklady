@@ -1,0 +1,80 @@
+# Objects : [n2546854702]
+# name:be: []
+msgid "Belarusbank"
+msgstr ""
+
+# Objects : [n1456239696]
+# name:be: [Аграпрамбанк]
+msgid "Агропромбанк"
+msgstr ""
+
+# Objects : [n1498684278]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
+msgstr ""
+
+# Objects : [n2265515112]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1501795648, n2265513448, n2469062018, n2546867537, n3128212137]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n3128125629]
+# name:be: []
+msgid "Белвест"
+msgstr ""
+
+# Objects : [n1123714097]
+# name:be: [БПС-банк]
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n2532141897]
+# name:be: []
+msgid "ВТБ"
+msgstr ""
+
+# Objects : [n3128238917]
+# name:be: []
+msgid "Газпромбанк"
+msgstr ""
+
+# Objects : [n3318477136]
+# name:be: []
+msgid "займы"
+msgstr ""
+
+# Objects : [n3128129872]
+# name:be: []
+msgid "Идея банк"
+msgstr ""
+
+# Objects : [n2836506196, w61538978]
+# name:be: []
+msgid "ОАО "Банк БелВЭБ""
+msgstr ""
+
+# Objects : [n2801193341]
+# name:be: []
+msgid "ОАО "Банк БелВЭБ" ЦРБ №680/1"
+msgstr ""
+
+# Objects : [w62071779]
+# name:be: []
+msgid "ОАО «Белинвестбанк»"
+msgstr ""
+
+# Objects : [n2836506193, w225999365]
+# name:be: []
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n3128130225]
+# name:be: []
+msgid "Приор банк"
+msgstr ""
+

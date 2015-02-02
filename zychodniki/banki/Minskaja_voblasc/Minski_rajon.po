@@ -1,0 +1,45 @@
+# Objects : [n3283679746]
+# name:be: []
+msgid "Банкомат"
+msgstr ""
+
+# Objects : [n1402513564, n1861695519]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1278391254, n1293212860, n1402513532, n1628312842, n1629356380, n2362038303, n2889109418, n3248300567, n3283664427, w256811031]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n1958665416]
+# name:be: []
+msgid "ВТБ"
+msgstr ""
+
+# Objects : [n487106458]
+# name:be: []
+msgid "ОАО "Беларусбанк", филиал №614, отд. №614/83"
+msgstr ""
+
+# Objects : [n3146283091, w309284317]
+# name:be: []
+msgid "Отделение Беларусбанк № 614/70"
+msgstr ""
+
+# Objects : [n2579675227]
+# name:be: []
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n3103361647]
+# name:be: []
+msgid "Сберкасса"
+msgstr ""
+
+# Objects : [n2409599025]
+# name:be: []
+msgid "Технобанк"
+msgstr ""
+

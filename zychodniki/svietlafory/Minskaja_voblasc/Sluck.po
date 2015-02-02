@@ -1,0 +1,120 @@
+# Objects : [n1759640107]
+# name:be: []
+msgid "14-й Городок"
+msgstr ""
+
+# Objects : [n1759649230, n1759649241]
+# name:be: []
+msgid "14 Партизан"
+msgstr ""
+
+# Objects : [n470072182]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n1759649102]
+# name:be: []
+msgid "Геологоразведка"
+msgstr ""
+
+# Objects : [n470088368, n470088369]
+# name:be: [Дом культуры]
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [n1759649114, n1759649117]
+# name:be: []
+msgid "Завод Модуль"
+msgstr ""
+
+# Objects : [n1759649124]
+# name:be: []
+msgid "Зелёная"
+msgstr ""
+
+# Objects : [n1759649134, n1759649144]
+# name:be: []
+msgid "магазин Северный"
+msgstr ""
+
+# Objects : [n2916053482]
+# name:be: []
+msgid "Молодежный центр"
+msgstr ""
+
+# Objects : [n1759649148, n1759649156]
+# name:be: []
+msgid "Молодёжный Центр"
+msgstr ""
+
+# Objects : [n1759639799, n1759639831]
+# name:be: []
+msgid "Пушкина"
+msgstr ""
+
+# Objects : [n470601931, n470601932]
+# name:be: [Рынак]
+msgid "рынок"
+msgstr ""
+
+# Objects : [n1759649178]
+# name:be: []
+msgid "Сельхозлицей"
+msgstr ""
+
+# Objects : [n1759639915, n1759639941]
+# name:be: []
+msgid "Суворова"
+msgstr ""
+
+# Objects : [n1759639865, n1759639889]
+# name:be: []
+msgid "СШ-9"
+msgstr ""
+
+# Objects : [n1759649195]
+# name:be: []
+msgid "Текстильная фабрика"
+msgstr ""
+
+# Objects : [n470345010, n470345012]
+# name:be: []
+msgid "Торговый Центр"
+msgstr ""
+
+# Objects : [n1759649163]
+# name:be: []
+msgid "улица Борисовца"
+msgstr ""
+
+# Objects : [n1759649125]
+# name:be: []
+msgid "улица Зелёная"
+msgstr ""
+
+# Objects : [n3201363262, n3201363263]
+# name:be: []
+msgid "улица Ивановского"
+msgstr ""
+
+# Objects : [n470072181]
+# name:be: []
+msgid "универмаг "Криница""
+msgstr ""
+
+# Objects : [n1759649201, n1759649210]
+# name:be: []
+msgid "универсам"
+msgstr ""
+
+# Objects : [n470345013, n470345014]
+# name:be: []
+msgid "Центр Досуга"
+msgstr ""
+
+# Objects : [n1759649218, n1759649223]
+# name:be: []
+msgid "Чехова"
+msgstr ""
+

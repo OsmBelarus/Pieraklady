@@ -1,0 +1,45 @@
+# Objects : [n1484895756, n1484895809]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n1484884553, n1484884555]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n1484895758, n1484895790]
+# name:be: []
+msgid "Дом Пионеров"
+msgstr ""
+
+# Objects : [n1484884547, n1484884557]
+# name:be: []
+msgid "ЖБИ"
+msgstr ""
+
+# Objects : [n1484895782, n1484895805]
+# name:be: []
+msgid "кинотеатр Родина"
+msgstr ""
+
+# Objects : [n1484895761, n1484895778]
+# name:be: [Магазін]
+msgid "магазин"
+msgstr ""
+
+# Objects : [n1484895736, n1484895753]
+# name:be: []
+msgid "Нарсуд"
+msgstr ""
+
+# Objects : [n1484885891]
+# name:be: [Арджанікідзэ]
+msgid "Орджоникидзе"
+msgstr ""
+
+# Objects : [n1484884548, n1484884561]
+# name:be: [Школа №2]
+msgid "школа №2"
+msgstr ""
+

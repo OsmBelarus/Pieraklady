@@ -1,0 +1,65 @@
+# Objects : [n835539742]
+# name:be: []
+msgid "Beltelecom"
+msgstr ""
+
+# Objects : [n475123471]
+# name:be: []
+msgid "БЕЛОРУССКОЕ ОБЩЕСТВО ОХОТНИКОВ И РЫБОЛОВОВ"
+msgstr ""
+
+# Objects : [n475053452, w39639984]
+# name:be: [Брацкая магіла]
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [n2766736565]
+# name:be: []
+msgid "Гостиница Дрогичин"
+msgstr ""
+
+# Objects : [n475128324]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w39639796]
+# name:be: []
+msgid "КЛАДБИЩЕ"
+msgstr ""
+
+# Objects : [n2788682366]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [w39635571, w39636556, w39637715, w39638129, w39639137, w39639748, w39640472]
+# name:be: []
+msgid "МАГАЗИН"
+msgstr ""
+
+# Objects : [n475128331]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [n475123430]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n835539772]
+# name:be: [Пошта]
+msgid "Почта"
+msgstr ""
+
+# Objects : [n475128464]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [n2788687064]
+# name:be: [Царква Стрэчання Гасподняга]
+msgid "Церковь Сретения Господня"
+msgstr ""
+

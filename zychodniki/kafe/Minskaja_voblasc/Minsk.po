@@ -1,0 +1,3135 @@
+# Objects : [n849501021]
+# name:be: []
+msgid ""КМС""
+msgstr ""
+
+# Objects : [n3143672086]
+# name:be: []
+msgid ""Проспект""
+msgstr ""
+
+# Objects : [n1834940850]
+# name:be: []
+msgid ""Сустрэча" Столовая № 12"
+msgstr ""
+
+# Objects : [n3323574241]
+# name:be: []
+msgid "«Амстердам»"
+msgstr ""
+
+# Objects : [n1309797326]
+# name:be: []
+msgid "['Справа]"
+msgstr ""
+
+# Objects : [n3302432437]
+# name:be: []
+msgid "10-я рота"
+msgstr ""
+
+# Objects : [n305675999]
+# name:be: []
+msgid "24"
+msgstr ""
+
+# Objects : [n3228159188, n3228167175, n3228168327]
+# name:be: []
+msgid "7/25EspressoBar"
+msgstr ""
+
+# Objects : [n286094055]
+# name:be: []
+msgid "7-е Небо"
+msgstr ""
+
+# Objects : [n2613408871]
+# name:be: []
+msgid "7 комнат"
+msgstr ""
+
+# Objects : [n305684796]
+# name:be: []
+msgid "7 Тонн"
+msgstr ""
+
+# Objects : [n791145164]
+# name:be: []
+msgid "Air Grip"
+msgstr ""
+
+# Objects : [n305684799]
+# name:be: []
+msgid "Alex's"
+msgstr ""
+
+# Objects : [n2162381500]
+# name:be: []
+msgid "Alta Vista"
+msgstr ""
+
+# Objects : [n2507680457, n2628196646]
+# name:be: []
+msgid "Amato"
+msgstr ""
+
+# Objects : [n443465765]
+# name:be: []
+msgid "Banana Cafe"
+msgstr ""
+
+# Objects : [n2902953780]
+# name:be: []
+msgid "BEERжа"
+msgstr ""
+
+# Objects : [n305684792]
+# name:be: []
+msgid "Bella Rosa"
+msgstr ""
+
+# Objects : [n1575636090]
+# name:be: []
+msgid "BierKeller"
+msgstr ""
+
+# Objects : [n1175308217]
+# name:be: []
+msgid "Bierstrasse"
+msgstr ""
+
+# Objects : [n2613251747]
+# name:be: []
+msgid "BierStrasse"
+msgstr ""
+
+# Objects : [n305683518]
+# name:be: []
+msgid "BierStrasse38"
+msgstr ""
+
+# Objects : [n281570496]
+# name:be: []
+msgid "Bistro de Luxe"
+msgstr ""
+
+# Objects : [n286094046]
+# name:be: []
+msgid "Blackberry"
+msgstr ""
+
+# Objects : [n959567048]
+# name:be: []
+msgid "Boulevard"
+msgstr ""
+
+# Objects : [n920092199]
+# name:be: []
+msgid "Brutto"
+msgstr ""
+
+# Objects : [n3009155499]
+# name:be: []
+msgid "Burger House"
+msgstr ""
+
+# Objects : [n3068188084]
+# name:be: []
+msgid "ButterBro"
+msgstr ""
+
+# Objects : [n2591468234]
+# name:be: []
+msgid "buvette"
+msgstr ""
+
+# Objects : [n2149437196, n2593634731]
+# name:be: []
+msgid "Buvette"
+msgstr ""
+
+# Objects : [n2600513270]
+# name:be: []
+msgid "Cafe Grill Netto"
+msgstr ""
+
+# Objects : [n2600533976]
+# name:be: []
+msgid "Caffe de Paris"
+msgstr ""
+
+# Objects : [n641292478]
+# name:be: []
+msgid "Casa Agustin Lopez"
+msgstr ""
+
+# Objects : [n2165269914]
+# name:be: []
+msgid "Chaplin"
+msgstr ""
+
+# Objects : [n3256969470]
+# name:be: []
+msgid "Chaplin Art  Cafe"
+msgstr ""
+
+# Objects : [n2575755846]
+# name:be: []
+msgid "Chicken Prince"
+msgstr ""
+
+# Objects : [n1846486316]
+# name:be: []
+msgid "Cinema Bar"
+msgstr ""
+
+# Objects : [n3032236089]
+# name:be: []
+msgid "Cinnabon"
+msgstr ""
+
+# Objects : [n3148781197]
+# name:be: []
+msgid "Clever Irish Pub"
+msgstr ""
+
+# Objects : [n3203321127]
+# name:be: []
+msgid "Coffeeberry"
+msgstr ""
+
+# Objects : [n3227984167]
+# name:be: []
+msgid "CoffeeBerry"
+msgstr ""
+
+# Objects : [n3032203937]
+# name:be: []
+msgid "Coffeebox"
+msgstr ""
+
+# Objects : [n2600507057, n2600524444, n2600532864, n2600535990, n3207762510]
+# name:be: []
+msgid "Coffee Box"
+msgstr ""
+
+# Objects : [n1870460841]
+# name:be: []
+msgid "Coffee House"
+msgstr ""
+
+# Objects : [n443698593]
+# name:be: []
+msgid "Coffee Inn"
+msgstr ""
+
+# Objects : [n1312923411, n2600533106]
+# name:be: []
+msgid "Coffee On"
+msgstr ""
+
+# Objects : [n3147987613]
+# name:be: []
+msgid "CoffeTut"
+msgstr ""
+
+# Objects : [n3016104548, n3268928061]
+# name:be: []
+msgid "Cool Coffee"
+msgstr ""
+
+# Objects : [n2622801783]
+# name:be: []
+msgid "Cubalibre"
+msgstr ""
+
+# Objects : [n305682944]
+# name:be: []
+msgid "Cuba libre"
+msgstr ""
+
+# Objects : [n1265020180, n888067144, n970992486]
+# name:be: [Cталовая, Сталовая]
+msgid "Cтоловая"
+msgstr ""
+
+# Objects : [n2626920721]
+# name:be: []
+msgid "Dolce Vita"
+msgstr ""
+
+# Objects : [n443698597]
+# name:be: []
+msgid "Dom"
+msgstr ""
+
+# Objects : [n1388361607]
+# name:be: []
+msgid "DonCoffeon"
+msgstr ""
+
+# Objects : [n676721496]
+# name:be: []
+msgid "Doodah King"
+msgstr ""
+
+# Objects : [n1481604579]
+# name:be: []
+msgid "Doors"
+msgstr ""
+
+# Objects : [n1841687563]
+# name:be: []
+msgid "ENZO"
+msgstr ""
+
+# Objects : [n2593635880]
+# name:be: []
+msgid "Espresso Coffe"
+msgstr ""
+
+# Objects : [n288089590]
+# name:be: []
+msgid "Express-pizza"
+msgstr ""
+
+# Objects : [n3147928021]
+# name:be: []
+msgid "Faces"
+msgstr ""
+
+# Objects : [n1244183064]
+# name:be: []
+msgid "Falcone"
+msgstr ""
+
+# Objects : [n1692395960]
+# name:be: []
+msgid "FC"
+msgstr ""
+
+# Objects : [n3203110516]
+# name:be: []
+msgid "Forest Hall"
+msgstr ""
+
+# Objects : [n2553887367, n305684545]
+# name:be: []
+msgid "Fresh cafe"
+msgstr ""
+
+# Objects : [n3203332852]
+# name:be: []
+msgid "Frola-la"
+msgstr ""
+
+# Objects : [n2593637330]
+# name:be: []
+msgid "Funny Chicken"
+msgstr ""
+
+# Objects : [n2600526696]
+# name:be: []
+msgid "Gaststätte"
+msgstr ""
+
+# Objects : [n3143688231]
+# name:be: []
+msgid "Golden coffe"
+msgstr ""
+
+# Objects : [n2628187025]
+# name:be: []
+msgid "Good burger"
+msgstr ""
+
+# Objects : [n3098813486]
+# name:be: []
+msgid "Goodwin2"
+msgstr ""
+
+# Objects : [n2575755847, n2909042218]
+# name:be: []
+msgid "Goody's"
+msgstr ""
+
+# Objects : [n1141989039]
+# name:be: []
+msgid "Goodys"
+msgstr ""
+
+# Objects : [n305681686]
+# name:be: []
+msgid "Grand Café"
+msgstr ""
+
+# Objects : [n2334766681, n2443069646]
+# name:be: []
+msgid "Greenki"
+msgstr ""
+
+# Objects : [n305682735]
+# name:be: []
+msgid "Gurmans"
+msgstr ""
+
+# Objects : [n2600533571, n2600534424, n3203337598, n3253814200]
+# name:be: []
+msgid "Guru"
+msgstr ""
+
+# Objects : [n305684398]
+# name:be: []
+msgid "Hollywood"
+msgstr ""
+
+# Objects : [n2935551643]
+# name:be: []
+msgid "Hops"
+msgstr ""
+
+# Objects : [n2600527661]
+# name:be: []
+msgid "Hubble-bubble"
+msgstr ""
+
+# Objects : [n305684794]
+# name:be: []
+msgid "Il-Патио"
+msgstr ""
+
+# Objects : [n768510385]
+# name:be: []
+msgid "In&Out"
+msgstr ""
+
+# Objects : [n721090351]
+# name:be: []
+msgid "In vino"
+msgstr ""
+
+# Objects : [n963714057]
+# name:be: []
+msgid "Jack club"
+msgstr ""
+
+# Objects : [n3081232761]
+# name:be: []
+msgid "Kuriza Pomada"
+msgstr ""
+
+# Objects : [n2507346941]
+# name:be: []
+msgid "LAVKA 24h"
+msgstr ""
+
+# Objects : [n428845236]
+# name:be: []
+msgid "Limoncello"
+msgstr ""
+
+# Objects : [n469014766]
+# name:be: []
+msgid "Live Pub"
+msgstr ""
+
+# Objects : [n1710499613]
+# name:be: []
+msgid "Loft"
+msgstr ""
+
+# Objects : [n3100323017]
+# name:be: []
+msgid "L’абрус (Лабрус)"
+msgstr ""
+
+# Objects : [n305687129]
+# name:be: []
+msgid "Magic Bar"
+msgstr ""
+
+# Objects : [n3295235742]
+# name:be: []
+msgid "Malt & Hops"
+msgstr ""
+
+# Objects : [n2628196058]
+# name:be: []
+msgid "manga"
+msgstr ""
+
+# Objects : [n2902937942]
+# name:be: []
+msgid "Manga Wok"
+msgstr ""
+
+# Objects : [n255079168, n281570490, n305675294, n3207757442, w144032862, w25387439]
+# name:be: []
+msgid "McDonald's"
+msgstr ""
+
+# Objects : [n1112981475]
+# name:be: []
+msgid "McDonalds"
+msgstr ""
+
+# Objects : [n281729009, n3270484293]
+# name:be: []
+msgid "Milano"
+msgstr ""
+
+# Objects : [n729589905]
+# name:be: [MiX грыль]
+msgid "MiX гриль"
+msgstr ""
+
+# Objects : [n2767799256]
+# name:be: []
+msgid "Moulin"
+msgstr ""
+
+# Objects : [n1140535627]
+# name:be: []
+msgid "MyKebap"
+msgstr ""
+
+# Objects : [n483424737]
+# name:be: []
+msgid "Neapol"
+msgstr ""
+
+# Objects : [n1584592748]
+# name:be: []
+msgid "Newman"
+msgstr ""
+
+# Objects : [n654137252]
+# name:be: []
+msgid "News Cafe"
+msgstr ""
+
+# Objects : [n2593637764]
+# name:be: []
+msgid "New York hotdog"
+msgstr ""
+
+# Objects : [n3203335256]
+# name:be: []
+msgid "Night city"
+msgstr ""
+
+# Objects : [n965860508]
+# name:be: []
+msgid "Oliva"
+msgstr ""
+
+# Objects : [n290142716, n692766662]
+# name:be: []
+msgid "Olivo"
+msgstr ""
+
+# Objects : [n3256934794]
+# name:be: []
+msgid "Olivo cafe"
+msgstr ""
+
+# Objects : [n305680293]
+# name:be: []
+msgid "O Sole Mio"
+msgstr ""
+
+# Objects : [n305676822]
+# name:be: []
+msgid "Palermo"
+msgstr ""
+
+# Objects : [n2952309681]
+# name:be: []
+msgid "PARK HALL"
+msgstr ""
+
+# Objects : [n305679546]
+# name:be: []
+msgid "People's"
+msgstr ""
+
+# Objects : [n1244183062]
+# name:be: []
+msgid "Perfetto"
+msgstr ""
+
+# Objects : [n2378052695]
+# name:be: []
+msgid "Piaffer"
+msgstr ""
+
+# Objects : [n964926671]
+# name:be: []
+msgid "Pick up Cafe"
+msgstr ""
+
+# Objects : [n497588009]
+# name:be: []
+msgid "Pizza"
+msgstr ""
+
+# Objects : [n2600541683]
+# name:be: []
+msgid "Pizza Pronto"
+msgstr ""
+
+# Objects : [n2573742146, n305675020]
+# name:be: []
+msgid "Pizza Smile"
+msgstr ""
+
+# Objects : [n798574416]
+# name:be: []
+msgid "Porto del Mare"
+msgstr ""
+
+# Objects : [n2443078943, n2593632654, n988599143]
+# name:be: []
+msgid "Presto Pizza"
+msgstr ""
+
+# Objects : [n2123174511]
+# name:be: []
+msgid "Promenade"
+msgstr ""
+
+# Objects : [n1641674947]
+# name:be: []
+msgid "Pronto"
+msgstr ""
+
+# Objects : [n2477437956]
+# name:be: []
+msgid "ProSushi"
+msgstr ""
+
+# Objects : [n455996374]
+# name:be: []
+msgid "Pub Mixx"
+msgstr ""
+
+# Objects : [n1336520143, n3207026986]
+# name:be: []
+msgid "Salad Drive"
+msgstr ""
+
+# Objects : [n277337822]
+# name:be: []
+msgid "Saloon"
+msgstr ""
+
+# Objects : [n3143663013]
+# name:be: []
+msgid "SAQUELLA"
+msgstr ""
+
+# Objects : [n560888603]
+# name:be: []
+msgid "Seven"
+msgstr ""
+
+# Objects : [n3270473261]
+# name:be: []
+msgid "SHEFF (ШЕФ)"
+msgstr ""
+
+# Objects : [n2628188194]
+# name:be: []
+msgid "Smetana"
+msgstr ""
+
+# Objects : [n941827513]
+# name:be: []
+msgid "Snack Studio"
+msgstr ""
+
+# Objects : [n3270432662]
+# name:be: []
+msgid "SOBRANIE (СОБРАНИЕ)"
+msgstr ""
+
+# Objects : [n3147945565]
+# name:be: []
+msgid "SORSO di espresso"
+msgstr ""
+
+# Objects : [n3166564988]
+# name:be: []
+msgid "Spoon"
+msgstr ""
+
+# Objects : [n2600509200]
+# name:be: []
+msgid "Stolle"
+msgstr ""
+
+# Objects : [n2174317950]
+# name:be: []
+msgid "Stolovaya"
+msgstr ""
+
+# Objects : [n3256936661]
+# name:be: []
+msgid "Sun cafe"
+msgstr ""
+
+# Objects : [n1480122273]
+# name:be: []
+msgid "Sushi House"
+msgstr ""
+
+# Objects : [n959567047]
+# name:be: []
+msgid "T.G.I. Friday's"
+msgstr ""
+
+# Objects : [n443698598]
+# name:be: [T-34]
+msgid "T-34"
+msgstr ""
+
+# Objects : [n305680134]
+# name:be: []
+msgid "Taj"
+msgstr ""
+
+# Objects : [n825985249]
+# name:be: []
+msgid "Tapas bar"
+msgstr ""
+
+# Objects : [n3203320766]
+# name:be: []
+msgid "Tapas Bar"
+msgstr ""
+
+# Objects : [n2542070443]
+# name:be: []
+msgid "T-bar «СУШИ»"
+msgstr ""
+
+# Objects : [n2628176686]
+# name:be: []
+msgid "T-bar sushi"
+msgstr ""
+
+# Objects : [n353329831]
+# name:be: []
+msgid "TerraPizza"
+msgstr ""
+
+# Objects : [n971036518]
+# name:be: []
+msgid "Terra pizza"
+msgstr ""
+
+# Objects : [n990207605]
+# name:be: []
+msgid "Terra Pizza"
+msgstr ""
+
+# Objects : [n2661784193]
+# name:be: []
+msgid "The Pub"
+msgstr ""
+
+# Objects : [n2628190201]
+# name:be: []
+msgid "Tiamo"
+msgstr ""
+
+# Objects : [n305680543]
+# name:be: []
+msgid "Times Cafe"
+msgstr ""
+
+# Objects : [n3143658990]
+# name:be: []
+msgid "TNT-rock club"
+msgstr ""
+
+# Objects : [n1126565832, n2593636651]
+# name:be: []
+msgid "Union Coffee"
+msgstr ""
+
+# Objects : [n1847849785]
+# name:be: []
+msgid "VeloCafe"
+msgstr ""
+
+# Objects : [n1008196461]
+# name:be: []
+msgid "Vienna"
+msgstr ""
+
+# Objects : [n2957150547]
+# name:be: []
+msgid "Wood & Fire"
+msgstr ""
+
+# Objects : [n2473765919]
+# name:be: []
+msgid "Yo!Sushi"
+msgstr ""
+
+# Objects : [n305678225, n305678534, n305680133]
+# name:be: []
+msgid "Zio Pepe"
+msgstr ""
+
+# Objects : [n305682740]
+# name:be: []
+msgid "Zio-Pepe"
+msgstr ""
+
+# Objects : [n2591468053]
+# name:be: []
+msgid "Аmato Кофе"
+msgstr ""
+
+# Objects : [n2692561931]
+# name:be: []
+msgid "Август"
+msgstr ""
+
+# Objects : [n2282278884]
+# name:be: []
+msgid "Автограф"
+msgstr ""
+
+# Objects : [n256105210]
+# name:be: []
+msgid "Автосити"
+msgstr ""
+
+# Objects : [n305685562]
+# name:be: []
+msgid "Агат"
+msgstr ""
+
+# Objects : [n737214116, n737214118]
+# name:be: []
+msgid "Академия"
+msgstr ""
+
+# Objects : [n2613424918]
+# name:be: []
+msgid "Алтай"
+msgstr ""
+
+# Objects : [n577070633]
+# name:be: []
+msgid "Аль-Хамиль"
+msgstr ""
+
+# Objects : [n305683528]
+# name:be: []
+msgid "Альцеста"
+msgstr ""
+
+# Objects : [n2987235964]
+# name:be: []
+msgid "Амато кофе"
+msgstr ""
+
+# Objects : [n2573743524]
+# name:be: []
+msgid "Амато Кофе"
+msgstr ""
+
+# Objects : [n2619663319, n460060770]
+# name:be: [Амстэрдам]
+msgid "Амстердам"
+msgstr ""
+
+# Objects : [n3100371806]
+# name:be: []
+msgid "Аппетинка"
+msgstr ""
+
+# Objects : [n769129428]
+# name:be: []
+msgid "Апшерон"
+msgstr ""
+
+# Objects : [n305686663]
+# name:be: []
+msgid "Арбат"
+msgstr ""
+
+# Objects : [n1630100363]
+# name:be: []
+msgid "Арка"
+msgstr ""
+
+# Objects : [n305684808]
+# name:be: []
+msgid "Арт-кафе Beetlejuice"
+msgstr ""
+
+# Objects : [n305678108]
+# name:be: [Асарці]
+msgid "Ассорти"
+msgstr ""
+
+# Objects : [n305683050]
+# name:be: []
+msgid "Астара"
+msgstr ""
+
+# Objects : [n2420203787]
+# name:be: []
+msgid "Ателье"
+msgstr ""
+
+# Objects : [n305675601]
+# name:be: []
+msgid "Бавария"
+msgstr ""
+
+# Objects : [n2626806083]
+# name:be: []
+msgid "Базилик"
+msgstr ""
+
+# Objects : [n3150738844]
+# name:be: []
+msgid "Бакинский бульвар"
+msgstr ""
+
+# Objects : [n2619929099]
+# name:be: []
+msgid "Бамбук"
+msgstr ""
+
+# Objects : [n305675618]
+# name:be: []
+msgid "Банкетная зала"
+msgstr ""
+
+# Objects : [n1019987813]
+# name:be: []
+msgid "Барбосс"
+msgstr ""
+
+# Objects : [n2184355618]
+# name:be: []
+msgid "Баржа"
+msgstr ""
+
+# Objects : [n1845144017]
+# name:be: []
+msgid "Бар Россо"
+msgstr ""
+
+# Objects : [n2881831283]
+# name:be: []
+msgid "Бастион"
+msgstr ""
+
+# Objects : [n305675082]
+# name:be: []
+msgid "Батискаф"
+msgstr ""
+
+# Objects : [n2574013831]
+# name:be: []
+msgid "Бейкери дю Солей"
+msgstr ""
+
+# Objects : [n2613415632]
+# name:be: []
+msgid "Белая Вежа"
+msgstr ""
+
+# Objects : [n305680158]
+# name:be: []
+msgid "Белорусское Бистро"
+msgstr ""
+
+# Objects : [n305684379]
+# name:be: []
+msgid "Белочка"
+msgstr ""
+
+# Objects : [n305682841]
+# name:be: []
+msgid "Бергамо"
+msgstr ""
+
+# Objects : [n305683515]
+# name:be: [Бярозка]
+msgid "Берёзка"
+msgstr ""
+
+# Objects : [n305681824]
+# name:be: [Біблас]
+msgid "Библос"
+msgstr ""
+
+# Objects : [n1057075238]
+# name:be: []
+msgid "Бильярд"
+msgstr ""
+
+# Objects : [n305680039]
+# name:be: []
+msgid "Бирхауз"
+msgstr ""
+
+# Objects : [n1099883868, n2620793769, n3184103052]
+# name:be: []
+msgid "Бистро"
+msgstr ""
+
+# Objects : [n1118887247, n1436692479, n3203301919]
+# name:be: []
+msgid "Блинная"
+msgstr ""
+
+# Objects : [n1870460811]
+# name:be: []
+msgid "Блиц"
+msgstr ""
+
+# Objects : [n305682971]
+# name:be: []
+msgid "Богема"
+msgstr ""
+
+# Objects : [n305682833]
+# name:be: []
+msgid "Бомонд"
+msgstr ""
+
+# Objects : [n2628632993]
+# name:be: []
+msgid "Бостон"
+msgstr ""
+
+# Objects : [n305675792]
+# name:be: []
+msgid "Бунгало"
+msgstr ""
+
+# Objects : [n3268833850]
+# name:be: []
+msgid "Бунгало. Армянская кухня."
+msgstr ""
+
+# Objects : [n1858802008, n1870460800]
+# name:be: []
+msgid "Буфет"
+msgstr ""
+
+# Objects : [n1870460802]
+# name:be: []
+msgid "БЫСТРОЕ ПИТАНИЕ"
+msgstr ""
+
+# Objects : [n2574058815]
+# name:be: []
+msgid "Быстрый ли"
+msgstr ""
+
+# Objects : [n305678940]
+# name:be: []
+msgid "Валерия"
+msgstr ""
+
+# Objects : [n305685239]
+# name:be: []
+msgid "Варадеро"
+msgstr ""
+
+# Objects : [n1014908866, n1175265078, n1537322954, n2593642735, n2831656714, n3148803391]
+# name:be: [Васiлькi, Васількі]
+msgid "Васильки"
+msgstr ""
+
+# Objects : [n1602252840]
+# name:be: []
+msgid "Великолепный экспресс"
+msgstr ""
+
+# Objects : [n3147964480]
+# name:be: []
+msgid "Верба"
+msgstr ""
+
+# Objects : [n305684628]
+# name:be: [Вэрсаль]
+msgid "Версаль"
+msgstr ""
+
+# Objects : [n485962440]
+# name:be: [Веста]
+msgid "Веста"
+msgstr ""
+
+# Objects : [n1689291225]
+# name:be: []
+msgid "Вестфалия"
+msgstr ""
+
+# Objects : [n3265978805]
+# name:be: []
+msgid "Вечерний квартал"
+msgstr ""
+
+# Objects : [n306065328]
+# name:be: []
+msgid "Взгляд"
+msgstr ""
+
+# Objects : [n842923817]
+# name:be: []
+msgid "Визави"
+msgstr ""
+
+# Objects : [n2591401392]
+# name:be: []
+msgid "Виноград"
+msgstr ""
+
+# Objects : [n3259059903, n977371266]
+# name:be: []
+msgid "Винтаж"
+msgstr ""
+
+# Objects : [n685343082]
+# name:be: [Віра]
+msgid "Вира"
+msgstr ""
+
+# Objects : [n1870460805]
+# name:be: []
+msgid "ВИРАЖ"
+msgstr ""
+
+# Objects : [n2902950855]
+# name:be: []
+msgid "Вобла"
+msgstr ""
+
+# Objects : [n305676817]
+# name:be: []
+msgid "Встреча Друзей"
+msgstr ""
+
+# Objects : [n729589906]
+# name:be: []
+msgid "Выпечка слойкина"
+msgstr ""
+
+# Objects : [n843116403]
+# name:be: [Габрава]
+msgid "Габрово"
+msgstr ""
+
+# Objects : [n2078000252]
+# name:be: [Гамбрынус]
+msgid "Гамбринус"
+msgstr ""
+
+# Objects : [n1118945791, n1244396420, n1602183917, n2507319017, n2833115669, n3270426783, n3284334803]
+# name:be: []
+msgid "Гараж"
+msgstr ""
+
+# Objects : [n2374837598, n3148781198]
+# name:be: [Цвік]
+msgid "Гвоздь"
+msgstr ""
+
+# Objects : [n305684584]
+# name:be: [Гарадок]
+msgid "Городок"
+msgstr ""
+
+# Objects : [n2179809938]
+# name:be: []
+msgid "Госцi"
+msgstr ""
+
+# Objects : [n305684552]
+# name:be: []
+msgid "Градус Балинга"
+msgstr ""
+
+# Objects : [n305681765]
+# name:be: []
+msgid "Грюнвальд"
+msgstr ""
+
+# Objects : [n305681769]
+# name:be: []
+msgid "Гудвин"
+msgstr ""
+
+# Objects : [n3284261886]
+# name:be: []
+msgid "Гудис"
+msgstr ""
+
+# Objects : [n2184199855, n305681819]
+# name:be: []
+msgid "Гурман"
+msgstr ""
+
+# Objects : [n1580671616]
+# name:be: []
+msgid "Дача"
+msgstr ""
+
+# Objects : [n1123466965]
+# name:be: []
+msgid "День&Ночь"
+msgstr ""
+
+# Objects : [n280032443]
+# name:be: []
+msgid "Детский кафетерий "Сказочный мир""
+msgstr ""
+
+# Objects : [n2524210267]
+# name:be: []
+msgid "Детское"
+msgstr ""
+
+# Objects : [n1376622187]
+# name:be: [Сталовая]
+msgid "Дешевая столовая"
+msgstr ""
+
+# Objects : [n281729017]
+# name:be: [Джамалунгма]
+msgid "Джомолунгма"
+msgstr ""
+
+# Objects : [n305674934]
+# name:be: [Дыялог]
+msgid "Диалог"
+msgstr ""
+
+# Objects : [n2507431719]
+# name:be: []
+msgid "Дикий West"
+msgstr ""
+
+# Objects : [n3206002998]
+# name:be: []
+msgid "Домашний круг"
+msgstr ""
+
+# Objects : [n305684883]
+# name:be: []
+msgid "Домино-Пицца"
+msgstr ""
+
+# Objects : [n1366689206]
+# name:be: []
+msgid "Дом папочки"
+msgstr ""
+
+# Objects : [n1424195273]
+# name:be: []
+msgid "Дом Папочки"
+msgstr ""
+
+# Objects : [n3147919780]
+# name:be: []
+msgid "Дом Фишера"
+msgstr ""
+
+# Objects : [n917486490]
+# name:be: []
+msgid "Древняя легенда"
+msgstr ""
+
+# Objects : [n639779446]
+# name:be: []
+msgid "Дрожжи"
+msgstr ""
+
+# Objects : [n3256953740]
+# name:be: []
+msgid "Другое место"
+msgstr ""
+
+# Objects : [n2899368366]
+# name:be: [Сябры]
+msgid "Друзья"
+msgstr ""
+
+# Objects : [n305675289]
+# name:be: []
+msgid "Дуплет"
+msgstr ""
+
+# Objects : [n305680149]
+# name:be: [Дуэт]
+msgid "Дуэт"
+msgstr ""
+
+# Objects : [n2408965292, n2608398224, n281678078]
+# name:be: []
+msgid "Евразия"
+msgstr ""
+
+# Objects : [n306065581]
+# name:be: []
+msgid "Евро-Пит"
+msgstr ""
+
+# Objects : [n1877995696]
+# name:be: []
+msgid "Елеана"
+msgstr ""
+
+# Objects : [n305681083]
+# name:be: []
+msgid "Ёлки-Палки"
+msgstr ""
+
+# Objects : [n1141125038]
+# name:be: []
+msgid "Жбан"
+msgstr ""
+
+# Objects : [n305684780]
+# name:be: []
+msgid "Жили-были"
+msgstr ""
+
+# Objects : [n1244311443]
+# name:be: []
+msgid "За100лье"
+msgstr ""
+
+# Objects : [n305675528]
+# name:be: [Звязда]
+msgid "Звезда"
+msgstr ""
+
+# Objects : [n3147870207]
+# name:be: []
+msgid "Зебра"
+msgstr ""
+
+# Objects : [n2145164877]
+# name:be: []
+msgid "Зелёный свет"
+msgstr ""
+
+# Objects : [n2617805482]
+# name:be: [Зерне]
+msgid "Зерно"
+msgstr ""
+
+# Objects : [n952660541]
+# name:be: []
+msgid "Золотой гребешок"
+msgstr ""
+
+# Objects : [n996409385]
+# name:be: []
+msgid "Зорина"
+msgstr ""
+
+# Objects : [n305681777]
+# name:be: []
+msgid "Иль Патио"
+msgstr ""
+
+# Objects : [n2859403806]
+# name:be: []
+msgid "Индор"
+msgstr ""
+
+# Objects : [n1101346162]
+# name:be: []
+msgid "Интеграл"
+msgstr ""
+
+# Objects : [n1467451720, n828460951]
+# name:be: []
+msgid "Кабанчик"
+msgstr ""
+
+# Objects : [n2507179323]
+# name:be: []
+msgid "Кава i печыва"
+msgstr ""
+
+# Objects : [n1764221119]
+# name:be: []
+msgid "Казино Рояль"
+msgstr ""
+
+# Objects : [n305685608]
+# name:be: []
+msgid "Калабрия"
+msgstr ""
+
+# Objects : [n977369994]
+# name:be: []
+msgid "Кальян-бар"
+msgstr ""
+
+# Objects : [n1539716510]
+# name:be: []
+msgid "Кальянная №1"
+msgstr ""
+
+# Objects : [n305683807]
+# name:be: [Камелія]
+msgid "Камелия"
+msgstr ""
+
+# Objects : [n639572621]
+# name:be: [Камяніца]
+msgid "Камяница"
+msgstr ""
+
+# Objects : [n1770809343]
+# name:be: []
+msgid "Капучино"
+msgstr ""
+
+# Objects : [n3268782703]
+# name:be: []
+msgid "Караоке-кафе"
+msgstr ""
+
+# Objects : [n3256958477]
+# name:be: []
+msgid "Караоке Масква"
+msgstr ""
+
+# Objects : [n305679207]
+# name:be: []
+msgid "Касбар"
+msgstr ""
+
+# Objects : [n1407465074, n1407466818, n3258015761]
+# name:be: [Кавярня]
+msgid "кафе"
+msgstr ""
+
+# Objects : [n3203106460]
+# name:be: []
+msgid "Кафе"
+msgstr ""
+
+# Objects : [n3282351241]
+# name:be: []
+msgid "Кафе ""орион"
+msgstr ""
+
+# Objects : [n2779137134]
+# name:be: []
+msgid "Кафе "Компай""
+msgstr ""
+
+# Objects : [n3142299278]
+# name:be: []
+msgid "Кафе"Поместье""
+msgstr ""
+
+# Objects : [n1108772478]
+# name:be: []
+msgid "Кафе "Своё кафе""
+msgstr ""
+
+# Objects : [n2471297766]
+# name:be: []
+msgid "Кафе «Агiнскi»"
+msgstr ""
+
+# Objects : [n2624530256]
+# name:be: []
+msgid "Кафе «Моя дорогая»"
+msgstr ""
+
+# Objects : [n2012190995]
+# name:be: []
+msgid "кафе Амфибия"
+msgstr ""
+
+# Objects : [n280022685]
+# name:be: []
+msgid "Кафе банно-оздоровительного комплекса "Сухарево""
+msgstr ""
+
+# Objects : [n3279228464]
+# name:be: []
+msgid "кафе-бар"
+msgstr ""
+
+# Objects : [n1641693732]
+# name:be: []
+msgid "кафе-бар (не работает)"
+msgstr ""
+
+# Objects : [n1674555967]
+# name:be: []
+msgid "Кафе БелСтройЦентр"
+msgstr ""
+
+# Objects : [n2497006573]
+# name:be: []
+msgid "Кафе-бистро "Ежедневник""
+msgstr ""
+
+# Objects : [n2629117605]
+# name:be: []
+msgid "кафе Земляки"
+msgstr ""
+
+# Objects : [n2332474074]
+# name:be: []
+msgid "Кафе Исполкома"
+msgstr ""
+
+# Objects : [n3287794491]
+# name:be: []
+msgid "Кафе-Клуб "Камелия""
+msgstr ""
+
+# Objects : [n1486110663]
+# name:be: []
+msgid "Кафе Оранжерея"
+msgstr ""
+
+# Objects : [n2621418292]
+# name:be: []
+msgid "Кафе от хлебзавода"
+msgstr ""
+
+# Objects : [n1259318778]
+# name:be: []
+msgid "Кафе-ресторана "Хуторок""
+msgstr ""
+
+# Objects : [n3268849968]
+# name:be: [Кафэ-сталовая]
+msgid "Кафе-столовая"
+msgstr ""
+
+# Objects : [n1259173493, n1352208247, n1870460809, n2657384172, n3014538116, n3037191823, n604715848]
+# name:be: []
+msgid "Кафетерий"
+msgstr ""
+
+# Objects : [n1528861007]
+# name:be: []
+msgid "Кафе ФОК"
+msgstr ""
+
+# Objects : [n952749786]
+# name:be: []
+msgid "Кафе-Экспресс"
+msgstr ""
+
+# Objects : [n2803169514]
+# name:be: []
+msgid "кафэ"
+msgstr ""
+
+# Objects : [n305687290]
+# name:be: []
+msgid "Кафэ"
+msgstr ""
+
+# Objects : [n2004083521]
+# name:be: []
+msgid "Кафэ Восток"
+msgstr ""
+
+# Objects : [n3268851967]
+# name:be: []
+msgid "кислородный бар"
+msgstr ""
+
+# Objects : [n643483814]
+# name:be: []
+msgid "Классик"
+msgstr ""
+
+# Objects : [n305683526]
+# name:be: []
+msgid "Колесо"
+msgstr ""
+
+# Objects : [n660254355]
+# name:be: [Камедыя]
+msgid "Комедия"
+msgstr ""
+
+# Objects : [n991106582]
+# name:be: []
+msgid "Комп. клуб и ксерокопия"
+msgstr ""
+
+# Objects : [n974387950]
+# name:be: []
+msgid "Компьютерный клуб"
+msgstr ""
+
+# Objects : [n457943472]
+# name:be: []
+msgid "Константин"
+msgstr ""
+
+# Objects : [n3207881020]
+# name:be: []
+msgid "Косатка"
+msgstr ""
+
+# Objects : [n3213419497, n3270390651]
+# name:be: []
+msgid "Кофеберри"
+msgstr ""
+
+# Objects : [n672057868]
+# name:be: []
+msgid "Кофейное дерево"
+msgstr ""
+
+# Objects : [n2155876208]
+# name:be: []
+msgid "Кофейня"
+msgstr ""
+
+# Objects : [n3207758884]
+# name:be: []
+msgid "Кофейня золотой гребешок"
+msgstr ""
+
+# Objects : [n492081153, n991695961]
+# name:be: []
+msgid "Кофе Сити"
+msgstr ""
+
+# Objects : [n3257971762, n3257985483]
+# name:be: []
+msgid "Кофе Хауз"
+msgstr ""
+
+# Objects : [n3270432661]
+# name:be: []
+msgid "Кружка"
+msgstr ""
+
+# Objects : [n2918674301]
+# name:be: []
+msgid "Кружки"
+msgstr ""
+
+# Objects : [n1528858802]
+# name:be: []
+msgid "Крыша поехала"
+msgstr ""
+
+# Objects : [n3074879829]
+# name:be: [Кухмiстр]
+msgid "Кухмистр"
+msgstr ""
+
+# Objects : [n817256115]
+# name:be: []
+msgid "Латте"
+msgstr ""
+
+# Objects : [n305678530]
+# name:be: []
+msgid "Легион"
+msgstr ""
+
+# Objects : [n2339796742, n266162987]
+# name:be: []
+msgid "Лидо"
+msgstr ""
+
+# Objects : [n2614505263]
+# name:be: []
+msgid "Лимпопо"
+msgstr ""
+
+# Objects : [n638976341]
+# name:be: []
+msgid "Лисья нора"
+msgstr ""
+
+# Objects : [n3270433157]
+# name:be: []
+msgid "ЛОББИ-БАР"
+msgstr ""
+
+# Objects : [n980518088]
+# name:be: [Лыжкі]
+msgid "Ложки"
+msgstr ""
+
+# Objects : [n2403164331]
+# name:be: []
+msgid "Ложкин"
+msgstr ""
+
+# Objects : [n305677727]
+# name:be: [Любава]
+msgid "Любава"
+msgstr ""
+
+# Objects : [n1576058053]
+# name:be: []
+msgid "Любовь и спорт"
+msgstr ""
+
+# Objects : [n2593639310]
+# name:be: []
+msgid "Людям нравится"
+msgstr ""
+
+# Objects : [w25325766]
+# name:be: []
+msgid "МакДональдс"
+msgstr ""
+
+# Objects : [n526817366]
+# name:be: []
+msgid "Максибис"
+msgstr ""
+
+# Objects : [n2340242773]
+# name:be: []
+msgid "Макси Бис"
+msgstr ""
+
+# Objects : [n305675019]
+# name:be: [Малінаўка]
+msgid "Малиновка"
+msgstr ""
+
+# Objects : [n701299114]
+# name:be: []
+msgid "Манга"
+msgstr ""
+
+# Objects : [n1074900910]
+# name:be: []
+msgid "Манты-Понты"
+msgstr ""
+
+# Objects : [n3166691971, n3270461479]
+# name:be: []
+msgid "Мануфактура"
+msgstr ""
+
+# Objects : [n280031077]
+# name:be: []
+msgid "Мариель"
+msgstr ""
+
+# Objects : [n699609204]
+# name:be: []
+msgid "Масленица"
+msgstr ""
+
+# Objects : [n2551845941, n2564387571]
+# name:be: []
+msgid "Масленница"
+msgstr ""
+
+# Objects : [n305678612]
+# name:be: [Майстар Біс]
+msgid "Мастер Бис"
+msgstr ""
+
+# Objects : [n1181443429]
+# name:be: []
+msgid "Матч-Болл"
+msgstr ""
+
+# Objects : [n3270390561]
+# name:be: []
+msgid "Маэстро"
+msgstr ""
+
+# Objects : [n281694149]
+# name:be: [Маяк]
+msgid "Маяк"
+msgstr ""
+
+# Objects : [n1417619589]
+# name:be: [Мегаполіс]
+msgid "Мегаполис"
+msgstr ""
+
+# Objects : [n305683895]
+# name:be: []
+msgid "Медвежий Угол"
+msgstr ""
+
+# Objects : [n1244311402]
+# name:be: []
+msgid "Менск"
+msgstr ""
+
+# Objects : [n305675017]
+# name:be: []
+msgid "Меридиан"
+msgstr ""
+
+# Objects : [n571095630]
+# name:be: [Мястэчка]
+msgid "Местечко"
+msgstr ""
+
+# Objects : [n3206003028]
+# name:be: []
+msgid "Место встречи"
+msgstr ""
+
+# Objects : [n455006632]
+# name:be: []
+msgid "Миг"
+msgstr ""
+
+# Objects : [n1272384229]
+# name:be: []
+msgid "Миманс"
+msgstr ""
+
+# Objects : [n2513893953]
+# name:be: []
+msgid "Мимино"
+msgstr ""
+
+# Objects : [n1624526451]
+# name:be: []
+msgid "Миникафе"
+msgstr ""
+
+# Objects : [n3187201394]
+# name:be: []
+msgid "Мини кафе"
+msgstr ""
+
+# Objects : [n2554355481]
+# name:be: []
+msgid "Мини Кафе"
+msgstr ""
+
+# Objects : [n1695377565]
+# name:be: []
+msgid "Мини-кафе Мяснов"
+msgstr ""
+
+# Objects : [n3212067411]
+# name:be: []
+msgid "Мираж"
+msgstr ""
+
+# Objects : [n305680298]
+# name:be: []
+msgid "Мирский Замок"
+msgstr ""
+
+# Objects : [n305682745]
+# name:be: []
+msgid "Мистраль"
+msgstr ""
+
+# Objects : [n3280385738]
+# name:be: []
+msgid "Мон Кафе;МонКафе"
+msgstr ""
+
+# Objects : [n1107490843]
+# name:be: []
+msgid "Мохнатый Шмель"
+msgstr ""
+
+# Objects : [n978630159]
+# name:be: []
+msgid "Моя английская бабушка"
+msgstr ""
+
+# Objects : [n2183660009]
+# name:be: [Мая даражэнькая]
+msgid "Моя дорогая"
+msgstr ""
+
+# Objects : [n1547041636]
+# name:be: []
+msgid "Моя Семья"
+msgstr ""
+
+# Objects : [n963701003]
+# name:be: []
+msgid "Мулен Руж Show"
+msgstr ""
+
+# Objects : [n305683855]
+# name:be: [Марс]
+msgid "Мясная лавка"
+msgstr ""
+
+# Objects : [n1308851366]
+# name:be: []
+msgid "Мясны смак"
+msgstr ""
+
+# Objects : [n952737653]
+# name:be: [Налібокі салодкія]
+msgid "Налибоки сладкие"
+msgstr ""
+
+# Objects : [n305677375]
+# name:be: []
+msgid "На Прилесной"
+msgstr ""
+
+# Objects : [n305687176]
+# name:be: []
+msgid "Натврис Хе"
+msgstr ""
+
+# Objects : [n305680045]
+# name:be: []
+msgid "Наше Место"
+msgstr ""
+
+# Objects : [n2058947088]
+# name:be: []
+msgid "На Шпалернай"
+msgstr ""
+
+# Objects : [n1602252836]
+# name:be: []
+msgid "Нистру"
+msgstr ""
+
+# Objects : [n2524197605]
+# name:be: []
+msgid "Ной"
+msgstr ""
+
+# Objects : [n282318819]
+# name:be: []
+msgid "Ностальджи"
+msgstr ""
+
+# Objects : [n306065580]
+# name:be: [Алімп]
+msgid "Олимп"
+msgstr ""
+
+# Objects : [n3268817396]
+# name:be: []
+msgid "Оникс"
+msgstr ""
+
+# Objects : [n305674496]
+# name:be: []
+msgid "Охота"
+msgstr ""
+
+# Objects : [n305675288]
+# name:be: [Валгаград]
+msgid "Паб-еда"
+msgstr ""
+
+# Objects : [n281716449]
+# name:be: []
+msgid "Палукс"
+msgstr ""
+
+# Objects : [n3147901292]
+# name:be: []
+msgid "Панда"
+msgstr ""
+
+# Objects : [n305680199]
+# name:be: [Панарама]
+msgid "Панорама"
+msgstr ""
+
+# Objects : [n305680315]
+# name:be: []
+msgid "Пан Хмелю"
+msgstr ""
+
+# Objects : [n1841986079]
+# name:be: []
+msgid "Парус"
+msgstr ""
+
+# Objects : [n305677849]
+# name:be: []
+msgid "Пачастунак"
+msgstr ""
+
+# Objects : [n2412917793]
+# name:be: []
+msgid "Пекин"
+msgstr ""
+
+# Objects : [n305676404]
+# name:be: []
+msgid "Пекинская Утка"
+msgstr ""
+
+# Objects : [n3272654852]
+# name:be: []
+msgid "Персия"
+msgstr ""
+
+# Objects : [n1736683376, n500020928]
+# name:be: []
+msgid "Перчик"
+msgstr ""
+
+# Objects : [n721079750]
+# name:be: []
+msgid "Пивная история"
+msgstr ""
+
+# Objects : [n3156294372]
+# name:be: []
+msgid "Пивная Кружка"
+msgstr ""
+
+# Objects : [n946431473]
+# name:be: []
+msgid "Пивной бар"
+msgstr ""
+
+# Objects : [n305679657]
+# name:be: []
+msgid "Пивной прибой"
+msgstr ""
+
+# Objects : [n1740229263]
+# name:be: []
+msgid "Пивной разлив"
+msgstr ""
+
+# Objects : [n2281899799]
+# name:be: [Піўняры]
+msgid "Пивняры"
+msgstr ""
+
+# Objects : [n2620793045]
+# name:be: []
+msgid "Пиво"
+msgstr ""
+
+# Objects : [n529811208]
+# name:be: []
+msgid "Пинта"
+msgstr ""
+
+# Objects : [n305683509]
+# name:be: []
+msgid "Пинта XXL"
+msgstr ""
+
+# Objects : [n3286403322]
+# name:be: []
+msgid "Пироговня Stolle"
+msgstr ""
+
+# Objects : [n460060774]
+# name:be: []
+msgid "ПитСтоп"
+msgstr ""
+
+# Objects : [n2619700699]
+# name:be: [ПІТ-СТОП]
+msgid "ПИТ-СТОП"
+msgstr ""
+
+# Objects : [n2621149327]
+# name:be: []
+msgid "Пицца"
+msgstr ""
+
+# Objects : [n2628184408]
+# name:be: []
+msgid "Пицца "Темпо""
+msgstr ""
+
+# Objects : [n305685108]
+# name:be: []
+msgid "Пицца и пельмени"
+msgstr ""
+
+# Objects : [n305683511]
+# name:be: []
+msgid "Пицца-Лига"
+msgstr ""
+
+# Objects : [n3095526469]
+# name:be: []
+msgid "Пицца Лисица"
+msgstr ""
+
+# Objects : [n2657904745]
+# name:be: []
+msgid "Пицца Смайл"
+msgstr ""
+
+# Objects : [n2593642286, n305674001, n305674277, n305682729, n305684627, n3184974919, n636894588]
+# name:be: []
+msgid "Пицца Темпо"
+msgstr ""
+
+# Objects : [n2621391525]
+# name:be: []
+msgid "Пицца Темпо на Лобанка"
+msgstr ""
+
+# Objects : [n2965605239]
+# name:be: []
+msgid "Пицца Форум"
+msgstr ""
+
+# Objects : [n991700134]
+# name:be: []
+msgid "Пицца-Фут"
+msgstr ""
+
+# Objects : [n2524190550, n305677692, n305680042, n305680144, n305680163, n305681878, n305682742, n306065242, n3284349113, n917492608]
+# name:be: [Піцэрыя]
+msgid "Пиццерия"
+msgstr ""
+
+# Objects : [n305676319]
+# name:be: [Піцэрыя PizzaFoot]
+msgid "Пиццерия PizzaFoot"
+msgstr ""
+
+# Objects : [n2629249843]
+# name:be: []
+msgid "Пиццерия Маргарита"
+msgstr ""
+
+# Objects : [n305678486]
+# name:be: []
+msgid "Планета"
+msgstr ""
+
+# Objects : [n1529615730, n2282299912, n281922224, n305682733]
+# name:be: []
+msgid "Планета Pizza"
+msgstr ""
+
+# Objects : [n2613445089]
+# name:be: []
+msgid "Планета Звезд"
+msgstr ""
+
+# Objects : [n305684476]
+# name:be: []
+msgid "Планета Пицца"
+msgstr ""
+
+# Objects : [n305681719, n305681759, n305684798]
+# name:be: []
+msgid "Планета Суши"
+msgstr ""
+
+# Objects : [n305681079]
+# name:be: []
+msgid "Подвир'е"
+msgstr ""
+
+# Objects : [n305676833]
+# name:be: []
+msgid "Подкован"
+msgstr ""
+
+# Objects : [n305681889]
+# name:be: []
+msgid "Поющие Фонтаны"
+msgstr ""
+
+# Objects : [n2732757127]
+# name:be: []
+msgid "Премьера"
+msgstr ""
+
+# Objects : [n305684888]
+# name:be: []
+msgid "Протея"
+msgstr ""
+
+# Objects : [n2831641494]
+# name:be: []
+msgid "Профессор Преображенский"
+msgstr ""
+
+# Objects : [n305680192]
+# name:be: []
+msgid "Пьер Смирнофф"
+msgstr ""
+
+# Objects : [n305675749]
+# name:be: []
+msgid "Радзивилловский"
+msgstr ""
+
+# Objects : [n305687125]
+# name:be: []
+msgid "Райский Уголок"
+msgstr ""
+
+# Objects : [n305684724]
+# name:be: [Ракаўскi Бровар]
+msgid "Ракаўскi Бровар"
+msgstr ""
+
+# Objects : [n255277380]
+# name:be: [Ракаўскі Бровар]
+msgid "Раковский Бровар"
+msgstr ""
+
+# Objects : [n598516467]
+# name:be: []
+msgid "Рандеву Le Rose"
+msgstr ""
+
+# Objects : [n305680452]
+# name:be: []
+msgid "Ренессанс"
+msgstr ""
+
+# Objects : [n305676005, n305679541]
+# name:be: [Рэстаран]
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [n3280410268]
+# name:be: []
+msgid "Ресторан индийской кухни «Taj»"
+msgstr ""
+
+# Objects : [n305686244]
+# name:be: []
+msgid "Рико"
+msgstr ""
+
+# Objects : [n305680574]
+# name:be: []
+msgid "Родны Кут"
+msgstr ""
+
+# Objects : [n305685517]
+# name:be: []
+msgid "Роксалана"
+msgstr ""
+
+# Objects : [n305676177]
+# name:be: []
+msgid "Рома"
+msgstr ""
+
+# Objects : [n305678113]
+# name:be: []
+msgid "Ромиос"
+msgstr ""
+
+# Objects : [n281570485]
+# name:be: []
+msgid "Росток"
+msgstr ""
+
+# Objects : [n3147935430]
+# name:be: []
+msgid "Руккола"
+msgstr ""
+
+# Objects : [n978763935]
+# name:be: []
+msgid "Русские сезоны"
+msgstr ""
+
+# Objects : [n872673378]
+# name:be: []
+msgid "Русский"
+msgstr ""
+
+# Objects : [n3098540640]
+# name:be: []
+msgid "РЭД Клен"
+msgstr ""
+
+# Objects : [n305680463]
+# name:be: [Троіцкі]
+msgid "Сarpaccio"
+msgstr ""
+
+# Objects : [n2628751637]
+# name:be: []
+msgid "сайгон"
+msgstr ""
+
+# Objects : [n305679665]
+# name:be: []
+msgid "Саквояж"
+msgstr ""
+
+# Objects : [n255313951]
+# name:be: [Салодкi фальварак]
+msgid "Салодкi фальварак"
+msgstr ""
+
+# Objects : [n305685575]
+# name:be: []
+msgid "Салтайм"
+msgstr ""
+
+# Objects : [n305683517]
+# name:be: []
+msgid "Санчо-Панса"
+msgstr ""
+
+# Objects : [n305685367]
+# name:be: []
+msgid "Сатурн"
+msgstr ""
+
+# Objects : [n305684800]
+# name:be: []
+msgid "Сафари"
+msgstr ""
+
+# Objects : [n2622369689]
+# name:be: []
+msgid "свежая выпечка"
+msgstr ""
+
+# Objects : [n2480968181]
+# name:be: []
+msgid "Светофор"
+msgstr ""
+
+# Objects : [n2902946275]
+# name:be: []
+msgid "Свои"
+msgstr ""
+
+# Objects : [n2627203124]
+# name:be: []
+msgid "Семейное кафе «Family Club»"
+msgstr ""
+
+# Objects : [n2332440483]
+# name:be: []
+msgid "Сити"
+msgstr ""
+
+# Objects : [n672923176]
+# name:be: []
+msgid "Сити-Гриль"
+msgstr ""
+
+# Objects : [n3207033863]
+# name:be: []
+msgid "Сицилия"
+msgstr ""
+
+# Objects : [n1789209854, n281727413]
+# name:be: [Казачны Замак, Казачны замак]
+msgid "Сказочный замок"
+msgstr ""
+
+# Objects : [n305682942]
+# name:be: []
+msgid "Сказочный Замок"
+msgstr ""
+
+# Objects : [n654120317]
+# name:be: []
+msgid "Скиф"
+msgstr ""
+
+# Objects : [n305683627]
+# name:be: [Слявянскі кут]
+msgid "Славянский кут"
+msgstr ""
+
+# Objects : [n382884060]
+# name:be: [Салодкі фальварак]
+msgid "Сладкий фольварк"
+msgstr ""
+
+# Objects : [n674944601]
+# name:be: []
+msgid "Собрание"
+msgstr ""
+
+# Objects : [n305686034]
+# name:be: []
+msgid "Советский"
+msgstr ""
+
+# Objects : [n807652939]
+# name:be: []
+msgid "Соль и перец"
+msgstr ""
+
+# Objects : [n283584371]
+# name:be: [Сосны]
+msgid "Сосны"
+msgstr ""
+
+# Objects : [n522813952]
+# name:be: []
+msgid "София"
+msgstr ""
+
+# Objects : [n676940122]
+# name:be: []
+msgid "Сочи"
+msgstr ""
+
+# Objects : [n443698599]
+# name:be: [Саюз-Online]
+msgid "Союз-Online"
+msgstr ""
+
+# Objects : [n277337819]
+# name:be: []
+msgid "Спадчына"
+msgstr ""
+
+# Objects : [n2511161629]
+# name:be: []
+msgid "Спартак"
+msgstr ""
+
+# Objects : [n2753250786]
+# name:be: []
+msgid "Стараменская майстэрня шакаладу"
+msgstr ""
+
+# Objects : [n305681907]
+# name:be: [Старавіленская карчма]
+msgid "Старовиленская корчма"
+msgstr ""
+
+# Objects : [n2214405208]
+# name:be: []
+msgid "Старое русло"
+msgstr ""
+
+# Objects : [n2164431648, n2673838997]
+# name:be: []
+msgid "Староместный пивовар"
+msgstr ""
+
+# Objects : [n3116156643]
+# name:be: [Старамеская піўніца]
+msgid "Староместская пивница"
+msgstr ""
+
+# Objects : [n305681812]
+# name:be: [Стары горад]
+msgid "Старый Город"
+msgstr ""
+
+# Objects : [n305676094]
+# name:be: []
+msgid "Старый двор"
+msgstr ""
+
+# Objects : [n305682813]
+# name:be: [Стары Менск]
+msgid "Стары Менск"
+msgstr ""
+
+# Objects : [n305680139]
+# name:be: []
+msgid "Столица"
+msgstr ""
+
+# Objects : [n281909552]
+# name:be: []
+msgid "Столичный буфет"
+msgstr ""
+
+# Objects : [n1640226688, n2462206039, n888067147]
+# name:be: [Сталовая]
+msgid "столовая"
+msgstr ""
+
+# Objects : [n1438397707, n1464071739, n1492839593, n1529683143, n1618158500, n1630817994, n1834935801, n1870460894, n1870460896, n1870460897, n1870460899, n1870460900, n1870460903, n1870460904, n1870460906, n1870460907, n1870460909, n1870460910, n1870460912, n1870460913, n1870460914, n1870460915, n1870460916, n1870460921, n1870460922, n1870460924, n1870460925, n1870460927, n1870460928, n1870460929, n1870460931, n1870460933, n1870460939, n1870460946, n1870460951, n1870460955, n1870460958, n1870460963, n1870460968, n1870460973, n1870460976, n1870460979, n1870460981, n1870460982, n1870460984, n1870460985, n1870460987, n1875548923, n1875571615, n2094628321, n2102131225, n2622428719, n2622446556, n2622450016, n2622460608, n2622463732, n305685347, n3148188258, n3158027644, n3235921361, n455005214, n837776624, n915408294, n923182890, n923182895, n991008645, w25313232]
+# name:be: [Сталовая]
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n1870460861]
+# name:be: []
+msgid "СТОЛОВАЯ"
+msgstr ""
+
+# Objects : [n2415188252]
+# name:be: []
+msgid "Столовая "Луч""
+msgstr ""
+
+# Objects : [n2452182032]
+# name:be: []
+msgid "Столовая «Гаспадар»"
+msgstr ""
+
+# Objects : [n1457088048]
+# name:be: []
+msgid "Столовая «Луч»"
+msgstr ""
+
+# Objects : [n1870460866]
+# name:be: []
+msgid "Столовая N 104"
+msgstr ""
+
+# Objects : [n1870460816]
+# name:be: []
+msgid "СТОЛОВАЯ N 130"
+msgstr ""
+
+# Objects : [n1870460821]
+# name:be: []
+msgid "СТОЛОВАЯ N 175"
+msgstr ""
+
+# Objects : [n1870460824]
+# name:be: []
+msgid "СТОЛОВАЯ N 181"
+msgstr ""
+
+# Objects : [n1870460826]
+# name:be: []
+msgid "СТОЛОВАЯ N 190"
+msgstr ""
+
+# Objects : [n1870460827, n1870460832]
+# name:be: []
+msgid "СТОЛОВАЯ N 2"
+msgstr ""
+
+# Objects : [n1695378708]
+# name:be: []
+msgid "СТОЛОВАЯ N 57"
+msgstr ""
+
+# Objects : [n1438475917]
+# name:be: []
+msgid "Столовая N 59 МПОВТ"
+msgstr ""
+
+# Objects : [n1870460837]
+# name:be: []
+msgid "СТОЛОВАЯ N 6"
+msgstr ""
+
+# Objects : [n2831760347]
+# name:be: []
+msgid "Столовая Автокомбинат № 3"
+msgstr ""
+
+# Objects : [n1544084659]
+# name:be: [Сталовая АП №5]
+msgid "Столовая АП №5"
+msgstr ""
+
+# Objects : [n1244183057, n1445250446]
+# name:be: [Сталовая БДУ]
+msgid "Столовая БГУ"
+msgstr ""
+
+# Objects : [n2332474076]
+# name:be: []
+msgid "Столовая Белавтодор"
+msgstr ""
+
+# Objects : [n2831767532]
+# name:be: []
+msgid "Столовая Белмедпрепараты РДУП"
+msgstr ""
+
+# Objects : [n3002619666]
+# name:be: []
+msgid "Столовая Белтелеком"
+msgstr ""
+
+# Objects : [n1870460872, n1870460876, n1870460877]
+# name:be: []
+msgid "Столовая БНТУ"
+msgstr ""
+
+# Objects : [n1870460893]
+# name:be: []
+msgid "Столовая в комн. 101"
+msgstr ""
+
+# Objects : [n1870460854]
+# name:be: []
+msgid "СТОЛОВАЯ ЗАВОДА"
+msgstr ""
+
+# Objects : [n2831683711]
+# name:be: []
+msgid "Столовая Завода Крупнопанельного Домостроения № 3 ОАО Мапид"
+msgstr ""
+
+# Objects : [n1870460881]
+# name:be: []
+msgid "Столовая ИНТЕГРАЛОВЕЦ"
+msgstr ""
+
+# Objects : [n1737433371]
+# name:be: []
+msgid "Столовая Керамин"
+msgstr ""
+
+# Objects : [n2831885553]
+# name:be: []
+msgid "Столовая Кол ОАО МПОВТ"
+msgstr ""
+
+# Objects : [n1870460883]
+# name:be: []
+msgid "Столовая КОП"
+msgstr ""
+
+# Objects : [n2831744566]
+# name:be: []
+msgid "Столовая КОП МАЗ"
+msgstr ""
+
+# Objects : [n1870460884, n1870460885, n1870460887]
+# name:be: []
+msgid "Столовая МАЗ"
+msgstr ""
+
+# Objects : [n2831817260]
+# name:be: []
+msgid "Столовая Минскпроектмебель ОАО"
+msgstr ""
+
+# Objects : [n1875547511]
+# name:be: []
+msgid "Столовая на 2 этаже"
+msgstr ""
+
+# Objects : [n907891259]
+# name:be: []
+msgid "Столовая Налибоки"
+msgstr ""
+
+# Objects : [n2831775151]
+# name:be: []
+msgid "Столовая НИРУП Цнииту"
+msgstr ""
+
+# Objects : [n2831922008]
+# name:be: []
+msgid "Столовая ОАО Минский Приборостроительный завод"
+msgstr ""
+
+# Objects : [n2831825756]
+# name:be: []
+msgid "Столовая РУП Объединенное Диспетчерское управление (ОДУ)"
+msgstr ""
+
+# Objects : [n2831785037]
+# name:be: []
+msgid "Столовая УО Мгтк Белкоопсоюза"
+msgstr ""
+
+# Objects : [n2831686266]
+# name:be: []
+msgid "Столовая УП Горпфи"
+msgstr ""
+
+# Objects : [n2831897803]
+# name:be: []
+msgid "Столовая УП Минский Комаровский Рынок"
+msgstr ""
+
+# Objects : [n2831750353]
+# name:be: []
+msgid "Столовая Филиала Автобусный Парк № 2 ГП Минсктранс"
+msgstr ""
+
+# Objects : [n954866152]
+# name:be: []
+msgid "Столовая химфака БГУ"
+msgstr ""
+
+# Objects : [n2831805064]
+# name:be: []
+msgid "Столовая ЧУП Белкоопоптторг Белкоопсоюза"
+msgstr ""
+
+# Objects : [n2831904633]
+# name:be: []
+msgid "Столовая ЧУП Канаш"
+msgstr ""
+
+# Objects : [n1870460814]
+# name:be: []
+msgid "Столовая №1"
+msgstr ""
+
+# Objects : [n1870460813]
+# name:be: []
+msgid "Столовая № 1"
+msgstr ""
+
+# Objects : [n2831688162]
+# name:be: []
+msgid "Столовая № 102 УП КШП Заводского района"
+msgstr ""
+
+# Objects : [n1870460818]
+# name:be: []
+msgid "Столовая № 15"
+msgstr ""
+
+# Objects : [n1870460823]
+# name:be: []
+msgid "Столовая №180"
+msgstr ""
+
+# Objects : [n1870460829]
+# name:be: []
+msgid "Столовая №2"
+msgstr ""
+
+# Objects : [n781987756]
+# name:be: []
+msgid "Столовая № 2"
+msgstr ""
+
+# Objects : [n1870460833]
+# name:be: []
+msgid "Столовая № 2 БНТУ"
+msgstr ""
+
+# Objects : [n305680296]
+# name:be: []
+msgid "Стэкхаус"
+msgstr ""
+
+# Objects : [n290142651]
+# name:be: []
+msgid "Сузор'е"
+msgstr ""
+
+# Objects : [n305686472]
+# name:be: []
+msgid "Султан"
+msgstr ""
+
+# Objects : [n3147987612]
+# name:be: []
+msgid "Сундук"
+msgstr ""
+
+# Objects : [n3283609961]
+# name:be: []
+msgid "Суши"
+msgstr ""
+
+# Objects : [n3148781194]
+# name:be: []
+msgid "Суши-бар Kaiten"
+msgstr ""
+
+# Objects : [n3207918173]
+# name:be: []
+msgid "Суши весла"
+msgstr ""
+
+# Objects : [n639544228]
+# name:be: []
+msgid "Суши вёсла"
+msgstr ""
+
+# Objects : [n1081696232]
+# name:be: []
+msgid "Суши Вёсла"
+msgstr ""
+
+# Objects : [n2567200806]
+# name:be: []
+msgid "Суши вёсла take away"
+msgstr ""
+
+# Objects : [n2503787675]
+# name:be: []
+msgid "СУШИ ВЕСЛА СУШИ-БАР"
+msgstr ""
+
+# Objects : [n1588277862]
+# name:be: []
+msgid "Сытый ёжик"
+msgstr ""
+
+# Objects : [n1483850581]
+# name:be: []
+msgid "Сытый папа"
+msgstr ""
+
+# Objects : [n305675292]
+# name:be: []
+msgid "Таверна"
+msgstr ""
+
+# Objects : [n3143415750]
+# name:be: []
+msgid "Танго"
+msgstr ""
+
+# Objects : [n305681829]
+# name:be: []
+msgid "Театро"
+msgstr ""
+
+# Objects : [n1658797699, n2354596348, n2591390213]
+# name:be: []
+msgid "Темпо"
+msgstr ""
+
+# Objects : [n2616019839]
+# name:be: []
+msgid "Терра пицца"
+msgstr ""
+
+# Objects : [n1207342770]
+# name:be: []
+msgid "Терраса"
+msgstr ""
+
+# Objects : [n305686475]
+# name:be: [Тэрыторыя]
+msgid "Территория"
+msgstr ""
+
+# Objects : [n305684728]
+# name:be: []
+msgid "Тифлисъ"
+msgstr ""
+
+# Objects : [n3268793919]
+# name:be: []
+msgid "Товарищ"
+msgstr ""
+
+# Objects : [n276694057]
+# name:be: []
+msgid "Топ-Гир"
+msgstr ""
+
+# Objects : [n492119458]
+# name:be: []
+msgid "Тоскана"
+msgstr ""
+
+# Objects : [n1870460815]
+# name:be: []
+msgid "Традиции"
+msgstr ""
+
+# Objects : [n2343293923]
+# name:be: []
+msgid "Трактир на Макрса"
+msgstr ""
+
+# Objects : [n305680032]
+# name:be: []
+msgid "Трактир На Парковой"
+msgstr ""
+
+# Objects : [n2531446914]
+# name:be: []
+msgid "Три Мушкетёра"
+msgstr ""
+
+# Objects : [n282159097]
+# name:be: []
+msgid "Триумф"
+msgstr ""
+
+# Objects : [n305684946]
+# name:be: []
+msgid "Турист"
+msgstr ""
+
+# Objects : [n1474080471]
+# name:be: []
+msgid "Тусэ"
+msgstr ""
+
+# Objects : [n1308553653]
+# name:be: []
+msgid "Угощение от сестер"
+msgstr ""
+
+# Objects : [n281694148]
+# name:be: []
+msgid "Улей"
+msgstr ""
+
+# Objects : [n952749791]
+# name:be: []
+msgid "У Люсика"
+msgstr ""
+
+# Objects : [n3212068530]
+# name:be: []
+msgid "У Петровича"
+msgstr ""
+
+# Objects : [n305684666]
+# name:be: []
+msgid "Упоение"
+msgstr ""
+
+# Objects : [n1439052718]
+# name:be: []
+msgid "У поющих фонтанов"
+msgstr ""
+
+# Objects : [n305680457]
+# name:be: []
+msgid "У Ратуши"
+msgstr ""
+
+# Objects : [n305686948]
+# name:be: []
+msgid "У Старого Мельника"
+msgstr ""
+
+# Objects : [n1618064756]
+# name:be: []
+msgid "У Фонтана"
+msgstr ""
+
+# Objects : [n305682837]
+# name:be: []
+msgid "У Франциска"
+msgstr ""
+
+# Objects : [n2343293924]
+# name:be: []
+msgid "У Янки"
+msgstr ""
+
+# Objects : [n2577090843]
+# name:be: []
+msgid "Фа-со-ля"
+msgstr ""
+
+# Objects : [n1736684215]
+# name:be: []
+msgid "Ферзь"
+msgstr ""
+
+# Objects : [n306065230]
+# name:be: []
+msgid "Феррит"
+msgstr ""
+
+# Objects : [n305684554]
+# name:be: []
+msgid "Фламинго"
+msgstr ""
+
+# Objects : [n1828463546]
+# name:be: []
+msgid "Фолиант"
+msgstr ""
+
+# Objects : [n305681883]
+# name:be: [Фрэскі]
+msgid "Фрески"
+msgstr ""
+
+# Objects : [n281908084]
+# name:be: []
+msgid "Хазар"
+msgstr ""
+
+# Objects : [n452113648]
+# name:be: []
+msgid "Хмельная застава"
+msgstr ""
+
+# Objects : [n2621395102, n642311917]
+# name:be: [Хутарок]
+msgid "Хутарок"
+msgstr ""
+
+# Objects : [n1118887257, n1360571799, n1566422421, n698364136]
+# name:be: [Хутка-смачна]
+msgid "Хутка-смачна"
+msgstr ""
+
+# Objects : [n278463217, n3141940104, w282034333]
+# name:be: []
+msgid "Хутка-Смачна"
+msgstr ""
+
+# Objects : [n560988916]
+# name:be: []
+msgid "Хуторок"
+msgstr ""
+
+# Objects : [n305684797]
+# name:be: []
+msgid "Цезарь"
+msgstr ""
+
+# Objects : [n3106523893]
+# name:be: []
+msgid "Чайное Состояние"
+msgstr ""
+
+# Objects : [n2241600572]
+# name:be: []
+msgid "Чебуречная"
+msgstr ""
+
+# Objects : [n2415182654]
+# name:be: []
+msgid "Чехов"
+msgstr ""
+
+# Objects : [n305684625]
+# name:be: []
+msgid "Чжунго-Мэйши"
+msgstr ""
+
+# Objects : [n305685723]
+# name:be: []
+msgid "Чинар"
+msgstr ""
+
+# Objects : [n305679654]
+# name:be: []
+msgid "Чумацький Шлях"
+msgstr ""
+
+# Objects : [n772652403]
+# name:be: []
+msgid "ЧУП "АССОРТИ-ДРАЙВ""
+msgstr ""
+
+# Objects : [n305681753]
+# name:be: []
+msgid "Шангрила"
+msgstr ""
+
+# Objects : [n288087852]
+# name:be: []
+msgid "Шаровня"
+msgstr ""
+
+# Objects : [n3284315883]
+# name:be: []
+msgid "Шилинг"
+msgstr ""
+
+# Objects : [n305682203]
+# name:be: [Шынак у Лявона]
+msgid "Шинок у Лявона"
+msgstr ""
+
+# Objects : [n305686240]
+# name:be: []
+msgid "Шоколад"
+msgstr ""
+
+# Objects : [n2600504572]
+# name:be: []
+msgid "Шоколада и чай"
+msgstr ""
+
+# Objects : [n778265180]
+# name:be: []
+msgid "Шоколадница"
+msgstr ""
+
+# Objects : [n3270390619]
+# name:be: []
+msgid "Шоколэнд"
+msgstr ""
+
+# Objects : [n1678708990, n1678709003, n2930978629, n2930982472, n305684559, n3110943511]
+# name:be: [Штолле]
+msgid "Штолле"
+msgstr ""
+
+# Objects : [n3207897043]
+# name:be: []
+msgid "Экватор"
+msgstr ""
+
+# Objects : [n3212070980]
+# name:be: []
+msgid "Экспресс-Кафе"
+msgstr ""
+
+# Objects : [n3212073642]
+# name:be: []
+msgid "Экспресс-КАфе"
+msgstr ""
+
+# Objects : [n1141989034, n305683525, n639753866]
+# name:be: [Эль Памідора]
+msgid "Эль Помидоро"
+msgstr ""
+
+# Objects : [n834001848]
+# name:be: []
+msgid "Эриван"
+msgstr ""
+
+# Objects : [n287866383]
+# name:be: []
+msgid "Эридан"
+msgstr ""
+
+# Objects : [n305683530]
+# name:be: []
+msgid "Эсперанто"
+msgstr ""
+
+# Objects : [n306066213]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+
+# Objects : [n765788370]
+# name:be: []
+msgid "Яблоко"
+msgstr ""
+
+# Objects : [n1141573435]
+# name:be: [Бурштын]
+msgid "Янтарь"
+msgstr ""
+

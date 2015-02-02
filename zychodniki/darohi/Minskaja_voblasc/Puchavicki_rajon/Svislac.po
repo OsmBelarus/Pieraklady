@@ -1,0 +1,120 @@
+# Objects : [w156648437]
+# name:be: [Веснавы завулак]
+msgid "Весенний переулок"
+msgstr ""
+
+# Objects : [w156648438]
+# name:be: [Вішнёвы завулак]
+msgid "Вишнёвый переулок"
+msgstr ""
+
+# Objects : [w156648439]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w156648440]
+# name:be: []
+msgid "Дукора-Руденск2"
+msgstr ""
+
+# Objects : [w156648441]
+# name:be: [Дукорскі завулак]
+msgid "Дукорский переулок"
+msgstr ""
+
+# Objects : [w156648442]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [w156648443]
+# name:be: [Майскі завулак]
+msgid "Майский переулок"
+msgstr ""
+
+# Objects : [w140008793, w156594814]
+# name:be: [Набярэжная вуліца]
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w156648445]
+# name:be: [Азёрная вуліца]
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w140099375]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w156648446]
+# name:be: [Вясёлкавая вуліца]
+msgid "Радужная улица"
+msgstr ""
+
+# Objects : [w156648447]
+# name:be: [Рабінавы завулак]
+msgid "Рябиновый переулок"
+msgstr ""
+
+# Objects : [w156648449]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w156648451]
+# name:be: [Садовы завулак]
+msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w156648453]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w156648454]
+# name:be: [Салаўіная вуліца]
+msgid "Соловьиная улица"
+msgstr ""
+
+# Objects : [w156648456]
+# name:be: [Сасновы завулак]
+msgid "Сосновый переулок"
+msgstr ""
+
+# Objects : [w156648457]
+# name:be: [Цяністая вуліца]
+msgid "Тенистая улица"
+msgstr ""
+
+# Objects : [w156648458]
+# name:be: [Таполевая вуліца]
+msgid "Тополиная улица"
+msgstr ""
+
+# Objects : [w156492467]
+# name:be: [вуліца Дубініна]
+msgid "улица Дубинина"
+msgstr ""
+
+# Objects : [w25267995]
+# name:be: [вуліца Будаўнікоў]
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w156648459]
+# name:be: [вуліца Энергетыкаў]
+msgid "улица Энергетиков"
+msgstr ""
+
+# Objects : [w156492473]
+# name:be: [вуліца Энтузіястаў]
+msgid "улица Энтузиастов"
+msgstr ""
+
+# Objects : [w156648460]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+

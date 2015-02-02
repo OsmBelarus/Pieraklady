@@ -1,0 +1,65 @@
+# Objects : [w265570332, w265570333]
+# name:be: [Зарэчная вуліца]
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w265419892]
+# name:be: [Кааператыўная вуліца]
+msgid "Кооперативная улица"
+msgstr ""
+
+# Objects : [w304796228]
+# name:be: [Новы завулак]
+msgid "Новый переулок"
+msgstr ""
+
+# Objects : [w304665114]
+# name:be: []
+msgid "переулок Физкультурный"
+msgstr ""
+
+# Objects : [w265570330]
+# name:be: [Палявы завулак]
+msgid "Полевой переулок"
+msgstr ""
+
+# Objects : [w79396277]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w265570331]
+# name:be: [Савецкі завулак]
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w265419890, w265419891]
+# name:be: [вуліца 17 Верасня]
+msgid "улица 17 Сентября"
+msgstr ""
+
+# Objects : [w79396279]
+# name:be: [вуліца 1-га Мая]
+msgid "улица 1-го Мая"
+msgstr ""
+
+# Objects : [w55380876, w79396276]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w265419893]
+# name:be: [вуліца Політаева]
+msgid "улица Политаева"
+msgstr ""
+
+# Objects : [w25288857]
+# name:be: [вуліца Якуба Коласа]
+msgid "улица Якуба Коласа"
+msgstr ""
+
+# Objects : [w265570334]
+# name:be: [Фабрычная вуліца]
+msgid "Фабричная улица"
+msgstr ""
+

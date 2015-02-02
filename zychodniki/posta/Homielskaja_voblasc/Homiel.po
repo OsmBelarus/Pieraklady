@@ -1,0 +1,40 @@
+# Objects : [n3127511608]
+# name:be: []
+msgid "246045"
+msgstr ""
+
+# Objects : [n2166725139, n3245783162]
+# name:be: []
+msgid "Белпочта"
+msgstr ""
+
+# Objects : [n455936313]
+# name:be: [Паштамт]
+msgid "Главпочтампт"
+msgstr ""
+
+# Objects : [n455929264]
+# name:be: []
+msgid "Почта 35"
+msgstr ""
+
+# Objects : [n621251793]
+# name:be: []
+msgid "Почтовое отделение № 12"
+msgstr ""
+
+# Objects : [n1429147825]
+# name:be: []
+msgid "Почтовое отделение № 28"
+msgstr ""
+
+# Objects : [n2588765670]
+# name:be: []
+msgid "Почтовое отделение №6"
+msgstr ""
+
+# Objects : [n306068149]
+# name:be: [Пошта]
+msgid "Пошта"
+msgstr ""
+

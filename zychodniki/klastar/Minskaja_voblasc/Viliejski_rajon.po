@@ -1,0 +1,85 @@
+# Objects : [n1376690081]
+# name:be: []
+msgid "Костел Благовещенский"
+msgstr ""
+
+# Objects : [n1376719941]
+# name:be: []
+msgid "Костел Девы Марии"
+msgstr ""
+
+# Objects : [n1375671117]
+# name:be: []
+msgid "Костел Рождества Девы Марии"
+msgstr ""
+
+# Objects : [n1551940654]
+# name:be: []
+msgid "Костел св. Станислава"
+msgstr ""
+
+# Objects : [w157040522]
+# name:be: []
+msgid "Костёл Сердца Иисуса"
+msgstr ""
+
+# Objects : [w323222609]
+# name:be: []
+msgid "Памнік ахвярам 2-й сусветнай вайны"
+msgstr ""
+
+# Objects : [n1551961270]
+# name:be: []
+msgid "Храм протестантский"
+msgstr ""
+
+# Objects : [w323213789]
+# name:be: []
+msgid "Царква святога Іосіфа"
+msgstr ""
+
+# Objects : [w157040523]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Церковь Илии Пророка"
+msgstr ""
+
+# Objects : [n1376720467]
+# name:be: []
+msgid "Церковь Рождества Богородицы"
+msgstr ""
+
+# Objects : [n1559044634]
+# name:be: []
+msgid "Церковь св. Иосифа (дерев.)"
+msgstr ""
+
+# Objects : [n1374796787]
+# name:be: []
+msgid "Церковь св. Николая (дерев.)"
+msgstr ""
+
+# Objects : [w239961268]
+# name:be: []
+msgid "Церковь Собора Белорусских Святых (дерев.)"
+msgstr ""
+
+# Objects : [n1551932341]
+# name:be: []
+msgid "Церковь Троицкая"
+msgstr ""
+
+# Objects : [w283559941]
+# name:be: [Царква Успення Прасвятой Божай Маці]
+msgid "Церковь Успенская"
+msgstr ""
+
+# Objects : [w158940329]
+# name:be: []
+msgid "Церковь Успенская (дерев.)"
+msgstr ""
+
+# Objects : [n1376721718, w283559942]
+# name:be: []
+msgid "Часовня"
+msgstr ""
+

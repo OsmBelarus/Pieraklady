@@ -1,0 +1,65 @@
+# Objects : [n1429798801]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n1039972114]
+# name:be: [Аптэка №14]
+msgid "Аптека №14"
+msgstr ""
+
+# Objects : [n2278250079]
+# name:be: [Арніка]
+msgid "Арника"
+msgstr ""
+
+# Objects : [n1081990225]
+# name:be: [Арніка-Люкс]
+msgid "Арника-Люкс"
+msgstr ""
+
+# Objects : [n1097008105]
+# name:be: []
+msgid "Для лидчан"
+msgstr ""
+
+# Objects : [n1426748493]
+# name:be: [ТДА Лідфарм]
+msgid "ОДО Лидафарм"
+msgstr ""
+
+# Objects : [n913507659]
+# name:be: [Панацэя]
+msgid "Панацея"
+msgstr ""
+
+# Objects : [n306067675]
+# name:be: []
+msgid "Рябина красная"
+msgstr ""
+
+# Objects : [n306067666]
+# name:be: []
+msgid "Тамавир"
+msgstr ""
+
+# Objects : [n1081990235]
+# name:be: [№139 Фармацыя]
+msgid "№139 Фармация"
+msgstr ""
+
+# Objects : [n2853192306]
+# name:be: [№146 Цэнтральная раённая Фармацыя]
+msgid "№146 Центральная районная Фармация"
+msgstr ""
+
+# Objects : [n306067709]
+# name:be: [№163 Фармацыя]
+msgid "№163 Фармация"
+msgstr ""
+
+# Objects : [n1081990233]
+# name:be: [№2 Камфарм]
+msgid "№2 Комфарм"
+msgstr ""
+

@@ -1,0 +1,695 @@
+# Objects : [w196674321]
+# name:be: []
+msgid "Автобусный парк №4"
+msgstr ""
+
+# Objects : [w198511495, w324065032]
+# name:be: []
+msgid "Автодром"
+msgstr ""
+
+# Objects : [n2076188703]
+# name:be: [Аўтадромная вуліца]
+msgid "Автодромная улица"
+msgstr ""
+
+# Objects : [n2076188660, n2076188663]
+# name:be: []
+msgid "Автопарк №4"
+msgstr ""
+
+# Objects : [n2070443165, n2624014865]
+# name:be: [Аўтастанцыя]
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n2076188666]
+# name:be: []
+msgid "Аграрный колледж"
+msgstr ""
+
+# Objects : [r2650114]
+# name:be: []
+msgid "Аграрный колледж - микрорайон "Южный""
+msgstr ""
+
+# Objects : [n2070443160, n2070443161]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [n1124622422]
+# name:be: []
+msgid "АТС-5"
+msgstr ""
+
+# Objects : [n2066528969]
+# name:be: []
+msgid "Багира"
+msgstr ""
+
+# Objects : [n2070443152, n2070443153]
+# name:be: []
+msgid "Беллакт"
+msgstr ""
+
+# Objects : [n2076158478]
+# name:be: [Брэсцкая вуліца]
+msgid "Брестская улица"
+msgstr ""
+
+# Objects : [n2061662438]
+# name:be: []
+msgid "Ветеринарная станция"
+msgstr ""
+
+# Objects : [n1124666883]
+# name:be: []
+msgid "Вечный огонь"
+msgstr ""
+
+# Objects : [n2076158461]
+# name:be: []
+msgid "ВЗЛО"
+msgstr ""
+
+# Objects : [w97518260]
+# name:be: [Ваенкамат]
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [n1234736326]
+# name:be: [Ваенна-гістарычны музей імя Багратыёна]
+msgid "Военно-исторический музей имени Багратиона"
+msgstr ""
+
+# Objects : [w196713227]
+# name:be: []
+msgid "Волклвыскстройматериалы"
+msgstr ""
+
+# Objects : [n1365350343]
+# name:be: [Ваўкавыск]
+msgid "Волковыск"
+msgstr ""
+
+# Objects : [n272845467]
+# name:be: [Ваўкавыск-Горад]
+msgid "Волковыск-Город"
+msgstr ""
+
+# Objects : [w196674323]
+# name:be: []
+msgid "Волковыскмежрайгаз"
+msgstr ""
+
+# Objects : [w196111966]
+# name:be: []
+msgid "Волковыскнефтепродукт"
+msgstr ""
+
+# Objects : [n306067790]
+# name:be: [Ваўкавыск Цэнтральны]
+msgid "Волковыск-Центральный"
+msgstr ""
+
+# Objects : [n2059096228]
+# name:be: []
+msgid "Волковысский государственный аграрный колледж"
+msgstr ""
+
+# Objects : [n2074468039]
+# name:be: []
+msgid "Волковысский государственный детский дом смешанного типа"
+msgstr ""
+
+# Objects : [n2058923488]
+# name:be: []
+msgid "Волковысский государственный строительный лицей"
+msgstr ""
+
+# Objects : [w189727195]
+# name:be: []
+msgid "Волковысский завод литейного оборудования"
+msgstr ""
+
+# Objects : [w198341832]
+# name:be: []
+msgid "Волковысский педагогический колледж"
+msgstr ""
+
+# Objects : [n2061662452]
+# name:be: [Ваўкавыскі раённы выканаўчы камітэт]
+msgid "Волковысский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n1123511580]
+# name:be: []
+msgid "Волковысский РОВД"
+msgstr ""
+
+# Objects : [w196674324]
+# name:be: []
+msgid "Волковысский хлебозавод"
+msgstr ""
+
+# Objects : [w196713228]
+# name:be: []
+msgid "Волковысское управление мелиоративных систем"
+msgstr ""
+
+# Objects : [w193531776]
+# name:be: []
+msgid "Волмет"
+msgstr ""
+
+# Objects : [n2076131858]
+# name:be: []
+msgid "ГАП №6"
+msgstr ""
+
+# Objects : [n2788680189]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [n2076131862, n2076131867]
+# name:be: [Гарадская лазня]
+msgid "Городская баня"
+msgstr ""
+
+# Objects : [n2040472817]
+# name:be: []
+msgid "Городская стоматологическая поликлиника"
+msgstr ""
+
+# Objects : [n2076188668, n2076188671]
+# name:be: []
+msgid "Городской  парк"
+msgstr ""
+
+# Objects : [n1234736075]
+# name:be: []
+msgid "Гостиница "Берёзка""
+msgstr ""
+
+# Objects : [n2766736493]
+# name:be: []
+msgid "Гостиница Берёзка"
+msgstr ""
+
+# Objects : [n2064787544]
+# name:be: []
+msgid "Гродненский государственный автоучебный комбинат"
+msgstr ""
+
+# Objects : [w196111939]
+# name:be: []
+msgid "Гродновтормет"
+msgstr ""
+
+# Objects : [n2070443150, n2070443151]
+# name:be: []
+msgid "Груды"
+msgstr ""
+
+# Objects : [n2059096229]
+# name:be: []
+msgid "Детская городская поликлиника"
+msgstr ""
+
+# Objects : [n2070443163, n2070443164]
+# name:be: []
+msgid "Детский сад №4"
+msgstr ""
+
+# Objects : [w199105839]
+# name:be: []
+msgid "Дискотека"
+msgstr ""
+
+# Objects : [n2061662471, n2070443156, n2070443157]
+# name:be: []
+msgid "Дом культуры железнодорожников"
+msgstr ""
+
+# Objects : [w97793084]
+# name:be: []
+msgid "Железнодорожный вокзал"
+msgstr ""
+
+# Objects : [w193531778]
+# name:be: []
+msgid "Завод кровельных и строительно-отделочных машин"
+msgstr ""
+
+# Objects : [n2076258436, n2076258441]
+# name:be: []
+msgid "Завод КСОМ"
+msgstr ""
+
+# Objects : [w193513576]
+# name:be: []
+msgid "Замчище"
+msgstr ""
+
+# Objects : [w160958767]
+# name:be: []
+msgid "Исправительная колония №11"
+msgstr ""
+
+# Objects : [n2076131870]
+# name:be: []
+msgid "Кинотеатр "Юность""
+msgstr ""
+
+# Objects : [w99238110]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w99238431]
+# name:be: []
+msgid "Кладбище "Пороховня""
+msgstr ""
+
+# Objects : [w196757169]
+# name:be: []
+msgid "Козьи горы"
+msgstr ""
+
+# Objects : [n2788681919]
+# name:be: [Касцёл Святога Вацлава]
+msgid "Костел Святого Вацлава"
+msgstr ""
+
+# Objects : [w264723975]
+# name:be: []
+msgid "КСОМ"
+msgstr ""
+
+# Objects : [n1670838509]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [r2650031]
+# name:be: []
+msgid "Лесхоз - Консервный завод"
+msgstr ""
+
+# Objects : [n2070443172, r2643577]
+# name:be: []
+msgid "магазин "Дружба""
+msgstr ""
+
+# Objects : [n2070443170]
+# name:be: []
+msgid "магазин "Силуэт""
+msgstr ""
+
+# Objects : [n2070443147, n2070443174, r2643578, r2643579]
+# name:be: [мікрараён "Сонечны"]
+msgid "микрорайон "Солнечный""
+msgstr ""
+
+# Objects : [r2643582]
+# name:be: []
+msgid "Микрорайон "Солнечный" - Мясокомбинат"
+msgstr ""
+
+# Objects : [r2650082]
+# name:be: []
+msgid "Микрорайон "Солнечный" - улица Новопроектная"
+msgstr ""
+
+# Objects : [r2650150]
+# name:be: []
+msgid "Микрорайон "Солнечный" - улица Рокоссовского"
+msgstr ""
+
+# Objects : [r2650176]
+# name:be: []
+msgid "Микрорайон "Южный" - Очистные сооружения"
+msgstr ""
+
+# Objects : [w97548149]
+# name:be: []
+msgid "Минирынок крытый"
+msgstr ""
+
+# Objects : [w120059050]
+# name:be: []
+msgid "Мотокросс"
+msgstr ""
+
+# Objects : [n2076188676, n2076188679, w196713248]
+# name:be: []
+msgid "МПМК-142"
+msgstr ""
+
+# Objects : [w97257977]
+# name:be: []
+msgid "МРЭО ГАИ"
+msgstr ""
+
+# Objects : [w193513577]
+# name:be: []
+msgid "Муравельник"
+msgstr ""
+
+# Objects : [n1124623610]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [n2070443148, n2070443149]
+# name:be: []
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [r2021121]
+# name:be: []
+msgid "Набережная"
+msgstr ""
+
+# Objects : [n2076131880]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [n2076188707]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w99238584]
+# name:be: []
+msgid "Новое кладбище"
+msgstr ""
+
+# Objects : [w194470066]
+# name:be: []
+msgid "ОАО "Беллакт""
+msgstr ""
+
+# Objects : [w194470067]
+# name:be: []
+msgid "ОАО "Волковысский мясокомбинат""
+msgstr ""
+
+# Objects : [w196713229]
+# name:be: []
+msgid "ОАО "РСП 6""
+msgstr ""
+
+# Objects : [n2070443158, n2070443159]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w196713230]
+# name:be: []
+msgid "ООО "БИЗАМ""
+msgstr ""
+
+# Objects : [n2061662490]
+# name:be: []
+msgid "Отдел ЗАГС Райисполкома"
+msgstr ""
+
+# Objects : [n1729248397]
+# name:be: []
+msgid "памятник Активистам Советской Власти"
+msgstr ""
+
+# Objects : [n1729248406]
+# name:be: []
+msgid "памятник жертвам Фашизма"
+msgstr ""
+
+# Objects : [n1124671288]
+# name:be: []
+msgid "памятник Ленину"
+msgstr ""
+
+# Objects : [n2070443169]
+# name:be: []
+msgid "Педагогический колледж"
+msgstr ""
+
+# Objects : [n2076131887, n2078717167]
+# name:be: [плошча імя Леніна]
+msgid "площадь имени Ленина"
+msgstr ""
+
+# Objects : [n2788687747]
+# name:be: [палеглых ў 1919-20 гг.]
+msgid "погибших в 1919-20 гг."
+msgstr ""
+
+# Objects : [n2070443171, r2643576]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n2076158463]
+# name:be: []
+msgid "Пороховня"
+msgstr ""
+
+# Objects : [w198052404]
+# name:be: []
+msgid "Предприятие Отопительных Котельных"
+msgstr ""
+
+# Objects : [n2078717169]
+# name:be: []
+msgid "Престиж"
+msgstr ""
+
+# Objects : [w197157171]
+# name:be: []
+msgid "Противотуберкулёзный диспансер"
+msgstr ""
+
+# Objects : [n2076131884]
+# name:be: []
+msgid "ПЭС"
+msgstr ""
+
+# Objects : [n2059096234]
+# name:be: []
+msgid "Районная поликлиника"
+msgstr ""
+
+# Objects : [n2061662497]
+# name:be: []
+msgid "Районный дом культуры"
+msgstr ""
+
+# Objects : [n2087420842]
+# name:be: []
+msgid "Ремонт часов"
+msgstr ""
+
+# Objects : [w149953685]
+# name:be: []
+msgid "Рынок волковысского РАЙПО"
+msgstr ""
+
+# Objects : [w196764177]
+# name:be: []
+msgid "с/т "Надея""
+msgstr ""
+
+# Objects : [n1125898551]
+# name:be: [Самалёт]
+msgid "Самолет"
+msgstr ""
+
+# Objects : [w264723976]
+# name:be: []
+msgid "СМТ№32"
+msgstr ""
+
+# Objects : [n2076131902]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w193531815]
+# name:be: [Сонечны]
+msgid "Солнечный"
+msgstr ""
+
+# Objects : [n1124715241]
+# name:be: []
+msgid "СТО "Автоцентр" и стоянка"
+msgstr ""
+
+# Objects : [n2082426128]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [n1125900978, n1125901309]
+# name:be: []
+msgid "СТО-Ремонт авто"
+msgstr ""
+
+# Objects : [n2070443154, n2070443155]
+# name:be: []
+msgid "СШ№4"
+msgstr ""
+
+# Objects : [n2070443162]
+# name:be: []
+msgid "СШ№5"
+msgstr ""
+
+# Objects : [n2076158472, n2076158474]
+# name:be: []
+msgid "улица Амшея"
+msgstr ""
+
+# Objects : [n2076158475, n2076158476]
+# name:be: [вуліца Баграціёна]
+msgid "улица Багратиона"
+msgstr ""
+
+# Objects : [n2076258448, n2076258450]
+# name:be: [вуліца Барычэўскага]
+msgid "улица Боричевского"
+msgstr ""
+
+# Objects : [n2076158479, n2076158480]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [n2070443173, n2070443176, r2643580, r2643581]
+# name:be: []
+msgid "улица Горбатова"
+msgstr ""
+
+# Objects : [r3460435]
+# name:be: [вуліца Жолудзева]
+msgid "улица Жолудева"
+msgstr ""
+
+# Objects : [r3460436]
+# name:be: [вуліца Зянітчыкаў]
+msgid "улица Зенитчиков"
+msgstr ""
+
+# Objects : [n2076158481]
+# name:be: []
+msgid "улица Маркса"
+msgstr ""
+
+# Objects : [r3460437]
+# name:be: [вуліца Мядведзева]
+msgid "улица Медведева"
+msgstr ""
+
+# Objects : [n2076188705]
+# name:be: []
+msgid "улица Межевая"
+msgstr ""
+
+# Objects : [n2076158482, n2076158484]
+# name:be: []
+msgid "улица Новопроектная"
+msgstr ""
+
+# Objects : [n1729248734]
+# name:be: []
+msgid "улица Осипенко"
+msgstr ""
+
+# Objects : [n2076188710, n275451241]
+# name:be: []
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [n2076158485, n2076158487]
+# name:be: []
+msgid "улица Рокоссовского-I"
+msgstr ""
+
+# Objects : [n2076158489]
+# name:be: [вуліца Ракасоўскага–II]
+msgid "улица Рокоссовского–II"
+msgstr ""
+
+# Objects : [n2076188713]
+# name:be: []
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [n2788684802]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788685118]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [n2059784355]
+# name:be: []
+msgid "Физкультурно-оздоровительный комплекс"
+msgstr ""
+
+# Objects : [n1124657978]
+# name:be: []
+msgid "Флирт"
+msgstr ""
+
+# Objects : [w97790772]
+# name:be: []
+msgid "Футбольное поле"
+msgstr ""
+
+# Objects : [n2070443166, n2070443167, n2070443168]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n2059096236]
+# name:be: []
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [n1792391768, n2087420849]
+# name:be: []
+msgid "Центральный рынок"
+msgstr ""
+
+# Objects : [n2788686483]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2076158464]
+# name:be: []
+msgid "Цех керамики"
+msgstr ""
+
+# Objects : [w192253206]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w193513579]
+# name:be: [Шведская гара]
+msgid "Шведская гора"
+msgstr ""
+
+# Objects : [w264723977]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+

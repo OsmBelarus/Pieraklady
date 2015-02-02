@@ -1,0 +1,50 @@
+# Objects : [w121488131]
+# name:be: []
+msgid "Алешка"
+msgstr ""
+
+# Objects : [n2788680157]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1359791692, n1359791695, n306065061]
+# name:be: [Варапаева]
+msgid "Воропаево"
+msgstr ""
+
+# Objects : [w121487871]
+# name:be: []
+msgid "ДорОРС"
+msgstr ""
+
+# Objects : [w288891785]
+# name:be: []
+msgid "Завод ЖБИ"
+msgstr ""
+
+# Objects : [w121476782]
+# name:be: [Аколіца]
+msgid "Околица"
+msgstr ""
+
+# Objects : [n2788684220]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w279544094]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [n2788685014]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [w121023031]
+# name:be: [Гаспадарчыя тавары]
+msgid "Хозтовары"
+msgstr ""
+

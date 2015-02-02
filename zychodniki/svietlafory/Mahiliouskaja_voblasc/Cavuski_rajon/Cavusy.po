@@ -1,0 +1,20 @@
+# Objects : [n2201513014]
+# name:be: []
+msgid "парк Алея героев"
+msgstr ""
+
+# Objects : [n2480027081]
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [n2268023622]
+# name:be: [вуліца Маневіча]
+msgid "улица Маневича"
+msgstr ""
+
+# Objects : [n2480027084, n2480027085]
+# name:be: []
+msgid "Школа"
+msgstr ""
+

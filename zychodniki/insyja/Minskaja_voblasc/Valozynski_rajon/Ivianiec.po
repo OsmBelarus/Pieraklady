@@ -1,0 +1,70 @@
+# Objects : [n2450545377]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [n306066142]
+# name:be: [Гасцініца]
+msgid "Гостиница"
+msgstr ""
+
+# Objects : [n2766736584]
+# name:be: []
+msgid "Гостиница Ивенец"
+msgstr ""
+
+# Objects : [n306066151]
+# name:be: []
+msgid "Исполком"
+msgstr ""
+
+# Objects : [n2788681438]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [n306066265]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788681899]
+# name:be: [Касцёл Святога Міхала Араханёла і кляштар францысканаў]
+msgid "Костел Святого Архангела Михаила и кляштор францисканцев"
+msgstr ""
+
+# Objects : [n2788682424]
+# name:be: [Краязнаўчы музей]
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [n1374744076]
+# name:be: []
+msgid "Музей"
+msgstr ""
+
+# Objects : [n306066148]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n2788684323]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1374765513]
+# name:be: []
+msgid "Усадебный дом (руины)"
+msgstr ""
+
+# Objects : [n2788684859]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788687678]
+# name:be: [Каплічка]
+msgid "Часовня"
+msgstr ""
+

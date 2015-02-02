@@ -1,0 +1,75 @@
+# Objects : [w128295497]
+# name:be: []
+msgid "Ветерок"
+msgstr ""
+
+# Objects : [w78049144]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w156136417]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [w97423622]
+# name:be: []
+msgid "Караван"
+msgstr ""
+
+# Objects : [w75111949]
+# name:be: []
+msgid "кафе Метан"
+msgstr ""
+
+# Objects : [w156002046]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w156148513]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w78054986]
+# name:be: [Музей-кватэра Тусналобавай]
+msgid "Музей"
+msgstr ""
+
+# Objects : [w155942102]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w155770730]
+# name:be: []
+msgid "МЧС административное здание"
+msgstr ""
+
+# Objects : [w78049138]
+# name:be: [РАУС]
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w78050961]
+# name:be: [Суд]
+msgid "Суд"
+msgstr ""
+
+# Objects : [w78050956]
+# name:be: []
+msgid "Узел связи"
+msgstr ""
+
+# Objects : [w155998697]
+# name:be: []
+msgid "Центральная"
+msgstr ""
+
+# Objects : [w110772131]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+

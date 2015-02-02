@@ -1,0 +1,135 @@
+# Objects : [n2788679958]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n592058792]
+# name:be: [Калій 3]
+msgid "Калий-3"
+msgstr ""
+
+# Objects : [r2700055]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w186130674]
+# name:be: []
+msgid "Кладбище д. Рабак"
+msgstr ""
+
+# Objects : [n2788681492]
+# name:be: [Могілкі старыя]
+msgid "Кладбище старое"
+msgstr ""
+
+# Objects : [n2788682370]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788682174]
+# name:be: [Касцёл Святой Барбары]
+msgid "Костел Святой Варвары"
+msgstr ""
+
+# Objects : [w291826899]
+# name:be: []
+msgid "ЛТП-3"
+msgstr ""
+
+# Objects : [n306063931]
+# name:be: []
+msgid "Мащицы"
+msgstr ""
+
+# Objects : [n306064110]
+# name:be: [Некрашы]
+msgid "Некраши"
+msgstr ""
+
+# Objects : [n306063864]
+# name:be: [Навадворцы]
+msgid "Новодворцы"
+msgstr ""
+
+# Objects : [w25186086]
+# name:be: [Азярышча]
+msgid "Озерище"
+msgstr ""
+
+# Objects : [n2788683526]
+# name:be: [Бровар]
+msgid "Пивоварня"
+msgstr ""
+
+# Objects : [w25188340, w25192218, w25197683, w25198281]
+# name:be: []
+msgid "Поля Фильтрации"
+msgstr ""
+
+# Objects : [n2788683597]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788684029]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [r2364243]
+# name:be: []
+msgid "Руднянское"
+msgstr ""
+
+# Objects : [n2766722622]
+# name:be: []
+msgid "Санаторий Случь"
+msgstr ""
+
+# Objects : [n2766722625]
+# name:be: []
+msgid "Санаторий Солнышко"
+msgstr ""
+
+# Objects : [n306063856]
+# name:be: [Слуцк]
+msgid "Слуцк"
+msgstr ""
+
+# Objects : [r3768644]
+# name:be: []
+msgid "Слуцкое торфопредприятие"
+msgstr ""
+
+# Objects : [w41036117]
+# name:be: []
+msgid "солеотвалы 3 РУ"
+msgstr ""
+
+# Objects : [w231306828, w231307461]
+# name:be: []
+msgid "Страусиная ферма"
+msgstr ""
+
+# Objects : [w284087071, w284087073, w284087074]
+# name:be: []
+msgid "УЖД Слуцкого торфопредприятия"
+msgstr ""
+
+# Objects : [w126603005]
+# name:be: []
+msgid "Учебный Центр "Лесище""
+msgstr ""
+
+# Objects : [n2788687346]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686347]
+# name:be: [Царква Святога Сімяона]
+msgid "Церковь Св. Симеона"
+msgstr ""
+

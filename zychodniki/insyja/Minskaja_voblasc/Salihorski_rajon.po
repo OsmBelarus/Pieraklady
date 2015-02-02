@@ -1,0 +1,465 @@
+# Objects : [n1706687479]
+# name:be: []
+msgid "157, 7"
+msgstr ""
+
+# Objects : [w41036111]
+# name:be: []
+msgid "2 Ру"
+msgstr ""
+
+# Objects : [w96833413]
+# name:be: []
+msgid "3 Ру"
+msgstr ""
+
+# Objects : [w279287740]
+# name:be: []
+msgid "АБК РУДНИК"
+msgstr ""
+
+# Objects : [w279287148]
+# name:be: []
+msgid "АБК СОФ"
+msgstr ""
+
+# Objects : [w39490873]
+# name:be: []
+msgid "Автобаза"
+msgstr ""
+
+# Objects : [w148063247]
+# name:be: []
+msgid "Берёзовский рудник"
+msgstr ""
+
+# Objects : [w274267319]
+# name:be: []
+msgid "бывшая насосная"
+msgstr ""
+
+# Objects : [n2417423454]
+# name:be: []
+msgid "Вертолётная площадка Лесной охраны"
+msgstr ""
+
+# Objects : [n2788679944]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n1615541196, n2788680006]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [w296648988]
+# name:be: []
+msgid "вторые дачи"
+msgstr ""
+
+# Objects : [w274642725]
+# name:be: []
+msgid "Газостанция"
+msgstr ""
+
+# Objects : [n3056994997]
+# name:be: []
+msgid "Геодезическая вышка (пункт ГГС)"
+msgstr ""
+
+# Objects : [w273533774]
+# name:be: []
+msgid "Главный корпус СОФ-2"
+msgstr ""
+
+# Objects : [n1456709748, w132417046]
+# name:be: []
+msgid "Горняк-1"
+msgstr ""
+
+# Objects : [n470503755]
+# name:be: []
+msgid "Городское кладбище"
+msgstr ""
+
+# Objects : [n3280570661]
+# name:be: []
+msgid "Дамба"
+msgstr ""
+
+# Objects : [w296643987]
+# name:be: []
+msgid "Дачные участки"
+msgstr ""
+
+# Objects : [w276457613]
+# name:be: []
+msgid "Дорожно-строительное управление"
+msgstr ""
+
+# Objects : [w315257791]
+# name:be: []
+msgid "ДОТ времён до 1939г."
+msgstr ""
+
+# Objects : [w232792973]
+# name:be: []
+msgid "Заозёрное"
+msgstr ""
+
+# Objects : [w128325935]
+# name:be: []
+msgid "Звероферма"
+msgstr ""
+
+# Objects : [w312839039]
+# name:be: []
+msgid "Зона таможенного контроля"
+msgstr ""
+
+# Objects : [w25184575]
+# name:be: []
+msgid "Карпятник"
+msgstr ""
+
+# Objects : [w108882736, w321310292]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w78498032]
+# name:be: []
+msgid "Кладбище "Чижевичи""
+msgstr ""
+
+# Objects : [w121162031]
+# name:be: []
+msgid "кладбище деревни Метявичи"
+msgstr ""
+
+# Objects : [w158475682]
+# name:be: []
+msgid "кладбище деревни Тычины"
+msgstr ""
+
+# Objects : [n2788680745, n2788680746]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n1884077174]
+# name:be: []
+msgid "клуб"
+msgstr ""
+
+# Objects : [w285102377, w285102513, w285103623, w285104210]
+# name:be: []
+msgid "конвейер"
+msgstr ""
+
+# Objects : [w172889437, w307416466]
+# name:be: []
+msgid "конвейер руды Берёзовского рудника"
+msgstr ""
+
+# Objects : [w107879121]
+# name:be: []
+msgid "Краснослободский рудник"
+msgstr ""
+
+# Objects : [w25197155, w25197636, w25201923]
+# name:be: []
+msgid "Краснослободское"
+msgstr ""
+
+# Objects : [n2318049979]
+# name:be: []
+msgid "МашХимПром"
+msgstr ""
+
+# Objects : [w82366023]
+# name:be: []
+msgid "Мемориал в память погибших воинов"
+msgstr ""
+
+# Objects : [w301240272]
+# name:be: []
+msgid "Метявичи"
+msgstr ""
+
+# Objects : [w285099273, w285099573]
+# name:be: []
+msgid "молочно-товарная ферма"
+msgstr ""
+
+# Objects : [w25185443]
+# name:be: []
+msgid "Мхи"
+msgstr ""
+
+# Objects : [w220141042, w283152742]
+# name:be: []
+msgid "насосная"
+msgstr ""
+
+# Objects : [w279292575]
+# name:be: []
+msgid "НАСОСНАЯ"
+msgstr ""
+
+# Objects : [n1357017008]
+# name:be: []
+msgid "Неизвестный Солдат"
+msgstr ""
+
+# Objects : [w319996148, w319996811]
+# name:be: []
+msgid "Новы Рожан"
+msgstr ""
+
+# Objects : [w108880347]
+# name:be: []
+msgid "Оздоровительный лагерь "Зелёный бор"."
+msgstr ""
+
+# Objects : [w280419434]
+# name:be: []
+msgid "ООО "Сельэнергомонтаж""
+msgstr ""
+
+# Objects : [n1256459859, n1256462414]
+# name:be: []
+msgid "памятник ВОВ"
+msgstr ""
+
+# Objects : [w287679084]
+# name:be: []
+msgid "Памятник землякам"
+msgstr ""
+
+# Objects : [n1256447125, n306063960]
+# name:be: []
+msgid "памятник павшим героям ВОВ"
+msgstr ""
+
+# Objects : [n1269600044]
+# name:be: []
+msgid "памятник расстреляным"
+msgstr ""
+
+# Objects : [n3056985277]
+# name:be: []
+msgid "Панская усадьба (не сохранилась)"
+msgstr ""
+
+# Objects : [w274246864]
+# name:be: []
+msgid "Партизанское кладбище"
+msgstr ""
+
+# Objects : [w274856863]
+# name:be: []
+msgid "перегрузочный узел конвейера"
+msgstr ""
+
+# Objects : [w278763530]
+# name:be: []
+msgid "Песчанская школа"
+msgstr ""
+
+# Objects : [n1456709749, w25129343]
+# name:be: []
+msgid "Плянта-8"
+msgstr ""
+
+# Objects : [n1456709750, w132417047]
+# name:be: []
+msgid "Плянта-9"
+msgstr ""
+
+# Objects : [w25189519, w25194723]
+# name:be: []
+msgid "Поля Фильтрации"
+msgstr ""
+
+# Objects : [n3056985276]
+# name:be: []
+msgid "Поселение древних людей"
+msgstr ""
+
+# Objects : [n2788683971]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w96833410, w96833411]
+# name:be: []
+msgid "проходная 2РУ"
+msgstr ""
+
+# Objects : [w279288902]
+# name:be: []
+msgid "ПТИЦЕФАБРИКА"
+msgstr ""
+
+# Objects : [n1456709751, w132417048]
+# name:be: []
+msgid "Радуга-5"
+msgstr ""
+
+# Objects : [w273534814]
+# name:be: []
+msgid "Реагентное отделение"
+msgstr ""
+
+# Objects : [n483424417]
+# name:be: [крынiца]
+msgid "Родники"
+msgstr ""
+
+# Objects : [n499253671]
+# name:be: []
+msgid "РТПС"
+msgstr ""
+
+# Objects : [w273547111]
+# name:be: []
+msgid "Рыбхоз"
+msgstr ""
+
+# Objects : [w126112563]
+# name:be: []
+msgid "Сажалка"
+msgstr ""
+
+# Objects : [n2766722505]
+# name:be: []
+msgid "Санаторий Зеленый бор"
+msgstr ""
+
+# Objects : [w287814373]
+# name:be: []
+msgid "Сельский клуб"
+msgstr ""
+
+# Objects : [w232747880]
+# name:be: []
+msgid "Сельхозхимия"
+msgstr ""
+
+# Objects : [w222768274]
+# name:be: []
+msgid "Солеотвалы 1 РУ"
+msgstr ""
+
+# Objects : [w41036116]
+# name:be: []
+msgid "солеотвалы 2 РУ"
+msgstr ""
+
+# Objects : [w41036117]
+# name:be: []
+msgid "солеотвалы 3 РУ"
+msgstr ""
+
+# Objects : [n1456709752, w132417049]
+# name:be: []
+msgid "Союз"
+msgstr ""
+
+# Objects : [w220140452]
+# name:be: []
+msgid "спиртзавод"
+msgstr ""
+
+# Objects : [w125728003]
+# name:be: []
+msgid "Станция Техосмотра"
+msgstr ""
+
+# Objects : [n2766728229]
+# name:be: []
+msgid "Старобинский"
+msgstr ""
+
+# Objects : [w132416993]
+# name:be: []
+msgid "Старобинский торфобрикетный завод"
+msgstr ""
+
+# Objects : [n803822723]
+# name:be: []
+msgid "Стелла "Солигорск""
+msgstr ""
+
+# Objects : [n1456709753, w132417050]
+# name:be: []
+msgid "Строитель-2"
+msgstr ""
+
+# Objects : [w82366220]
+# name:be: []
+msgid "Танк Т-34"
+msgstr ""
+
+# Objects : [w279286325]
+# name:be: []
+msgid "транспортное КПП"
+msgstr ""
+
+# Objects : [n483424385]
+# name:be: []
+msgid "Тристол"
+msgstr ""
+
+# Objects : [w279289354]
+# name:be: []
+msgid "ТЭЦ"
+msgstr ""
+
+# Objects : [w284777820, w284777821, w82490426]
+# name:be: []
+msgid "УЖД Старобинского торфобрикетного завода"
+msgstr ""
+
+# Objects : [n1456709756, w132417051]
+# name:be: []
+msgid "Химик"
+msgstr ""
+
+# Objects : [n2788686020]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w111852885]
+# name:be: []
+msgid "Чепелёвский водоем"
+msgstr ""
+
+# Objects : [w314403277]
+# name:be: []
+msgid "Чепелёвское кладбище"
+msgstr ""
+
+# Objects : [r540963]
+# name:be: [Чырвоная]
+msgid "Червоное"
+msgstr ""
+
+# Objects : [n306063992]
+# name:be: []
+msgid "Шахтёр с отбойным молотком"
+msgstr ""
+
+# Objects : [n1456709757, w132417045]
+# name:be: []
+msgid "Элексир"
+msgstr ""
+
+# Objects : [w273534963]
+# name:be: []
+msgid "Электротехническая лаборатория"
+msgstr ""
+

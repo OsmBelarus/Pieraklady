@@ -1,0 +1,430 @@
+# Objects : [n3196932505]
+# name:be: []
+msgid ""Золотая мечта""
+msgstr ""
+
+# Objects : [n1351834303]
+# name:be: []
+msgid ""Мой дом""
+msgstr ""
+
+# Objects : [n2577099239]
+# name:be: []
+msgid "5 Элемент"
+msgstr ""
+
+# Objects : [n3127101563]
+# name:be: []
+msgid "Addidas"
+msgstr ""
+
+# Objects : [n3127101562]
+# name:be: []
+msgid "Columbia Sportswear"
+msgstr ""
+
+# Objects : [n1131251896]
+# name:be: []
+msgid "Elegance"
+msgstr ""
+
+# Objects : [n3213074930, n3216443807]
+# name:be: []
+msgid "Second Hand"
+msgstr ""
+
+# Objects : [n1369285658]
+# name:be: [Velcom]
+msgid "Velcom"
+msgstr ""
+
+# Objects : [n1055445780]
+# name:be: [Аўтазапчасткі]
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1433978843]
+# name:be: []
+msgid "Авто-Запчасти"
+msgstr ""
+
+# Objects : [n1080554662]
+# name:be: []
+msgid "Автозапчасти для грузовых автомобилей"
+msgstr ""
+
+# Objects : [n1426489180]
+# name:be: []
+msgid "Автомаркет "Южный""
+msgstr ""
+
+# Objects : [n1321474297]
+# name:be: []
+msgid "Алена"
+msgstr ""
+
+# Objects : [n2062743025]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [n3216483341]
+# name:be: []
+msgid "Белмаркет"
+msgstr ""
+
+# Objects : [n1389916868]
+# name:be: []
+msgid "Ближний"
+msgstr ""
+
+# Objects : [n1433464245]
+# name:be: [Бытавая хімія]
+msgid "Бытовая химия"
+msgstr ""
+
+# Objects : [n1131236918]
+# name:be: []
+msgid "Варшавянка"
+msgstr ""
+
+# Objects : [n1389934842]
+# name:be: [Вэрсаль]
+msgid "Версаль"
+msgstr ""
+
+# Objects : [n1131251868, n1420339680]
+# name:be: []
+msgid "Гарант"
+msgstr ""
+
+# Objects : [n1020344125]
+# name:be: []
+msgid "Добрый"
+msgstr ""
+
+# Objects : [n3126225909]
+# name:be: []
+msgid "Дог и Кэт"
+msgstr ""
+
+# Objects : [n1131427169]
+# name:be: []
+msgid "Домовитый"
+msgstr ""
+
+# Objects : [n1747514079, n2054442886, n2674556037]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n3126227484]
+# name:be: []
+msgid "Женский зал"
+msgstr ""
+
+# Objects : [n1125185527]
+# name:be: []
+msgid "Замена автомасла"
+msgstr ""
+
+# Objects : [n1115543934]
+# name:be: []
+msgid "Западный"
+msgstr ""
+
+# Objects : [n1100392221]
+# name:be: []
+msgid "Илона"
+msgstr ""
+
+# Objects : [n3126188679]
+# name:be: []
+msgid "ИП"
+msgstr ""
+
+# Objects : [n1420339686]
+# name:be: [Кніжны свет]
+msgid "Книжный мир"
+msgstr ""
+
+# Objects : [n3097812281]
+# name:be: []
+msgid "Компьютерная помощь и продажа bitcoin"
+msgstr ""
+
+# Objects : [n3216457790]
+# name:be: []
+msgid "Континент"
+msgstr ""
+
+# Objects : [n1039972110]
+# name:be: []
+msgid "Крыница"
+msgstr ""
+
+# Objects : [n1406118577]
+# name:be: []
+msgid "Кузовной ремонт авто"
+msgstr ""
+
+# Objects : [n1039972071]
+# name:be: [Кулінарыя]
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n3127112340]
+# name:be: []
+msgid "Лагуна мебель"
+msgstr ""
+
+# Objects : [n3126184195]
+# name:be: []
+msgid "Ласунак"
+msgstr ""
+
+# Objects : [n1426489182]
+# name:be: []
+msgid "ЛидаТермотехника"
+msgstr ""
+
+# Objects : [n1586982689]
+# name:be: []
+msgid "ЛИКОМ сервис"
+msgstr ""
+
+# Objects : [n1107774315]
+# name:be: []
+msgid "Ля возера"
+msgstr ""
+
+# Objects : [n1429798812]
+# name:be: []
+msgid "Магазин Лидской птицефабрики"
+msgstr ""
+
+# Objects : [n1116963437]
+# name:be: []
+msgid "Магазин №17"
+msgstr ""
+
+# Objects : [n3127130364]
+# name:be: []
+msgid "Мебель"
+msgstr ""
+
+# Objects : [n2853192120]
+# name:be: []
+msgid "Меридиан"
+msgstr ""
+
+# Objects : [n2607720429]
+# name:be: []
+msgid "Милавица"
+msgstr ""
+
+# Objects : [n3154441073, n3154442473]
+# name:be: []
+msgid "Мир дверей"
+msgstr ""
+
+# Objects : [n3126234656, n3127110107, n3127123152, n3127127083]
+# name:be: []
+msgid "МТС"
+msgstr ""
+
+# Objects : [n3126230189]
+# name:be: []
+msgid "Мужской зал"
+msgstr ""
+
+# Objects : [n3127105894]
+# name:be: []
+msgid "Мясо"
+msgstr ""
+
+# Objects : [n3127129636]
+# name:be: []
+msgid "Обувной"
+msgstr ""
+
+# Objects : [n1131427294]
+# name:be: []
+msgid "Огонек"
+msgstr ""
+
+# Objects : [n3127120534]
+# name:be: []
+msgid "Одежда из европы"
+msgstr ""
+
+# Objects : [n3127132132]
+# name:be: []
+msgid "Окна"
+msgstr ""
+
+# Objects : [n2054442887]
+# name:be: []
+msgid "ОМА"
+msgstr ""
+
+# Objects : [n1426499268]
+# name:be: []
+msgid "Онлайн"
+msgstr ""
+
+# Objects : [n1020344117]
+# name:be: [Востраў]
+msgid "Остров"
+msgstr ""
+
+# Objects : [n1429798813]
+# name:be: [Цырульня]
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n1131251880]
+# name:be: []
+msgid "Парикмахерская "Гарант""
+msgstr ""
+
+# Objects : [n1434231915]
+# name:be: []
+msgid "Приозёрный"
+msgstr ""
+
+# Objects : [n3216441976]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [n1429798814, n1429798815, n1429798816, n3126222136, n3127099494]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n3213237615]
+# name:be: []
+msgid "Прокат велосипедов и роликов"
+msgstr ""
+
+# Objects : [n1020344130]
+# name:be: [Рытуальныя паслугі]
+msgid "Ритуальные услуги"
+msgstr ""
+
+# Objects : [n613568104]
+# name:be: []
+msgid "Родная сторона"
+msgstr ""
+
+# Objects : [n3161471088]
+# name:be: []
+msgid "Родны Кут"
+msgstr ""
+
+# Objects : [n1420339694]
+# name:be: []
+msgid "Светильники"
+msgstr ""
+
+# Objects : [n2853192121]
+# name:be: []
+msgid "Север"
+msgstr ""
+
+# Objects : [n3127128942]
+# name:be: []
+msgid "Сервисный центр Велком"
+msgstr ""
+
+# Objects : [n1429798817]
+# name:be: []
+msgid "Сервисный центр МТС"
+msgstr ""
+
+# Objects : [n1586982687]
+# name:be: []
+msgid "СЛОТ"
+msgstr ""
+
+# Objects : [n3126237640]
+# name:be: []
+msgid "СПОРТ РЫБОЛОВ"
+msgstr ""
+
+# Objects : [n1394617295]
+# name:be: []
+msgid "СТО "ULTRADIAG"  Магазин "Автозапчасти""
+msgstr ""
+
+# Objects : [n1209821978]
+# name:be: []
+msgid "СТО "Легион 104"авто электрика"
+msgstr ""
+
+# Objects : [n1055445778]
+# name:be: []
+msgid "СТО Автосигнализации, рации и не только"
+msgstr ""
+
+# Objects : [n1406118585]
+# name:be: []
+msgid "СТО Замена масла"
+msgstr ""
+
+# Objects : [n3196932049]
+# name:be: []
+msgid "строительный магазин Ома"
+msgstr ""
+
+# Objects : [n1039972009]
+# name:be: []
+msgid "СтройИдея"
+msgstr ""
+
+# Objects : [n1426490159]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1434231916]
+# name:be: []
+msgid "Торговый дом Можейково"
+msgstr ""
+
+# Objects : [n990395201]
+# name:be: []
+msgid "Удобный"
+msgstr ""
+
+# Objects : [n1420339697, n1429798818, n3127103117, n3127110784]
+# name:be: [Кветкі]
+msgid "Цветы"
+msgstr ""
+
+# Objects : [n2518826804]
+# name:be: []
+msgid "Цифра"
+msgstr ""
+
+# Objects : [n1433978849]
+# name:be: []
+msgid "ЧП"Лида-Колор""
+msgstr ""
+
+# Objects : [n3126206578, n3127122640, n3127136131]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n1107774486]
+# name:be: []
+msgid "Электротовары"
+msgstr ""
+
+# Objects : [n1369285667, n3213228282]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+

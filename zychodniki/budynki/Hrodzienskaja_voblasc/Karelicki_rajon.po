@@ -1,0 +1,75 @@
+# Objects : [n1551914549]
+# name:be: []
+msgid "Амбар (руины)"
+msgstr ""
+
+# Objects : [w287277301]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [n1560680003]
+# name:be: []
+msgid "Бровар"
+msgstr ""
+
+# Objects : [w291790876]
+# name:be: []
+msgid "весовая"
+msgstr ""
+
+# Objects : [w268225544, w268225603, w268225663, w268606874, w268608086, w279991944, w280690657]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w280682438]
+# name:be: []
+msgid "Дом механизаторов"
+msgstr ""
+
+# Objects : [w280683700]
+# name:be: []
+msgid "лнсничество"
+msgstr ""
+
+# Objects : [w271993505, w271993510]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w274828965]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [n1559142108]
+# name:be: []
+msgid "Сыроварня (?)"
+msgstr ""
+
+# Objects : [n1560676014]
+# name:be: [Сядзібны дом]
+msgid "Усадебный дом (дерев.)"
+msgstr ""
+
+# Objects : [w274820820]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w319371743]
+# name:be: [Капліца Святой Ганны]
+msgid "Часовня Святой Анны"
+msgstr ""
+
+# Objects : [w268608087]
+# name:be: []
+msgid "шрп"
+msgstr ""
+
+# Objects : [w268606877]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+

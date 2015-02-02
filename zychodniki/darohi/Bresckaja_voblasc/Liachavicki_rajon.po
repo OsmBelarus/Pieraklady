@@ -1,0 +1,30 @@
+# Objects : [w301434416]
+# name:be: []
+msgid "Аллея Рейтана"
+msgstr ""
+
+# Objects : [w137829472]
+# name:be: [Завадская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w132806218]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w137829488]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w111621141]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w132806245, w137829485]
+# name:be: []
+msgid "улица Никулиной"
+msgstr ""
+

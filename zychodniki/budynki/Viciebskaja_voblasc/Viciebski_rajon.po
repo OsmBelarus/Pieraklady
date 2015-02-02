@@ -1,0 +1,565 @@
+# Objects : [w203341599]
+# name:be: []
+msgid "АВМ"
+msgstr ""
+
+# Objects : [w161394694]
+# name:be: []
+msgid "Адм. здание"
+msgstr ""
+
+# Objects : [w168605789]
+# name:be: []
+msgid "Амбулатория, Аптека, Дом Культуры, Библиотека"
+msgstr ""
+
+# Objects : [w216869261]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w189705204]
+# name:be: []
+msgid "АТС-37"
+msgstr ""
+
+# Objects : [w190486443, w200290388]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w179936946, w189871974, w201072622, w79690790]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w176113939]
+# name:be: []
+msgid "Белорусские обои"
+msgstr ""
+
+# Objects : [w179587760]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w271653291]
+# name:be: []
+msgid "Ваш дом"
+msgstr ""
+
+# Objects : [w176441881, w258870870, w35810035]
+# name:be: []
+msgid "Весовая"
+msgstr ""
+
+# Objects : [w168429739]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w85287712]
+# name:be: []
+msgid "ВитебскАвтоСити"
+msgstr ""
+
+# Objects : [w275491106]
+# name:be: []
+msgid "Витебский аэроклуб им. А. К. Горовца"
+msgstr ""
+
+# Objects : [w35810406]
+# name:be: [Віцебскаблпаліва]
+msgid "Витоблтоп"
+msgstr ""
+
+# Objects : [w218644975]
+# name:be: []
+msgid "Вороновский дом-интернат для престарелых и инвалидов"
+msgstr ""
+
+# Objects : [w203351786]
+# name:be: []
+msgid "Ворохоток"
+msgstr ""
+
+# Objects : [w37437044]
+# name:be: [Газавы калодзеж]
+msgid "Газовый колодец"
+msgstr ""
+
+# Objects : [w79860702]
+# name:be: []
+msgid "Ганна"
+msgstr ""
+
+# Objects : [w37437036, w37825635]
+# name:be: [ГРП]
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w31482127]
+# name:be: [ГРП-54]
+msgid "ГРП-54"
+msgstr ""
+
+# Objects : [w41602757]
+# name:be: [ГРП - 69]
+msgid "ГРП - 69"
+msgstr ""
+
+# Objects : [w168118471]
+# name:be: []
+msgid "ГРП №59"
+msgstr ""
+
+# Objects : [w36888208]
+# name:be: [ГРС-1]
+msgid "ГРС-1"
+msgstr ""
+
+# Objects : [w170063335]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w175368591]
+# name:be: []
+msgid "дом культуры"
+msgstr ""
+
+# Objects : [w170063255, w170300450, w190074571]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w181570788]
+# name:be: []
+msgid "Домовенок"
+msgstr ""
+
+# Objects : [w39323646]
+# name:be: [Занядбаны жылы дом]
+msgid "Заброшенный жилой дом"
+msgstr ""
+
+# Objects : [w37437041]
+# name:be: [Будынак «пад’езд-склеп»]
+msgid "Здание "подъезд подвал""
+msgstr ""
+
+# Objects : [w321459437]
+# name:be: []
+msgid "зерносушилка"
+msgstr ""
+
+# Objects : [w191554710, w191554711]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w204349933]
+# name:be: []
+msgid "Зерносушильный комплекс"
+msgstr ""
+
+# Objects : [w168048333]
+# name:be: []
+msgid "зерноток"
+msgstr ""
+
+# Objects : [w283794882]
+# name:be: []
+msgid "игровая комната"
+msgstr ""
+
+# Objects : [w57115062]
+# name:be: []
+msgid "Кафе "Должа""
+msgstr ""
+
+# Objects : [w203351967, w203352069]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w173047041, w204395664]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w170110263]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w35810233]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [w176775093]
+# name:be: []
+msgid "Комплекс для направленного выращивания нетелей"
+msgstr ""
+
+# Objects : [w149378507, w173047036]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w168115948]
+# name:be: []
+msgid "Конюшня"
+msgstr ""
+
+# Objects : [w170745840]
+# name:be: []
+msgid "Котельная свинокомплекса"
+msgstr ""
+
+# Objects : [w169199541]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w272960839]
+# name:be: []
+msgid "лаборатория"
+msgstr ""
+
+# Objects : [w168606805]
+# name:be: []
+msgid "Ларёк"
+msgstr ""
+
+# Objects : [w189720775]
+# name:be: []
+msgid "Ленок"
+msgstr ""
+
+# Objects : [w200569417]
+# name:be: []
+msgid "Летняя кухня"
+msgstr ""
+
+# Objects : [w181389058]
+# name:be: []
+msgid "Лимончик"
+msgstr ""
+
+# Objects : [w292388068]
+# name:be: []
+msgid "Луч"
+msgstr ""
+
+# Objects : [w126905503]
+# name:be: [Людміла]
+msgid "Людмила"
+msgstr ""
+
+# Objects : [w168048409]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w167258833, w168137327, w168429746, w170099077, w170300437, w173047046, w173487264, w177937840, w179585463, w179936383, w190564749, w191102288, w204395525, w287932291, w35809899, w58420587, w77229688, w80700818]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w57394388]
+# name:be: []
+msgid "Магазин "Должа""
+msgstr ""
+
+# Objects : [w82698990]
+# name:be: []
+msgid "Мазоловское ПМС"
+msgstr ""
+
+# Objects : [w168048456]
+# name:be: []
+msgid "Маргаритка"
+msgstr ""
+
+# Objects : [n2005162029]
+# name:be: []
+msgid "медпункт"
+msgstr ""
+
+# Objects : [w198255150]
+# name:be: []
+msgid "Молочно-товарная ферма"
+msgstr ""
+
+# Objects : [w27899556]
+# name:be: [МТФ]
+msgid "Мтф"
+msgstr ""
+
+# Objects : [w79734436]
+# name:be: []
+msgid "Новкинский"
+msgstr ""
+
+# Objects : [w191669028, w191669029]
+# name:be: [ААТ Рудакова]
+msgid "ОАО Рудаково"
+msgstr ""
+
+# Objects : [w204085617]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w204085611]
+# name:be: []
+msgid "Общежитие ПМК"
+msgstr ""
+
+# Objects : [w168241997, w168241998]
+# name:be: []
+msgid "Овощехранилище"
+msgstr ""
+
+# Objects : [w181388092, w191554712]
+# name:be: []
+msgid "Отделение вторичной очистки"
+msgstr ""
+
+# Objects : [w191554713, w191554714]
+# name:be: []
+msgid "Отделение силосов"
+msgstr ""
+
+# Objects : [w200273666]
+# name:be: []
+msgid "Парник"
+msgstr ""
+
+# Objects : [w178593197]
+# name:be: []
+msgid "пилорама"
+msgstr ""
+
+# Objects : [w176747115]
+# name:be: []
+msgid "Пилорама"
+msgstr ""
+
+# Objects : [w53306604]
+# name:be: [Племянны свінакомплекс]
+msgid "Племенной свинокомплекс"
+msgstr ""
+
+# Objects : [w179620269]
+# name:be: []
+msgid "Погреб"
+msgstr ""
+
+# Objects : [w168605799]
+# name:be: []
+msgid "Пожарно-Аварийно Спасательный пост"
+msgstr ""
+
+# Objects : [w203317354]
+# name:be: []
+msgid "Поревит"
+msgstr ""
+
+# Objects : [w204013059]
+# name:be: []
+msgid "прачечная"
+msgstr ""
+
+# Objects : [w179573324]
+# name:be: []
+msgid "Прачечная"
+msgstr ""
+
+# Objects : [w191554715, w191554716]
+# name:be: []
+msgid "Приёмный бункер"
+msgstr ""
+
+# Objects : [w173452905, w189720798]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w245165881]
+# name:be: []
+msgid "Разрушено"
+msgstr ""
+
+# Objects : [w203436310]
+# name:be: []
+msgid "Ремонтные мастерские"
+msgstr ""
+
+# Objects : [w167596424]
+# name:be: []
+msgid "С/совет"
+msgstr ""
+
+# Objects : [w203970334, w206254274]
+# name:be: []
+msgid "Санаторий-профилакторий "Железняки""
+msgstr ""
+
+# Objects : [w79638876]
+# name:be: []
+msgid "Северная высотка"
+msgstr ""
+
+# Objects : [w170300462]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
+# Objects : [w170147352]
+# name:be: []
+msgid "Сельский Совет"
+msgstr ""
+
+# Objects : [w178117036, w204091932]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w176433609]
+# name:be: []
+msgid "Силосная яма"
+msgstr ""
+
+# Objects : [w131295442]
+# name:be: []
+msgid "Слата"
+msgstr ""
+
+# Objects : [w168441609]
+# name:be: []
+msgid "СМН"
+msgstr ""
+
+# Objects : [w168696282, w170320435]
+# name:be: []
+msgid "Станция искусственного осеменения свиней"
+msgstr ""
+
+# Objects : [w161394782]
+# name:be: []
+msgid "Станция химизации сельского хозяйства"
+msgstr ""
+
+# Objects : [w272960809]
+# name:be: []
+msgid "СТО и склад оборудования"
+msgstr ""
+
+# Objects : [w173047049, w173243983, w175368584]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w189264755]
+# name:be: []
+msgid "Суражское шоссе, 9-й км"
+msgstr ""
+
+# Objects : [w120564189]
+# name:be: [Тэрмінал]
+msgid "Терминал"
+msgstr ""
+
+# Objects : [w184252240]
+# name:be: []
+msgid "ТП-19"
+msgstr ""
+
+# Objects : [w197475228]
+# name:be: []
+msgid "ТП №63"
+msgstr ""
+
+# Objects : [w168048300]
+# name:be: []
+msgid "Туловский сельский дом культуры"
+msgstr ""
+
+# Objects : [w56042554]
+# name:be: []
+msgid "ТЦ «Мазолово»"
+msgstr ""
+
+# Objects : [w164758939]
+# name:be: [У Ганны]
+msgid "У Ганны"
+msgstr ""
+
+# Objects : [w175368565]
+# name:be: []
+msgid "управление СХП "Мазоловогаз""
+msgstr ""
+
+# Objects : [w168430266]
+# name:be: []
+msgid "Учебный комбинат"
+msgstr ""
+
+# Objects : [w131295438, w288502157]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w167041409, w204198764, w204198765, w45135978]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [w180687355, w79734416]
+# name:be: []
+msgid "ФСК "Урожай""
+msgstr ""
+
+# Objects : [w184331594]
+# name:be: []
+msgid "Фундамент"
+msgstr ""
+
+# Objects : [w79638875]
+# name:be: []
+msgid "Центральная высотка"
+msgstr ""
+
+# Objects : [w60352000]
+# name:be: [Цэнтр развiцця]
+msgid "Центр развития"
+msgstr ""
+
+# Objects : [w272960852]
+# name:be: []
+msgid "цех арматуры"
+msgstr ""
+
+# Objects : [w175842423, w191683147]
+# name:be: [ЦТП]
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w35809952]
+# name:be: []
+msgid "ЧТПУП «Савлуков-Мебель»"
+msgstr ""
+
+# Objects : [w168244214, w169325547, w176115606, w176458125, w177296752]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w168115950]
+# name:be: []
+msgid "Эстакада"
+msgstr ""
+

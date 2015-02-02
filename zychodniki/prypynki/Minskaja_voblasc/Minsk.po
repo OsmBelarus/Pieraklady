@@ -1,0 +1,390 @@
+# Objects : [w135170722]
+# name:be: []
+msgid "Автоазаводская"
+msgstr ""
+
+# Objects : [w232125610]
+# name:be: []
+msgid "Автобусное разворотное кольцо"
+msgstr ""
+
+# Objects : [n254987885]
+# name:be: [Аўтавакзал Усходні]
+msgid "Автовокзал Восточный"
+msgstr ""
+
+# Objects : [n1503033806]
+# name:be: [Цэнтральны аўтавакзал]
+msgid "Автовокзал Центральный"
+msgstr ""
+
+# Objects : [n3010485913]
+# name:be: []
+msgid "Автостанця Дружная"
+msgstr ""
+
+# Objects : [n3005336646]
+# name:be: []
+msgid "АС Славинского"
+msgstr ""
+
+# Objects : [w284960947]
+# name:be: []
+msgid "АС СЛАВИНСКОГО"
+msgstr ""
+
+# Objects : [n595691672]
+# name:be: [Бялінскага]
+msgid "Белинского"
+msgstr ""
+
+# Objects : [n506566577]
+# name:be: [Берасцянская]
+msgid "Берестянская"
+msgstr ""
+
+# Objects : [n211621449]
+# name:be: []
+msgid "БНТУ"
+msgstr ""
+
+# Objects : [n567797522]
+# name:be: [Багдана Хмяльніцкага]
+msgid "Богдана Хмельницкого"
+msgstr ""
+
+# Objects : [n3164454963]
+# name:be: []
+msgid "Богдановича М."
+msgstr ""
+
+# Objects : [n567331522]
+# name:be: [Батанічная]
+msgid "Ботаническая"
+msgstr ""
+
+# Objects : [n567794249]
+# name:be: [Будзёнага]
+msgid "Будённого"
+msgstr ""
+
+# Objects : [n567327483]
+# name:be: [Ванеева]
+msgid "Ванеева"
+msgstr ""
+
+# Objects : [n567327481]
+# name:be: [Васняцова]
+msgid "Васнецова"
+msgstr ""
+
+# Objects : [n320718944, n320718945]
+# name:be: [Вакзал]
+msgid "Вокзал"
+msgstr ""
+
+# Objects : [n380447000]
+# name:be: [Гараўца]
+msgid "Горовца"
+msgstr ""
+
+# Objects : [n278462465]
+# name:be: []
+msgid "Городской Вал"
+msgstr ""
+
+# Objects : [n343854498]
+# name:be: []
+msgid "Д/С Корженевского"
+msgstr ""
+
+# Objects : [n1860106687, n1860106688]
+# name:be: []
+msgid "д/с Серебрянка"
+msgstr ""
+
+# Objects : [n343831724]
+# name:be: []
+msgid "Д/С Чижовка"
+msgstr ""
+
+# Objects : [w318437740]
+# name:be: []
+msgid "Д.С Юго-Запад"
+msgstr ""
+
+# Objects : [n612352754]
+# name:be: []
+msgid "ДC Кунцевщина"
+msgstr ""
+
+# Objects : [n567796859]
+# name:be: [Дарашэвіча]
+msgid "Дорошевича"
+msgstr ""
+
+# Objects : [n278194114]
+# name:be: []
+msgid "ДС"
+msgstr ""
+
+# Objects : [n343817392]
+# name:be: [ДС Вяснянка]
+msgid "ДС Веснянка"
+msgstr ""
+
+# Objects : [w241599184]
+# name:be: []
+msgid "ДС ВОСТОЧНАЯ"
+msgstr ""
+
+# Objects : [n2852528983, w284973787]
+# name:be: [ДС КАЛІНОЎСКАГА]
+msgid "ДС КАЛИНОВСКОГО"
+msgstr ""
+
+# Objects : [w187158185]
+# name:be: []
+msgid "ДС Каменная Горка - 5"
+msgstr ""
+
+# Objects : [n343826322]
+# name:be: []
+msgid "ДС Лошица-2"
+msgstr ""
+
+# Objects : [n289794319]
+# name:be: []
+msgid "ДС Малиновка-4"
+msgstr ""
+
+# Objects : [n343858628]
+# name:be: [ДС Серабранка]
+msgid "ДС Серебрянка"
+msgstr ""
+
+# Objects : [w284960946]
+# name:be: []
+msgid "ДС СЛАВИНСКОГО"
+msgstr ""
+
+# Objects : [n3161074221]
+# name:be: []
+msgid "ДС Сухарево-5"
+msgstr ""
+
+# Objects : [n522096256]
+# name:be: [ДС Уручча-2]
+msgid "ДС Уручье-2"
+msgstr ""
+
+# Objects : [n567333848]
+# name:be: [З. Бядулі]
+msgid "З. Бядули"
+msgstr ""
+
+# Objects : [n282026837]
+# name:be: [Захад-3]
+msgid "Запад-3"
+msgstr ""
+
+# Objects : [n3070901415]
+# name:be: []
+msgid "Захарова"
+msgstr ""
+
+# Objects : [n567337188]
+# name:be: [Красная]
+msgid "Красная"
+msgstr ""
+
+# Objects : [n3070897631]
+# name:be: []
+msgid "Лицей БГУ"
+msgstr ""
+
+# Objects : [n816440279]
+# name:be: []
+msgid "магазин Электроника"
+msgstr ""
+
+# Objects : [n287869563]
+# name:be: [Масюкоўшчына]
+msgid "Масюковщина"
+msgstr ""
+
+# Objects : [n320718939]
+# name:be: [Мяснікова]
+msgid "Мясникова"
+msgstr ""
+
+# Objects : [n567327482]
+# name:be: [Народная]
+msgid "Народная"
+msgstr ""
+
+# Objects : [n1080926210]
+# name:be: []
+msgid "Озеро дс"
+msgstr ""
+
+# Objects : [n1901125234, n1901125260]
+# name:be: []
+msgid "Октябрьская"
+msgstr ""
+
+# Objects : [n567327510]
+# name:be: [парк 50-годдзя Кастрычніка]
+msgid "парк 50-летия Октября"
+msgstr ""
+
+# Objects : [n1040949068]
+# name:be: [Парк Горкага]
+msgid "Парк Горького"
+msgstr ""
+
+# Objects : [n2866040308, n2919447872]
+# name:be: [завулак Казлова]
+msgid "переулок Козлова"
+msgstr ""
+
+# Objects : [n567331523, n567331524]
+# name:be: [Платонава]
+msgid "Платонова"
+msgstr ""
+
+# Objects : [n2868276549, n567338364]
+# name:be: [плошча Якуба Коласа]
+msgid "площадь Якуба Коласа"
+msgstr ""
+
+# Objects : [n567337191]
+# name:be: [праспект Незалежнасці]
+msgid "проспект Независимости"
+msgstr ""
+
+# Objects : [n340354774]
+# name:be: [праспект Ракасоўскага]
+msgid "проспект Рокоссовского"
+msgstr ""
+
+# Objects : [n567337192]
+# name:be: [Пугачоўская]
+msgid "Пугачевская"
+msgstr ""
+
+# Objects : [n3162738665]
+# name:be: []
+msgid "РК Брилевичи"
+msgstr ""
+
+# Objects : [n340418844, n340418845]
+# name:be: [Свярдлова]
+msgid "Свердлова"
+msgstr ""
+
+# Objects : [n3286297187, n567327478]
+# name:be: [Серабранка-3]
+msgid "Серебрянка-3"
+msgstr ""
+
+# Objects : [n567327480]
+# name:be: [Серабранка-9]
+msgid "Серебрянка-9"
+msgstr ""
+
+# Objects : [n255190052, n2863838181]
+# name:be: [ст. м. "Партызанская"]
+msgid "ст.м. "Партизанская""
+msgstr ""
+
+# Objects : [n1070436672]
+# name:be: []
+msgid "Стадион "Динамо""
+msgstr ""
+
+# Objects : [w282246498]
+# name:be: [СЦЯПЯНКА]
+msgid "СТЕПЯНКА"
+msgstr ""
+
+# Objects : [n1901125289, n1901125305]
+# name:be: []
+msgid "Студенческий городок"
+msgstr ""
+
+# Objects : [n1080926299]
+# name:be: [Тэатр моладзі]
+msgid "Театр молодежи"
+msgstr ""
+
+# Objects : [n2863856139, n567327498]
+# name:be: [Трактарны завод]
+msgid "Тракторный завод"
+msgstr ""
+
+# Objects : [n816440276]
+# name:be: []
+msgid "ул. Волгоградская"
+msgstr ""
+
+# Objects : [n816440274]
+# name:be: []
+msgid "ул. Севастопольская"
+msgstr ""
+
+# Objects : [n1911551711, n1911774375]
+# name:be: []
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [n816440275]
+# name:be: []
+msgid "улица Калиновского"
+msgstr ""
+
+# Objects : [n816440280]
+# name:be: []
+msgid "улица Кольцова"
+msgstr ""
+
+# Objects : [n1080926438]
+# name:be: [вуліца Максіма Багдановіча]
+msgid "улица Максима Богдановича"
+msgstr ""
+
+# Objects : [n816419141, n816419143]
+# name:be: [Сядых вул.]
+msgid "улица Седых"
+msgstr ""
+
+# Objects : [n1911551725]
+# name:be: []
+msgid "улица Чернышевского"
+msgstr ""
+
+# Objects : [n2866040311, n567327493]
+# name:be: [Уральская]
+msgid "Уральская"
+msgstr ""
+
+# Objects : [w321887159]
+# name:be: []
+msgid "Центральный Автовокзал"
+msgstr ""
+
+# Objects : [n1901127860, n1901127861]
+# name:be: []
+msgid "Чапаева"
+msgstr ""
+
+# Objects : [n281245668]
+# name:be: [Паўднёва-Заходняя]
+msgid "Юго-Западная"
+msgstr ""
+
+# Objects : [n3304415369, n567327479]
+# name:be: [Якубава]
+msgid "Якубова"
+msgstr ""
+

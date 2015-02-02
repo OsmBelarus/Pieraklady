@@ -1,0 +1,185 @@
+# Objects : [r1757612]
+# name:be: []
+msgid "Dolina Górnej Narwi"
+msgstr ""
+
+# Objects : [r1757787]
+# name:be: []
+msgid "Równina Bielska"
+msgstr ""
+
+# Objects : [r1757839]
+# name:be: []
+msgid "Wysoczyzna Białostocka"
+msgstr ""
+
+# Objects : [n2403669785]
+# name:be: []
+msgid "Агроусадьба"
+msgstr ""
+
+# Objects : [n2403669784]
+# name:be: []
+msgid "Агроусадьба "Колонная""
+msgstr ""
+
+# Objects : [w288481489]
+# name:be: []
+msgid "Дворчаны"
+msgstr ""
+
+# Objects : [n2766728064]
+# name:be: []
+msgid "Дом графа Тышкевича"
+msgstr ""
+
+# Objects : [w316335081]
+# name:be: []
+msgid "кзсв-30"
+msgstr ""
+
+# Objects : [w185297041]
+# name:be: []
+msgid "Кирпичный завод"
+msgstr ""
+
+# Objects : [n2788680750]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681312, n2788681313]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788682375]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788682361]
+# name:be: [Касцёл францысканаў]
+msgid "Костел францисканцев"
+msgstr ""
+
+# Objects : [w264601927]
+# name:be: []
+msgid "офис"
+msgstr ""
+
+# Objects : [n242981145, w25146018]
+# name:be: [Ашыўкі]
+msgid "Ошивки"
+msgstr ""
+
+# Objects : [n242982675, w25145357]
+# name:be: [Ашчэп]
+msgid "Ощеп"
+msgstr ""
+
+# Objects : [n306067732, n306067733, n306067742]
+# name:be: [Поразава]
+msgid "Порозово"
+msgstr ""
+
+# Objects : [n2788683994]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2788683772]
+# name:be: [Прысядзібны парк пры былой сядзібе Талочкаў]
+msgid "Приусадебный парк при бывшей усадьбе Толлочко"
+msgstr ""
+
+# Objects : [w292305156]
+# name:be: []
+msgid "Родный кут"
+msgstr ""
+
+# Objects : [w314707923]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [n306067750]
+# name:be: [Свіслач]
+msgid "Свислочь"
+msgstr ""
+
+# Objects : [w289865079, w289865083, w289865084, w290003113]
+# name:be: []
+msgid "СТФ "Рудавка""
+msgstr ""
+
+# Objects : [w316353204]
+# name:be: []
+msgid "СШ"
+msgstr ""
+
+# Objects : [n2788684664]
+# name:be: [Сядзіба «Харашэвічы ІI»]
+msgid "Усадьба «Хорошевичи II правит»"
+msgstr ""
+
+# Objects : [n2788684666]
+# name:be: [Сядзіба «Харашэвічы ІII»]
+msgid "Усадьба «Хорошевичи ИII»"
+msgstr ""
+
+# Objects : [n2788685116]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [n2788685331, n2788685335, n2788685338, n2788685339]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788686024, n2788686026]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686565]
+# name:be: [Царква Святой Ганны]
+msgid "Церковь Святой Анны"
+msgstr ""
+
+# Objects : [n2788686588]
+# name:be: [Царква Святой Параскевы Пятніцы]
+msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [n2788686751]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2788687219]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w288634641]
+# name:be: []
+msgid "ШРП №12"
+msgstr ""
+
+# Objects : [n242986201, w25144247]
+# name:be: [Юзафполь]
+msgid "Юзефполь"
+msgstr ""
+
+# Objects : [n242983412, w25144809]
+# name:be: [Ялава]
+msgid "Ялово"
+msgstr ""
+
+# Objects : [n242981165, w25146013]
+# name:be: [Ятвеск]
+msgid "Ятвеск"
+msgstr ""
+

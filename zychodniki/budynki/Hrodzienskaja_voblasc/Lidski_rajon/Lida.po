@@ -1,0 +1,690 @@
+# Objects : [w125728347]
+# name:be: []
+msgid ""Дочки и сыночки" - магазин детских товаров и косметики"
+msgstr ""
+
+# Objects : [w281145147]
+# name:be: []
+msgid "20"
+msgstr ""
+
+# Objects : [w142664934]
+# name:be: []
+msgid "24 часа"
+msgstr ""
+
+# Objects : [w96837662]
+# name:be: []
+msgid "Автомаркет "Южный""
+msgstr ""
+
+# Objects : [w281142144]
+# name:be: []
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w60839074]
+# name:be: []
+msgid "Автосигнализации"
+msgstr ""
+
+# Objects : [w59851425]
+# name:be: []
+msgid "АгроДом"
+msgstr ""
+
+# Objects : [w60975613]
+# name:be: []
+msgid "Агропроммаш"
+msgstr ""
+
+# Objects : [w91028637]
+# name:be: []
+msgid "Административное здание Лидского ГУП ЖКХ"
+msgstr ""
+
+# Objects : [w97717926]
+# name:be: []
+msgid "Аппетитный"
+msgstr ""
+
+# Objects : [w272806011]
+# name:be: []
+msgid "Архив"
+msgstr ""
+
+# Objects : [w128872522]
+# name:be: []
+msgid "Атозапчасти"
+msgstr ""
+
+# Objects : [w96833116]
+# name:be: []
+msgid "АТП №2"
+msgstr ""
+
+# Objects : [w90138091]
+# name:be: []
+msgid "Банька"
+msgstr ""
+
+# Objects : [w59298873]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w58518631]
+# name:be: []
+msgid "Бассейн Дельфин"
+msgstr ""
+
+# Objects : [w126774989]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w58516584]
+# name:be: [Белдзяржстрах]
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w53454059]
+# name:be: [Кантынент]
+msgid "Бел маркет"
+msgstr ""
+
+# Objects : [w95550697]
+# name:be: []
+msgid "Белмедпрепараты"
+msgstr ""
+
+# Objects : [w53448045]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w128869760]
+# name:be: []
+msgid "Бокс 1 "Замена масла""
+msgstr ""
+
+# Objects : [w128869764]
+# name:be: []
+msgid "Бокс 2"
+msgstr ""
+
+# Objects : [w128869762]
+# name:be: []
+msgid "Бокс 3 "Автомойка Автолюкс""
+msgstr ""
+
+# Objects : [w128869761]
+# name:be: []
+msgid "Бокс 4 "Автомойка Автолюкс""
+msgstr ""
+
+# Objects : [w128872514]
+# name:be: []
+msgid "Бокс 6 "СТО UltraDiag" Компьютерная диагностика"
+msgstr ""
+
+# Objects : [w128872516]
+# name:be: []
+msgid "Бокс 7"
+msgstr ""
+
+# Objects : [w128872519]
+# name:be: []
+msgid "Бокс 8"
+msgstr ""
+
+# Objects : [w60921664]
+# name:be: [Вектар]
+msgid "Вектор"
+msgstr ""
+
+# Objects : [w60921658]
+# name:be: []
+msgid "Ветеринарная аптека"
+msgstr ""
+
+# Objects : [w93320168]
+# name:be: []
+msgid "Вигас"
+msgstr ""
+
+# Objects : [w65676048]
+# name:be: []
+msgid "Вираж"
+msgstr ""
+
+# Objects : [w121069082]
+# name:be: [Віталюр]
+msgid "Виталюр"
+msgstr ""
+
+# Objects : [w93212703]
+# name:be: []
+msgid "Гермес"
+msgstr ""
+
+# Objects : [w143813023]
+# name:be: []
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w142664935]
+# name:be: []
+msgid "Детский корпус"
+msgstr ""
+
+# Objects : [w58118884]
+# name:be: []
+msgid "Дом поляка"
+msgstr ""
+
+# Objects : [w281160658]
+# name:be: []
+msgid "Дом скорби"
+msgstr ""
+
+# Objects : [w53448042]
+# name:be: [Дом гандлю]
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [w96833089]
+# name:be: []
+msgid "ДРСУ"
+msgstr ""
+
+# Objects : [w65676047]
+# name:be: []
+msgid "Дружба"
+msgstr ""
+
+# Objects : [w120718808]
+# name:be: [Еўраопт]
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w97230232]
+# name:be: [Еўраопт (Журавінка)]
+msgid "Евроопт (Журавинка)"
+msgstr ""
+
+# Objects : [w90135182]
+# name:be: [Жаночая кансультацыя]
+msgid "Женская консультация"
+msgstr ""
+
+# Objects : [w96967477]
+# name:be: [ЖЭС]
+msgid "ЖЭС"
+msgstr ""
+
+# Objects : [w56322989]
+# name:be: []
+msgid "ЖЭС-3"
+msgstr ""
+
+# Objects : [w130038044]
+# name:be: []
+msgid "ЖЭС №2"
+msgstr ""
+
+# Objects : [w66602210]
+# name:be: []
+msgid "Завод электроизделий"
+msgstr ""
+
+# Objects : [w120566455]
+# name:be: [ЗАГС]
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w289025617]
+# name:be: []
+msgid "Зал тяжелой атлетики"
+msgstr ""
+
+# Objects : [w281375526, w281375529]
+# name:be: []
+msgid "ЗАО "Каскад" г.Лида"
+msgstr ""
+
+# Objects : [w143813022]
+# name:be: []
+msgid "Инфекционное отделение"
+msgstr ""
+
+# Objects : [w59850001]
+# name:be: []
+msgid "Кафе "Полюс""
+msgstr ""
+
+# Objects : [w91028641]
+# name:be: []
+msgid "КГБ"
+msgstr ""
+
+# Objects : [w60921687]
+# name:be: [Скурвендыспансер]
+msgid "Кожвендиспансер"
+msgstr ""
+
+# Objects : [w53448061]
+# name:be: []
+msgid "Колледж"
+msgstr ""
+
+# Objects : [w58404412]
+# name:be: [Космас]
+msgid "Космос"
+msgstr ""
+
+# Objects : [w143208022]
+# name:be: []
+msgid "ЛагунаМебель"
+msgstr ""
+
+# Objects : [w66593131]
+# name:be: []
+msgid "Ледовый дворец"
+msgstr ""
+
+# Objects : [w53473880, w76438813]
+# name:be: [Ліда]
+msgid "Лида"
+msgstr ""
+
+# Objects : [w111601605]
+# name:be: []
+msgid "Лида-агротехсервис"
+msgstr ""
+
+# Objects : [w59405926]
+# name:be: []
+msgid "Лидапищеконцентраты"
+msgstr ""
+
+# Objects : [w93212706]
+# name:be: []
+msgid "Лидаспецавтотранс"
+msgstr ""
+
+# Objects : [w96098039]
+# name:be: []
+msgid "Лидсельмаш"
+msgstr ""
+
+# Objects : [w96381858]
+# name:be: []
+msgid "Лидская газета"
+msgstr ""
+
+# Objects : [w97234989]
+# name:be: []
+msgid "Лидская птицефабрика"
+msgstr ""
+
+# Objects : [r3397808]
+# name:be: []
+msgid "Лидский замок"
+msgstr ""
+
+# Objects : [w91028650]
+# name:be: [Лідскі гісторыка-мастацкі музей]
+msgid "Лидский историко-художественный музей"
+msgstr ""
+
+# Objects : [r3733820]
+# name:be: []
+msgid "Лидский районный Дворец культуры"
+msgstr ""
+
+# Objects : [w59405928]
+# name:be: []
+msgid "Лидское пиво"
+msgstr ""
+
+# Objects : [w76236082]
+# name:be: []
+msgid "Липласт СПБ"
+msgstr ""
+
+# Objects : [w59392814]
+# name:be: []
+msgid "Магазин окон"
+msgstr ""
+
+# Objects : [w126603693]
+# name:be: []
+msgid "Март-3"
+msgstr ""
+
+# Objects : [w59397579]
+# name:be: [Мара]
+msgid "Мечта"
+msgstr ""
+
+# Objects : [w91028643]
+# name:be: []
+msgid "Минирынок Панорама"
+msgstr ""
+
+# Objects : [w96383348]
+# name:be: []
+msgid "Мир аккумуляторов"
+msgstr ""
+
+# Objects : [w96833119]
+# name:be: []
+msgid "Молочно-Консервный комбинат"
+msgstr ""
+
+# Objects : [w59851435]
+# name:be: []
+msgid "МРЭО ГАИ"
+msgstr ""
+
+# Objects : [w96098036]
+# name:be: [Мясакамбінат]
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [w254330814]
+# name:be: []
+msgid "Наружная мойка автоцистерн"
+msgstr ""
+
+# Objects : [w53448064]
+# name:be: [Нацыянальны банк]
+msgid "Национальный Банк"
+msgstr ""
+
+# Objects : [w307527733]
+# name:be: []
+msgid "Оазис"
+msgstr ""
+
+# Objects : [w130038045]
+# name:be: []
+msgid "ОАО Лидский литейно-механический завод"
+msgstr ""
+
+# Objects : [w66602201]
+# name:be: [Абутковая фабрыка]
+msgid "Обувная фабрика"
+msgstr ""
+
+# Objects : [w61910717]
+# name:be: []
+msgid "обувной магазин "Мини-топ""
+msgstr ""
+
+# Objects : [w96967471]
+# name:be: []
+msgid "Олимпия"
+msgstr ""
+
+# Objects : [w103267633]
+# name:be: []
+msgid "Онлайн Сервис"
+msgstr ""
+
+# Objects : [w59851430, w97236236]
+# name:be: []
+msgid "ООО "Микрон""
+msgstr ""
+
+# Objects : [w60391394]
+# name:be: [Оптыка]
+msgid "Оптика"
+msgstr ""
+
+# Objects : [w281067265]
+# name:be: []
+msgid "Отоларингологическое отделение"
+msgstr ""
+
+# Objects : [w59294020]
+# name:be: []
+msgid "Охрана"
+msgstr ""
+
+# Objects : [w97236241]
+# name:be: [Помнікі]
+msgid "Памятники"
+msgstr ""
+
+# Objects : [w228724123]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть №1"
+msgstr ""
+
+# Objects : [w99204529]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть № 2"
+msgstr ""
+
+# Objects : [w60973656]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w93212708]
+# name:be: []
+msgid "Попутчик"
+msgstr ""
+
+# Objects : [w61318777]
+# name:be: []
+msgid "Правление райпо"
+msgstr ""
+
+# Objects : [w91028636]
+# name:be: [Пракуратура]
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w59405934]
+# name:be: []
+msgid "Проходная пивзавода"
+msgstr ""
+
+# Objects : [w96611968]
+# name:be: []
+msgid "ПТУ №196"
+msgstr ""
+
+# Objects : [w60678918]
+# name:be: []
+msgid "ПТУ №235"
+msgstr ""
+
+# Objects : [w97234996]
+# name:be: [Ваенкамат]
+msgid "Райвоенкомат"
+msgstr ""
+
+# Objects : [w53448056]
+# name:be: []
+msgid "Районный исполнительный комитет"
+msgstr ""
+
+# Objects : [w272742943]
+# name:be: []
+msgid "Родильное отделение"
+msgstr ""
+
+# Objects : [w98192566]
+# name:be: []
+msgid "Ромашка"
+msgstr ""
+
+# Objects : [w90133928]
+# name:be: []
+msgid "Санстанция"
+msgstr ""
+
+# Objects : [w53883971]
+# name:be: []
+msgid "Санта-29"
+msgstr ""
+
+# Objects : [w59622590]
+# name:be: []
+msgid "Спасательная станция"
+msgstr ""
+
+# Objects : [w130073205]
+# name:be: []
+msgid "СП ООО"Лида-Авто""
+msgstr ""
+
+# Objects : [w138533473]
+# name:be: []
+msgid "Станция скорой медицинской помощи"
+msgstr ""
+
+# Objects : [w281040136]
+# name:be: []
+msgid "Старый универмаг"
+msgstr ""
+
+# Objects : [w61319324]
+# name:be: []
+msgid "СТО 2, Техосмотр."
+msgstr ""
+
+# Objects : [w122572056, w127668165]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [w96611977]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [w126603055]
+# name:be: []
+msgid "Теплопункт"
+msgstr ""
+
+# Objects : [w138749962]
+# name:be: []
+msgid "Терапевтический корпус"
+msgstr ""
+
+# Objects : [w121069086]
+# name:be: [Тэхагляд]
+msgid "Техосмотр"
+msgstr ""
+
+# Objects : [w61913805]
+# name:be: [Друкарня]
+msgid "Типография"
+msgstr ""
+
+# Objects : [r3734173]
+# name:be: []
+msgid "Торгово-сервисный центр"
+msgstr ""
+
+# Objects : [w142664933]
+# name:be: []
+msgid "Травматологический корпус"
+msgstr ""
+
+# Objects : [r3734174]
+# name:be: []
+msgid "Универсам центральный (Алми)"
+msgstr ""
+
+# Objects : [w60677057]
+# name:be: []
+msgid "Училище №136"
+msgstr ""
+
+# Objects : [w61913819]
+# name:be: [ФАК]
+msgid "ФОК"
+msgstr ""
+
+# Objects : [w53454071]
+# name:be: [Хімчыстка]
+msgid "Химчистка"
+msgstr ""
+
+# Objects : [w138749961]
+# name:be: []
+msgid "Хирургический корпус"
+msgstr ""
+
+# Objects : [w139750797]
+# name:be: []
+msgid "ЦБУ №2 ф-ла №6 ОАО "Белгазпромбанк""
+msgstr ""
+
+# Objects : [w94397098]
+# name:be: [Кветкі]
+msgid "Цветы"
+msgstr ""
+
+# Objects : [w54277461]
+# name:be: [Цэнтр занятасці]
+msgid "Центр занятости"
+msgstr ""
+
+# Objects : [w189512620]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+
+# Objects : [w120718810]
+# name:be: []
+msgid "ЦТП 33"
+msgstr ""
+
+# Objects : [w307459504]
+# name:be: []
+msgid "Шиномонтаж, автомойка"
+msgstr ""
+
+# Objects : [w128869763]
+# name:be: []
+msgid "Шиномонтаж "Автолюкс""
+msgstr ""
+
+# Objects : [w54277458]
+# name:be: []
+msgid "Экватор"
+msgstr ""
+
+# Objects : [w60975615]
+# name:be: []
+msgid "Электросети"
+msgstr ""
+
+# Objects : [w58499830]
+# name:be: []
+msgid "Эльдорадо"
+msgstr ""
+
+# Objects : [w54604570]
+# name:be: []
+msgid "Юность"
+msgstr ""
+
+# Objects : [w93320166]
+# name:be: []
+msgid "№146 Центральная районная Фармация"
+msgstr ""
+
+# Objects : [w60677058]
+# name:be: []
+msgid "№51"
+msgstr ""
+

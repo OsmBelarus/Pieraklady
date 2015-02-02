@@ -1,0 +1,70 @@
+# Objects : [w267367849]
+# name:be: []
+msgid "Базовая станция телефонно миобильной связи"
+msgstr ""
+
+# Objects : [w262667449]
+# name:be: []
+msgid "Башня"
+msgstr ""
+
+# Objects : [w265775370, w265930570]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w313731498]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w117573488]
+# name:be: []
+msgid "Казикава Хата"
+msgstr ""
+
+# Objects : [w262667466]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w262667468, w262667470, w262667474, w262667477, w262667479, w262667482]
+# name:be: []
+msgid "Колхоз"
+msgstr ""
+
+# Objects : [w262647081]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w265607507]
+# name:be: []
+msgid "Погреб"
+msgstr ""
+
+# Objects : [w265602629]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [w298285121, w298285576]
+# name:be: []
+msgid "Родны Кут"
+msgstr ""
+
+# Objects : [w169589358]
+# name:be: []
+msgid "санаторий Радон"
+msgstr ""
+
+# Objects : [w169589357]
+# name:be: []
+msgid "СПК Русь-Агро"
+msgstr ""
+
+# Objects : [w265562602]
+# name:be: []
+msgid "Теплица"
+msgstr ""
+

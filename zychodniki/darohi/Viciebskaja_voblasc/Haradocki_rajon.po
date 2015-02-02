@@ -1,0 +1,160 @@
+# Objects : [w160202994]
+# name:be: []
+msgid "1-й Полевой переулок"
+msgstr ""
+
+# Objects : [w165928751]
+# name:be: []
+msgid "1-й Садовый переулок"
+msgstr ""
+
+# Objects : [w130878024]
+# name:be: []
+msgid "2-й Садовый переулок"
+msgstr ""
+
+# Objects : [w130878025]
+# name:be: []
+msgid "3-й Садовый переулок"
+msgstr ""
+
+# Objects : [w31259229]
+# name:be: []
+msgid "4-й Садовый переулок"
+msgstr ""
+
+# Objects : [w160681429]
+# name:be: []
+msgid "5-й Садовый пер."
+msgstr ""
+
+# Objects : [w157852042]
+# name:be: [Аграснабаўская вуліца]
+msgid "Агроснабовская улица"
+msgstr ""
+
+# Objects : [w117567485, w25246393, w295783011]
+# name:be: []
+msgid "Залучье-Прудники"
+msgstr ""
+
+# Objects : [w100690255, w160202995]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w160202996, w166670670]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w165928750]
+# name:be: []
+msgid "Луговой переулок"
+msgstr ""
+
+# Objects : [w163803212, w173051423]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w165928742]
+# name:be: []
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w31782798]
+# name:be: [Невельская шаша]
+msgid "Невельское шоссе"
+msgstr ""
+
+# Objects : [w130878028, w167882094, w31538110]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w132087969, w295783012, w80440107]
+# name:be: [Азёрная вуліца]
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w130846538]
+# name:be: []
+msgid "Озёрный переулок"
+msgstr ""
+
+# Objects : [w130878021]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w310355733]
+# name:be: []
+msgid "Полевой переулок"
+msgstr ""
+
+# Objects : [w31278335]
+# name:be: []
+msgid "Речная улица"
+msgstr ""
+
+# Objects : [w163803215]
+# name:be: []
+msgid "Романовская улица"
+msgstr ""
+
+# Objects : [w130878015, w163803213, w227910704, w309920052, w31237568]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w160681427, w163827250]
+# name:be: [Паўночная вуліца]
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w160681428]
+# name:be: []
+msgid "Северный переулок"
+msgstr ""
+
+# Objects : [w237647773, w244248734, w244248735, w31237591]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w166670671]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w163803214]
+# name:be: []
+msgid "ул. 40-лет Победы"
+msgstr ""
+
+# Objects : [w29703347]
+# name:be: []
+msgid "улица Рудыка"
+msgstr ""
+
+# Objects : [w31237584]
+# name:be: []
+msgid "улица Чубарова"
+msgstr ""
+
+# Objects : [w80440098, w80440099, w85525485]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w30795229, w30795230, w31237579]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w157852041, w163827251]
+# name:be: [Яблыневая вуліца]
+msgid "Яблоневая улица"
+msgstr ""
+

@@ -1,0 +1,65 @@
+# Objects : [w243647848]
+# name:be: []
+msgid "1-го Мая улица"
+msgstr ""
+
+# Objects : [w305673269]
+# name:be: []
+msgid "Колхозная"
+msgstr ""
+
+# Objects : [w243647864]
+# name:be: []
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [w305316611]
+# name:be: []
+msgid "Середовича"
+msgstr ""
+
+# Objects : [w313524083]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w153073749]
+# name:be: []
+msgid "ул. В. Й. Ленйна"
+msgstr ""
+
+# Objects : [w153073755]
+# name:be: []
+msgid "ул. Кутусова"
+msgstr ""
+
+# Objects : [w278969752, w321600369]
+# name:be: []
+msgid "ул. Новая"
+msgstr ""
+
+# Objects : [w321601499]
+# name:be: []
+msgid "ул. Полевая"
+msgstr ""
+
+# Objects : [w321601900]
+# name:be: []
+msgid "ул. Янтарная"
+msgstr ""
+
+# Objects : [w39735445]
+# name:be: [вулiца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w39735370]
+# name:be: [вуліца Арджанікідзэ]
+msgid "улица Орджоникидзе"
+msgstr ""
+
+# Objects : [w115382751, w203965943]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+

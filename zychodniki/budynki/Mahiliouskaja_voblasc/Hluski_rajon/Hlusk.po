@@ -1,0 +1,225 @@
+# Objects : [w242462033]
+# name:be: []
+msgid "автобаза"
+msgstr ""
+
+# Objects : [w216612744]
+# name:be: []
+msgid "АГЗС"
+msgstr ""
+
+# Objects : [w207151304]
+# name:be: []
+msgid "аптека"
+msgstr ""
+
+# Objects : [w216612674]
+# name:be: []
+msgid "АТП-15"
+msgstr ""
+
+# Objects : [w209779399]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w210004944]
+# name:be: []
+msgid "белгосстрах"
+msgstr ""
+
+# Objects : [w231527794]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w209729905]
+# name:be: []
+msgid "гаи"
+msgstr ""
+
+# Objects : [w308223208, w308223210, w308223212]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w231527795]
+# name:be: []
+msgid "ДК"
+msgstr ""
+
+# Objects : [w326041440]
+# name:be: []
+msgid "ДРСУ-213"
+msgstr ""
+
+# Objects : [w218982766]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [w231527797]
+# name:be: []
+msgid "Кафе"
+msgstr ""
+
+# Objects : [w209731963]
+# name:be: []
+msgid "кафэ"
+msgstr ""
+
+# Objects : [w213055979]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w219396696, w226685551, w242174641]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w308223217]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w205343334, w215356236]
+# name:be: []
+msgid "котельная ЖКХ"
+msgstr ""
+
+# Objects : [w209731336]
+# name:be: []
+msgid "кулинапия"
+msgstr ""
+
+# Objects : [w205616513, w205616635, w207553294, w207553539, w209730618, w209731076, w209742559, w209778702, w210717019, w210717020, w217519039, w219399320, w326042080]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w213055679]
+# name:be: []
+msgid "магазин Меридиан"
+msgstr ""
+
+# Objects : [w209732393]
+# name:be: []
+msgid "милиция"
+msgstr ""
+
+# Objects : [w217517188]
+# name:be: []
+msgid "м-н "Росинка""
+msgstr ""
+
+# Objects : [w205621068, w206108126, w206108336, w206108398, w206108544, w206108697, w206108754, w206108907, w209733445, w209733767, w209734424, w209734503, w209734676, w209999296, w209999753]
+# name:be: []
+msgid "многоквартирный ж.д."
+msgstr ""
+
+# Objects : [w216611924]
+# name:be: []
+msgid "МСЗ"
+msgstr ""
+
+# Objects : [w207567865]
+# name:be: []
+msgid "музей"
+msgstr ""
+
+# Objects : [w326042078]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w206107974, w209777886, w231528432]
+# name:be: []
+msgid "общежитие"
+msgstr ""
+
+# Objects : [w209734645]
+# name:be: []
+msgid "одноквартирный жилой дом"
+msgstr ""
+
+# Objects : [w252131925]
+# name:be: []
+msgid "ООО "ТЕХНОТРАНСДЕТАЛЬ""
+msgstr ""
+
+# Objects : [w205628932]
+# name:be: []
+msgid "ПГРП-1"
+msgstr ""
+
+# Objects : [w231068014]
+# name:be: []
+msgid "пилорама"
+msgstr ""
+
+# Objects : [w231194169]
+# name:be: []
+msgid "прачечная"
+msgstr ""
+
+# Objects : [w205342630]
+# name:be: []
+msgid "РГС"
+msgstr ""
+
+# Objects : [w209732297]
+# name:be: []
+msgid "ресторан"
+msgstr ""
+
+# Objects : [w210184739]
+# name:be: []
+msgid "рынок"
+msgstr ""
+
+# Objects : [w209729909]
+# name:be: []
+msgid "суд"
+msgstr ""
+
+# Objects : [w217519080]
+# name:be: []
+msgid "теплопункт"
+msgstr ""
+
+# Objects : [w219396697]
+# name:be: []
+msgid "ТП-3"
+msgstr ""
+
+# Objects : [w215394582]
+# name:be: []
+msgid "УКК"
+msgstr ""
+
+# Objects : [w209730302]
+# name:be: []
+msgid "универмаг"
+msgstr ""
+
+# Objects : [w217518208]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [w216611925]
+# name:be: []
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [w209735780, w219398095, w219489532, w219490492, w219503215, w219503321, w219516885, w219517198, w219519063, w231067772, w231193360, w231194338, w231194626, w231194989, w231331620, w231332070, w231332071, w242462549, w242462550, w242597142, w248453907, w272776830, w290006590, w290006591, w301272846, w301275698, w301276008, w301276432, w301276814, w301276815, w301277895, w301278233, w301278237, w301278690, w301282291, w301282292, w301282293, w301282522, w308223220, w308223221, w308223222, w308223225]
+# name:be: []
+msgid "хоз.постройки"
+msgstr ""
+
+# Objects : [w216611926]
+# name:be: []
+msgid "цех заморозки"
+msgstr ""
+

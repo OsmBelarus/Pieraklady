@@ -1,0 +1,220 @@
+# Objects : [n1169711427]
+# name:be: []
+msgid "100 Авенью"
+msgstr ""
+
+# Objects : [n271039689]
+# name:be: [Беларусь]
+msgid "Беларусь"
+msgstr ""
+
+# Objects : [n931548033]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [w25130139]
+# name:be: [Усходняя]
+msgid "Восточная"
+msgstr ""
+
+# Objects : [n2788680184, w79693471]
+# name:be: [Гарадзішча «Замэчак»]
+msgid "Городище «Замочек»"
+msgstr ""
+
+# Objects : [n1505120307]
+# name:be: []
+msgid "Городская больница"
+msgstr ""
+
+# Objects : [n1754556942]
+# name:be: []
+msgid "Городской Вал"
+msgstr ""
+
+# Objects : [n2766736475]
+# name:be: []
+msgid "Гостиница Авеню"
+msgstr ""
+
+# Objects : [n1785987571]
+# name:be: []
+msgid "Детская площадка"
+msgstr ""
+
+# Objects : [n932577108]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [n1024754013]
+# name:be: [Дзіцячы музей міфалогіі лесу]
+msgid "Детский музей мифологии леса"
+msgstr ""
+
+# Objects : [n1572577730]
+# name:be: []
+msgid "Детский центр творчества"
+msgstr ""
+
+# Objects : [w25128869]
+# name:be: []
+msgid "Дехновка"
+msgstr ""
+
+# Objects : [n1024755668, n930056625]
+# name:be: []
+msgid "ДОТ"
+msgstr ""
+
+# Objects : [n1263109690]
+# name:be: []
+msgid "ДОТ - Долговременная огневая точка"
+msgstr ""
+
+# Objects : [n1711606830]
+# name:be: []
+msgid "Дот Линия Сталина"
+msgstr ""
+
+# Objects : [w295664297]
+# name:be: []
+msgid "Енисей"
+msgstr ""
+
+# Objects : [r2074778]
+# name:be: []
+msgid "Заброшенный карьер"
+msgstr ""
+
+# Objects : [n2788680408]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [w79802462]
+# name:be: [Заслаўскі кірмаш]
+msgid "Заславский рынок"
+msgstr ""
+
+# Objects : [w136316382]
+# name:be: []
+msgid "Заславское кладбище"
+msgstr ""
+
+# Objects : [n243010276]
+# name:be: [Зялёная]
+msgid "Зелёная"
+msgstr ""
+
+# Objects : [n1024759283]
+# name:be: []
+msgid "Кабельное ТВ "Елена-Плюс""
+msgstr ""
+
+# Objects : [w141774297]
+# name:be: [Кар’ер]
+msgid "Карьер"
+msgstr ""
+
+# Objects : [n2788681816]
+# name:be: [Касцёл Найсвяцейшай Панны Марыі]
+msgid "Костел Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n1517527345, n1517528062]
+# name:be: [Курган]
+msgid "Курган"
+msgstr ""
+
+# Objects : [n1722240916]
+# name:be: []
+msgid "Курганный могильник"
+msgstr ""
+
+# Objects : [w200636858]
+# name:be: []
+msgid "Микрорайон-1"
+msgstr ""
+
+# Objects : [w200636724]
+# name:be: []
+msgid "Микрорайон-2"
+msgstr ""
+
+# Objects : [n1507357378]
+# name:be: []
+msgid "Музей Млiн"
+msgstr ""
+
+# Objects : [n1572448293]
+# name:be: []
+msgid "ОПОП"
+msgstr ""
+
+# Objects : [n931588890]
+# name:be: [Помнік "Рагнеда і Ізяслаў"]
+msgid "Памятник "Рогнеда и Изяслав""
+msgstr ""
+
+# Objects : [n306064699]
+# name:be: []
+msgid "Памятник Архитектуры Xi Века"
+msgstr ""
+
+# Objects : [n1835618167]
+# name:be: []
+msgid "Памятник жервам ВОВ"
+msgstr ""
+
+# Objects : [n306064697]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w137978661]
+# name:be: []
+msgid "Птицефабрика"
+msgstr ""
+
+# Objects : [w91489195]
+# name:be: []
+msgid "С/т "Сокол""
+msgstr ""
+
+# Objects : [n1861720019]
+# name:be: []
+msgid "Святой источник"
+msgstr ""
+
+# Objects : [n1572577731]
+# name:be: []
+msgid "Служба занятости населения"
+msgstr ""
+
+# Objects : [w51182099]
+# name:be: []
+msgid "Техполимер"
+msgstr ""
+
+# Objects : [w79744574]
+# name:be: []
+msgid "УП "ГМК" ОАО "Гродненский мясокомбинат""
+msgstr ""
+
+# Objects : [n243010989]
+# name:be: [Хмелеўка]
+msgid "Хмелевка"
+msgstr ""
+
+# Objects : [w80574923]
+# name:be: []
+msgid "Центральная площадь"
+msgstr ""
+
+# Objects : [n2788686144]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+

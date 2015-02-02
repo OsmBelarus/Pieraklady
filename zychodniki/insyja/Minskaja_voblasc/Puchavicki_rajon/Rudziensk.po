@@ -1,0 +1,35 @@
+# Objects : [r2219405]
+# name:be: []
+msgid "Автобус №10Т: Руденск - Дружный - Свичлочь"
+msgstr ""
+
+# Objects : [n1541451989]
+# name:be: [Ленін]
+msgid "Ленин"
+msgstr ""
+
+# Objects : [n1482559166]
+# name:be: []
+msgid "Нотариус"
+msgstr ""
+
+# Objects : [n1471140941]
+# name:be: []
+msgid "парк"
+msgstr ""
+
+# Objects : [n306063608]
+# name:be: [Рудзенск]
+msgid "Руденск"
+msgstr ""
+
+# Objects : [n1287460027]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n1482559177]
+# name:be: [Сельсавет]
+msgid "Сельсовет"
+msgstr ""
+

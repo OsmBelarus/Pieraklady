@@ -1,0 +1,175 @@
+# Objects : [n2911820130]
+# name:be: []
+msgid "Radioamateurs meeting"
+msgstr ""
+
+# Objects : [n2582377534]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n306066694]
+# name:be: [Верайцы]
+msgid "Верейцы"
+msgstr ""
+
+# Objects : [n306067116]
+# name:be: [Вярхі]
+msgid "Верхи"
+msgstr ""
+
+# Objects : [w25192519]
+# name:be: []
+msgid "вода"
+msgstr ""
+
+# Objects : [w95800841, w95801279]
+# name:be: []
+msgid "Воинская часть"
+msgstr ""
+
+# Objects : [n306066643]
+# name:be: [Градзянка]
+msgid "Гродзянка"
+msgstr ""
+
+# Objects : [n306066714]
+# name:be: [Дараганава]
+msgid "Дараганово"
+msgstr ""
+
+# Objects : [n306066702]
+# name:be: [Дзераўцы]
+msgid "Деревцы"
+msgstr ""
+
+# Objects : [n1145507838]
+# name:be: [Ялізава]
+msgid "Елизово"
+msgstr ""
+
+# Objects : [n2788680351]
+# name:be: [Чыгуначная станцыя]
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [n1577951172]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n2788681936]
+# name:be: [Касцёл Святога Юзафа рамесніка]
+msgid "Костел Святого Иосифа"
+msgstr ""
+
+# Objects : [n306067113]
+# name:be: [Лапічы]
+msgid "Лапичи"
+msgstr ""
+
+# Objects : [w25197203]
+# name:be: []
+msgid "Лочинское"
+msgstr ""
+
+# Objects : [w325216327]
+# name:be: []
+msgid "Минск-Гомель"
+msgstr ""
+
+# Objects : [w25195570]
+# name:be: []
+msgid "Орлинское"
+msgstr ""
+
+# Objects : [n306067121]
+# name:be: [Асіповічы]
+msgid "Осиповичи"
+msgstr ""
+
+# Objects : [n306066763]
+# name:be: [Асіповічы 2]
+msgid "Осиповичи-2"
+msgstr ""
+
+# Objects : [n901656719]
+# name:be: [Асіповічы 3]
+msgid "Осиповичи-3"
+msgstr ""
+
+# Objects : [w25199794]
+# name:be: []
+msgid "Осиповичское водохранилище"
+msgstr ""
+
+# Objects : [n2318049466]
+# name:be: []
+msgid "Остановка поезда"
+msgstr ""
+
+# Objects : [n2788683741]
+# name:be: [Прысядзібны парк пры былой сядзібе Радзівілаў]
+msgid "Приусадебный парк при бывшей усадьбе Радзивиллов"
+msgstr ""
+
+# Objects : [w25191223, w25191382]
+# name:be: [Пціч]
+msgid "Птичь"
+msgstr ""
+
+# Objects : [n2766722611]
+# name:be: []
+msgid "Санаторий Свислочь"
+msgstr ""
+
+# Objects : [n2766722635]
+# name:be: []
+msgid "Санаторий Талька"
+msgstr ""
+
+# Objects : [r2336685]
+# name:be: []
+msgid "Свислочь"
+msgstr ""
+
+# Objects : [w206085111]
+# name:be: []
+msgid "Советский"
+msgstr ""
+
+# Objects : [w276125669]
+# name:be: []
+msgid "Стеклозавод"
+msgstr ""
+
+# Objects : [w25193327]
+# name:be: []
+msgid "Страшное"
+msgstr ""
+
+# Objects : [n306066637]
+# name:be: [Татарка]
+msgid "Татарка"
+msgstr ""
+
+# Objects : [w173576388]
+# name:be: []
+msgid "Торфополя"
+msgstr ""
+
+# Objects : [w173576389, w173576390]
+# name:be: []
+msgid "УЖД торфопредприятия "Татарка""
+msgstr ""
+
+# Objects : [n1282550084]
+# name:be: []
+msgid "Фельдшерский пункт"
+msgstr ""
+
+# Objects : [w263331825]
+# name:be: []
+msgid "ШРП-13"
+msgstr ""
+

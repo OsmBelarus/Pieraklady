@@ -1,0 +1,95 @@
+# Objects : [n1267469028]
+# name:be: [Аўтавакзал]
+msgid "Автовокзал"
+msgstr ""
+
+# Objects : [n1590506881]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n1239644473, n1239681819, w102686114]
+# name:be: []
+msgid "Городской рынок"
+msgstr ""
+
+# Objects : [w105582021]
+# name:be: []
+msgid "ГУСП «Жабинковская ПМК-10»"
+msgstr ""
+
+# Objects : [n306062224, n565524904]
+# name:be: [Жабінка]
+msgid "Жабинка"
+msgstr ""
+
+# Objects : [n1239681814]
+# name:be: []
+msgid "Жабинковский комбикормовый завод"
+msgstr ""
+
+# Objects : [n1239681806]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w111174856]
+# name:be: []
+msgid "Летний амфитеатр"
+msgstr ""
+
+# Objects : [n1266953322]
+# name:be: []
+msgid "ОАО "Жабинковская сельхозтехника""
+msgstr ""
+
+# Objects : [w105582020]
+# name:be: []
+msgid "ОАО "Жабинковский комбикормовый завод""
+msgstr ""
+
+# Objects : [w105582022]
+# name:be: []
+msgid "ОАО "Жабинковский сахарный завод""
+msgstr ""
+
+# Objects : [w111118812]
+# name:be: []
+msgid "ОАО «Жабинковский»"
+msgstr ""
+
+# Objects : [n1266925386]
+# name:be: []
+msgid "Отделение №109/33 ОАО "АСБ Беларусбанк""
+msgstr ""
+
+# Objects : [n1190927801]
+# name:be: []
+msgid "Памятник погибшим в Афганистане"
+msgstr ""
+
+# Objects : [n1267435780]
+# name:be: []
+msgid "СП «Каспол» ООО"
+msgstr ""
+
+# Objects : [w111174855]
+# name:be: []
+msgid "Танцевальная площадка"
+msgstr ""
+
+# Objects : [n1267437647]
+# name:be: []
+msgid "Учебный центр «АвтоСтарт г. Жабинка»"
+msgstr ""
+
+# Objects : [n2788685975]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n1182587953]
+# name:be: [Школа Мастацваў]
+msgid "Школа искусств"
+msgstr ""
+

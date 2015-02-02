@@ -1,0 +1,105 @@
+# Objects : [w243637975]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [w298986527]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w295084462]
+# name:be: []
+msgid "ГРП №5 п. Пограничный"
+msgstr ""
+
+# Objects : [w264741709]
+# name:be: []
+msgid "ГРП №7 Большие Эйсмонты"
+msgstr ""
+
+# Objects : [w243637960, w296191604]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w309215846]
+# name:be: []
+msgid "жилой дом"
+msgstr ""
+
+# Objects : [w294177259, w309215837, w309215838, w309215839, w309215840, w309215841, w309215842, w309215843, w309215844, w309215845, w310464372]
+# name:be: []
+msgid "Жилой дом"
+msgstr ""
+
+# Objects : [w295085508, w295085511]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w296188997]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w120344244]
+# name:be: []
+msgid "Контора СПК "Воронецкого""
+msgstr ""
+
+# Objects : [w243637977]
+# name:be: []
+msgid "Контора СПК "Тетеревка""
+msgstr ""
+
+# Objects : [w298986528]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [w120344242]
+# name:be: []
+msgid "Костел Успения Пресвятой Девы Марии и Святого Яна Непомука"
+msgstr ""
+
+# Objects : [w295093074]
+# name:be: []
+msgid "Котельная д. Лесная"
+msgstr ""
+
+# Objects : [w120344325, w296188999, w298986529]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w120344194]
+# name:be: []
+msgid "Магазин,почта,столовая."
+msgstr ""
+
+# Objects : [w297481144]
+# name:be: []
+msgid "Модульная котельная"
+msgstr ""
+
+# Objects : [w243637972]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
+# Objects : [w120344196]
+# name:be: []
+msgid "Спортивный комплекс"
+msgstr ""
+
+# Objects : [w295093076, w295093078]
+# name:be: []
+msgid "ШРП д. Лесная"
+msgstr ""
+
+# Objects : [w298986530]
+# name:be: []
+msgid "ШРП №3 Кваторы"
+msgstr ""
+

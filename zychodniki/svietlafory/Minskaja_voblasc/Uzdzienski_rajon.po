@@ -1,0 +1,70 @@
+# Objects : [n1432040817, n1432040818]
+# name:be: []
+msgid "Агропромэнерго"
+msgstr ""
+
+# Objects : [n1313504533]
+# name:be: []
+msgid "Д. Низок"
+msgstr ""
+
+# Objects : [n2132124524, n2132124527]
+# name:be: []
+msgid "Дещенка"
+msgstr ""
+
+# Objects : [n2132906841, n2132906842]
+# name:be: []
+msgid "Жмаки"
+msgstr ""
+
+# Objects : [n1432040820, n1432040821]
+# name:be: [Калгасная вуліца]
+msgid "Колхозная"
+msgstr ""
+
+# Objects : [n2132124530, n2132124533]
+# name:be: []
+msgid "Корма"
+msgstr ""
+
+# Objects : [n1776152855, n1776152856]
+# name:be: []
+msgid "Королёво"
+msgstr ""
+
+# Objects : [n814679655]
+# name:be: [Лоша]
+msgid "Лоша"
+msgstr ""
+
+# Objects : [n2805421777, n2805421778]
+# name:be: []
+msgid "Поворот на Горбаты"
+msgstr ""
+
+# Objects : [n2805421779, n2805421780]
+# name:be: []
+msgid "Поворот на Яченку"
+msgstr ""
+
+# Objects : [n1277541143]
+# name:be: []
+msgid "поворот Озеро"
+msgstr ""
+
+# Objects : [n1432040830, n1432040831]
+# name:be: []
+msgid "Схт"
+msgstr ""
+
+# Objects : [n1432040835, n1432040836]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [n2805421783, n2805421784]
+# name:be: []
+msgid "Яловка"
+msgstr ""
+

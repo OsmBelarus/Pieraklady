@@ -1,0 +1,120 @@
+# Objects : [w239006215, w252175207, w289531319]
+# name:be: [бульвар Азміцеля]
+msgid "бульвар Озмителя"
+msgstr ""
+
+# Objects : [w155267676]
+# name:be: [Вальная вуліца]
+msgid "Вальная улица"
+msgstr ""
+
+# Objects : [w78136851]
+# name:be: [Усходні тракт]
+msgid "Восточный тракт"
+msgstr ""
+
+# Objects : [w238889485, w32048275]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w314257408, w98723390]
+# name:be: [Кляновая вуліца]
+msgid "Кленовая улица"
+msgstr ""
+
+# Objects : [w157659260]
+# name:be: [Кляновы завулак]
+msgid "Кленовый переулок"
+msgstr ""
+
+# Objects : [w236689711]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [w308859025, w308859026]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w166501511]
+# name:be: [Лукомльская шаша]
+msgid "Лукомльское шоссе"
+msgstr ""
+
+# Objects : [w155267678]
+# name:be: [Моладзевая вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w236359598]
+# name:be: [Моладзевы бульвар]
+msgid "Молодёжный бульвар"
+msgstr ""
+
+# Objects : [w244618344, w56141997]
+# name:be: [Набярэжная вуліца]
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w98723394]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w32048276]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w155267679]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w98723380]
+# name:be: [Сасновая вуліца]
+msgid "Сосновая улица"
+msgstr ""
+
+# Objects : [w155267675]
+# name:be: [Сасновы завулак]
+msgid "Сосновый переулок"
+msgstr ""
+
+# Objects : [w155267677]
+# name:be: [Будаўнічая вуліца]
+msgid "Строительная улица"
+msgstr ""
+
+# Objects : [w242859753]
+# name:be: [вуліца Міру]
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w32048272]
+# name:be: [вуліца Панчука]
+msgid "улица Панчука"
+msgstr ""
+
+# Objects : [w236360137, w240895498, w32048269]
+# name:be: [вуліца Энергетыкаў]
+msgid "улица Энергетиков"
+msgstr ""
+
+# Objects : [w309918177]
+# name:be: [Кветкавая вуліца]
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w155267682]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w155267683]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+

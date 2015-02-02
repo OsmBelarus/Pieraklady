@@ -1,0 +1,485 @@
+# Objects : [w285863205]
+# name:be: []
+msgid "ААТ "Забудова""
+msgstr ""
+
+# Objects : [n2766728028]
+# name:be: []
+msgid "Алеся"
+msgstr ""
+
+# Objects : [n1376715422]
+# name:be: []
+msgid "Амбар"
+msgstr ""
+
+# Objects : [w152008179]
+# name:be: []
+msgid "Балластный карьер "Родошковичи""
+msgstr ""
+
+# Objects : [n1231277704]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w317240339]
+# name:be: []
+msgid "Бассейн Чистинской средней школы"
+msgstr ""
+
+# Objects : [n2175223354]
+# name:be: []
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [w99810892]
+# name:be: []
+msgid "Белпласт"
+msgstr ""
+
+# Objects : [w25196177]
+# name:be: []
+msgid "Васьковское"
+msgstr ""
+
+# Objects : [n2788679983]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n1374740501, n2788680060]
+# name:be: [Вадзяны млын, Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1616497605, n3324832362]
+# name:be: []
+msgid "Водяная мельница (руины)"
+msgstr ""
+
+# Objects : [n1371875364]
+# name:be: []
+msgid "Воинам"
+msgstr ""
+
+# Objects : [w242265913]
+# name:be: []
+msgid "ГК-25"
+msgstr ""
+
+# Objects : [w235736590]
+# name:be: []
+msgid "ГК-5p"
+msgstr ""
+
+# Objects : [w25130055]
+# name:be: []
+msgid "Горизонт-82"
+msgstr ""
+
+# Objects : [n2788680198]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w288793342]
+# name:be: []
+msgid "д.п.Журавлик"
+msgstr ""
+
+# Objects : [n2422620454]
+# name:be: []
+msgid "детский оздоровительный лагерь Лесной"
+msgstr ""
+
+# Objects : [w314465936]
+# name:be: []
+msgid "ДОЛ "Чабарок""
+msgstr ""
+
+# Objects : [n1373734152]
+# name:be: []
+msgid "Дом-музей (дерев.)"
+msgstr ""
+
+# Objects : [w246520749, w246520752]
+# name:be: [Дубкі]
+msgid "Дубки"
+msgstr ""
+
+# Objects : [n1365140475]
+# name:be: [Дубравы]
+msgid "Дубравы"
+msgstr ""
+
+# Objects : [n2788680354]
+# name:be: [Чыгуначная станцыя]
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w138938549]
+# name:be: []
+msgid "Забудова завод строительных материалов"
+msgstr ""
+
+# Objects : [w317240337]
+# name:be: []
+msgid "Забудова-Строй"
+msgstr ""
+
+# Objects : [n2788680412]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n2788680465]
+# name:be: [Будынак былой плябаніі]
+msgid "Здание бывшей часовни"
+msgstr ""
+
+# Objects : [n306065643]
+# name:be: []
+msgid "Инфекционная Больница"
+msgstr ""
+
+# Objects : [n1376526480, n2788680575]
+# name:be: [Каменны крыж]
+msgid "Каменный крест"
+msgstr ""
+
+# Objects : [w162568663, w199895549]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2788680934, n2788680946, n2788680969, n2788680978]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681139]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681385, n2788681387, n2788681389]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681487]
+# name:be: [Могілкі старыя хрысціянскія]
+msgid "Кладбище старое христианское"
+msgstr ""
+
+# Objects : [n1374801716]
+# name:be: []
+msgid "Кладбище христианское"
+msgstr ""
+
+# Objects : [n3205101591]
+# name:be: []
+msgid "Командиру партизанского отряда"
+msgstr ""
+
+# Objects : [w245950159]
+# name:be: []
+msgid "Конник"
+msgstr ""
+
+# Objects : [n2788681820, n2788681821]
+# name:be: [Касцёл Найсвяцейшай Панны Марыі]
+msgid "Костел Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n2788682241]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n2788682327]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n3231920597]
+# name:be: []
+msgid "Крыніца Багдановіча"
+msgstr ""
+
+# Objects : [n2766728139]
+# name:be: []
+msgid "Лидия"
+msgstr ""
+
+# Objects : [w199895721]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w112956226]
+# name:be: []
+msgid "магазин райпо д. Мойсичи"
+msgstr ""
+
+# Objects : [w265232361]
+# name:be: []
+msgid "Металлобаза"
+msgstr ""
+
+# Objects : [w292965373]
+# name:be: [Маладзечанскі замак]
+msgid "Молодечненский замок"
+msgstr ""
+
+# Objects : [n306065696, n414267350]
+# name:be: [Маладзечна]
+msgid "Молодечно"
+msgstr ""
+
+# Objects : [n1374732253]
+# name:be: []
+msgid "Музей литературный"
+msgstr ""
+
+# Objects : [n2788683239]
+# name:be: [Музей-сядзіба Максіма Багдановіча]
+msgid "Музей-усадьба Максима Богдановича"
+msgstr ""
+
+# Objects : [n2788683123]
+# name:be: [Музей Янкі Купалы]
+msgid "Музей Янки Купалы"
+msgstr ""
+
+# Objects : [n1246572357]
+# name:be: [Аляхновічы]
+msgid "Олехновичи"
+msgstr ""
+
+# Objects : [n1376544063]
+# name:be: []
+msgid "Официна"
+msgstr ""
+
+# Objects : [n2788683376]
+# name:be: [Помнік віленскаму шляху]
+msgid "Памятник виленскому пути"
+msgstr ""
+
+# Objects : [n3109067673]
+# name:be: []
+msgid "Памятник Гастелло"
+msgstr ""
+
+# Objects : [w252716552]
+# name:be: []
+msgid "пилорама Куты"
+msgstr ""
+
+# Objects : [n3011966238]
+# name:be: []
+msgid "Площадка для туристических слётов"
+msgstr ""
+
+# Objects : [n2774608150]
+# name:be: [Палачаны]
+msgid "Полочаны"
+msgstr ""
+
+# Objects : [n2788683740]
+# name:be: [Прысядзібны парк пры былой сядзібе Пузынаў]
+msgid "Приусадебный парк при бывшей усадьбе Пузынов"
+msgstr ""
+
+# Objects : [n2788683753]
+# name:be: [Прысядзібны парк пры былой сядзібе Саковічаў]
+msgid "Приусадебный парк при бывшей усадьбе Саковича"
+msgstr ""
+
+# Objects : [w314466455]
+# name:be: []
+msgid "Причал"
+msgstr ""
+
+# Objects : [n306066255]
+# name:be: [Пруды]
+msgid "Пруды"
+msgstr ""
+
+# Objects : [w100884325]
+# name:be: []
+msgid "Радошковичский кирпичный завод"
+msgstr ""
+
+# Objects : [n3231983467]
+# name:be: [Крыніца Ляшно]
+msgid "Родник Лешно"
+msgstr ""
+
+# Objects : [n469799748]
+# name:be: []
+msgid "Ручей"
+msgstr ""
+
+# Objects : [w239907792]
+# name:be: [с/т "Мясата"]
+msgid "с/т "Мясота""
+msgstr ""
+
+# Objects : [w136025277]
+# name:be: []
+msgid "садовое товарищество "Автопилот""
+msgstr ""
+
+# Objects : [w275980018]
+# name:be: []
+msgid "Садовое товарищество Сигма-2002"
+msgstr ""
+
+# Objects : [n2766722480, w314465414]
+# name:be: []
+msgid "Санаторий Богатырь"
+msgstr ""
+
+# Objects : [n2766722489]
+# name:be: []
+msgid "Санаторий Вяжути"
+msgstr ""
+
+# Objects : [w314465912]
+# name:be: []
+msgid "Санаторий Звездный"
+msgstr ""
+
+# Objects : [n2766722627]
+# name:be: []
+msgid "Санаторий Сосновый бор"
+msgstr ""
+
+# Objects : [w265232365]
+# name:be: []
+msgid "Свеклоприёмный пункт"
+msgstr ""
+
+# Objects : [n2991366369]
+# name:be: []
+msgid "СОК "Бригантина""
+msgstr ""
+
+# Objects : [w317240338]
+# name:be: []
+msgid "Стадион Чистинской средней школы"
+msgstr ""
+
+# Objects : [n3231921640]
+# name:be: []
+msgid "Старавіленскаму шляху"
+msgstr ""
+
+# Objects : [w162568554]
+# name:be: []
+msgid "Старое православное кладбище"
+msgstr ""
+
+# Objects : [n2795967263]
+# name:be: []
+msgid "Танк"
+msgstr ""
+
+# Objects : [w237683930]
+# name:be: []
+msgid "Татарщина"
+msgstr ""
+
+# Objects : [n2788684434]
+# name:be: [Сядзібна-паркавы комплекс Валадковічаў]
+msgid "Усадебно-парковый комплекс Володковичей"
+msgstr ""
+
+# Objects : [n2788684465]
+# name:be: [Сядзібна-паркавы комплекс Корсакаў]
+msgid "Усадебно-парковый комплекс Корсаков"
+msgstr ""
+
+# Objects : [n2788684545]
+# name:be: [Сядзібна-паркавы комплекс Свентаржэцкіх]
+msgid "Усадебно-парковый комплекс Свентаржэцких"
+msgstr ""
+
+# Objects : [n2788684759]
+# name:be: [Сядзіба Свентаржэцкіх]
+msgid "Усадьба Свентаржэцких"
+msgstr ""
+
+# Objects : [n2788685127]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [n2788685110]
+# name:be: [Капліца-пахавальня Язвінскіх]
+msgid "Усыпальница Язвинского"
+msgstr ""
+
+# Objects : [n2728286047, w146991635]
+# name:be: [Уша]
+msgid "Уша"
+msgstr ""
+
+# Objects : [n2788685404]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788685294]
+# name:be: [Гаспадарчы двор Корсакаў]
+msgid "Хозяйственный двор Корсаков"
+msgstr ""
+
+# Objects : [n2788686068]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686246]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686552]
+# name:be: [Царква Святога Феадосія]
+msgid "Церковь Святого Феодосия"
+msgstr ""
+
+# Objects : [n2788686655, n2788686658, n2788686660]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788686824]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2788687695]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [w317237055]
+# name:be: []
+msgid "Чистинское кладбище"
+msgstr ""
+
+# Objects : [n444323787]
+# name:be: [Янка Купала]
+msgid "Янка Купала"
+msgstr ""
+
+# Objects : [w112956227]
+# name:be: []
+msgid "№12 Молодечненского райпо"
+msgstr ""
+

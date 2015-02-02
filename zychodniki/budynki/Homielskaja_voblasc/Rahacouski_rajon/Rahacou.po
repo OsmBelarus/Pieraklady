@@ -1,0 +1,235 @@
+# Objects : [w284619076]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w97350805]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w266831127]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w259902338]
+# name:be: []
+msgid "бытовая"
+msgstr ""
+
+# Objects : [w317520134]
+# name:be: []
+msgid "весовая"
+msgstr ""
+
+# Objects : [w238562914]
+# name:be: []
+msgid "Ветразь"
+msgstr ""
+
+# Objects : [w261537322, w263865239, w263865258, w304950657, w306484659, w309072857, w309072859, w309072861, w309072863, w309227185, w312240760, w312240761, w312240764, w312240766, w314419268, w317520135, w320947722, w320947723]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w306109879, w306109880, w306109881, w306109882, w306109883, w306109884, w306109885, w306109886, w306109887, w306109888, w306109889, w306109890, w306109891, w306109892, w307528811, w307528957, w316794962, w317520136]
+# name:be: []
+msgid "гаражи"
+msgstr ""
+
+# Objects : [w209201380]
+# name:be: []
+msgid "Городская баня"
+msgstr ""
+
+# Objects : [w295195334]
+# name:be: []
+msgid "деревообрабатывающий цех"
+msgstr ""
+
+# Objects : [w306078813]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w306094110]
+# name:be: []
+msgid "КЖЭУП "Друть""
+msgstr ""
+
+# Objects : [w209201375]
+# name:be: []
+msgid "КИРМАШ"
+msgstr ""
+
+# Objects : [w317520178]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w317520179]
+# name:be: []
+msgid "контора Газстрой"
+msgstr ""
+
+# Objects : [w302369899]
+# name:be: []
+msgid "Контора лесхоза"
+msgstr ""
+
+# Objects : [w317520180]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w317520133, w317658495]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w305711128, w305711129, w305711130, w305711131, w305711132]
+# name:be: []
+msgid "крытая детская площадка"
+msgstr ""
+
+# Objects : [w265761010]
+# name:be: []
+msgid "Лаки-краски"
+msgstr ""
+
+# Objects : [w300510226, w300510227]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w263308554, w263308555, w263308556, w263308557]
+# name:be: []
+msgid "Мед.склады"
+msgstr ""
+
+# Objects : [w239040353]
+# name:be: []
+msgid "МКК"
+msgstr ""
+
+# Objects : [w267265276]
+# name:be: []
+msgid "Молодежный"
+msgstr ""
+
+# Objects : [w224731297, w224731298]
+# name:be: []
+msgid "МПУ Рогачевмежрайгаз"
+msgstr ""
+
+# Objects : [w299483675, w302369903, w302369904, w302369905, w302369906, w302369907]
+# name:be: []
+msgid "навес"
+msgstr ""
+
+# Objects : [w262196878]
+# name:be: []
+msgid "НИКА"
+msgstr ""
+
+# Objects : [w209223802]
+# name:be: []
+msgid "Общежитие ПТУ-150"
+msgstr ""
+
+# Objects : [w209199608]
+# name:be: []
+msgid "Педогогическое училище"
+msgstr ""
+
+# Objects : [w286242644]
+# name:be: []
+msgid "Правильный дом"
+msgstr ""
+
+# Objects : [w263637651]
+# name:be: []
+msgid "производственный участок "Эталон""
+msgstr ""
+
+# Objects : [w209223803]
+# name:be: []
+msgid "ПТУ-150"
+msgstr ""
+
+# Objects : [w209201373]
+# name:be: []
+msgid "РАДУГА"
+msgstr ""
+
+# Objects : [w239961823]
+# name:be: []
+msgid "разр."
+msgstr ""
+
+# Objects : [w316794954]
+# name:be: []
+msgid "рампа"
+msgstr ""
+
+# Objects : [w209199598]
+# name:be: []
+msgid "Рогачёвская ЦРБ"
+msgstr ""
+
+# Objects : [w209194644]
+# name:be: []
+msgid "Рогачевский ГПТК строителей"
+msgstr ""
+
+# Objects : [w263308559, w263308560]
+# name:be: []
+msgid "РЭС"
+msgstr ""
+
+# Objects : [w262196879, w263346675, w263346676, w263346677, w263346678, w263450830, w263450831, w263450832, w263450833, w263450834, w263450835, w263450836, w263450837, w263450838, w265900057, w275242446]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w316936335, w317520181]
+# name:be: []
+msgid "склад"
+msgstr ""
+
+# Objects : [w209201385]
+# name:be: []
+msgid "СТАРТ"
+msgstr ""
+
+# Objects : [w209199618, w265898198]
+# name:be: []
+msgid "Трибуна"
+msgstr ""
+
+# Objects : [w209194662]
+# name:be: []
+msgid "Хозяюшка"
+msgstr ""
+
+# Objects : [w100610807]
+# name:be: []
+msgid "Центральная библиотека"
+msgstr ""
+
+# Objects : [w300256273]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w209199597]
+# name:be: []
+msgid "Школа искусств"
+msgstr ""
+
+# Objects : [w263637683]
+# name:be: []
+msgid "Юбилейный"
+msgstr ""
+

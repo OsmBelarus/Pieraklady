@@ -1,0 +1,75 @@
+# Objects : [n2388035077]
+# name:be: []
+msgid "IdeaBank"
+msgstr ""
+
+# Objects : [n2650652273]
+# name:be: []
+msgid "Альфа банк"
+msgstr ""
+
+# Objects : [n3154673879, r3670960]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w175326051]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n3034265733]
+# name:be: []
+msgid "Беларусбанк отд. №80"
+msgstr ""
+
+# Objects : [n3154679129]
+# name:be: []
+msgid "БеларусьБанк"
+msgstr ""
+
+# Objects : [n1231386065, w210205289]
+# name:be: []
+msgid "Беларусь Банк"
+msgstr ""
+
+# Objects : [n3034353746]
+# name:be: []
+msgid "Белвнешэкономбанк"
+msgstr ""
+
+# Objects : [n3184585374]
+# name:be: []
+msgid "БелВЭБ"
+msgstr ""
+
+# Objects : [w205338422]
+# name:be: []
+msgid "БелИнвестБанк"
+msgstr ""
+
+# Objects : [n3034240951]
+# name:be: []
+msgid "БПС-сбербанк"
+msgstr ""
+
+# Objects : [w205338416]
+# name:be: []
+msgid "Национальный банк"
+msgstr ""
+
+# Objects : [n3154673680]
+# name:be: []
+msgid "Паритет-Банк"
+msgstr ""
+
+# Objects : [n2650655996]
+# name:be: []
+msgid "Приор банк"
+msgstr ""
+
+# Objects : [n3034044033]
+# name:be: []
+msgid "Хоум Кредит Банк"
+msgstr ""
+

@@ -1,0 +1,165 @@
+# Objects : [w215302969]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w172440218, w212078956]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w214802029]
+# name:be: []
+msgid "Быт. услуги"
+msgstr ""
+
+# Objects : [w236891258, w237283742, w237304680, w238236571]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w236891543]
+# name:be: []
+msgid "ГРС"
+msgstr ""
+
+# Objects : [w238233628]
+# name:be: []
+msgid "ГРС Добрейка"
+msgstr ""
+
+# Objects : [w242488179]
+# name:be: []
+msgid "Диана"
+msgstr ""
+
+# Objects : [w215104365]
+# name:be: []
+msgid "Дом оператора"
+msgstr ""
+
+# Objects : [w237299452]
+# name:be: []
+msgid "Дом спорта"
+msgstr ""
+
+# Objects : [w241866642, w241866643]
+# name:be: []
+msgid "Завод газетной бумаги"
+msgstr ""
+
+# Objects : [w236038663]
+# name:be: []
+msgid "Зона"
+msgstr ""
+
+# Objects : [w254986515]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w239431687]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w172839941, w234466461, w241874174, w261042747]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w238903361, w238903362, w238903363, w238903364, w238903365]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
+# Objects : [w241507893]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w214802081, w238299215, w240435297, w241507894]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w241506196, w241506198]
+# name:be: []
+msgid "МН"
+msgstr ""
+
+# Objects : [w308734183]
+# name:be: []
+msgid "н"
+msgstr ""
+
+# Objects : [w238233629]
+# name:be: []
+msgid "Опер."
+msgstr ""
+
+# Objects : [w240633703]
+# name:be: []
+msgid "Свинарник"
+msgstr ""
+
+# Objects : [w261044782]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w211956387, w215104383]
+# name:be: []
+msgid "Семейный дом"
+msgstr ""
+
+# Objects : [w212760913, w238734997]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w242681265, w242681266]
+# name:be: []
+msgid "Сушилка"
+msgstr ""
+
+# Objects : [w239431688, w241557143]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w237687113]
+# name:be: []
+msgid "Хозблок"
+msgstr ""
+
+# Objects : [w236891797, w238236573, w238882997]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w239436143]
+# name:be: []
+msgid "ШРП-22"
+msgstr ""
+
+# Objects : [w234462996, w323630782]
+# name:be: []
+msgid "ШРП КЗС"
+msgstr ""
+
+# Objects : [w234462997]
+# name:be: []
+msgid "ШРП КРС"
+msgstr ""
+
+# Objects : [w323630783]
+# name:be: []
+msgid "ШРП РМД"
+msgstr ""
+
+# Objects : [w254986517]
+# name:be: []
+msgid "ЭСТАКАДА"
+msgstr ""
+

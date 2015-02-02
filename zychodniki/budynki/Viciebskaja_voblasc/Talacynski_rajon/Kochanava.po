@@ -1,0 +1,65 @@
+# Objects : [w160096064]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w59099321]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [w160226365]
+# name:be: []
+msgid "Ветеринарная станция"
+msgstr ""
+
+# Objects : [w265922496]
+# name:be: []
+msgid "ГРП № 7"
+msgstr ""
+
+# Objects : [w160086069]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w160085021]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w160224474]
+# name:be: []
+msgid "Исполком"
+msgstr ""
+
+# Objects : [w160223536]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w160086106]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w160086108]
+# name:be: []
+msgid "Общежитие ПТУ"
+msgstr ""
+
+# Objects : [w160086110]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w160086112]
+# name:be: []
+msgid "Приют"
+msgstr ""
+
+# Objects : [w160095240]
+# name:be: []
+msgid "ПТУ"
+msgstr ""
+

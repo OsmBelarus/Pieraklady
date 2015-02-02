@@ -1,0 +1,75 @@
+# Objects : [n2602902336]
+# name:be: []
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [w169900154]
+# name:be: []
+msgid "ДРСУ"
+msgstr ""
+
+# Objects : [w155787818]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w173227325]
+# name:be: [Лінія Смаленск — Віцебск]
+msgid "Линия Смоленск - Витебск"
+msgstr ""
+
+# Objects : [n306065947]
+# name:be: [Лёзна]
+msgid "Лиозно"
+msgstr ""
+
+# Objects : [w155999582]
+# name:be: []
+msgid "Молокозавод"
+msgstr ""
+
+# Objects : [w152302591, w152324245, w156168820]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w29830731]
+# name:be: [РВУ «Лёзнарайгаз»]
+msgid "РПУ "Лиознорайгаз""
+msgstr ""
+
+# Objects : [w169780368]
+# name:be: []
+msgid "рынок"
+msgstr ""
+
+# Objects : [w165487578]
+# name:be: []
+msgid "сушилка"
+msgstr ""
+
+# Objects : [n2521856574]
+# name:be: []
+msgid "Т-34"
+msgstr ""
+
+# Objects : [w152324257]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [w155999586]
+# name:be: []
+msgid "Хлебная база"
+msgstr ""
+
+# Objects : [w155787822]
+# name:be: []
+msgid "цех Деревообработки"
+msgstr ""
+
+# Objects : [w152324928]
+# name:be: []
+msgid "цех Косз"
+msgstr ""
+

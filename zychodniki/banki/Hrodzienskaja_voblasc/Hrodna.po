@@ -1,0 +1,150 @@
+# Objects : [n1652790177]
+# name:be: []
+msgid "Belinvestbank"
+msgstr ""
+
+# Objects : [n1244699444]
+# name:be: []
+msgid "Абсолютбанк"
+msgstr ""
+
+# Objects : [w33554566]
+# name:be: [Альфабанк]
+msgid "Альфабанк"
+msgstr ""
+
+# Objects : [n1270824235, n383424283, w29125643]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n430951321, n430951322]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропром Банк"
+msgstr ""
+
+# Objects : [n1195285201, n1200888461, n1256867178, n1271365588, n2360467405, n320409431, n320409507, n320409734, n320409813, n350190555, w318146326]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n320409752]
+# name:be: []
+msgid "Беларусбанк 400/088"
+msgstr ""
+
+# Objects : [n513281768]
+# name:be: []
+msgid "Беларусбанк 400/57"
+msgstr ""
+
+# Objects : [n320409701]
+# name:be: []
+msgid "Беларусбанк 426/059"
+msgstr ""
+
+# Objects : [n1772430966]
+# name:be: []
+msgid "Белвэб"
+msgstr ""
+
+# Objects : [w115912739]
+# name:be: [Белгазпрамбанк]
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [n2958909571, n320409906, n513281762, w163717183]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n2637881425]
+# name:be: []
+msgid "Белинвестбанк, пункт"
+msgstr ""
+
+# Objects : [n1257952009]
+# name:be: []
+msgid "Белорусский Банк Малого Бизнеса"
+msgstr ""
+
+# Objects : [n1257993798]
+# name:be: [Белрасбанк]
+msgid "Белросбанк"
+msgstr ""
+
+# Objects : [n1249994752, n387411494]
+# name:be: [БПС-Сбербанк]
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n1271364741]
+# name:be: []
+msgid "БПС-Сбербанк филиал"
+msgstr ""
+
+# Objects : [n1256899402]
+# name:be: []
+msgid "БПС-Сбербанк филиал по Гродненской области"
+msgstr ""
+
+# Objects : [n717837618]
+# name:be: []
+msgid "ВТБ"
+msgstr ""
+
+# Objects : [n1271382189]
+# name:be: []
+msgid "ВТБ-Банк"
+msgstr ""
+
+# Objects : [n1845889971]
+# name:be: []
+msgid "ИдеяБанк"
+msgstr ""
+
+# Objects : [n1885022068]
+# name:be: []
+msgid "Кассы"
+msgstr ""
+
+# Objects : [n1256877559, n320409613]
+# name:be: [Масква-Мінск]
+msgid "Москва-Минск"
+msgstr ""
+
+# Objects : [n442980811]
+# name:be: []
+msgid "НБРБ"
+msgstr ""
+
+# Objects : [n2043291972]
+# name:be: []
+msgid "Операционный зал"
+msgstr ""
+
+# Objects : [n387674800]
+# name:be: [Беларусбанк]
+msgid "отделение Беларусбанк №400/70"
+msgstr ""
+
+# Objects : [n1256874018]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n491591270]
+# name:be: [Тэхнабанк]
+msgid "Технобанк"
+msgstr ""
+
+# Objects : [n320409584]
+# name:be: [Трастбанк]
+msgid "Трастбанк"
+msgstr ""
+
+# Objects : [n2612276277]
+# name:be: []
+msgid "Францбанк"
+msgstr ""
+

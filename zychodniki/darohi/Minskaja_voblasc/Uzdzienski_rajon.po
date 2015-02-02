@@ -1,0 +1,75 @@
+# Objects : [w312713079, w312713257]
+# name:be: []
+msgid "Грибная"
+msgstr ""
+
+# Objects : [w129862928, w25273546, w25273552, w25273553]
+# name:be: []
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w84781084]
+# name:be: []
+msgid "Колхозный переулок"
+msgstr ""
+
+# Objects : [w102443907, w116534717, w116534744]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w84781171]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w221337255]
+# name:be: []
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w204023144]
+# name:be: []
+msgid "Пекаревича"
+msgstr ""
+
+# Objects : [w116534761]
+# name:be: [Пасялковая вуліца]
+msgid "Поселковая улица"
+msgstr ""
+
+# Objects : [w116682365]
+# name:be: []
+msgid "Присынок-Низок"
+msgstr ""
+
+# Objects : [w179265429]
+# name:be: []
+msgid "Труса"
+msgstr ""
+
+# Objects : [w221328366]
+# name:be: []
+msgid "улица Рокоссовского"
+msgstr ""
+
+# Objects : [w302487419]
+# name:be: []
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w116682363]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w84781160]
+# name:be: []
+msgid "Шидловского"
+msgstr ""
+
+# Objects : [w221327736, w221327762, w221335747, w27430013]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+

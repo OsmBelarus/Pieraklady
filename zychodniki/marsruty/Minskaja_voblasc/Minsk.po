@@ -1,0 +1,1315 @@
+# Objects : [r4000212]
+# name:be: []
+msgid ""Юго-Западная" — Воложин"
+msgstr ""
+
+# Objects : [r75835]
+# name:be: []
+msgid "«Д/С Лошица-2 - ст.м. Тракторный завод»"
+msgstr ""
+
+# Objects : [r75841, r75849]
+# name:be: []
+msgid "«Д/С Чижовка - Вокзал»"
+msgstr ""
+
+# Objects : [r3736330]
+# name:be: []
+msgid "116 ДС Каменная Горка-5 — Малиновка-8"
+msgstr ""
+
+# Objects : [r2944696]
+# name:be: []
+msgid "Amsterdam - Moscow"
+msgstr ""
+
+# Objects : [r33702]
+# name:be: []
+msgid "European route E 28"
+msgstr ""
+
+# Objects : [r1164815]
+# name:be: []
+msgid "Praha - Moskva"
+msgstr ""
+
+# Objects : [r1636400]
+# name:be: [Рыга - Мінск]
+msgid "Rīga - Minsk"
+msgstr ""
+
+# Objects : [r301832]
+# name:be: [Варшава - Масква]
+msgid "Warszawa - Moskva"
+msgstr ""
+
+# Objects : [r178482]
+# name:be: []
+msgid "ав Московский - НИИ Онкологии"
+msgstr ""
+
+# Objects : [r954655]
+# name:be: []
+msgid "ав Московский - Рогачевская"
+msgstr ""
+
+# Objects : [r178478]
+# name:be: []
+msgid "ав Московский - Тубдиспансер"
+msgstr ""
+
+# Objects : [r3739023]
+# name:be: [Аўтобус № 14 "ДС Усходняя - Сцяпянка"]
+msgid "Автобус № 14 "ДС Восточная - Степянка""
+msgstr ""
+
+# Objects : [r3744792]
+# name:be: [Аўтобус № 14 "Сцяпянка - ДС Усходняя"]
+msgid "Автобус № 14 "Степянка - ДС Восточная""
+msgstr ""
+
+# Objects : [r3779572]
+# name:be: [Аўтобус № 95 "ДС Калiноўскага - Сцяпянка"]
+msgid "Автобус № 95 "ДС Калиновского - Степянка""
+msgstr ""
+
+# Objects : [r3779789]
+# name:be: [Аўтобус № 95 "Сцяпянка - ДС Калiноўскага"]
+msgid "Автобус № 95 "Степянка - ДС Калиновского""
+msgstr ""
+
+# Objects : [r954695]
+# name:be: []
+msgid "Автовокзал "Московский" - Веснинка"
+msgstr ""
+
+# Objects : [r954629]
+# name:be: []
+msgid "Автовокзал "Московский" - Колодищанское кладбище"
+msgstr ""
+
+# Objects : [r75053]
+# name:be: []
+msgid "Автозаводская линия"
+msgstr ""
+
+# Objects : [r954710]
+# name:be: []
+msgid "Авторынок - ТД "Ждановичи""
+msgstr ""
+
+# Objects : [r954661, r954704]
+# name:be: []
+msgid "АС "Автозаводская" - Институт ядерной физики"
+msgstr ""
+
+# Objects : [r954576, r954595, r954618, r954637]
+# name:be: []
+msgid "АС "Автозаводская" - Сосны"
+msgstr ""
+
+# Objects : [r954570]
+# name:be: []
+msgid "АС "Автозаводская" - Стайки"
+msgstr ""
+
+# Objects : [r954575]
+# name:be: []
+msgid "АС "Автозаводская" - ТЦ Ома"
+msgstr ""
+
+# Objects : [r954566]
+# name:be: []
+msgid "АС "Автозаводская" - Чижовское кладбище"
+msgstr ""
+
+# Objects : [r954677, r954743]
+# name:be: []
+msgid "АС Автозаводская - Вокзал"
+msgstr ""
+
+# Objects : [r954583]
+# name:be: []
+msgid "АС Автозаводская - Гатово"
+msgstr ""
+
+# Objects : [r954746]
+# name:be: []
+msgid "АС Автозаводская - Дражня"
+msgstr ""
+
+# Objects : [r954732]
+# name:be: []
+msgid "АС Автозаводская  - Промзона Шабаны"
+msgstr ""
+
+# Objects : [r4486243]
+# name:be: []
+msgid "Велосипедная дорожка"
+msgstr ""
+
+# Objects : [r954568]
+# name:be: []
+msgid "Вокзал - Гатово"
+msgstr ""
+
+# Objects : [r954719]
+# name:be: []
+msgid "Вокзал - ДС Кунцевщина"
+msgstr ""
+
+# Objects : [r954745]
+# name:be: []
+msgid "Вокзал - ДС Масюковщина"
+msgstr ""
+
+# Objects : [r954679]
+# name:be: []
+msgid "Вокзал - Колядичи"
+msgstr ""
+
+# Objects : [r954600]
+# name:be: []
+msgid "Вокзал - Масюковщина"
+msgstr ""
+
+# Objects : [r954692]
+# name:be: []
+msgid "Вокзал - Степянка"
+msgstr ""
+
+# Objects : [r954703]
+# name:be: []
+msgid "Вокзал - Филиал БГУ"
+msgstr ""
+
+# Objects : [r73720]
+# name:be: []
+msgid "Вокзал - Червенский рынок"
+msgstr ""
+
+# Objects : [r2261116]
+# name:be: []
+msgid "Вторая велосипедная дорожка"
+msgstr ""
+
+# Objects : [r954634]
+# name:be: []
+msgid "Гаражи - ст. Аэрации"
+msgstr ""
+
+# Objects : [r295203]
+# name:be: []
+msgid "Городские автобусы г. Минска"
+msgstr ""
+
+# Objects : [r75961]
+# name:be: []
+msgid "Д/C Зелёный Луг — пр-т Независимости"
+msgstr ""
+
+# Objects : [r75937]
+# name:be: []
+msgid "Д/П Мясникова - Д/С Зелёный Луг"
+msgstr ""
+
+# Objects : [r75936]
+# name:be: []
+msgid "Д/П Мясникова - Д/С Озеро"
+msgstr ""
+
+# Objects : [r75918]
+# name:be: []
+msgid "Д/П Мясникова - Д/С Серебрянка"
+msgstr ""
+
+# Objects : [r75957]
+# name:be: []
+msgid "Д/П Мясникова - Р/К Октябрьская"
+msgstr ""
+
+# Objects : [r75847]
+# name:be: []
+msgid "Д/С Ангарская-4 - Аранская"
+msgstr ""
+
+# Objects : [r74375]
+# name:be: []
+msgid "Д/С Ангарская-4 - Вокзал"
+msgstr ""
+
+# Objects : [r954696]
+# name:be: []
+msgid "Д/С Ангарская-4 - Зеленый луг-3"
+msgstr ""
+
+# Objects : [r954592]
+# name:be: []
+msgid "д/с Ангарская-4 - Ландера"
+msgstr ""
+
+# Objects : [r75872]
+# name:be: []
+msgid "Д/С Ангарская-4 - ст.м. Могилевская"
+msgstr ""
+
+# Objects : [r75826]
+# name:be: []
+msgid "Д/С Веснянка - Вокзал"
+msgstr ""
+
+# Objects : [r386945]
+# name:be: [Д/С Вяснянка - Д/С Малiнаука-4]
+msgid "Д/С Веснянка - Д/С Малиновка-4"
+msgstr ""
+
+# Objects : [r954738]
+# name:be: []
+msgid "Д/С Дражня – ст.м. Пушкинская"
+msgstr ""
+
+# Objects : [r954662]
+# name:be: []
+msgid "Д/С Дражня - Чижовка-6"
+msgstr ""
+
+# Objects : [r75867]
+# name:be: []
+msgid "Д/С Дружная - Ж/д ст. «Минск-Южный"
+msgstr ""
+
+# Objects : [r954636]
+# name:be: []
+msgid "д/с Дружная - Ландера"
+msgstr ""
+
+# Objects : [r75870]
+# name:be: []
+msgid "Д/С Дружная - С.Ковалевской"
+msgstr ""
+
+# Objects : [r954609]
+# name:be: []
+msgid "Д/С Запад-3 - Бобруйская"
+msgstr ""
+
+# Objects : [r954752]
+# name:be: []
+msgid "Д/С Запад-3 - Городской вал"
+msgstr ""
+
+# Objects : [r949539]
+# name:be: []
+msgid "Д/С Зелёный Луг-6 - Д/С Уручье-4"
+msgstr ""
+
+# Objects : [r75919]
+# name:be: []
+msgid "Д/С Зелёный Луг - Д/С Серебрянка"
+msgstr ""
+
+# Objects : [r954713]
+# name:be: []
+msgid "Д/С Зеленый Луг - пл. Мясникова"
+msgstr ""
+
+# Objects : [r954697]
+# name:be: []
+msgid "д/с Калиновского - Липки"
+msgstr ""
+
+# Objects : [r954683]
+# name:be: []
+msgid "Д/С Калиновского - пл. Мясникова"
+msgstr ""
+
+# Objects : [r954627]
+# name:be: []
+msgid "Д/С Карастояновой - Д/С Юго-Запад"
+msgstr ""
+
+# Objects : [r954601]
+# name:be: []
+msgid "Д/С Карастояновой – ст.м. пл.Я.Коласа"
+msgstr ""
+
+# Objects : [r372266]
+# name:be: []
+msgid "Д/С Карбышева - Д/С Уручье 4"
+msgstr ""
+
+# Objects : [r173726]
+# name:be: []
+msgid "Д/С Карбышева - Зелёный Бор"
+msgstr ""
+
+# Objects : [r75882]
+# name:be: []
+msgid "Д/С Корженевского - Колядичи"
+msgstr ""
+
+# Objects : [r949535]
+# name:be: []
+msgid "Д/С Кульман - Уручье-2"
+msgstr ""
+
+# Objects : [r954648]
+# name:be: []
+msgid "Д/С Кунцевщина - Городской вал"
+msgstr ""
+
+# Objects : [r4456007]
+# name:be: []
+msgid "Д/С Кунцевщина - Д/С Малиновка-4"
+msgstr ""
+
+# Objects : [r954707]
+# name:be: []
+msgid "Д/С Кунцевщина - РК Лобанка"
+msgstr ""
+
+# Objects : [r954598]
+# name:be: []
+msgid "Д/С Кунцевщина - Семашко"
+msgstr ""
+
+# Objects : [r954579, r954616]
+# name:be: []
+msgid "Д/С Курасовщина - Д/С Дружная"
+msgstr ""
+
+# Objects : [r954606]
+# name:be: []
+msgid "Д/С Лермонтова - пл. Бангалор"
+msgstr ""
+
+# Objects : [r954744]
+# name:be: []
+msgid "Д/С Лермонтова - Червенский рынок"
+msgstr ""
+
+# Objects : [r4456009]
+# name:be: []
+msgid "Д/С Лошица-2 - Вокзал"
+msgstr ""
+
+# Objects : [r4456008]
+# name:be: []
+msgid "Д/С Лошица - Д/С Дражня"
+msgstr ""
+
+# Objects : [r954640]
+# name:be: []
+msgid "Д/С Малинина - Вокзал"
+msgstr ""
+
+# Objects : [r4456010]
+# name:be: []
+msgid "Д/С Малинина – Запорожская пл."
+msgstr ""
+
+# Objects : [r404040]
+# name:be: [Д/С Малінаўка-4 - А/В Усходнi]
+msgid "Д/С Малиновка-4 - А/В Восточный"
+msgstr ""
+
+# Objects : [r389427]
+# name:be: [Д/С Малінаўка-4 - Брылевiчы]
+msgid "Д/С Малиновка-4 - Брилевичи"
+msgstr ""
+
+# Objects : [r399864, r402249]
+# name:be: [Д/С Малінаўка-4 - Гарадскi Вал]
+msgid "Д/С Малиновка-4 - Городской Вал"
+msgstr ""
+
+# Objects : [r387389, r402010]
+# name:be: [Д/С Малінаўка-4 - Д/С Дружная]
+msgid "Д/С Малиновка-4 - Д/С Дружная"
+msgstr ""
+
+# Objects : [r74158]
+# name:be: [Д/С Малінаўка-4 - Д/С Зялёный луг-7]
+msgid "Д/С Малиновка-4 - Д/С Зеленый Луг"
+msgstr ""
+
+# Objects : [r391397]
+# name:be: [Д/С Малінаўка-4 - Д/С Кунцаўшчына]
+msgid "Д/С Малиновка-4 - Д/С Кунцевщина"
+msgstr ""
+
+# Objects : [r410144]
+# name:be: [Д/С Малінаўка-4 - Д/С Чыжоўка]
+msgid "Д/С Малиновка-4 - Д/С Чижовка"
+msgstr ""
+
+# Objects : [r398084]
+# name:be: [Д/С Малінаўка-4 - Сляпянка]
+msgid "Д/С Малиновка-4 - Слепянка"
+msgstr ""
+
+# Objects : [r386346, r387555]
+# name:be: [Д/С Малінаўка-4 - ст.м. Пятроўшчына]
+msgid "Д/С Малиновка-4 - ст.м. Петровщина"
+msgstr ""
+
+# Objects : [r4456011]
+# name:be: []
+msgid "Д/С Малиновка-4 - ст.м. Пушкинская"
+msgstr ""
+
+# Objects : [r954688]
+# name:be: []
+msgid "Д/С Масюковщина - Академическая"
+msgstr ""
+
+# Objects : [r954749]
+# name:be: []
+msgid "Д/С Масюковщина-Бобруйская"
+msgstr ""
+
+# Objects : [r954747]
+# name:be: []
+msgid "Д/С Масюковщина - Городской вал"
+msgstr ""
+
+# Objects : [r954624]
+# name:be: []
+msgid "Д/С Одоевского - Бобруйская"
+msgstr ""
+
+# Objects : [r954645]
+# name:be: []
+msgid "Д/С Одоевского - Дом кино"
+msgstr ""
+
+# Objects : [r75939]
+# name:be: []
+msgid "Д/С Озеро - Д/С Зелёный Луг"
+msgstr ""
+
+# Objects : [r75920]
+# name:be: []
+msgid "Д/С Озеро - Д/С Серебрянка"
+msgstr ""
+
+# Objects : [r75958]
+# name:be: []
+msgid "Д/с Озеро — пл. З. Бядули"
+msgstr ""
+
+# Objects : [r75893, r954686]
+# name:be: []
+msgid "Д/С Серебрянка - Вокзал"
+msgstr ""
+
+# Objects : [r75941]
+# name:be: []
+msgid "Д/С Серебрянка - Д/С Волгоградская"
+msgstr ""
+
+# Objects : [r954728]
+# name:be: []
+msgid "Д/С Серебрянка - Д/С Курасовщина"
+msgstr ""
+
+# Objects : [r954574]
+# name:be: []
+msgid "Д/С Серебрянка - Круглая пл."
+msgstr ""
+
+# Objects : [r954702]
+# name:be: []
+msgid "Д/С Серебрянка - Червенский рынок"
+msgstr ""
+
+# Objects : [r954651]
+# name:be: []
+msgid "Д/С Серова - Д/С Дружная"
+msgstr ""
+
+# Objects : [r954675]
+# name:be: []
+msgid "Д/С Серова - Долгобродская"
+msgstr ""
+
+# Objects : [r954693]
+# name:be: []
+msgid "д/с Славинского - Аэропорт "Минск-1""
+msgstr ""
+
+# Objects : [r946564]
+# name:be: []
+msgid "Д/С Славинского - Военная Академия"
+msgstr ""
+
+# Objects : [r954653]
+# name:be: []
+msgid "Д/С Славинского - Д/С Серебрянка"
+msgstr ""
+
+# Objects : [r954635]
+# name:be: []
+msgid "Д/С Славинского - Д/С Сухарево-5"
+msgstr ""
+
+# Objects : [r954582]
+# name:be: []
+msgid "Д/С Сухарево-5 - Бобруйская"
+msgstr ""
+
+# Objects : [r954603]
+# name:be: []
+msgid "Д/С Сухарево-5 - Городской вал"
+msgstr ""
+
+# Objects : [r954691]
+# name:be: []
+msgid "Д/С Сухарево-5 – ст.м. Институт культуры"
+msgstr ""
+
+# Objects : [r954632]
+# name:be: []
+msgid "Д/С Уручье-2 - Академическая"
+msgstr ""
+
+# Objects : [r4456014]
+# name:be: []
+msgid "Д/С Уручье-2 - Д/С Зелёный луг-7"
+msgstr ""
+
+# Objects : [r954584]
+# name:be: []
+msgid "Д/С Уручье-2 - Д/С Малинина"
+msgstr ""
+
+# Objects : [r954590]
+# name:be: []
+msgid "Д/С Уручье-2 - Д/С Уручье-4"
+msgstr ""
+
+# Objects : [r954730]
+# name:be: []
+msgid "Д/С Уручье-4 - Д/С Дражня"
+msgstr ""
+
+# Objects : [r954678]
+# name:be: []
+msgid "Д/С Уручье-4 - пл. Мясникова"
+msgstr ""
+
+# Objects : [r954705]
+# name:be: []
+msgid "Д/С Чижовка-1 - Вокзал"
+msgstr ""
+
+# Objects : [r954664]
+# name:be: []
+msgid "Д/С Чижовка-1 - О.Кошевого"
+msgstr ""
+
+# Objects : [r954659]
+# name:be: []
+msgid "Д/С Чижовка-1 - ст.м. Автозаводская"
+msgstr ""
+
+# Objects : [r75850]
+# name:be: []
+msgid "Д/С Чижовка - Ж/д ст. «Минск-Южный»"
+msgstr ""
+
+# Objects : [r75903]
+# name:be: []
+msgid "Д/С Шабаны - Серебрянка-9"
+msgstr ""
+
+# Objects : [r954736]
+# name:be: []
+msgid "Д/С Юго-Запад – Д/С Дружная"
+msgstr ""
+
+# Objects : [r954720]
+# name:be: []
+msgid "Д/С Юго-Запад - Д/С Серебрянка"
+msgstr ""
+
+# Objects : [r954670]
+# name:be: []
+msgid "Д/С Юго-Запад - Саперов"
+msgstr ""
+
+# Objects : [r954717]
+# name:be: []
+msgid "ДС Ангарская-4 - ДС Ждановичи"
+msgstr ""
+
+# Objects : [r954742]
+# name:be: []
+msgid "ДС Ангарская-4 - ДС Чижовка"
+msgstr ""
+
+# Objects : [r954657]
+# name:be: []
+msgid "ДС Ангарская-4 - Запорожская пл."
+msgstr ""
+
+# Objects : [r954700]
+# name:be: []
+msgid "ДС Ангарская-4 - Сосновый Бор"
+msgstr ""
+
+# Objects : [r954578]
+# name:be: []
+msgid "ДС Ангарская-4 - ст. м. Академия наук"
+msgstr ""
+
+# Objects : [r954706]
+# name:be: []
+msgid "ДС Ангарская-4 - ст. м. Тракторный завод"
+msgstr ""
+
+# Objects : [r954689]
+# name:be: []
+msgid "ДС Веснянка - Сухарево-6"
+msgstr ""
+
+# Objects : [r954591, r954663]
+# name:be: [ДС Усходняя - Навінкі]
+msgid "ДС Восточная - Новинки"
+msgstr ""
+
+# Objects : [r954617]
+# name:be: []
+msgid "ДС Восточная - Семашко"
+msgstr ""
+
+# Objects : [r954711]
+# name:be: [ДС Усходняя - Шчадрына]
+msgid "ДС Восточная - Щедрина"
+msgstr ""
+
+# Objects : [r954654]
+# name:be: []
+msgid "ДС Дружная - Брилевичи"
+msgstr ""
+
+# Objects : [r954699]
+# name:be: []
+msgid "ДС Дружная - Водоочистительная станция"
+msgstr ""
+
+# Objects : [r954723]
+# name:be: []
+msgid "ДС Дружная - Заславская"
+msgstr ""
+
+# Objects : [r954275, r954276]
+# name:be: []
+msgid "ДС Дружная - Малиновка-8"
+msgstr ""
+
+# Objects : [r954599]
+# name:be: []
+msgid "ДС Дружная - Минскрыбпром"
+msgstr ""
+
+# Objects : [r178471]
+# name:be: [д/с Дружная - Тубдыспансэр]
+msgid "ДС Дружная - Тубдиспансер"
+msgstr ""
+
+# Objects : [r945874]
+# name:be: []
+msgid "ДС Дружная - ул. Воронянского"
+msgstr ""
+
+# Objects : [r954673]
+# name:be: []
+msgid "ДС Дружная - Филиал БГУ"
+msgstr ""
+
+# Objects : [r74453]
+# name:be: []
+msgid "ДС Запад-3 - Академия наук"
+msgstr ""
+
+# Objects : [r954646]
+# name:be: []
+msgid "ДС Запад-3 - ДС Кунцевщина"
+msgstr ""
+
+# Objects : [r954638]
+# name:be: []
+msgid "ДС Запад-3 - Западное кладбище"
+msgstr ""
+
+# Objects : [r954577]
+# name:be: []
+msgid "дс Запад-3 - Каменная горка-5"
+msgstr ""
+
+# Objects : [r954613]
+# name:be: []
+msgid "ДС Запад-3 - Оптовый рынок"
+msgstr ""
+
+# Objects : [r954267]
+# name:be: []
+msgid "ДС Запад-3 - ТЦ Ждановичи"
+msgstr ""
+
+# Objects : [r954671]
+# name:be: []
+msgid "ДС Зелёный Луг-6 - АС "Автозаводская""
+msgstr ""
+
+# Objects : [r954676]
+# name:be: []
+msgid "ДС Зелёный Луг-6 - Воронянского"
+msgstr ""
+
+# Objects : [r954682]
+# name:be: []
+msgid "ДС Зелёный Луг-6 - Макаёнка"
+msgstr ""
+
+# Objects : [r954712]
+# name:be: []
+msgid "ДС Калиновского - пер. Геологический"
+msgstr ""
+
+# Objects : [r954751]
+# name:be: []
+msgid "ДС Калиновского - ст. м. Парк Челюскинцев"
+msgstr ""
+
+# Objects : [r954642]
+# name:be: []
+msgid "ДС Карастояновой - Городок"
+msgstr ""
+
+# Objects : [r954753]
+# name:be: []
+msgid "ДС Карастояновой - ДС Дружная"
+msgstr ""
+
+# Objects : [r954748]
+# name:be: []
+msgid "ДС Карастояновой - Зацень"
+msgstr ""
+
+# Objects : [r954685]
+# name:be: []
+msgid "ДС Карастояновой - Колодищанское кладбище"
+msgstr ""
+
+# Objects : [r954630]
+# name:be: []
+msgid "ДС Карастояновой - Оздоровительный центр Ждановичи"
+msgstr ""
+
+# Objects : [r954620]
+# name:be: []
+msgid "ДС Карастояновой - Слепянка"
+msgstr ""
+
+# Objects : [r954641]
+# name:be: []
+msgid "ДС Карастояновой - ст. Ждановичи"
+msgstr ""
+
+# Objects : [r954716]
+# name:be: []
+msgid "ДС Карастояновой - Цнянка"
+msgstr ""
+
+# Objects : [r954596]
+# name:be: []
+msgid "ДС Карастояновой - Щедрина"
+msgstr ""
+
+# Objects : [r954680, r954687]
+# name:be: []
+msgid "ДС Карбышева - 1-е ворота"
+msgstr ""
+
+# Objects : [r954569]
+# name:be: []
+msgid "ДС Карбышева - ДС Восточная"
+msgstr ""
+
+# Objects : [r954656]
+# name:be: []
+msgid "ДС Карбышева - Маневича"
+msgstr ""
+
+# Objects : [r954701]
+# name:be: []
+msgid "ДС КАРБЫШЕВА - Рогачевская"
+msgstr ""
+
+# Objects : [r954674]
+# name:be: []
+msgid "ДС Карбышева - С. Ковалевской"
+msgstr ""
+
+# Objects : [r954722]
+# name:be: []
+msgid "ДС Карбышева - Цна-2"
+msgstr ""
+
+# Objects : [r954740]
+# name:be: []
+msgid "ДС Кунцевщина - Водоочистительная станция"
+msgstr ""
+
+# Objects : [r954626, r954715]
+# name:be: []
+msgid "ДС Кунцевщина - Корженевского"
+msgstr ""
+
+# Objects : [r954572]
+# name:be: []
+msgid "ДС Кунцевщина - Кульман"
+msgstr ""
+
+# Objects : [r954668]
+# name:be: []
+msgid "ДС Кунцевщина - Ландера"
+msgstr ""
+
+# Objects : [r954280]
+# name:be: []
+msgid "ДС Кунцевщина - Малиновка-8"
+msgstr ""
+
+# Objects : [r954611]
+# name:be: []
+msgid "ДС Кунцевщина - пос. Кунцевщина"
+msgstr ""
+
+# Objects : [r954698]
+# name:be: []
+msgid "ДС Кунцевщина - промузел "Западный""
+msgstr ""
+
+# Objects : [r954589]
+# name:be: []
+msgid "ДС Кунцевщина - С. Ковалевской"
+msgstr ""
+
+# Objects : [r954726]
+# name:be: []
+msgid "ДС Курасовщина - ДС Дружная"
+msgstr ""
+
+# Objects : [r954265]
+# name:be: []
+msgid "ДС Лошица-2 - Берута"
+msgstr ""
+
+# Objects : [r954684]
+# name:be: []
+msgid "ДС Лошица-2 - Вокзал"
+msgstr ""
+
+# Objects : [r954586]
+# name:be: []
+msgid "ДС Лошица-2 - Городской вал"
+msgstr ""
+
+# Objects : [r954272]
+# name:be: []
+msgid "ДС Лошица-2 - пл. Независимости"
+msgstr ""
+
+# Objects : [r954588]
+# name:be: []
+msgid "ДС Лошица-2 - ст. м. ст.м. Могилёвская"
+msgstr ""
+
+# Objects : [r954602]
+# name:be: []
+msgid "ДС Малиновка-4 - Сенница"
+msgstr ""
+
+# Objects : [r954278]
+# name:be: []
+msgid "ДС Малиновка-4 - ст. м. Тракторный завод"
+msgstr ""
+
+# Objects : [r954580]
+# name:be: []
+msgid "ДС Масюковщина - С. Ковалевской"
+msgstr ""
+
+# Objects : [r954708]
+# name:be: []
+msgid "ДС Маяковского - Вокзал"
+msgstr ""
+
+# Objects : [r954597, r954633]
+# name:be: []
+msgid "ДС Маяковского - Дражня"
+msgstr ""
+
+# Objects : [r954261]
+# name:be: []
+msgid "ДС Одоевского - ДС Ждановичи"
+msgstr ""
+
+# Objects : [r954625]
+# name:be: []
+msgid "ДС Одоевского- Каменная Горка-5"
+msgstr ""
+
+# Objects : [r954660]
+# name:be: []
+msgid "ДС Серебрянка - Дражня"
+msgstr ""
+
+# Objects : [r954264]
+# name:be: []
+msgid "ДС Серебрянка - ДС Дружная"
+msgstr ""
+
+# Objects : [r954571]
+# name:be: []
+msgid "ДС Серебрянка - ДС Ждановичи"
+msgstr ""
+
+# Objects : [r954658]
+# name:be: []
+msgid "ДС Серебрянка - Корженевского"
+msgstr ""
+
+# Objects : [r954681]
+# name:be: []
+msgid "ДС Серебрянка - ст. м. Тракторный завод"
+msgstr ""
+
+# Objects : [r954737]
+# name:be: []
+msgid "ДС Серова - Городской вал"
+msgstr ""
+
+# Objects : [r954581]
+# name:be: []
+msgid "ДС Серова - ДС Веснянка"
+msgstr ""
+
+# Objects : [r954607]
+# name:be: []
+msgid "ДС Серова - ДС Дружная"
+msgstr ""
+
+# Objects : [r954667]
+# name:be: []
+msgid "ДС Уручье-2 - ДС Ждановичи"
+msgstr ""
+
+# Objects : [r954739]
+# name:be: []
+msgid "ДС Уручье-2 - ДС Уручье-4"
+msgstr ""
+
+# Objects : [r954631]
+# name:be: []
+msgid "ДС Уручье-2 - Колодищанское кладбище"
+msgstr ""
+
+# Objects : [r949537]
+# name:be: []
+msgid "ДС Уручье-2 - Макаёнка"
+msgstr ""
+
+# Objects : [r1467415]
+# name:be: []
+msgid "ДС Уручье-2 - ст.Колодищи"
+msgstr ""
+
+# Objects : [r954594]
+# name:be: []
+msgid "ДС Уручье-4 - Академгородок"
+msgstr ""
+
+# Objects : [r954734]
+# name:be: []
+msgid "ДС Уручье-4 - Военная Академия"
+msgstr ""
+
+# Objects : [r954714, r954741]
+# name:be: []
+msgid "ДС Уручье-4 - Сухорукие"
+msgstr ""
+
+# Objects : [r954282]
+# name:be: []
+msgid "ДС Чижовка - Авторынок"
+msgstr ""
+
+# Objects : [r954729]
+# name:be: []
+msgid "ДС Чижовка - Гатово"
+msgstr ""
+
+# Objects : [r954718]
+# name:be: []
+msgid "ДС Чижовка - ДС Ангарская-4"
+msgstr ""
+
+# Objects : [r954690]
+# name:be: []
+msgid "ДС Чижовка - Колядичи"
+msgstr ""
+
+# Objects : [r954721]
+# name:be: []
+msgid "ДС Чижовка - Кульман"
+msgstr ""
+
+# Objects : [r954622]
+# name:be: []
+msgid "ДС Чижовка - Ландера"
+msgstr ""
+
+# Objects : [r954665]
+# name:be: []
+msgid "ДС Чижовка - Михановичи (кладбище)"
+msgstr ""
+
+# Objects : [r954652]
+# name:be: []
+msgid "ДС Чижовка - ст. м. Академия наук"
+msgstr ""
+
+# Objects : [r954666]
+# name:be: []
+msgid "ДС Шабаны - АС "Автозаводская""
+msgstr ""
+
+# Objects : [r954608]
+# name:be: []
+msgid "ДС Шабаны - Аэропорт Минск-1"
+msgstr ""
+
+# Objects : [r4460779]
+# name:be: []
+msgid "ДС Шабаны - Ландера"
+msgstr ""
+
+# Objects : [r954644]
+# name:be: []
+msgid "ДС Школа - Вокзал"
+msgstr ""
+
+# Objects : [r954259]
+# name:be: []
+msgid "ДС Юго-Запад - ДС Дружная"
+msgstr ""
+
+# Objects : [r954273]
+# name:be: []
+msgid "ДС Юго-Запад - Масюковщина"
+msgstr ""
+
+# Objects : [r214487]
+# name:be: []
+msgid "Европейский маршрут E 271"
+msgstr ""
+
+# Objects : [r3795964]
+# name:be: []
+msgid "Зелёный луг"
+msgstr ""
+
+# Objects : [r954733]
+# name:be: []
+msgid "Каменная Горка-4 - Сухарево-6"
+msgstr ""
+
+# Objects : [r176497]
+# name:be: []
+msgid "Кольцевая дорога вокруг г. Минска"
+msgstr ""
+
+# Objects : [r954672]
+# name:be: []
+msgid "Красный Бор - Корженевского"
+msgstr ""
+
+# Objects : [r954573]
+# name:be: []
+msgid "Красный Бор - Республиканский центр тенниса"
+msgstr ""
+
+# Objects : [r954669]
+# name:be: []
+msgid "Малиновка-8 - ДС Серова"
+msgstr ""
+
+# Objects : [r2072095]
+# name:be: []
+msgid "Марьина Горка - Минск"
+msgstr ""
+
+# Objects : [r954262]
+# name:be: []
+msgid "Масюковщина - ДС Одоевского"
+msgstr ""
+
+# Objects : [r954614]
+# name:be: []
+msgid "Масюковщина - Корженевского"
+msgstr ""
+
+# Objects : [r1664226]
+# name:be: []
+msgid "Минская велосипедная дорожка"
+msgstr ""
+
+# Objects : [r164796]
+# name:be: []
+msgid "Минск — Витебск"
+msgstr ""
+
+# Objects : [r165064]
+# name:be: []
+msgid "Минск — Гомель"
+msgstr ""
+
+# Objects : [r158244]
+# name:be: []
+msgid "Минск — Гродно — граница Республики Польша (Брузги)"
+msgstr ""
+
+# Objects : [r2569928]
+# name:be: []
+msgid "Минск — Дзержинск"
+msgstr ""
+
+# Objects : [r2796767]
+# name:be: []
+msgid "Минск — Калачи — Мядель"
+msgstr ""
+
+# Objects : [r2072096]
+# name:be: []
+msgid "Минск - Марьина Горка"
+msgstr ""
+
+# Objects : [r176487]
+# name:be: []
+msgid "Минск — Микашевичи"
+msgstr ""
+
+# Objects : [r164800]
+# name:be: []
+msgid "Минск — Могилёв"
+msgstr ""
+
+# Objects : [r2796640]
+# name:be: []
+msgid "Минск — Молодечно — Нарочь"
+msgstr ""
+
+# Objects : [r159001]
+# name:be: []
+msgid "Минск — Национальный аэропорт Минск"
+msgstr ""
+
+# Objects : [r164792]
+# name:be: []
+msgid "Минск — Ошмяны — граница Литовской Республики (Каменный Лог)"
+msgstr ""
+
+# Objects : [r4523750]
+# name:be: []
+msgid "Минск-Руденск"
+msgstr ""
+
+# Objects : [r75031]
+# name:be: [Маскоўская лінія]
+msgid "Московская линия"
+msgstr ""
+
+# Objects : [r954605]
+# name:be: []
+msgid "Партизанский - Селицкого"
+msgstr ""
+
+# Objects : [r954281, r954283]
+# name:be: []
+msgid "Партизанский - Сокол"
+msgstr ""
+
+# Objects : [r954623]
+# name:be: []
+msgid "Партизанский - Электродепо "Могилёвское""
+msgstr ""
+
+# Objects : [r75902]
+# name:be: []
+msgid "Серебрянка-9 - ЖБИ"
+msgstr ""
+
+# Objects : [r3793198]
+# name:be: []
+msgid "Славинского АС - Логойск АС №351"
+msgstr ""
+
+# Objects : [r954649]
+# name:be: []
+msgid "ст. м. Тракторный завод - Степянка"
+msgstr ""
+
+# Objects : [r3710868]
+# name:be: []
+msgid "Степянка - ст.м.Тракторный завод"
+msgstr ""
+
+# Objects : [r74049]
+# name:be: []
+msgid "Сухарево-6 - Д/С "Кунцевщина""
+msgstr ""
+
+# Objects : [r74251]
+# name:be: []
+msgid "Сухарево-6 - Д/С Дружная"
+msgstr ""
+
+# Objects : [r73890]
+# name:be: []
+msgid "Сухарево-6 - ТД "Ждановичи""
+msgstr ""
+
+# Objects : [r295202]
+# name:be: []
+msgid "Трамвай г. Минска"
+msgstr ""
+
+# Objects : [r295204]
+# name:be: []
+msgid "Троллейбусы г. Минска"
+msgstr ""
+
+# Objects : [r954650]
+# name:be: []
+msgid "ТЦ Ждановичи - ДС Дружная"
+msgstr ""
+
+# Objects : [r954270]
+# name:be: []
+msgid "ТЦ Ждановичи - Сухарево-6"
+msgstr ""
+
+# Objects : [r3824589]
+# name:be: []
+msgid "эл. Минск - Молодечно"
+msgstr ""
+
+# Objects : [r954735]
+# name:be: []
+msgid "Юго-Запад - С. Ковалевской"
+msgstr ""
+

@@ -1,0 +1,175 @@
+# Objects : [w215388277]
+# name:be: []
+msgid "больница"
+msgstr ""
+
+# Objects : [w25184625, w25189092]
+# name:be: []
+msgid "Вихра"
+msgstr ""
+
+# Objects : [w319027746]
+# name:be: []
+msgid "газопровод"
+msgstr ""
+
+# Objects : [w232531482]
+# name:be: []
+msgid "ГРС    ХОДОСЫ"
+msgstr ""
+
+# Objects : [n243045689, w25079621]
+# name:be: [Забалацце]
+msgid "Жолоб"
+msgstr ""
+
+# Objects : [w75658489]
+# name:be: []
+msgid "ЗАБОЛОТСКОЕ"
+msgstr ""
+
+# Objects : [n2788680492]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Илии"
+msgstr ""
+
+# Objects : [w212723134]
+# name:be: []
+msgid "КЗС, ферма"
+msgstr ""
+
+# Objects : [w213350074]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n243045322]
+# name:be: []
+msgid "Князищево"
+msgstr ""
+
+# Objects : [n679531102]
+# name:be: []
+msgid "Коськово-Клюкино"
+msgstr ""
+
+# Objects : [w213350076]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w210195036]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w215388439, w215519463]
+# name:be: []
+msgid "котельная ЖКХ"
+msgstr ""
+
+# Objects : [w217124688, w232518125]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w230178017]
+# name:be: []
+msgid "Кошанка"
+msgstr ""
+
+# Objects : [w210195037, w213088335, w213350078, w215517213, w215519464]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w215519461]
+# name:be: []
+msgid "Машиный двор"
+msgstr ""
+
+# Objects : [w212723136]
+# name:be: []
+msgid "механические мастерские Лютня"
+msgstr ""
+
+# Objects : [w75658559]
+# name:be: []
+msgid "Михайловской"
+msgstr ""
+
+# Objects : [w214705050]
+# name:be: []
+msgid "Мишнянское кладбище"
+msgstr ""
+
+# Objects : [w274735374]
+# name:be: []
+msgid "МН "Дружба""
+msgstr ""
+
+# Objects : [n2788682960]
+# name:be: [Манастыр Успення Прасвятой Багародзіцы]
+msgid "Монастырь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w75658469]
+# name:be: []
+msgid "Офицерское"
+msgstr ""
+
+# Objects : [w75658513]
+# name:be: []
+msgid "РАКИТЕНСКОЕ"
+msgstr ""
+
+# Objects : [r77646]
+# name:be: []
+msgid "Сож"
+msgstr ""
+
+# Objects : [w213350072]
+# name:be: []
+msgid "СПК"
+msgstr ""
+
+# Objects : [w212723137]
+# name:be: []
+msgid "спортивная площадка"
+msgstr ""
+
+# Objects : [w212723138]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [w212723139]
+# name:be: []
+msgid "фермы"
+msgstr ""
+
+# Objects : [n306068366]
+# name:be: [Ходасы]
+msgid "Ходосы"
+msgstr ""
+
+# Objects : [n2788687365, n2788687366, n2788687367]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686548]
+# name:be: [Царква Святога Ануфрыя]
+msgid "Церковь Святого Онуфрия"
+msgstr ""
+
+# Objects : [n2788687266]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w103308355]
+# name:be: []
+msgid "Шумяничи"
+msgstr ""
+

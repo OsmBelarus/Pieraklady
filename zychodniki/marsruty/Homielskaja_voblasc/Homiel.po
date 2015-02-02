@@ -1,0 +1,95 @@
+# Objects : [r2314106]
+# name:be: []
+msgid "European route E 95"
+msgstr ""
+
+# Objects : [r1309936]
+# name:be: []
+msgid "Больница Химзавода — Уза"
+msgstr ""
+
+# Objects : [r1757305]
+# name:be: []
+msgid "Брест - Гомель - Москва"
+msgstr ""
+
+# Objects : [r2790173]
+# name:be: []
+msgid "Гомель — аэропорт Гомель"
+msgstr ""
+
+# Objects : [r2789931]
+# name:be: []
+msgid "Гомель — Ветка — Чечерск — Ямное"
+msgstr ""
+
+# Objects : [r2270270]
+# name:be: [Гомель - Добруш]
+msgid "Гомель - Добруш"
+msgstr ""
+
+# Objects : [r1309937]
+# name:be: []
+msgid "Гомель — Зябровка — Прибытки"
+msgstr ""
+
+# Objects : [r2270271]
+# name:be: [Гомель - Клёнкі - Гомель]
+msgid "Гомель - Клёнки - Гомель"
+msgstr ""
+
+# Objects : [r214493]
+# name:be: []
+msgid "Граница Российской Федерации (Езерище) — Витебск — Гомель — граница Украины (Новая Гута)"
+msgstr ""
+
+# Objects : [r2270272]
+# name:be: [Добруш - Гомель]
+msgid "Добруш - Гомель"
+msgstr ""
+
+# Objects : [r214487]
+# name:be: []
+msgid "Европейский маршрут E 271"
+msgstr ""
+
+# Objects : [r165064]
+# name:be: []
+msgid "Минск — Гомель"
+msgstr ""
+
+# Objects : [r1309941]
+# name:be: []
+msgid "Новобелица — Кленки — Рудня Споницкая"
+msgstr ""
+
+# Objects : [r1309978]
+# name:be: []
+msgid "Новобелица — Ченки (до М8)"
+msgstr ""
+
+# Objects : [r1309939]
+# name:be: []
+msgid "Северо–Западный обход Гомеля"
+msgstr ""
+
+# Objects : [r2270170]
+# name:be: [Тралейбус № 1: Вакзал - Гідрапрывод]
+msgid "Троллейбус № 1: Вокзал - Гидропривод"
+msgstr ""
+
+# Objects : [r2270171]
+# name:be: [Тралейбус № 1: Гідрапрывод - Вакзал]
+msgid "Троллейбус № 1: Гидропривод - Вокзал"
+msgstr ""
+
+# Objects : [r2789938]
+# name:be: []
+msgid "Хутор (от подъезда к г. Гомелю) — Гомель (до ул. Мележа)"
+msgstr ""
+
+# Objects : [r1309943]
+# name:be: []
+msgid "Центролит — Урицкое — Уваровичи"
+msgstr ""
+

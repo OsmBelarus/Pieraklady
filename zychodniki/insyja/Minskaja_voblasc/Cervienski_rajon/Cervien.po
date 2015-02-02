@@ -1,0 +1,110 @@
+# Objects : [n1423170905]
+# name:be: []
+msgid "Velcom"
+msgstr ""
+
+# Objects : [w130414849]
+# name:be: []
+msgid "Автопарк"
+msgstr ""
+
+# Objects : [n1436420558]
+# name:be: []
+msgid "Барыкин"
+msgstr ""
+
+# Objects : [n3178318138]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w129304506]
+# name:be: []
+msgid "Деревообрабатывающий комбинат"
+msgstr ""
+
+# Objects : [n817798558]
+# name:be: [Дзіцячы дом]
+msgid "Детский дом"
+msgstr ""
+
+# Objects : [n1511423703]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w71152503]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [w128792696]
+# name:be: []
+msgid "Колхозный рынок"
+msgstr ""
+
+# Objects : [n1458852482]
+# name:be: [Ленін]
+msgid "Ленин"
+msgstr ""
+
+# Objects : [n1192542656]
+# name:be: []
+msgid "Лесное Хозяйство"
+msgstr ""
+
+# Objects : [n1423170906]
+# name:be: [МТС]
+msgid "МТС"
+msgstr ""
+
+# Objects : [n826296486]
+# name:be: []
+msgid "Памятник"
+msgstr ""
+
+# Objects : [n817798550]
+# name:be: [Пажарная частка]
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w130123073]
+# name:be: []
+msgid "ПТУ-80"
+msgstr ""
+
+# Objects : [n817766938]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [n817766919]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n1921519125]
+# name:be: []
+msgid "Рюмочная"
+msgstr ""
+
+# Objects : [n1458852480, n2984514760]
+# name:be: []
+msgid "Станислав Монюшко"
+msgstr ""
+
+# Objects : [n1559605347]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w130409978]
+# name:be: []
+msgid "фонтан на Площади"
+msgstr ""
+
+# Objects : [n1511925714]
+# name:be: []
+msgid "Червенский РОВД"
+msgstr ""
+

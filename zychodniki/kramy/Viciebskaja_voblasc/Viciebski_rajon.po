@@ -1,0 +1,85 @@
+# Objects : [n2541657622]
+# name:be: []
+msgid "Chevrolet, Lada"
+msgstr ""
+
+# Objects : [n2541657610]
+# name:be: []
+msgid "Ford"
+msgstr ""
+
+# Objects : [n2541657625]
+# name:be: []
+msgid "Great Wall, Chery"
+msgstr ""
+
+# Objects : [n2541657614]
+# name:be: []
+msgid "Kia"
+msgstr ""
+
+# Objects : [n2541657620]
+# name:be: []
+msgid "Mitsubishi"
+msgstr ""
+
+# Objects : [n2541657618]
+# name:be: []
+msgid "Škoda"
+msgstr ""
+
+# Objects : [n2541657605]
+# name:be: []
+msgid "UAZ"
+msgstr ""
+
+# Objects : [n2541657577]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1928899032]
+# name:be: []
+msgid "Автосервис"
+msgstr ""
+
+# Objects : [n1301841767]
+# name:be: [База ў Кастрычніцкім. Рамонт маршрутак]
+msgid "База в октябрьском ремонт маршруток"
+msgstr ""
+
+# Objects : [n2919479467]
+# name:be: []
+msgid "Магазин одежды"
+msgstr ""
+
+# Objects : [n1854017317]
+# name:be: []
+msgid "Мехдвор"
+msgstr ""
+
+# Objects : [n1537169316, n2919479472]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2919479474]
+# name:be: []
+msgid "Промтовары"
+msgstr ""
+
+# Objects : [n488580529]
+# name:be: [СТА]
+msgid "СТО"
+msgstr ""
+
+# Objects : [n306066273]
+# name:be: [Гандлёвы цэнтр]
+msgid "Торговый Центр"
+msgstr ""
+
+# Objects : [n1928899039, n2494769763, n2727427653]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+

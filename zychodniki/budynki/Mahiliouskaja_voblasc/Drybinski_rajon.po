@@ -1,0 +1,230 @@
+# Objects : [w219368623]
+# name:be: []
+msgid "10а"
+msgstr ""
+
+# Objects : [w219368617]
+# name:be: []
+msgid "10б"
+msgstr ""
+
+# Objects : [w219370413]
+# name:be: []
+msgid "14а"
+msgstr ""
+
+# Objects : [w219370449]
+# name:be: []
+msgid "16а"
+msgstr ""
+
+# Objects : [w219371252]
+# name:be: []
+msgid "21/1 - 21/2"
+msgstr ""
+
+# Objects : [w219368632]
+# name:be: []
+msgid "22а"
+msgstr ""
+
+# Objects : [w213120365, w219371247, w236695811]
+# name:be: []
+msgid "2а"
+msgstr ""
+
+# Objects : [w213120405]
+# name:be: []
+msgid "2б"
+msgstr ""
+
+# Objects : [w213120387]
+# name:be: []
+msgid "2в"
+msgstr ""
+
+# Objects : [w218409188]
+# name:be: []
+msgid "35а"
+msgstr ""
+
+# Objects : [w219371239]
+# name:be: []
+msgid "4/1 - 4/2"
+msgstr ""
+
+# Objects : [w217925768]
+# name:be: []
+msgid "43"
+msgstr ""
+
+# Objects : [w219371246]
+# name:be: []
+msgid "7а"
+msgstr ""
+
+# Objects : [w213120369]
+# name:be: []
+msgid "7 Почта"
+msgstr ""
+
+# Objects : [w219372512, w233368072]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [w236674273]
+# name:be: []
+msgid "Ангар"
+msgstr ""
+
+# Objects : [w237482667]
+# name:be: []
+msgid "Банк"
+msgstr ""
+
+# Objects : [w211415248]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [r3291532]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w218409162, w218409195]
+# name:be: []
+msgid "Гостинница"
+msgstr ""
+
+# Objects : [w273228414]
+# name:be: []
+msgid "ГРС-Дрибин"
+msgstr ""
+
+# Objects : [w237481192]
+# name:be: []
+msgid "Дет Сад"
+msgstr ""
+
+# Objects : [w236680710]
+# name:be: []
+msgid "Дет - Сад"
+msgstr ""
+
+# Objects : [w213059828]
+# name:be: []
+msgid "Дет Сад 1"
+msgstr ""
+
+# Objects : [w211423839]
+# name:be: []
+msgid "Детсад - ясли"
+msgstr ""
+
+# Objects : [w236680711]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w217936709, w217936723, w217936758, w236685173]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [w217936765]
+# name:be: []
+msgid "ЖКХ Котельная"
+msgstr ""
+
+# Objects : [w237504420, w237504421, w237504423]
+# name:be: []
+msgid "Интернат"
+msgstr ""
+
+# Objects : [w219368626]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w233485561]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w251115858]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w211078673]
+# name:be: []
+msgid "Коровчинский сельский совет"
+msgstr ""
+
+# Objects : [w209998374]
+# name:be: []
+msgid "маг.-лар."
+msgstr ""
+
+# Objects : [w211078685]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w213059825, w218409160, w219368602, w219492873, w220314773, w236057649, w236680712, w237480179, w237487985, w237487986, w243410848, w251122270]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w213120377]
+# name:be: []
+msgid "МИР"
+msgstr ""
+
+# Objects : [w218410714]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w219493495, w237487987]
+# name:be: []
+msgid "Сель Совет"
+msgstr ""
+
+# Objects : [w213120418, w219368601]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w251321430]
+# name:be: []
+msgid "Сушилка"
+msgstr ""
+
+# Objects : [w217936704]
+# name:be: []
+msgid "Торговый центр"
+msgstr ""
+
+# Objects : [w217936703, w217936781, w236695806, w237381991]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w213059826]
+# name:be: []
+msgid "ФАП 3"
+msgstr ""
+
+# Objects : [w220314774, w236168002, w236168003, w236168004, w236168005]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [w218409172, w219370447, w237487988]
+# name:be: []
+msgid "Храм"
+msgstr ""
+

@@ -1,0 +1,180 @@
+# Objects : [w273227927]
+# name:be: []
+msgid "АГЗП"
+msgstr ""
+
+# Objects : [w210175614, w210175615, w210182764, w210182765]
+# name:be: []
+msgid "административное здание РАЙПО"
+msgstr ""
+
+# Objects : [w210204162]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w210188101]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [w233365696, w233365698, w233365700]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w210177349]
+# name:be: []
+msgid "вет.станция"
+msgstr ""
+
+# Objects : [w323639362, w323639363, w323639364]
+# name:be: []
+msgid "гаражи"
+msgstr ""
+
+# Objects : [w309186972, w310327398, w310327399, w310327400, w310327401, w310327402, w310327403, w310327404, w315568634]
+# name:be: []
+msgid "Гаражи"
+msgstr ""
+
+# Objects : [w233364830]
+# name:be: []
+msgid "ГорГаз"
+msgstr ""
+
+# Objects : [w210188098]
+# name:be: []
+msgid "Гостинница"
+msgstr ""
+
+# Objects : [w210182766]
+# name:be: []
+msgid "детская школа искусств"
+msgstr ""
+
+# Objects : [w210175616]
+# name:be: []
+msgid "дом молитвы"
+msgstr ""
+
+# Objects : [w233364831]
+# name:be: []
+msgid "ДРСУ"
+msgstr ""
+
+# Objects : [w210166903]
+# name:be: []
+msgid "заг.прием.пункт"
+msgstr ""
+
+# Objects : [w274235758]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w210170554]
+# name:be: []
+msgid "инспекция"
+msgstr ""
+
+# Objects : [w210188099]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w228223010]
+# name:be: []
+msgid "КЖ контора"
+msgstr ""
+
+# Objects : [w231307452]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w210007591, w210188105]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w210175632, w210182778, w210182779, w312376883]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w210188106]
+# name:be: []
+msgid "магазин-ресторан"
+msgstr ""
+
+# Objects : [w233364822]
+# name:be: []
+msgid "Мясо разделочный цех"
+msgstr ""
+
+# Objects : [w210184994]
+# name:be: []
+msgid "офис МТС"
+msgstr ""
+
+# Objects : [w323745325]
+# name:be: []
+msgid "пищеблок"
+msgstr ""
+
+# Objects : [w310326304]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w233365695]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w210188108]
+# name:be: []
+msgid "райисполком"
+msgstr ""
+
+# Objects : [w210164184]
+# name:be: []
+msgid "Райплемстанция"
+msgstr ""
+
+# Objects : [w233364835]
+# name:be: []
+msgid "РАЙПО"
+msgstr ""
+
+# Objects : [w253329702]
+# name:be: []
+msgid "РАПТС"
+msgstr ""
+
+# Objects : [w312379907]
+# name:be: []
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [w210176702]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w210188110]
+# name:be: []
+msgid "Суд-Прокуратура"
+msgstr ""
+
+# Objects : [w210189787]
+# name:be: []
+msgid "Храм"
+msgstr ""
+
+# Objects : [w274235761]
+# name:be: []
+msgid "Электросети"
+msgstr ""
+

@@ -1,0 +1,235 @@
+# Objects : [w248960464]
+# name:be: []
+msgid "VELCOM, MTS"
+msgstr ""
+
+# Objects : [n2554097313]
+# name:be: []
+msgid "антенна"
+msgstr ""
+
+# Objects : [w174663418]
+# name:be: []
+msgid "АТП №11"
+msgstr ""
+
+# Objects : [w246973841]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w248960466]
+# name:be: []
+msgid "БеСТ"
+msgstr ""
+
+# Objects : [w247410280]
+# name:be: []
+msgid "Весовая"
+msgstr ""
+
+# Objects : [w246789828]
+# name:be: []
+msgid "весы"
+msgstr ""
+
+# Objects : [n2788680084]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [w25195869]
+# name:be: [Глыбокае]
+msgid "Глубокое"
+msgstr ""
+
+# Objects : [n1241995370, n2788680207]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w180310478]
+# name:be: []
+msgid "ГСК"
+msgstr ""
+
+# Objects : [w248630895]
+# name:be: []
+msgid "закрыт"
+msgstr ""
+
+# Objects : [w246973999]
+# name:be: []
+msgid "ЗКТП"
+msgstr ""
+
+# Objects : [w248796200]
+# name:be: []
+msgid "ИП ПАХОМЕНКО"
+msgstr ""
+
+# Objects : [n1270906138]
+# name:be: [Крыінца]
+msgid "Источник - Скрипутёво"
+msgstr ""
+
+# Objects : [w59454691]
+# name:be: [Кафетэрый]
+msgid "Кафетерий"
+msgstr ""
+
+# Objects : [w25197615]
+# name:be: [Касмачэўскае воз.]
+msgid "Космачевское"
+msgstr ""
+
+# Objects : [n306066530]
+# name:be: [Коханава]
+msgid "Коханово"
+msgstr ""
+
+# Objects : [w246772867]
+# name:be: []
+msgid "КСУП "Толочинская Новинка""
+msgstr ""
+
+# Objects : [n1869771042]
+# name:be: [Лямніца]
+msgid "Лемница"
+msgstr ""
+
+# Objects : [w252741744, w59454692]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w170012116]
+# name:be: []
+msgid "Машинный двор УКСП "Рыдомльский""
+msgstr ""
+
+# Objects : [w246779864, w247603841]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [w248234641]
+# name:be: []
+msgid "МТФ "Новинка""
+msgstr ""
+
+# Objects : [w247568992]
+# name:be: []
+msgid "Насосная"
+msgstr ""
+
+# Objects : [w274735370]
+# name:be: []
+msgid "нефтепровод"
+msgstr ""
+
+# Objects : [w247003627]
+# name:be: []
+msgid "пилорама"
+msgstr ""
+
+# Objects : [n2788684196]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2788683698]
+# name:be: [Прысядзібны парк пры былой сядзібе Замойскіх]
+msgid "Приусадебный парк при бывшей усадьбе Замойских"
+msgstr ""
+
+# Objects : [w318332105, w318332106, w318332107]
+# name:be: []
+msgid "Пруд"
+msgstr ""
+
+# Objects : [w247168127]
+# name:be: []
+msgid "Сад"
+msgstr ""
+
+# Objects : [w247580514]
+# name:be: []
+msgid "Свинокомплекс"
+msgstr ""
+
+# Objects : [w247003785]
+# name:be: []
+msgid "сталярное отделение"
+msgstr ""
+
+# Objects : [w247383126]
+# name:be: []
+msgid "станция обезжелезивания воды"
+msgstr ""
+
+# Objects : [w267250451]
+# name:be: []
+msgid "Строительство АЗС"
+msgstr ""
+
+# Objects : [w246774419]
+# name:be: []
+msgid "теплотрасса"
+msgstr ""
+
+# Objects : [w246774171, w246974570]
+# name:be: []
+msgid "Теплоузел"
+msgstr ""
+
+# Objects : [w246974810]
+# name:be: []
+msgid "тепротрасса"
+msgstr ""
+
+# Objects : [w289701185]
+# name:be: []
+msgid "Торфобрикетный завод Усвиж-Бук"
+msgstr ""
+
+# Objects : [w226833968]
+# name:be: []
+msgid "Торфоразработки"
+msgstr ""
+
+# Objects : [n2788684567]
+# name:be: [Сядзібна-паркавы комплекс Цюндзявіцкіх]
+msgid "Усадебно-парковый комплекс Цюндявицких"
+msgstr ""
+
+# Objects : [n2788685105]
+# name:be: [Капліца-пахавальня Хамянтоўскіх]
+msgid "Усыпальница Хаментовского"
+msgstr ""
+
+# Objects : [n2788685403]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788686666]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788686717]
+# name:be: [Царква Святых апосталаў Пятра й Паўла (руіны)]
+msgid "Церковь Святых Апостолов Петра и Павла (руины)"
+msgstr ""
+
+# Objects : [n2788687464]
+# name:be: [Капліца могілкавая (руіны)]
+msgid "Часовня кладбищенская (руины)"
+msgstr ""
+
+# Objects : [n3072999492]
+# name:be: [Яблынка]
+msgid "Яблынка"
+msgstr ""
+

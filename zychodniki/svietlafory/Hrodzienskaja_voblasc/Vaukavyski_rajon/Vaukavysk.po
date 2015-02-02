@@ -1,0 +1,250 @@
+# Objects : [n2060753532]
+# name:be: [Аўтадромная вуліца]
+msgid "Автодромная улица"
+msgstr ""
+
+# Objects : [n2060753505, n2066528962]
+# name:be: []
+msgid "Автопарк №4"
+msgstr ""
+
+# Objects : [n1628731883, n1628731887, n2082426123]
+# name:be: [Аўтастанцыя]
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n2060753506]
+# name:be: []
+msgid "Аграрный колледж"
+msgstr ""
+
+# Objects : [n2064787534, n2064787539]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [n2064787542, n2064787543]
+# name:be: []
+msgid "Беллакт"
+msgstr ""
+
+# Objects : [n2066529031]
+# name:be: [Брэсцкая вуліца]
+msgid "Брестская улица"
+msgstr ""
+
+# Objects : [n2066528972]
+# name:be: []
+msgid "ВЗЛО"
+msgstr ""
+
+# Objects : [n2066528976]
+# name:be: []
+msgid "ГАП №6"
+msgstr ""
+
+# Objects : [n2066528979, n2066528990]
+# name:be: [Гарадская лазня]
+msgid "Городская баня"
+msgstr ""
+
+# Objects : [n2060753509, n2076188674]
+# name:be: []
+msgid "Городской парк"
+msgstr ""
+
+# Objects : [n2064787545, n2064787549]
+# name:be: []
+msgid "Груды"
+msgstr ""
+
+# Objects : [n2061662458, n2061662466]
+# name:be: []
+msgid "Детский сад №4"
+msgstr ""
+
+# Objects : [n2064787552, n2064787555]
+# name:be: []
+msgid "Дом культуры железнодорожников"
+msgstr ""
+
+# Objects : [n2066529000, n2066529004]
+# name:be: []
+msgid "Завод КСОМ"
+msgstr ""
+
+# Objects : [n2064787558]
+# name:be: []
+msgid "Кинотеатр "Юность""
+msgstr ""
+
+# Objects : [n1670838518]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [n1776118456]
+# name:be: []
+msgid "магазин "Дружба""
+msgstr ""
+
+# Objects : [n2060753514]
+# name:be: []
+msgid "магазин "Силуэт""
+msgstr ""
+
+# Objects : [n1670563774, n2060753518]
+# name:be: [мікрараён "Сонечны"]
+msgid "микрорайон "Солнечный""
+msgstr ""
+
+# Objects : [n2060753511, n2060753512]
+# name:be: []
+msgid "МПМК-142"
+msgstr ""
+
+# Objects : [n2064787564, n2064787567]
+# name:be: []
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [n2064787570, n2064787574]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [n2060753534]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [n2064788022, n2064788026]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [n1125000407]
+# name:be: []
+msgid "Остановка Автобуса"
+msgstr ""
+
+# Objects : [n2060753513]
+# name:be: []
+msgid "Педагогический колледж"
+msgstr ""
+
+# Objects : [n2060753515, n2078717166]
+# name:be: [плошча імя Леніна]
+msgid "площадь имени Ленина"
+msgstr ""
+
+# Objects : [n2060753516]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n1729248563]
+# name:be: []
+msgid "Пороховня"
+msgstr ""
+
+# Objects : [n2064787576]
+# name:be: []
+msgid "ПЭС"
+msgstr ""
+
+# Objects : [n2066529061]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [n2064787584, n2064787591]
+# name:be: []
+msgid "СШ№4"
+msgstr ""
+
+# Objects : [n2064787594, n2064787598]
+# name:be: []
+msgid "СШ№5"
+msgstr ""
+
+# Objects : [n2066529021, n2066529024]
+# name:be: []
+msgid "улица Амшея"
+msgstr ""
+
+# Objects : [n1729248761, n2066529027]
+# name:be: [вуліца Баграціёна]
+msgid "улица Багратиона"
+msgstr ""
+
+# Objects : [n1776139507, n2066529013]
+# name:be: [вуліца Барычэўскага]
+msgid "улица Боричевского"
+msgstr ""
+
+# Objects : [n2066529034, n2066529037]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [n1670563867, n1727087315]
+# name:be: []
+msgid "улица Горбатова"
+msgstr ""
+
+# Objects : [n2066529040]
+# name:be: []
+msgid "улица Маркса"
+msgstr ""
+
+# Objects : [n2060753533]
+# name:be: []
+msgid "улица Межевая"
+msgstr ""
+
+# Objects : [n2066529044, n2066529046]
+# name:be: []
+msgid "улица Новопроектная"
+msgstr ""
+
+# Objects : [n2066529050]
+# name:be: []
+msgid "улица Осипенко"
+msgstr ""
+
+# Objects : [n2060753535, n2091476160]
+# name:be: []
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [n2066529053, n2066529056]
+# name:be: []
+msgid "улица Рокоссовского-I"
+msgstr ""
+
+# Objects : [n2066529059]
+# name:be: [вуліца Ракасоўскага–II]
+msgid "улица Рокоссовского–II"
+msgstr ""
+
+# Objects : [n2060753536]
+# name:be: []
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [n1667511105, n1667511119, n1667511236]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n2066529016, n2087420845]
+# name:be: []
+msgid "Центральный рынок"
+msgstr ""
+
+# Objects : [n2066529017]
+# name:be: []
+msgid "Цех керамики"
+msgstr ""
+

@@ -1,0 +1,150 @@
+# Objects : [w108866898]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w37908069]
+# name:be: []
+msgid "Водолей"
+msgstr ""
+
+# Objects : [w37908106]
+# name:be: [Гарвыканкам]
+msgid "Горисполком"
+msgstr ""
+
+# Objects : [w38287244]
+# name:be: [ГУМ]
+msgid "ГУМ"
+msgstr ""
+
+# Objects : [w37908719]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w38319173]
+# name:be: [Дом культуры]
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w229948625]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w38287186]
+# name:be: [Журавінка]
+msgid "Журавинка"
+msgstr ""
+
+# Objects : [w37895569]
+# name:be: [ЖЭС]
+msgid "ЖЭС"
+msgstr ""
+
+# Objects : [w38318015]
+# name:be: []
+msgid "Заброшенный Хлебозавод"
+msgstr ""
+
+# Objects : [r3083109]
+# name:be: []
+msgid "Завод оптического станкостроения"
+msgstr ""
+
+# Objects : [w37908083]
+# name:be: [ЗАГС]
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w37895584]
+# name:be: []
+msgid "Капучино"
+msgstr ""
+
+# Objects : [w38319186]
+# name:be: []
+msgid "МРЭО ГАИ"
+msgstr ""
+
+# Objects : [w37876779]
+# name:be: []
+msgid "Олеся"
+msgstr ""
+
+# Objects : [w37895780]
+# name:be: []
+msgid "Ольга"
+msgstr ""
+
+# Objects : [w38319913]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w37908100]
+# name:be: []
+msgid "РВК"
+msgstr ""
+
+# Objects : [w38280869]
+# name:be: [Смаргонь]
+msgid "Сморгонь"
+msgstr ""
+
+# Objects : [w40127729]
+# name:be: []
+msgid "Спадар"
+msgstr ""
+
+# Objects : [w37895563]
+# name:be: []
+msgid "Спектр"
+msgstr ""
+
+# Objects : [w37895550]
+# name:be: []
+msgid "Танак"
+msgstr ""
+
+# Objects : [w38287242]
+# name:be: []
+msgid "ТЦ Соло-Энергия"
+msgstr ""
+
+# Objects : [w37895779, w37908108]
+# name:be: []
+msgid "Фортуна"
+msgstr ""
+
+# Objects : [w37906628]
+# name:be: []
+msgid "Цветы магазин Успех"
+msgstr ""
+
+# Objects : [w38287252]
+# name:be: []
+msgid "ЦУМ"
+msgstr ""
+
+# Objects : [w38287200]
+# name:be: []
+msgid "Шанс"
+msgstr ""
+
+# Objects : [w37895565]
+# name:be: []
+msgid "Эко"
+msgstr ""
+
+# Objects : [w37908699]
+# name:be: []
+msgid "Юность"
+msgstr ""
+
+# Objects : [w38287199]
+# name:be: []
+msgid "ЯН"
+msgstr ""
+

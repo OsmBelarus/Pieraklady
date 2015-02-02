@@ -1,0 +1,180 @@
+# Objects : [w248441659, w248441662, w56450520]
+# name:be: []
+msgid "9.00-21.00"
+msgstr ""
+
+# Objects : [w156360891]
+# name:be: []
+msgid "Paid  long term parking"
+msgstr ""
+
+# Objects : [w40954782]
+# name:be: []
+msgid "Paid short term parking"
+msgstr ""
+
+# Objects : [w231100937]
+# name:be: []
+msgid "parking"
+msgstr ""
+
+# Objects : [w39255656]
+# name:be: []
+msgid "автостоянка №24"
+msgstr ""
+
+# Objects : [w59998524]
+# name:be: []
+msgid "Автостоянка №38"
+msgstr ""
+
+# Objects : [w320110270]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [w39669103]
+# name:be: []
+msgid "Блв"
+msgstr ""
+
+# Objects : [w155166282]
+# name:be: []
+msgid "ГАИП УП, Автостоянка № 95"
+msgstr ""
+
+# Objects : [w44935511]
+# name:be: []
+msgid "Гаражный комплекс"
+msgstr ""
+
+# Objects : [w184172873]
+# name:be: []
+msgid "Гиппо"
+msgstr ""
+
+# Objects : [w67502697]
+# name:be: []
+msgid "Гостева парковка (соседи, микрорайон)"
+msgstr ""
+
+# Objects : [w173561457]
+# name:be: []
+msgid "Место отстоя автобусов"
+msgstr ""
+
+# Objects : [w100460400, w100460782]
+# name:be: []
+msgid "ООО Автогалактика паркинг"
+msgstr ""
+
+# Objects : [w257352254]
+# name:be: []
+msgid "Паркинг"
+msgstr ""
+
+# Objects : [w314820524]
+# name:be: []
+msgid "парковка"
+msgstr ""
+
+# Objects : [w306871366, w312083673, w41936429]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
+# Objects : [w184277442]
+# name:be: []
+msgid "Парковка для клиентов"
+msgstr ""
+
+# Objects : [w158927881]
+# name:be: []
+msgid "Парковка для сотрудников"
+msgstr ""
+
+# Objects : [w270799741]
+# name:be: []
+msgid "Парковка жителей товарищества собственников Кнорина 17д"
+msgstr ""
+
+# Objects : [w303736392]
+# name:be: []
+msgid "Парковка ИБМТ"
+msgstr ""
+
+# Objects : [w41936426]
+# name:be: []
+msgid "Парковка МНИПИ"
+msgstr ""
+
+# Objects : [w93054395]
+# name:be: []
+msgid "Платная охраняемая парковка"
+msgstr ""
+
+# Objects : [w190437533, w23586642]
+# name:be: []
+msgid "Платная охраняемая стоянка"
+msgstr ""
+
+# Objects : [w200994145]
+# name:be: []
+msgid "Подземная парковка"
+msgstr ""
+
+# Objects : [w303969619]
+# name:be: []
+msgid "ПОРТ паркинг"
+msgstr ""
+
+# Objects : [w207175437]
+# name:be: []
+msgid "СВХ ПТО 06529 «Колядичи-Авто»"
+msgstr ""
+
+# Objects : [w184884508]
+# name:be: []
+msgid "Служебная парковка"
+msgstr ""
+
+# Objects : [w142148415]
+# name:be: []
+msgid "Стоянка "Атлант збт""
+msgstr ""
+
+# Objects : [w118039667]
+# name:be: []
+msgid "Стоянка 67"
+msgstr ""
+
+# Objects : [w258437618]
+# name:be: []
+msgid "Стоянка такси"
+msgstr ""
+
+# Objects : [w189738248]
+# name:be: []
+msgid "Стоянка № 75"
+msgstr ""
+
+# Objects : [w242985075]
+# name:be: []
+msgid "Таксопарк"
+msgstr ""
+
+# Objects : [w203281627]
+# name:be: []
+msgid "Таможенный терминал  «КУНЦЕВЩИНА» 06542"
+msgstr ""
+
+# Objects : [w140364210]
+# name:be: []
+msgid "Только такси"
+msgstr ""
+
+# Objects : [w242938681]
+# name:be: []
+msgid "У Фонтана"
+msgstr ""
+

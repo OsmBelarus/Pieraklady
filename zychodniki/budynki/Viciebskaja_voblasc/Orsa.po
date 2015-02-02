@@ -1,0 +1,395 @@
+# Objects : [w225294614]
+# name:be: []
+msgid "Hors-Motors"
+msgstr ""
+
+# Objects : [w62222001]
+# name:be: [Алмі]
+msgid "Алми"
+msgstr ""
+
+# Objects : [w225131279]
+# name:be: []
+msgid "Антей"
+msgstr ""
+
+# Objects : [w42444109]
+# name:be: [Аптэка №38]
+msgid "Аптека № 38"
+msgstr ""
+
+# Objects : [w242117487]
+# name:be: []
+msgid "Багажное отделение"
+msgstr ""
+
+# Objects : [w217327699]
+# name:be: []
+msgid "Березка"
+msgstr ""
+
+# Objects : [w99725795]
+# name:be: [Віцязь]
+msgid "Витязь"
+msgstr ""
+
+# Objects : [w62299644]
+# name:be: [ДАІ]
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w242114338]
+# name:be: []
+msgid "Ганна"
+msgstr ""
+
+# Objects : [w221168208]
+# name:be: [Гасцiнец]
+msgid "Гастинец"
+msgstr ""
+
+# Objects : [w101366841]
+# name:be: []
+msgid "Геологоразведка"
+msgstr ""
+
+# Objects : [w62116462]
+# name:be: [Гарадскі суд]
+msgid "Городской суд"
+msgstr ""
+
+# Objects : [w62116457]
+# name:be: [ГарАА]
+msgid "ГОРОО"
+msgstr ""
+
+# Objects : [w101352262]
+# name:be: []
+msgid "д\с №4"
+msgstr ""
+
+# Objects : [w62193298]
+# name:be: [Дынама]
+msgid "Динамо"
+msgstr ""
+
+# Objects : [w96989163]
+# name:be: []
+msgid "Диспансер спортивной медицины"
+msgstr ""
+
+# Objects : [w149360994]
+# name:be: []
+msgid "Доброном"
+msgstr ""
+
+# Objects : [w62116447]
+# name:be: [Дом рамёстваў]
+msgid "Дома ремёсел"
+msgstr ""
+
+# Objects : [w99505229]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w42128746]
+# name:be: [Дом культуры чыгуначнікаў]
+msgid "Дом культуры железнодорожников"
+msgstr ""
+
+# Objects : [w101367786]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [w100671800]
+# name:be: []
+msgid "ДС"
+msgstr ""
+
+# Objects : [w100792285]
+# name:be: []
+msgid "дюсш"
+msgstr ""
+
+# Objects : [w225127434, w62191399, w96465851]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w62221975]
+# name:be: []
+msgid "ЕВРООПТ"
+msgstr ""
+
+# Objects : [w42140788]
+# name:be: [Чыгуначная паліклініка]
+msgid "ЖД Поликлинника"
+msgstr ""
+
+# Objects : [w96989178]
+# name:be: [Жамчужына]
+msgid "Жемчужина"
+msgstr ""
+
+# Objects : [w62071782]
+# name:be: []
+msgid "ЗАГС, архив"
+msgstr ""
+
+# Objects : [w95443967]
+# name:be: [ВК №12]
+msgid "ИК №12"
+msgstr ""
+
+# Objects : [w62191389]
+# name:be: [КДБ]
+msgid "КГБ"
+msgstr ""
+
+# Objects : [w99505278]
+# name:be: []
+msgid "Кенгуру"
+msgstr ""
+
+# Objects : [w99505284]
+# name:be: []
+msgid "Кентавр"
+msgstr ""
+
+# Objects : [w62116428]
+# name:be: []
+msgid "китайская обувь"
+msgstr ""
+
+# Objects : [w225001505]
+# name:be: []
+msgid "Ледовая арена"
+msgstr ""
+
+# Objects : [w101369347]
+# name:be: []
+msgid "Лицей лёгкой промышленности"
+msgstr ""
+
+# Objects : [w141181294]
+# name:be: [Магазін]
+msgid "Магазин каскад"
+msgstr ""
+
+# Objects : [r4455176]
+# name:be: []
+msgid "Медицинский колледж"
+msgstr ""
+
+# Objects : [w62191403]
+# name:be: [Музей Заслонава]
+msgid "Мемориальный музей К.С. Заслонова"
+msgstr ""
+
+# Objects : [w101367729]
+# name:be: []
+msgid "Мерком"
+msgstr ""
+
+# Objects : [w101352056]
+# name:be: [Морг]
+msgid "МОРГ"
+msgstr ""
+
+# Objects : [w62116411]
+# name:be: []
+msgid "Музей истории Орши"
+msgstr ""
+
+# Objects : [w289485886]
+# name:be: []
+msgid "налоговая"
+msgstr ""
+
+# Objects : [w62071773]
+# name:be: []
+msgid "ОАО «Оршанский стройтрест № 18»"
+msgstr ""
+
+# Objects : [w62194292]
+# name:be: []
+msgid "Общежитие медколледжа"
+msgstr ""
+
+# Objects : [w48535897]
+# name:be: []
+msgid "Общежитие ОГКЖТ"
+msgstr ""
+
+# Objects : [w62222060]
+# name:be: []
+msgid "Общежитие ОГМЭК"
+msgstr ""
+
+# Objects : [w48535898]
+# name:be: []
+msgid "Общежитие №2"
+msgstr ""
+
+# Objects : [w62221979]
+# name:be: [АДМЭК]
+msgid "ОГМЭК"
+msgstr ""
+
+# Objects : [w48535903]
+# name:be: []
+msgid "ОРС"
+msgstr ""
+
+# Objects : [w48535900]
+# name:be: []
+msgid "Оршанский государственный колледж железнодорожного транспорта"
+msgstr ""
+
+# Objects : [w99725992]
+# name:be: [Аршанскі дзяржаўны цэнтр дзіцячай творчасці]
+msgid "Оршанский государственный центр детского творчества"
+msgstr ""
+
+# Objects : [w61538979]
+# name:be: []
+msgid "Оршанский райисполком"
+msgstr ""
+
+# Objects : [w217327872]
+# name:be: []
+msgid "Орша-Сити"
+msgstr ""
+
+# Objects : [w101352165]
+# name:be: []
+msgid "Оршица"
+msgstr ""
+
+# Objects : [w62235295]
+# name:be: []
+msgid "Педагогический колледж"
+msgstr ""
+
+# Objects : [w62071794]
+# name:be: [паліклініка імя Сямашкі]
+msgid "поликлиника им.Семашко"
+msgstr ""
+
+# Objects : [w62193304]
+# name:be: [Паліклініка]
+msgid "Поликлинника"
+msgstr ""
+
+# Objects : [w42176425]
+# name:be: [Паліклініка №3]
+msgid "Поликлинника №3"
+msgstr ""
+
+# Objects : [w307620357]
+# name:be: []
+msgid "продуктовый"
+msgstr ""
+
+# Objects : [w62116468]
+# name:be: [Пракуратура]
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w62116477]
+# name:be: []
+msgid "Профессионально-технический колледж"
+msgstr ""
+
+# Objects : [w100671033, w96982802]
+# name:be: [Раніца]
+msgid "Раница"
+msgstr ""
+
+# Objects : [w62071784]
+# name:be: [РАУС]
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w101352235]
+# name:be: []
+msgid "Родильный дом"
+msgstr ""
+
+# Objects : [w238064655]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w139826567]
+# name:be: [Хлеў]
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w100978826]
+# name:be: [СДЮШАР №1]
+msgid "Сдюшор №1"
+msgstr ""
+
+# Objects : [w48535902]
+# name:be: []
+msgid "Спортзал"
+msgstr ""
+
+# Objects : [w42128728]
+# name:be: []
+msgid "Стекляшка"
+msgstr ""
+
+# Objects : [w100792822]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [w62116466]
+# name:be: []
+msgid "ТЕХНИЧЕСКИЙ ОСМОТР"
+msgstr ""
+
+# Objects : [w99725771]
+# name:be: []
+msgid "ТЦ Центрум"
+msgstr ""
+
+# Objects : [w96989177]
+# name:be: []
+msgid "У Виталика"
+msgstr ""
+
+# Objects : [w131425438]
+# name:be: [Фіз. кабінет]
+msgid "Физ.кабинет"
+msgstr ""
+
+# Objects : [w62193321]
+# name:be: []
+msgid "центр гигиены"
+msgstr ""
+
+# Objects : [w101366540]
+# name:be: []
+msgid "Центр поддержки предпринимательства"
+msgstr ""
+
+# Objects : [w62116479]
+# name:be: [Швейная фабрыка Світанак]
+msgid "Швейная фабрика Свитанак"
+msgstr ""
+
+# Objects : [w48535928]
+# name:be: []
+msgid "ШЧ-13"
+msgstr ""
+
+# Objects : [w48535941]
+# name:be: []
+msgid "№18"
+msgstr ""
+

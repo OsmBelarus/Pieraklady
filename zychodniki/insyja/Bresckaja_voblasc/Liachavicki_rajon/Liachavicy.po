@@ -1,0 +1,70 @@
+# Objects : [n927997968]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n242996102]
+# name:be: [Вялікая Лотва]
+msgid "Великая Лотва"
+msgstr ""
+
+# Objects : [w129011501]
+# name:be: []
+msgid "Водохранилище на реке Ведьма"
+msgstr ""
+
+# Objects : [n927997529]
+# name:be: [Гасцініца]
+msgid "Гостиница"
+msgstr ""
+
+# Objects : [n2766736727]
+# name:be: []
+msgid "Гостиница Эдельвейс"
+msgstr ""
+
+# Objects : [n2788680446]
+# name:be: [Забудова XIX - пачатку ХХ ст.]
+msgid "Застройка XIX - начала ХХ в."
+msgstr ""
+
+# Objects : [n1386036462]
+# name:be: []
+msgid "кафе"
+msgstr ""
+
+# Objects : [n2788681477]
+# name:be: [Могілкі старыя хрысціянскія]
+msgid "Кладбище старое христианское"
+msgstr ""
+
+# Objects : [n2788681932]
+# name:be: [Касцёл Святога Юзафа рамесніка]
+msgid "Костел Святого Иосифа"
+msgstr ""
+
+# Objects : [n2761374163]
+# name:be: [Ляхавічы]
+msgid "Ляховичи"
+msgstr ""
+
+# Objects : [n3058575218]
+# name:be: []
+msgid "Памятник неизвестному солдату"
+msgstr ""
+
+# Objects : [n2788684302]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1424218615]
+# name:be: [Стадыён]
+msgid "Стадион"
+msgstr ""
+
+# Objects : [n1424193988]
+# name:be: [Фантан]
+msgid "Фонтан"
+msgstr ""
+

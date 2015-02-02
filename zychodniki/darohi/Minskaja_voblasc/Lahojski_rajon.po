@@ -1,0 +1,105 @@
+# Objects : [w32682932]
+# name:be: []
+msgid "Берёзовая улица"
+msgstr ""
+
+# Objects : [w32682929]
+# name:be: []
+msgid "Берёзовый переулок"
+msgstr ""
+
+# Objects : [w170072704]
+# name:be: []
+msgid "Весёлая улица"
+msgstr ""
+
+# Objects : [w97087302]
+# name:be: []
+msgid "Гористая улица"
+msgstr ""
+
+# Objects : [w32682950]
+# name:be: [Дарожная]
+msgid "Дорожная"
+msgstr ""
+
+# Objects : [w152676062]
+# name:be: [Дружная вуліца]
+msgid "Дружная улица"
+msgstr ""
+
+# Objects : [w228142144]
+# name:be: [Зарэчная вуліца]
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w123080642, w25270162]
+# name:be: [Калгасная вуліца]
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w122755540, w152676066]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w310794574, w310794575, w310794576, w310794577]
+# name:be: []
+msgid "насыпь бывшей узкоколейки"
+msgstr ""
+
+# Objects : [w170741164]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w151749148, w28529018]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w97087298]
+# name:be: []
+msgid "Поселковая"
+msgstr ""
+
+# Objects : [w80397209]
+# name:be: []
+msgid "Светлая улица"
+msgstr ""
+
+# Objects : [w32682934]
+# name:be: []
+msgid "Светлый переулок"
+msgstr ""
+
+# Objects : [w32682952]
+# name:be: [Сельская]
+msgid "Сельская"
+msgstr ""
+
+# Objects : [w80397210]
+# name:be: []
+msgid "Тенистая улица"
+msgstr ""
+
+# Objects : [w112526151]
+# name:be: []
+msgid "улица Соловьиная Роща"
+msgstr ""
+
+# Objects : [w286144453, w97087293]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w100799411]
+# name:be: [Цэнтральны завулак]
+msgid "Центральный переулок"
+msgstr ""
+
+# Objects : [w123080634]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+

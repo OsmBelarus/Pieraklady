@@ -1,0 +1,90 @@
+# Objects : [n2984957247]
+# name:be: []
+msgid ""Меркурий""
+msgstr ""
+
+# Objects : [n1510031179, n1788453391]
+# name:be: []
+msgid "Белмаркет"
+msgstr ""
+
+# Objects : [n1788441999]
+# name:be: []
+msgid "Водар Хлеб"
+msgstr ""
+
+# Objects : [n1588292308]
+# name:be: []
+msgid "Газетный киоск"
+msgstr ""
+
+# Objects : [n306065492]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n1105804912]
+# name:be: [Чыгуначнiк]
+msgid "Железнодорожник"
+msgstr ""
+
+# Objects : [n1510029878]
+# name:be: []
+msgid "Магазин "Виталмаркет""
+msgstr ""
+
+# Objects : [n1393702320]
+# name:be: []
+msgid "Магистральный"
+msgstr ""
+
+# Objects : [n3184142803]
+# name:be: []
+msgid "Мартин"
+msgstr ""
+
+# Objects : [n1105804911]
+# name:be: []
+msgid "Оптовик"
+msgstr ""
+
+# Objects : [n2831422862]
+# name:be: []
+msgid "Рублевский"
+msgstr ""
+
+# Objects : [n1105804913]
+# name:be: []
+msgid "Смак"
+msgstr ""
+
+# Objects : [n306065441]
+# name:be: []
+msgid "Соседи"
+msgstr ""
+
+# Objects : [n1510029872]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1510029862]
+# name:be: []
+msgid "Торговый центр "Магистраль 2""
+msgstr ""
+
+# Objects : [n1510029860]
+# name:be: []
+msgid "Универсам "Доброном""
+msgstr ""
+
+# Objects : [n1788442002]
+# name:be: []
+msgid "Хлебзавод "Водар Хлеб""
+msgstr ""
+
+# Objects : [n1510029864]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+

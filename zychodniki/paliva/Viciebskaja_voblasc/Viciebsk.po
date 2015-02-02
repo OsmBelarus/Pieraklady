@@ -1,0 +1,115 @@
+# Objects : [n332308169]
+# name:be: []
+msgid "АГЗС"
+msgstr ""
+
+# Objects : [n332042340]
+# name:be: [АГНКС Віцебск]
+msgid "АГНКС Витебск"
+msgstr ""
+
+# Objects : [n990399131, n990399136]
+# name:be: []
+msgid "Белоруснефть № 1"
+msgstr ""
+
+# Objects : [n306066602, n898726434]
+# name:be: []
+msgid "Белоруснефть №14"
+msgstr ""
+
+# Objects : [n1791286525]
+# name:be: []
+msgid "Белоруснефть №2"
+msgstr ""
+
+# Objects : [w90844100, w90844102]
+# name:be: [Беларуснафта №3]
+msgid "Белоруснефть №3"
+msgstr ""
+
+# Objects : [n1159627939, n1251041811]
+# name:be: []
+msgid "Белоруснефть №7"
+msgstr ""
+
+# Objects : [n334322226, n912223630]
+# name:be: []
+msgid "Белоруснефть № 8"
+msgstr ""
+
+# Objects : [n813371869]
+# name:be: []
+msgid "Белоруснефть №9"
+msgstr ""
+
+# Objects : [n1803875354, n867979236]
+# name:be: [Блок]
+msgid "Блок"
+msgstr ""
+
+# Objects : [n332042344]
+# name:be: []
+msgid "Витебскоблгаз №2"
+msgstr ""
+
+# Objects : [w76097211]
+# name:be: []
+msgid "Витебскоблгаз №3"
+msgstr ""
+
+# Objects : [n332027730, n898726446]
+# name:be: []
+msgid "Газпромнефть №80"
+msgstr ""
+
+# Objects : [n1115072245, n1396780928]
+# name:be: [ІП Белгазпраект]
+msgid "ИП БелГазПроект"
+msgstr ""
+
+# Objects : [n629356904, n917238948]
+# name:be: []
+msgid "Лукoйл №26"
+msgstr ""
+
+# Objects : [n306066595, n917238956]
+# name:be: [Лукойл №41]
+msgid "Лукoйл №41"
+msgstr ""
+
+# Objects : [n333622599]
+# name:be: []
+msgid "Лукoйл №43"
+msgstr ""
+
+# Objects : [n306066651, n898726441]
+# name:be: []
+msgid "Лукойл №33"
+msgstr ""
+
+# Objects : [n340016348]
+# name:be: []
+msgid "Лукойл № 34"
+msgstr ""
+
+# Objects : [n1039775581, n344300863]
+# name:be: []
+msgid "Лукойл №36"
+msgstr ""
+
+# Objects : [n336085211]
+# name:be: [Лукоiл №38]
+msgid "Лукойл №38"
+msgstr ""
+
+# Objects : [n341748314, n917238951]
+# name:be: []
+msgid "Лукойл №39"
+msgstr ""
+
+# Objects : [n1062657005]
+# name:be: []
+msgid "Лукойл №40"
+msgstr ""
+

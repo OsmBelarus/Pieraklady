@@ -1,0 +1,130 @@
+# Objects : [r3508785]
+# name:be: []
+msgid "Автобус №1 Левое кольцо"
+msgstr ""
+
+# Objects : [r3508799]
+# name:be: []
+msgid "Автобус №1 Правое кольцо"
+msgstr ""
+
+# Objects : [r3510622]
+# name:be: []
+msgid "Автобус №2: Больница - Горошково"
+msgstr ""
+
+# Objects : [r3510625]
+# name:be: []
+msgid "Автобус №2: Горошково - Больница"
+msgstr ""
+
+# Objects : [r3531061]
+# name:be: []
+msgid "Автобус №3: Дзержинского - Озерщина"
+msgstr ""
+
+# Objects : [r3531062]
+# name:be: []
+msgid "Автобус №3: Озерщина - Дзержинского"
+msgstr ""
+
+# Objects : [r3506854]
+# name:be: []
+msgid "Автобус №4: Вокзал - Казазаевка"
+msgstr ""
+
+# Objects : [r3506855]
+# name:be: []
+msgid "Автобус №4: Казазаевка - Вокзал"
+msgstr ""
+
+# Objects : [r3505226]
+# name:be: []
+msgid "Автобус №5: ЖД Вокзал - РИТМ"
+msgstr ""
+
+# Objects : [r3505260]
+# name:be: []
+msgid "Автобус №5: РИТМ - ЖД Вокзал"
+msgstr ""
+
+# Objects : [r3530679]
+# name:be: []
+msgid "Автобус №6: Больница - Шурупный цех"
+msgstr ""
+
+# Objects : [r3530680]
+# name:be: []
+msgid "Автобус №6: Шурупный цех - Больница"
+msgstr ""
+
+# Objects : [r3530702]
+# name:be: []
+msgid "Автобус №6А: Автовокзал - Больница"
+msgstr ""
+
+# Objects : [r3530698]
+# name:be: []
+msgid "Автобус №6А: Больница - Автовокзал"
+msgstr ""
+
+# Objects : [r1757305]
+# name:be: []
+msgid "Брест - Гомель - Москва"
+msgstr ""
+
+# Objects : [r3550811]
+# name:be: []
+msgid "Горваль-Речица"
+msgstr ""
+
+# Objects : [r3631557]
+# name:be: []
+msgid "Заспа-Речица"
+msgstr ""
+
+# Objects : [r2789719]
+# name:be: []
+msgid "Октябрьский — Паричи — Речица"
+msgstr ""
+
+# Objects : [r4154172]
+# name:be: []
+msgid "Речица-Балашевка"
+msgstr ""
+
+# Objects : [r4154189]
+# name:be: []
+msgid "Речица-Бушевка"
+msgstr ""
+
+# Objects : [r4154195]
+# name:be: []
+msgid "Речица-Ведрич"
+msgstr ""
+
+# Objects : [r4202419]
+# name:be: []
+msgid "Речица-Велин ч/зЛуначарск"
+msgstr ""
+
+# Objects : [r3532299]
+# name:be: []
+msgid "Речица-Горваль"
+msgstr ""
+
+# Objects : [r3620157]
+# name:be: []
+msgid "Речица-Заспа"
+msgstr ""
+
+# Objects : [r2647990]
+# name:be: []
+msgid "Речица — Лоев"
+msgstr ""
+
+# Objects : [r2648010]
+# name:be: []
+msgid "Речица — Хойники"
+msgstr ""
+

@@ -1,0 +1,75 @@
+# Objects : [w305288167]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w301434947]
+# name:be: []
+msgid "Бровар"
+msgstr ""
+
+# Objects : [w319215142]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w319230952]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w301434935]
+# name:be: []
+msgid "Дом прислуги"
+msgstr ""
+
+# Objects : [w301434933]
+# name:be: []
+msgid "Жилой дом Рейтана"
+msgstr ""
+
+# Objects : [w305288171]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w132806361]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w301434939, w301434944]
+# name:be: []
+msgid "Конюшня"
+msgstr ""
+
+# Objects : [w301434946]
+# name:be: []
+msgid "Лядоўня"
+msgstr ""
+
+# Objects : [w319215143]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1577954009, n1578043984, n1578044623]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [n732660925]
+# name:be: []
+msgid "Усадебный дом (дерев.)"
+msgstr ""
+
+# Objects : [n1615542866]
+# name:be: []
+msgid "Усадебный дом Черноцких (дерев.)"
+msgstr ""
+
+# Objects : [w301434937]
+# name:be: []
+msgid "Флигель"
+msgstr ""
+

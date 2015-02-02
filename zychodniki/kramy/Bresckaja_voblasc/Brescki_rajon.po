@@ -1,0 +1,40 @@
+# Objects : [n1463394949]
+# name:be: []
+msgid "Bosh"
+msgstr ""
+
+# Objects : [n1299659395]
+# name:be: [Бытавая хімія]
+msgid "Бытовая химия"
+msgstr ""
+
+# Objects : [n1205502062]
+# name:be: []
+msgid "Весёлый Хуторок"
+msgstr ""
+
+# Objects : [n306069588]
+# name:be: []
+msgid "Прод."
+msgstr ""
+
+# Objects : [n3314417381]
+# name:be: []
+msgid "Продуктовый магазин"
+msgstr ""
+
+# Objects : [n1236210003, n1299659467, n687457787]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n1236210068]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1236210040]
+# name:be: [Гаспадарчыя тавары]
+msgid "Хозтовары"
+msgstr ""
+

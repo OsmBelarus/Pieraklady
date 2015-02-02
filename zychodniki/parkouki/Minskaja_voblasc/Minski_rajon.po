@@ -1,0 +1,75 @@
+# Objects : [w119103168]
+# name:be: [Стаянка новых аўтамабіляў]
+msgid "Cтоянка новых автомобилей"
+msgstr ""
+
+# Objects : [w158421399]
+# name:be: []
+msgid "Гостевая парковка"
+msgstr ""
+
+# Objects : [w119103160, w119103161, w256312080, w256813944]
+# name:be: [Гасцявая стаянка]
+msgid "Гостевая стоянка"
+msgstr ""
+
+# Objects : [w256813945]
+# name:be: []
+msgid "гоятевая стоянка"
+msgstr ""
+
+# Objects : [w119103171]
+# name:be: [Камісійны продаж аўто]
+msgid "Комиссионная продажа авто"
+msgstr ""
+
+# Objects : [w312069389]
+# name:be: []
+msgid "парковка"
+msgstr ""
+
+# Objects : [w309448563]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
+# Objects : [w163007986]
+# name:be: []
+msgid "Парковка для сотрудников"
+msgstr ""
+
+# Objects : [w259762454]
+# name:be: []
+msgid "ПТО 06650 "Минск-Белтаможсервис-2""
+msgstr ""
+
+# Objects : [w208466974, w208468324]
+# name:be: []
+msgid "СВХ 06649 «Белтаможсервис-ТЛЦ»"
+msgstr ""
+
+# Objects : [w146618830]
+# name:be: []
+msgid "Служебная"
+msgstr ""
+
+# Objects : [w183986670]
+# name:be: []
+msgid "Служебная парковка"
+msgstr ""
+
+# Objects : [w168276862]
+# name:be: []
+msgid "Стоянка магазина "Продукты""
+msgstr ""
+
+# Objects : [w38564622]
+# name:be: []
+msgid "Стоянка ПК "Вежа""
+msgstr ""
+
+# Objects : [w256447549]
+# name:be: []
+msgid "Школьная стоянка"
+msgstr ""
+

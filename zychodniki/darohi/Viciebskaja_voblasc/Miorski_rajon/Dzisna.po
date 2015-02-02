@@ -1,0 +1,145 @@
+# Objects : [w223681840]
+# name:be: [Малая вуліца]
+msgid "Малая улица"
+msgstr ""
+
+# Objects : [w223681834]
+# name:be: [завулак Грушына]
+msgid "переулок Грушина"
+msgstr ""
+
+# Objects : [w35357028]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w25264704]
+# name:be: [Полацкая вуліца]
+msgid "Полоцкая улица"
+msgstr ""
+
+# Objects : [w223681389]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w223681390]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w223681835]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w223681836]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w35357027]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [w35429429]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w35357029]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w302075155, w35094125]
+# name:be: [вуліца Камарова]
+msgid "улица Комарова"
+msgstr ""
+
+# Objects : [w35094128]
+# name:be: [вуліца Каперніка]
+msgid "улица Коперника"
+msgstr ""
+
+# Objects : [w223681837, w35357023]
+# name:be: [вуліца Кузьміна]
+msgid "улица Кузьмина"
+msgstr ""
+
+# Objects : [w223681838]
+# name:be: [вуліца Куйбышава]
+msgid "улица Куйбышева"
+msgstr ""
+
+# Objects : [w35429428]
+# name:be: [вуліца Кутузава]
+msgid "улица Кутузова"
+msgstr ""
+
+# Objects : [w78075670]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w223681839]
+# name:be: [вуліца Лермантава]
+msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [w223681841]
+# name:be: [вуліца Маліноўскага]
+msgid "улица Малиновского"
+msgstr ""
+
+# Objects : [w35094123]
+# name:be: [вуліца Арджанікідзэ]
+msgid "улица Орджоникидзе"
+msgstr ""
+
+# Objects : [w35094122]
+# name:be: [вуліца Паўліка Марозова]
+msgid "улица Павлика Морозова"
+msgstr ""
+
+# Objects : [w302075157, w35094124]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w35093058]
+# name:be: [вуліца Смірнова]
+msgid "улица Смирнова"
+msgstr ""
+
+# Objects : [w223681842]
+# name:be: [вуліца Суворава]
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [w218611592]
+# name:be: [вуліца Фрунзэ]
+msgid "улица Фрунзе"
+msgstr ""
+
+# Objects : [w35093055]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w35357031]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w223681843]
+# name:be: [вуліца Энгельса]
+msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w35094121]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

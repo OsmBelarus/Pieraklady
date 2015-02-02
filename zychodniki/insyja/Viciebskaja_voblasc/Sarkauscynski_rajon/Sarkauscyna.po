@@ -1,0 +1,175 @@
+# Objects : [w157265697]
+# name:be: []
+msgid "Алекс"
+msgstr ""
+
+# Objects : [w200250500]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n3124337724]
+# name:be: []
+msgid "Атлант"
+msgstr ""
+
+# Objects : [w306355237]
+# name:be: []
+msgid "Аэлита"
+msgstr ""
+
+# Objects : [w157272291]
+# name:be: []
+msgid "Виктория"
+msgstr ""
+
+# Objects : [n3112316922]
+# name:be: []
+msgid "Встреча"
+msgstr ""
+
+# Objects : [w158170808]
+# name:be: []
+msgid "Гардеробчик"
+msgstr ""
+
+# Objects : [n2102399357]
+# name:be: []
+msgid "Гостиница"
+msgstr ""
+
+# Objects : [w158175614]
+# name:be: []
+msgid "Гранд"
+msgstr ""
+
+# Objects : [w306350897]
+# name:be: []
+msgid "Доброном"
+msgstr ""
+
+# Objects : [w157262429]
+# name:be: []
+msgid "Дуэт"
+msgstr ""
+
+# Objects : [n2788681072]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [w158209252]
+# name:be: []
+msgid "Мегатоп"
+msgstr ""
+
+# Objects : [n1753759368]
+# name:be: []
+msgid "Обелиск"
+msgstr ""
+
+# Objects : [n2290060273]
+# name:be: []
+msgid "Памятник афганцам"
+msgstr ""
+
+# Objects : [n2290061429]
+# name:be: []
+msgid "Памятник Халаеву"
+msgstr ""
+
+# Objects : [w200251064]
+# name:be: []
+msgid "продукты"
+msgstr ""
+
+# Objects : [w308839313]
+# name:be: []
+msgid "пруд"
+msgstr ""
+
+# Objects : [n1753747852]
+# name:be: []
+msgid "Радиорлейная мачта"
+msgstr ""
+
+# Objects : [w158170811]
+# name:be: []
+msgid "РВК"
+msgstr ""
+
+# Objects : [n2102394724]
+# name:be: []
+msgid "РО "Охрана""
+msgstr ""
+
+# Objects : [w217837864]
+# name:be: []
+msgid "Родник"
+msgstr ""
+
+# Objects : [n2102447836]
+# name:be: []
+msgid "Стадион"
+msgstr ""
+
+# Objects : [w157856352]
+# name:be: []
+msgid "ТЦСО"
+msgstr ""
+
+# Objects : [w158179784]
+# name:be: []
+msgid "УКП ЖКХ Шарковщинского района"
+msgstr ""
+
+# Objects : [w306351525]
+# name:be: []
+msgid "У Марины"
+msgstr ""
+
+# Objects : [n2788684723]
+# name:be: [Сядзіба Лапацінскіх]
+msgid "Усадьба Лопатинских"
+msgstr ""
+
+# Objects : [n2788684778]
+# name:be: [Сядзіба Федаровічаў]
+msgid "Усадьба Федорович"
+msgstr ""
+
+# Objects : [n3112727253]
+# name:be: []
+msgid "Филлиал Глубокского молокозавода"
+msgstr ""
+
+# Objects : [n3112725781]
+# name:be: []
+msgid "Хозяйственно-прорабский участок"
+msgstr ""
+
+# Objects : [n2788687292]
+# name:be: [Царква ў Гонар Абраза Прасвятой Багародзіцы Усіх Смуткуючых радасць]
+msgid "Церковь в честь Иконы Божией Матери Всех скорбящих Радость"
+msgstr ""
+
+# Objects : [n2788687284]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306065015]
+# name:be: [Шаркаўшчына]
+msgid "Шарковщизна"
+msgstr ""
+
+# Objects : [n1366339036]
+# name:be: [Шаркаўшчына]
+msgid "Шарковщина"
+msgstr ""
+
+# Objects : [w158170814]
+# name:be: []
+msgid "№4"
+msgstr ""
+

@@ -1,0 +1,270 @@
+# Objects : [w196360407]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w89695304]
+# name:be: [Адміністрацыя]
+msgid "Администрация"
+msgstr ""
+
+# Objects : [w196382902]
+# name:be: []
+msgid "Алеся"
+msgstr ""
+
+# Objects : [w171161670]
+# name:be: []
+msgid "Аптека №123"
+msgstr ""
+
+# Objects : [w89695782]
+# name:be: [Асарці]
+msgid "Ассорти"
+msgstr ""
+
+# Objects : [w193374925]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w193770985]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w171303104]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w171307801]
+# name:be: []
+msgid "Белпочта"
+msgstr ""
+
+# Objects : [w196360227]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [w89695784]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w193770989]
+# name:be: []
+msgid "Ветразь"
+msgstr ""
+
+# Objects : [w193770993]
+# name:be: []
+msgid "Водоканал"
+msgstr ""
+
+# Objects : [w130524453]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w171303078]
+# name:be: []
+msgid "Военторг"
+msgstr ""
+
+# Objects : [w89695781]
+# name:be: []
+msgid "Воложинский БТИ"
+msgstr ""
+
+# Objects : [w89695776]
+# name:be: []
+msgid "Гасцинец"
+msgstr ""
+
+# Objects : [w193377048]
+# name:be: []
+msgid "Гостиница "Корона""
+msgstr ""
+
+# Objects : [w130524454]
+# name:be: []
+msgid "Дворец Тышкевичей"
+msgstr ""
+
+# Objects : [w171161737]
+# name:be: []
+msgid "Детская библиотека"
+msgstr ""
+
+# Objects : [w89695788]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w171166540]
+# name:be: []
+msgid "ЖЭС"
+msgstr ""
+
+# Objects : [w89695976]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w130522964]
+# name:be: []
+msgid "Иешива"
+msgstr ""
+
+# Objects : [w171303091]
+# name:be: []
+msgid "Кафе "21 век""
+msgstr ""
+
+# Objects : [w193770986]
+# name:be: []
+msgid "Кафе "Мечта""
+msgstr ""
+
+# Objects : [w171161697]
+# name:be: []
+msgid "Кафе "Першайский""
+msgstr ""
+
+# Objects : [w171161739]
+# name:be: []
+msgid "Кафе-бар "Mix""
+msgstr ""
+
+# Objects : [w89695787]
+# name:be: []
+msgid "Кинотеатр"
+msgstr ""
+
+# Objects : [w195184784, w195184800, w196576875, w89695778, w89695779]
+# name:be: []
+msgid "киоск"
+msgstr ""
+
+# Objects : [w171303073, w195015720]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w171303115]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w171131760]
+# name:be: []
+msgid "Лицей (ПТУ-208)"
+msgstr ""
+
+# Objects : [w171488570]
+# name:be: []
+msgid "Мебель; Строитель"
+msgstr ""
+
+# Objects : [w171131725]
+# name:be: []
+msgid "Меридиан"
+msgstr ""
+
+# Objects : [w193770992]
+# name:be: []
+msgid "Минский край"
+msgstr ""
+
+# Objects : [w171303075]
+# name:be: []
+msgid "Общепит"
+msgstr ""
+
+# Objects : [w197627197]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w193770988]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w171161681]
+# name:be: []
+msgid "РАЙПО офис"
+msgstr ""
+
+# Objects : [w89695777]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [w171161668]
+# name:be: []
+msgid "Ресторан "Ислочь""
+msgstr ""
+
+# Objects : [w194926271]
+# name:be: []
+msgid "Ритуальные товары"
+msgstr ""
+
+# Objects : [w130524455]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w171303069]
+# name:be: []
+msgid "Родильное отделение"
+msgstr ""
+
+# Objects : [w171303087]
+# name:be: []
+msgid "РОНО"
+msgstr ""
+
+# Objects : [w171161755]
+# name:be: []
+msgid "Строительный магазин "Максим""
+msgstr ""
+
+# Objects : [w171161692]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [w171161734]
+# name:be: []
+msgid "Типография"
+msgstr ""
+
+# Objects : [w194926231]
+# name:be: []
+msgid "У Алика"
+msgstr ""
+
+# Objects : [w89695775]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w194926274]
+# name:be: []
+msgid "Фабрика здоровья (Джержинский)"
+msgstr ""
+
+# Objects : [w195184786]
+# name:be: []
+msgid "Эдельвейс"
+msgstr ""
+
+# Objects : [w171161750]
+# name:be: []
+msgid "Энергонадзор"
+msgstr ""
+

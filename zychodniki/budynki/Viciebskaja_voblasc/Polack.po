@@ -1,0 +1,250 @@
+# Objects : [w306524376]
+# name:be: []
+msgid "Sofia Hostel"
+msgstr ""
+
+# Objects : [w42065955]
+# name:be: []
+msgid "АГЕНТСТВО ПО ГОС. РЕГИСТРАЦИИ И ЗЕМЕЛЬНОМУ КАДАСТРУ (БТИ) (Полоцк)"
+msgstr ""
+
+# Objects : [w101440605]
+# name:be: [Быліна]
+msgid "Былина"
+msgstr ""
+
+# Objects : [w313090021]
+# name:be: [Воданапорная вежа]
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w42065988]
+# name:be: []
+msgid "Городской дом культуры"
+msgstr ""
+
+# Objects : [r3714465]
+# name:be: [Гарадскі суд]
+msgid "Городской суд"
+msgstr ""
+
+# Objects : [w41447277]
+# name:be: []
+msgid "Детская художественная школа"
+msgstr ""
+
+# Objects : [w42065971]
+# name:be: []
+msgid "Детская школа искусств"
+msgstr ""
+
+# Objects : [w42066631]
+# name:be: [Дзіцячы сад]
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w167357559]
+# name:be: []
+msgid "Дионис"
+msgstr ""
+
+# Objects : [w261279883]
+# name:be: []
+msgid "Дионис-2"
+msgstr ""
+
+# Objects : [w62495414]
+# name:be: []
+msgid "ДК Стекловолокно"
+msgstr ""
+
+# Objects : [w101491990, w42065957, w42068457]
+# name:be: [Дом быту]
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w41446425]
+# name:be: []
+msgid "Домик Петра I"
+msgstr ""
+
+# Objects : [w42066622]
+# name:be: []
+msgid "Дом офицеров"
+msgstr ""
+
+# Objects : [w128160397]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w42068446]
+# name:be: [Чыгуначны вакзал]
+msgid "Ж.д. вокзал"
+msgstr ""
+
+# Objects : [w307929887]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w147109260]
+# name:be: [качагарка]
+msgid "Кочегарка"
+msgstr ""
+
+# Objects : [w310190567]
+# name:be: [Краязнаўчы музей]
+msgid "Краеведческий Музей"
+msgstr ""
+
+# Objects : [w130434009]
+# name:be: [Крыты рынак]
+msgid "Крытый рынок"
+msgstr ""
+
+# Objects : [w42066620]
+# name:be: []
+msgid "КУП "ЖКХ г. Полоцка""
+msgstr ""
+
+# Objects : [w245930485]
+# name:be: []
+msgid "Лесной техникум"
+msgstr ""
+
+# Objects : [w130437437, w273551000]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w147109363]
+# name:be: [крама «Буддом»]
+msgid "магазин "Стройдом""
+msgstr ""
+
+# Objects : [w130568537]
+# name:be: [Міжраённае МРА]
+msgid "МРЭО ГАИ г. Полоцка"
+msgstr ""
+
+# Objects : [w42066624]
+# name:be: [Музей традыцыйнага ручнога ткацтва Паазер’я]
+msgid "Музей традиционного ручного ткачества Поозерья"
+msgstr ""
+
+# Objects : [w211639563]
+# name:be: []
+msgid "ОАО "Полоцк-Стекловолокно", производство СПИ и ТНП"
+msgstr ""
+
+# Objects : [w129929206]
+# name:be: [Інтэрнат Віцебскага аддзялення Беларускай чыгункі]
+msgid "Общежитие Витебского отделения Бел. ж.д."
+msgstr ""
+
+# Objects : [w62495412]
+# name:be: []
+msgid "Оздоровительный комплекс"
+msgstr ""
+
+# Objects : [w128087393]
+# name:be: [Алімпіец]
+msgid "Олимпиец"
+msgstr ""
+
+# Objects : [w323857027]
+# name:be: []
+msgid "Оригинал"
+msgstr ""
+
+# Objects : [w279318242]
+# name:be: []
+msgid "Парус"
+msgstr ""
+
+# Objects : [w189186091]
+# name:be: []
+msgid "плебания"
+msgstr ""
+
+# Objects : [w41444531]
+# name:be: [Полацкі гарвыканкам]
+msgid "Полоцкий горисполком"
+msgstr ""
+
+# Objects : [w42065970]
+# name:be: [Полацкі райвыканкам]
+msgid "Полоцкий райисполком"
+msgstr ""
+
+# Objects : [w211639562]
+# name:be: []
+msgid "Пост весогабаритного контроля"
+msgstr ""
+
+# Objects : [w129929202]
+# name:be: [Практык]
+msgid "Практик"
+msgstr ""
+
+# Objects : [w42068447]
+# name:be: [Чыгуначны вакзал]
+msgid "Пригородные кассы"
+msgstr ""
+
+# Objects : [w261279885]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w130568498]
+# name:be: [СТА «Тэхрамсэрвіс»]
+msgid "СТО "Техремсервис""
+msgstr ""
+
+# Objects : [w172568429]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w101437386]
+# name:be: [Цеплавузел]
+msgid "Теплоузел"
+msgstr ""
+
+# Objects : [w41446817]
+# name:be: [Гандлёвы ліцэй]
+msgid "Торговый лицей"
+msgstr ""
+
+# Objects : [w273592400]
+# name:be: []
+msgid "Торговый центр "Мир""
+msgstr ""
+
+# Objects : [w42065935]
+# name:be: [ТРК "Скарб 1"]
+msgid "ТРК "Скарб 1""
+msgstr ""
+
+# Objects : [w42065943]
+# name:be: [ТРК "Скарб 2"]
+msgid "ТРК "Скарб 2""
+msgstr ""
+
+# Objects : [w62495401]
+# name:be: []
+msgid "ТЦ Евролюкс"
+msgstr ""
+
+# Objects : [w216077834]
+# name:be: [ГЦ «Стралец»]
+msgid "ТЦ Стрелец"
+msgstr ""
+
+# Objects : [w101491989]
+# name:be: [Універсам №40]
+msgid "Универсам №40"
+msgstr ""
+

@@ -1,0 +1,80 @@
+# Objects : [n1073224828, n1073224832]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n1073224778, n1073224884]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n1073224780]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n1073224721, n1073224802]
+# name:be: []
+msgid "Загородная"
+msgstr ""
+
+# Objects : [n1073224735, n1073224768]
+# name:be: []
+msgid "Известковый"
+msgstr ""
+
+# Objects : [n1073224738, n1073224871]
+# name:be: []
+msgid "КСМ"
+msgstr ""
+
+# Objects : [n1073224743, n1073224815]
+# name:be: []
+msgid "ЛВЗ"
+msgstr ""
+
+# Objects : [n1073224713, n1073224741]
+# name:be: []
+msgid "парк"
+msgstr ""
+
+# Objects : [n1073224736, n1073224798]
+# name:be: []
+msgid "ПМК-256"
+msgstr ""
+
+# Objects : [n1073224779, n1073224875]
+# name:be: [Рынак]
+msgid "рынок"
+msgstr ""
+
+# Objects : [n1073224867, n1073224920]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [n1073224774, n1073224811]
+# name:be: [Сонечная]
+msgid "Солнечная"
+msgstr ""
+
+# Objects : [n1073224709, n1073224835, n1073224908]
+# name:be: [Тэхнікум]
+msgid "техникум"
+msgstr ""
+
+# Objects : [n1073224794, n1073224911]
+# name:be: [вуліца Болдзіна]
+msgid "улица Болдина"
+msgstr ""
+
+# Objects : [n1073224719, n1073224723]
+# name:be: [Хлебазавод]
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n1073224806, n1073224840]
+# name:be: [Школа]
+msgid "школа"
+msgstr ""
+

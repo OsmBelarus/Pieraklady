@@ -1,0 +1,200 @@
+# Objects : [n1652655304]
+# name:be: []
+msgid "777"
+msgstr ""
+
+# Objects : [n1409887119]
+# name:be: []
+msgid "999 мелочей"
+msgstr ""
+
+# Objects : [n2527754846]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1428238368]
+# name:be: []
+msgid "Будауник"
+msgstr ""
+
+# Objects : [n1442219005]
+# name:be: [Віцязь]
+msgid "Витязь"
+msgstr ""
+
+# Objects : [n1396145042]
+# name:be: []
+msgid "Волат"
+msgstr ""
+
+# Objects : [n1429910095]
+# name:be: []
+msgid "Гаечка"
+msgstr ""
+
+# Objects : [n2592381193]
+# name:be: []
+msgid "Газета "Регион""
+msgstr ""
+
+# Objects : [n2267128140]
+# name:be: []
+msgid "Доктор Дог"
+msgstr ""
+
+# Objects : [n1428238370, n1695892964]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
+# Objects : [n1428238371]
+# name:be: []
+msgid "Домовой+"
+msgstr ""
+
+# Objects : [n2346169893]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n1396145065]
+# name:be: []
+msgid "Железнодорожный"
+msgstr ""
+
+# Objects : [n1123091898]
+# name:be: []
+msgid "Западный"
+msgstr ""
+
+# Objects : [n1752926362]
+# name:be: []
+msgid "Западстрой"
+msgstr ""
+
+# Objects : [n1026310619]
+# name:be: []
+msgid "Изюминка"
+msgstr ""
+
+# Objects : [n2151873404]
+# name:be: []
+msgid "Инструмент Техника"
+msgstr ""
+
+# Objects : [n1764175461]
+# name:be: []
+msgid "ИП Ковель"
+msgstr ""
+
+# Objects : [n1396144981]
+# name:be: []
+msgid "Колосок-2"
+msgstr ""
+
+# Objects : [n2792202322]
+# name:be: []
+msgid "Колосок-3"
+msgstr ""
+
+# Objects : [n2831371310]
+# name:be: []
+msgid "Комод"
+msgstr ""
+
+# Objects : [n1123091897]
+# name:be: [Крынiца]
+msgid "Криница"
+msgstr ""
+
+# Objects : [n1396144972]
+# name:be: [Люкс]
+msgid "Люкс"
+msgstr ""
+
+# Objects : [n1442219007, n1442219008]
+# name:be: [Мэбля]
+msgid "Мебель"
+msgstr ""
+
+# Objects : [n1396145008]
+# name:be: []
+msgid "Монтажник"
+msgstr ""
+
+# Objects : [n2151873406]
+# name:be: []
+msgid "Олимп"
+msgstr ""
+
+# Objects : [n1113038341]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n1607299757]
+# name:be: []
+msgid "Ритуал"
+msgstr ""
+
+# Objects : [n1442219009]
+# name:be: []
+msgid "Стиль"
+msgstr ""
+
+# Objects : [n1421933983, n1421933990]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1429910100]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [n1652655137]
+# name:be: []
+msgid "Тихий"
+msgstr ""
+
+# Objects : [n1695892969]
+# name:be: []
+msgid "Три О"
+msgstr ""
+
+# Objects : [n1953035532]
+# name:be: []
+msgid "Триумф"
+msgstr ""
+
+# Objects : [n914310165]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n1409887153]
+# name:be: []
+msgid "Уютный дом"
+msgstr ""
+
+# Objects : [n1376534299]
+# name:be: [Фея]
+msgid "Фея"
+msgstr ""
+
+# Objects : [n2151873407]
+# name:be: []
+msgid "Центр обслуживания МТС"
+msgstr ""
+
+# Objects : [n1374121303]
+# name:be: []
+msgid "Эконом"
+msgstr ""
+
+# Objects : [n1409887116]
+# name:be: []
+msgid "Электрик"
+msgstr ""
+

@@ -1,0 +1,85 @@
+# Objects : [r1819771]
+# name:be: []
+msgid "Автобус №1: Апуток - Орджоникидзе"
+msgstr ""
+
+# Objects : [w201574812]
+# name:be: []
+msgid "Александрина"
+msgstr ""
+
+# Objects : [n3281908526]
+# name:be: []
+msgid "бассейн"
+msgstr ""
+
+# Objects : [n306065734]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n306065919]
+# name:be: [Гаі]
+msgid "Гаи"
+msgstr ""
+
+# Objects : [n2131953894]
+# name:be: []
+msgid "Депортамент охраны МВД"
+msgstr ""
+
+# Objects : [n2126147783]
+# name:be: []
+msgid "Исполком"
+msgstr ""
+
+# Objects : [n3281902585]
+# name:be: []
+msgid "Остановка маршрутного такси"
+msgstr ""
+
+# Objects : [n1870145990]
+# name:be: []
+msgid "памятник Ленину"
+msgstr ""
+
+# Objects : [n1115197143]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n2129567546]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [n1195122597]
+# name:be: []
+msgid "РОЧС"
+msgstr ""
+
+# Objects : [w161013031]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2131940016]
+# name:be: [Смалявічы]
+msgid "Смолевичи"
+msgstr ""
+
+# Objects : [n2131996376]
+# name:be: []
+msgid "Суд"
+msgstr ""
+
+# Objects : [n306065747]
+# name:be: [Мытня]
+msgid "Таможня"
+msgstr ""
+
+# Objects : [n3281908162]
+# name:be: []
+msgid "тренажерный зал"
+msgstr ""
+

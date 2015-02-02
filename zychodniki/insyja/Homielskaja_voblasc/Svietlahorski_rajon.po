@@ -1,0 +1,515 @@
+# Objects : [n2297452861]
+# name:be: []
+msgid ""Континент""
+msgstr ""
+
+# Objects : [n1180658187]
+# name:be: []
+msgid ""Маентак""
+msgstr ""
+
+# Objects : [n1061780446]
+# name:be: []
+msgid ""Молчащий колокол""
+msgstr ""
+
+# Objects : [n2297456754]
+# name:be: []
+msgid ""Ягуар""
+msgstr ""
+
+# Objects : [w191118791]
+# name:be: []
+msgid "Автобусный парк №2"
+msgstr ""
+
+# Objects : [w137835281]
+# name:be: []
+msgid "Автобусный парк №5"
+msgstr ""
+
+# Objects : [w283919418, w283919419]
+# name:be: []
+msgid "Арочный"
+msgstr ""
+
+# Objects : [w281784586]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w288142167]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2181178048]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w25194365]
+# name:be: []
+msgid "Белогорское"
+msgstr ""
+
+# Objects : [w287414842]
+# name:be: []
+msgid "Берёзки [хоздвор]"
+msgstr ""
+
+# Objects : [w25194296]
+# name:be: []
+msgid "Большое"
+msgstr ""
+
+# Objects : [n2192148574]
+# name:be: []
+msgid "Братская могила, похоронен Герой Советского Союза Петр Мирошниченко"
+msgstr ""
+
+# Objects : [n2899848708]
+# name:be: []
+msgid "Братская могила солдат, погибших во Второй мировой войне"
+msgstr ""
+
+# Objects : [n1061780467]
+# name:be: []
+msgid "Бриллиант"
+msgstr ""
+
+# Objects : [w208262592]
+# name:be: []
+msgid "гимназия №1 (СШ №7)"
+msgstr ""
+
+# Objects : [w25194706]
+# name:be: []
+msgid "Глушец"
+msgstr ""
+
+# Objects : [n2766736609]
+# name:be: []
+msgid "Гостиница Маёнтак"
+msgstr ""
+
+# Objects : [n2766736634]
+# name:be: []
+msgid "Гостиница ОАО Светлогорск Химволокно"
+msgstr ""
+
+# Objects : [n2766736674]
+# name:be: []
+msgid "Гостиница Светочь"
+msgstr ""
+
+# Objects : [w288205792]
+# name:be: []
+msgid "ГПП"
+msgstr ""
+
+# Objects : [w244032639]
+# name:be: []
+msgid "ГРП-12"
+msgstr ""
+
+# Objects : [w285888392]
+# name:be: []
+msgid "ГРП-13"
+msgstr ""
+
+# Objects : [w244031574]
+# name:be: []
+msgid "ГРП-14"
+msgstr ""
+
+# Objects : [w282049847]
+# name:be: []
+msgid "ГРП-15"
+msgstr ""
+
+# Objects : [w285974895]
+# name:be: []
+msgid "ГРП-21"
+msgstr ""
+
+# Objects : [n2297445592]
+# name:be: []
+msgid "ГУЗ "Светлогорская ЦРБ""
+msgstr ""
+
+# Objects : [n1180689430]
+# name:be: []
+msgid "детская районная поликлиника"
+msgstr ""
+
+# Objects : [w285974896]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [n2912439116]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w137835296]
+# name:be: []
+msgid "Домостроительный комбинат"
+msgstr ""
+
+# Objects : [n2194059716]
+# name:be: []
+msgid "Дом ремесел"
+msgstr ""
+
+# Objects : [w207880113]
+# name:be: []
+msgid "Завод ЖБИиК"
+msgstr ""
+
+# Objects : [w191118191]
+# name:be: []
+msgid "Завод картонной упаковки"
+msgstr ""
+
+# Objects : [w137835289]
+# name:be: []
+msgid "Зал бокса"
+msgstr ""
+
+# Objects : [w25193713]
+# name:be: []
+msgid "Затонское"
+msgstr ""
+
+# Objects : [w289679156]
+# name:be: []
+msgid "Карьер "Чкалово""
+msgstr ""
+
+# Objects : [w68389876]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [w285888417]
+# name:be: []
+msgid "контс."
+msgstr ""
+
+# Objects : [w291736271]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
+# Objects : [w290167400]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w207917683]
+# name:be: []
+msgid "Легмаш"
+msgstr ""
+
+# Objects : [w245979208, w272447319, w277679273, w281512086, w283111289, w284610238]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w277653013, w286423113, w295090814]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w277653014]
+# name:be: []
+msgid "Магазинг"
+msgstr ""
+
+# Objects : [n1505788100]
+# name:be: []
+msgid "Миколин остров"
+msgstr ""
+
+# Objects : [w281512090]
+# name:be: []
+msgid "музей"
+msgstr ""
+
+# Objects : [w115739057]
+# name:be: []
+msgid "Нефтесборный пункт "Давыдовка""
+msgstr ""
+
+# Objects : [w287339048]
+# name:be: []
+msgid "ОАО "Светлогорский молочный завод""
+msgstr ""
+
+# Objects : [w137835298]
+# name:be: []
+msgid "ОАО "СветлогорскХимволокно""
+msgstr ""
+
+# Objects : [w277679092]
+# name:be: []
+msgid "Овощьная фабрика"
+msgstr ""
+
+# Objects : [n1180692594]
+# name:be: []
+msgid "ОПОП-3"
+msgstr ""
+
+# Objects : [n306068905]
+# name:be: [Астанкавічы]
+msgid "Останковичи"
+msgstr ""
+
+# Objects : [w25192669]
+# name:be: []
+msgid "Осух"
+msgstr ""
+
+# Objects : [w57375878]
+# name:be: []
+msgid "Паліклініка"
+msgstr ""
+
+# Objects : [n1061780488]
+# name:be: []
+msgid "Памятный знак основателю города Р. Шатиле"
+msgstr ""
+
+# Objects : [n2193992873]
+# name:be: []
+msgid "ПАСЧ №4"
+msgstr ""
+
+# Objects : [w314235450]
+# name:be: []
+msgid "Пицерия"
+msgstr ""
+
+# Objects : [n1061780474]
+# name:be: []
+msgid "Погибшим воинам-интернационалистам"
+msgstr ""
+
+# Objects : [n919556442]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n1190923507]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [w210732510]
+# name:be: []
+msgid "Продуктовый рынок"
+msgstr ""
+
+# Objects : [n3219903987]
+# name:be: []
+msgid "Прудище"
+msgstr ""
+
+# Objects : [w277679093]
+# name:be: []
+msgid "Птицефабрика"
+msgstr ""
+
+# Objects : [w283586342]
+# name:be: []
+msgid "Резервуар"
+msgstr ""
+
+# Objects : [n2686909026]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w277653015]
+# name:be: []
+msgid "РПУ "Светлогорскрайгаз""
+msgstr ""
+
+# Objects : [w206682888]
+# name:be: []
+msgid "Рунь"
+msgstr ""
+
+# Objects : [w290571415, w290571416, w290571426, w68389906]
+# name:be: []
+msgid "РУП "Белтелеком""
+msgstr ""
+
+# Objects : [w129401454]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w129401427]
+# name:be: []
+msgid "Рынок центральный"
+msgstr ""
+
+# Objects : [w288459646]
+# name:be: []
+msgid "санаторий серебряные ключи"
+msgstr ""
+
+# Objects : [n705973403]
+# name:be: [Светлагорск]
+msgid "Светлогорск"
+msgstr ""
+
+# Objects : [w209325778]
+# name:be: []
+msgid "Светлогорский ЦКК"
+msgstr ""
+
+# Objects : [n1061780463]
+# name:be: []
+msgid "Светлогорский ЦКК (2-й этаж)"
+msgstr ""
+
+# Objects : [n331099923]
+# name:be: [Светлагорск-на-Бярэзіне]
+msgid "Светлогорск-на-Березине"
+msgstr ""
+
+# Objects : [w33325941]
+# name:be: []
+msgid "Светлогорское"
+msgstr ""
+
+# Objects : [w315857840]
+# name:be: []
+msgid "скважина"
+msgstr ""
+
+# Objects : [w315857841]
+# name:be: []
+msgid "Скважина"
+msgstr ""
+
+# Objects : [w286060208]
+# name:be: []
+msgid "Слоновник"
+msgstr ""
+
+# Objects : [w126521416]
+# name:be: []
+msgid "Стадион "Химик""
+msgstr ""
+
+# Objects : [w25191376]
+# name:be: []
+msgid "Старик"
+msgstr ""
+
+# Objects : [w281784588]
+# name:be: []
+msgid "столовая"
+msgstr ""
+
+# Objects : [n1537109952]
+# name:be: []
+msgid "Стоматалогия"
+msgstr ""
+
+# Objects : [w314235452]
+# name:be: []
+msgid "Стоянка"
+msgstr ""
+
+# Objects : [n1190626911]
+# name:be: []
+msgid "Стоянка у ГАИ"
+msgstr ""
+
+# Objects : [w283588910]
+# name:be: []
+msgid "Сушка"
+msgstr ""
+
+# Objects : [w208261735]
+# name:be: []
+msgid "СШ №8"
+msgstr ""
+
+# Objects : [w286060207]
+# name:be: []
+msgid "телятник"
+msgstr ""
+
+# Objects : [w314235453]
+# name:be: []
+msgid "Торговый рынок"
+msgstr ""
+
+# Objects : [w316545467]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w68390045]
+# name:be: [Цэнтральная раённая бальніца]
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [n1190686836]
+# name:be: []
+msgid "центр досуга Тандем"
+msgstr ""
+
+# Objects : [w272785697]
+# name:be: []
+msgid "ЧПУП "Белая русь""
+msgstr ""
+
+# Objects : [w272785698]
+# name:be: []
+msgid "ЧПУП "Ясень""
+msgstr ""
+
+# Objects : [w205894838]
+# name:be: []
+msgid "Шатилинский"
+msgstr ""
+
+# Objects : [r3858817]
+# name:be: []
+msgid "Школьная 2"
+msgstr ""
+
+# Objects : [r3858818]
+# name:be: []
+msgid "Школьная 4"
+msgstr ""
+
+# Objects : [r3858819]
+# name:be: []
+msgid "Школьная 6"
+msgstr ""
+
+# Objects : [r3858820]
+# name:be: []
+msgid "Школьная 8"
+msgstr ""
+
+# Objects : [r3858821]
+# name:be: []
+msgid "Школьная 8а"
+msgstr ""
+
+# Objects : [w282046641]
+# name:be: []
+msgid "ШРП №4"
+msgstr ""
+

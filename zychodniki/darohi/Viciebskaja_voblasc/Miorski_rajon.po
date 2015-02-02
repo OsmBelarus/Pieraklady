@@ -1,0 +1,110 @@
+# Objects : [w264248817]
+# name:be: []
+msgid "2-й переулок Изварина"
+msgstr ""
+
+# Objects : [w231753541]
+# name:be: [Дворышча]
+msgid "Дворище"
+msgstr ""
+
+# Objects : [w35029830]
+# name:be: []
+msgid "Дворносельская улица"
+msgstr ""
+
+# Objects : [w35062995]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w35029831]
+# name:be: []
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w258514900]
+# name:be: []
+msgid "Кольцевая улица"
+msgstr ""
+
+# Objects : [w314365793]
+# name:be: []
+msgid "Ленина улица"
+msgstr ""
+
+# Objects : [w256956577, w82699679]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w30251847, w35062997, w35162867]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w188317102, w231753545, w35062999]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w264248815]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w35067422]
+# name:be: []
+msgid "переулок Дворищанский"
+msgstr ""
+
+# Objects : [w170265274]
+# name:be: []
+msgid "переулок Изварина"
+msgstr ""
+
+# Objects : [w254869243]
+# name:be: []
+msgid "Пешеходная дорожка полуострова"
+msgstr ""
+
+# Objects : [w35029829]
+# name:be: []
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w35062994]
+# name:be: [Прыазёрная вуліца]
+msgid "Приозёрная улица"
+msgstr ""
+
+# Objects : [w25269965]
+# name:be: [Рабочая вуліца]
+msgid "Рабочая улица"
+msgstr ""
+
+# Objects : [w256947785]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w35065267]
+# name:be: []
+msgid "улица Изварина"
+msgstr ""
+
+# Objects : [w256830730]
+# name:be: []
+msgid "улица Новая Изварина"
+msgstr ""
+
+# Objects : [w214643956]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w82361410]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+

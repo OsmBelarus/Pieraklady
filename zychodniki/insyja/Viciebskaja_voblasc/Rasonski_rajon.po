@@ -1,0 +1,305 @@
+# Objects : [w169754912]
+# name:be: []
+msgid "Бар н.п. Клястицы"
+msgstr ""
+
+# Objects : [w25199757, w25201466]
+# name:be: [Белае]
+msgid "Белое"
+msgstr ""
+
+# Objects : [w25188996]
+# name:be: []
+msgid "Боровно"
+msgstr ""
+
+# Objects : [w25195332]
+# name:be: []
+msgid "Бредно"
+msgstr ""
+
+# Objects : [w25196224]
+# name:be: []
+msgid "Бродно"
+msgstr ""
+
+# Objects : [r2970586]
+# name:be: []
+msgid "Вальковское"
+msgstr ""
+
+# Objects : [r72592]
+# name:be: [воз. Вядзета]
+msgid "Ведето"
+msgstr ""
+
+# Objects : [w25197238]
+# name:be: []
+msgid "Велье"
+msgstr ""
+
+# Objects : [r391168]
+# name:be: []
+msgid "Волоба"
+msgstr ""
+
+# Objects : [w25187230]
+# name:be: []
+msgid "Вшивец"
+msgstr ""
+
+# Objects : [w25196442]
+# name:be: [Глыбокае]
+msgid "Глубокое"
+msgstr ""
+
+# Objects : [w25190850]
+# name:be: [Глухое воз.]
+msgid "Глухое"
+msgstr ""
+
+# Objects : [w25200166]
+# name:be: []
+msgid "Глыба"
+msgstr ""
+
+# Objects : [w25194805]
+# name:be: []
+msgid "Глыбочено"
+msgstr ""
+
+# Objects : [n447873865]
+# name:be: []
+msgid "Горбачево-Клиновое"
+msgstr ""
+
+# Objects : [w25199060]
+# name:be: [Гародна]
+msgid "Городно"
+msgstr ""
+
+# Objects : [r299295]
+# name:be: []
+msgid "Демя"
+msgstr ""
+
+# Objects : [w25191555]
+# name:be: []
+msgid "Деражня"
+msgstr ""
+
+# Objects : [w25198826]
+# name:be: [р. Дрыса]
+msgid "Дрисса"
+msgstr ""
+
+# Objects : [w25201078]
+# name:be: []
+msgid "Дриссы"
+msgstr ""
+
+# Objects : [w25195190]
+# name:be: [Звярынае воз.]
+msgid "Звериное"
+msgstr ""
+
+# Objects : [w25199923]
+# name:be: []
+msgid "Изубрица"
+msgstr ""
+
+# Objects : [w25187242]
+# name:be: [воз. Ілава]
+msgid "Илово"
+msgstr ""
+
+# Objects : [w25192893]
+# name:be: []
+msgid "Карковское"
+msgstr ""
+
+# Objects : [w25195189]
+# name:be: []
+msgid "Клешня"
+msgstr ""
+
+# Objects : [n274730093]
+# name:be: []
+msgid "Клястицкая ГЭС"
+msgstr ""
+
+# Objects : [w25193312]
+# name:be: []
+msgid "Конторское"
+msgstr ""
+
+# Objects : [n447873858]
+# name:be: []
+msgid "Краснополье-Стайки"
+msgstr ""
+
+# Objects : [n494154851]
+# name:be: []
+msgid "Кролова хата"
+msgstr ""
+
+# Objects : [n494155146]
+# name:be: []
+msgid "Курган «Могилы Рогволода и Рогнеды»"
+msgstr ""
+
+# Objects : [w25190771]
+# name:be: []
+msgid "Лоно"
+msgstr ""
+
+# Objects : [w25200935]
+# name:be: [Межава]
+msgid "Межево"
+msgstr ""
+
+# Objects : [w25199869]
+# name:be: []
+msgid "Межно"
+msgstr ""
+
+# Objects : [w25196050]
+# name:be: []
+msgid "Моховое"
+msgstr ""
+
+# Objects : [r77429]
+# name:be: []
+msgid "Мылинское"
+msgstr ""
+
+# Objects : [w318823869]
+# name:be: []
+msgid "нефтепровод"
+msgstr ""
+
+# Objects : [w25199077]
+# name:be: []
+msgid "Нища"
+msgstr ""
+
+# Objects : [w25189518]
+# name:be: []
+msgid "Ночевки"
+msgstr ""
+
+# Objects : [r391169]
+# name:be: []
+msgid "Оптино"
+msgstr ""
+
+# Objects : [w25198127]
+# name:be: [Астраўцы]
+msgid "Островцы"
+msgstr ""
+
+# Objects : [n494154538]
+# name:be: []
+msgid "Памятный камень Яну Барщевскому"
+msgstr ""
+
+# Objects : [w25181324]
+# name:be: []
+msgid "Плотишенки"
+msgstr ""
+
+# Objects : [w169754917]
+# name:be: []
+msgid "Подсобное помещение"
+msgstr ""
+
+# Objects : [n2788684232, n2788684233]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w25197108]
+# name:be: [воз. Пралобна]
+msgid "Пролобно"
+msgstr ""
+
+# Objects : [w25197138]
+# name:be: [Расамачынскае воз.]
+msgid "Россомачинское"
+msgstr ""
+
+# Objects : [w25195528]
+# name:be: [Свярынаўскае]
+msgid "Свериновское"
+msgstr ""
+
+# Objects : [w25188805]
+# name:be: [Святое воз.]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w25199524]
+# name:be: [Сяляўскае воз.]
+msgid "Селявское"
+msgstr ""
+
+# Objects : [w25195005]
+# name:be: []
+msgid "Семененки"
+msgstr ""
+
+# Objects : [w48650560]
+# name:be: [воз. Сіньша]
+msgid "Синьша"
+msgstr ""
+
+# Objects : [w25193918]
+# name:be: []
+msgid "Среднее"
+msgstr ""
+
+# Objects : [w25198005]
+# name:be: []
+msgid "Тутчо"
+msgstr ""
+
+# Objects : [w25196054]
+# name:be: [воз. Убежа (Убежжа)]
+msgid "Убежо"
+msgstr ""
+
+# Objects : [w25201893]
+# name:be: []
+msgid "Усвечье"
+msgstr ""
+
+# Objects : [w25198083]
+# name:be: []
+msgid "Черепетское"
+msgstr ""
+
+# Objects : [w25190640]
+# name:be: [Чорнае]
+msgid "Черное"
+msgstr ""
+
+# Objects : [w25199435]
+# name:be: [Шэвіна]
+msgid "Шевино"
+msgstr ""
+
+# Objects : [n3228205095]
+# name:be: []
+msgid "Юховичи"
+msgstr ""
+
+# Objects : [w25200738]
+# name:be: [Якаўскае воз.]
+msgid "Яковское"
+msgstr ""
+
+# Objects : [w25198933]
+# name:be: []
+msgid "Ямно"
+msgstr ""
+

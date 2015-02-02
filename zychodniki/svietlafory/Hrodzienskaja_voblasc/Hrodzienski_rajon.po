@@ -1,0 +1,145 @@
+# Objects : [n2567082204]
+# name:be: []
+msgid "Береговой"
+msgstr ""
+
+# Objects : [n541217396]
+# name:be: [Багатая вуліца]
+msgid "Богатая улица"
+msgstr ""
+
+# Objects : [n695828071]
+# name:be: [Баяры]
+msgid "Бояры"
+msgstr ""
+
+# Objects : [n474829244]
+# name:be: [Бросты]
+msgid "Бросты"
+msgstr ""
+
+# Objects : [n2276410569]
+# name:be: []
+msgid "Гибуличи"
+msgstr ""
+
+# Objects : [n2345811330, n541342417]
+# name:be: []
+msgid "Гожа"
+msgstr ""
+
+# Objects : [n1863721268, n2258701380]
+# name:be: [Галаўнічы]
+msgid "Головничи"
+msgstr ""
+
+# Objects : [n1274268667]
+# name:be: []
+msgid "Горадзейски Маёнтак"
+msgstr ""
+
+# Objects : [n810138510]
+# name:be: [Дачы]
+msgid "дачи"
+msgstr ""
+
+# Objects : [n2948313170]
+# name:be: []
+msgid "Добровольщизна / Королино"
+msgstr ""
+
+# Objects : [n2276410570, n2276410571]
+# name:be: [Зарубічы]
+msgid "Зарубичи"
+msgstr ""
+
+# Objects : [n2567078012, n2567078232]
+# name:be: []
+msgid "Котра"
+msgstr ""
+
+# Objects : [n847177156, n847177201]
+# name:be: [Новая Гожа]
+msgid "Новая Гожа"
+msgstr ""
+
+# Objects : [n1740102489, n1816629935]
+# name:be: [Абуховічы]
+msgid "Обуховичи"
+msgstr ""
+
+# Objects : [n1740102473, n1863692459]
+# name:be: [Абухава]
+msgid "Обухово"
+msgstr ""
+
+# Objects : [n810138537]
+# name:be: [возера Юбілейнае]
+msgid "озеро Юбилейное"
+msgstr ""
+
+# Objects : [n2263115413, n2263115417]
+# name:be: [Азёры]
+msgid "Озёры"
+msgstr ""
+
+# Objects : [n847177126, n847177168]
+# name:be: []
+msgid "Островок-1"
+msgstr ""
+
+# Objects : [n1740102419]
+# name:be: [Пясчанка]
+msgid "Песчанка"
+msgstr ""
+
+# Objects : [n1740112638, n1740112639]
+# name:be: [Плябанішкі]
+msgid "Плебанишки"
+msgstr ""
+
+# Objects : [n1740112637, n2345811355]
+# name:be: [Райста]
+msgid "Райста"
+msgstr ""
+
+# Objects : [n2906399045, n632718043]
+# name:be: [Рацічы]
+msgid "Ратичи"
+msgstr ""
+
+# Objects : [n1740102496, n1863692466]
+# name:be: []
+msgid "Сивково"
+msgstr ""
+
+# Objects : [n1740102420, n2093998876]
+# name:be: []
+msgid "Сикорица"
+msgstr ""
+
+# Objects : [n1740102449, n2567080480]
+# name:be: []
+msgid "Соболевка"
+msgstr ""
+
+# Objects : [n1740102418, n2093998730]
+# name:be: []
+msgid "Стрельцы"
+msgstr ""
+
+# Objects : [n2948305629, n2948305630]
+# name:be: []
+msgid "Татарка"
+msgstr ""
+
+# Objects : [n810160024]
+# name:be: [Вучэбны цэнтр]
+msgid "Учебный Центр"
+msgstr ""
+
+# Objects : [n2495997355, n2495997359]
+# name:be: []
+msgid "Щечиново"
+msgstr ""
+

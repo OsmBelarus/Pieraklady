@@ -1,0 +1,85 @@
+# Objects : [n3096023129]
+# name:be: []
+msgid "Альфа-банк"
+msgstr ""
+
+# Objects : [n1612280409]
+# name:be: []
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [n3189607581]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1296734204, n306061864, n306062495, n306063934, n306064018]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n2341648860]
+# name:be: [Беларусбанк (інфакіёск)]
+msgid "Беларусбанк (Инфокиоск)"
+msgstr ""
+
+# Objects : [n306063469]
+# name:be: []
+msgid "Белвнешэкономбанк"
+msgstr ""
+
+# Objects : [n3306870464]
+# name:be: []
+msgid "БелВЭБ"
+msgstr ""
+
+# Objects : [n3058605635, n3306870463, n3322743167]
+# name:be: []
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [n2526854013, n2563438224, n306062046, n306064028, n3295540834, n772889810]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n3323304486]
+# name:be: []
+msgid "БПС"
+msgstr ""
+
+# Objects : [n306064030]
+# name:be: []
+msgid "Внешэконом"
+msgstr ""
+
+# Objects : [n3322792195]
+# name:be: []
+msgid "ВТБ"
+msgstr ""
+
+# Objects : [n1446469508]
+# name:be: []
+msgid "ВТБ Банк"
+msgstr ""
+
+# Objects : [n306063451]
+# name:be: []
+msgid "Москва-Минск"
+msgstr ""
+
+# Objects : [n306063459, n3221278071]
+# name:be: []
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n306064023]
+# name:be: []
+msgid "Промстройбанк"
+msgstr ""
+
+# Objects : [n306064292]
+# name:be: []
+msgid "Санта"
+msgstr ""
+

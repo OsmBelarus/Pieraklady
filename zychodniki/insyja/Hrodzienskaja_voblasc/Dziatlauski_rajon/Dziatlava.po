@@ -1,0 +1,140 @@
+# Objects : [w262514664]
+# name:be: []
+msgid "bashnija"
+msgstr ""
+
+# Objects : [n1656294153]
+# name:be: []
+msgid "Братская Могила"
+msgstr ""
+
+# Objects : [n1806643399]
+# name:be: []
+msgid "БТР"
+msgstr ""
+
+# Objects : [n1807276519]
+# name:be: []
+msgid "Гостиница Дядя-Ваня"
+msgstr ""
+
+# Objects : [n1807254467]
+# name:be: []
+msgid "гостиница Липичанка"
+msgstr ""
+
+# Objects : [n2788680251]
+# name:be: [Палац Солтанаў]
+msgid "Дворец Солтанов"
+msgstr ""
+
+# Objects : [w262628637]
+# name:be: []
+msgid "Детский сад №2"
+msgstr ""
+
+# Objects : [w169603636]
+# name:be: []
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [n1806660501]
+# name:be: []
+msgid "Дядя-Ваня"
+msgstr ""
+
+# Objects : [n1309793193]
+# name:be: []
+msgid "Дятловская центральная районная больница"
+msgstr ""
+
+# Objects : [n1806649081]
+# name:be: [Дзятлаўскі краяведчы музей]
+msgid "Дятловский краеведческий музей"
+msgstr ""
+
+# Objects : [n1309791619]
+# name:be: [Дзятлаўскі раённы дом культуры]
+msgid "Дятловский районный дом культуры"
+msgstr ""
+
+# Objects : [n1807244751]
+# name:be: []
+msgid "Дятловский районный отдел следственного комитета"
+msgstr ""
+
+# Objects : [w152867242]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [w169602866]
+# name:be: []
+msgid "Комбинат бытового обслуживания населения"
+msgstr ""
+
+# Objects : [n2788682317]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n1807254430]
+# name:be: []
+msgid "Липичанка"
+msgstr ""
+
+# Objects : [w124097520, w262628676]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1375987477]
+# name:be: [Міліцыя]
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w262628677, w262631610, w262631611]
+# name:be: []
+msgid "Огороды"
+msgstr ""
+
+# Objects : [n2704225181]
+# name:be: []
+msgid "Отдел ЗАГС"
+msgstr ""
+
+# Objects : [n1807214621]
+# name:be: []
+msgid "памятник Ленину"
+msgstr ""
+
+# Objects : [n1807244754]
+# name:be: []
+msgid "памятник Филидовичу"
+msgstr ""
+
+# Objects : [n1388993333]
+# name:be: []
+msgid "Пушка"
+msgstr ""
+
+# Objects : [n1807237673]
+# name:be: []
+msgid "РОЧС"
+msgstr ""
+
+# Objects : [n2704225212]
+# name:be: [Суд Дзятлаўскага раёна]
+msgid "Суд Дятловского района"
+msgstr ""
+
+# Objects : [n2704225219]
+# name:be: []
+msgid "Управление сельского хозяйства"
+msgstr ""
+
+# Objects : [n2788686134]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+

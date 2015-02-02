@@ -1,0 +1,50 @@
+# Objects : [w122326464]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w125787079]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w125787080]
+# name:be: [Ціхая вуліца]
+msgid "Тихая улица"
+msgstr ""
+
+# Objects : [w122326462]
+# name:be: [вуліца 1 Мая]
+msgid "улица 1 Мая"
+msgstr ""
+
+# Objects : [w125787075]
+# name:be: [вуліца 3 Лютага]
+msgid "улица 3 Февраля"
+msgstr ""
+
+# Objects : [w125787077]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w122326428]
+# name:be: [вуліца Максіма Горкага]
+msgid "улица Максима Горького"
+msgstr ""
+
+# Objects : [w125787078]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w115205327]
+# name:be: [вуліца Тадэуша Кастюшкі]
+msgid "улица Тадеуша Костюшко"
+msgstr ""
+
+# Objects : [w122326453]
+# name:be: [вуліца Чарткова]
+msgid "улица Черткова"
+msgstr ""
+

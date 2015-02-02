@@ -1,0 +1,30 @@
+# Objects : [n1176163357]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n1508589307]
+# name:be: []
+msgid "ДРСУ-170"
+msgstr ""
+
+# Objects : [n1508589310]
+# name:be: []
+msgid "Задруцкая Слобода"
+msgstr ""
+
+# Objects : [n1508589299]
+# name:be: []
+msgid "парк"
+msgstr ""
+
+# Objects : [n1508589323]
+# name:be: [Пошта]
+msgid "почта"
+msgstr ""
+
+# Objects : [n1508589291, n1508589293]
+# name:be: [Рынак]
+msgid "рынок"
+msgstr ""
+

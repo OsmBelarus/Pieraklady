@@ -1,0 +1,290 @@
+# Objects : [w316215710]
+# name:be: []
+msgid ""Могилевское госплемпредприятие" РУСПП"
+msgstr ""
+
+# Objects : [w224325663]
+# name:be: []
+msgid "106"
+msgstr ""
+
+# Objects : [w224325664]
+# name:be: []
+msgid "121"
+msgstr ""
+
+# Objects : [w25089127]
+# name:be: []
+msgid "агрокомбинат Восход"
+msgstr ""
+
+# Objects : [w86757110]
+# name:be: []
+msgid "БелМаркет"
+msgstr ""
+
+# Objects : [r3117410]
+# name:be: [Бярозавая вуліца]
+msgid "Берёзовая улица"
+msgstr ""
+
+# Objects : [n1615809382]
+# name:be: [Бальница медыцынскай рэабiлiтацыi]
+msgid "Больница медицинской реабилитации"
+msgstr ""
+
+# Objects : [n1034027810]
+# name:be: []
+msgid "Братская Могила 1941"
+msgstr ""
+
+# Objects : [n306068488]
+# name:be: [Буйнічы]
+msgid "Буйничи"
+msgstr ""
+
+# Objects : [w287620234]
+# name:be: []
+msgid "Буйничи-2"
+msgstr ""
+
+# Objects : [n3309974961]
+# name:be: [Вендрыж]
+msgid "Вендриж"
+msgstr ""
+
+# Objects : [n306068482]
+# name:be: [Галынец]
+msgid "Голынец"
+msgstr ""
+
+# Objects : [n2976353903]
+# name:be: []
+msgid "Грин-хилл"
+msgstr ""
+
+# Objects : [w229252000]
+# name:be: []
+msgid "ГРП-136"
+msgstr ""
+
+# Objects : [n306068493]
+# name:be: [Дашкаўка]
+msgid "Дашковка"
+msgstr ""
+
+# Objects : [w202816782]
+# name:be: []
+msgid "Дворец культуры"
+msgstr ""
+
+# Objects : [w233220185]
+# name:be: []
+msgid "Дом престарелых"
+msgstr ""
+
+# Objects : [r3118964]
+# name:be: []
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [r2738133]
+# name:be: []
+msgid "зерносушильный комплекс"
+msgstr ""
+
+# Objects : [n243041749]
+# name:be: []
+msgid "Кадино сельсовет"
+msgstr ""
+
+# Objects : [n2788680887]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n1242399650]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788681997]
+# name:be: [Касцёл Святога Мікалая]
+msgid "Костел Святого Николая"
+msgstr ""
+
+# Objects : [w229273690]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [r2719536]
+# name:be: []
+msgid "Лесная Поляна"
+msgstr ""
+
+# Objects : [n306068485]
+# name:be: []
+msgid "Мемориал Буйничское Поле"
+msgstr ""
+
+# Objects : [n1365666930, n303748456, n306068635]
+# name:be: [Магілёў]
+msgid "Могилёв"
+msgstr ""
+
+# Objects : [n566293548]
+# name:be: [Магілёўская вобласць]
+msgid "Могилёвская область"
+msgstr ""
+
+# Objects : [w203976804]
+# name:be: []
+msgid "молочно-товарная ферма"
+msgstr ""
+
+# Objects : [r2738946]
+# name:be: []
+msgid "навозохранилище"
+msgstr ""
+
+# Objects : [n306068477]
+# name:be: []
+msgid "Ново-Пашково"
+msgstr ""
+
+# Objects : [w25194483]
+# name:be: []
+msgid "Отстойники"
+msgstr ""
+
+# Objects : [w135195788]
+# name:be: []
+msgid "Пашковское"
+msgstr ""
+
+# Objects : [n2788683601]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [r3164537]
+# name:be: []
+msgid "Приозерная улица"
+msgstr ""
+
+# Objects : [w314159451]
+# name:be: []
+msgid "ПСК "Урожай""
+msgstr ""
+
+# Objects : [w180080705]
+# name:be: []
+msgid "Птицефабрика АО "Заря""
+msgstr ""
+
+# Objects : [w25089160]
+# name:be: []
+msgid "птицефабрика Елец"
+msgstr ""
+
+# Objects : [n2766728211]
+# name:be: []
+msgid "Родник"
+msgstr ""
+
+# Objects : [w31151825]
+# name:be: []
+msgid "Рудея"
+msgstr ""
+
+# Objects : [w25241284, w314121815]
+# name:be: []
+msgid "С/т "Колосок""
+msgstr ""
+
+# Objects : [n2766722493]
+# name:be: []
+msgid "Санаторий Дубровенка"
+msgstr ""
+
+# Objects : [n2766722631]
+# name:be: []
+msgid "Санаторий Сосны"
+msgstr ""
+
+# Objects : [n2766722643]
+# name:be: []
+msgid "Санаторий Энергетик"
+msgstr ""
+
+# Objects : [w299637414, w299798945, w299799322]
+# name:be: []
+msgid "СерволюксАгро"
+msgstr ""
+
+# Objects : [r3164538]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w299636903]
+# name:be: []
+msgid "Станция очистки сточных вод"
+msgstr ""
+
+# Objects : [w284184915]
+# name:be: []
+msgid "УЖД Днепровского торфопредприятия"
+msgstr ""
+
+# Objects : [w197197142]
+# name:be: []
+msgid "УЖД Могилёвского зоопарка"
+msgstr ""
+
+# Objects : [r3164540]
+# name:be: [вуліца Касманаўтаў]
+msgid "улица Космонавтов"
+msgstr ""
+
+# Objects : [n2788684456]
+# name:be: [Сядзібна-паркавы комплекс Жукоўскіх]
+msgid "Усадебно-парковый комплекс Жуковских"
+msgstr ""
+
+# Objects : [r2719569]
+# name:be: []
+msgid "Химик"
+msgstr ""
+
+# Objects : [r3164539]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [n2788686053]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686649]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788687263, n2788687265]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788687667, n2788687675, n2788687681]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n306068478]
+# name:be: [Чарназёмаўка]
+msgid "Чернозёмовка"
+msgstr ""
+

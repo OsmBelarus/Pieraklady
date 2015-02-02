@@ -1,0 +1,100 @@
+# Objects : [n1442627883]
+# name:be: []
+msgid ""Все к столу" продуктовый ларек"
+msgstr ""
+
+# Objects : [n1442875074]
+# name:be: []
+msgid ""Сластена""
+msgstr ""
+
+# Objects : [n1442714588]
+# name:be: []
+msgid ""Юбилейный""
+msgstr ""
+
+# Objects : [n663172753]
+# name:be: []
+msgid "Автофаворит"
+msgstr ""
+
+# Objects : [n1442635197]
+# name:be: []
+msgid "Автошанс"
+msgstr ""
+
+# Objects : [n1442813761]
+# name:be: []
+msgid "Агросервис"
+msgstr ""
+
+# Objects : [n663173708]
+# name:be: []
+msgid "Верасок 2"
+msgstr ""
+
+# Objects : [n663172973]
+# name:be: []
+msgid "Вяселка"
+msgstr ""
+
+# Objects : [n2339862117]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n663172909]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [n663172943]
+# name:be: []
+msgid "Компьютерный Мир"
+msgstr ""
+
+# Objects : [n1442874992]
+# name:be: []
+msgid "маг. Бригантина"
+msgstr ""
+
+# Objects : [n1442875079]
+# name:be: []
+msgid "Магнит"
+msgstr ""
+
+# Objects : [n663173885]
+# name:be: []
+msgid "Продукты №5"
+msgstr ""
+
+# Objects : [n1442717056]
+# name:be: []
+msgid "Ремонт сотовых"
+msgstr ""
+
+# Objects : [n1442875068]
+# name:be: []
+msgid "Северный"
+msgstr ""
+
+# Objects : [n663173000]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n1350285288]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n1442622906, n663172393]
+# name:be: [Паўднёвы]
+msgid "Южный"
+msgstr ""
+
+# Objects : [n663173815]
+# name:be: []
+msgid "Ясельда"
+msgstr ""
+

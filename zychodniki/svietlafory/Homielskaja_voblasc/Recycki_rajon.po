@@ -1,0 +1,430 @@
+# Objects : [n2709524080, n2709524112]
+# name:be: []
+msgid "9-й километр"
+msgstr ""
+
+# Objects : [n2763868631, n2763868638]
+# name:be: []
+msgid "Александровка"
+msgstr ""
+
+# Objects : [n2770401763, n2770411508]
+# name:be: []
+msgid "Андреевка"
+msgstr ""
+
+# Objects : [n2692234705, n2692234706]
+# name:be: []
+msgid "Артуки"
+msgstr ""
+
+# Objects : [n2686063986]
+# name:be: []
+msgid "Б.о. Милоград"
+msgstr ""
+
+# Objects : [n2686063984, n2686063985]
+# name:be: []
+msgid "Б.Слобода-1"
+msgstr ""
+
+# Objects : [n2686064760, n2686064761]
+# name:be: []
+msgid "Б.Слобода-2"
+msgstr ""
+
+# Objects : [n2794024483, n2794024484]
+# name:be: []
+msgid "Белое Болото"
+msgstr ""
+
+# Objects : [n2774692773]
+# name:be: []
+msgid "Борщёвка"
+msgstr ""
+
+# Objects : [n2669902692, n2669902694]
+# name:be: []
+msgid "Бронное маг."
+msgstr ""
+
+# Objects : [n3162359967, n3162359968]
+# name:be: []
+msgid "Васильково"
+msgstr ""
+
+# Objects : [n2782813119]
+# name:be: []
+msgid "Ветхинь"
+msgstr ""
+
+# Objects : [n3162347869, n3162347870]
+# name:be: []
+msgid "Володарск"
+msgstr ""
+
+# Objects : [n1832729912, n2709524139]
+# name:be: []
+msgid "Волчья Гора"
+msgstr ""
+
+# Objects : [n275148713, n2794024485]
+# name:be: []
+msgid "Гиров"
+msgstr ""
+
+# Objects : [n2794025158]
+# name:be: []
+msgid "Глушец"
+msgstr ""
+
+# Objects : [n3158987150]
+# name:be: []
+msgid "Гончаров Подел"
+msgstr ""
+
+# Objects : [n3162351518, n3162351519]
+# name:be: []
+msgid "Горновка"
+msgstr ""
+
+# Objects : [n2669902684, n2692215932]
+# name:be: []
+msgid "Горошков"
+msgstr ""
+
+# Objects : [n2427685293]
+# name:be: []
+msgid "Горошков АК"
+msgstr ""
+
+# Objects : [n2735613880, n2735615252, n2735615253]
+# name:be: []
+msgid "Гостивель"
+msgstr ""
+
+# Objects : [n2774687958, n2774687964]
+# name:be: []
+msgid "Грановка"
+msgstr ""
+
+# Objects : [n2770411514, n2770411517]
+# name:be: []
+msgid "Грудское"
+msgstr ""
+
+# Objects : [n2736995896]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
+# Objects : [n2692234050, n2692234051]
+# name:be: []
+msgid "Дворец"
+msgstr ""
+
+# Objects : [n2699758872, n2699758873]
+# name:be: []
+msgid "дер.Глыбов"
+msgstr ""
+
+# Objects : [n2686035855, n275171481]
+# name:be: []
+msgid "дер.Глыбов (маг.)"
+msgstr ""
+
+# Objects : [n2686057046, n2686057047]
+# name:be: []
+msgid "дер.Милоград"
+msgstr ""
+
+# Objects : [n2684760904, n2684760910]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [n3162364661, n3162364662]
+# name:be: []
+msgid "Елизаровичи"
+msgstr ""
+
+# Objects : [n2668114791]
+# name:be: []
+msgid "Жмуровка"
+msgstr ""
+
+# Objects : [n2669902698, n401354914]
+# name:be: []
+msgid "Жмуровка маг."
+msgstr ""
+
+# Objects : [n2514788478, n2692215928, n2692215929]
+# name:be: []
+msgid "Заспа"
+msgstr ""
+
+# Objects : [n2758068981]
+# name:be: []
+msgid "Заспа маг."
+msgstr ""
+
+# Objects : [n2668194130]
+# name:be: []
+msgid "Казазаевка"
+msgstr ""
+
+# Objects : [n2098675132, n2705156578]
+# name:be: []
+msgid "Кирово"
+msgstr ""
+
+# Objects : [n2684920728, n2684920729, n2713780394, n275171664]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2737007163, n413289608]
+# name:be: []
+msgid "Копань"
+msgstr ""
+
+# Objects : [n2517208804, n2517208818]
+# name:be: []
+msgid "Коростень"
+msgstr ""
+
+# Objects : [n2782807446, n2782807450]
+# name:be: []
+msgid "Краснополье"
+msgstr ""
+
+# Objects : [n2778843518, n2778843519]
+# name:be: []
+msgid "Леваши"
+msgstr ""
+
+# Objects : [n2778781938]
+# name:be: []
+msgid "Лесное"
+msgstr ""
+
+# Objects : [n2681626474]
+# name:be: []
+msgid "Лицей"
+msgstr ""
+
+# Objects : [n2782809966]
+# name:be: []
+msgid "Надвин"
+msgstr ""
+
+# Objects : [n2427821386, n2427821402]
+# name:be: []
+msgid "Новокрасное"
+msgstr ""
+
+# Objects : [n2681626465, n2681626470]
+# name:be: []
+msgid "Озерщина"
+msgstr ""
+
+# Objects : [n2686065092, n2699765726]
+# name:be: []
+msgid "п.л. им.М.Казея"
+msgstr ""
+
+# Objects : [n2783083515]
+# name:be: []
+msgid "Переволока"
+msgstr ""
+
+# Objects : [n2427685180, n2709524099]
+# name:be: []
+msgid "Перекресток"
+msgstr ""
+
+# Objects : [n2710612920]
+# name:be: []
+msgid "Пересвятое"
+msgstr ""
+
+# Objects : [n2678992610, n2684854007]
+# name:be: []
+msgid "ПМК-71"
+msgstr ""
+
+# Objects : [n2757772207, n2757772214]
+# name:be: []
+msgid "пов. Александровка"
+msgstr ""
+
+# Objects : [n2515326104, n2770378187]
+# name:be: []
+msgid "пов. Андреевка"
+msgstr ""
+
+# Objects : [n2709550385, n2709556149]
+# name:be: []
+msgid "пов. Безуев"
+msgstr ""
+
+# Objects : [n2686028073, n275171476]
+# name:be: []
+msgid "пов.Борхов"
+msgstr ""
+
+# Objects : [n2428579271, n2428579312]
+# name:be: []
+msgid "пов.Будка Шибенка"
+msgstr ""
+
+# Objects : [n2810721518, n2810721519]
+# name:be: []
+msgid "пов.Васильков"
+msgstr ""
+
+# Objects : [n2706630032, n2713780395]
+# name:be: []
+msgid "пов.Деражня"
+msgstr ""
+
+# Objects : [n2757776490, n2757776906]
+# name:be: []
+msgid "пов. Дунай"
+msgstr ""
+
+# Objects : [n2428578966, n2428578985]
+# name:be: []
+msgid "пов.Осветник"
+msgstr ""
+
+# Objects : [n2515326123, n2515326126]
+# name:be: []
+msgid "пов. Пасека"
+msgstr ""
+
+# Objects : [n2515326161, n2709590901]
+# name:be: []
+msgid "пов. Ровенская слобода"
+msgstr ""
+
+# Objects : [n2515326204, n2515326207]
+# name:be: []
+msgid "пов. Ровное"
+msgstr ""
+
+# Objects : [n2692224089, n2692224090]
+# name:be: []
+msgid "пов. Свиридовичи"
+msgstr ""
+
+# Objects : [n2515326098, n2515326099]
+# name:be: []
+msgid "пов. Смагорин"
+msgstr ""
+
+# Objects : [n2427821374, n2713798386]
+# name:be: []
+msgid "пов.Солтаново"
+msgstr ""
+
+# Objects : [n2686035868, n2686035873]
+# name:be: []
+msgid "пов.Стасевка"
+msgstr ""
+
+# Objects : [n2427685049, n2427685071]
+# name:be: []
+msgid "поворот Ивановка"
+msgstr ""
+
+# Objects : [n2427685171, n2427685192]
+# name:be: []
+msgid "поворот Красноземье"
+msgstr ""
+
+# Objects : [n2427684756, n2427684758]
+# name:be: []
+msgid "поворот Прудище"
+msgstr ""
+
+# Objects : [n2734430658]
+# name:be: []
+msgid "Подолесье"
+msgstr ""
+
+# Objects : [n2684765597, n2684765598]
+# name:be: []
+msgid "Подстанция"
+msgstr ""
+
+# Objects : [n2782811617, n2782811621]
+# name:be: []
+msgid "Рельки"
+msgstr ""
+
+# Objects : [n2686063987]
+# name:be: []
+msgid "С/х Подолесье"
+msgstr ""
+
+# Objects : [n2735599751, n2735600265]
+# name:be: []
+msgid "Свиридовичи"
+msgstr ""
+
+# Objects : [n2734420816, n2734420822]
+# name:be: []
+msgid "Старина"
+msgstr ""
+
+# Objects : [n2713471951, n2713471952]
+# name:be: []
+msgid "Старокрасное"
+msgstr ""
+
+# Objects : [n3162285383]
+# name:be: []
+msgid "Стасевка"
+msgstr ""
+
+# Objects : [n2669897139, n2669897140]
+# name:be: []
+msgid "улица Школьная"
+msgstr ""
+
+# Objects : [n2686023724, n2686023787]
+# name:be: []
+msgid "Унорица-1"
+msgstr ""
+
+# Objects : [n2686026183, n2686028071]
+# name:be: []
+msgid "Унорица-2"
+msgstr ""
+
+# Objects : [n2684854008, n2684854010]
+# name:be: []
+msgid "Хозтовары"
+msgstr ""
+
+# Objects : [n2632652789, n2692237770]
+# name:be: []
+msgid "Холмеч"
+msgstr ""
+
+# Objects : [n275148643, n2794024741]
+# name:be: []
+msgid "Хотецкое"
+msgstr ""
+
+# Objects : [n2794024743]
+# name:be: []
+msgid "Чёрное"
+msgstr ""
+
+# Objects : [n2684760897, n2684760900]
+# name:be: []
+msgid "Школа"
+msgstr ""
+

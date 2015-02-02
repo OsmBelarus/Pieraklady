@@ -1,0 +1,240 @@
+# Objects : [w247187823]
+# name:be: []
+msgid "12В"
+msgstr ""
+
+# Objects : [w247187824]
+# name:be: []
+msgid "18А"
+msgstr ""
+
+# Objects : [w210730929]
+# name:be: []
+msgid "22А"
+msgstr ""
+
+# Objects : [w210719760]
+# name:be: []
+msgid "22Г"
+msgstr ""
+
+# Objects : [w210730936]
+# name:be: []
+msgid "24А"
+msgstr ""
+
+# Objects : [w210719777]
+# name:be: []
+msgid "26А"
+msgstr ""
+
+# Objects : [w205591059]
+# name:be: []
+msgid "86а"
+msgstr ""
+
+# Objects : [w205591064]
+# name:be: []
+msgid "88а"
+msgstr ""
+
+# Objects : [w204203257]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w250267844]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w210737168]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w247190156]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w206641578]
+# name:be: []
+msgid "больница"
+msgstr ""
+
+# Objects : [w206641579]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w204099643]
+# name:be: []
+msgid "ГРП-1"
+msgstr ""
+
+# Objects : [w204202630]
+# name:be: []
+msgid "ГРП-2"
+msgstr ""
+
+# Objects : [w210200520]
+# name:be: []
+msgid "ГРП-4"
+msgstr ""
+
+# Objects : [w251126501]
+# name:be: []
+msgid "ГРП-5"
+msgstr ""
+
+# Objects : [w204206434, w204208668]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w252709987]
+# name:be: []
+msgid "КЗСК-30"
+msgstr ""
+
+# Objects : [w208554620, w210180174, w210191502, w210711020, w210729422, w210924431]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w204205877]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w250956158]
+# name:be: []
+msgid "МКЦ Юность"
+msgstr ""
+
+# Objects : [w250267846]
+# name:be: []
+msgid "Молокозавод"
+msgstr ""
+
+# Objects : [w204204931, w205588744, w206626037, w231208684, w231208685]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w204204932]
+# name:be: []
+msgid "Общежитие БЦЗ"
+msgstr ""
+
+# Objects : [w304779440]
+# name:be: []
+msgid "райисполком"
+msgstr ""
+
+# Objects : [w247160285]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [w210200701]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w253328195]
+# name:be: []
+msgid "РОЧС"
+msgstr ""
+
+# Objects : [w210189343]
+# name:be: []
+msgid "РУПС"
+msgstr ""
+
+# Objects : [w203589454]
+# name:be: []
+msgid "Служба АДС"
+msgstr ""
+
+# Objects : [w210926172]
+# name:be: []
+msgid "Спиртзавод"
+msgstr ""
+
+# Objects : [w206497767]
+# name:be: []
+msgid "СШ №2"
+msgstr ""
+
+# Objects : [w250956167]
+# name:be: []
+msgid "типография"
+msgstr ""
+
+# Objects : [w204206812]
+# name:be: []
+msgid "Торговая точка"
+msgstr ""
+
+# Objects : [w204209545, w206623025, w206623034, w215045728]
+# name:be: []
+msgid "торговый центр"
+msgstr ""
+
+# Objects : [w204204919, w204206176]
+# name:be: []
+msgid "Торговый центр"
+msgstr ""
+
+# Objects : [w250078971]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w215027788]
+# name:be: []
+msgid "Церьковь"
+msgstr ""
+
+# Objects : [w252401473, w252709986]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w210706715]
+# name:be: []
+msgid "ШРП-2"
+msgstr ""
+
+# Objects : [w256804663]
+# name:be: []
+msgid "ШРП-3"
+msgstr ""
+
+# Objects : [w215232797]
+# name:be: []
+msgid "ШРП-9"
+msgstr ""
+
+# Objects : [w256018105]
+# name:be: []
+msgid "ШРП КХП"
+msgstr ""
+
+# Objects : [w204203124]
+# name:be: []
+msgid "№5"
+msgstr ""
+
+# Objects : [w204204140]
+# name:be: []
+msgid "№6"
+msgstr ""
+
+# Objects : [w204202848]
+# name:be: []
+msgid "№7"
+msgstr ""
+

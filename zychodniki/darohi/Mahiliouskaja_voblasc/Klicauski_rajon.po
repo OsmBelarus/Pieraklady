@@ -1,0 +1,130 @@
+# Objects : [w244119926]
+# name:be: []
+msgid "Бобруйская улица"
+msgstr ""
+
+# Objects : [w215364566, w97943762]
+# name:be: []
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w213509197]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w249890838, w264863558]
+# name:be: []
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w103771974, w213509195, w213801005, w214752764, w246769810, w246769814]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w215354324]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w213801006]
+# name:be: []
+msgid "Озерная улица"
+msgstr ""
+
+# Objects : [w213800999, w217274277, w244119931, w244124522, w321748570]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w324710673]
+# name:be: []
+msgid "Пер. Школьный"
+msgstr ""
+
+# Objects : [w213509201, w214732523]
+# name:be: []
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w213800996, w214732522]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w213801001]
+# name:be: []
+msgid "Приозёрная улица"
+msgstr ""
+
+# Objects : [w215364567]
+# name:be: []
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w321596158, w321748571, w321748572]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w97943792]
+# name:be: []
+msgid "Совхозная улица"
+msgstr ""
+
+# Objects : [w250079006]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w214732531]
+# name:be: []
+msgid "Ударная улица"
+msgstr ""
+
+# Objects : [w323396828, w323444203]
+# name:be: []
+msgid "ул. Лесная"
+msgstr ""
+
+# Objects : [w323037517]
+# name:be: []
+msgid "ул. Молодежная"
+msgstr ""
+
+# Objects : [w292173217]
+# name:be: []
+msgid "Ул. Озерная"
+msgstr ""
+
+# Objects : [w215364570]
+# name:be: []
+msgid "ул. Садовая"
+msgstr ""
+
+# Objects : [w215364565]
+# name:be: []
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [w244127081]
+# name:be: []
+msgid "улица Добровольцев"
+msgstr ""
+
+# Objects : [w213495218, w213509196, w213801002]
+# name:be: []
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [w126614113]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w260879817, w97943793]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+

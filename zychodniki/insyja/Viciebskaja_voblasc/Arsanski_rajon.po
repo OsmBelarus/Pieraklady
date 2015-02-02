@@ -1,0 +1,265 @@
+# Objects : [w325126538]
+# name:be: []
+msgid "111"
+msgstr ""
+
+# Objects : [n306065855, n412851758]
+# name:be: [Балбасава]
+msgid "Балбасово"
+msgstr ""
+
+# Objects : [n2788679987]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n2788680119]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [w301740646, w301740647, w301740648, w305411160]
+# name:be: []
+msgid "газопровод"
+msgstr ""
+
+# Objects : [n2766728058]
+# name:be: []
+msgid "Девино"
+msgstr ""
+
+# Objects : [n2788680420]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n2788680500]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Илии"
+msgstr ""
+
+# Objects : [w324753336]
+# name:be: []
+msgid "ййй"
+msgstr ""
+
+# Objects : [w96296351]
+# name:be: [Кар’ер]
+msgid "Карьер"
+msgstr ""
+
+# Objects : [w247068683]
+# name:be: []
+msgid "Карьер "Левки""
+msgstr ""
+
+# Objects : [w280440596]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w173139538]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w235586628, w235586632]
+# name:be: []
+msgid "Компрессорная станция"
+msgstr ""
+
+# Objects : [w173460444]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [n306065887]
+# name:be: [Купалаўскі мемарыяльны запаведнік «Ляўкі»]
+msgid "Купаловский Мемориальный Заповедник 'Левки'"
+msgstr ""
+
+# Objects : [n2788682587]
+# name:be: [Мясьціна жыцьця Янкі Купалы]
+msgid "Место жизни Янки Купалы"
+msgstr ""
+
+# Objects : [n2788682582]
+# name:be: [Месца Аршанскай бітвы]
+msgid "Место Оршанской битвы"
+msgstr ""
+
+# Objects : [w303743219]
+# name:be: []
+msgid "Мехдвор ОАО "Агрокомбинат "Юбилейный""
+msgstr ""
+
+# Objects : [n2788682686]
+# name:be: [Магіла Тамаша Зана]
+msgid "Могила Томаша Зана"
+msgstr ""
+
+# Objects : [n27225493]
+# name:be: [Мажэеўка]
+msgid "Можеевка"
+msgstr ""
+
+# Objects : [r3118891]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [r3118892]
+# name:be: [Маладзёжны завулак]
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w274735370]
+# name:be: []
+msgid "нефтепровод"
+msgstr ""
+
+# Objects : [n2766728183]
+# name:be: []
+msgid "Оршанский"
+msgstr ""
+
+# Objects : [n1177031460]
+# name:be: [Помнік дальняй авіяцыі, Ту-16]
+msgid "Памятник дальней авиации, Ту-16"
+msgstr ""
+
+# Objects : [n2788683605]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788684192]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n1019024490]
+# name:be: [Прокшына]
+msgid "Прокшино"
+msgstr ""
+
+# Objects : [n2788681803]
+# name:be: [рэшткi касцёла Найсвяцейшай Панны Марыі і кляштара дамініканаў]
+msgid "развалины костела Пресвятой Девы Марии и кляштора доминиканцев"
+msgstr ""
+
+# Objects : [n2788687761]
+# name:be: [руіны замка "Белы Ковель"]
+msgid "руины  замка  "Белый Ковель""
+msgstr ""
+
+# Objects : [n1563490090]
+# name:be: [Руміна]
+msgid "Румино"
+msgstr ""
+
+# Objects : [r1381454]
+# name:be: []
+msgid "Селеще"
+msgstr ""
+
+# Objects : [r4187133]
+# name:be: []
+msgid "сельская"
+msgstr ""
+
+# Objects : [n919482139]
+# name:be: [Смальяны]
+msgid "Смольяны"
+msgstr ""
+
+# Objects : [n27225441]
+# name:be: [Стайкі]
+msgid "Стайки"
+msgstr ""
+
+# Objects : [n2788684631]
+# name:be: [Сядзібна-паркавы комплекс]
+msgid "Усадебно-парковый комплекс"
+msgstr ""
+
+# Objects : [n2788684486]
+# name:be: [Сядзібна-паркавы комплекс Любенскіх]
+msgid "Усадебно-парковый комплекс Любенских"
+msgstr ""
+
+# Objects : [n2788684489]
+# name:be: [Сядзібна-паркавы комплекс Любамірскіх]
+msgid "Усадебно-парковый комплекс Любомирских"
+msgstr ""
+
+# Objects : [n2788684492]
+# name:be: [Сядзібна-паркавы комплекс Макшыцкіх]
+msgid "Усадебно-парковый комплекс Макшицких"
+msgstr ""
+
+# Objects : [n2836496091, w173460469]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+
+# Objects : [n271090970]
+# name:be: [Хлусава]
+msgid "Хлусово"
+msgstr ""
+
+# Objects : [n2788687378]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788685889]
+# name:be: [Царква Уваскрэшання Хрыстова]
+msgid "Церковь Воскресения Христова"
+msgstr ""
+
+# Objects : [n2788686152]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n2788686272]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788686277]
+# name:be: [Царква Святога Аляксея]
+msgid "Церковь Св. Алексия"
+msgstr ""
+
+# Objects : [n2788686331]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n1242011119]
+# name:be: [Царква Святога Аляксея]
+msgid "Церковь святого Алексея"
+msgstr ""
+
+# Objects : [n2788686670]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788686834]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n1563473239]
+# name:be: [Чэрвіна]
+msgid "Червено"
+msgstr ""
+
+# Objects : [w203013721]
+# name:be: []
+msgid "Юбилейный"
+msgstr ""
+

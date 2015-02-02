@@ -1,0 +1,70 @@
+# Objects : [w273526193]
+# name:be: []
+msgid "Варшавка"
+msgstr ""
+
+# Objects : [w273522984]
+# name:be: []
+msgid "Вереть"
+msgstr ""
+
+# Objects : [w133174711, w222980356]
+# name:be: []
+msgid "Деречино-Мацкевичи-Блевчицы"
+msgstr ""
+
+# Objects : [w294220451]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w246787140]
+# name:be: []
+msgid "низовая дамба"
+msgstr ""
+
+# Objects : [w273431130]
+# name:be: []
+msgid "Озёрная"
+msgstr ""
+
+# Objects : [w273525947]
+# name:be: []
+msgid "Орлик"
+msgstr ""
+
+# Objects : [w125581882, w281812620, w281812621, w314813298, w314813299]
+# name:be: []
+msgid "Орликовская дорога"
+msgstr ""
+
+# Objects : [w273431147, w275473487, w275473488]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w273430774, w312445222, w312445223]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w174044815, w222980357]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w294220988, w294220989]
+# name:be: [Прывакзальная вуліца]
+msgid "Привокзальная улица"
+msgstr ""
+
+# Objects : [w281611479]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w125111547, w293340532, w294220309]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+

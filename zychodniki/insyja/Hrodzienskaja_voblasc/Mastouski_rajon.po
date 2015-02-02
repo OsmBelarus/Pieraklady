@@ -1,0 +1,265 @@
+# Objects : [w300173810]
+# name:be: []
+msgid "Административное здание"
+msgstr ""
+
+# Objects : [w165506496]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [n3164430276, w294958975]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2766728033]
+# name:be: []
+msgid "Белая тропа"
+msgstr ""
+
+# Objects : [n2163863503]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [n3043431954]
+# name:be: []
+msgid "В.Б."
+msgstr ""
+
+# Objects : [w300017539]
+# name:be: []
+msgid "Водонапорная Башня"
+msgstr ""
+
+# Objects : [n2788680019]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1767658523]
+# name:be: []
+msgid "Гудевичский литературно-краеведческий музей"
+msgstr ""
+
+# Objects : [w285022713]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w25141878]
+# name:be: [Зачэпічы]
+msgid "Зачепичи"
+msgstr ""
+
+# Objects : [w166602895, w166602896]
+# name:be: []
+msgid "здание на Полевых"
+msgstr ""
+
+# Objects : [w165506097]
+# name:be: []
+msgid "Канавы"
+msgstr ""
+
+# Objects : [w165505554]
+# name:be: []
+msgid "Кантора"
+msgstr ""
+
+# Objects : [n2788680814]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681338]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681435]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [w302573818, w304059254, w304760628]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [n1039475891]
+# name:be: []
+msgid "Комплекс по откорму скота деревни Ковшово"
+msgstr ""
+
+# Objects : [n2788681737]
+# name:be: [Касцёл Маці Божай Каралевы]
+msgid "Костел Девы Марии Королевы"
+msgstr ""
+
+# Objects : [n2788681755]
+# name:be: [Касцёл Маці Божай Ружанцовай]
+msgid "Костел Матери Божьей Святого Розария"
+msgstr ""
+
+# Objects : [n2788681787]
+# name:be: [Касцёл Наведзінаў Найсвяцейшай Панны Марыі]
+msgid "Костел Посещения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n2788682226]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n2788682530]
+# name:be: [Мемарыяльная калона]
+msgid "Мемориальная колонна"
+msgstr ""
+
+# Objects : [n2788682718]
+# name:be: [Магіла Яна і Цэцыліі]
+msgid "Могила Яна и Цецилии"
+msgstr ""
+
+# Objects : [n1280489815]
+# name:be: []
+msgid "Монумент"
+msgstr ""
+
+# Objects : [w25196219]
+# name:be: []
+msgid "Немнище"
+msgstr ""
+
+# Objects : [w25188345]
+# name:be: []
+msgid "оз. Карасево"
+msgstr ""
+
+# Objects : [w25192942]
+# name:be: []
+msgid "оз. Немнище"
+msgstr ""
+
+# Objects : [n2163864592]
+# name:be: []
+msgid "Памятник землякам"
+msgstr ""
+
+# Objects : [n1291618174]
+# name:be: []
+msgid "Памятник погибшим в ВОВ"
+msgstr ""
+
+# Objects : [w289719435]
+# name:be: []
+msgid "Помещение теплогенератора"
+msgstr ""
+
+# Objects : [w165504337]
+# name:be: []
+msgid "Пралеска"
+msgstr ""
+
+# Objects : [n3164336974]
+# name:be: []
+msgid "Придорожный"
+msgstr ""
+
+# Objects : [w165506943]
+# name:be: []
+msgid "Свинокомплекс "Искра""
+msgstr ""
+
+# Objects : [n2163860133]
+# name:be: []
+msgid "СВЯТО-НИКОЛАЕВСКАЯ ЦЕРКОВЬ"
+msgstr ""
+
+# Objects : [w120325558]
+# name:be: []
+msgid "Ставы"
+msgstr ""
+
+# Objects : [n2788684608]
+# name:be: [Сядзібна-паркавы комплекс]
+msgid "Усадебно-парковый комплекс"
+msgstr ""
+
+# Objects : [n2788684816, n2788684817]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788684670]
+# name:be: [Сядзіба Азнабішыных]
+msgid "Усадьба Азнабишыных"
+msgstr ""
+
+# Objects : [n2788684698]
+# name:be: [Сядзіба Друцкіх-Любецкіх]
+msgid "Усадьба Друцких-Любецких"
+msgstr ""
+
+# Objects : [w166170669]
+# name:be: []
+msgid "Ферма "Летки""
+msgstr ""
+
+# Objects : [w29168658]
+# name:be: [Хвайняны]
+msgid "Хвойняны"
+msgstr ""
+
+# Objects : [n2788685353, n2788685355, n2788685361, n2788685363, n2788685364, n2788685368, n2788685373]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788685305]
+# name:be: [Гаспадарчы двор Незабытоўскiх]
+msgid "Хозяйственный двор Незабытовскiх"
+msgstr ""
+
+# Objects : [n2788685503]
+# name:be: [Царква Маці Божай Казанскай]
+msgid "Церковь Божией Матери Казанской"
+msgstr ""
+
+# Objects : [n2788686036]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686212, n2788686216, n2788686232]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686486, n2788686489]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788687658]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687566]
+# name:be: [Каплічка прыдарожная]
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n578003861]
+# name:be: [Чарлёна]
+msgid "Черлёна"
+msgstr ""
+
+# Objects : [n3164340446]
+# name:be: []
+msgid "Экологический центр"
+msgstr ""
+

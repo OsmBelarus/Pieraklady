@@ -1,0 +1,90 @@
+# Objects : [w25198782]
+# name:be: []
+msgid "Бобрик"
+msgstr ""
+
+# Objects : [n306069515]
+# name:be: [Ганцавічы]
+msgid "Ганцевичи"
+msgstr ""
+
+# Objects : [w25190307]
+# name:be: []
+msgid "Дубовское"
+msgstr ""
+
+# Objects : [w25194130]
+# name:be: []
+msgid "Качайское"
+msgstr ""
+
+# Objects : [n2788681431]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [w25192958]
+# name:be: [Краснае]
+msgid "Красное"
+msgstr ""
+
+# Objects : [r2105873]
+# name:be: []
+msgid "Локтыши"
+msgstr ""
+
+# Objects : [w25197797]
+# name:be: []
+msgid "Любашево"
+msgstr ""
+
+# Objects : [n2761374171]
+# name:be: [Малькавічы]
+msgid "Мальковичи"
+msgstr ""
+
+# Objects : [n2788682493]
+# name:be: [Млын]
+msgid "Мельница"
+msgstr ""
+
+# Objects : [n306069703]
+# name:be: []
+msgid "Памятник погибшим партизанам"
+msgstr ""
+
+# Objects : [n2788683966]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2788683725]
+# name:be: [Прысядзібны парк пры былой сядзібе Абуховічаў]
+msgid "Приусадебный парк при бывшей усадьбе Обуховичей"
+msgstr ""
+
+# Objects : [w25200395]
+# name:be: []
+msgid "Раздяловичи"
+msgstr ""
+
+# Objects : [n2788684672]
+# name:be: [Сядзіба Апацкіх]
+msgid "Усадьба Апацкого"
+msgstr ""
+
+# Objects : [n2788685090]
+# name:be: [Капліца-пахавальня Абуховічаў]
+msgid "Усыпальница Обуховичей"
+msgstr ""
+
+# Objects : [n2788686301, n2788686307]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [w212717496]
+# name:be: []
+msgid "ЧУП "ВоМиЦа""
+msgstr ""
+

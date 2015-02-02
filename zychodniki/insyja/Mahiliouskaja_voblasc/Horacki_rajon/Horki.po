@@ -1,0 +1,190 @@
+# Objects : [w203469395]
+# name:be: []
+msgid "Академическая библиотека"
+msgstr ""
+
+# Objects : [w203437275]
+# name:be: []
+msgid "Альбатрос"
+msgstr ""
+
+# Objects : [n901552299]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [n2150327443]
+# name:be: []
+msgid "водонапорная башня"
+msgstr ""
+
+# Objects : [w203466472]
+# name:be: []
+msgid "Вставка"
+msgstr ""
+
+# Objects : [w199790123, w199813342]
+# name:be: []
+msgid "Гаражный массив"
+msgstr ""
+
+# Objects : [w203579891]
+# name:be: []
+msgid "Горецкий инкубатор"
+msgstr ""
+
+# Objects : [n2097983927]
+# name:be: []
+msgid "Гостиница Проня"
+msgstr ""
+
+# Objects : [n1241120139]
+# name:be: []
+msgid "ДК БГСХА"
+msgstr ""
+
+# Objects : [w203590130]
+# name:be: []
+msgid "ДОК"
+msgstr ""
+
+# Objects : [w199802513]
+# name:be: []
+msgid "Ерема"
+msgstr ""
+
+# Objects : [w127993822]
+# name:be: []
+msgid "Заречье"
+msgstr ""
+
+# Objects : [n1817072752]
+# name:be: []
+msgid "Инфокиоск"
+msgstr ""
+
+# Objects : [n3069298624]
+# name:be: []
+msgid "Искусственная неровность ("лежащий полицейский")"
+msgstr ""
+
+# Objects : [w204092898]
+# name:be: []
+msgid "ИТК 9"
+msgstr ""
+
+# Objects : [w76476777]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w76476715, w76477416, w76477828]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w205461284]
+# name:be: []
+msgid "корт"
+msgstr ""
+
+# Objects : [w205461286, w205598656, w206247209, w214635370, w214644549]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w199792227]
+# name:be: []
+msgid "маслосыр завод"
+msgstr ""
+
+# Objects : [w203445548]
+# name:be: []
+msgid "Олимп"
+msgstr ""
+
+# Objects : [w199792221]
+# name:be: []
+msgid "Орион"
+msgstr ""
+
+# Objects : [w310630604]
+# name:be: []
+msgid "парк"
+msgstr ""
+
+# Objects : [w76476779]
+# name:be: []
+msgid "ПИОНЕРСКИЙ ЛАГЕРЬ"
+msgstr ""
+
+# Objects : [n306068451]
+# name:be: [Пагодзіна]
+msgid "Погодино"
+msgstr ""
+
+# Objects : [w76477735]
+# name:be: []
+msgid "С/т "Труд""
+msgstr ""
+
+# Objects : [w76477945]
+# name:be: []
+msgid "с/т Садовод"
+msgstr ""
+
+# Objects : [n2788684271]
+# name:be: [Сельскагаспадарчая Акадэмія]
+msgid "Сельскохозяйственная Академия"
+msgstr ""
+
+# Objects : [w76476896]
+# name:be: []
+msgid "склад"
+msgstr ""
+
+# Objects : [w127994131]
+# name:be: []
+msgid "Слобода"
+msgstr ""
+
+# Objects : [w199800771]
+# name:be: []
+msgid "Строителей"
+msgstr ""
+
+# Objects : [w318958756]
+# name:be: []
+msgid "Строительство торгово-развлекательного центра"
+msgstr ""
+
+# Objects : [w203437277]
+# name:be: []
+msgid "Торговый комплекс Каскад"
+msgstr ""
+
+# Objects : [n3253651299]
+# name:be: []
+msgid "Управление капитального строительства Горецкого РИК"
+msgstr ""
+
+# Objects : [w205461278]
+# name:be: []
+msgid "Учебный корпус №13"
+msgstr ""
+
+# Objects : [w205461279]
+# name:be: []
+msgid "Учебный корпус №15"
+msgstr ""
+
+# Objects : [w203590138]
+# name:be: []
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n2788686504]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+

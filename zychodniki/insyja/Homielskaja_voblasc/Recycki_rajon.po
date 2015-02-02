@@ -1,0 +1,530 @@
+# Objects : [n3191278642]
+# name:be: []
+msgid "172км"
+msgstr ""
+
+# Objects : [n3191278641]
+# name:be: []
+msgid "6км"
+msgstr ""
+
+# Objects : [n2709524083]
+# name:be: []
+msgid "9-й километр"
+msgstr ""
+
+# Objects : [w262517793]
+# name:be: []
+msgid "АГРС Речица"
+msgstr ""
+
+# Objects : [n2763868637]
+# name:be: []
+msgid "Александровка"
+msgstr ""
+
+# Objects : [n243034048, n306064168, w25097219]
+# name:be: [Бабічы]
+msgid "Бабичи"
+msgstr ""
+
+# Objects : [n3070735550]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2794024482]
+# name:be: []
+msgid "Белое Болото"
+msgstr ""
+
+# Objects : [n243042186, w25085307]
+# name:be: [Бабры]
+msgid "Бобры"
+msgstr ""
+
+# Objects : [w25195260]
+# name:be: []
+msgid "Большое"
+msgstr ""
+
+# Objects : [n2774692771]
+# name:be: []
+msgid "Борщёвка"
+msgstr ""
+
+# Objects : [w323204527]
+# name:be: []
+msgid "Борщевская средняя школа"
+msgstr ""
+
+# Objects : [n3302036166]
+# name:be: []
+msgid "Братская могила ВОВ"
+msgstr ""
+
+# Objects : [n2782813120]
+# name:be: []
+msgid "Ветхинь"
+msgstr ""
+
+# Objects : [w276524239]
+# name:be: []
+msgid "Ветхиня"
+msgstr ""
+
+# Objects : [n2894022183]
+# name:be: []
+msgid "Волчья"
+msgstr ""
+
+# Objects : [n2709524137]
+# name:be: []
+msgid "Волчья Гора"
+msgstr ""
+
+# Objects : [n2794024486]
+# name:be: []
+msgid "Гиров"
+msgstr ""
+
+# Objects : [w262963664]
+# name:be: []
+msgid "Глыбовская средняя школа"
+msgstr ""
+
+# Objects : [n2686065405, n2686065406, w262964723]
+# name:be: []
+msgid "Горваль-1"
+msgstr ""
+
+# Objects : [n2686065883, w262964778, w262964779]
+# name:be: []
+msgid "Горваль-2"
+msgstr ""
+
+# Objects : [n2686066967, w262964899]
+# name:be: []
+msgid "Горваль-3"
+msgstr ""
+
+# Objects : [n2692215947, n2692741629]
+# name:be: []
+msgid "Горошков"
+msgstr ""
+
+# Objects : [n2692215950]
+# name:be: []
+msgid "Горошков АК"
+msgstr ""
+
+# Objects : [n2735613879]
+# name:be: []
+msgid "Гостивель"
+msgstr ""
+
+# Objects : [w322428350]
+# name:be: []
+msgid "ГП "Крынки Агро""
+msgstr ""
+
+# Objects : [n2774687969]
+# name:be: []
+msgid "Грановка"
+msgstr ""
+
+# Objects : [n2736995884]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
+# Objects : [n2686680075]
+# name:be: [Дземяхі]
+msgid "Демехи"
+msgstr ""
+
+# Objects : [n3191129674]
+# name:be: []
+msgid "дер. Велин (маг)"
+msgstr ""
+
+# Objects : [n2686035943, n2686035950]
+# name:be: []
+msgid "дер.Глыбов (маг.)"
+msgstr ""
+
+# Objects : [n2686057043]
+# name:be: []
+msgid "дер.Милоград"
+msgstr ""
+
+# Objects : [n2684760909]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [n2705167263]
+# name:be: []
+msgid "Жмуровка"
+msgstr ""
+
+# Objects : [n2692215938]
+# name:be: []
+msgid "Заспа"
+msgstr ""
+
+# Objects : [w323208486]
+# name:be: []
+msgid "Заходская средняя школа"
+msgstr ""
+
+# Objects : [n306064195]
+# name:be: []
+msgid "Захоронение"
+msgstr ""
+
+# Objects : [n1577824935]
+# name:be: []
+msgid "Золотой ручей"
+msgstr ""
+
+# Objects : [w302120175]
+# name:be: []
+msgid "Картофелеперерабатывающий завод"
+msgstr ""
+
+# Objects : [n2705156579]
+# name:be: []
+msgid "Кирово"
+msgstr ""
+
+# Objects : [n2713780393]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w302120166]
+# name:be: []
+msgid "Колхоз"
+msgstr ""
+
+# Objects : [w311403500]
+# name:be: []
+msgid "Колхоз (СПК) "50 лет Октября""
+msgstr ""
+
+# Objects : [w174265612, w323005285]
+# name:be: []
+msgid "Комбинат пищевых продуктов "Полесье""
+msgstr ""
+
+# Objects : [w273652459]
+# name:be: []
+msgid "Комплекс"
+msgstr ""
+
+# Objects : [w302132350]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [n2737007160, w268361970]
+# name:be: []
+msgid "Копань"
+msgstr ""
+
+# Objects : [w321952247]
+# name:be: []
+msgid "Короватичская средняя школа"
+msgstr ""
+
+# Objects : [n2782807436]
+# name:be: []
+msgid "Краснополье"
+msgstr ""
+
+# Objects : [w311403498]
+# name:be: []
+msgid "Левашовская базовая школа"
+msgstr ""
+
+# Objects : [n3298037299]
+# name:be: []
+msgid "Летчику"
+msgstr ""
+
+# Objects : [n306064191]
+# name:be: [Ліскі]
+msgid "Лиски"
+msgstr ""
+
+# Objects : [n2681626473, n2681626585]
+# name:be: []
+msgid "Лицей"
+msgstr ""
+
+# Objects : [w302132355]
+# name:be: []
+msgid "Мехдвор"
+msgstr ""
+
+# Objects : [n2766728145]
+# name:be: []
+msgid "Милый град"
+msgstr ""
+
+# Objects : [w274735180]
+# name:be: []
+msgid "МН "Дружба""
+msgstr ""
+
+# Objects : [n2782809961]
+# name:be: []
+msgid "Надвин"
+msgstr ""
+
+# Objects : [w274735017]
+# name:be: []
+msgid "нефтепровод дружба"
+msgstr ""
+
+# Objects : [w323411634]
+# name:be: []
+msgid "Новобарсукская средняя школа"
+msgstr ""
+
+# Objects : [w323411633]
+# name:be: []
+msgid "Новобарсукский Детский Сад"
+msgstr ""
+
+# Objects : [n2713470989]
+# name:be: []
+msgid "Новокрасное"
+msgstr ""
+
+# Objects : [w273638956]
+# name:be: []
+msgid "Овощехранилище"
+msgstr ""
+
+# Objects : [w25195162]
+# name:be: []
+msgid "озеро Ляхово"
+msgstr ""
+
+# Objects : [n2681626466]
+# name:be: []
+msgid "Озерщина"
+msgstr ""
+
+# Objects : [n2710612921]
+# name:be: []
+msgid "Пересвятое"
+msgstr ""
+
+# Objects : [w263647445]
+# name:be: []
+msgid "Пищекомбинат"
+msgstr ""
+
+# Objects : [n2681626461]
+# name:be: []
+msgid "ПМК-71"
+msgstr ""
+
+# Objects : [n2757772212]
+# name:be: []
+msgid "пов. Александровка"
+msgstr ""
+
+# Objects : [n2770378177]
+# name:be: []
+msgid "пов. Андреевка"
+msgstr ""
+
+# Objects : [n2686028072]
+# name:be: []
+msgid "пов.Борхов"
+msgstr ""
+
+# Objects : [n2713473824, n2713473825]
+# name:be: []
+msgid "пов.Будка Шибенка"
+msgstr ""
+
+# Objects : [n2757776908]
+# name:be: []
+msgid "пов. Дунай"
+msgstr ""
+
+# Objects : [n2770343756]
+# name:be: []
+msgid "пов. Пасека"
+msgstr ""
+
+# Objects : [n2692224095]
+# name:be: []
+msgid "пов. Свиридовичи"
+msgstr ""
+
+# Objects : [n2770362859]
+# name:be: []
+msgid "пов. Смагорин"
+msgstr ""
+
+# Objects : [n2713798385]
+# name:be: []
+msgid "пов.Солтаново"
+msgstr ""
+
+# Objects : [n2686035862]
+# name:be: []
+msgid "пов.Стасевка"
+msgstr ""
+
+# Objects : [n2751250416]
+# name:be: []
+msgid "поворот Ивановка"
+msgstr ""
+
+# Objects : [n2751251231]
+# name:be: []
+msgid "поворот Красноземье"
+msgstr ""
+
+# Objects : [n2734430665]
+# name:be: []
+msgid "Подолесье"
+msgstr ""
+
+# Objects : [n2684765601]
+# name:be: []
+msgid "Подстанция"
+msgstr ""
+
+# Objects : [n2923424473]
+# name:be: []
+msgid "Покровский источник"
+msgstr ""
+
+# Objects : [n243043137]
+# name:be: [Прудзіща]
+msgid "Прудище (нежил)"
+msgstr ""
+
+# Objects : [n306064197]
+# name:be: [Рабуса]
+msgid "Ребуса"
+msgstr ""
+
+# Objects : [w263099433]
+# name:be: []
+msgid "РУП "Белоруснефть""
+msgstr ""
+
+# Objects : [n1559120842]
+# name:be: []
+msgid "Санаторий "Солнечный берег""
+msgstr ""
+
+# Objects : [w273652460]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [n2735600264]
+# name:be: []
+msgid "Свиридовичи"
+msgstr ""
+
+# Objects : [n2705240920]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [n677383492]
+# name:be: [Сеназавод]
+msgid "Сенозавод"
+msgstr ""
+
+# Objects : [w312389230]
+# name:be: []
+msgid "Скважина"
+msgstr ""
+
+# Objects : [n3303680865]
+# name:be: []
+msgid "Сожженным жителям"
+msgstr ""
+
+# Objects : [w323005252]
+# name:be: []
+msgid "Солтановская средняя школа"
+msgstr ""
+
+# Objects : [n2713471950]
+# name:be: []
+msgid "Старокрасное"
+msgstr ""
+
+# Objects : [w323005221]
+# name:be: []
+msgid "СУП "Демеховское""
+msgstr ""
+
+# Objects : [w269467412]
+# name:be: []
+msgid "УПН"
+msgstr ""
+
+# Objects : [n1738536359]
+# name:be: []
+msgid "ФЭСТ ВОДОМОТОРНИКОВ"
+msgstr ""
+
+# Objects : [n2684854009]
+# name:be: []
+msgid "Хозтовары"
+msgstr ""
+
+# Objects : [n2788685327]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [w25196707]
+# name:be: [Хоцемля]
+msgid "Хотемля"
+msgstr ""
+
+# Objects : [n2794024740]
+# name:be: []
+msgid "Хотецкое"
+msgstr ""
+
+# Objects : [n243033974]
+# name:be: []
+msgid "хутор Маньков (несущ.)"
+msgstr ""
+
+# Objects : [n2794024742]
+# name:be: []
+msgid "Чёрное"
+msgstr ""
+
+# Objects : [w264255210]
+# name:be: []
+msgid "школа"
+msgstr ""
+
+# Objects : [n2684760896, r3549357]
+# name:be: []
+msgid "Школа"
+msgstr ""
+
+# Objects : [n306064348]
+# name:be: [Якімаўка]
+msgid "Якимовка"
+msgstr ""
+

@@ -1,0 +1,250 @@
+# Objects : [n255078379]
+# name:be: []
+msgid "Cв. Ефросиниевская церк."
+msgstr ""
+
+# Objects : [w25392477]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [n1369893695]
+# name:be: [Архікафедральны касцёл Імя Найсвяцейшай Дзевы Марыі]
+msgid "Архикафедральный собор Святого Имени Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [w25326432]
+# name:be: []
+msgid "Взыскание погибших"
+msgstr ""
+
+# Objects : [w25394581]
+# name:be: []
+msgid "Вифлеем"
+msgstr ""
+
+# Objects : [w25327704]
+# name:be: [Нядзельная школа МСЦ ЕХБ]
+msgid "Воскресная школа МСЦ ЕХБ"
+msgstr ""
+
+# Objects : [n2379971535]
+# name:be: []
+msgid "Воскресная школа при приходе храма Преподобного Серафима Саровского"
+msgstr ""
+
+# Objects : [w25319065]
+# name:be: []
+msgid "Дом Милосердия"
+msgstr ""
+
+# Objects : [n281922211]
+# name:be: [Іаана Папярэдніка]
+msgid "Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n1336710166]
+# name:be: []
+msgid "Касцёл Святога Яна Хрыстицеля"
+msgstr ""
+
+# Objects : [n2200275805]
+# name:be: [Кафедральны сабор Сашэсця Святога Духа]
+msgid "Кафедральный собор Сошествия Святого Духа"
+msgstr ""
+
+# Objects : [w152809069]
+# name:be: []
+msgid "Колокольня"
+msgstr ""
+
+# Objects : [n2467433318]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [n283620437]
+# name:be: []
+msgid "Костел Крестовоздвиженский"
+msgstr ""
+
+# Objects : [n1369927332]
+# name:be: [Касцёл св. Язэпа]
+msgid "Костел св. Иосифа"
+msgstr ""
+
+# Objects : [w100418249]
+# name:be: [Касцёл Святога Сымона і Святой Алены]
+msgid "Костёл святого Симеона и святой Елены"
+msgstr ""
+
+# Objects : [w25325882]
+# name:be: []
+msgid "Костел Троицкий (св. Роха)"
+msgstr ""
+
+# Objects : [w83644578]
+# name:be: []
+msgid "Крупецкой иконы Божьей Матери"
+msgstr ""
+
+# Objects : [n255276062]
+# name:be: [Мемарыяльная капліца-помнік загінулым у Афганістане]
+msgid "Мемориальная часовня-памятник погибшим в Афганистане"
+msgstr ""
+
+# Objects : [n849464958]
+# name:be: [Мінскае епархіяльнае ўпраўленне]
+msgid "Минское епархиальное управление"
+msgstr ""
+
+# Objects : [w25393510]
+# name:be: []
+msgid "молитвенный дом"
+msgstr ""
+
+# Objects : [w45390752]
+# name:be: [Малітоўны дом МСЦ ЕХБ]
+msgid "Молитвенный дом МСЦ ЕХБ"
+msgstr ""
+
+# Objects : [n1448716236]
+# name:be: []
+msgid "Молитвенный дом ЦИХСПД"
+msgstr ""
+
+# Objects : [w25394003]
+# name:be: []
+msgid "Новоапостольская церковь"
+msgstr ""
+
+# Objects : [n305882105]
+# name:be: []
+msgid "Православный храм Архистратига Божия Михаила"
+msgstr ""
+
+# Objects : [n2379812877]
+# name:be: []
+msgid "Приход св. Николая Японского"
+msgstr ""
+
+# Objects : [n592391759]
+# name:be: []
+msgid "Рождество Христово"
+msgstr ""
+
+# Objects : [n283620440]
+# name:be: [св. Георгія]
+msgid "св. Георгия"
+msgstr ""
+
+# Objects : [w257150552, w257150553]
+# name:be: []
+msgid "Свято-Елисаветинский монастырь"
+msgstr ""
+
+# Objects : [n849374479]
+# name:be: []
+msgid "Свято-Иовлева церковь"
+msgstr ""
+
+# Objects : [w25327421, w25387141]
+# name:be: []
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1096129816]
+# name:be: []
+msgid "Храм Воскресения Христова"
+msgstr ""
+
+# Objects : [w116042364]
+# name:be: []
+msgid "Храм в честь иконы Божией Матери "Державная""
+msgstr ""
+
+# Objects : [w25392476]
+# name:be: []
+msgid "Храм Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2507622308]
+# name:be: []
+msgid "церковь" Благовестие""
+msgstr ""
+
+# Objects : [n2507631616]
+# name:be: []
+msgid "церковь "Воскресение""
+msgstr ""
+
+# Objects : [w60758430, w60758440]
+# name:be: []
+msgid "Церковь "Голгофа""
+msgstr ""
+
+# Objects : [n2507628300]
+# name:be: []
+msgid "Церковь "Свет Евангелия""
+msgstr ""
+
+# Objects : [w260459368]
+# name:be: []
+msgid "Церковь Вифания"
+msgstr ""
+
+# Objects : [w25319040]
+# name:be: []
+msgid "церковь Всех Святых"
+msgstr ""
+
+# Objects : [w60367223]
+# name:be: []
+msgid "Церковь Николая Чудотворца"
+msgstr ""
+
+# Objects : [n1369995759]
+# name:be: []
+msgid "Церковь св. Александра Невского"
+msgstr ""
+
+# Objects : [n1369916978]
+# name:be: []
+msgid "Церковь св. Марии Магдалины"
+msgstr ""
+
+# Objects : [n1369879720]
+# name:be: []
+msgid "Церковь св. Петра и Павла"
+msgstr ""
+
+# Objects : [w25394067]
+# name:be: []
+msgid "церковь св. Серафима Саровского"
+msgstr ""
+
+# Objects : [n2200275804]
+# name:be: [Царква Святога Духа]
+msgid "Церковь Святого Духа"
+msgstr ""
+
+# Objects : [n849508584]
+# name:be: []
+msgid "церковь Софии Слуцкой"
+msgstr ""
+
+# Objects : [w152809070]
+# name:be: []
+msgid "Часовня"
+msgstr ""
+
+# Objects : [w189733038]
+# name:be: []
+msgid "Часовня Матери Божьей Ружанцовой"
+msgstr ""
+
+# Objects : [n1370003980]
+# name:be: []
+msgid "Часовня-усыпальница Прушинских /сохр. частично/"
+msgstr ""
+

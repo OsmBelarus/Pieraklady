@@ -1,0 +1,420 @@
+# Objects : [w199813313]
+# name:be: []
+msgid ""ЗОЛОТОЙ ТЕЛЕНОК""
+msgstr ""
+
+# Objects : [w199800131]
+# name:be: []
+msgid ""Лакомка""
+msgstr ""
+
+# Objects : [w203353861]
+# name:be: []
+msgid "АГЗС"
+msgstr ""
+
+# Objects : [w199808421]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [w199813339]
+# name:be: []
+msgid "академическая котельная"
+msgstr ""
+
+# Objects : [w199804283]
+# name:be: []
+msgid "Академическая столовая"
+msgstr ""
+
+# Objects : [w306271356]
+# name:be: []
+msgid "Амфитеатр"
+msgstr ""
+
+# Objects : [w206247199]
+# name:be: []
+msgid "АСБ Беларусбанк"
+msgstr ""
+
+# Objects : [w199801506]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w205196409]
+# name:be: []
+msgid "белгосстрах"
+msgstr ""
+
+# Objects : [w170537368]
+# name:be: []
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [w210921095]
+# name:be: []
+msgid "Боксы Горецкий РЭС"
+msgstr ""
+
+# Objects : [w199796803]
+# name:be: []
+msgid "Горецкая районная больница"
+msgstr ""
+
+# Objects : [w199796792]
+# name:be: []
+msgid "Горецкая районная поликлиника"
+msgstr ""
+
+# Objects : [w210759958]
+# name:be: []
+msgid "Горецкий РГС"
+msgstr ""
+
+# Objects : [w210921075]
+# name:be: []
+msgid "Горецкий РЭС"
+msgstr ""
+
+# Objects : [w203347529]
+# name:be: []
+msgid "Горецкий филиал землеустройства"
+msgstr ""
+
+# Objects : [w318954770]
+# name:be: []
+msgid "Городской рынок"
+msgstr ""
+
+# Objects : [w199813329]
+# name:be: []
+msgid "ГУРМАН ПИЦЦА"
+msgstr ""
+
+# Objects : [w199800129]
+# name:be: []
+msgid "детский дом"
+msgstr ""
+
+# Objects : [w199802478]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w199804280]
+# name:be: []
+msgid "ДК БГСХА"
+msgstr ""
+
+# Objects : [w205461281]
+# name:be: []
+msgid "дом быта"
+msgstr ""
+
+# Objects : [w199796800, w203437276]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w203579892]
+# name:be: []
+msgid "ДОСАФ"
+msgstr ""
+
+# Objects : [w199790777, w203554938]
+# name:be: []
+msgid "евроопт"
+msgstr ""
+
+# Objects : [w199800085]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w199792223]
+# name:be: []
+msgid "Здание железнодорожного вокзала станции Погодино (г.Горки)"
+msgstr ""
+
+# Objects : [w203437284]
+# name:be: []
+msgid "Каприз"
+msgstr ""
+
+# Objects : [w203232687, w203461738, w203461740, w204626631, w205164002, w205196428]
+# name:be: []
+msgid "киоск"
+msgstr ""
+
+# Objects : [w203322117, w204116224]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w210921090]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w203320051]
+# name:be: []
+msgid "Кристина"
+msgstr ""
+
+# Objects : [w206496890]
+# name:be: []
+msgid "лесхоз"
+msgstr ""
+
+# Objects : [w199790763, w199796788, w199813322, w203215458, w203461734, w203461736, w203461742, w203461744, w203584359, w203590135, w205461285, w205470527, w205598655, w209766883, w209766884, w209768075, w210184534, w210713461, w214577262]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w170537371]
+# name:be: []
+msgid "Магазин №15"
+msgstr ""
+
+# Objects : [w205196429]
+# name:be: []
+msgid "магазин №6"
+msgstr ""
+
+# Objects : [w203324056]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w203322113]
+# name:be: []
+msgid "Музей"
+msgstr ""
+
+# Objects : [w210921081]
+# name:be: []
+msgid "Навес для хранения твердого топлива"
+msgstr ""
+
+# Objects : [w199800088]
+# name:be: []
+msgid "Налоговая инспекция"
+msgstr ""
+
+# Objects : [w199800133]
+# name:be: []
+msgid "Неведомственная охрана"
+msgstr ""
+
+# Objects : [w199807462]
+# name:be: []
+msgid "Общежитие №1"
+msgstr ""
+
+# Objects : [w205461276]
+# name:be: []
+msgid "Общежитие №10а"
+msgstr ""
+
+# Objects : [w205461277]
+# name:be: []
+msgid "Общежитие №10б"
+msgstr ""
+
+# Objects : [w199804289]
+# name:be: []
+msgid "Общежитие №11"
+msgstr ""
+
+# Objects : [w199804281]
+# name:be: []
+msgid "Общежитие №12"
+msgstr ""
+
+# Objects : [w199807460]
+# name:be: []
+msgid "Общежитие №2"
+msgstr ""
+
+# Objects : [w199800124]
+# name:be: []
+msgid "Общежитие №3"
+msgstr ""
+
+# Objects : [w199807452]
+# name:be: []
+msgid "Общежитие №5"
+msgstr ""
+
+# Objects : [w199800127]
+# name:be: []
+msgid "Общежитие №6"
+msgstr ""
+
+# Objects : [w199800098]
+# name:be: []
+msgid "Общежитие №7"
+msgstr ""
+
+# Objects : [w203466475]
+# name:be: []
+msgid "Общежитие №8"
+msgstr ""
+
+# Objects : [w203466477]
+# name:be: []
+msgid "Общежитие №9"
+msgstr ""
+
+# Objects : [n901555755]
+# name:be: []
+msgid "Пионерский лагерь"
+msgstr ""
+
+# Objects : [w203579893]
+# name:be: []
+msgid "Планета"
+msgstr ""
+
+# Objects : [w203320069]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [w302679341]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
+# Objects : [w203320052]
+# name:be: []
+msgid "Районный Дом Культуры"
+msgstr ""
+
+# Objects : [w199796806]
+# name:be: []
+msgid "РИК"
+msgstr ""
+
+# Objects : [w204092539]
+# name:be: []
+msgid "Сортоиспытательная станция"
+msgstr ""
+
+# Objects : [w216410558]
+# name:be: []
+msgid "союзпечать"
+msgstr ""
+
+# Objects : [w205421377]
+# name:be: []
+msgid "станция юнатов"
+msgstr ""
+
+# Objects : [w203320071]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w199800091]
+# name:be: []
+msgid "суд"
+msgstr ""
+
+# Objects : [w203322100]
+# name:be: []
+msgid "Ташир"
+msgstr ""
+
+# Objects : [w203320053]
+# name:be: []
+msgid "ТД Весна"
+msgstr ""
+
+# Objects : [w206507517]
+# name:be: []
+msgid "типография БГСХА"
+msgstr ""
+
+# Objects : [w206496871]
+# name:be: []
+msgid "ТП-519"
+msgstr ""
+
+# Objects : [w203320068]
+# name:be: []
+msgid "учебно-творческий комбинат"
+msgstr ""
+
+# Objects : [w199807449]
+# name:be: []
+msgid "Учебный корпус №1"
+msgstr ""
+
+# Objects : [w199807448]
+# name:be: []
+msgid "Учебный корпус №10"
+msgstr ""
+
+# Objects : [w199807459]
+# name:be: []
+msgid "Учебный корпус №11"
+msgstr ""
+
+# Objects : [w199813303]
+# name:be: []
+msgid "Учебный корпус №14"
+msgstr ""
+
+# Objects : [w203466480]
+# name:be: []
+msgid "Учебный корпус №16"
+msgstr ""
+
+# Objects : [w199807461]
+# name:be: []
+msgid "Учебный корпус №2"
+msgstr ""
+
+# Objects : [w199807831]
+# name:be: []
+msgid "Учебный корпус №3"
+msgstr ""
+
+# Objects : [w199808420]
+# name:be: []
+msgid "Учебный корпус №4"
+msgstr ""
+
+# Objects : [w199808426]
+# name:be: []
+msgid "Учебный корпус №5"
+msgstr ""
+
+# Objects : [w199807454]
+# name:be: []
+msgid "Учебный корпус №7"
+msgstr ""
+
+# Objects : [w199807456]
+# name:be: []
+msgid "Учебный корпус №8"
+msgstr ""
+
+# Objects : [w199807458]
+# name:be: []
+msgid "Учебный корпус №9"
+msgstr ""
+
+# Objects : [w205060136]
+# name:be: []
+msgid "ф-л АСБ Беларусбанк"
+msgstr ""
+
+# Objects : [w203322101]
+# name:be: []
+msgid "Школа ремесел"
+msgstr ""
+

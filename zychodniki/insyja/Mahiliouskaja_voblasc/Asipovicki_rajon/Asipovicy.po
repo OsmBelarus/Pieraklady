@@ -1,0 +1,195 @@
+# Objects : [n3129347772]
+# name:be: []
+msgid ""У адмирала""
+msgstr ""
+
+# Objects : [w205042986]
+# name:be: []
+msgid "Автомобильная свалка"
+msgstr ""
+
+# Objects : [w252137490]
+# name:be: []
+msgid "автопром"
+msgstr ""
+
+# Objects : [n2644733907]
+# name:be: []
+msgid "Баня-сауна"
+msgstr ""
+
+# Objects : [n2582408194]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n2582408195]
+# name:be: []
+msgid "Белпромстройбанк"
+msgstr ""
+
+# Objects : [w205060177]
+# name:be: []
+msgid "Ветстанция."
+msgstr ""
+
+# Objects : [w204646683, w204647761, w204647762, w204648367, w204648368, w204649962, w204649963]
+# name:be: []
+msgid "вода"
+msgstr ""
+
+# Objects : [w204245287]
+# name:be: []
+msgid "водоём"
+msgstr ""
+
+# Objects : [w204645788]
+# name:be: []
+msgid "Водоём"
+msgstr ""
+
+# Objects : [w238867171]
+# name:be: []
+msgid "Военная часть"
+msgstr ""
+
+# Objects : [n2151519488]
+# name:be: []
+msgid "Городская больница"
+msgstr ""
+
+# Objects : [w204621452, w204621453]
+# name:be: []
+msgid "Городская поликлиника"
+msgstr ""
+
+# Objects : [n2766736643]
+# name:be: []
+msgid "Гостиница Осиповичи"
+msgstr ""
+
+# Objects : [w205051172]
+# name:be: []
+msgid "Детская библиотека"
+msgstr ""
+
+# Objects : [w321990779, w321990875, w323405634]
+# name:be: []
+msgid "детская площадка"
+msgstr ""
+
+# Objects : [n2582408204]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w204511244]
+# name:be: []
+msgid "Завод "Бабушкина крынка""
+msgstr ""
+
+# Objects : [w204245314]
+# name:be: []
+msgid "каток"
+msgstr ""
+
+# Objects : [w117914547]
+# name:be: [кладбище]
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w76488082]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w117914572]
+# name:be: []
+msgid "Колледж"
+msgstr ""
+
+# Objects : [w307735880]
+# name:be: []
+msgid "Коттеджный поселок"
+msgstr ""
+
+# Objects : [w203700988]
+# name:be: []
+msgid "Локомотив"
+msgstr ""
+
+# Objects : [w206068785]
+# name:be: []
+msgid "мелькомбинат"
+msgstr ""
+
+# Objects : [w117914544, w117914556]
+# name:be: []
+msgid "милицыя"
+msgstr ""
+
+# Objects : [w206066909]
+# name:be: []
+msgid "небольшой магазин"
+msgstr ""
+
+# Objects : [n306066747]
+# name:be: [Асіповічы 1]
+msgid "Осиповичи-1"
+msgstr ""
+
+# Objects : [n1103466162]
+# name:be: []
+msgid "Осиповичская центральная районная больница / ул. Октябрьская 2 / (8-02235) 26-6-67"
+msgstr ""
+
+# Objects : [w76488318]
+# name:be: []
+msgid "польское кладбище"
+msgstr ""
+
+# Objects : [w204245286]
+# name:be: []
+msgid "Пралеска"
+msgstr ""
+
+# Objects : [w205041125]
+# name:be: []
+msgid "Продуктовый № 5"
+msgstr ""
+
+# Objects : [w205040991]
+# name:be: []
+msgid "Промтовары"
+msgstr ""
+
+# Objects : [n3129257813]
+# name:be: []
+msgid "Ритуальные услуги"
+msgstr ""
+
+# Objects : [w205870958]
+# name:be: []
+msgid "Росинка"
+msgstr ""
+
+# Objects : [w205040992]
+# name:be: []
+msgid "Санстанция"
+msgstr ""
+
+# Objects : [n3129263955, n3129264981, n3129268658]
+# name:be: []
+msgid "Свалка"
+msgstr ""
+
+# Objects : [w135885370]
+# name:be: []
+msgid "Строительный трест"
+msgstr ""
+
+# Objects : [n2788685678]
+# name:be: [Царква Узвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+

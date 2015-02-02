@@ -1,0 +1,165 @@
+# Objects : [n306064628]
+# name:be: []
+msgid "Kaffe"
+msgstr ""
+
+# Objects : [n595701734]
+# name:be: []
+msgid "SunCafe"
+msgstr ""
+
+# Objects : [n305686841]
+# name:be: [Аквабел]
+msgid "Аквабел"
+msgstr ""
+
+# Objects : [n2573421914]
+# name:be: []
+msgid "Амато Кофе"
+msgstr ""
+
+# Objects : [n825192853]
+# name:be: [Бар "Каменная горка"]
+msgid "Бар "Каменная горка""
+msgstr ""
+
+# Objects : [n1561807491]
+# name:be: []
+msgid "Берлога"
+msgstr ""
+
+# Objects : [n965543392]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [n1737652248]
+# name:be: []
+msgid "Кафе "ГородОк""
+msgstr ""
+
+# Objects : [n1821323658]
+# name:be: []
+msgid "Кафе "Корсар""
+msgstr ""
+
+# Objects : [n1014617858]
+# name:be: []
+msgid "Кафе "Улет""
+msgstr ""
+
+# Objects : [n833390249]
+# name:be: [Кавярня Sky House]
+msgid "кафе Sky House"
+msgstr ""
+
+# Objects : [n3243169115]
+# name:be: [Кафэ Куб]
+msgid "Кафе Куб"
+msgstr ""
+
+# Objects : [n1958665413]
+# name:be: []
+msgid "Ковчег"
+msgstr ""
+
+# Objects : [n2870948151]
+# name:be: []
+msgid "Королев стан"
+msgstr ""
+
+# Objects : [n1002537769]
+# name:be: []
+msgid "Крыница"
+msgstr ""
+
+# Objects : [n535480307]
+# name:be: [Лаванда]
+msgid "Лаванда"
+msgstr ""
+
+# Objects : [n437247667]
+# name:be: [Лясны]
+msgid "Лесной"
+msgstr ""
+
+# Objects : [n702980332]
+# name:be: [Аазіс]
+msgid "Оазис"
+msgstr ""
+
+# Objects : [n442994123]
+# name:be: [Ачаг]
+msgid "Очаг"
+msgstr ""
+
+# Objects : [n305685805]
+# name:be: []
+msgid "Пицца Темпо"
+msgstr ""
+
+# Objects : [n255020292]
+# name:be: []
+msgid "Побережье"
+msgstr ""
+
+# Objects : [n277642476, n3098541008]
+# name:be: []
+msgid "Птичь"
+msgstr ""
+
+# Objects : [n837941721]
+# name:be: []
+msgid "Русалочка"
+msgstr ""
+
+# Objects : [n2621037476]
+# name:be: []
+msgid "Рыболовный магазин"
+msgstr ""
+
+# Objects : [n2025383840]
+# name:be: []
+msgid "Санторини"
+msgstr ""
+
+# Objects : [n1958664121]
+# name:be: []
+msgid "Сова"
+msgstr ""
+
+# Objects : [n1736082777, w77893770]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n2831716053]
+# name:be: []
+msgid "Столовая РУП Минский завод Вторчермет"
+msgstr ""
+
+# Objects : [n959563893]
+# name:be: []
+msgid "У Пунтуса"
+msgstr ""
+
+# Objects : [n1683880335]
+# name:be: []
+msgid "Уса"
+msgstr ""
+
+# Objects : [n827868277]
+# name:be: []
+msgid "Шкипер"
+msgstr ""
+
+# Objects : [n437965791]
+# name:be: []
+msgid "Экспресс-бар"
+msgstr ""
+
+# Objects : [n1067711899, n729669678]
+# name:be: []
+msgid "Ялинка"
+msgstr ""
+

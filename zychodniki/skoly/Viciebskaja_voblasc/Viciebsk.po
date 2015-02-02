@@ -1,0 +1,295 @@
+# Objects : [w27903214]
+# name:be: [Вячэрняя школа]
+msgid "Вечерняя школа"
+msgstr ""
+
+# Objects : [n2714647907]
+# name:be: [Вячэрняя школа №1]
+msgid "Вечерняя школа №1"
+msgstr ""
+
+# Objects : [w227082259]
+# name:be: []
+msgid "Вспомогательная школа № 26"
+msgstr ""
+
+# Objects : [w30661548]
+# name:be: [Гімназія № 1]
+msgid "Гимназия № 1"
+msgstr ""
+
+# Objects : [w300883504]
+# name:be: [Гімназія № 2]
+msgid "Гимназия № 2"
+msgstr ""
+
+# Objects : [w110520441]
+# name:be: [Гiмназiя № 3 iмя Пушкiна]
+msgid "Гимназия № 3 им. Пушкина"
+msgstr ""
+
+# Objects : [w130361460]
+# name:be: [Гімназія № 4]
+msgid "Гимназия № 4"
+msgstr ""
+
+# Objects : [w226312089]
+# name:be: [Гімназія № 5]
+msgid "Гимназия № 5"
+msgstr ""
+
+# Objects : [w226794773]
+# name:be: [Гімназія № 6]
+msgid "Гимназия № 6"
+msgstr ""
+
+# Objects : [w238506843]
+# name:be: [Гімназія № 7]
+msgid "Гимназия № 7"
+msgstr ""
+
+# Objects : [w238508272]
+# name:be: [Гімназія № 8]
+msgid "Гимназия № 8"
+msgstr ""
+
+# Objects : [w226100376]
+# name:be: [Гiмназiя № 9]
+msgid "Гимназия № 9"
+msgstr ""
+
+# Objects : [w27901688]
+# name:be: [ДЮСШ №6]
+msgid "ДЮСШ №6"
+msgstr ""
+
+# Objects : [w27900266]
+# name:be: []
+msgid "ДЮСШ № 7"
+msgstr ""
+
+# Objects : [w27901667]
+# name:be: [Муз. школа №1]
+msgid "Муз. школа №1"
+msgstr ""
+
+# Objects : [w27901829]
+# name:be: [Муз. школа]
+msgid "Муз Школа"
+msgstr ""
+
+# Objects : [w174636275]
+# name:be: []
+msgid "Музыкальная школа №4"
+msgstr ""
+
+# Objects : [n806433926]
+# name:be: [Мастацкая школа №1]
+msgid "Художественная школа №1"
+msgstr ""
+
+# Objects : [n1734264984]
+# name:be: []
+msgid "Церковно-приходская школа"
+msgstr ""
+
+# Objects : [w27903102]
+# name:be: [Школа для дзяцей-сірот з цяжкасцямі ў навучанні]
+msgid "Школа для детей-сирот с трудностями в обучении"
+msgstr ""
+
+# Objects : [w27903108]
+# name:be: [Школа для дзяцей з парушэннем слыху]
+msgid "Школа для слабослышащих детей"
+msgstr ""
+
+# Objects : [n700209386]
+# name:be: [Школа мастацтваў №1]
+msgid "Школа искусств №1"
+msgstr ""
+
+# Objects : [w27898533]
+# name:be: [Школа мастацтваў №2]
+msgid "Школа искусств №2"
+msgstr ""
+
+# Objects : [w226309993]
+# name:be: []
+msgid "школа пулевой стрельбы"
+msgstr ""
+
+# Objects : [w27900284]
+# name:be: [Школа № 10]
+msgid "Школа № 10"
+msgstr ""
+
+# Objects : [w240577396]
+# name:be: [Школа № 11]
+msgid "Школа № 11"
+msgstr ""
+
+# Objects : [w178425702]
+# name:be: [Школа № 12]
+msgid "Школа № 12"
+msgstr ""
+
+# Objects : [w158179826]
+# name:be: []
+msgid "Школа № 14"
+msgstr ""
+
+# Objects : [w27896675]
+# name:be: [Школа №16]
+msgid "Школа №16"
+msgstr ""
+
+# Objects : [w286353250]
+# name:be: [Школа № 17]
+msgid "Школа № 17"
+msgstr ""
+
+# Objects : [w238787596]
+# name:be: [Школа № 18]
+msgid "Школа № 18"
+msgstr ""
+
+# Objects : [w155243367, w27896689]
+# name:be: [Школа №19]
+msgid "Школа №19"
+msgstr ""
+
+# Objects : [w232192061]
+# name:be: [Школа № 2]
+msgid "Школа № 2"
+msgstr ""
+
+# Objects : [w282300377]
+# name:be: [Школа № 21]
+msgid "Школа № 21"
+msgstr ""
+
+# Objects : [w27903935]
+# name:be: [Школа №22]
+msgid "Школа №22"
+msgstr ""
+
+# Objects : [w27896697]
+# name:be: [Школа №23]
+msgid "Школа №23"
+msgstr ""
+
+# Objects : [w245913391]
+# name:be: []
+msgid "Школа № 24"
+msgstr ""
+
+# Objects : [w286422366]
+# name:be: [Школа № 25]
+msgid "Школа № 25"
+msgstr ""
+
+# Objects : [w232587812]
+# name:be: [Школа № 27]
+msgid "Школа № 27"
+msgstr ""
+
+# Objects : [w103874920]
+# name:be: [Школа № 28]
+msgid "Школа № 28"
+msgstr ""
+
+# Objects : [w227082261]
+# name:be: [Школа № 29 iмя Пiменава]
+msgid "Школа № 29 им. Пименова"
+msgstr ""
+
+# Objects : [w240058437]
+# name:be: [Школа № 3]
+msgid "Школа № 3"
+msgstr ""
+
+# Objects : [w244277132]
+# name:be: [Школа № 30]
+msgid "Школа № 30"
+msgstr ""
+
+# Objects : [w243511540]
+# name:be: []
+msgid "Школа № 31"
+msgstr ""
+
+# Objects : [w243738576]
+# name:be: [Школа № 33]
+msgid "Школа № 33"
+msgstr ""
+
+# Objects : [w113139519]
+# name:be: [Школа № 34]
+msgid "Школа № 34"
+msgstr ""
+
+# Objects : [w235229606]
+# name:be: [Школа № 35]
+msgid "Школа № 35"
+msgstr ""
+
+# Objects : [w226125841]
+# name:be: [Школа № 38]
+msgid "Школа № 38"
+msgstr ""
+
+# Objects : [w140217391]
+# name:be: [Школа № 4]
+msgid "Школа № 4"
+msgstr ""
+
+# Objects : [w245913392]
+# name:be: [Школа № 40]
+msgid "Школа № 40"
+msgstr ""
+
+# Objects : [w288903180]
+# name:be: []
+msgid "Школа № 42"
+msgstr ""
+
+# Objects : [w277932256]
+# name:be: [Школа № 43]
+msgid "Школа № 43 им. М.Ф.Шмырёва"
+msgstr ""
+
+# Objects : [w135510032]
+# name:be: [Школа № 44]
+msgid "Школа № 44"
+msgstr ""
+
+# Objects : [w59483049]
+# name:be: [Школа № 45]
+msgid "Школа № 45"
+msgstr ""
+
+# Objects : [w119857611]
+# name:be: [Школа № 46]
+msgid "Школа № 46"
+msgstr ""
+
+# Objects : [w228904763]
+# name:be: [Школа № 5]
+msgid "Школа № 5"
+msgstr ""
+
+# Objects : [w169243477]
+# name:be: [Школа № 6]
+msgid "Школа № 6"
+msgstr ""
+
+# Objects : [r4112157]
+# name:be: [Школа № 7]
+msgid "Школа № 7"
+msgstr ""
+
+# Objects : [w278530497]
+# name:be: [Школа № 8]
+msgid "Школа № 8"
+msgstr ""
+

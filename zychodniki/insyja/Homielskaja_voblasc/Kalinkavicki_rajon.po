@@ -1,0 +1,330 @@
+# Objects : [n2923700723]
+# name:be: []
+msgid "150"
+msgstr ""
+
+# Objects : [n1042023416]
+# name:be: []
+msgid "Bobrovichi Air Base"
+msgstr ""
+
+# Objects : [w25192097]
+# name:be: []
+msgid "Адреница"
+msgstr ""
+
+# Objects : [n2923679286]
+# name:be: []
+msgid "Белая гора"
+msgstr ""
+
+# Objects : [w288600845]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [n3127273984, n3303814142, w307540146]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [w322190296]
+# name:be: []
+msgid "Великоавтюковская детский сад-базовая школа"
+msgstr ""
+
+# Objects : [n2923700730]
+# name:be: []
+msgid "Ветпункт"
+msgstr ""
+
+# Objects : [w25193986]
+# name:be: []
+msgid "Вирвиха"
+msgstr ""
+
+# Objects : [w311525743]
+# name:be: []
+msgid "Воротынский детский сад - средняя школа"
+msgstr ""
+
+# Objects : [w25183460]
+# name:be: [Глухое воз.]
+msgid "Глухое"
+msgstr ""
+
+# Objects : [n306064604]
+# name:be: [Галявіцы]
+msgid "Голевицы"
+msgstr ""
+
+# Objects : [n566296861]
+# name:be: [Гомельская вобласць]
+msgid "Гомельская область"
+msgstr ""
+
+# Objects : [w25196280]
+# name:be: [Горкі]
+msgid "Горки"
+msgstr ""
+
+# Objects : [n306064609]
+# name:be: [Гарочычы]
+msgid "Горочичи"
+msgstr ""
+
+# Objects : [n2923654185]
+# name:be: []
+msgid "Гряда"
+msgstr ""
+
+# Objects : [w25193785]
+# name:be: [Дворышча]
+msgid "Дворище"
+msgstr ""
+
+# Objects : [w311218098]
+# name:be: []
+msgid "Домановичская средняя школа"
+msgstr ""
+
+# Objects : [w293818652]
+# name:be: []
+msgid "дом культуры"
+msgstr ""
+
+# Objects : [w291098783]
+# name:be: []
+msgid "Дружба-Авцюки"
+msgstr ""
+
+# Objects : [w306992556]
+# name:be: []
+msgid "Звероферма"
+msgstr ""
+
+# Objects : [w321779232]
+# name:be: []
+msgid "Зеленочский детский сад-базовая школа"
+msgstr ""
+
+# Objects : [n306064649]
+# name:be: [Кацуры]
+msgid "Кацуры"
+msgstr ""
+
+# Objects : [n674417813]
+# name:be: [Клінск]
+msgid "Клинск"
+msgstr ""
+
+# Objects : [w311401340]
+# name:be: []
+msgid "КСУП им. Кутузова"
+msgstr ""
+
+# Objects : [r4483064]
+# name:be: []
+msgid "Ландшафтный заказник Стрельский"
+msgstr ""
+
+# Objects : [w311401342]
+# name:be: []
+msgid "Липовская детская школа искусств"
+msgstr ""
+
+# Objects : [w322419605]
+# name:be: []
+msgid "Липовская средняя школа"
+msgstr ""
+
+# Objects : [n2923680406]
+# name:be: []
+msgid "Литвин-1"
+msgstr ""
+
+# Objects : [n2923680407]
+# name:be: []
+msgid "Литвин-2"
+msgstr ""
+
+# Objects : [n2923667536]
+# name:be: []
+msgid "Литвин-3"
+msgstr ""
+
+# Objects : [w322193315]
+# name:be: []
+msgid "Малоавтюковская средняя школа"
+msgstr ""
+
+# Objects : [n2129463830]
+# name:be: []
+msgid "Мемориальный комплекс узникам Озаричского лагеря смерти"
+msgstr ""
+
+# Objects : [w25184823, w25185919]
+# name:be: []
+msgid "Мох"
+msgstr ""
+
+# Objects : [w315732384]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [n3311622806]
+# name:be: []
+msgid "Музей-усадьба юмора"
+msgstr ""
+
+# Objects : [n306064643]
+# name:be: [Нахаў]
+msgid "Нахов"
+msgstr ""
+
+# Objects : [w274735017]
+# name:be: []
+msgid "нефтепровод дружба"
+msgstr ""
+
+# Objects : [w323600394]
+# name:be: []
+msgid "Носовичская средняя школа"
+msgstr ""
+
+# Objects : [n674422379]
+# name:be: []
+msgid "Обелиск экипажу бомбардировщика"
+msgstr ""
+
+# Objects : [w25196229]
+# name:be: [Азярышча]
+msgid "Озерище"
+msgstr ""
+
+# Objects : [w25194800]
+# name:be: []
+msgid "Осовище Большое"
+msgstr ""
+
+# Objects : [w307536083]
+# name:be: []
+msgid "отстойник"
+msgstr ""
+
+# Objects : [w25195777]
+# name:be: []
+msgid "Переново"
+msgstr ""
+
+# Objects : [w25195433]
+# name:be: [Пясчанка]
+msgid "Песчанка"
+msgstr ""
+
+# Objects : [w25194289]
+# name:be: []
+msgid "Плесецкое"
+msgstr ""
+
+# Objects : [w284774185]
+# name:be: []
+msgid "Полевая база"
+msgstr ""
+
+# Objects : [r3397849]
+# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
+msgid "Полесский государственный радиационно-экологический заповедник"
+msgstr ""
+
+# Objects : [n2788683615]
+# name:be: [Прысядзібны парк (рэшткі)]
+msgid "Приусадебный парк (остатки)"
+msgstr ""
+
+# Objects : [w288600840]
+# name:be: []
+msgid "Свято-Рождество-Богородичный мужской монастырь"
+msgstr ""
+
+# Objects : [w25191370]
+# name:be: []
+msgid "Стар.Забок"
+msgstr ""
+
+# Objects : [w25193747]
+# name:be: []
+msgid "Тимошище"
+msgstr ""
+
+# Objects : [w284774186, w284774187]
+# name:be: []
+msgid "УЖД Хойники"
+msgstr ""
+
+# Objects : [w321988327]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [n2496653638]
+# name:be: []
+msgid "Фельдшерско-акушерский пункт"
+msgstr ""
+
+# Objects : [n306064603]
+# name:be: [Халоднікі]
+msgid "Холодники"
+msgstr ""
+
+# Objects : [n3313562569]
+# name:be: []
+msgid "Шарейки-1 4тыс.до н.э."
+msgstr ""
+
+# Objects : [n2923700728]
+# name:be: []
+msgid "Юго-восточный берег"
+msgstr ""
+
+# Objects : [n2923654175]
+# name:be: []
+msgid "Юревичи-1"
+msgstr ""
+
+# Objects : [n2923700731]
+# name:be: []
+msgid "Юревичи-2"
+msgstr ""
+
+# Objects : [n2923680405]
+# name:be: []
+msgid "Юревичи-3"
+msgstr ""
+
+# Objects : [n2923667535]
+# name:be: []
+msgid "Юревичи-5"
+msgstr ""
+
+# Objects : [n2923654176]
+# name:be: []
+msgid "Юревичи-6"
+msgstr ""
+
+# Objects : [n2923700724]
+# name:be: []
+msgid "Юревичи-7"
+msgstr ""
+
+# Objects : [w288600846]
+# name:be: []
+msgid "Юровичский детский сад - средняя школа"
+msgstr ""
+
+# Objects : [n306064717]
+# name:be: [Юшкі]
+msgid "Юшки"
+msgstr ""
+

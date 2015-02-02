@@ -1,0 +1,205 @@
+# Objects : [w72518314]
+# name:be: [АЛМІ]
+msgid "АЛМИ"
+msgstr ""
+
+# Objects : [w47572793]
+# name:be: [Белвест]
+msgid "Белвест"
+msgstr ""
+
+# Objects : [w240057509]
+# name:be: []
+msgid "Берёзки"
+msgstr ""
+
+# Objects : [w307614828]
+# name:be: []
+msgid "Буслик"
+msgstr ""
+
+# Objects : [w72441788]
+# name:be: []
+msgid "Городской дом культуры"
+msgstr ""
+
+# Objects : [w93712155]
+# name:be: []
+msgid "Гостиница Аэлита"
+msgstr ""
+
+# Objects : [w72518316]
+# name:be: []
+msgid "Детская больница"
+msgstr ""
+
+# Objects : [w72427230]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w310835590]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w310813191]
+# name:be: []
+msgid "Детский сад №8"
+msgstr ""
+
+# Objects : [w72436336]
+# name:be: []
+msgid "ДЮСШ №4"
+msgstr ""
+
+# Objects : [w166671947]
+# name:be: [Еўраопт]
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w78139974]
+# name:be: []
+msgid "Женская консультация"
+msgstr ""
+
+# Objects : [w253284978]
+# name:be: []
+msgid "Каменный цветок"
+msgstr ""
+
+# Objects : [w80112710]
+# name:be: []
+msgid "Кооператор"
+msgstr ""
+
+# Objects : [w283078403]
+# name:be: [Касцёл Карла Барамеуша]
+msgid "Костел Карла Барамеуша"
+msgstr ""
+
+# Objects : [w72441745]
+# name:be: [Марка]
+msgid "Марко"
+msgstr ""
+
+# Objects : [w282206569]
+# name:be: []
+msgid "Нестерка"
+msgstr ""
+
+# Objects : [w253286086, w94696243]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w253285998]
+# name:be: []
+msgid "Одиссей"
+msgstr ""
+
+# Objects : [w78139973]
+# name:be: [Анкалагічны дыспансэр]
+msgid "Онкологический диспансер"
+msgstr ""
+
+# Objects : [w145691305]
+# name:be: []
+msgid "Пинская межрайонная прокуратура"
+msgstr ""
+
+# Objects : [w80112705]
+# name:be: [Пінскдрэў]
+msgid "Пинскдрев"
+msgstr ""
+
+# Objects : [w72436333]
+# name:be: []
+msgid "Пинский городской исполнительный комитет"
+msgstr ""
+
+# Objects : [r1125590]
+# name:be: []
+msgid "Пинский государственный аграрный технологический колледж"
+msgstr ""
+
+# Objects : [w72427300]
+# name:be: [Пінскі дзяржаўны гідрамеліяратыўны каледж імя А. Я. Кляшчова]
+msgid "Пинский государственный гидромелиоративный колледж имени А.Е.Клещева"
+msgstr ""
+
+# Objects : [w72518321, w94696249]
+# name:be: [Пінскі індустрыяльна-педагагічны каледж]
+msgid "Пинский государственный индустриально-педагогический колледж"
+msgstr ""
+
+# Objects : [r1125588]
+# name:be: []
+msgid "Полесский государственный университет"
+msgstr ""
+
+# Objects : [w72436371]
+# name:be: []
+msgid "Полесский Государственный Университет"
+msgstr ""
+
+# Objects : [w325513172]
+# name:be: []
+msgid "Полесский Драматический Театр"
+msgstr ""
+
+# Objects : [w72673989]
+# name:be: [Прэстыж]
+msgid "Престиж"
+msgstr ""
+
+# Objects : [n1463762426]
+# name:be: []
+msgid "Прием б/у аккумуляторов"
+msgstr ""
+
+# Objects : [w72436339]
+# name:be: [Прыпяць]
+msgid "Припять"
+msgstr ""
+
+# Objects : [w72518309]
+# name:be: []
+msgid "Реал"
+msgstr ""
+
+# Objects : [w72673997]
+# name:be: []
+msgid "РемБытТехника"
+msgstr ""
+
+# Objects : [w94696281]
+# name:be: []
+msgid "Санта Бремор"
+msgstr ""
+
+# Objects : [w240056736]
+# name:be: [Свiтанак]
+msgid "Свитанок"
+msgstr ""
+
+# Objects : [w253248695]
+# name:be: []
+msgid "Суд Пинского района и г. Пинска"
+msgstr ""
+
+# Objects : [w322900261]
+# name:be: [Туберкулёзны дыспансэр]
+msgid "Туберкулёзный диспансер"
+msgstr ""
+
+# Objects : [w307631843]
+# name:be: []
+msgid "Училище искусств"
+msgstr ""
+
+# Objects : [w72427273]
+# name:be: [Школа Мастацваў]
+msgid "Школа искусств"
+msgstr ""
+

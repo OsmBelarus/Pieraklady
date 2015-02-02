@@ -1,0 +1,80 @@
+# Objects : [n1679472232]
+# name:be: []
+msgid "Ветеринарная лечебница"
+msgstr ""
+
+# Objects : [n667483101]
+# name:be: []
+msgid "гостиница "Мосты""
+msgstr ""
+
+# Objects : [w111601464]
+# name:be: []
+msgid "Дендропарк"
+msgstr ""
+
+# Objects : [n1179462285]
+# name:be: []
+msgid "Жукову"
+msgstr ""
+
+# Objects : [n3226643289]
+# name:be: []
+msgid "Ленин В.И."
+msgstr ""
+
+# Objects : [n1268384962, n1268384963, n706177354, w200735752]
+# name:be: [Масты]
+msgid "Мосты"
+msgstr ""
+
+# Objects : [n1176707520]
+# name:be: []
+msgid "Никола"
+msgstr ""
+
+# Objects : [n1268665461]
+# name:be: [Паўлінка]
+msgid "Павлинка"
+msgstr ""
+
+# Objects : [n1140395435]
+# name:be: []
+msgid "Районный дом культуры"
+msgstr ""
+
+# Objects : [n1065791648]
+# name:be: []
+msgid "Романтика"
+msgstr ""
+
+# Objects : [w101939658]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w111601459]
+# name:be: []
+msgid "Торфы"
+msgstr ""
+
+# Objects : [r3423451]
+# name:be: [вуліца Будзёнага]
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [w101926396]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n369597642]
+# name:be: [Цэнтральная раённая бальніца]
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [r2703245]
+# name:be: []
+msgid "Центральный мост"
+msgstr ""
+

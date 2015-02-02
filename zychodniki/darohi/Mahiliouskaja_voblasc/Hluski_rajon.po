@@ -1,0 +1,135 @@
+# Objects : [w205315206]
+# name:be: []
+msgid "Артезианская улица"
+msgstr ""
+
+# Objects : [w205315151]
+# name:be: []
+msgid "Благовещенская улица"
+msgstr ""
+
+# Objects : [w205314951]
+# name:be: []
+msgid "Вознесенская улица"
+msgstr ""
+
+# Objects : [w219739344, w219754963]
+# name:be: []
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w205314875]
+# name:be: []
+msgid "Дорожная улица"
+msgstr ""
+
+# Objects : [w212390378, w274721557]
+# name:be: []
+msgid "Дорожный переулок"
+msgstr ""
+
+# Objects : [w122218704]
+# name:be: []
+msgid "лагерь "Христианин""
+msgstr ""
+
+# Objects : [w206620975, w206621032, w207179437, w227319206, w245983763, w249911452, w253811250, w265375046]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w219739499]
+# name:be: []
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w205628415, w254335589]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w205315607]
+# name:be: []
+msgid "Новый переулок"
+msgstr ""
+
+# Objects : [w253811086]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w253811251]
+# name:be: []
+msgid "Партизанский переулок"
+msgstr ""
+
+# Objects : [w227333825]
+# name:be: []
+msgid "Полевой переулок"
+msgstr ""
+
+# Objects : [w253623875]
+# name:be: []
+msgid "Приозёрная улица"
+msgstr ""
+
+# Objects : [w219752616, w219754964]
+# name:be: []
+msgid "Рождественская улица"
+msgstr ""
+
+# Objects : [w227318974, w261647355]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w210206998]
+# name:be: []
+msgid "Славянская улица"
+msgstr ""
+
+# Objects : [w210207083]
+# name:be: []
+msgid "Славянский переулок"
+msgstr ""
+
+# Objects : [w253622366]
+# name:be: []
+msgid "Старая"
+msgstr ""
+
+# Objects : [w205320409]
+# name:be: []
+msgid "улица Луначарского"
+msgstr ""
+
+# Objects : [w227319205]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w219750677]
+# name:be: []
+msgid "улица Семёнова"
+msgstr ""
+
+# Objects : [w227319327]
+# name:be: []
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w119556006, w155385073, w206481865, w218062606, w265375698]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w206619724, w207576585, w253331445]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w210207128, w219753912]
+# name:be: []
+msgid "Школьный переулок"
+msgstr ""
+

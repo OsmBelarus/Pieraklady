@@ -1,0 +1,295 @@
+# Objects : [n1180699929]
+# name:be: []
+msgid ""Алми""
+msgstr ""
+
+# Objects : [n1061780502]
+# name:be: []
+msgid ""Маладзiк""
+msgstr ""
+
+# Objects : [n2395646638]
+# name:be: []
+msgid "HorsMotors"
+msgstr ""
+
+# Objects : [n1536998802]
+# name:be: []
+msgid "LUX"
+msgstr ""
+
+# Objects : [n1537088692, n1537109961]
+# name:be: []
+msgid "автозапчасти"
+msgstr ""
+
+# Objects : [n1537088654, n1537088677, n1537088683]
+# name:be: [Аўтазапчасткі]
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1465838165]
+# name:be: []
+msgid "Агат"
+msgstr ""
+
+# Objects : [n1536997608]
+# name:be: []
+msgid "Анженко"
+msgstr ""
+
+# Objects : [n1190677243]
+# name:be: []
+msgid "Атлант"
+msgstr ""
+
+# Objects : [n1180696392]
+# name:be: []
+msgid "Балтика"
+msgstr ""
+
+# Objects : [n1190922256]
+# name:be: []
+msgid "Белые росы"
+msgstr ""
+
+# Objects : [n1536992822]
+# name:be: [Бярэ́зіна]
+msgid "Березина"
+msgstr ""
+
+# Objects : [n2189578247]
+# name:be: []
+msgid "Березки"
+msgstr ""
+
+# Objects : [n2940862010]
+# name:be: []
+msgid "БУтик"
+msgstr ""
+
+# Objects : [n1381565454]
+# name:be: []
+msgid "Василёк"
+msgstr ""
+
+# Objects : [n1537088661]
+# name:be: []
+msgid "Вячорки"
+msgstr ""
+
+# Objects : [n1537088629]
+# name:be: []
+msgid "Гермес Сантехстрой"
+msgstr ""
+
+# Objects : [n1787143663]
+# name:be: []
+msgid "Детский стиль"
+msgstr ""
+
+# Objects : [n1180704047]
+# name:be: [Дружба]
+msgid "Дружба"
+msgstr ""
+
+# Objects : [n2156354032]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n1190677186]
+# name:be: []
+msgid "Золотая мечта"
+msgstr ""
+
+# Objects : [n1465838161]
+# name:be: [Папялушка]
+msgid "Золушка"
+msgstr ""
+
+# Objects : [n1465838176]
+# name:be: []
+msgid "ИП Силивончик"
+msgstr ""
+
+# Objects : [n1180688256]
+# name:be: [Камелія]
+msgid "Камелия"
+msgstr ""
+
+# Objects : [n1537088637]
+# name:be: []
+msgid "Книжный"
+msgstr ""
+
+# Objects : [n823149585]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [n2282243646]
+# name:be: []
+msgid "Коммунальник"
+msgstr ""
+
+# Objects : [n1180702481]
+# name:be: [Кулінарыя]
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n1180634348]
+# name:be: []
+msgid "Лагуна"
+msgstr ""
+
+# Objects : [n1537088643]
+# name:be: []
+msgid "Ларец"
+msgstr ""
+
+# Objects : [n1336584335]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [n2331907565]
+# name:be: []
+msgid "Магазин "Энергия""
+msgstr ""
+
+# Objects : [n1537066519]
+# name:be: [Марка]
+msgid "Марко"
+msgstr ""
+
+# Objects : [n2358245070]
+# name:be: []
+msgid "Мастер"
+msgstr ""
+
+# Objects : [n1180678137]
+# name:be: []
+msgid "Меридиан"
+msgstr ""
+
+# Objects : [n2212790257]
+# name:be: []
+msgid "Милавица"
+msgstr ""
+
+# Objects : [n1537019982]
+# name:be: []
+msgid "Мой дом"
+msgstr ""
+
+# Objects : [n713162951]
+# name:be: [Прадукты]
+msgid "Октябрьский"
+msgstr ""
+
+# Objects : [n2686906510]
+# name:be: []
+msgid "Парикмахерская "ЛИЛИЯ""
+msgstr ""
+
+# Objects : [n2358245270]
+# name:be: []
+msgid "Пинскдрев"
+msgstr ""
+
+# Objects : [n1537007190]
+# name:be: []
+msgid "Полесье"
+msgstr ""
+
+# Objects : [n1180671161]
+# name:be: []
+msgid "продукты"
+msgstr ""
+
+# Objects : [n1180677608]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2297449678]
+# name:be: []
+msgid "Ракушка"
+msgstr ""
+
+# Objects : [n1536999220]
+# name:be: []
+msgid "Семейная"
+msgstr ""
+
+# Objects : [n1530790397]
+# name:be: []
+msgid "Современный стиль"
+msgstr ""
+
+# Objects : [n2212788577]
+# name:be: []
+msgid "Солнышко"
+msgstr ""
+
+# Objects : [n2358244613]
+# name:be: []
+msgid "Сундучок"
+msgstr ""
+
+# Objects : [n1546250684]
+# name:be: []
+msgid "Тайные желания"
+msgstr ""
+
+# Objects : [n978647745]
+# name:be: []
+msgid "Техносервис плюс"
+msgstr ""
+
+# Objects : [n878885497]
+# name:be: []
+msgid "Торговый центр"
+msgstr ""
+
+# Objects : [n1511530905]
+# name:be: []
+msgid "Торговый центр Пассаж"
+msgstr ""
+
+# Objects : [n1546273101]
+# name:be: []
+msgid "ХИТ"
+msgstr ""
+
+# Objects : [n2167310161]
+# name:be: []
+msgid "Хозтовары"
+msgstr ""
+
+# Objects : [n1537037764]
+# name:be: []
+msgid "Цифра"
+msgstr ""
+
+# Objects : [n1986532687]
+# name:be: []
+msgid "шиномонтаж Леоненко"
+msgstr ""
+
+# Objects : [n1061780464]
+# name:be: [Цэнтральная]
+msgid "Штофф"
+msgstr ""
+
+# Objects : [n2210891044]
+# name:be: []
+msgid "Элегант"
+msgstr ""
+
+# Objects : [n1537031299]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+

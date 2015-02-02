@@ -1,0 +1,40 @@
+# Objects : [n2866803685]
+# name:be: []
+msgid "Автосервис"
+msgstr ""
+
+# Objects : [n2801562849]
+# name:be: []
+msgid "Лагуна"
+msgstr ""
+
+# Objects : [n306064981]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n306065031]
+# name:be: [СТА]
+msgid "СТО"
+msgstr ""
+
+# Objects : [n306064987]
+# name:be: [Гандлёвы цэнтр]
+msgid "Торговый Центр"
+msgstr ""
+
+# Objects : [n306064983]
+# name:be: []
+msgid "ТЦ 'Орбита'"
+msgstr ""
+
+# Objects : [n306064985]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n306064986]
+# name:be: []
+msgid "Центральный Универсам"
+msgstr ""
+

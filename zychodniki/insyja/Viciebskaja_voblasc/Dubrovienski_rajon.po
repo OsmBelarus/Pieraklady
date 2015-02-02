@@ -1,0 +1,75 @@
+# Objects : [n2788679985]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [w305411160]
+# name:be: []
+msgid "газопровод"
+msgstr ""
+
+# Objects : [n243045759, w25082666]
+# name:be: [Дняпроўка]
+msgid "Днепровка"
+msgstr ""
+
+# Objects : [w158001481]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w158001480]
+# name:be: []
+msgid "КОтельная"
+msgstr ""
+
+# Objects : [w158001482]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [n306065631]
+# name:be: []
+msgid "Ляды-Красный"
+msgstr ""
+
+# Objects : [n306066031]
+# name:be: [Асінаўка]
+msgid "Осиновка"
+msgstr ""
+
+# Objects : [w158001490]
+# name:be: []
+msgid "Райпо"
+msgstr ""
+
+# Objects : [n447867208, n447867209]
+# name:be: []
+msgid "Редьки-Красное"
+msgstr ""
+
+# Objects : [w158001483, w159036072]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w315639718]
+# name:be: []
+msgid "Стела на границе России и Белоруссии"
+msgstr ""
+
+# Objects : [n2788684630]
+# name:be: [Сядзібна-паркавы комплекс]
+msgid "Усадебно-парковый комплекс"
+msgstr ""
+
+# Objects : [n306066034]
+# name:be: [Хлюсціна]
+msgid "Хлюстино"
+msgstr ""
+
+# Objects : [n2788686071]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+

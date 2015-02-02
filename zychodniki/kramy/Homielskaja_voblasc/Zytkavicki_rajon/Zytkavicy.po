@@ -1,0 +1,140 @@
+# Objects : [n1166354732, n1166360281]
+# name:be: [Аўтазапчасткі]
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n621163466]
+# name:be: [Алеся]
+msgid "Алеся"
+msgstr ""
+
+# Objects : [n908004191]
+# name:be: [Віцязь]
+msgid "Витязь"
+msgstr ""
+
+# Objects : [n621183157]
+# name:be: [Гермес]
+msgid "Гермес"
+msgstr ""
+
+# Objects : [n2975522117]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [n621163461]
+# name:be: [Даміно]
+msgid "Домино"
+msgstr ""
+
+# Objects : [n621163474]
+# name:be: [Зубраня]
+msgid "Зубренок"
+msgstr ""
+
+# Objects : [n621163455]
+# name:be: [Кулінарыя, прамтавары]
+msgid "Кулинария, промтовары"
+msgstr ""
+
+# Objects : [n1166350342]
+# name:be: []
+msgid "магазин Бетонка"
+msgstr ""
+
+# Objects : [n2629434277]
+# name:be: []
+msgid "Максимум"
+msgstr ""
+
+# Objects : [n3207284446]
+# name:be: []
+msgid "Матрикс"
+msgstr ""
+
+# Objects : [n2633370961]
+# name:be: []
+msgid "мини Евроопт"
+msgstr ""
+
+# Objects : [n2639508417]
+# name:be: []
+msgid "Молочный"
+msgstr ""
+
+# Objects : [n621163449]
+# name:be: [Азёрны]
+msgid "Озерный"
+msgstr ""
+
+# Objects : [n621163452, n621183156]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n1280151851]
+# name:be: []
+msgid "Промтовары"
+msgstr ""
+
+# Objects : [n2957114379]
+# name:be: []
+msgid "Родная сторона"
+msgstr ""
+
+# Objects : [n1280149989]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2671351176]
+# name:be: []
+msgid "Слуцкий"
+msgstr ""
+
+# Objects : [n621163469]
+# name:be: [Спадарожнік]
+msgid "Спутник"
+msgstr ""
+
+# Objects : [n1166360282]
+# name:be: []
+msgid "СТО "ВАЗ""
+msgstr ""
+
+# Objects : [n2639508418]
+# name:be: []
+msgid "Строймир"
+msgstr ""
+
+# Objects : [n621163457]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n2639508419]
+# name:be: []
+msgid "Цетральный"
+msgstr ""
+
+# Objects : [n992434173]
+# name:be: [Чабарок]
+msgid "Чабарок"
+msgstr ""
+
+# Objects : [n2859973969]
+# name:be: []
+msgid "ЭлектроХаус"
+msgstr ""
+
+# Objects : [n621163451]
+# name:be: [Паўднёвы]
+msgid "Южный"
+msgstr ""
+
+# Objects : [n907669986]
+# name:be: [Явар]
+msgid "Явар"
+msgstr ""
+

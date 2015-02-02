@@ -1,0 +1,260 @@
+# Objects : [w155768302]
+# name:be: []
+msgid "Автобусный парк"
+msgstr ""
+
+# Objects : [w155773483]
+# name:be: [Аўтапарк]
+msgid "Автопарк"
+msgstr ""
+
+# Objects : [w122804557]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w202772773, w204627948, w240080881]
+# name:be: []
+msgid "башня"
+msgstr ""
+
+# Objects : [w261042118]
+# name:be: []
+msgid "Березка"
+msgstr ""
+
+# Objects : [w205036685]
+# name:be: []
+msgid "вечный огонь"
+msgstr ""
+
+# Objects : [w220455934]
+# name:be: []
+msgid "Владимир Ильич Ленин"
+msgstr ""
+
+# Objects : [w155773484]
+# name:be: [Ваенкамат]
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w122804464]
+# name:be: [Ганна]
+msgid "Ганна"
+msgstr ""
+
+# Objects : [w122804563]
+# name:be: []
+msgid "ГДК"
+msgstr ""
+
+# Objects : [w122804525]
+# name:be: []
+msgid "Городокский РИК"
+msgstr ""
+
+# Objects : [w158215875]
+# name:be: []
+msgid "Гортоп"
+msgstr ""
+
+# Objects : [w153311867]
+# name:be: []
+msgid "ГРП 3"
+msgstr ""
+
+# Objects : [w197643500]
+# name:be: []
+msgid "ГРП 4"
+msgstr ""
+
+# Objects : [w162066126]
+# name:be: []
+msgid "ДРСУ №106"
+msgstr ""
+
+# Objects : [w155150251]
+# name:be: [Чыгуначны вакзал]
+msgid "Ж\Д вокзал "Городок""
+msgstr ""
+
+# Objects : [w159328021]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w152294580]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w155763074]
+# name:be: []
+msgid "котельная "ОАО Молоко""
+msgstr ""
+
+# Objects : [w157393904]
+# name:be: []
+msgid "котельная "Раубичи""
+msgstr ""
+
+# Objects : [w164668245]
+# name:be: []
+msgid "котельная "Ремзавод""
+msgstr ""
+
+# Objects : [w162542071]
+# name:be: []
+msgid "котельная "Центральная""
+msgstr ""
+
+# Objects : [w152181359]
+# name:be: []
+msgid "котельная "ЦРБ""
+msgstr ""
+
+# Objects : [w155114908]
+# name:be: []
+msgid "Куруш"
+msgstr ""
+
+# Objects : [w162066259]
+# name:be: []
+msgid "Леспромхоз"
+msgstr ""
+
+# Objects : [w155121913]
+# name:be: [Лясгас]
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w155252076]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w202772769]
+# name:be: []
+msgid "Молоко"
+msgstr ""
+
+# Objects : [w155770245]
+# name:be: [ААТ Гарадоцкі льнозавод]
+msgid "ОАО "Городокский льнозавод""
+msgstr ""
+
+# Objects : [w155763067]
+# name:be: [ААТ «Малако»]
+msgid "ОАО "Молоко""
+msgstr ""
+
+# Objects : [w155770936]
+# name:be: [ААТ РАПС]
+msgid "ОАО "РАПС""
+msgstr ""
+
+# Objects : [w204627950]
+# name:be: []
+msgid "очистные"
+msgstr ""
+
+# Objects : [w202772770]
+# name:be: []
+msgid "ПАМЯТНИК"
+msgstr ""
+
+# Objects : [w153339737]
+# name:be: []
+msgid "ПГРП №2"
+msgstr ""
+
+# Objects : [w162066260]
+# name:be: []
+msgid "ПМК №51"
+msgstr ""
+
+# Objects : [w154431804]
+# name:be: []
+msgid "Причиндалы"
+msgstr ""
+
+# Objects : [w155759833]
+# name:be: []
+msgid "Раубичи"
+msgstr ""
+
+# Objects : [w122804585]
+# name:be: [Рэстаран]
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [w152462146]
+# name:be: []
+msgid "рынок"
+msgstr ""
+
+# Objects : [w152459400]
+# name:be: []
+msgid "СЕВЕРНЫЙ "МЯСО""
+msgstr ""
+
+# Objects : [w209755614]
+# name:be: []
+msgid "Танк ИС"
+msgstr ""
+
+# Objects : [w122804528]
+# name:be: []
+msgid "Узел Связи"
+msgstr ""
+
+# Objects : [w155759834]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+
+# Objects : [w200443340]
+# name:be: []
+msgid "фонтан"
+msgstr ""
+
+# Objects : [w204627949]
+# name:be: []
+msgid "фонтан домик"
+msgstr ""
+
+# Objects : [w155774839]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w162066261]
+# name:be: []
+msgid "Цех деревообработки"
+msgstr ""
+
+# Objects : [w155768301]
+# name:be: []
+msgid "ЧТПУП "Горс""
+msgstr ""
+
+# Objects : [w155242724]
+# name:be: []
+msgid "Шайба"
+msgstr ""
+
+# Objects : [w153339739]
+# name:be: []
+msgid "ШРП №2"
+msgstr ""
+
+# Objects : [w154996977]
+# name:be: []
+msgid "ШРП №3"
+msgstr ""
+
+# Objects : [w202772772]
+# name:be: []
+msgid "ШРП№9"
+msgstr ""
+

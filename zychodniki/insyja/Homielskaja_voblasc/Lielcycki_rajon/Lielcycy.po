@@ -1,0 +1,125 @@
+# Objects : [w324482000]
+# name:be: []
+msgid ""Мастерок""
+msgstr ""
+
+# Objects : [w260876487]
+# name:be: []
+msgid "Березка"
+msgstr ""
+
+# Objects : [n3280099288]
+# name:be: []
+msgid "Братская могила членов оперативной группы ЦК ВЛКСМ"
+msgstr ""
+
+# Objects : [r3291599]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w277075369]
+# name:be: []
+msgid "Гимназия"
+msgstr ""
+
+# Objects : [n2766728085]
+# name:be: []
+msgid "Жерелец"
+msgstr ""
+
+# Objects : [r3291600]
+# name:be: [Інтэрнацыянальная вуліца]
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w260876488]
+# name:be: []
+msgid "Колосок."
+msgstr ""
+
+# Objects : [n1365412810]
+# name:be: [Лельчыцы]
+msgid "Лельчицы"
+msgstr ""
+
+# Objects : [r3291601]
+# name:be: [Мозырская вуліца]
+msgid "Мозырьская улица"
+msgstr ""
+
+# Objects : [w240253500]
+# name:be: []
+msgid "Обувь - обои"
+msgstr ""
+
+# Objects : [w315882081]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w260876489]
+# name:be: []
+msgid "Солнышко."
+msgstr ""
+
+# Objects : [n620014789]
+# name:be: []
+msgid "Уборть"
+msgstr ""
+
+# Objects : [r3291602]
+# name:be: [вуліца 9 Мая]
+msgid "улица 9 Мая"
+msgstr ""
+
+# Objects : [r3291603]
+# name:be: [вуліца Багдановіча]
+msgid "улица Богдановича"
+msgstr ""
+
+# Objects : [r3291604]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [r3291605]
+# name:be: [вуліца Задарожнага]
+msgid "улица Задорожного"
+msgstr ""
+
+# Objects : [r3291606]
+# name:be: [вуліца Каліноўскага]
+msgid "улица Калиновского"
+msgstr ""
+
+# Objects : [r3291607]
+# name:be: [вуліца Колбава]
+msgid "улица Коблова"
+msgstr ""
+
+# Objects : [r3291608]
+# name:be: [вуліца Казлова]
+msgid "улица Козлова"
+msgstr ""
+
+# Objects : [r3291609]
+# name:be: [вуліца Машэрава]
+msgid "улица Машерова"
+msgstr ""
+
+# Objects : [r3291610]
+# name:be: [вуліца Пятроўскага]
+msgid "улица Петровского"
+msgstr ""
+
+# Objects : [r3291612]
+# name:be: [вуліца Якуба Коласа]
+msgid "улица Якуба Коласа"
+msgstr ""
+
+# Objects : [w277075370]
+# name:be: []
+msgid "Школа №2"
+msgstr ""
+

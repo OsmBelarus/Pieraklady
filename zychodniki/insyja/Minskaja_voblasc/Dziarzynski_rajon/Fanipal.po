@@ -1,0 +1,90 @@
+# Objects : [n1694224440]
+# name:be: []
+msgid "Администрация ОАО "Агрокомбинат "Дзержинский""
+msgstr ""
+
+# Objects : [w200662400]
+# name:be: []
+msgid "БУМ"
+msgstr ""
+
+# Objects : [n987988722]
+# name:be: []
+msgid "почтовое отделение"
+msgstr ""
+
+# Objects : [w127222367]
+# name:be: []
+msgid "СПК Крутогорье-Петковичи"
+msgstr ""
+
+# Objects : [n2263003055]
+# name:be: []
+msgid "Спортивно-оздоровительный комплекс"
+msgstr ""
+
+# Objects : [w200662394, w200662402]
+# name:be: []
+msgid "Средняя школа №1 г. Фаниполя"
+msgstr ""
+
+# Objects : [n1254052677]
+# name:be: []
+msgid "Стелла"
+msgstr ""
+
+# Objects : [w320991619]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [n988001723]
+# name:be: []
+msgid "Стоянка магазина "Верас""
+msgstr ""
+
+# Objects : [n987970206]
+# name:be: []
+msgid "Стоянка ООО"Гольфстрим""
+msgstr ""
+
+# Objects : [n987950521]
+# name:be: []
+msgid "Стоянка столовой "Белнефтехим""
+msgstr ""
+
+# Objects : [n987989623]
+# name:be: [тэлеграф]
+msgid "Телеграф"
+msgstr ""
+
+# Objects : [n271040381, n3316899410, w200672217]
+# name:be: [Фаніпаль]
+msgid "Фаниполь"
+msgstr ""
+
+# Objects : [w129036415]
+# name:be: []
+msgid "Фанипольский мини-рынок"
+msgstr ""
+
+# Objects : [n2383953094]
+# name:be: []
+msgid "Фанипольское отделения милиции"
+msgstr ""
+
+# Objects : [w60478096]
+# name:be: []
+msgid "Физкультурно-оздоровительный центр"
+msgstr ""
+
+# Objects : [n2519620748]
+# name:be: []
+msgid "Форвард Моторс склад"
+msgstr ""
+
+# Objects : [w231764788]
+# name:be: []
+msgid "Электросети"
+msgstr ""
+

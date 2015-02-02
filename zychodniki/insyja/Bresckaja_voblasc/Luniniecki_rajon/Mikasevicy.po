@@ -1,0 +1,65 @@
+# Objects : [n1809609373]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w316299488]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [n3224357983]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [n3224341404]
+# name:be: []
+msgid "Инфокиоск"
+msgstr ""
+
+# Objects : [w247847141]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [n306069905]
+# name:be: [Мікашэвічы]
+msgid "Микашевичи"
+msgstr ""
+
+# Objects : [n1809608891]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [n1809610161]
+# name:be: []
+msgid "Пожарная станция"
+msgstr ""
+
+# Objects : [w316271753]
+# name:be: []
+msgid "Продовольственный магазин"
+msgstr ""
+
+# Objects : [n3224348000, w316323544]
+# name:be: [Кiрмаш]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2766722615]
+# name:be: []
+msgid "Санаторий Свитанок"
+msgstr ""
+
+# Objects : [w316272569]
+# name:be: []
+msgid "Старое кладбище"
+msgstr ""
+
+# Objects : [n2788687332]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+

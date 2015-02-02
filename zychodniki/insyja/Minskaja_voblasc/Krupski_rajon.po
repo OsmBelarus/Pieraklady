@@ -1,0 +1,80 @@
+# Objects : [n2334752822]
+# name:be: []
+msgid "gsm"
+msgstr ""
+
+# Objects : [n414267351]
+# name:be: [Авіябаза Бобр]
+msgid "Авиабаза Бобр"
+msgstr ""
+
+# Objects : [w287089335]
+# name:be: []
+msgid "Гута"
+msgstr ""
+
+# Objects : [n2788680576]
+# name:be: [Каменны крыж]
+msgid "Каменный крест"
+msgstr ""
+
+# Objects : [n306066326]
+# name:be: [Крупкі]
+msgid "Крупки"
+msgstr ""
+
+# Objects : [n2766728129]
+# name:be: []
+msgid "Крупский"
+msgstr ""
+
+# Objects : [w25195974]
+# name:be: []
+msgid "Нерыб"
+msgstr ""
+
+# Objects : [w25196181]
+# name:be: []
+msgid "Радомля"
+msgstr ""
+
+# Objects : [n1343065209]
+# name:be: []
+msgid "Развалины церкви"
+msgstr ""
+
+# Objects : [n2766728215]
+# name:be: []
+msgid "Селява тур"
+msgstr ""
+
+# Objects : [w289701811]
+# name:be: []
+msgid "Торфопредприятие Трушовка"
+msgstr ""
+
+# Objects : [w289701812, w289701813, w289701814]
+# name:be: []
+msgid "УЖД торфопредприятия Трушовка"
+msgstr ""
+
+# Objects : [n2788684901]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788687377]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686151]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n2788686247]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+

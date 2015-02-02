@@ -1,0 +1,120 @@
+# Objects : [n2168732526]
+# name:be: []
+msgid "А-100"
+msgstr ""
+
+# Objects : [n247278444]
+# name:be: []
+msgid "А-100 АЗС №2"
+msgstr ""
+
+# Objects : [n2101317268]
+# name:be: []
+msgid "А-100 АЗС №25"
+msgstr ""
+
+# Objects : [n2579746811]
+# name:be: []
+msgid "А-100 самообслуживания"
+msgstr ""
+
+# Objects : [n2324623014]
+# name:be: []
+msgid "АГЗС №2"
+msgstr ""
+
+# Objects : [n642264152]
+# name:be: []
+msgid "АГНКС Минск-2"
+msgstr ""
+
+# Objects : [n2132764518]
+# name:be: []
+msgid "АЗС №: 19"
+msgstr ""
+
+# Objects : [w268927722]
+# name:be: []
+msgid "АЗС №60 Белоруснефть"
+msgstr ""
+
+# Objects : [n1685199284, n656448489, n815761893]
+# name:be: [Беларуснафта]
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [n305684100]
+# name:be: [Беларуснафта]
+msgid "Белоруснефть АЗС № 89"
+msgstr ""
+
+# Objects : [n649430842]
+# name:be: []
+msgid "Белоруснефть №14"
+msgstr ""
+
+# Objects : [n2462938146]
+# name:be: [Беларуснафта №19]
+msgid "Белоруснефть №19"
+msgstr ""
+
+# Objects : [n3057009970]
+# name:be: [Беларуснафта №20]
+msgid "Белоруснефть №20"
+msgstr ""
+
+# Objects : [n438067767]
+# name:be: []
+msgid "Белоруснефть №28"
+msgstr ""
+
+# Objects : [n1779266829, n1780098826]
+# name:be: []
+msgid "Бутан"
+msgstr ""
+
+# Objects : [n1779294746]
+# name:be: []
+msgid "Газ"
+msgstr ""
+
+# Objects : [n255481016]
+# name:be: []
+msgid "Газпромнефть"
+msgstr ""
+
+# Objects : [n305679968]
+# name:be: []
+msgid "Газпромнефть АЗС № 33"
+msgstr ""
+
+# Objects : [n2862595522, n2862601314]
+# name:be: []
+msgid "МАЗС №: 59"
+msgstr ""
+
+# Objects : [w243021181]
+# name:be: []
+msgid "МАЗС №58 Оргнефтехим"
+msgstr ""
+
+# Objects : [n305686075]
+# name:be: []
+msgid "Облнефтепродукт"
+msgstr ""
+
+# Objects : [n446056771, n446056773]
+# name:be: []
+msgid "Славнефть"
+msgstr ""
+
+# Objects : [n306064622]
+# name:be: []
+msgid "Славнефть №2"
+msgstr ""
+
+# Objects : [n306065590]
+# name:be: []
+msgid "Славнефть №3"
+msgstr ""
+

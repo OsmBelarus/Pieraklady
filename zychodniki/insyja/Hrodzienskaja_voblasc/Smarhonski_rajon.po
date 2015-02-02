@@ -1,0 +1,540 @@
+# Objects : [w167851448]
+# name:be: []
+msgid "Азерко"
+msgstr ""
+
+# Objects : [n3196101764]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [n3196101765]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n242999578, w25133764]
+# name:be: [Белькава]
+msgid "Бельково"
+msgstr ""
+
+# Objects : [n3170105252, n3170112673, n3170114018]
+# name:be: []
+msgid "Блиндаж 1-ой мировой войны"
+msgstr ""
+
+# Objects : [w225324034]
+# name:be: []
+msgid "Болото"
+msgstr ""
+
+# Objects : [n2719485776, w266387139]
+# name:be: [Баравыя]
+msgid "Боровые"
+msgstr ""
+
+# Objects : [n1576491921]
+# name:be: []
+msgid "Брама"
+msgstr ""
+
+# Objects : [n1551919608]
+# name:be: []
+msgid "Братская могила русских солдат"
+msgstr ""
+
+# Objects : [w25202663]
+# name:be: []
+msgid "Вишневское"
+msgstr ""
+
+# Objects : [n1551922638, n2788680093, n2788680128]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n243001958, w25133665]
+# name:be: [Войстам]
+msgid "Войстом"
+msgstr ""
+
+# Objects : [w225327892]
+# name:be: []
+msgid "Вырубка"
+msgstr ""
+
+# Objects : [n242997851, w25134810]
+# name:be: [Гаравішкі]
+msgid "Гаравишки"
+msgstr ""
+
+# Objects : [n2719495628, w266388563]
+# name:be: [Гародзькава]
+msgid "Городьково"
+msgstr ""
+
+# Objects : [n2719491510, w266387944]
+# name:be: [Дарышча]
+msgid "Дарище"
+msgstr ""
+
+# Objects : [n2788680303]
+# name:be: [Палацава-паркавы комплекс Агінскіх]
+msgid "Дворцово-парковый комплекс Огинских"
+msgstr ""
+
+# Objects : [n2719473871, w266385615]
+# name:be: [Дзяракі]
+msgid "Дераки"
+msgstr ""
+
+# Objects : [n899617317]
+# name:be: []
+msgid "Дом-музей Франтишка Богушевича"
+msgstr ""
+
+# Objects : [n3196101762]
+# name:be: []
+msgid "ДорОрс"
+msgstr ""
+
+# Objects : [n2768677517]
+# name:be: []
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [n2719474824, w266385761]
+# name:be: [Жменькі]
+msgid "Жменьки"
+msgstr ""
+
+# Objects : [n306068550]
+# name:be: [Залессе]
+msgid "Залесье"
+msgstr ""
+
+# Objects : [w225324022]
+# name:be: []
+msgid "Земельные угодья"
+msgstr ""
+
+# Objects : [n2458992856]
+# name:be: []
+msgid "искусственная нора"
+msgstr ""
+
+# Objects : [w225327890, w37932099]
+# name:be: [Кар’ер]
+msgid "Карьер"
+msgstr ""
+
+# Objects : [n2719827369, w266423942]
+# name:be: [Катрынова]
+msgid "Катриново"
+msgstr ""
+
+# Objects : [n2788680678]
+# name:be: [Могілкі вайсковыя часоў 1-й сусветнай вайны]
+msgid "Кладбище военное времен 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788680958, n2788680991]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681399, n2788681403]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681524]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n1559018233]
+# name:be: []
+msgid "Кладбище христианское"
+msgstr ""
+
+# Objects : [w170776741]
+# name:be: []
+msgid "Корени"
+msgstr ""
+
+# Objects : [n2788681758]
+# name:be: [Касцёл Маці Божай Ружанцовай]
+msgid "Костел Матери Божьей Святого Розария"
+msgstr ""
+
+# Objects : [n2788681824, n2788681829]
+# name:be: [Касцёл Найсвяцейшай Панны Марыі]
+msgid "Костел Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n2788682129]
+# name:be: [Касцёл Святога Тадэвуша]
+msgid "Костел Святого Тадеуша"
+msgstr ""
+
+# Objects : [n2788682152]
+# name:be: [Касцёл Святога Яна Хрысцiцеля]
+msgid "Костел Святого Яна Крестителя"
+msgstr ""
+
+# Objects : [n2788682244, n2788682245]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n2788682432]
+# name:be: [Крэўскі замак]
+msgid "Кревский замок"
+msgstr ""
+
+# Objects : [n2719458002, w266383099]
+# name:be: [Кунцаўшчына]
+msgid "Кунцевщина"
+msgstr ""
+
+# Objects : [n2719463026, w266383301]
+# name:be: [Ленкаўшчына]
+msgid "Ленковщина"
+msgstr ""
+
+# Objects : [n2719473872, w266385616]
+# name:be: [Леанполле]
+msgid "Леонполье"
+msgstr ""
+
+# Objects : [w225327997]
+# name:be: []
+msgid "Лесной шалаш"
+msgstr ""
+
+# Objects : [n3196101766]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w25194779]
+# name:be: []
+msgid "Мертвое"
+msgstr ""
+
+# Objects : [n2788682657]
+# name:be: [Магіла Ігната Ходзькі]
+msgid "Могила Игната Ходзьки"
+msgstr ""
+
+# Objects : [r3367925]
+# name:be: [Нацыянальны парк «Нарачанскі»]
+msgid "Национальный парк «Нарочанский»"
+msgstr ""
+
+# Objects : [w109355495]
+# name:be: []
+msgid "Недостроенное здание"
+msgstr ""
+
+# Objects : [n3159272390]
+# name:be: []
+msgid "Немецкий блиндаж Первой мировой войны"
+msgstr ""
+
+# Objects : [n242996300, w25135944]
+# name:be: [Няроўка]
+msgid "Неровка"
+msgstr ""
+
+# Objects : [n242998851, w25135807]
+# name:be: [Новая Рудня]
+msgid "Новая Рудня"
+msgstr ""
+
+# Objects : [n1559341252]
+# name:be: []
+msgid "Оборонительные сооружения 1-й мировой войны"
+msgstr ""
+
+# Objects : [r2964733]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [n2719835137, w266424189]
+# name:be: [Акушкаўшчына]
+msgid "Окушковщина"
+msgstr ""
+
+# Objects : [n2719500280, w266388948]
+# name:be: [Орціха]
+msgid "Ортиха"
+msgstr ""
+
+# Objects : [n242998849, w25135806]
+# name:be: [Асінішкі]
+msgid "Осинишки"
+msgstr ""
+
+# Objects : [n2788683390]
+# name:be: [Помнік германскім салдатам часоў 1-ай сусветнай вайны]
+msgid "Памятник германским солдатам времен 1-й мировой войны"
+msgstr ""
+
+# Objects : [n1559015874]
+# name:be: []
+msgid "Памятник немецким солдатам"
+msgstr ""
+
+# Objects : [n1559346534]
+# name:be: []
+msgid "Памятник солдатам 1-й мировой войны"
+msgstr ""
+
+# Objects : [w300923856]
+# name:be: []
+msgid "Песчаный карьер"
+msgstr ""
+
+# Objects : [n2719493142, w266388072]
+# name:be: [Пілавойці]
+msgid "Пиловойти"
+msgstr ""
+
+# Objects : [n2084168351, w25134773]
+# name:be: [Плавушка]
+msgid "Плавушка"
+msgstr ""
+
+# Objects : [n242998481, w25134792]
+# name:be: [Погар’е]
+msgid "Погорье"
+msgstr ""
+
+# Objects : [w225324025]
+# name:be: []
+msgid "Поле возле Азерка"
+msgstr ""
+
+# Objects : [n3196101763]
+# name:be: []
+msgid "Полонез"
+msgstr ""
+
+# Objects : [n1189775293, w25133706]
+# name:be: [Палянка]
+msgid "Полянка"
+msgstr ""
+
+# Objects : [n2788683718]
+# name:be: [Прысядзібны парк пры былой сядзібе Маркоўскіх]
+msgid "Приусадебный парк при бывшей усадьбе Марковских"
+msgstr ""
+
+# Objects : [w225324032]
+# name:be: []
+msgid "Развалины башен"
+msgstr ""
+
+# Objects : [n242998737, w25135750]
+# name:be: [Росцішкі]
+msgid "Ростишки"
+msgstr ""
+
+# Objects : [w25197497]
+# name:be: []
+msgid "Рыжее"
+msgstr ""
+
+# Objects : [n2766722525]
+# name:be: []
+msgid "Санаторий Лесная поляна"
+msgstr ""
+
+# Objects : [w225327891]
+# name:be: []
+msgid "Свайгинское кладбище"
+msgstr ""
+
+# Objects : [n2719490448, w266387787]
+# name:be: [Сяляцічы]
+msgid "Селятичи"
+msgstr ""
+
+# Objects : [n2331882669]
+# name:be: []
+msgid "Скалодром"
+msgstr ""
+
+# Objects : [n1559020202]
+# name:be: []
+msgid "Склеп-усыпальница Ходзько"
+msgstr ""
+
+# Objects : [n2766728221]
+# name:be: []
+msgid "Сморгонский"
+msgstr ""
+
+# Objects : [w39890903]
+# name:be: []
+msgid "Сморгонский силикатобетонный завод"
+msgstr ""
+
+# Objects : [n306068551, n306068563, n414267660]
+# name:be: [Смаргонь]
+msgid "Сморгонь"
+msgstr ""
+
+# Objects : [n242998478, w25134793]
+# name:be: [Сакалец]
+msgid "Соколец"
+msgstr ""
+
+# Objects : [n306068567]
+# name:be: [Солы]
+msgid "Солы"
+msgstr ""
+
+# Objects : [n444488527]
+# name:be: []
+msgid "Танк ИС"
+msgstr ""
+
+# Objects : [n242996247, w25135913]
+# name:be: [Тамасоўка]
+msgid "Томасовка"
+msgstr ""
+
+# Objects : [w40220662]
+# name:be: []
+msgid "Тракторный завод"
+msgstr ""
+
+# Objects : [w25196785]
+# name:be: []
+msgid "Туща"
+msgstr ""
+
+# Objects : [n2788684411]
+# name:be: [Сядзібна-паркавы комплекс Багушэвічаў]
+msgid "Усадебно-парковый комплекс Богушевичей"
+msgstr ""
+
+# Objects : [n2788684496]
+# name:be: [Сядзібна-паркавы комплекс Мілашэўскіх]
+msgid "Усадебно-парковый комплекс Милошевских"
+msgstr ""
+
+# Objects : [n2788684575]
+# name:be: [Сядзібна-паркавы комплекс Шафнагеляў]
+msgid "Усадебно-парковый комплекс Шафнагеляв"
+msgstr ""
+
+# Objects : [n2788684906]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788685130]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [n2099867666, w200002141]
+# name:be: [Харлаўшчына]
+msgid "Харловщина"
+msgstr ""
+
+# Objects : [n2719499122, w266388843]
+# name:be: [Хваецкаўшчына]
+msgid "Хвоецковщина"
+msgstr ""
+
+# Objects : [w109377629]
+# name:be: []
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n2788685291]
+# name:be: [Гаспадарчы двор Гюнтэраў]
+msgid "Хозяйственный двор Гюнтер"
+msgstr ""
+
+# Objects : [n2788687374, n2788687375]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788685444]
+# name:be: [Царква (руіны)]
+msgid "Церковь (руины)"
+msgstr ""
+
+# Objects : [n2788686271]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788686856]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2719473873, w266385619]
+# name:be: [Чаботкі]
+msgid "Чаботки"
+msgstr ""
+
+# Objects : [n2788687701, n2788687710, n2788687714]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687397]
+# name:be: [Капліца «Крынiца ля багiнi»]
+msgid "Часовня «Криница у богини»"
+msgstr ""
+
+# Objects : [n2788687527, n2788687531]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2788687606]
+# name:be: [Каплічка прыдарожная]
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n242998894, w25135770]
+# name:be: [Чорная Лужа]
+msgid "Чёрная Лужа"
+msgstr ""
+
+# Objects : [n242998830, w25135829]
+# name:be: [Чорны Бор]
+msgid "Чёрный Бор"
+msgstr ""
+
+# Objects : [n2100570934, w200069835]
+# name:be: [Чарняты]
+msgid "Черняты"
+msgstr ""
+
+# Objects : [n2719476245, w266385969]
+# name:be: [Шымакі]
+msgid "Шимаки"
+msgstr ""
+
+# Objects : [n2719473874, w266385620]
+# name:be: [Шлямкі]
+msgid "Шлямки"
+msgstr ""
+
+# Objects : [w305938306]
+# name:be: []
+msgid "ШРП №1"
+msgstr ""
+

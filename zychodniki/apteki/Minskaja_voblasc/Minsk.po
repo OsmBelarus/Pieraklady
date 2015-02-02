@@ -1,0 +1,1340 @@
+# Objects : [n2712556013]
+# name:be: ["Любімая аптэка"]
+msgid ""Любимая аптека""
+msgstr ""
+
+# Objects : [n3269290661]
+# name:be: []
+msgid "Apotheke"
+msgstr ""
+
+# Objects : [n1400032241]
+# name:be: []
+msgid "MedVax"
+msgstr ""
+
+# Objects : [n2117400668]
+# name:be: []
+msgid "Pharmacy"
+msgstr ""
+
+# Objects : [n2334766682]
+# name:be: []
+msgid "Synlab"
+msgstr ""
+
+# Objects : [n3074076656]
+# name:be: []
+msgid "АБФармация №14"
+msgstr ""
+
+# Objects : [n3080085235]
+# name:be: []
+msgid "АктивМед ООО Аптека №3"
+msgstr ""
+
+# Objects : [n3080098247]
+# name:be: []
+msgid "АктивМед ООО Аптека №6"
+msgstr ""
+
+# Objects : [n305685183]
+# name:be: [Алеан ТДА Аптэка №1]
+msgid "Алеан ОДО Аптека №1"
+msgstr ""
+
+# Objects : [n3080182891]
+# name:be: [Алеан ТДА Аптэка №2]
+msgid "Алеан ОДО Аптека №2"
+msgstr ""
+
+# Objects : [n288088955]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №1"
+msgstr ""
+
+# Objects : [n2145086772]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №12"
+msgstr ""
+
+# Objects : [n305675693]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №13"
+msgstr ""
+
+# Objects : [n2567200798]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №14"
+msgstr ""
+
+# Objects : [n2628627995]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №15"
+msgstr ""
+
+# Objects : [n305687133]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №16"
+msgstr ""
+
+# Objects : [n305684917]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №2"
+msgstr ""
+
+# Objects : [n3080536346]
+# name:be: []
+msgid "Аленфарм-Плюс ОДО Аптека №8"
+msgstr ""
+
+# Objects : [n305684806]
+# name:be: [Альфамед]
+msgid "Альфамед"
+msgstr ""
+
+# Objects : [n1116058721, n1175497812, n1199935575, n1307037301, n1357916673, n1359980061, n1359980086, n1594886939, n2121242008, n2321011404, n2335289611, n2379967641, n2574013819, n2575618615, n2602935708, n2607487453, n2621397212, n2627083435, n2728511023, n280027410, n2824867840, n3020587708, n305675779, n3073623441, n3220263139, n3240836601, n3268865260, n927190084, n990814034]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n281678127]
+# name:be: []
+msgid "Аптека "Фармация №25""
+msgstr ""
+
+# Objects : [n1462080818]
+# name:be: []
+msgid "Аптека (киоск)"
+msgstr ""
+
+# Objects : [n2628199699]
+# name:be: []
+msgid "Аптека +"
+msgstr ""
+
+# Objects : [n3082325938]
+# name:be: []
+msgid "Аптека-53 ОДО Аптека №1"
+msgstr ""
+
+# Objects : [n3082335108]
+# name:be: []
+msgid "Аптека-53 ОДО Аптека №2"
+msgstr ""
+
+# Objects : [n3082342972]
+# name:be: []
+msgid "Аптека-53 ОДО Аптека №3"
+msgstr ""
+
+# Objects : [n3082318269]
+# name:be: []
+msgid "Аптека-53 ОДО Аптека №5"
+msgstr ""
+
+# Objects : [n305679254]
+# name:be: []
+msgid "Аптека-63 ОДО Аптека №1"
+msgstr ""
+
+# Objects : [n2542029085]
+# name:be: []
+msgid "Аптека N24 "Зеленый лист""
+msgstr ""
+
+# Objects : [n2549569967]
+# name:be: []
+msgid "Аптека N25"
+msgstr ""
+
+# Objects : [n2631062150]
+# name:be: []
+msgid "АПТЕКА N 3 Витвар"
+msgstr ""
+
+# Objects : [n3095407730]
+# name:be: []
+msgid "Аптека N6 (филиал 2)"
+msgstr ""
+
+# Objects : [n2542056411]
+# name:be: []
+msgid "Аптека N8 Не Ска"
+msgstr ""
+
+# Objects : [n2631051551]
+# name:be: []
+msgid "АПТЕКА N 9 Витвар"
+msgstr ""
+
+# Objects : [n2825369873]
+# name:be: []
+msgid "Аптека Адвантфарма"
+msgstr ""
+
+# Objects : [n3080574138]
+# name:be: []
+msgid "Аптека Столичная"
+msgstr ""
+
+# Objects : [n455004661]
+# name:be: []
+msgid "Аптека частная"
+msgstr ""
+
+# Objects : [n728942888]
+# name:be: []
+msgid "Аптека ЧУП Белфармадент"
+msgstr ""
+
+# Objects : [n305687064]
+# name:be: []
+msgid "Аптека №102"
+msgstr ""
+
+# Objects : [n1203563549]
+# name:be: []
+msgid "Аптека №106"
+msgstr ""
+
+# Objects : [n280030892]
+# name:be: [Аптэка №14]
+msgid "Аптека №14"
+msgstr ""
+
+# Objects : [n280810356]
+# name:be: [Аптэка №28]
+msgid "Аптека №28"
+msgstr ""
+
+# Objects : [n1723308207]
+# name:be: [Аптэка №3]
+msgid "Аптека №3"
+msgstr ""
+
+# Objects : [n305679635]
+# name:be: [Аптэка №4]
+msgid "Аптека №4"
+msgstr ""
+
+# Objects : [n2602926799]
+# name:be: []
+msgid "Аптека № 45"
+msgstr ""
+
+# Objects : [n305675782]
+# name:be: [Аптэка №48]
+msgid "Аптека №48"
+msgstr ""
+
+# Objects : [n306065306]
+# name:be: [Аптэка №57]
+msgid "Аптека №57"
+msgstr ""
+
+# Objects : [n2748154253]
+# name:be: []
+msgid "Аптека № 5 Экомаркет"
+msgstr ""
+
+# Objects : [n2619667216]
+# name:be: [Аптэка №6]
+msgid "Аптека №6"
+msgstr ""
+
+# Objects : [n282022413]
+# name:be: [Аптэка №62]
+msgid "Аптека №62"
+msgstr ""
+
+# Objects : [n3295054032]
+# name:be: [Аптэка №8]
+msgid "Аптека №8"
+msgstr ""
+
+# Objects : [n3082414245]
+# name:be: []
+msgid "Аптека № 8 (ООО «Аптечное Дело»)"
+msgstr ""
+
+# Objects : [n305682586]
+# name:be: [Аптэка №9]
+msgid "Аптека №9"
+msgstr ""
+
+# Objects : [n3082401183]
+# name:be: []
+msgid "Аптечное Дело ООО Аптека №4"
+msgstr ""
+
+# Objects : [n2760474904]
+# name:be: [Аптэчны шапік]
+msgid "Аптечный киоск"
+msgstr ""
+
+# Objects : [n305676053]
+# name:be: []
+msgid "Баязет"
+msgstr ""
+
+# Objects : [n305678241]
+# name:be: []
+msgid "Белинвестфарма №1"
+msgstr ""
+
+# Objects : [n305682954, n305683448]
+# name:be: []
+msgid "Белинтерофицина"
+msgstr ""
+
+# Objects : [n305684424]
+# name:be: []
+msgid "Беллерофон"
+msgstr ""
+
+# Objects : [n305677342]
+# name:be: []
+msgid "Белмединфарм"
+msgstr ""
+
+# Objects : [n1566422478]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №1"
+msgstr ""
+
+# Objects : [n3082449267]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №10"
+msgstr ""
+
+# Objects : [n3082456140]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №12"
+msgstr ""
+
+# Objects : [n305685177]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №17"
+msgstr ""
+
+# Objects : [n3082471446]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №3"
+msgstr ""
+
+# Objects : [n281722624]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №4"
+msgstr ""
+
+# Objects : [n3082484716]
+# name:be: []
+msgid "Белмединфарм ООО Аптека №6"
+msgstr ""
+
+# Objects : [n281722582]
+# name:be: []
+msgid "Белмединфарм №30"
+msgstr ""
+
+# Objects : [n3082495784]
+# name:be: []
+msgid "Белмедпресс ООО Аптека №21"
+msgstr ""
+
+# Objects : [n305686713]
+# name:be: []
+msgid "Белмедпресс ООО Аптека №7"
+msgstr ""
+
+# Objects : [n3080538854]
+# name:be: [Белфарм]
+msgid "Белфарм"
+msgstr ""
+
+# Objects : [n3206003051]
+# name:be: []
+msgid "Белфармацевтия №68"
+msgstr ""
+
+# Objects : [n305679362]
+# name:be: []
+msgid "БелФармация Аптека №22"
+msgstr ""
+
+# Objects : [n3085893509, n3085896171]
+# name:be: [Белфармацыя А ТДА Аптэка №1]
+msgid "Белфармация А РУП Аптека №1"
+msgstr ""
+
+# Objects : [n3085905098, n3085909584]
+# name:be: [Белфармацыя А ТДА Аптэка №100]
+msgid "Белфармация А РУП Аптека №100"
+msgstr ""
+
+# Objects : [n3085908775]
+# name:be: [Белфармацыя А ТДА Аптэка №101]
+msgid "Белфармация А РУП Аптека №101"
+msgstr ""
+
+# Objects : [n3085913225]
+# name:be: [Белфармацыя А ТДА Аптэка №102]
+msgid "Белфармация А РУП Аптека №102"
+msgstr ""
+
+# Objects : [n3086080249]
+# name:be: [Белфармацыя А ТДА Аптэка №104]
+msgid "Белфармация А РУП Аптека №104"
+msgstr ""
+
+# Objects : [n2602935709]
+# name:be: [Белфармацыя А ТДА Аптэка №106]
+msgid "Белфармация А РУП Аптека №106"
+msgstr ""
+
+# Objects : [n3086094885, n3086102748, n3086106489, n3086109779]
+# name:be: [Белфармацыя А ТДА Аптэка №109]
+msgid "Белфармация А РУП Аптека №109"
+msgstr ""
+
+# Objects : [n3086111153]
+# name:be: [Белфармацыя А ТДА Аптэка №11]
+msgid "Белфармация А РУП Аптека №11"
+msgstr ""
+
+# Objects : [n3086114501]
+# name:be: [Белфармацыя А ТДА Аптэка №110]
+msgid "Белфармация А РУП Аптека №110"
+msgstr ""
+
+# Objects : [n989436316]
+# name:be: [Белфармацыя А ТДА Аптэка №112]
+msgid "Белфармация А РУП Аптека №112"
+msgstr ""
+
+# Objects : [n3086126059, n3086127152]
+# name:be: [Белфармацыя А ТДА Аптэка №13]
+msgid "Белфармация А РУП Аптека №13"
+msgstr ""
+
+# Objects : [n3086127157]
+# name:be: []
+msgid "Белфармация А РУП Аптека №13 (дежурная)"
+msgstr ""
+
+# Objects : [n3086323329]
+# name:be: []
+msgid "Белфармация А РУП Аптека №16"
+msgstr ""
+
+# Objects : [n3086343539, n3087987638]
+# name:be: []
+msgid "Белфармация А РУП Аптека №17"
+msgstr ""
+
+# Objects : [n3092873438]
+# name:be: []
+msgid "Белфармация А РУП Аптека №18"
+msgstr ""
+
+# Objects : [n2599683030, n3092873451]
+# name:be: []
+msgid "Белфармация А РУП Аптека №20"
+msgstr ""
+
+# Objects : [n305685161]
+# name:be: []
+msgid "Белфармация А РУП Аптека №21"
+msgstr ""
+
+# Objects : [n3092880499, n3092884068]
+# name:be: []
+msgid "Белфармация А РУП Аптека №23"
+msgstr ""
+
+# Objects : [n305687180, n3092887836]
+# name:be: []
+msgid "Белфармация А РУП Аптека №25"
+msgstr ""
+
+# Objects : [n3094050212]
+# name:be: []
+msgid "Белфармация А РУП Аптека №26"
+msgstr ""
+
+# Objects : [n305684635, n3094080450]
+# name:be: []
+msgid "Белфармация А РУП Аптека №32"
+msgstr ""
+
+# Objects : [n305685727, n3094084115]
+# name:be: []
+msgid "Белфармация А РУП Аптека №34"
+msgstr ""
+
+# Objects : [n280810443]
+# name:be: []
+msgid "Белфармация А РУП Аптека №36"
+msgstr ""
+
+# Objects : [n3095533807]
+# name:be: []
+msgid "Белфармация А РУП Аптека №37"
+msgstr ""
+
+# Objects : [n2542062276]
+# name:be: []
+msgid "Белфармация А РУП Аптека №4"
+msgstr ""
+
+# Objects : [n3095560824, n3095566191]
+# name:be: []
+msgid "Белфармация А РУП Аптека №40"
+msgstr ""
+
+# Objects : [n305679086]
+# name:be: []
+msgid "Белфармация РУП Аптека №8"
+msgstr ""
+
+# Objects : [n990442724]
+# name:be: []
+msgid "Белфармация №110"
+msgstr ""
+
+# Objects : [n3207857835]
+# name:be: []
+msgid "Белфармация №80"
+msgstr ""
+
+# Objects : [n3142403329]
+# name:be: []
+msgid "Белфармацыя"
+msgstr ""
+
+# Objects : [n305683420, n305684839]
+# name:be: []
+msgid "Белфарм-Центр"
+msgstr ""
+
+# Objects : [n305675439]
+# name:be: []
+msgid "Белфарм №4"
+msgstr ""
+
+# Objects : [n259436031]
+# name:be: []
+msgid "Белформация №57"
+msgstr ""
+
+# Objects : [n305679983]
+# name:be: []
+msgid "Белэквафарм"
+msgstr ""
+
+# Objects : [n305685540]
+# name:be: []
+msgid "Беролина №1"
+msgstr ""
+
+# Objects : [n281243237]
+# name:be: []
+msgid "Беролина №2"
+msgstr ""
+
+# Objects : [n1213923591]
+# name:be: []
+msgid "Беролина №3"
+msgstr ""
+
+# Objects : [n305678045]
+# name:be: []
+msgid "Биа"
+msgstr ""
+
+# Objects : [n3080541353]
+# name:be: []
+msgid "Бьютифарм"
+msgstr ""
+
+# Objects : [n3268800463]
+# name:be: []
+msgid "Ветеринарная Аптека, товары для животных"
+msgstr ""
+
+# Objects : [n3143649660]
+# name:be: []
+msgid "Ветеринарная аптека "Стрелка""
+msgstr ""
+
+# Objects : [n305677436]
+# name:be: []
+msgid "Геофарм"
+msgstr ""
+
+# Objects : [n1175435039]
+# name:be: [Аптэка]
+msgid "Геофарм №1"
+msgstr ""
+
+# Objects : [n305683602]
+# name:be: []
+msgid "Гомеопатия"
+msgstr ""
+
+# Objects : [n305684840]
+# name:be: []
+msgid "Дежурная аптека БЕЛФАРМ"
+msgstr ""
+
+# Objects : [n2825369874]
+# name:be: []
+msgid "Дежурная аптека на Чкалова"
+msgstr ""
+
+# Objects : [n1151233072]
+# name:be: []
+msgid "Дежурная №7"
+msgstr ""
+
+# Objects : [n848523874]
+# name:be: []
+msgid "Дентлайн Люкс"
+msgstr ""
+
+# Objects : [n2620156163]
+# name:be: [Доктар Вет]
+msgid "Доктор Вет"
+msgstr ""
+
+# Objects : [n3123719230]
+# name:be: []
+msgid "Доктор время"
+msgstr ""
+
+# Objects : [n305679307, n305684629, n305685542]
+# name:be: []
+msgid "Доктор Время"
+msgstr ""
+
+# Objects : [n305685167, n991209361]
+# name:be: []
+msgid "Доктор До"
+msgstr ""
+
+# Objects : [n305683418]
+# name:be: []
+msgid "Доктор До (круглосуточно)"
+msgstr ""
+
+# Objects : [n2825369875]
+# name:be: []
+msgid "Доктор До Аптека N15"
+msgstr ""
+
+# Objects : [n2628621990]
+# name:be: []
+msgid "Доктор До Аптека N8 ООО Табина"
+msgstr ""
+
+# Objects : [n305675226]
+# name:be: []
+msgid "Доктор Таир №1"
+msgstr ""
+
+# Objects : [n1384751581, n2600509318, n907447961]
+# name:be: []
+msgid "Евроаптека"
+msgstr ""
+
+# Objects : [n1496377789]
+# name:be: []
+msgid "Заботливая"
+msgstr ""
+
+# Objects : [n2623718280, n3029004147]
+# name:be: []
+msgid "Заботливая аптека"
+msgstr ""
+
+# Objects : [n305684807]
+# name:be: []
+msgid "Здоровье"
+msgstr ""
+
+# Objects : [n2619932601, n3206003021, n3206003050, n3207857814, n3280242166]
+# name:be: []
+msgid "Зеленая аптека"
+msgstr ""
+
+# Objects : [n1489420456]
+# name:be: []
+msgid "Зеленая Аптека"
+msgstr ""
+
+# Objects : [n1226855932, n989438932]
+# name:be: []
+msgid "Зелёная аптека"
+msgstr ""
+
+# Objects : [n3279263714]
+# name:be: []
+msgid "зеленая аптека 4эт"
+msgstr ""
+
+# Objects : [n2593654421]
+# name:be: []
+msgid "Зеленая Аптека N15"
+msgstr ""
+
+# Objects : [n3095407729]
+# name:be: []
+msgid "Зеленая аптека №1"
+msgstr ""
+
+# Objects : [n305675435, n305679093, n305682964]
+# name:be: [Зялёны Ліст]
+msgid "Зелёный Лист"
+msgstr ""
+
+# Objects : [n305681357]
+# name:be: []
+msgid "Ивем И К"
+msgstr ""
+
+# Objects : [n305683466]
+# name:be: []
+msgid "Интер Инн"
+msgstr ""
+
+# Objects : [n280810302, n305678082]
+# name:be: []
+msgid "Интерофицина Плюс"
+msgstr ""
+
+# Objects : [n305679364]
+# name:be: []
+msgid "Интерофицина №2"
+msgstr ""
+
+# Objects : [n305676455]
+# name:be: []
+msgid "Интерофицина №3"
+msgstr ""
+
+# Objects : [n3206003003]
+# name:be: []
+msgid "Интерофицина №8"
+msgstr ""
+
+# Objects : [n305681348, n305684497]
+# name:be: []
+msgid "Интерфармакс"
+msgstr ""
+
+# Objects : [n305683454]
+# name:be: []
+msgid "Ирина-Фарм"
+msgstr ""
+
+# Objects : [n2714025138]
+# name:be: [Іскамед]
+msgid "Искамед"
+msgstr ""
+
+# Objects : [n305675441]
+# name:be: []
+msgid "Искамед №16"
+msgstr ""
+
+# Objects : [n305687081]
+# name:be: []
+msgid "Искамед №23"
+msgstr ""
+
+# Objects : [n305684471]
+# name:be: [Іскамед №28]
+msgid "Искамед №28"
+msgstr ""
+
+# Objects : [n3206003058]
+# name:be: []
+msgid "Искамед №31"
+msgstr ""
+
+# Objects : [n281703845]
+# name:be: []
+msgid "Искамед №7"
+msgstr ""
+
+# Objects : [n1307037300]
+# name:be: [Дзяжурная аптэка]
+msgid "Круглосуточная аптека"
+msgstr ""
+
+# Objects : [n281603367]
+# name:be: []
+msgid "Лекоаптека"
+msgstr ""
+
+# Objects : [n305678588]
+# name:be: []
+msgid "Лкл"
+msgstr ""
+
+# Objects : [n2672658740]
+# name:be: []
+msgid "Любимая аптека"
+msgstr ""
+
+# Objects : [n3207817914]
+# name:be: []
+msgid "Маймедсервис"
+msgstr ""
+
+# Objects : [n305678593]
+# name:be: []
+msgid "Медвай"
+msgstr ""
+
+# Objects : [n305681301]
+# name:be: []
+msgid "Медвакс"
+msgstr ""
+
+# Objects : [n2628639101]
+# name:be: []
+msgid "Медвакс СЗАО Аптека N12"
+msgstr ""
+
+# Objects : [n305686673]
+# name:be: []
+msgid "Меджел"
+msgstr ""
+
+# Objects : [n305687140]
+# name:be: []
+msgid "Мединтер"
+msgstr ""
+
+# Objects : [n2618472426]
+# name:be: []
+msgid "медицинская лаборатория "Синэво""
+msgstr ""
+
+# Objects : [n279652638]
+# name:be: [Медтэхніка]
+msgid "Медтехника"
+msgstr ""
+
+# Objects : [n305685512]
+# name:be: []
+msgid "Медтехпром"
+msgstr ""
+
+# Objects : [n1438313403, n305686118]
+# name:be: []
+msgid "Мелисса"
+msgstr ""
+
+# Objects : [n3147415647]
+# name:be: []
+msgid "Натея Плюс ЧТУП, Аптека № 1"
+msgstr ""
+
+# Objects : [n305673955]
+# name:be: []
+msgid "Наши Аптеки №5"
+msgstr ""
+
+# Objects : [n305683088]
+# name:be: []
+msgid "Наши Аптеки №8"
+msgstr ""
+
+# Objects : [n305674149, n305676081, n305676325, n305678469, n305678584, n305683928, n305685013, n305685014, n305686083, n305686116]
+# name:be: [Нардзін]
+msgid "Нордин"
+msgstr ""
+
+# Objects : [n305683422]
+# name:be: [Нардзін 24H]
+msgid "Нордин 24H"
+msgstr ""
+
+# Objects : [n3233060662]
+# name:be: []
+msgid "ООО «Доктор Время»"
+msgstr ""
+
+# Objects : [n1554535469]
+# name:be: [Оптыка]
+msgid "Оптика"
+msgstr ""
+
+# Objects : [n795184079]
+# name:be: [Аптымед]
+msgid "Оптимед"
+msgstr ""
+
+# Objects : [n305685172]
+# name:be: []
+msgid "Панагия №1"
+msgstr ""
+
+# Objects : [n305680130]
+# name:be: []
+msgid "Партнер"
+msgstr ""
+
+# Objects : [n1588791462, n1595405247, n3206014222]
+# name:be: [Планета здароўя]
+msgid "Планета здоровья"
+msgstr ""
+
+# Objects : [n1180423488]
+# name:be: []
+msgid "Планета здоровья, аптека №7"
+msgstr ""
+
+# Objects : [n1180834777]
+# name:be: []
+msgid "Планета Здоровья, аптека №8"
+msgstr ""
+
+# Objects : [n475548663]
+# name:be: []
+msgid "Планета Здоровья Аптека №17 ООО Доктор-Таир"
+msgstr ""
+
+# Objects : [n305686926]
+# name:be: []
+msgid "Планета Здоровья Аптека №2 ООО Доктор-Таир"
+msgstr ""
+
+# Objects : [n1352208253]
+# name:be: [Планета здароўя №4]
+msgid "Планета здоровья №4"
+msgstr ""
+
+# Objects : [n305675638]
+# name:be: [Паліклініка №12]
+msgid "Поликлиника №12"
+msgstr ""
+
+# Objects : [n3080548719]
+# name:be: []
+msgid "Росфарм"
+msgstr ""
+
+# Objects : [n305679637]
+# name:be: []
+msgid "Савана-Спорт"
+msgstr ""
+
+# Objects : [n305684833]
+# name:be: []
+msgid "Самбест"
+msgstr ""
+
+# Objects : [n305674775]
+# name:be: []
+msgid "Самбест №2"
+msgstr ""
+
+# Objects : [n305683632]
+# name:be: []
+msgid "Самбест №3"
+msgstr ""
+
+# Objects : [n305685260]
+# name:be: []
+msgid "Самбест №4"
+msgstr ""
+
+# Objects : [n305684631]
+# name:be: []
+msgid "Санифарм"
+msgstr ""
+
+# Objects : [n305675773]
+# name:be: []
+msgid "Светатек"
+msgstr ""
+
+# Objects : [n1739313130]
+# name:be: []
+msgid "Семейная аптека"
+msgstr ""
+
+# Objects : [n2620157830]
+# name:be: []
+msgid "СЕТЬ АПТЕК"
+msgstr ""
+
+# Objects : [n2614505266]
+# name:be: []
+msgid "СИНЕВО"
+msgstr ""
+
+# Objects : [n305679341]
+# name:be: []
+msgid "Суперкргоэкспресс"
+msgstr ""
+
+# Objects : [n305679366, n305685726]
+# name:be: []
+msgid "Табина"
+msgstr ""
+
+# Objects : [n305675777]
+# name:be: []
+msgid "Терралек"
+msgstr ""
+
+# Objects : [n2628617452]
+# name:be: []
+msgid "Фарммаркет-Плюс ООО Аптека N12"
+msgstr ""
+
+# Objects : [n2628620702]
+# name:be: []
+msgid "Фарммаркет-Плюс ООО Аптека N31"
+msgstr ""
+
+# Objects : [n546293028]
+# name:be: []
+msgid "ФармМаркет №17"
+msgstr ""
+
+# Objects : [n305675304]
+# name:be: []
+msgid "Фарммед Препараты"
+msgstr ""
+
+# Objects : [n305675590]
+# name:be: []
+msgid "Фармпром"
+msgstr ""
+
+# Objects : [n305679338]
+# name:be: []
+msgid "Фарм Форум"
+msgstr ""
+
+# Objects : [n305674788]
+# name:be: []
+msgid "Фитобел №89"
+msgstr ""
+
+# Objects : [n305673920]
+# name:be: []
+msgid "Флорафарм"
+msgstr ""
+
+# Objects : [n2747975249]
+# name:be: []
+msgid "Флора-Фарм ООО Аптека N3"
+msgstr ""
+
+# Objects : [n305675172]
+# name:be: []
+msgid "Юнифарм"
+msgstr ""
+
+# Objects : [n2162340627]
+# name:be: []
+msgid "Юнифарм, Аптека № 6"
+msgstr ""
+
+# Objects : [n3207908195]
+# name:be: []
+msgid "Юнифарм №12"
+msgstr ""
+
+# Objects : [n3207873618]
+# name:be: []
+msgid "Юнифарм №7"
+msgstr ""
+
+# Objects : [n305679344]
+# name:be: [№10]
+msgid "№10"
+msgstr ""
+
+# Objects : [n305679939]
+# name:be: [№100]
+msgid "№100"
+msgstr ""
+
+# Objects : [n305674782]
+# name:be: [№101]
+msgid "№101"
+msgstr ""
+
+# Objects : [n305684916]
+# name:be: [№103]
+msgid "№103"
+msgstr ""
+
+# Objects : [n305678475]
+# name:be: [№105]
+msgid "№105"
+msgstr ""
+
+# Objects : [n305676527]
+# name:be: [№107]
+msgid "№107"
+msgstr ""
+
+# Objects : [n306065135]
+# name:be: [№108]
+msgid "№108"
+msgstr ""
+
+# Objects : [n305675173]
+# name:be: [№109]
+msgid "№109"
+msgstr ""
+
+# Objects : [n305686385]
+# name:be: [№112]
+msgid "№112"
+msgstr ""
+
+# Objects : [n305674426]
+# name:be: [№113]
+msgid "№113"
+msgstr ""
+
+# Objects : [n305676052]
+# name:be: [№14]
+msgid "№14"
+msgstr ""
+
+# Objects : [n305685409]
+# name:be: [№16]
+msgid "№16"
+msgstr ""
+
+# Objects : [n305685513]
+# name:be: [№17]
+msgid "№17"
+msgstr ""
+
+# Objects : [n305684065]
+# name:be: [№182]
+msgid "№182"
+msgstr ""
+
+# Objects : [n3158673705]
+# name:be: []
+msgid "№ 18 РУП «Белфармация»"
+msgstr ""
+
+# Objects : [n305681352]
+# name:be: [№19]
+msgid "№19"
+msgstr ""
+
+# Objects : [n1119772802]
+# name:be: []
+msgid "№1 ООО "Моя аптека""
+msgstr ""
+
+# Objects : [n305684473]
+# name:be: [№2]
+msgid "№2"
+msgstr ""
+
+# Objects : [n305685034]
+# name:be: [№21]
+msgid "№21"
+msgstr ""
+
+# Objects : [n305683372]
+# name:be: [№23]
+msgid "№23"
+msgstr ""
+
+# Objects : [n305681306]
+# name:be: [№26]
+msgid "№26"
+msgstr ""
+
+# Objects : [n305681124, n305685376]
+# name:be: [№3]
+msgid "№3"
+msgstr ""
+
+# Objects : [n305684633]
+# name:be: [№32]
+msgid "№32"
+msgstr ""
+
+# Objects : [n305685331]
+# name:be: [№34]
+msgid "№34"
+msgstr ""
+
+# Objects : [n305682956]
+# name:be: [№36]
+msgid "№36"
+msgstr ""
+
+# Objects : [n305682960]
+# name:be: []
+msgid "№36 24H"
+msgstr ""
+
+# Objects : [n305684729]
+# name:be: [№37]
+msgid "№37"
+msgstr ""
+
+# Objects : [n305677441]
+# name:be: [№4]
+msgid "№4"
+msgstr ""
+
+# Objects : [n305678078]
+# name:be: []
+msgid "№40"
+msgstr ""
+
+# Objects : [n305684915]
+# name:be: []
+msgid "№42"
+msgstr ""
+
+# Objects : [n305684886]
+# name:be: []
+msgid "№45"
+msgstr ""
+
+# Objects : [n305684122]
+# name:be: []
+msgid "№47 РУП «Белфармация»"
+msgstr ""
+
+# Objects : [n306065251]
+# name:be: []
+msgid "№52"
+msgstr ""
+
+# Objects : [n305683452]
+# name:be: []
+msgid "№53"
+msgstr ""
+
+# Objects : [n305686085]
+# name:be: []
+msgid "№54"
+msgstr ""
+
+# Objects : [n305685776]
+# name:be: []
+msgid "№55"
+msgstr ""
+
+# Objects : [n305676083]
+# name:be: []
+msgid "№58"
+msgstr ""
+
+# Objects : [n305681119]
+# name:be: []
+msgid "№59"
+msgstr ""
+
+# Objects : [n305677684]
+# name:be: []
+msgid "№6"
+msgstr ""
+
+# Objects : [n305685268]
+# name:be: []
+msgid "№61"
+msgstr ""
+
+# Objects : [n305684634]
+# name:be: []
+msgid "№65"
+msgstr ""
+
+# Objects : [n305685015]
+# name:be: []
+msgid "№67"
+msgstr ""
+
+# Objects : [n305674117]
+# name:be: []
+msgid "№68 Бел Рпо Фармация"
+msgstr ""
+
+# Objects : [n305679159]
+# name:be: []
+msgid "№72"
+msgstr ""
+
+# Objects : [n305676828]
+# name:be: []
+msgid "№74"
+msgstr ""
+
+# Objects : [n305685269]
+# name:be: []
+msgid "№75"
+msgstr ""
+
+# Objects : [n305686089]
+# name:be: [№76]
+msgid "№76"
+msgstr ""
+
+# Objects : [n305675483]
+# name:be: []
+msgid "№78"
+msgstr ""
+
+# Objects : [n305675643]
+# name:be: [№79]
+msgid "№79"
+msgstr ""
+
+# Objects : [n305675230]
+# name:be: []
+msgid "№81"
+msgstr ""
+
+# Objects : [n306067232]
+# name:be: []
+msgid "№88"
+msgstr ""
+
+# Objects : [n1151233408]
+# name:be: []
+msgid "№9"
+msgstr ""
+
+# Objects : [n305685831]
+# name:be: []
+msgid "№90"
+msgstr ""
+
+# Objects : [n305674409]
+# name:be: []
+msgid "№91 "Белфармация""
+msgstr ""
+
+# Objects : [n305678577]
+# name:be: []
+msgid "№97"
+msgstr ""
+
+# Objects : [n305679649]
+# name:be: []
+msgid "№99"
+msgstr ""
+

@@ -1,0 +1,165 @@
+# Objects : [n243046067, w25083380]
+# name:be: [Беліца]
+msgid "Белица"
+msgstr ""
+
+# Objects : [n243046245, w25083479]
+# name:be: [Болтава]
+msgid "Болтово"
+msgstr ""
+
+# Objects : [n243046054, w25083421]
+# name:be: [Вольск]
+msgid "Вольск"
+msgstr ""
+
+# Objects : [n243046587, w25082014]
+# name:be: [Усход]
+msgid "Восход"
+msgstr ""
+
+# Objects : [n243046059, w25083443]
+# name:be: []
+msgid "Дубовица"
+msgstr ""
+
+# Objects : [n243046251, w25083447]
+# name:be: [Дубраўка]
+msgid "Дубровка"
+msgstr ""
+
+# Objects : [n243046235, w25083449]
+# name:be: [Дудзічы]
+msgid "Дудичи"
+msgstr ""
+
+# Objects : [n243046252, w25083438]
+# name:be: [Ядзінства]
+msgid "Единство"
+msgstr ""
+
+# Objects : [w242442346]
+# name:be: []
+msgid "завод по переработке отходов"
+msgstr ""
+
+# Objects : [n243046058, w25083437]
+# name:be: [Зара]
+msgid "Заря"
+msgstr ""
+
+# Objects : [n243046078, w25083411]
+# name:be: []
+msgid "Зеленый Мох"
+msgstr ""
+
+# Objects : [n243046243, w25083468]
+# name:be: [Краснае]
+msgid "Красное"
+msgstr ""
+
+# Objects : [n243046071]
+# name:be: []
+msgid "Максимовка"
+msgstr ""
+
+# Objects : [n243046070, w25083434]
+# name:be: [Наўхавічы]
+msgid "Навховичи"
+msgstr ""
+
+# Objects : [w239619744]
+# name:be: []
+msgid "Наровлянская улица"
+msgstr ""
+
+# Objects : [n243046585, w25082016]
+# name:be: [Новазарэчча]
+msgid "Новозаречье"
+msgstr ""
+
+# Objects : [n243046242, w25083471]
+# name:be: [Новахалочча]
+msgid "Новохолочье"
+msgstr ""
+
+# Objects : [n243046247, w25083453]
+# name:be: [Новы Шлях]
+msgid "Новый Шлях"
+msgstr ""
+
+# Objects : [n243046626, w25081963]
+# name:be: [Падасоўе]
+msgid "Подосовье"
+msgstr ""
+
+# Objects : [n243046248, w25083464]
+# name:be: [Паскубаўка]
+msgid "Поскубовка"
+msgstr ""
+
+# Objects : [n2788683998]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n243046237, w25083489]
+# name:be: []
+msgid "Пролетарский"
+msgstr ""
+
+# Objects : [n243046233, w25083491]
+# name:be: [Рудня Дудзіцкая]
+msgid "Рудня Дудичская"
+msgstr ""
+
+# Objects : [n243046061, w25083431]
+# name:be: []
+msgid "Самсоновка"
+msgstr ""
+
+# Objects : [w270363235]
+# name:be: []
+msgid "сельсовет"
+msgstr ""
+
+# Objects : [n2784704963, w273634357]
+# name:be: [Слабодка]
+msgid "Слободка"
+msgstr ""
+
+# Objects : [w25198462]
+# name:be: []
+msgid "Сож"
+msgstr ""
+
+# Objects : [w25182655, w25196440, w25196457, w25197052, w25198037, w25536783]
+# name:be: []
+msgid "СОЖ"
+msgstr ""
+
+# Objects : [n243046583, w25082022]
+# name:be: [Сябровічы]
+msgid "Сябровичи"
+msgstr ""
+
+# Objects : [n243046229, w25083492]
+# name:be: [Халочча]
+msgid "Холочье"
+msgstr ""
+
+# Objects : [n243046584, w25082024]
+# name:be: []
+msgid "Шепотовичи"
+msgstr ""
+
+# Objects : [n243046586, w25082020]
+# name:be: []
+msgid "Шепотовичские-Поплавы"
+msgstr ""
+
+# Objects : [n243046253, w25083451]
+# name:be: [Ясная Паляна]
+msgid "Ясная Поляна"
+msgstr ""
+

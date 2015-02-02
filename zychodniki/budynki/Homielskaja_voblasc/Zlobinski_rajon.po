@@ -1,0 +1,220 @@
+# Objects : [w293824313]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w274246625]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w265941124]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w161496744]
+# name:be: []
+msgid "Белый лебедь"
+msgstr ""
+
+# Objects : [w293261050]
+# name:be: []
+msgid "Дворцово-парковый комплекс Козел-Поклевских"
+msgstr ""
+
+# Objects : [w313546505]
+# name:be: []
+msgid "Детский сад п.Лукский"
+msgstr ""
+
+# Objects : [w271070418, w278785648, w293852804]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w269525479]
+# name:be: []
+msgid "Дом престарелых"
+msgstr ""
+
+# Objects : [w262637734, w262637735, w269191594]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w271081604]
+# name:be: []
+msgid "Интернат"
+msgstr ""
+
+# Objects : [w190167439]
+# name:be: []
+msgid "Касса"
+msgstr ""
+
+# Objects : [w296127994]
+# name:be: []
+msgid "Кафе"Ростани""
+msgstr ""
+
+# Objects : [w190167428, w268585923]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w226959697, w270852589, w274223062, w313546506]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w264745613, w271070419, w274223064, w293852803, w294789667, w296653952]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w286546268]
+# name:be: []
+msgid "Контора с-за"
+msgstr ""
+
+# Objects : [w274246652]
+# name:be: []
+msgid "Конюшня"
+msgstr ""
+
+# Objects : [w265906662, w276447049, w277246528]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w268585942, w294789680]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w312724994]
+# name:be: []
+msgid "КТП"
+msgstr ""
+
+# Objects : [w293823230]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w199996197, w226734815, w264554887, w281981499, w293852802, w296151813, w313540302]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w286247415]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
+# Objects : [w114712374]
+# name:be: []
+msgid "Медсанчасть БМЗ"
+msgstr ""
+
+# Objects : [w303309637]
+# name:be: []
+msgid "Охрана здоровья человека"
+msgstr ""
+
+# Objects : [w180533608]
+# name:be: []
+msgid "ПМС"
+msgstr ""
+
+# Objects : [w227664713]
+# name:be: []
+msgid "Полигон ОАО "БМЗ""
+msgstr ""
+
+# Objects : [w229570832]
+# name:be: []
+msgid "Полигон ТБО Проскурни"
+msgstr ""
+
+# Objects : [w199994951, w226959699, w313546507]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [w267187014]
+# name:be: []
+msgid "Правление"
+msgstr ""
+
+# Objects : [w226959698]
+# name:be: []
+msgid "Правление "Колхоз""
+msgstr ""
+
+# Objects : [w226737440]
+# name:be: []
+msgid "Проскурянская школа"
+msgstr ""
+
+# Objects : [w226734001]
+# name:be: []
+msgid "Проскурянский"
+msgstr ""
+
+# Objects : [w265401809]
+# name:be: []
+msgid "сарай"
+msgstr ""
+
+# Objects : [w273221845, w293852751]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w269525480]
+# name:be: []
+msgid "Сельсовет "Кировский""
+msgstr ""
+
+# Objects : [w268585946]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w114555825]
+# name:be: [Мытня]
+msgid "Таможня"
+msgstr ""
+
+# Objects : [w269191596]
+# name:be: []
+msgid "Телятник"
+msgstr ""
+
+# Objects : [w294789668]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w226909075]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [w293261046]
+# name:be: []
+msgid "Флигель"
+msgstr ""
+
+# Objects : [w221921314]
+# name:be: []
+msgid "Хальч"
+msgstr ""
+
+# Objects : [w313546508]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+

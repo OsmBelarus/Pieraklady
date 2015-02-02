@@ -1,0 +1,55 @@
+# Objects : [w96368928]
+# name:be: []
+msgid "Rest"
+msgstr ""
+
+# Objects : [w51928510]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w170656668]
+# name:be: []
+msgid "Водяная скважина"
+msgstr ""
+
+# Objects : [w97074642, w97075338]
+# name:be: []
+msgid "Ларьки"
+msgstr ""
+
+# Objects : [w96413301]
+# name:be: [Лотас]
+msgid "Лотос"
+msgstr ""
+
+# Objects : [w104784538, w104784743, w104784895, w104836649, w97360454]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w98756485]
+# name:be: []
+msgid "Магазин №47"
+msgstr ""
+
+# Objects : [w96794247]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w99159609]
+# name:be: []
+msgid "Проходная Аэромаш"
+msgstr ""
+
+# Objects : [w104680598, w98752873]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w170656649]
+# name:be: []
+msgid "Трансформаторная подстанция"
+msgstr ""
+

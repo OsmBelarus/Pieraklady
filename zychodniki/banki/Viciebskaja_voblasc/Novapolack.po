@@ -1,0 +1,100 @@
+# Objects : [n1676764524]
+# name:be: [Банкамат БПС-Банк]
+msgid "Банкомат БПС Банк"
+msgstr ""
+
+# Objects : [n2053288464]
+# name:be: []
+msgid "Белагромромбанк"
+msgstr ""
+
+# Objects : [n1497151297]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n2053291724, n615057341]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n1360837964]
+# name:be: [Беларусьбанк]
+msgid "Беларусьбанк"
+msgstr ""
+
+# Objects : [n1103884680]
+# name:be: []
+msgid "БПС-Сбербанк РКЦ №3"
+msgstr ""
+
+# Objects : [n611877004]
+# name:be: []
+msgid "БПС-Сбербанк РКЦ №4"
+msgstr ""
+
+# Objects : [n2420486601]
+# name:be: []
+msgid "Дельта - Банк"
+msgstr ""
+
+# Objects : [w38076019]
+# name:be: [Беларусбанк №214]
+msgid "ОАО АСБ "Беларусбанк" филиал №214"
+msgstr ""
+
+# Objects : [n506322034]
+# name:be: [Аддзяленне 629 Белінвестбанк]
+msgid "отделение 629 Белинвестбанк"
+msgstr ""
+
+# Objects : [n506306669]
+# name:be: [Аддзяленне №214/10 Беларусбанк]
+msgid "отделение №214/10 Беларусбанк"
+msgstr ""
+
+# Objects : [n506351905]
+# name:be: [Аддзяленне №214/13]
+msgid "отделение №214/13"
+msgstr ""
+
+# Objects : [n306064833]
+# name:be: [Аддзяленне №214/3]
+msgid "отделение №214/3"
+msgstr ""
+
+# Objects : [n615057340]
+# name:be: [Аддзяленне №214/7]
+msgid "отделение №214/7"
+msgstr ""
+
+# Objects : [n2053288697]
+# name:be: []
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n1103836878]
+# name:be: []
+msgid "РКЦ №5 БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n1531938029]
+# name:be: [Хоўмкрэдытбанк ЦБУ №206]
+msgid "Хоумкредитбанк ЦБУ №206"
+msgstr ""
+
+# Objects : [n611877009]
+# name:be: [ЦБУ 202/2 Прыёрбанк]
+msgid "ЦБУ 202/2 Приорбанк"
+msgstr ""
+
+# Objects : [w41097209]
+# name:be: [ЦБУ №1]
+msgid "ЦБУ №1"
+msgstr ""
+
+# Objects : [n611877013]
+# name:be: [ЦБУ №218 Парытэтбанк]
+msgid "ЦБУ №18 Паритетбанк"
+msgstr ""
+

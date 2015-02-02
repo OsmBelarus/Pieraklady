@@ -1,0 +1,220 @@
+# Objects : [w25197150]
+# name:be: [Белае]
+msgid "Белое"
+msgstr ""
+
+# Objects : [w25195979]
+# name:be: [Болюцкае воз.]
+msgid "Болютское"
+msgstr ""
+
+# Objects : [w25194962]
+# name:be: [Баярскае воз.]
+msgid "Боярское"
+msgstr ""
+
+# Objects : [w25192132]
+# name:be: []
+msgid "Ведреньское"
+msgstr ""
+
+# Objects : [n3188785943]
+# name:be: []
+msgid "Воинское захоронение 4524"
+msgstr ""
+
+# Objects : [w25191819]
+# name:be: []
+msgid "Глубокое"
+msgstr ""
+
+# Objects : [w25193425]
+# name:be: [воз. Глыбочына]
+msgid "Глубочино"
+msgstr ""
+
+# Objects : [w25195977]
+# name:be: [Галаўня]
+msgid "Головня"
+msgstr ""
+
+# Objects : [n2788680209]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w165587170]
+# name:be: []
+msgid "ГП "Лукомль""
+msgstr ""
+
+# Objects : [w165593076]
+# name:be: []
+msgid "ЗАО "Витебскагропродукт" филиал "Заря""
+msgstr ""
+
+# Objects : [w25192483]
+# name:be: [Залоціна]
+msgid "Золотино"
+msgstr ""
+
+# Objects : [w25195952]
+# name:be: [воз. Квеціна]
+msgid "Кветино"
+msgstr ""
+
+# Objects : [n2134901867]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w25192846]
+# name:be: []
+msgid "Кобыльщица"
+msgstr ""
+
+# Objects : [w25190407]
+# name:be: []
+msgid "Конечное"
+msgstr ""
+
+# Objects : [w237479473, w242442545]
+# name:be: []
+msgid "Луг-Ухле"
+msgstr ""
+
+# Objects : [w186637031]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w25194551]
+# name:be: [Маеўскае воз.]
+msgid "Маевское"
+msgstr ""
+
+# Objects : [w25194553]
+# name:be: [Мелкае]
+msgid "Мелкое"
+msgstr ""
+
+# Objects : [w165587173]
+# name:be: []
+msgid "ОАО "Завод керамзитового гравия""
+msgstr ""
+
+# Objects : [w25195173]
+# name:be: [Павулле]
+msgid "Паулье"
+msgstr ""
+
+# Objects : [n1343065232]
+# name:be: [Руіны Траецкай царквы]
+msgid "Развалины церкви"
+msgstr ""
+
+# Objects : [n2766722628]
+# name:be: []
+msgid "Санаторий Сосновый бор"
+msgstr ""
+
+# Objects : [w25190304, w25192557]
+# name:be: [Святое]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w25197240]
+# name:be: [Слідзец]
+msgid "Слидец"
+msgstr ""
+
+# Objects : [w25190320]
+# name:be: []
+msgid "Собольское"
+msgstr ""
+
+# Objects : [w25193821]
+# name:be: [Сарочынскае воз.]
+msgid "Сорочинское"
+msgstr ""
+
+# Objects : [w315499515]
+# name:be: []
+msgid "Спасительная станция"
+msgstr ""
+
+# Objects : [w25197944]
+# name:be: [Турыцкае]
+msgid "Турицкое"
+msgstr ""
+
+# Objects : [w25189630]
+# name:be: []
+msgid "Улаховщинское"
+msgstr ""
+
+# Objects : [n2788684435]
+# name:be: [Сядзібна-паркавы комплекс Валадковічаў]
+msgid "Усадебно-парковый комплекс Володковичей"
+msgstr ""
+
+# Objects : [n2788684947]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [w198307681]
+# name:be: []
+msgid "Ф-л "Заря" д.С.Лавки"
+msgstr ""
+
+# Objects : [w25196182]
+# name:be: [Хотлінскае воз.]
+msgid "Хотлинское"
+msgstr ""
+
+# Objects : [n2788687385]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686078]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686390]
+# name:be: [Царква Святога Міхала Арханёла]
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n2788686676]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n938288304]
+# name:be: [Чашнікі]
+msgid "Чашники"
+msgstr ""
+
+# Objects : [w25197251]
+# name:be: [воз. Чамярыца]
+msgid "Чемерица"
+msgstr ""
+
+# Objects : [w25201745]
+# name:be: [Чарэйскае воз.]
+msgid "Черейское"
+msgstr ""
+
+# Objects : [w147784265, w25194361]
+# name:be: [Чорнае]
+msgid "Черное"
+msgstr ""
+
+# Objects : [w25201104]
+# name:be: [Ямнае воз.]
+msgid "Ямное"
+msgstr ""
+

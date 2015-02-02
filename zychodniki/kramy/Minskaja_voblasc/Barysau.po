@@ -1,0 +1,150 @@
+# Objects : [n1824108377]
+# name:be: []
+msgid "ZIKO"
+msgstr ""
+
+# Objects : [n787155805]
+# name:be: [Аўтарынак]
+msgid "Авторынок"
+msgstr ""
+
+# Objects : [n928016186]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [n2080770923]
+# name:be: []
+msgid "Борисовхлебпром"
+msgstr ""
+
+# Objects : [n1605641621]
+# name:be: []
+msgid "Восьмёрочка"
+msgstr ""
+
+# Objects : [n785111264]
+# name:be: [Дом быту]
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [n785111296]
+# name:be: []
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [n3001957604]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n1605641674]
+# name:be: []
+msgid "Жениаль"
+msgstr ""
+
+# Objects : [n919340408]
+# name:be: []
+msgid "Имидж-стайл"
+msgstr ""
+
+# Objects : [n3006940062]
+# name:be: []
+msgid "Каштан"
+msgstr ""
+
+# Objects : [n1824108379]
+# name:be: []
+msgid "Компонент"
+msgstr ""
+
+# Objects : [n2079488328]
+# name:be: []
+msgid "КСП-маркет"
+msgstr ""
+
+# Objects : [n1824108380]
+# name:be: []
+msgid "Ламанш"
+msgstr ""
+
+# Objects : [n3198730928]
+# name:be: []
+msgid "Магазин у дома"
+msgstr ""
+
+# Objects : [n3217298384]
+# name:be: []
+msgid "Мегатоп"
+msgstr ""
+
+# Objects : [n1784555985]
+# name:be: []
+msgid "Мидас"
+msgstr ""
+
+# Objects : [n787155610]
+# name:be: []
+msgid "Новый город"
+msgstr ""
+
+# Objects : [n2985975238]
+# name:be: []
+msgid "ООО "Айкомпани""
+msgstr ""
+
+# Objects : [n1464816979]
+# name:be: []
+msgid "Приём б/у АКБ, продажа новых АКБ, группа компаний ПАК"
+msgstr ""
+
+# Objects : [n785111332]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n1785940212]
+# name:be: []
+msgid "Свадебный салон"
+msgstr ""
+
+# Objects : [n1824108381]
+# name:be: []
+msgid "Смак"
+msgstr ""
+
+# Objects : [n787089879]
+# name:be: []
+msgid "Спатканне"
+msgstr ""
+
+# Objects : [n3223916516]
+# name:be: []
+msgid "Спорт и здоровье"
+msgstr ""
+
+# Objects : [n1823046667]
+# name:be: []
+msgid "Спутник"
+msgstr ""
+
+# Objects : [n306067888]
+# name:be: []
+msgid "Строительный Рынок"
+msgstr ""
+
+# Objects : [n1816766103, n3223916517]
+# name:be: []
+msgid "Фудокан"
+msgstr ""
+
+# Objects : [n787089795]
+# name:be: []
+msgid "Эдем"
+msgstr ""
+
+# Objects : [n1605641667]
+# name:be: []
+msgid "Электротовары"
+msgstr ""
+

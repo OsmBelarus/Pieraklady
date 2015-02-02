@@ -1,0 +1,265 @@
+# Objects : [w215223429]
+# name:be: []
+msgid "«Пинсксовхозстрой – передвижная механизированная колонна № 14»"
+msgstr ""
+
+# Objects : [w215805365]
+# name:be: []
+msgid "Автомобильный парк № 7"
+msgstr ""
+
+# Objects : [w215244880]
+# name:be: []
+msgid "Асфальто-бетонный завод ДРСУ №100"
+msgstr ""
+
+# Objects : [n2252477464]
+# name:be: []
+msgid "Бильярд"
+msgstr ""
+
+# Objects : [n1677682710]
+# name:be: []
+msgid "Бюст Якуба Коласа"
+msgstr ""
+
+# Objects : [n306069663]
+# name:be: [Ганцавічы]
+msgid "Ганцевичи"
+msgstr ""
+
+# Objects : [w212499402]
+# name:be: []
+msgid "Ганцевичская ПМК-7"
+msgstr ""
+
+# Objects : [w216625075]
+# name:be: []
+msgid "Ганцевичская районная инспекция природных ресурсов и охраны окружающей среды"
+msgstr ""
+
+# Objects : [w215219624]
+# name:be: []
+msgid "Ганцевичский КПД"
+msgstr ""
+
+# Objects : [w215581582]
+# name:be: []
+msgid "Ганцевичский лесхоз"
+msgstr ""
+
+# Objects : [w215582767]
+# name:be: []
+msgid "Горгаз"
+msgstr ""
+
+# Objects : [n2225666701]
+# name:be: []
+msgid "Горисполком"
+msgstr ""
+
+# Objects : [n2225558014]
+# name:be: []
+msgid "Городской дом культуры"
+msgstr ""
+
+# Objects : [w72666416]
+# name:be: []
+msgid "Городской пляж"
+msgstr ""
+
+# Objects : [w215582768]
+# name:be: []
+msgid "Горск"
+msgstr ""
+
+# Objects : [w213213197]
+# name:be: []
+msgid "ДРСУ №100"
+msgstr ""
+
+# Objects : [n306069652]
+# name:be: [Гасцініца]
+msgid "Журавушка"
+msgstr ""
+
+# Objects : [n3178588448]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [n982702356]
+# name:be: [Краязнаўчы музей]
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w215805366]
+# name:be: []
+msgid "КУМПП ЖКХ"
+msgstr ""
+
+# Objects : [w213213275]
+# name:be: []
+msgid "Леспромхоз"
+msgstr ""
+
+# Objects : [w212732080]
+# name:be: []
+msgid "Лицей сельскохозяйственного производства"
+msgstr ""
+
+# Objects : [n2590000330]
+# name:be: []
+msgid "магазин "Орион""
+msgstr ""
+
+# Objects : [n306069653]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w212731056]
+# name:be: []
+msgid "Модуль"
+msgstr ""
+
+# Objects : [w212749207]
+# name:be: []
+msgid "Молокозавод"
+msgstr ""
+
+# Objects : [w215246382]
+# name:be: []
+msgid "Новое кладбище г. Ганцевичи"
+msgstr ""
+
+# Objects : [w213211028, w213211059]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w215116391]
+# name:be: []
+msgid "пляж Южный"
+msgstr ""
+
+# Objects : [n1233154365]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w215113934]
+# name:be: []
+msgid "Пожарный водоём"
+msgstr ""
+
+# Objects : [w25280008]
+# name:be: [Палеская вуліца]
+msgid "Полесская улица"
+msgstr ""
+
+# Objects : [w215219625]
+# name:be: []
+msgid "Полигон лицея"
+msgstr ""
+
+# Objects : [n2223413346]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w215232298]
+# name:be: []
+msgid "Райагросервис"
+msgstr ""
+
+# Objects : [w212741220]
+# name:be: []
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [w212498151]
+# name:be: []
+msgid "Районная больница"
+msgstr ""
+
+# Objects : [w212750185]
+# name:be: []
+msgid "Районный центр детско-юношеского творчества"
+msgstr ""
+
+# Objects : [n2590008116]
+# name:be: []
+msgid "Районный центр занятости"
+msgstr ""
+
+# Objects : [n3178615419]
+# name:be: []
+msgid "Ремонт обуви"
+msgstr ""
+
+# Objects : [n3178611555]
+# name:be: []
+msgid "Ремонт техники"
+msgstr ""
+
+# Objects : [n3178619755]
+# name:be: []
+msgid "Ремонт часов"
+msgstr ""
+
+# Objects : [n1677717119, w216940596]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w215219626]
+# name:be: []
+msgid "Сельхозхимия"
+msgstr ""
+
+# Objects : [w212493792]
+# name:be: []
+msgid "СООО "Аластре""
+msgstr ""
+
+# Objects : [w212790944]
+# name:be: []
+msgid "Стакада "Пинскдрев""
+msgstr ""
+
+# Objects : [w212494918]
+# name:be: []
+msgid "Старое кладбище"
+msgstr ""
+
+# Objects : [w215581580]
+# name:be: []
+msgid "Унитарное предприятие мелиоративных систем "Ганцевичское ПМС""
+msgstr ""
+
+# Objects : [w215297456]
+# name:be: []
+msgid "Урочище Горки"
+msgstr ""
+
+# Objects : [n2788684748]
+# name:be: [Сядзіба Падарэўскіх]
+msgid "Усадьба Падарэвских"
+msgstr ""
+
+# Objects : [n1677682091]
+# name:be: []
+msgid "Фонтан у городского кинотеатра"
+msgstr ""
+
+# Objects : [w212749171]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w215807294]
+# name:be: []
+msgid "Центральная котельная КУМПП РЖКХ"
+msgstr ""
+

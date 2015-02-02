@@ -1,0 +1,235 @@
+# Objects : [n1202747221, n1202747284]
+# name:be: [Аптэкаўпраўленне]
+msgid "аптека-Управление"
+msgstr ""
+
+# Objects : [n2660097610, n2660097619]
+# name:be: []
+msgid "Боровская"
+msgstr ""
+
+# Objects : [n2617760385, n2633704257]
+# name:be: []
+msgid "Букатино"
+msgstr ""
+
+# Objects : [n2926020509, n2926020510]
+# name:be: []
+msgid "Бутяжи"
+msgstr ""
+
+# Objects : [n2631398439, n2631398444]
+# name:be: []
+msgid "Верховье"
+msgstr ""
+
+# Objects : [n2141443261, n2141443262]
+# name:be: []
+msgid "Витьба"
+msgstr ""
+
+# Objects : [n750710079]
+# name:be: [Газанапаўняльная станцыя]
+msgid "Газонаполнительная станция"
+msgstr ""
+
+# Objects : [n3145105093, n3145105094]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
+# Objects : [n1784466048, n1784466052]
+# name:be: []
+msgid "Добрейка"
+msgstr ""
+
+# Objects : [n2849042208]
+# name:be: []
+msgid "Дом-интернат «Селюты»"
+msgstr ""
+
+# Objects : [n3184804333, n3184804334]
+# name:be: []
+msgid "Дреколье"
+msgstr ""
+
+# Objects : [n1882676084, n1882676087]
+# name:be: []
+msgid "Дрюково"
+msgstr ""
+
+# Objects : [n1791336643, n1791336669]
+# name:be: [Дымаўшчына]
+msgid "Дымовщина"
+msgstr ""
+
+# Objects : [n2718547419, n2718547420]
+# name:be: []
+msgid "Задвинье"
+msgstr ""
+
+# Objects : [n2847986367, n2847986368]
+# name:be: []
+msgid "Зайцево"
+msgstr ""
+
+# Objects : [n2617759804, n2617759805]
+# name:be: []
+msgid "Калиново"
+msgstr ""
+
+# Objects : [n1872671170, n2489727807]
+# name:be: []
+msgid "Кировский"
+msgstr ""
+
+# Objects : [n690275785, n690275787]
+# name:be: []
+msgid "Комары"
+msgstr ""
+
+# Objects : [n3009139176, n3009139177]
+# name:be: []
+msgid "Коммунарка"
+msgstr ""
+
+# Objects : [n1202746556]
+# name:be: [Канцавы маршруту №1]
+msgid "конечная Маршрута №1"
+msgstr ""
+
+# Objects : [n929304226]
+# name:be: [Канцавы маршрутак]
+msgid "конечная маршруток"
+msgstr ""
+
+# Objects : [n1825039898, n1825039936]
+# name:be: []
+msgid "Куковячино"
+msgstr ""
+
+# Objects : [n2617760484, n2617760485]
+# name:be: []
+msgid "Лужесно"
+msgstr ""
+
+# Objects : [n2778405163]
+# name:be: []
+msgid "Мазолово"
+msgstr ""
+
+# Objects : [n778200075]
+# name:be: [Малыя Лётцы]
+msgid "Малые Лётцы"
+msgstr ""
+
+# Objects : [n3009139178, n3009139179]
+# name:be: []
+msgid "Огородники"
+msgstr ""
+
+# Objects : [n2488323273]
+# name:be: []
+msgid "Октябрьский"
+msgstr ""
+
+# Objects : [n1202746908, n1202746972]
+# name:be: [Альгова]
+msgid "Ольгово"
+msgstr ""
+
+# Objects : [n1588881006]
+# name:be: []
+msgid "Орлово-2"
+msgstr ""
+
+# Objects : [n2926022689, n3079074080, n941285594]
+# name:be: [Асінаўка]
+msgid "Осиновка"
+msgstr ""
+
+# Objects : [n2821970843]
+# name:be: []
+msgid "Плодоовощной комбинат"
+msgstr ""
+
+# Objects : [n2488323272]
+# name:be: []
+msgid "Поворот на Октябрьский"
+msgstr ""
+
+# Objects : [n1814559946, n1814559947]
+# name:be: []
+msgid "Поляи"
+msgstr ""
+
+# Objects : [n1901105642, n1901105643]
+# name:be: []
+msgid "Прокуды"
+msgstr ""
+
+# Objects : [n2951340889, n2951340890]
+# name:be: []
+msgid "Скрыдлево"
+msgstr ""
+
+# Objects : [n1901105659]
+# name:be: []
+msgid "Станция Лужесно"
+msgstr ""
+
+# Objects : [n2842546444, n2842546445]
+# name:be: []
+msgid "Степанково"
+msgstr ""
+
+# Objects : [n1866836682, n2914902434]
+# name:be: []
+msgid "Суйково"
+msgstr ""
+
+# Objects : [n2616455107, n2616455680]
+# name:be: []
+msgid "Сущёво"
+msgstr ""
+
+# Objects : [n2633704258, n2633704259]
+# name:be: []
+msgid "Тетёрки"
+msgstr ""
+
+# Objects : [n3184804335, n3184804336]
+# name:be: []
+msgid "Тригубцы"
+msgstr ""
+
+# Objects : [n2331779257]
+# name:be: []
+msgid "Тулово"
+msgstr ""
+
+# Objects : [n750710072]
+# name:be: [Хлебная база]
+msgid "Хлебная база"
+msgstr ""
+
+# Objects : [n2331782473, n2331782476]
+# name:be: []
+msgid "Центральная"
+msgstr ""
+
+# Objects : [n2951340891, n2951340892]
+# name:be: []
+msgid "Шилки"
+msgstr ""
+
+# Objects : [n2354027333, n2354027334]
+# name:be: [Шульцава]
+msgid "Шульцево"
+msgstr ""
+
+# Objects : [n2331785416, n2331785419]
+# name:be: []
+msgid "Юбилейная"
+msgstr ""
+

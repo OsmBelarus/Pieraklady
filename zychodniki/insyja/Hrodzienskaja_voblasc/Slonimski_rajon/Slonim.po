@@ -1,0 +1,425 @@
+# Objects : [n1144408264]
+# name:be: []
+msgid "101 этаж"
+msgstr ""
+
+# Objects : [w143100458]
+# name:be: []
+msgid "Автобаза Слонимского РАЙПО"
+msgstr ""
+
+# Objects : [n1125500599, n1352253415]
+# name:be: [Аўтамыйня]
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w25195848]
+# name:be: []
+msgid "Альбертинское"
+msgstr ""
+
+# Objects : [w118039182]
+# name:be: []
+msgid "АП №3"
+msgstr ""
+
+# Objects : [n1182853180]
+# name:be: [Белдзяржстрах]
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w98704169]
+# name:be: []
+msgid "В.И.Ленин"
+msgstr ""
+
+# Objects : [n3140391580]
+# name:be: []
+msgid "Водопад"
+msgstr ""
+
+# Objects : [n1327362405]
+# name:be: []
+msgid "ГАИ, ОГиМ"
+msgstr ""
+
+# Objects : [w118053202]
+# name:be: [Гарадскі пляж]
+msgid "Городской пляж"
+msgstr ""
+
+# Objects : [n2766736515]
+# name:be: []
+msgid "Гостиница Венеция"
+msgstr ""
+
+# Objects : [n2766736724]
+# name:be: []
+msgid "Гостиница Щара"
+msgstr ""
+
+# Objects : [w118011770]
+# name:be: [ГБК]
+msgid "ГСК"
+msgstr ""
+
+# Objects : [w114873207]
+# name:be: []
+msgid "ГСК Гарнизонный"
+msgstr ""
+
+# Objects : [w98884631]
+# name:be: []
+msgid "ГСК Заозерный"
+msgstr ""
+
+# Objects : [w121542569]
+# name:be: []
+msgid "ГСК Звездный"
+msgstr ""
+
+# Objects : [w121542570]
+# name:be: []
+msgid "ГСК Эдельвейс"
+msgstr ""
+
+# Objects : [n2788680307]
+# name:be: [Палацава-паркавы комплекс Пуслоўскіх]
+msgid "Дворцово-парковый комплекс Пусловских"
+msgstr ""
+
+# Objects : [n1327602869]
+# name:be: []
+msgid "Для тебя"
+msgstr ""
+
+# Objects : [w118047870]
+# name:be: [Маторарамонты завод]
+msgid "ДП "Слонимский мотороремонтный завод""
+msgstr ""
+
+# Objects : [w287513036]
+# name:be: []
+msgid "ДЭУ"
+msgstr ""
+
+# Objects : [w99289686]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [n2788680349]
+# name:be: [Чыгуначная станцыя]
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w143100460]
+# name:be: []
+msgid "ЗЖБК, МПМК-164"
+msgstr ""
+
+# Objects : [w315160397]
+# name:be: []
+msgid "Киоск"
+msgstr ""
+
+# Objects : [n2788680755]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681229]
+# name:be: [Могілкі польскія вайсковыя часоў вайны 1920 г.]
+msgid "Кладбище польское военное времен войны 1920 г."
+msgstr ""
+
+# Objects : [n2788681762]
+# name:be: [Касцёл Беззаганнага Зачацця Найсвяцейшай Панны Марыі і кляштар бэрнардынак]
+msgid "Костел Непорочного Зачатия Пресвятой Девы Марии и кляштор бернардинок"
+msgstr ""
+
+# Objects : [n2788681804]
+# name:be: [Касцёл Найсвяцейшай Панны Марыі]
+msgid "Костел Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [w183977747]
+# name:be: []
+msgid "Костел св. Андрея"
+msgstr ""
+
+# Objects : [n2788681857]
+# name:be: [Касцёл Святога Андрэя Апостала]
+msgid "Костел Св. Андрея Апостола"
+msgstr ""
+
+# Objects : [n1144516519]
+# name:be: [Чырвоны крыж]
+msgid "Красный крест"
+msgstr ""
+
+# Objects : [w143103851]
+# name:be: []
+msgid "КУП Слонимское ЖРЭО"
+msgstr ""
+
+# Objects : [w287513088]
+# name:be: []
+msgid "Маслозавод"
+msgstr ""
+
+# Objects : [w98876757]
+# name:be: []
+msgid "минирынок Наш край"
+msgstr ""
+
+# Objects : [w287513092]
+# name:be: []
+msgid "мойка"
+msgstr ""
+
+# Objects : [n1327362350]
+# name:be: []
+msgid "МРЭО"
+msgstr ""
+
+# Objects : [n857400470]
+# name:be: []
+msgid "Музей им.Стабровского"
+msgstr ""
+
+# Objects : [w118023310]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [n1182853173]
+# name:be: []
+msgid "Нотариус"
+msgstr ""
+
+# Objects : [n857407231]
+# name:be: [Аазіс]
+msgid "Оазис"
+msgstr ""
+
+# Objects : [w118039187]
+# name:be: []
+msgid "ОАО "Слониммебель""
+msgstr ""
+
+# Objects : [w118047871]
+# name:be: []
+msgid "ОАО "Слонимская камвольно-прядильная фабрика""
+msgstr ""
+
+# Objects : [w118458305]
+# name:be: []
+msgid "ОАО "Слонимский агросервис”"
+msgstr ""
+
+# Objects : [w121535118]
+# name:be: []
+msgid "ОАО "Слонимский водоканал""
+msgstr ""
+
+# Objects : [w121551613]
+# name:be: []
+msgid "ОАО "Слонимский картонно-бумажный завод "Альбертин""
+msgstr ""
+
+# Objects : [w143100459]
+# name:be: []
+msgid "ОАО "Слонимский комбикормовый завод”"
+msgstr ""
+
+# Objects : [w118039181]
+# name:be: []
+msgid "ОАО "Слонимский мясокомбинат""
+msgstr ""
+
+# Objects : [w143102143]
+# name:be: []
+msgid "ОАО СУ-187"
+msgstr ""
+
+# Objects : [n1331457055]
+# name:be: [Абмен валют]
+msgid "Обмен валют"
+msgstr ""
+
+# Objects : [n1195318503]
+# name:be: []
+msgid "Оскар"
+msgstr ""
+
+# Objects : [n1352208934]
+# name:be: []
+msgid "Осмотр транспорта"
+msgstr ""
+
+# Objects : [n3172125762]
+# name:be: [Помнiк Ленiну]
+msgid "Памятник Ленину"
+msgstr ""
+
+# Objects : [w97549554]
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [w287513089]
+# name:be: []
+msgid "ПУ "Слониммежрайгаз""
+msgstr ""
+
+# Objects : [n1182881416]
+# name:be: []
+msgid "Пятачок"
+msgstr ""
+
+# Objects : [n2788684250]
+# name:be: [Ратуша]
+msgid "Ратуша"
+msgstr ""
+
+# Objects : [n1566990521]
+# name:be: []
+msgid "Родник"
+msgstr ""
+
+# Objects : [n763447900]
+# name:be: []
+msgid "РОЧС"
+msgstr ""
+
+# Objects : [w103527378]
+# name:be: []
+msgid "Рынок "Коссовский""
+msgstr ""
+
+# Objects : [w97726531]
+# name:be: []
+msgid "рынок Слонимского РАЙПО"
+msgstr ""
+
+# Objects : [n2788684303]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1182881462]
+# name:be: []
+msgid "Скорая помощь"
+msgstr ""
+
+# Objects : [n443932648]
+# name:be: [Слонім]
+msgid "Слоним"
+msgstr ""
+
+# Objects : [w118013633]
+# name:be: []
+msgid "Слонимский авторемонтный завод"
+msgstr ""
+
+# Objects : [n1327362373]
+# name:be: []
+msgid "Слонимский РОВД"
+msgstr ""
+
+# Objects : [w143100461]
+# name:be: []
+msgid "Слонимский хлебозавод"
+msgstr ""
+
+# Objects : [w118039185]
+# name:be: []
+msgid "Слонимское МАТП"
+msgstr ""
+
+# Objects : [n2788684370]
+# name:be: [Сабор Спаса-Праабражэнскі]
+msgid "Собор Спасо-Преображенский"
+msgstr ""
+
+# Objects : [w309309238, w309309239]
+# name:be: []
+msgid "Средняя школа №7"
+msgstr ""
+
+# Objects : [n1145816773, n1327602874, n1327604458, n1328256632]
+# name:be: [Стаматалогія]
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w97703340]
+# name:be: []
+msgid "Танк"
+msgstr ""
+
+# Objects : [n857404636]
+# name:be: []
+msgid "Телефон, интернет"
+msgstr ""
+
+# Objects : [w143205515]
+# name:be: []
+msgid "ТЧУП "Стэлкарго""
+msgstr ""
+
+# Objects : [r3435104]
+# name:be: [вуліца Францыска Скарыны]
+msgid "улица Франциска Скорины"
+msgstr ""
+
+# Objects : [w143199433]
+# name:be: []
+msgid "УМГ ОАО "Белтрансгаз""
+msgstr ""
+
+# Objects : [n2788687345]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686629]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [w25140584]
+# name:be: []
+msgid "Цивинщина"
+msgstr ""
+
+# Objects : [n2788687420]
+# name:be: [Капліца Святога Дамініка]
+msgid "Часовня Святого Доминика"
+msgstr ""
+
+# Objects : [n1145804837]
+# name:be: []
+msgid "Черная пантера"
+msgstr ""
+
+# Objects : [n2675553371]
+# name:be: []
+msgid "ЧТУП "ТузинТрансАвто""
+msgstr ""
+
+# Objects : [w183870509]
+# name:be: []
+msgid "ЧТУП «Ерш Транс»"
+msgstr ""
+
+# Objects : [n857391812]
+# name:be: [Шчара]
+msgid "Щара"
+msgstr ""
+
+# Objects : [w277859856]
+# name:be: []
+msgid "Энка"
+msgstr ""
+

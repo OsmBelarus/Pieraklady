@@ -1,0 +1,120 @@
+# Objects : [w209310860]
+# name:be: []
+msgid "2-я Лесная улица"
+msgstr ""
+
+# Objects : [w33827645, w48012226]
+# name:be: []
+msgid "H10027"
+msgstr ""
+
+# Objects : [w213439022]
+# name:be: []
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w209310868]
+# name:be: []
+msgid "Ключевская улица"
+msgstr ""
+
+# Objects : [w169294180]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w209310865, w255179958, w255183784]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w130350656, w169007549, w169291765, w209310863]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w211273399]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w211273401]
+# name:be: []
+msgid "переулок Будённого"
+msgstr ""
+
+# Objects : [w210216409, w211273400, w213439008]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w213439020]
+# name:be: []
+msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w211269105]
+# name:be: []
+msgid "Совхозная улица"
+msgstr ""
+
+# Objects : [w209310866]
+# name:be: []
+msgid "Спортивная улица"
+msgstr ""
+
+# Objects : [w212651816]
+# name:be: []
+msgid "улица 2-я Победы"
+msgstr ""
+
+# Objects : [w255180861]
+# name:be: []
+msgid "улица 70 лет Октября"
+msgstr ""
+
+# Objects : [w104333466, w211273397]
+# name:be: []
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [w274239460]
+# name:be: []
+msgid "улица Мелиораторов"
+msgstr ""
+
+# Objects : [w213439021]
+# name:be: []
+msgid "улица Могилевчика"
+msgstr ""
+
+# Objects : [w169007530, w169007537]
+# name:be: []
+msgid "улица Петро-Павловская"
+msgstr ""
+
+# Objects : [w210922188, w212651817]
+# name:be: []
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [w210216408, w255177252, w255247062, w274665790]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w169007548, w210922189, w211269104, w255183786, w274661208]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w209310861]
+# name:be: []
+msgid "Школьный переулок"
+msgstr ""
+
+# Objects : [w209310858, w209310867]
+# name:be: []
+msgid "Южная улица"
+msgstr ""
+

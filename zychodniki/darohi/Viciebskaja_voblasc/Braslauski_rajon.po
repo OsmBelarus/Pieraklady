@@ -1,0 +1,205 @@
+# Objects : [w158821576]
+# name:be: [Гарыстая вуліца]
+msgid "Гористая улица"
+msgstr ""
+
+# Objects : [w158821575]
+# name:be: [Гарысты завулак]
+msgid "Гористый переулок"
+msgstr ""
+
+# Objects : [w252728177, w265433632, w265433633]
+# name:be: [Жвірблішкі]
+msgid "Жвирблишки"
+msgstr ""
+
+# Objects : [w308335011]
+# name:be: []
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w117577760]
+# name:be: [Цагляны завулак]
+msgid "Кирпичный переулок"
+msgstr ""
+
+# Objects : [w170407898]
+# name:be: []
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w163800021]
+# name:be: []
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w252791042]
+# name:be: [Леамполле]
+msgid "Леомполье"
+msgstr ""
+
+# Objects : [w307847230]
+# name:be: []
+msgid "пер. Маяковского"
+msgstr ""
+
+# Objects : [w307679519]
+# name:be: []
+msgid "пер. Парковый"
+msgstr ""
+
+# Objects : [w252783359]
+# name:be: [Перавознікі]
+msgid "Перевозники"
+msgstr ""
+
+# Objects : [w310939817, w98516393]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w313552119]
+# name:be: [Сцяпная вуліца]
+msgid "Степная улица"
+msgstr ""
+
+# Objects : [w252783366]
+# name:be: [Стунжышкі]
+msgid "Стунжишки"
+msgstr ""
+
+# Objects : [w158820605]
+# name:be: [Цяністая вуліца]
+msgid "Тенистая улица"
+msgstr ""
+
+# Objects : [w25273900, w309028303, w309029699]
+# name:be: []
+msgid "Ул. Горная"
+msgstr ""
+
+# Objects : [w308220967]
+# name:be: []
+msgid "Ул. Молодежная"
+msgstr ""
+
+# Objects : [w308217053]
+# name:be: []
+msgid "ул. Озерная"
+msgstr ""
+
+# Objects : [w307885760]
+# name:be: []
+msgid "улица Браславская"
+msgstr ""
+
+# Objects : [w156329627]
+# name:be: [вуліца Ветэранаў]
+msgid "улица Ветеранов"
+msgstr ""
+
+# Objects : [w307580369, w307580371]
+# name:be: []
+msgid "улица Восточная"
+msgstr ""
+
+# Objects : [w307679520, w307679521]
+# name:be: []
+msgid "улица Зеленая"
+msgstr ""
+
+# Objects : [w307720221]
+# name:be: []
+msgid "улица Комсомольская"
+msgstr ""
+
+# Objects : [w156329621]
+# name:be: [вуліца Каралёва]
+msgid "улица Королёва"
+msgstr ""
+
+# Objects : [w307581119, w307581120]
+# name:be: []
+msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [w307720214]
+# name:be: []
+msgid "улица Лесная"
+msgstr ""
+
+# Objects : [w307675706]
+# name:be: []
+msgid "улица Летняя"
+msgstr ""
+
+# Objects : [w307720217]
+# name:be: []
+msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [w307720222]
+# name:be: []
+msgid "улица Молодежная"
+msgstr ""
+
+# Objects : [w307687942, w307688714, w307688715, w307688716, w307881907, w307881908]
+# name:be: []
+msgid "улица Набережная"
+msgstr ""
+
+# Objects : [w307720223]
+# name:be: []
+msgid "улица Новая"
+msgstr ""
+
+# Objects : [w307693419]
+# name:be: []
+msgid "улица Озерная"
+msgstr ""
+
+# Objects : [w311627003]
+# name:be: []
+msgid "улица Октября"
+msgstr ""
+
+# Objects : [w307675707, w307675708]
+# name:be: []
+msgid "улица Парковая"
+msgstr ""
+
+# Objects : [w141048620]
+# name:be: []
+msgid "улица Пионерская"
+msgstr ""
+
+# Objects : [w307675709, w307675710]
+# name:be: []
+msgid "улица Советская"
+msgstr ""
+
+# Objects : [w156329622]
+# name:be: [вуліца Фрунзэ]
+msgid "улица Фрунзе"
+msgstr ""
+
+# Objects : [w307554324]
+# name:be: []
+msgid "улица Я. Коласа"
+msgstr ""
+
+# Objects : [w36005570]
+# name:be: [Фізкультурная вуліца]
+msgid "Физкультурная улица"
+msgstr ""
+
+# Objects : [w170407899]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w163005408]
+# name:be: []
+msgid "Экологическая тропа "Слободковская озовая гряда""
+msgstr ""
+

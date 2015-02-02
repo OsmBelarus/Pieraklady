@@ -1,0 +1,140 @@
+# Objects : [w120741130]
+# name:be: []
+msgid "Бородичская улица"
+msgstr ""
+
+# Objects : [w263477601]
+# name:be: []
+msgid "Бородичский переулок"
+msgstr ""
+
+# Objects : [w274292608]
+# name:be: [Вакзальная вуліца]
+msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w229050066]
+# name:be: []
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [w242129453, w291856321]
+# name:be: []
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w239756087]
+# name:be: []
+msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w239756074]
+# name:be: []
+msgid "Майская улица"
+msgstr ""
+
+# Objects : [w120741134]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w237892971, w273377183]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w129798706]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w129463341]
+# name:be: []
+msgid "Пионерский переулок"
+msgstr ""
+
+# Objects : [w240670442, w309789309, w309789310]
+# name:be: []
+msgid "Подболотье - Зельвянка"
+msgstr ""
+
+# Objects : [w239756079]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w239756077]
+# name:be: []
+msgid "Привокзальная улица"
+msgstr ""
+
+# Objects : [w122424690, w242827367, w242827369]
+# name:be: []
+msgid "Приозёрная улица"
+msgstr ""
+
+# Objects : [w325397924]
+# name:be: []
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w120730665]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w239756072]
+# name:be: []
+msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w239756071]
+# name:be: []
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w239756069]
+# name:be: []
+msgid "Северный переулок"
+msgstr ""
+
+# Objects : [w229050072]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w277183285]
+# name:be: []
+msgid "Солнечный переулок"
+msgstr ""
+
+# Objects : [w273377185]
+# name:be: []
+msgid "Тепличная улица"
+msgstr ""
+
+# Objects : [w290476808]
+# name:be: []
+msgid "улица Киселя"
+msgstr ""
+
+# Objects : [w273377192]
+# name:be: []
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w273377196]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w325397925]
+# name:be: []
+msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [w230600878, w242827366, w273377194, w290476809, w290476810]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+

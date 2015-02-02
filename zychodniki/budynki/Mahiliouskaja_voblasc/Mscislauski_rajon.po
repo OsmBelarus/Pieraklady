@@ -1,0 +1,95 @@
+# Objects : [w215392764]
+# name:be: []
+msgid "Гермес"
+msgstr ""
+
+# Objects : [w244820623]
+# name:be: []
+msgid "ГРП - 10"
+msgstr ""
+
+# Objects : [w232625877]
+# name:be: []
+msgid "ГРП - 4"
+msgstr ""
+
+# Objects : [w232625045]
+# name:be: []
+msgid "ГРС  КАПАЧИ"
+msgstr ""
+
+# Objects : [w232627347]
+# name:be: []
+msgid "ГРС   МСТИСЛАВЛЬ"
+msgstr ""
+
+# Objects : [w210190669]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w256574051]
+# name:be: []
+msgid "КЗС РПТС"
+msgstr ""
+
+# Objects : [w212723135, w213350075]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w213412483]
+# name:be: []
+msgid "котельная ЖКХ"
+msgstr ""
+
+# Objects : [w256574052]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w287280302]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w215388441]
+# name:be: []
+msgid "магазин, контора"
+msgstr ""
+
+# Objects : [w232514335]
+# name:be: []
+msgid "ПГРП - 5"
+msgstr ""
+
+# Objects : [w215388444]
+# name:be: []
+msgid "пожарный пост"
+msgstr ""
+
+# Objects : [w210195039, w215388445]
+# name:be: []
+msgid "сельсовет"
+msgstr ""
+
+# Objects : [w215519462]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w213092391]
+# name:be: []
+msgid "сель совет"
+msgstr ""
+
+# Objects : [w213412485]
+# name:be: []
+msgid "сельсовет,почта"
+msgstr ""
+
+# Objects : [w232518127]
+# name:be: []
+msgid "ЦФОР Олимп"
+msgstr ""
+

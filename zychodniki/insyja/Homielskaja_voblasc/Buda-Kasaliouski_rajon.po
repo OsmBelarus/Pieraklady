@@ -1,0 +1,140 @@
+# Objects : [n243046597, w25082025]
+# name:be: []
+msgid "Андреевка"
+msgstr ""
+
+# Objects : [n243046239, w25083487]
+# name:be: []
+msgid "Боевой"
+msgstr ""
+
+# Objects : [n243046246, w25083455]
+# name:be: [Боркі]
+msgid "Борки"
+msgstr ""
+
+# Objects : [n243042386, w25085128]
+# name:be: []
+msgid "Веселый Курган"
+msgstr ""
+
+# Objects : [n243042398, w25085137]
+# name:be: []
+msgid "Веселый Пахарь"
+msgstr ""
+
+# Objects : [n2788679946]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n2617181692]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [n243046232, w25083497]
+# name:be: []
+msgid "Герой"
+msgstr ""
+
+# Objects : [n243046055, w25083428]
+# name:be: []
+msgid "Долгий"
+msgstr ""
+
+# Objects : [n243042387, w25085135]
+# name:be: []
+msgid "Застенный"
+msgstr ""
+
+# Objects : [n243046231, w25083505]
+# name:be: []
+msgid "Затишье"
+msgstr ""
+
+# Objects : [n243046281, w25083529]
+# name:be: []
+msgid "Колотин"
+msgstr ""
+
+# Objects : [n243046227, w25083502]
+# name:be: [Ліпа]
+msgid "Липа"
+msgstr ""
+
+# Objects : [n243046226, w25083499]
+# name:be: []
+msgid "Лугиничи"
+msgstr ""
+
+# Objects : [n243046249, w25083457]
+# name:be: []
+msgid "Лукьянов"
+msgstr ""
+
+# Objects : [w143472556, w143472559]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [n243046230, w25083496]
+# name:be: [Новая Гута]
+msgid "Новая Гута"
+msgstr ""
+
+# Objects : [n243046277, w25083537]
+# name:be: []
+msgid "Новая Липа"
+msgstr ""
+
+# Objects : [n243046250, w25083446]
+# name:be: [Новы Свет]
+msgid "Новый Свет"
+msgstr ""
+
+# Objects : [w256015261]
+# name:be: []
+msgid "Ограждение башни"
+msgstr ""
+
+# Objects : [n243046225, w25083494]
+# name:be: []
+msgid "Присенщина"
+msgstr ""
+
+# Objects : [n2788683980]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w25195244]
+# name:be: []
+msgid "Рвы"
+msgstr ""
+
+# Objects : [n2794234577]
+# name:be: []
+msgid "телефонная вышка"
+msgstr ""
+
+# Objects : [w255992404]
+# name:be: []
+msgid "ТП КН"
+msgstr ""
+
+# Objects : [n306069427]
+# name:be: [Уза]
+msgid "Уза"
+msgstr ""
+
+# Objects : [n243046278, w25083507]
+# name:be: []
+msgid "Уютный"
+msgstr ""
+
+# Objects : [n243046236, w25085134]
+# name:be: [Харошаўка]
+msgid "Хорошевка"
+msgstr ""
+

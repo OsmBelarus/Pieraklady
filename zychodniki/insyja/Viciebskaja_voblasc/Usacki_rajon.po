@@ -1,0 +1,420 @@
+# Objects : [w25193670]
+# name:be: []
+msgid "Барковщина"
+msgstr ""
+
+# Objects : [w25190831]
+# name:be: [воз. Белянец]
+msgid "Беленец"
+msgstr ""
+
+# Objects : [w25187184]
+# name:be: [воз. Белянок]
+msgid "Беленок"
+msgstr ""
+
+# Objects : [w25195029]
+# name:be: [Белае]
+msgid "Белое"
+msgstr ""
+
+# Objects : [w25200210]
+# name:be: [Бельскае воз.]
+msgid "Бельское"
+msgstr ""
+
+# Objects : [w25190715]
+# name:be: [Бярэзінец]
+msgid "Березинец"
+msgstr ""
+
+# Objects : [r3400208, w253737149]
+# name:be: [Бярэзінскі біясферны запаведнік]
+msgid "Березинский биосферный заповедник"
+msgstr ""
+
+# Objects : [w25194156]
+# name:be: []
+msgid "Большая Бороница"
+msgstr ""
+
+# Objects : [w25196188]
+# name:be: []
+msgid "Большое Исно"
+msgstr ""
+
+# Objects : [w25195954]
+# name:be: []
+msgid "Большое Уклейно"
+msgstr ""
+
+# Objects : [w219066763]
+# name:be: []
+msgid "Большой Мох"
+msgstr ""
+
+# Objects : [w25191677, w25193337]
+# name:be: [воз. Баравянок]
+msgid "Боровенок"
+msgstr ""
+
+# Objects : [w146423796]
+# name:be: []
+msgid "Вдовое"
+msgstr ""
+
+# Objects : [w25185323]
+# name:be: []
+msgid "Венок"
+msgstr ""
+
+# Objects : [w25195378]
+# name:be: [Ветчанскае возера]
+msgid "Ветченское"
+msgstr ""
+
+# Objects : [w25199961]
+# name:be: []
+msgid "Вечелье"
+msgstr ""
+
+# Objects : [w25193761]
+# name:be: []
+msgid "Вечица"
+msgstr ""
+
+# Objects : [w25184678]
+# name:be: []
+msgid "Витаво"
+msgstr ""
+
+# Objects : [n566293550]
+# name:be: [Віцебская вобласць]
+msgid "Витебская область"
+msgstr ""
+
+# Objects : [w25191765, w25196002]
+# name:be: [Глыбокае]
+msgid "Глубокое"
+msgstr ""
+
+# Objects : [w25190316]
+# name:be: []
+msgid "Глыбочка"
+msgstr ""
+
+# Objects : [w25194981]
+# name:be: [воз. Гарадзянец]
+msgid "Городенец"
+msgstr ""
+
+# Objects : [w25193754]
+# name:be: [Гародна]
+msgid "Городно"
+msgstr ""
+
+# Objects : [w25193722]
+# name:be: [воз. Дземенец]
+msgid "Деменец"
+msgstr ""
+
+# Objects : [w25195500]
+# name:be: []
+msgid "Деминец"
+msgstr ""
+
+# Objects : [w25190328]
+# name:be: []
+msgid "Длинное"
+msgstr ""
+
+# Objects : [w25193715]
+# name:be: []
+msgid "Долгий Деминец"
+msgstr ""
+
+# Objects : [w25186934]
+# name:be: [Доўгае]
+msgid "Долгое"
+msgstr ""
+
+# Objects : [w25197354]
+# name:be: []
+msgid "Должина"
+msgstr ""
+
+# Objects : [n1389978816]
+# name:be: [Дом-музей Петруся Броўкі]
+msgid "Дом-музей Петруся Бровки"
+msgstr ""
+
+# Objects : [r4106771]
+# name:be: [Замошша]
+msgid "Замошье"
+msgstr ""
+
+# Objects : [n2788680427]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [w25194883]
+# name:be: [воз. Зароўе]
+msgid "Заровье"
+msgstr ""
+
+# Objects : [n2993210307]
+# name:be: [Зарубаўшчына]
+msgid "Зарубовщина"
+msgstr ""
+
+# Objects : [r1492734]
+# name:be: []
+msgid "Звонь"
+msgstr ""
+
+# Objects : [n2788680703]
+# name:be: [Могілкі габрэйския]
+msgid "Кладбище габрэйския"
+msgstr ""
+
+# Objects : [w39176234]
+# name:be: [Кароўнік]
+msgid "Коровник"
+msgstr ""
+
+# Objects : [n2788681864]
+# name:be: [Касцёл Св. Веранікі і кляштар бэрнардынаў]
+msgid "Костел Св. Вероники и кляштор бернардинцев"
+msgstr ""
+
+# Objects : [w25184787]
+# name:be: [Краснае]
+msgid "Красное"
+msgstr ""
+
+# Objects : [w39186125]
+# name:be: [Круглае]
+msgid "Круглое"
+msgstr ""
+
+# Objects : [w25195493]
+# name:be: []
+msgid "Люктош"
+msgstr ""
+
+# Objects : [w25190300]
+# name:be: []
+msgid "Малая Бороница"
+msgstr ""
+
+# Objects : [w25192580]
+# name:be: []
+msgid "Малое Уклейно"
+msgstr ""
+
+# Objects : [w25192305]
+# name:be: []
+msgid "Малый Супонец"
+msgstr ""
+
+# Objects : [w25200204]
+# name:be: [Матырына]
+msgid "Матырино"
+msgstr ""
+
+# Objects : [n2788682556]
+# name:be: [Мэмарыяльны комплекс «Прарыў»]
+msgid "Мемориальный комплекс «Прорыв»"
+msgstr ""
+
+# Objects : [n306064852]
+# name:be: []
+msgid "мемориальный комплекс Прорыв"
+msgstr ""
+
+# Objects : [w25193014]
+# name:be: [Мосарскае воз.]
+msgid "Мосарское"
+msgstr ""
+
+# Objects : [w25182577]
+# name:be: [воз. Мурагі]
+msgid "Муроги"
+msgstr ""
+
+# Objects : [w25537422]
+# name:be: []
+msgid "о. Вележье"
+msgstr ""
+
+# Objects : [w25537423]
+# name:be: []
+msgid "о. Козлячий"
+msgstr ""
+
+# Objects : [w25185892]
+# name:be: []
+msgid "о. Хутор"
+msgstr ""
+
+# Objects : [n2766728165]
+# name:be: []
+msgid "Озерные ростани"
+msgstr ""
+
+# Objects : [w25192910]
+# name:be: [Астравенскае]
+msgid "Островенское"
+msgstr ""
+
+# Objects : [n2993234813]
+# name:be: [Паўлоўшчына]
+msgid "Павловщина"
+msgstr ""
+
+# Objects : [w25191349]
+# name:be: []
+msgid "Перильце"
+msgstr ""
+
+# Objects : [w25198802]
+# name:be: []
+msgid "Плино"
+msgstr ""
+
+# Objects : [w25193733]
+# name:be: [воз. Полазна]
+msgid "Полозно"
+msgstr ""
+
+# Objects : [w25186834]
+# name:be: []
+msgid "Присухое"
+msgstr ""
+
+# Objects : [n2788684219]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w25187679]
+# name:be: [воз. Рашнае]
+msgid "Рашное"
+msgstr ""
+
+# Objects : [n306067069]
+# name:be: []
+msgid "Рыбалка На Паульском"
+msgstr ""
+
+# Objects : [n2766722528]
+# name:be: []
+msgid "Санаторий Лесные озера"
+msgstr ""
+
+# Objects : [w25196448]
+# name:be: [воз. Сверзна]
+msgid "Сверзно"
+msgstr ""
+
+# Objects : [w25197046]
+# name:be: [Селішча]
+msgid "Селище"
+msgstr ""
+
+# Objects : [w105246074]
+# name:be: [Тартак]
+msgid "Тартак"
+msgstr ""
+
+# Objects : [w39176235]
+# name:be: [Цялятнік]
+msgid "Телятник"
+msgstr ""
+
+# Objects : [w25196720]
+# name:be: [воз. Трошча]
+msgid "Троща"
+msgstr ""
+
+# Objects : [w274735550]
+# name:be: []
+msgid "Унеча-Полоцк"
+msgstr ""
+
+# Objects : [n2788684443]
+# name:be: [Сядзібна-паркавы комплекс Грабніцкіх]
+msgid "Усадебно-парковый комплекс Гребницких"
+msgstr ""
+
+# Objects : [n2788684494]
+# name:be: [Сядзібна-паркавы комплекс Маліноўскіх]
+msgid "Усадебно-парковый комплекс Малиновских"
+msgstr ""
+
+# Objects : [w25201062]
+# name:be: [Усвея]
+msgid "Усвея"
+msgstr ""
+
+# Objects : [w25190822]
+# name:be: []
+msgid "Утвино"
+msgstr ""
+
+# Objects : [w25197467]
+# name:be: [воз. Ухвішча]
+msgid "Ухвище"
+msgstr ""
+
+# Objects : [n2766728236]
+# name:be: []
+msgid "Ушачский"
+msgstr ""
+
+# Objects : [n2788685423]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [w105246098]
+# name:be: []
+msgid "Церковище"
+msgstr ""
+
+# Objects : [n2788686597]
+# name:be: [Царква Святой Параскевы Пятніцы]
+msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [n2788687071]
+# name:be: [Царква Стрэчання Гасподняга]
+msgid "Церковь Сретения Господня"
+msgstr ""
+
+# Objects : [n2788687544]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [w25196554]
+# name:be: [Чорная Урада]
+msgid "Черная Урода"
+msgstr ""
+
+# Objects : [w25194572]
+# name:be: [Чорнае]
+msgid "Черное"
+msgstr ""
+
+# Objects : [w25196913]
+# name:be: []
+msgid "Язно"
+msgstr ""
+
+# Objects : [r1691974, w25201527]
+# name:be: [Янова]
+msgid "Яново"
+msgstr ""
+

@@ -1,0 +1,150 @@
+# Objects : [n1865574564]
+# name:be: []
+msgid "Альбрехтово"
+msgstr ""
+
+# Objects : [n1865574565]
+# name:be: []
+msgid "Городской парк"
+msgstr ""
+
+# Objects : [n804758429]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [n804758329]
+# name:be: []
+msgid "Кинопрокат"
+msgstr ""
+
+# Objects : [n758782490, n759738707]
+# name:be: []
+msgid "кинотеатр Победа"
+msgstr ""
+
+# Objects : [n1271821187, n1271821189]
+# name:be: [Канцэртная зала]
+msgid "Концертный зал"
+msgstr ""
+
+# Objects : [n1271808378, n1271808380, n1271808382]
+# name:be: [Лесапарк]
+msgid "Лесопарк"
+msgstr ""
+
+# Objects : [n796959107]
+# name:be: []
+msgid "Луги"
+msgstr ""
+
+# Objects : [n1278080790]
+# name:be: [Медыцынскі каледж]
+msgid "Медицинский колледж"
+msgstr ""
+
+# Objects : [n529659383, n541990788, n759738702]
+# name:be: []
+msgid "микрорайон Северный"
+msgstr ""
+
+# Objects : [n1407061409]
+# name:be: [Маладзёжная]
+msgid "Молодежная"
+msgstr ""
+
+# Objects : [n1285195285, n804758370]
+# name:be: [Нацыянальны банк]
+msgid "Национальный Банк"
+msgstr ""
+
+# Objects : [n804758396]
+# name:be: []
+msgid "ОАО "Полесье""
+msgstr ""
+
+# Objects : [n1407078237, n1803687588]
+# name:be: []
+msgid "Парковая"
+msgstr ""
+
+# Objects : [n764421924]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [n1865574566]
+# name:be: []
+msgid "Пинская Центральная поликлиника"
+msgstr ""
+
+# Objects : [n1865574567]
+# name:be: []
+msgid "Пинскдрев-Адриана"
+msgstr ""
+
+# Objects : [n759738715, n759738721]
+# name:be: []
+msgid "площадь Кирова"
+msgstr ""
+
+# Objects : [n1865574568, n960629758]
+# name:be: []
+msgid "Полесский Государственный Университет"
+msgstr ""
+
+# Objects : [n796945689, n796946323]
+# name:be: []
+msgid "Революционная"
+msgstr ""
+
+# Objects : [n758784692]
+# name:be: [Рэмбыттэхніка]
+msgid "Рембыттехника"
+msgstr ""
+
+# Objects : [n1271808371]
+# name:be: []
+msgid "Рынак "Сонечны""
+msgstr ""
+
+# Objects : [n925134527]
+# name:be: []
+msgid "рынок "Солнечный""
+msgstr ""
+
+# Objects : [n796944312]
+# name:be: []
+msgid "Санта"
+msgstr ""
+
+# Objects : [n1633573064, n1633706390]
+# name:be: []
+msgid "Сберкасса"
+msgstr ""
+
+# Objects : [n796956910, n796957941]
+# name:be: []
+msgid "собор"
+msgstr ""
+
+# Objects : [n796959844, n796961602]
+# name:be: [Сярэдняя школа №14]
+msgid "средняя школа №14"
+msgstr ""
+
+# Objects : [n1633690988, n1633691603]
+# name:be: []
+msgid "товары для Дома"
+msgstr ""
+
+# Objects : [n925134430]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная"
+msgstr ""
+
+# Objects : [n804758293]
+# name:be: []
+msgid "Центральная больница"
+msgstr ""
+

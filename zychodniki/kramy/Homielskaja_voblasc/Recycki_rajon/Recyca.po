@@ -1,0 +1,235 @@
+# Objects : [n3146920135]
+# name:be: []
+msgid "Velcom"
+msgstr ""
+
+# Objects : [n2686375547]
+# name:be: []
+msgid "ZIKO"
+msgstr ""
+
+# Objects : [n2689538409]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n306064322]
+# name:be: []
+msgid "Алмаз"
+msgstr ""
+
+# Objects : [n2671045126]
+# name:be: []
+msgid "Амакс"
+msgstr ""
+
+# Objects : [n2741640534]
+# name:be: []
+msgid "Верасок"
+msgstr ""
+
+# Objects : [n2689538410]
+# name:be: []
+msgid "Визави"
+msgstr ""
+
+# Objects : [n2741640537]
+# name:be: []
+msgid "Гомельский"
+msgstr ""
+
+# Objects : [n2671045129]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
+# Objects : [n306064479]
+# name:be: [Дружба]
+msgid "Дружба"
+msgstr ""
+
+# Objects : [n2680008623]
+# name:be: []
+msgid "Евросеть"
+msgstr ""
+
+# Objects : [n2744090223]
+# name:be: []
+msgid "Зебре"
+msgstr ""
+
+# Objects : [n306064320]
+# name:be: []
+msgid "Зручный"
+msgstr ""
+
+# Objects : [n306064486]
+# name:be: []
+msgid "Кактус"
+msgstr ""
+
+# Objects : [n2689516585]
+# name:be: []
+msgid "Карина"
+msgstr ""
+
+# Objects : [n2461574814]
+# name:be: []
+msgid "Колосок"
+msgstr ""
+
+# Objects : [n2689538411]
+# name:be: []
+msgid "Лидо"
+msgstr ""
+
+# Objects : [n2681634892]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n306064340, n3127027247]
+# name:be: [Мэбля]
+msgid "Мебель"
+msgstr ""
+
+# Objects : [n2686370786]
+# name:be: []
+msgid "Мегатоп"
+msgstr ""
+
+# Objects : [n2679959403]
+# name:be: []
+msgid "Мир Моды"
+msgstr ""
+
+# Objects : [n306064213]
+# name:be: []
+msgid "Новоречецкий"
+msgstr ""
+
+# Objects : [n2689506361]
+# name:be: []
+msgid "Оптика"
+msgstr ""
+
+# Objects : [n2741640539]
+# name:be: []
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n2680825877]
+# name:be: []
+msgid "Пари-Матч"
+msgstr ""
+
+# Objects : [n3126163597]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2741640540]
+# name:be: []
+msgid "Речичанка"
+msgstr ""
+
+# Objects : [n2741640536]
+# name:be: []
+msgid "Самообслуживание"
+msgstr ""
+
+# Objects : [n3126163599]
+# name:be: []
+msgid "Сантехника"
+msgstr ""
+
+# Objects : [n3126163600]
+# name:be: []
+msgid "Свадебный салон"
+msgstr ""
+
+# Objects : [n306064314]
+# name:be: []
+msgid "Славутич"
+msgstr ""
+
+# Objects : [n3126163601]
+# name:be: []
+msgid "Солнышко"
+msgstr ""
+
+# Objects : [n2689484974]
+# name:be: []
+msgid "Спорттовары"
+msgstr ""
+
+# Objects : [n2689538412]
+# name:be: []
+msgid "Стиль+"
+msgstr ""
+
+# Objects : [n3126163602]
+# name:be: []
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n2741640538]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [n306064502]
+# name:be: []
+msgid "Товары Для Дома"
+msgstr ""
+
+# Objects : [n2678335310]
+# name:be: []
+msgid "Третий"
+msgstr ""
+
+# Objects : [n306064500]
+# name:be: []
+msgid "Универсам Центральный"
+msgstr ""
+
+# Objects : [n2744090224]
+# name:be: []
+msgid "Царское Золото"
+msgstr ""
+
+# Objects : [n2744093301]
+# name:be: []
+msgid "Цифра"
+msgstr ""
+
+# Objects : [n2744093303]
+# name:be: []
+msgid "Цифровик"
+msgstr ""
+
+# Objects : [n2678336888]
+# name:be: []
+msgid "Чаровница"
+msgstr ""
+
+# Objects : [n306064342]
+# name:be: []
+msgid "Эконом"
+msgstr ""
+
+# Objects : [n2744192518]
+# name:be: []
+msgid "Элис"
+msgstr ""
+
+# Objects : [n2671043406]
+# name:be: []
+msgid "Элита"
+msgstr ""
+
+# Objects : [n306064318, n306064482]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+

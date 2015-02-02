@@ -1,0 +1,85 @@
+# Objects : [w130532066]
+# name:be: []
+msgid "Костел Благовещенский"
+msgstr ""
+
+# Objects : [n1372207330]
+# name:be: []
+msgid "Костел Богоматери Руженцовой и св. Доминика"
+msgstr ""
+
+# Objects : [n1374775086]
+# name:be: []
+msgid "Костел св. Юрия"
+msgstr ""
+
+# Objects : [w91916811]
+# name:be: [Касцёл Святой Ганны]
+msgid "Костел Святой Анны"
+msgstr ""
+
+# Objects : [n1376711488]
+# name:be: []
+msgid "Церковь Благовещенская"
+msgstr ""
+
+# Objects : [n1374698877]
+# name:be: []
+msgid "Церковь Вознесенская"
+msgstr ""
+
+# Objects : [n1374626909]
+# name:be: []
+msgid "Церковь св. Александра Невского"
+msgstr ""
+
+# Objects : [n1376545086]
+# name:be: []
+msgid "Церковь св. Георгия"
+msgstr ""
+
+# Objects : [w130532068]
+# name:be: []
+msgid "Церковь св. Козьмы и Демьяна"
+msgstr ""
+
+# Objects : [n1374699631, n1376713266]
+# name:be: []
+msgid "Церковь св. Николая"
+msgstr ""
+
+# Objects : [n2788680494]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Церковь Святого пророка Илии"
+msgstr ""
+
+# Objects : [n1372203764]
+# name:be: [Царква Праабражэньня Гасподняга]
+msgid "Церковь Спасо-Преображенская"
+msgstr ""
+
+# Objects : [n1559039857]
+# name:be: []
+msgid "Церковь старообрядческая Успенская (дерев.)"
+msgstr ""
+
+# Objects : [n1374692608]
+# name:be: []
+msgid "Церковь Троицкая (дерев.)"
+msgstr ""
+
+# Objects : [w170822346]
+# name:be: []
+msgid "Часовня правосл."
+msgstr ""
+
+# Objects : [n1372202927]
+# name:be: [Капліца св. Ганны]
+msgid "Часовня св. Анны"
+msgstr ""
+
+# Objects : [n1374699864]
+# name:be: []
+msgid "Часовня-усыпальница Жабровских"
+msgstr ""
+

@@ -1,0 +1,100 @@
+# Objects : [w125812490, w53265092, w53574178]
+# name:be: [Верхняя вуліца]
+msgid "Верхняя улица"
+msgstr ""
+
+# Objects : [w296564186]
+# name:be: []
+msgid "Весенняя улица"
+msgstr ""
+
+# Objects : [w307778854]
+# name:be: []
+msgid "Дивная улица"
+msgstr ""
+
+# Objects : [w261058417]
+# name:be: []
+msgid "до ГРС"
+msgstr ""
+
+# Objects : [w53228760]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w307775084]
+# name:be: []
+msgid "Молодежная улица"
+msgstr ""
+
+# Objects : [w53228732]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w307775358, w53865277]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w53228767]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w53228702]
+# name:be: [Садовы завулак]
+msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w97115170]
+# name:be: []
+msgid "Соборная улица"
+msgstr ""
+
+# Objects : [w83514659]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w53265097]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w53265096]
+# name:be: [Сонечны завулак]
+msgid "Солнечный переулок"
+msgstr ""
+
+# Objects : [w53265095]
+# name:be: []
+msgid "улица Анны Король"
+msgstr ""
+
+# Objects : [w104664487]
+# name:be: []
+msgid "улица Новая"
+msgstr ""
+
+# Objects : [w112710663]
+# name:be: []
+msgid "улица Пограничников"
+msgstr ""
+
+# Objects : [w215897414, w53265100]
+# name:be: [вуліца Танкістаў]
+msgid "улица Танкистов"
+msgstr ""
+
+# Objects : [w215631897, w37853900]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w307773447]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+

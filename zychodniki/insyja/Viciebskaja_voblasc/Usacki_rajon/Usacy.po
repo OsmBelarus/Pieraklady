@@ -1,0 +1,55 @@
+# Objects : [n1366737565]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n1367768291]
+# name:be: [Гасцініца]
+msgid "Гостиница"
+msgstr ""
+
+# Objects : [n1892861730]
+# name:be: []
+msgid "Ирина"
+msgstr ""
+
+# Objects : [n2788681422]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681988]
+# name:be: [Касцёл Святога Лаўрэнція]
+msgid "Костел Святого Лаврентия"
+msgstr ""
+
+# Objects : [w298482644]
+# name:be: []
+msgid "лесхоз"
+msgstr ""
+
+# Objects : [n1366748820]
+# name:be: []
+msgid "Музей"
+msgstr ""
+
+# Objects : [n1379400422]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [n1379400421]
+# name:be: []
+msgid "Отдел РОВД"
+msgstr ""
+
+# Objects : [w157529840]
+# name:be: []
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1379402038, n1379402039]
+# name:be: [Фантан]
+msgid "Фонтан"
+msgstr ""
+

@@ -1,0 +1,155 @@
+# Objects : [w215061369]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w242006779]
+# name:be: []
+msgid "Весовая"
+msgstr ""
+
+# Objects : [w231825240]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w215055690]
+# name:be: []
+msgid "Дом офицеров"
+msgstr ""
+
+# Objects : [w270804497]
+# name:be: []
+msgid "Завод Полимерной упаковки"
+msgstr ""
+
+# Objects : [w200218175]
+# name:be: []
+msgid "Здание РАЙПО"
+msgstr ""
+
+# Objects : [w305856971]
+# name:be: []
+msgid "Инспекция охраны природы"
+msgstr ""
+
+# Objects : [w214774520]
+# name:be: []
+msgid "Кафе "Адмирал""
+msgstr ""
+
+# Objects : [w243050336]
+# name:be: []
+msgid "Кафе "Замок Сапеги""
+msgstr ""
+
+# Objects : [w242561712]
+# name:be: []
+msgid "Колбасный цех. Райпо"
+msgstr ""
+
+# Objects : [w200216622]
+# name:be: []
+msgid "Комбинат Надомного труда"
+msgstr ""
+
+# Objects : [w200216609, w200216626, w207701058]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w242561716]
+# name:be: []
+msgid "Контора Сельпо"
+msgstr ""
+
+# Objects : [w250075868]
+# name:be: []
+msgid "Котельная Молокозавод"
+msgstr ""
+
+# Objects : [w200216630]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w200216606, w200216624, w200218162, w206648272, w209301503, w210957325, w213834934, w214557166, w214725518, w215078846]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w215055673]
+# name:be: []
+msgid "Магазин "Альянс""
+msgstr ""
+
+# Objects : [w214585790, w243050337]
+# name:be: []
+msgid "Магазин "Родны кут""
+msgstr ""
+
+# Objects : [w209301505]
+# name:be: []
+msgid "Музыкальная Школа"
+msgstr ""
+
+# Objects : [w200216610]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w169306775, w169306802]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w210779366]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w269798316, w269798317, w269798318, w269798319, w269798320]
+# name:be: []
+msgid "Птичник"
+msgstr ""
+
+# Objects : [w205485253]
+# name:be: []
+msgid "РУЭС"
+msgstr ""
+
+# Objects : [w169306772]
+# name:be: []
+msgid "САНЭПИДЕМСТАНЦИЯ"
+msgstr ""
+
+# Objects : [w231825242, w231825243]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w215055652]
+# name:be: []
+msgid "СЗАО "Белатмит""
+msgstr ""
+
+# Objects : [w215055670]
+# name:be: []
+msgid "Спортивный комплекс"
+msgstr ""
+
+# Objects : [w213052322]
+# name:be: []
+msgid "Турбаза"
+msgstr ""
+
+# Objects : [w210166354]
+# name:be: []
+msgid "Управление Статистики"
+msgstr ""
+
+# Objects : [w244389774]
+# name:be: []
+msgid "Филиал Быховский район газоснабжения ПРУП "Могилевоблгаз""
+msgstr ""
+

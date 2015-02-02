@@ -1,0 +1,110 @@
+# Objects : [w215190254]
+# name:be: []
+msgid "АБЗ ДРСУ-196"
+msgstr ""
+
+# Objects : [n243042554]
+# name:be: []
+msgid "Александров"
+msgstr ""
+
+# Objects : [n306068694]
+# name:be: [Барсукі]
+msgid "Барсуки"
+msgstr ""
+
+# Objects : [n2788680336]
+# name:be: [Палацава-паркавы комплекс]
+msgid "Дворцово-парковый комплекс"
+msgstr ""
+
+# Objects : [w284184896]
+# name:be: []
+msgid "Днепровское торфопредприятие"
+msgstr ""
+
+# Objects : [w25189456]
+# name:be: []
+msgid "Друт"
+msgstr ""
+
+# Objects : [w25194907]
+# name:be: []
+msgid "Друть"
+msgstr ""
+
+# Objects : [w25189854]
+# name:be: []
+msgid "Лахва"
+msgstr ""
+
+# Objects : [n306068683]
+# name:be: [Лудчыцы]
+msgid "Лудчицы"
+msgstr ""
+
+# Objects : [n243042520, w25084733]
+# name:be: []
+msgid "Ляженка"
+msgstr ""
+
+# Objects : [r3369040]
+# name:be: []
+msgid "Молодежная Улица"
+msgstr ""
+
+# Objects : [w25193422]
+# name:be: []
+msgid "Постовня"
+msgstr ""
+
+# Objects : [n2766728208]
+# name:be: []
+msgid "Проточное"
+msgstr ""
+
+# Objects : [w270529637, w270529638, w270529639]
+# name:be: []
+msgid "Птичник "Серволюкс""
+msgstr ""
+
+# Objects : [w267027713]
+# name:be: []
+msgid "Святовознесенский Женский Монастырь"
+msgstr ""
+
+# Objects : [w217419204]
+# name:be: []
+msgid "Следюковское кладбище"
+msgstr ""
+
+# Objects : [n306068656]
+# name:be: [Тошчыца]
+msgid "Тощица"
+msgstr ""
+
+# Objects : [w169303314, w284184901, w284184905, w284184909, w284184915, w284184917, w284184918, w284184919, w284184920, w284185589, w284185870, w284186002, w284186003, w284186004]
+# name:be: []
+msgid "УЖД Днепровского торфопредприятия"
+msgstr ""
+
+# Objects : [w259874224]
+# name:be: []
+msgid "Фельдшерский пункт"
+msgstr ""
+
+# Objects : [n2788685171]
+# name:be: [Фальварак Фрэймаркаў]
+msgid "Фольварк Фрэймаркав"
+msgstr ""
+
+# Objects : [n2788685513]
+# name:be: [Царква Маці Божай Казанскай]
+msgid "Церковь Божией Матери Казанской"
+msgstr ""
+
+# Objects : [r538654]
+# name:be: []
+msgid "Чигиринское"
+msgstr ""
+

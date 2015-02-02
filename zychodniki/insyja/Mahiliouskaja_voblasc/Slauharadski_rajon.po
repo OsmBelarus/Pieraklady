@@ -1,0 +1,280 @@
+# Objects : [w236818205, w236818206]
+# name:be: []
+msgid "абз"
+msgstr ""
+
+# Objects : [n243042570]
+# name:be: []
+msgid "Бахань"
+msgstr ""
+
+# Objects : [w205584034]
+# name:be: []
+msgid "Бистро"
+msgstr ""
+
+# Objects : [w240347927]
+# name:be: []
+msgid "бор"
+msgstr ""
+
+# Objects : [n272340257]
+# name:be: []
+msgid "Голубая криница"
+msgstr ""
+
+# Objects : [n243042573]
+# name:be: []
+msgid "Добрый Дуб"
+msgstr ""
+
+# Objects : [n243046110]
+# name:be: [Дубраўка]
+msgid "Дубровка"
+msgstr ""
+
+# Objects : [n243046106]
+# name:be: []
+msgid "Жерелы"
+msgstr ""
+
+# Objects : [n243046095]
+# name:be: []
+msgid "Заполянье"
+msgstr ""
+
+# Objects : [w205587039]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w233610918]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w234417433]
+# name:be: []
+msgid "клуб"
+msgstr ""
+
+# Objects : [n3013894515, n3023814975, n3031649804, n3040711377]
+# name:be: []
+msgid "колонка"
+msgstr ""
+
+# Objects : [n2572656739]
+# name:be: []
+msgid "красный восход"
+msgstr ""
+
+# Objects : [n243042548]
+# name:be: []
+msgid "Куликовка 1"
+msgstr ""
+
+# Objects : [n243042551]
+# name:be: []
+msgid "Куликовка 2"
+msgstr ""
+
+# Objects : [w25194721]
+# name:be: []
+msgid "Кульшическое"
+msgstr ""
+
+# Objects : [n243046102]
+# name:be: []
+msgid "Курганье"
+msgstr ""
+
+# Objects : [r3368521]
+# name:be: []
+msgid "Лесная Улица"
+msgstr ""
+
+# Objects : [n243042566]
+# name:be: []
+msgid "Липник"
+msgstr ""
+
+# Objects : [w205038939]
+# name:be: []
+msgid "Лопатичское лесничество"
+msgstr ""
+
+# Objects : [r3368688]
+# name:be: []
+msgid "Луговая Улица"
+msgstr ""
+
+# Objects : [w233484899]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w205035425]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w241110957]
+# name:be: []
+msgid "мех двор"
+msgstr ""
+
+# Objects : [r3369040]
+# name:be: []
+msgid "Молодежная Улица"
+msgstr ""
+
+# Objects : [n1657216393]
+# name:be: [Масцішча]
+msgid "Мостище"
+msgstr ""
+
+# Objects : [w240364002]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [w236818207, w236818208, w236818209, w236818210, w236818211]
+# name:be: []
+msgid "мхп Октябрь"
+msgstr ""
+
+# Objects : [n2788684062]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n243046103]
+# name:be: []
+msgid "Пчельня"
+msgstr ""
+
+# Objects : [w235422327, w235590414, w235590415, w235599835]
+# name:be: []
+msgid "редколесье"
+msgstr ""
+
+# Objects : [n243046097]
+# name:be: [Рабінаўка]
+msgid "Рябиновка"
+msgstr ""
+
+# Objects : [r3368557]
+# name:be: []
+msgid "Садовая Улица"
+msgstr ""
+
+# Objects : [w239042343]
+# name:be: []
+msgid "свенск комплекс"
+msgstr ""
+
+# Objects : [w25195023]
+# name:be: [Святое]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w205584037]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
+# Objects : [n243046098]
+# name:be: []
+msgid "Серковка"
+msgstr ""
+
+# Objects : [w231913185]
+# name:be: []
+msgid "слабодская"
+msgstr ""
+
+# Objects : [n243042547]
+# name:be: []
+msgid "Смолигов"
+msgstr ""
+
+# Objects : [r3369041]
+# name:be: []
+msgid "Советская Улица"
+msgstr ""
+
+# Objects : [w25189632, w25191929]
+# name:be: []
+msgid "Сож"
+msgstr ""
+
+# Objects : [w204344942, w204357804]
+# name:be: []
+msgid "СПК "Железинский""
+msgstr ""
+
+# Objects : [w205587041]
+# name:be: []
+msgid "СПК "Зарянский""
+msgstr ""
+
+# Objects : [w205042617]
+# name:be: []
+msgid "СПК "Лесная""
+msgstr ""
+
+# Objects : [w205057903]
+# name:be: []
+msgid "СПК "Ректянский""
+msgstr ""
+
+# Objects : [w240364004]
+# name:be: []
+msgid "ТОРФЯННИК"
+msgstr ""
+
+# Objects : [w25191178]
+# name:be: []
+msgid "Тросливка"
+msgstr ""
+
+# Objects : [w284186000, w284186001, w284186002, w284186004]
+# name:be: []
+msgid "УЖД Днепровского торфопредприятия"
+msgstr ""
+
+# Objects : [w204345433, w205038082]
+# name:be: []
+msgid "фап"
+msgstr ""
+
+# Objects : [w205050800]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w205589359]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+
+# Objects : [w240346461]
+# name:be: []
+msgid "фруктовый сад"
+msgstr ""
+
+# Objects : [n2788687662]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [w25196555]
+# name:be: []
+msgid "Чисти"
+msgstr ""
+
+# Objects : [r3368725]
+# name:be: []
+msgid "Школьная Улица"
+msgstr ""
+

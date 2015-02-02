@@ -1,0 +1,70 @@
+# Objects : [n1700970326]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n1700870221]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [n1696225112]
+# name:be: []
+msgid "Воин-освободитель"
+msgstr ""
+
+# Objects : [n1700976658]
+# name:be: []
+msgid "Геодезическая вышка"
+msgstr ""
+
+# Objects : [n1700870245]
+# name:be: []
+msgid "Дом перестарелых"
+msgstr ""
+
+# Objects : [w157853047]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w157425482]
+# name:be: []
+msgid "Машинный двор"
+msgstr ""
+
+# Objects : [n1697312666]
+# name:be: []
+msgid "Пожарый пост"
+msgstr ""
+
+# Objects : [w157407458]
+# name:be: []
+msgid "Предприятие"Нива""
+msgstr ""
+
+# Objects : [n1700870314]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w157407462]
+# name:be: []
+msgid "Спиртзавод"
+msgstr ""
+
+# Objects : [n1700976659]
+# name:be: []
+msgid "Уречское лесничество"
+msgstr ""
+
+# Objects : [n306063602, n306063624]
+# name:be: [Урэчча]
+msgid "Уречье"
+msgstr ""
+
+# Objects : [w157407463, w157425484]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+

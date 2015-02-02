@@ -1,0 +1,120 @@
+# Objects : [w25183301, w25186038, w25195747]
+# name:be: []
+msgid "Безымянное"
+msgstr ""
+
+# Objects : [w176492110]
+# name:be: []
+msgid "Берёзовка"
+msgstr ""
+
+# Objects : [n2788680194]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [n1446863970]
+# name:be: [Гасцініца Александрыя]
+msgid "Гостиница Александрия"
+msgstr ""
+
+# Objects : [n2788681390]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n3312011581]
+# name:be: [Копысь]
+msgid "Копысь"
+msgstr ""
+
+# Objects : [n2788682387]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [n3257549367]
+# name:be: [Латва]
+msgid "Лотва"
+msgstr ""
+
+# Objects : [n2788682542]
+# name:be: [Мемарыяльная калона]
+msgid "Мемориальная колонна"
+msgstr ""
+
+# Objects : [w274735370]
+# name:be: []
+msgid "нефтепровод"
+msgstr ""
+
+# Objects : [r1485364]
+# name:be: []
+msgid "ОАО Александрийское"
+msgstr ""
+
+# Objects : [n2788683604]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788684181, n2788684187]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n306068731]
+# name:be: [Рыжкавічы]
+msgid "Рыжковичи"
+msgstr ""
+
+# Objects : [w25194280]
+# name:be: [Святое]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w242683044]
+# name:be: []
+msgid "Силосная яма"
+msgstr ""
+
+# Objects : [r1485367]
+# name:be: []
+msgid "Телятники"
+msgstr ""
+
+# Objects : [n2788684561]
+# name:be: [Сядзібна-паркавы комплекс Турбіных]
+msgid "Усадебно-парковый комплекс Турбиных"
+msgstr ""
+
+# Objects : [n2788687369, n2788687370]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686060]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686092]
+# name:be: [Царква Праабражэння Гасподняга (руіны)]
+msgid "Церковь Преображения Господня (руины)"
+msgstr ""
+
+# Objects : [n2788687526]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2788687454]
+# name:be: [Капліца Святых Барыса і Глеба]
+msgid "Часовня Святых Бориса и Глеба"
+msgstr ""
+
+# Objects : [w100036034, w100045131]
+# name:be: []
+msgid "Яблоки"
+msgstr ""
+

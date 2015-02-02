@@ -1,0 +1,125 @@
+# Objects : [w25235591]
+# name:be: [2-і Заводскі завулак]
+msgid "2-й Заводской переулок"
+msgstr ""
+
+# Objects : [w42792845, w42792851]
+# name:be: [2-і Рошчынскі завулак]
+msgid "2-й Рощинский переулок"
+msgstr ""
+
+# Objects : [w25235615]
+# name:be: [8-я Іншагародняя вуліца]
+msgid "8-я Иногородняя улица"
+msgstr ""
+
+# Objects : [w321628833]
+# name:be: []
+msgid "Канава 1"
+msgstr ""
+
+# Objects : [w321630787]
+# name:be: []
+msgid "Канава 2"
+msgstr ""
+
+# Objects : [w321630786]
+# name:be: []
+msgid "Канава 3"
+msgstr ""
+
+# Objects : [w62810440]
+# name:be: []
+msgid "МЖК Солнечный"
+msgstr ""
+
+# Objects : [w25236310]
+# name:be: [Маладагвардзейскі завулак]
+msgid "Молодогвардейский переулок"
+msgstr ""
+
+# Objects : [w283127805]
+# name:be: []
+msgid "Октябрьский проезд"
+msgstr ""
+
+# Objects : [w260461978]
+# name:be: [завулак Вялесавай]
+msgid "переулок Велесовой"
+msgstr ""
+
+# Objects : [w321630791]
+# name:be: []
+msgid "Плановый 1"
+msgstr ""
+
+# Objects : [w321630790]
+# name:be: []
+msgid "Плановый 2"
+msgstr ""
+
+# Objects : [w98876983]
+# name:be: []
+msgid "площадь Плеханова"
+msgstr ""
+
+# Objects : [w321630789]
+# name:be: []
+msgid "РП 1"
+msgstr ""
+
+# Objects : [w321630788]
+# name:be: []
+msgid "РП2"
+msgstr ""
+
+# Objects : [w260461979]
+# name:be: [Рудны завулак]
+msgid "Рудный переулок"
+msgstr ""
+
+# Objects : [w141507160]
+# name:be: [Тэкстыльная вуліца]
+msgid "Текстильная улица"
+msgstr ""
+
+# Objects : [w242185384]
+# name:be: [вуліца Багдана Хмяльніцкага]
+msgid "улица Богдана Хмельницкого"
+msgstr ""
+
+# Objects : [w44174185]
+# name:be: [вуліца Карповіча]
+msgid "улица Карповича"
+msgstr ""
+
+# Objects : [w313344442, w91885117]
+# name:be: []
+msgid "улица Песина"
+msgstr ""
+
+# Objects : [w25235301]
+# name:be: [вуліца Цімафеенкі]
+msgid "улица Тимофеенко"
+msgstr ""
+
+# Objects : [w245661066]
+# name:be: []
+msgid "улица Черняховского"
+msgstr ""
+
+# Objects : [w283127808]
+# name:be: []
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w25236102]
+# name:be: [вуліца Шаўчэнкі]
+msgid "улица Шевченко"
+msgstr ""
+
+# Objects : [w260461981]
+# name:be: [Харашанскі завулак]
+msgid "Хорошанский переулок"
+msgstr ""
+

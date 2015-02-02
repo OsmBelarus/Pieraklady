@@ -1,0 +1,135 @@
+# Objects : [w231836357]
+# name:be: []
+msgid "Агросервис"
+msgstr ""
+
+# Objects : [n2385249705]
+# name:be: []
+msgid "Бар "Рандеву""
+msgstr ""
+
+# Objects : [w236406742]
+# name:be: []
+msgid "Вещевой рынок"
+msgstr ""
+
+# Objects : [w236405913]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [n2444386335]
+# name:be: []
+msgid "Гостиница "Уют""
+msgstr ""
+
+# Objects : [n2766736713]
+# name:be: []
+msgid "Гостиница Уют"
+msgstr ""
+
+# Objects : [n2766736719]
+# name:be: []
+msgid "Гостиница Чашники"
+msgstr ""
+
+# Objects : [w236404479]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w188340222]
+# name:be: []
+msgid "ИП Гончаренко м-н "Новосел""
+msgstr ""
+
+# Objects : [w319544435]
+# name:be: []
+msgid "ИП Гончаренко м-н "Смак""
+msgstr ""
+
+# Objects : [n2385258229]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w165593077]
+# name:be: []
+msgid "КУПП "Полоцкий винодельческий завод" филиал "Чашникский спиртзавод""
+msgstr ""
+
+# Objects : [n914479835]
+# name:be: [Мемарыя вызваліцелям горада]
+msgid "Мемориал освободителям города"
+msgstr ""
+
+# Objects : [w165593078]
+# name:be: []
+msgid "ОАО "Светлогорский ЦКК" филиал "Бумажная фабрика Красная Звезда""
+msgstr ""
+
+# Objects : [w188301369]
+# name:be: []
+msgid "ОАО ПМК-26"
+msgstr ""
+
+# Objects : [n2385249713]
+# name:be: []
+msgid "Пиццерия"
+msgstr ""
+
+# Objects : [w176352306]
+# name:be: []
+msgid "рынок"
+msgstr ""
+
+# Objects : [w231836358]
+# name:be: []
+msgid "Северо-западный завод"
+msgstr ""
+
+# Objects : [w176340292]
+# name:be: []
+msgid "Стадион СШ№4"
+msgstr ""
+
+# Objects : [w165593079]
+# name:be: []
+msgid "УП "ЖКХ" котельня №1"
+msgstr ""
+
+# Objects : [w165593081]
+# name:be: []
+msgid "УП "ЖКХ" котельня №3"
+msgstr ""
+
+# Objects : [n2788686155]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n913381599]
+# name:be: [Чашніцкая раённая бальніца]
+msgid "Чашникская районная больница"
+msgstr ""
+
+# Objects : [n914654778]
+# name:be: [Чашніцкі райвыканкам]
+msgid "Чашникский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [w231836359]
+# name:be: []
+msgid "Чашникский район Полоцких электросетей"
+msgstr ""
+
+# Objects : [w231835106]
+# name:be: []
+msgid "Чашникский РИК"
+msgstr ""
+
+# Objects : [w165593082]
+# name:be: []
+msgid "ЧУП "Чашникская межрайонная база""
+msgstr ""
+

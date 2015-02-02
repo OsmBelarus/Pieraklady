@@ -1,0 +1,95 @@
+# Objects : [w84201988]
+# name:be: []
+msgid "Валевачи-Станево"
+msgstr ""
+
+# Objects : [w114313488]
+# name:be: []
+msgid "Вишневая улица"
+msgstr ""
+
+# Objects : [w72454361]
+# name:be: []
+msgid "Домовицк-Межница"
+msgstr ""
+
+# Objects : [w25267842, w25267886]
+# name:be: []
+msgid "Заполье-Одынь"
+msgstr ""
+
+# Objects : [n2881051416, n3100843064]
+# name:be: []
+msgid "Место для отдыха"
+msgstr ""
+
+# Objects : [w85709745]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w75110559]
+# name:be: []
+msgid "Погулянка-Гребенка-Згурск"
+msgstr ""
+
+# Objects : [w128786648, w155013567, w155013568]
+# name:be: []
+msgid "Подземный Переход"
+msgstr ""
+
+# Objects : [w67074561]
+# name:be: []
+msgid "Подлесная"
+msgstr ""
+
+# Objects : [w87198745]
+# name:be: []
+msgid "Почтовая улица"
+msgstr ""
+
+# Objects : [w74982172, w82531039]
+# name:be: []
+msgid "Репище-Новозерье-Осовский Бор"
+msgstr ""
+
+# Objects : [w90676511]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w157905454]
+# name:be: []
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w169195952]
+# name:be: [вуліца Маякоўскага]
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [w103307420]
+# name:be: []
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w128780253, w158209451, w26598112, w26598113, w68340020, w70025159]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w127472117, w75120985]
+# name:be: []
+msgid "Чесловое-Городище-Турец"
+msgstr ""
+
+# Objects : [w127472118, w74773022]
+# name:be: []
+msgid "Язовки-Великополье-Березовка"
+msgstr ""
+
+# Objects : [w26598119]
+# name:be: []
+msgid "Ялча-Слобода-Запасение"
+msgstr ""
+

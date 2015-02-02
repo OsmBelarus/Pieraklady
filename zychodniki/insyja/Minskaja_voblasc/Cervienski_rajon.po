@@ -1,0 +1,245 @@
+# Objects : [n1701369074]
+# name:be: []
+msgid "101"
+msgstr ""
+
+# Objects : [n2504003232]
+# name:be: []
+msgid "Evviva ADK kennel"
+msgstr ""
+
+# Objects : [n2952202116]
+# name:be: []
+msgid "База отдыха "Теремок""
+msgstr ""
+
+# Objects : [n2881051415, n2989474511]
+# name:be: []
+msgid "Беседка"
+msgstr ""
+
+# Objects : [n2598698143]
+# name:be: []
+msgid "Беседка для пикника"
+msgstr ""
+
+# Objects : [n2788679977, n2788679978]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n1717508175]
+# name:be: []
+msgid "Газовый пункт"
+msgstr ""
+
+# Objects : [w84542405]
+# name:be: []
+msgid "Галое"
+msgstr ""
+
+# Objects : [n883214389, n883214591, n883311753, n886465754, n886678899]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w110440504]
+# name:be: [Дачы]
+msgid "Дачи"
+msgstr ""
+
+# Objects : [n306063773]
+# name:be: [Палацава-паркавы комплекс Слацьвінскіх]
+msgid "Дворцово-парковый комплекс Слацьвинских"
+msgstr ""
+
+# Objects : [w25194507]
+# name:be: []
+msgid "Дикое"
+msgstr ""
+
+# Objects : [w74728358]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w115064556, w71101930, w72538370, w73240974, w74728314, w74728353, w74728359, w74728371, w74728381, w74728384, w74760924, w74760929, w74760935, w74760939, w74760940, w74760941, w74760943, w74760946, w74760959, w74765735, w74765797]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2788681519]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n1259110543, n848892389]
+# name:be: []
+msgid "Колодец"
+msgstr ""
+
+# Objects : [n882639066, n883214790, n883402992, n885389363, n886287558, n886465234, n886465293]
+# name:be: [Курган]
+msgid "Курган"
+msgstr ""
+
+# Objects : [w116373632]
+# name:be: [Лясны]
+msgid "Лесной"
+msgstr ""
+
+# Objects : [w25193811]
+# name:be: [Лукава]
+msgid "Луково"
+msgstr ""
+
+# Objects : [w116735135]
+# name:be: []
+msgid "Машинный двор"
+msgstr ""
+
+# Objects : [n886465399]
+# name:be: []
+msgid "Мемориальный комплекс партизанской бригады "Разгром""
+msgstr ""
+
+# Objects : [n2598698149]
+# name:be: []
+msgid "Место для пикника"
+msgstr ""
+
+# Objects : [n1014760668]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w168447860]
+# name:be: []
+msgid "Молокозавод"
+msgstr ""
+
+# Objects : [w198653232, w25108007]
+# name:be: []
+msgid "Нефтебитумный завод"
+msgstr ""
+
+# Objects : [n2703753755]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [n882638625, n882639206, n882639544, n882639711, n882639902, n882639961, n883214414, n883214624, n883214665, n883214929, n883215000, n883215091, n883215245, n883312122, n885389519, n885426676, n885426723, n886287615, n886287673, n886464404, n886465003, n886465246, n886465889, n886465953, n886466094, n886466571, n886467475, n886467742, n886665172, n886665564, n886665975, n886666108, n886666147, n886673128, n888814294]
+# name:be: []
+msgid "Памятник"
+msgstr ""
+
+# Objects : [n840702819]
+# name:be: []
+msgid "Памятник жертвам репрессий"
+msgstr ""
+
+# Objects : [w314283911]
+# name:be: []
+msgid "Памятник погибшим в Великой Отечественной войне"
+msgstr ""
+
+# Objects : [n817798561]
+# name:be: []
+msgid "Памятник расстреляным жителям"
+msgstr ""
+
+# Objects : [n1404747406, n1710402961]
+# name:be: []
+msgid "Памятник репрессированым"
+msgstr ""
+
+# Objects : [w25195199]
+# name:be: []
+msgid "Песочное"
+msgstr ""
+
+# Objects : [n817798560]
+# name:be: []
+msgid "Погибшим заключенным"
+msgstr ""
+
+# Objects : [n1014907240]
+# name:be: []
+msgid "Пожарное депо"
+msgstr ""
+
+# Objects : [n882639445]
+# name:be: []
+msgid "Попова гряда"
+msgstr ""
+
+# Objects : [n2598698154]
+# name:be: []
+msgid "придорожная торговля"
+msgstr ""
+
+# Objects : [n2788684155]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2788683626]
+# name:be: [Прысядзібны парк (рэшткі)]
+msgid "Приусадебный парк (остатки)"
+msgstr ""
+
+# Objects : [n306063761]
+# name:be: []
+msgid "Руины Усадьбы"
+msgstr ""
+
+# Objects : [n2766722487, w75119667]
+# name:be: []
+msgid "Санаторий Волма"
+msgstr ""
+
+# Objects : [w315291183, w73240970]
+# name:be: []
+msgid "Свалка"
+msgstr ""
+
+# Objects : [n991906395, n993720472]
+# name:be: [Сельсавет]
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w310531038]
+# name:be: []
+msgid "склад ЗАО «МЗБН»"
+msgstr ""
+
+# Objects : [n2290502994]
+# name:be: []
+msgid "Сожженной деревне Буда"
+msgstr ""
+
+# Objects : [w25111101]
+# name:be: []
+msgid "Торфопредприятие"
+msgstr ""
+
+# Objects : [w129757547]
+# name:be: [ВВК]
+msgid "УПК"
+msgstr ""
+
+# Objects : [n2935441906]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [n2788687517]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [w306646411]
+# name:be: []
+msgid "Яблоки"
+msgstr ""
+

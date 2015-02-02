@@ -1,0 +1,385 @@
+# Objects : [w121533056]
+# name:be: []
+msgid "11"
+msgstr ""
+
+# Objects : [w121533059]
+# name:be: []
+msgid "13"
+msgstr ""
+
+# Objects : [w121533064]
+# name:be: []
+msgid "15"
+msgstr ""
+
+# Objects : [w98747813]
+# name:be: []
+msgid "1 Корпус"
+msgstr ""
+
+# Objects : [w98754906]
+# name:be: []
+msgid "1 Коттедж"
+msgstr ""
+
+# Objects : [w98747757]
+# name:be: []
+msgid "2 Корпус"
+msgstr ""
+
+# Objects : [w98756088]
+# name:be: []
+msgid "2 Коттедж"
+msgstr ""
+
+# Objects : [w98747606]
+# name:be: []
+msgid "3 Корпус"
+msgstr ""
+
+# Objects : [w98756097]
+# name:be: []
+msgid "3 Коттедж"
+msgstr ""
+
+# Objects : [w98752379]
+# name:be: []
+msgid "4 Корпус"
+msgstr ""
+
+# Objects : [w98756092]
+# name:be: []
+msgid "4 Коттедж"
+msgstr ""
+
+# Objects : [w121533080]
+# name:be: []
+msgid "5"
+msgstr ""
+
+# Objects : [w98752625]
+# name:be: []
+msgid "5 Корпус"
+msgstr ""
+
+# Objects : [w98756099]
+# name:be: []
+msgid "5 Коттедж"
+msgstr ""
+
+# Objects : [w98753274]
+# name:be: []
+msgid "6 Корпус"
+msgstr ""
+
+# Objects : [w98754909]
+# name:be: []
+msgid "6 Коттедж"
+msgstr ""
+
+# Objects : [w121533078]
+# name:be: []
+msgid "7"
+msgstr ""
+
+# Objects : [w98753631]
+# name:be: []
+msgid "7 Корпус"
+msgstr ""
+
+# Objects : [w98754911]
+# name:be: []
+msgid "7 Коттедж"
+msgstr ""
+
+# Objects : [w98753914]
+# name:be: []
+msgid "8 Корпус"
+msgstr ""
+
+# Objects : [w121533053]
+# name:be: []
+msgid "9"
+msgstr ""
+
+# Objects : [w98754353]
+# name:be: []
+msgid "9 Коттедж"
+msgstr ""
+
+# Objects : [w98747185]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [w266840346]
+# name:be: []
+msgid "амбулатория"
+msgstr ""
+
+# Objects : [w260456246]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [w315848964]
+# name:be: []
+msgid "ангар"
+msgstr ""
+
+# Objects : [w306796176]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w266077899]
+# name:be: []
+msgid "БПК"
+msgstr ""
+
+# Objects : [w69138630]
+# name:be: []
+msgid "бывший мотоклуб"
+msgstr ""
+
+# Objects : [w69139589]
+# name:be: []
+msgid "Водозабор"
+msgstr ""
+
+# Objects : [w260580117]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w201908974]
+# name:be: []
+msgid "Волпянская ГЭС"
+msgstr ""
+
+# Objects : [w266077900]
+# name:be: []
+msgid "ГРП№28"
+msgstr ""
+
+# Objects : [w306804298]
+# name:be: []
+msgid "ГРП№40"
+msgstr ""
+
+# Objects : [w306657047]
+# name:be: []
+msgid "ГРП№56"
+msgstr ""
+
+# Objects : [w306791720]
+# name:be: []
+msgid "ГРП№69"
+msgstr ""
+
+# Objects : [w266077901]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w196111941]
+# name:be: []
+msgid "ДРСУ №188"
+msgstr ""
+
+# Objects : [w196111942]
+# name:be: []
+msgid "ДСУ №30"
+msgstr ""
+
+# Objects : [w306834310]
+# name:be: []
+msgid "Зерносушильный комплекс"
+msgstr ""
+
+# Objects : [w266077902]
+# name:be: []
+msgid "Зничка"
+msgstr ""
+
+# Objects : [w260319733]
+# name:be: []
+msgid "кафе-бар "Елена""
+msgstr ""
+
+# Objects : [w264872917]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w266840341, w266840342, w306799608, w307103159]
+# name:be: []
+msgid "КЗС 30"
+msgstr ""
+
+# Objects : [w309187180]
+# name:be: []
+msgid "КЗС№30"
+msgstr ""
+
+# Objects : [w306977581]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w306657091, w309042657]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w306830623, w306987162]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w266840343, w267046016]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w98754915, w98756096]
+# name:be: []
+msgid "Коттедж"
+msgstr ""
+
+# Objects : [w98747388]
+# name:be: []
+msgid "Лечебный корпус"
+msgstr ""
+
+# Objects : [w310021802, w310021803, w310021804, w310024242, w310024243, w310068566, w310071267]
+# name:be: []
+msgid "лк"
+msgstr ""
+
+# Objects : [w267046018]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w264872929, w266077903]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w260580145]
+# name:be: []
+msgid "Насосная станция"
+msgstr ""
+
+# Objects : [w266077906]
+# name:be: []
+msgid "Почта/Библиотека/Клуб"
+msgstr ""
+
+# Objects : [w53764645]
+# name:be: []
+msgid "Пралеска"
+msgstr ""
+
+# Objects : [w320356595]
+# name:be: []
+msgid "Сельпо"
+msgstr ""
+
+# Objects : [w69138190]
+# name:be: []
+msgid "старый спортзал"
+msgstr ""
+
+# Objects : [w98747441]
+# name:be: [Сталовая]
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w266077907]
+# name:be: []
+msgid "Субочская ГРС"
+msgstr ""
+
+# Objects : [w306674733]
+# name:be: []
+msgid "Сушилка"
+msgstr ""
+
+# Objects : [w306834312]
+# name:be: []
+msgid "топочная"
+msgstr ""
+
+# Objects : [w266077911]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w309042658]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [w260313719]
+# name:be: []
+msgid "ХОСПИС БОЛЬНИЦА ПАЛЛИАТИВНОГО УХОДА УЗ"
+msgstr ""
+
+# Objects : [w266077912]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w306674735]
+# name:be: []
+msgid "шиферный ангар"
+msgstr ""
+
+# Objects : [w264872932]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w306799610]
+# name:be: []
+msgid "ШРП Гнезно"
+msgstr ""
+
+# Objects : [w267046017]
+# name:be: []
+msgid "ШРП № 50"
+msgstr ""
+
+# Objects : [w266843966]
+# name:be: []
+msgid "ШРП№80"
+msgstr ""
+
+# Objects : [w266783671]
+# name:be: []
+msgid "ШРП№89"
+msgstr ""
+
+# Objects : [w266840345]
+# name:be: []
+msgid "ШРП№90"
+msgstr ""
+
+# Objects : [w265913806]
+# name:be: []
+msgid "ШРП№93"
+msgstr ""
+
+# Objects : [w265922423]
+# name:be: []
+msgid "шрп№94"
+msgstr ""
+
+# Objects : [w264872933]
+# name:be: []
+msgid "ШРП №99"
+msgstr ""
+

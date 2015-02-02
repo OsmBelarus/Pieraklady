@@ -1,0 +1,265 @@
+# Objects : [r3563056]
+# name:be: []
+msgid "А"
+msgstr ""
+
+# Objects : [n3270050218]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w318477419]
+# name:be: []
+msgid "Бывший детский лагер отдыха"
+msgstr ""
+
+# Objects : [n3291974977]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [n595227827]
+# name:be: []
+msgid "Геологическое обнажение"
+msgstr ""
+
+# Objects : [w262012363]
+# name:be: []
+msgid "деревообработка"
+msgstr ""
+
+# Objects : [n2089850491]
+# name:be: []
+msgid "Довская больница"
+msgstr ""
+
+# Objects : [n2089852065]
+# name:be: []
+msgid "Довская поликлиника"
+msgstr ""
+
+# Objects : [w25189456]
+# name:be: []
+msgid "Друт"
+msgstr ""
+
+# Objects : [w25186648]
+# name:be: []
+msgid "Друт,Друть"
+msgstr ""
+
+# Objects : [r286708]
+# name:be: []
+msgid "Друть"
+msgstr ""
+
+# Objects : [w310913614]
+# name:be: []
+msgid "Журавичский детский дом-интернат для детей-инвалидов с ОПФР"
+msgstr ""
+
+# Objects : [r3392907]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [r3392908]
+# name:be: [Заводскі завулак]
+msgid "Заводской переулок"
+msgstr ""
+
+# Objects : [w318060399, w321978783]
+# name:be: []
+msgid "загон"
+msgstr ""
+
+# Objects : [w287670782]
+# name:be: []
+msgid "Запольский СДК"
+msgstr ""
+
+# Objects : [n243042308]
+# name:be: []
+msgid "Зеленая Роща"
+msgstr ""
+
+# Objects : [r3392909]
+# name:be: [Зялёная вуліца]
+msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [n3285460967]
+# name:be: []
+msgid "Кантора"
+msgstr ""
+
+# Objects : [w209139486]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n3242432743, n3242493761, n3248987072, n3261274504, n3261475812, n3278348192, n3285460968, n3285736172, n3285736173, n3285736174, n3287448657, n3287448658, n3287448659, n3300439131]
+# name:be: []
+msgid "колодец"
+msgstr ""
+
+# Objects : [n3053184661, w265146712]
+# name:be: []
+msgid "Колодец"
+msgstr ""
+
+# Objects : [n3059267534]
+# name:be: []
+msgid "колонка"
+msgstr ""
+
+# Objects : [r3392910]
+# name:be: [Камуністычная вуліца]
+msgid "Коммунистическая улица"
+msgstr ""
+
+# Objects : [w25199194]
+# name:be: []
+msgid "Крушиновское"
+msgstr ""
+
+# Objects : [n1843278290]
+# name:be: [Лукскае]
+msgid "Лукское"
+msgstr ""
+
+# Objects : [w259879040]
+# name:be: []
+msgid "магазин СГЦ Заречье"
+msgstr ""
+
+# Objects : [n306069876]
+# name:be: []
+msgid "Миньков"
+msgstr ""
+
+# Objects : [w318060398, w318507002, w318507004, w321978781]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [w321978831]
+# name:be: []
+msgid "навозохранилище"
+msgstr ""
+
+# Objects : [n3283834046, n3311324259]
+# name:be: []
+msgid "Ортазианская скважина"
+msgstr ""
+
+# Objects : [n3320744902]
+# name:be: []
+msgid "Ортозианская скважина"
+msgstr ""
+
+# Objects : [n2089866414]
+# name:be: []
+msgid "Памятник ВОВ"
+msgstr ""
+
+# Objects : [n3311324260]
+# name:be: []
+msgid "Погост"
+msgstr ""
+
+# Objects : [n2089868435]
+# name:be: []
+msgid "Почта, телефон."
+msgstr ""
+
+# Objects : [n2788683600]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788683663]
+# name:be: [Прысядзібны парк пры былой сядзібе Верманаў]
+msgid "Приусадебный парк при бывшей усадьбе Верман"
+msgstr ""
+
+# Objects : [n2788683759]
+# name:be: [Прысядзібны парк пры былой сядзібе Сянажэцкіх]
+msgid "Приусадебный парк при бывшей усадьбе Сеножецких"
+msgstr ""
+
+# Objects : [n2089874364]
+# name:be: []
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [r3392911]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w325412414]
+# name:be: []
+msgid "Свинокомплекс Ухватовка"
+msgstr ""
+
+# Objects : [w25195342]
+# name:be: [Святое]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w318078783, w318078784]
+# name:be: []
+msgid "сенажная траншея"
+msgstr ""
+
+# Objects : [n306069862]
+# name:be: [Старасельскі]
+msgid "Старосельский"
+msgstr ""
+
+# Objects : [w251303350]
+# name:be: []
+msgid "Столнянская средняя школа"
+msgstr ""
+
+# Objects : [w262503602]
+# name:be: []
+msgid "Территория детсада"
+msgstr ""
+
+# Objects : [w324388462]
+# name:be: []
+msgid "Территория детского сада"
+msgstr ""
+
+# Objects : [w262503603, w323626913, w324388464]
+# name:be: []
+msgid "Территория школы"
+msgstr ""
+
+# Objects : [n3047106230]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [n2788686032]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686409]
+# name:be: [Царква Святога Духа]
+msgid "Церковь Святого Духа"
+msgstr ""
+
+# Objects : [n2788687224]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [r3392912]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

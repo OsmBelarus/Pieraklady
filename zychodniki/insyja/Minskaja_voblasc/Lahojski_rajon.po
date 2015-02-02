@@ -1,0 +1,400 @@
+# Objects : [w152720784]
+# name:be: []
+msgid "«Селицкое» кладбище"
+msgstr ""
+
+# Objects : [n3033239001]
+# name:be: []
+msgid "автобусная остановка"
+msgstr ""
+
+# Objects : [w152704372]
+# name:be: []
+msgid "Агротехнический комплекс"
+msgstr ""
+
+# Objects : [n1373846425]
+# name:be: []
+msgid "Агроусадьба "Лесные Дали""
+msgstr ""
+
+# Objects : [w286161100]
+# name:be: []
+msgid "Асфальтный завод"
+msgstr ""
+
+# Objects : [n1398645103]
+# name:be: []
+msgid "База отдыха "Плещеницы""
+msgstr ""
+
+# Objects : [n1977567722]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w25188980]
+# name:be: []
+msgid "Вепраты"
+msgstr ""
+
+# Objects : [n1378912906]
+# name:be: []
+msgid "Вертолётная площадка"
+msgstr ""
+
+# Objects : [n1818670544]
+# name:be: []
+msgid "Вкусная вода"
+msgstr ""
+
+# Objects : [n1654742414]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w35142854]
+# name:be: []
+msgid "Вяча"
+msgstr ""
+
+# Objects : [n419178930]
+# name:be: []
+msgid "Горнолыжная база Логойск"
+msgstr ""
+
+# Objects : [n332026799]
+# name:be: []
+msgid "Горнолыжная база Силичи"
+msgstr ""
+
+# Objects : [w50884807]
+# name:be: [Гарналыжны спартыўна-аздараўленчы комплекс "Лагойск"]
+msgid "Горнолыжный спортивно-оздоровительный комплекс "Логойск""
+msgstr ""
+
+# Objects : [w252799887]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [n1977567107]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w152704375]
+# name:be: []
+msgid "Животноводческий комплекс"
+msgstr ""
+
+# Objects : [n2788681392, n2788681396]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n1654742468]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [n446774741]
+# name:be: []
+msgid "Крытый ледовый Каток"
+msgstr ""
+
+# Objects : [w295565118]
+# name:be: []
+msgid "Лесное-90"
+msgstr ""
+
+# Objects : [w157315463]
+# name:be: []
+msgid "Магазин Янушковский"
+msgstr ""
+
+# Objects : [n306063679, w34850401]
+# name:be: []
+msgid "Маковза"
+msgstr ""
+
+# Objects : [n306063006]
+# name:be: [Малінаўка]
+msgid "Малиновка"
+msgstr ""
+
+# Objects : [n2766728144]
+# name:be: []
+msgid "Малые Бесяды"
+msgstr ""
+
+# Objects : [w152675847]
+# name:be: []
+msgid "Машинный двор"
+msgstr ""
+
+# Objects : [n2788682551]
+# name:be: [Мемарыяльны комплекс «Дальва»]
+msgid "Мемориальный комплекс «Дальва»"
+msgstr ""
+
+# Objects : [w226244133, w25125332]
+# name:be: [Мемарыяльны комплекс Хатынь]
+msgid "Мемориальный комплекс Хатынь"
+msgstr ""
+
+# Objects : [n648219579]
+# name:be: []
+msgid "Место для отдыха"
+msgstr ""
+
+# Objects : [n566296863]
+# name:be: [Мінская вобласць]
+msgid "Минская область"
+msgstr ""
+
+# Objects : [w180104876]
+# name:be: []
+msgid "Молочно-товарная ферма «Заречье»"
+msgstr ""
+
+# Objects : [n3293232869]
+# name:be: []
+msgid "Молочно-товарная ферма «Кременец»"
+msgstr ""
+
+# Objects : [w321396726]
+# name:be: []
+msgid "Молочно-товарная ферма «Путилово»"
+msgstr ""
+
+# Objects : [w25193819]
+# name:be: []
+msgid "о.Бурые"
+msgstr ""
+
+# Objects : [n306062972]
+# name:be: []
+msgid "Памятник жителям д. Загорье"
+msgstr ""
+
+# Objects : [n2390667870]
+# name:be: []
+msgid "Памятник жителям Тристени"
+msgstr ""
+
+# Objects : [w122755543]
+# name:be: []
+msgid "Плещеницкое водохранилище"
+msgstr ""
+
+# Objects : [n2766728200, n306064002]
+# name:be: [Плешчаніцы]
+msgid "Плещеницы"
+msgstr ""
+
+# Objects : [n1370811891]
+# name:be: []
+msgid "Пожарный аварийно-спасательный пост"
+msgstr ""
+
+# Objects : [w157315451]
+# name:be: []
+msgid "Поликлинника Янушковический фап"
+msgstr ""
+
+# Objects : [n1376202649]
+# name:be: [Пошта]
+msgid "Почта"
+msgstr ""
+
+# Objects : [n1655087735]
+# name:be: []
+msgid "Придорожный крест"
+msgstr ""
+
+# Objects : [n2766728205]
+# name:be: []
+msgid "Природа-Люкс"
+msgstr ""
+
+# Objects : [n2788683711]
+# name:be: [Прысядзібны парк пры былой сядзібе Лявіцкіх]
+msgid "Приусадебный парк при бывшей усадьбе Левицкий"
+msgstr ""
+
+# Objects : [n2788683813, n2788683817]
+# name:be: [Прысядзібны парк пры былой сядзібе Чаховічаў]
+msgid "Приусадебный парк при бывшей усадьбе Чеховичей"
+msgstr ""
+
+# Objects : [n1818670574]
+# name:be: []
+msgid "Развалины водяной мельницы"
+msgstr ""
+
+# Objects : [w305737721]
+# name:be: [Рэспубліканскі гарналыжны цэнтр "Сілічы"]
+msgid "Республиканский горнолыжный центр "Силичи""
+msgstr ""
+
+# Objects : [w252807339]
+# name:be: []
+msgid "Садоводческое товарищество "Пралеска""
+msgstr ""
+
+# Objects : [w122755536]
+# name:be: []
+msgid "Сажелка"
+msgstr ""
+
+# Objects : [n2766722608]
+# name:be: []
+msgid "Санаторий Рудня"
+msgstr ""
+
+# Objects : [n2766728219]
+# name:be: []
+msgid "Силичи"
+msgstr ""
+
+# Objects : [w305731228]
+# name:be: [Сноў парк]
+msgid "Сноу парк"
+msgstr ""
+
+# Objects : [w229103946]
+# name:be: []
+msgid "Старое кладбище"
+msgstr ""
+
+# Objects : [w305731230]
+# name:be: [Трампліны]
+msgid "Трамплины"
+msgstr ""
+
+# Objects : [w51067477, w51338744, w95973304]
+# name:be: [Траса №1]
+msgid "Трасса №1"
+msgstr ""
+
+# Objects : [w51067478, w95973301]
+# name:be: [Траса №2]
+msgid "Трасса №2"
+msgstr ""
+
+# Objects : [w95973303, w95981634]
+# name:be: [Траса №3]
+msgid "Трасса №3"
+msgstr ""
+
+# Objects : [w305731235, w95973309, w95981636]
+# name:be: [Траса №4]
+msgid "Трасса №4"
+msgstr ""
+
+# Objects : [w50884805]
+# name:be: [Траса №5]
+msgid "Трасса №5"
+msgstr ""
+
+# Objects : [n2788684893]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [w205519943]
+# name:be: []
+msgid "Усадьба "Ласточкино гнездо""
+msgstr ""
+
+# Objects : [n3179208075, w312096008, w312096009]
+# name:be: []
+msgid "Усадьба "У горы""
+msgstr ""
+
+# Objects : [n1818872251]
+# name:be: []
+msgid "Усадьба «Гаенские вытоки»"
+msgstr ""
+
+# Objects : [w292673783]
+# name:be: []
+msgid "Усадьба Вераги"
+msgstr ""
+
+# Objects : [n2788685129]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [w95973319]
+# name:be: [Вучэбная Траса]
+msgid "Учебная Трасса"
+msgstr ""
+
+# Objects : [w95981644]
+# name:be: [Вучэбны Схіл]
+msgid "Учебный Склон"
+msgstr ""
+
+# Objects : [n2361869674]
+# name:be: []
+msgid "Фельдшерско-акушерский пункт"
+msgstr ""
+
+# Objects : [w115507397, w170741105, w187001760]
+# name:be: [Ферма]
+msgid "Ферма"
+msgstr ""
+
+# Objects : [n1373846426]
+# name:be: [Хатынь]
+msgid "Хатынь"
+msgstr ""
+
+# Objects : [w95973302]
+# name:be: [Хаф-пайп]
+msgid "Хаф-пайп"
+msgstr ""
+
+# Objects : [n2788687318]
+# name:be: [Царква могілкавая]
+msgid "Церковь кладбищенская"
+msgstr ""
+
+# Objects : [n2788686507]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788687267]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788687699]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687395]
+# name:be: [Капліца (руіны)]
+msgid "Часовня (руины)"
+msgstr ""
+
+# Objects : [n2788687463]
+# name:be: [Капліца могілкавая (руіны)]
+msgid "Часовня кладбищенская (руины)"
+msgstr ""
+
+# Objects : [n2788687413]
+# name:be: [Капліца Святога Яна Хрысціцеля]
+msgid "Часовня Св. Иоанна Крестителя"
+msgstr ""
+
+# Objects : [n2766728261]
+# name:be: []
+msgid "Экспедиция"
+msgstr ""
+

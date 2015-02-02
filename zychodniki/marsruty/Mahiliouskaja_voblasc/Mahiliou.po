@@ -1,0 +1,180 @@
+# Objects : [r1735551]
+# name:be: []
+msgid "Автобус N1:з/д "Могилевтpансмаш"-ул.Фатина"
+msgstr ""
+
+# Objects : [r1735496]
+# name:be: []
+msgid "Автобус N1:ул.Фатина-з/д "Могилевтpансмаш""
+msgstr ""
+
+# Objects : [r1756908]
+# name:be: []
+msgid "Автобус N4: Казимировка - улица Фатина"
+msgstr ""
+
+# Objects : [r1756909]
+# name:be: []
+msgid "Автобус N4: улица Фатина - Казимировка"
+msgstr ""
+
+# Objects : [r1756921]
+# name:be: []
+msgid "Автобус N8: Вокзал - Школа №13"
+msgstr ""
+
+# Objects : [r1756922]
+# name:be: []
+msgid "Автобус N8: Школа №13 - Вокзал"
+msgstr ""
+
+# Objects : [r4238847]
+# name:be: []
+msgid "Купелы — Николаевка — Половинный Лог"
+msgstr ""
+
+# Objects : [r164800]
+# name:be: []
+msgid "Минск — Могилёв"
+msgstr ""
+
+# Objects : [r2790176]
+# name:be: []
+msgid "Могилёв — Бобруйск"
+msgstr ""
+
+# Objects : [r2790178]
+# name:be: []
+msgid "Могилёв — Славгород"
+msgstr ""
+
+# Objects : [r2786088]
+# name:be: []
+msgid "Могилёв — Чериков — Костюковичи"
+msgstr ""
+
+# Objects : [r2792024]
+# name:be: []
+msgid "Орша — Шклов — Могилёв"
+msgstr ""
+
+# Objects : [r1757456]
+# name:be: []
+msgid "Троллейбус 1: Лазаренко - ТЭЦ-2"
+msgstr ""
+
+# Objects : [r1757457]
+# name:be: []
+msgid "Троллейбус 1: ТЭЦ-2 - Лазаренко"
+msgstr ""
+
+# Objects : [r1757481]
+# name:be: []
+msgid "Троллейбус 10: Любуж - Площадь Орджоникидзе"
+msgstr ""
+
+# Objects : [r1757482]
+# name:be: []
+msgid "Троллейбус 10: Площадь Орджоникидзе - Любуж"
+msgstr ""
+
+# Objects : [r1757490]
+# name:be: []
+msgid "Троллейбус 11: Зелёный Луг - Любуж"
+msgstr ""
+
+# Objects : [r1757491]
+# name:be: []
+msgid "Троллейбус 11: Любуж - Зелёный Луг"
+msgstr ""
+
+# Objects : [r1757460]
+# name:be: []
+msgid "Троллейбус 2: Зелёный Луг - Могилёвтрансмаш"
+msgstr ""
+
+# Objects : [r1757461]
+# name:be: []
+msgid "Троллейбус 2: Могилёвтрансмаш - Зелёный Луг"
+msgstr ""
+
+# Objects : [r1757465]
+# name:be: []
+msgid "Троллейбус 3: Площадь Орджоникидзе - ТЭЦ-2"
+msgstr ""
+
+# Objects : [r1757466]
+# name:be: []
+msgid "Троллейбус 3: ТЭЦ-2 - Площадь Орджоникидзе"
+msgstr ""
+
+# Objects : [r1757467]
+# name:be: []
+msgid "Троллейбус 3к: Облгаз - Площадь Орджоникидзе"
+msgstr ""
+
+# Objects : [r1757468]
+# name:be: []
+msgid "Троллейбус 3к: Площадь Орджоникидзе - Облгаз"
+msgstr ""
+
+# Objects : [r1756623]
+# name:be: []
+msgid "Троллейбус 4: Любуж - Переезд"
+msgstr ""
+
+# Objects : [r1756624]
+# name:be: []
+msgid "Троллейбус 4: Переезд - Любуж"
+msgstr ""
+
+# Objects : [r1757447]
+# name:be: []
+msgid "Троллейбус 5: Вокзал - ТЭЦ-2"
+msgstr ""
+
+# Objects : [r1757448]
+# name:be: []
+msgid "Троллейбус 5: ТЭЦ-2 - Вокзал"
+msgstr ""
+
+# Objects : [r1757449]
+# name:be: []
+msgid "Троллейбус 5к: Вокзал - Облгаз"
+msgstr ""
+
+# Objects : [r1757450]
+# name:be: []
+msgid "Троллейбус 5к: Облгаз - Вокзал"
+msgstr ""
+
+# Objects : [r1756645]
+# name:be: []
+msgid "Троллейбус 6: Любуж - ТЭЦ-2"
+msgstr ""
+
+# Objects : [r1756646]
+# name:be: []
+msgid "Троллейбус 6: ТЭЦ-2 - Любуж"
+msgstr ""
+
+# Objects : [r1757472]
+# name:be: []
+msgid "Троллейбус 7: Зелёный Луг - Любуж"
+msgstr ""
+
+# Objects : [r1757476]
+# name:be: []
+msgid "Троллейбус 7: Любуж - Зелёный Луг"
+msgstr ""
+
+# Objects : [r1757479]
+# name:be: []
+msgid "Троллейбус 8: Вокзал - Зелёный Луг"
+msgstr ""
+
+# Objects : [r1757480]
+# name:be: []
+msgid "Троллейбус 8: Зелёный Луг - Вокзал"
+msgstr ""
+

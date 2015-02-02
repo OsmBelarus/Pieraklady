@@ -1,0 +1,100 @@
+# Objects : [w210967541]
+# name:be: []
+msgid "Водонапорная"
+msgstr ""
+
+# Objects : [n243039528, w25103911]
+# name:be: [Гурынёўка]
+msgid "Гуринёвка"
+msgstr ""
+
+# Objects : [n3309974963]
+# name:be: [Друць]
+msgid "Друть"
+msgstr ""
+
+# Objects : [w210953431, w210967542]
+# name:be: []
+msgid "Животноводческий комплекс"
+msgstr ""
+
+# Objects : [n2788680410]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [w25197298]
+# name:be: [Заазерскае]
+msgid "Заозерское"
+msgstr ""
+
+# Objects : [n2788680572]
+# name:be: [Каменныя крыжы]
+msgid "Каменные кресты"
+msgstr ""
+
+# Objects : [w25196511]
+# name:be: []
+msgid "Кармановское"
+msgstr ""
+
+# Objects : [n2788681868]
+# name:be: [Касцёл Св. Людовіка]
+msgid "Костел Св. Людовика"
+msgstr ""
+
+# Objects : [w212651759]
+# name:be: []
+msgid "Крохмальный завод"
+msgstr ""
+
+# Objects : [n2388447120]
+# name:be: []
+msgid "КТП"
+msgstr ""
+
+# Objects : [w212651761]
+# name:be: []
+msgid "Машинный двор ОАО "Новая Друть""
+msgstr ""
+
+# Objects : [w211436343]
+# name:be: []
+msgid "Машинный двор СПК "Кудин""
+msgstr ""
+
+# Objects : [w212651762, w212651764]
+# name:be: []
+msgid "ОАО "Новая Друть""
+msgstr ""
+
+# Objects : [w213411941]
+# name:be: []
+msgid "Производственная база ПМК-83"
+msgstr ""
+
+# Objects : [n2788684374]
+# name:be: [Бітва ля Галоўчына]
+msgid "Сражение у Головчина"
+msgstr ""
+
+# Objects : [w213411942]
+# name:be: []
+msgid "Участок БУКП Жилкомхоз"
+msgstr ""
+
+# Objects : [n2788685441]
+# name:be: [Царква (руіны)]
+msgid "Церковь (руины)"
+msgstr ""
+
+# Objects : [w210969384]
+# name:be: []
+msgid "Цех переработки древесины"
+msgstr ""
+
+# Objects : [w25197861]
+# name:be: [Чорнае]
+msgid "Черное"
+msgstr ""
+

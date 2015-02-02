@@ -1,0 +1,80 @@
+# Objects : [n1492811004]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n1492819297, n1492819301]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n1668595140, n1668595151]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [n1314071463]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n1492811006, n660205936]
+# name:be: [Гімназія]
+msgid "гимназия"
+msgstr ""
+
+# Objects : [n1492819292, n1492819332]
+# name:be: []
+msgid "Детский санаторий"
+msgstr ""
+
+# Objects : [n306063838, n947952801]
+# name:be: []
+msgid "ж/д вокзал"
+msgstr ""
+
+# Objects : [n1670617262, n1670617266]
+# name:be: []
+msgid "ж/д магазин"
+msgstr ""
+
+# Objects : [n1492819294, n1492819299]
+# name:be: [Крынiца]
+msgid "Криница"
+msgstr ""
+
+# Objects : [n1670617268, n1670617269]
+# name:be: []
+msgid "КХП"
+msgstr ""
+
+# Objects : [n660205935]
+# name:be: [Новая Зара]
+msgid "Новая Заря"
+msgstr ""
+
+# Objects : [n1492819303, n1492819317, n1492819325, n1492819326]
+# name:be: []
+msgid "переезд"
+msgstr ""
+
+# Objects : [n1589958375, n1589958376]
+# name:be: []
+msgid "поликлиника"
+msgstr ""
+
+# Objects : [n1670617293, n1670617296]
+# name:be: []
+msgid "Райагросервис"
+msgstr ""
+
+# Objects : [n1492811017, n1492811024]
+# name:be: []
+msgid "рынок"
+msgstr ""
+
+# Objects : [n1078669936, n1492811011]
+# name:be: [Гімназія]
+msgid "Хельсинки"
+msgstr ""
+

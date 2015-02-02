@@ -1,0 +1,185 @@
+# Objects : [w278275842]
+# name:be: [«Белзнешэканамбанк» («БелЗЭБ»)]
+msgid ""Белвнешэкономбанк" (Банк "БелВЭБ")"
+msgstr ""
+
+# Objects : [n343089092]
+# name:be: [Альфа-Банк]
+msgid "«Альфа-Банк», отделение «На Советской»"
+msgstr ""
+
+# Objects : [n2505535410]
+# name:be: []
+msgid "IdeaBank"
+msgstr ""
+
+# Objects : [n1144549915]
+# name:be: []
+msgid "Idea Bank"
+msgstr ""
+
+# Objects : [n1947092210]
+# name:be: [Альфа-Банк]
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [w185274773]
+# name:be: []
+msgid "Банк, магазин"
+msgstr ""
+
+# Objects : [n1386653824]
+# name:be: [Банк ВТБ-Беларусь]
+msgid "Банк ВТБ Беларусь"
+msgstr ""
+
+# Objects : [n1229699061, n2820098954, w27898617, w27902280]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n960097053]
+# name:be: []
+msgid "Белагропромбанк РКЦ №2"
+msgstr ""
+
+# Objects : [n1229699013]
+# name:be: [Белаграпрамбанк РКЦ №3]
+msgid "Белагропромбанк РКЦ №3"
+msgstr ""
+
+# Objects : [n1440262018]
+# name:be: []
+msgid "Белагропромбанк РКЦ №7"
+msgstr ""
+
+# Objects : [n1100239988, n1305904621, n1464339292, n1763616291, n2360127462, n2408226582, n2413199785, n306304365, n724187889, n905861049, w202911899, w27901974, w30912110, w35466629, w45246421]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w27901556]
+# name:be: [Беларусбанк №200/110]
+msgid "Беларусбанк №200/110"
+msgstr ""
+
+# Objects : [n1239215983]
+# name:be: [Беларусбанк №200/2]
+msgid "Беларусбанк №200/2"
+msgstr ""
+
+# Objects : [n1128298845]
+# name:be: [Беларусбанк №201/80]
+msgid "Беларусбанк №201/80"
+msgstr ""
+
+# Objects : [n1281494854]
+# name:be: [Белгазпрамбанк]
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [n1276813864, n1331024634, n2473332709, n2473332712, n2477266012, n3129492583, n513281811, w27902695]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n1697811624]
+# name:be: []
+msgid "Белинвестбанк Прк 18"
+msgstr ""
+
+# Objects : [n1697813213]
+# name:be: []
+msgid "Белинвестбанк Прк 35"
+msgstr ""
+
+# Objects : [n1599889112]
+# name:be: []
+msgid "Белорусский Народный Банк"
+msgstr ""
+
+# Objects : [w27901881]
+# name:be: []
+msgid "Белпромстройбанк"
+msgstr ""
+
+# Objects : [n1146748048]
+# name:be: []
+msgid "БПС-Сбербанк РКЦ №4"
+msgstr ""
+
+# Objects : [w27899783]
+# name:be: [БПС-банк № 200]
+msgid "БПС-Сбербанк № 200"
+msgstr ""
+
+# Objects : [n1312616679]
+# name:be: [БТА Банк]
+msgid "БТА Банк"
+msgstr ""
+
+# Objects : [n726818407]
+# name:be: []
+msgid "Дельта банк"
+msgstr ""
+
+# Objects : [n1312612092]
+# name:be: [Дэльта-банк]
+msgid "Дельта-банк"
+msgstr ""
+
+# Objects : [n860904805]
+# name:be: [Мінскі транзітны банк]
+msgid "Минский Транзитный Банк"
+msgstr ""
+
+# Objects : [n1106646685, n2477266938]
+# name:be: [Масква-Мінск]
+msgid "Москва-Минск"
+msgstr ""
+
+# Objects : [n2145755315]
+# name:be: []
+msgid "МТБ-банк"
+msgstr ""
+
+# Objects : [n513281800]
+# name:be: [Нацыянальны банк РБ]
+msgid "Национальный Банк РБ"
+msgstr ""
+
+# Objects : [n1627082017, n3121533593, w27898590, w27898675]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n2478579793]
+# name:be: [РКЦ Белаграпрамбанк №13]
+msgid "РКЦ Белагропромбанк №13"
+msgstr ""
+
+# Objects : [n881786105]
+# name:be: [РРБ-банк]
+msgid "РРБ-Банк"
+msgstr ""
+
+# Objects : [n1145401559]
+# name:be: [Тэхнабанк]
+msgid "Технобанк"
+msgstr ""
+
+# Objects : [n1560152722, n2487038647]
+# name:be: []
+msgid "Хоум кредит банк"
+msgstr ""
+
+# Objects : [n2509501360]
+# name:be: []
+msgid "Хоум Кредит Банк"
+msgstr ""
+
+# Objects : [n1147998402]
+# name:be: [Цэптэр-банк]
+msgid "Цептер-Банк"
+msgstr ""
+

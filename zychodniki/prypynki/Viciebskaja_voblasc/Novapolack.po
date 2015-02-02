@@ -1,0 +1,65 @@
+# Objects : [n3099164341, n3099164342]
+# name:be: []
+msgid "Автовобаза №6"
+msgstr ""
+
+# Objects : [n1797961499, n3099164343, w41160678]
+# name:be: [Аўтавакзал]
+msgid "Автовокзал"
+msgstr ""
+
+# Objects : [n3099164344, n3099164345]
+# name:be: []
+msgid "Завод ЖБИ"
+msgstr ""
+
+# Objects : [n1116722216, n3099164346]
+# name:be: []
+msgid "Заводоуправление"
+msgstr ""
+
+# Objects : [n1332081755, n3099164347]
+# name:be: [Вымяральнiк]
+msgid "Измеритель"
+msgstr ""
+
+# Objects : [n1797961498, n3099164348]
+# name:be: []
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [n2516143028]
+# name:be: []
+msgid "Нитрон"
+msgstr ""
+
+# Objects : [n3099164349, n3099164350]
+# name:be: []
+msgid "Подстанция"
+msgstr ""
+
+# Objects : [n3099164351, n3099164352]
+# name:be: []
+msgid "Полимир"
+msgstr ""
+
+# Objects : [n1797961509, n3099164353]
+# name:be: []
+msgid "Техникум"
+msgstr ""
+
+# Objects : [n3099164354, n3099164355]
+# name:be: []
+msgid "Трамвайный парк"
+msgstr ""
+
+# Objects : [n1797961514, n3099164356]
+# name:be: []
+msgid "Университет"
+msgstr ""
+
+# Objects : [n1797961519, n3099164357]
+# name:be: []
+msgid "Школа №7"
+msgstr ""
+

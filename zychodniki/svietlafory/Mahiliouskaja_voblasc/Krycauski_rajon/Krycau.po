@@ -1,0 +1,190 @@
+# Objects : [n1428288446]
+# name:be: []
+msgid "Автокалонна"
+msgstr ""
+
+# Objects : [n1428283721]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n1428283725, n1428288442]
+# name:be: []
+msgid "база ОПС"
+msgstr ""
+
+# Objects : [n1428283726, n1428288443]
+# name:be: [Бальніца]
+msgid "больница"
+msgstr ""
+
+# Objects : [n1428288444, n2217941659]
+# name:be: [Ветлякарня]
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [n1428283731, n1428283732]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n2499732052]
+# name:be: []
+msgid "Гортоп"
+msgstr ""
+
+# Objects : [n1428288445]
+# name:be: [Гасцініца]
+msgid "гостиница"
+msgstr ""
+
+# Objects : [n1428288448]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [n1428283783]
+# name:be: []
+msgid "ДЭУ-77"
+msgstr ""
+
+# Objects : [n1428283741]
+# name:be: []
+msgid "Ивановка"
+msgstr ""
+
+# Objects : [n1428283744]
+# name:be: []
+msgid "Коммунальник"
+msgstr ""
+
+# Objects : [n1428283746]
+# name:be: [Ленінская вуліца]
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [n1428283747, n1428288447]
+# name:be: [Магазін]
+msgid "магазин"
+msgstr ""
+
+# Objects : [n1428283750]
+# name:be: []
+msgid "Очистные Сооружения"
+msgstr ""
+
+# Objects : [n1428283754]
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [n1428283757]
+# name:be: [Паліклініка]
+msgid "поликлиника"
+msgstr ""
+
+# Objects : [n1428283758]
+# name:be: []
+msgid "Пригородная"
+msgstr ""
+
+# Objects : [n1428283759]
+# name:be: []
+msgid "Пригородная-1"
+msgstr ""
+
+# Objects : [n1428283760]
+# name:be: []
+msgid "Пригородная-2"
+msgstr ""
+
+# Objects : [n1428283766]
+# name:be: []
+msgid "Речная"
+msgstr ""
+
+# Objects : [n1428283767]
+# name:be: []
+msgid "Сельзозхимия"
+msgstr ""
+
+# Objects : [n1428283768]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [n2499732055, n2499732057]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [n1428283772, n1428288450]
+# name:be: [Працоўная вуліца]
+msgid "Трудовая улица"
+msgstr ""
+
+# Objects : [n1428283737, n2499732053]
+# name:be: []
+msgid "улица Гусаковсого"
+msgstr ""
+
+# Objects : [n1428283764, n1428283765]
+# name:be: [вуліца Пугачова]
+msgid "улица Пугачёва"
+msgstr ""
+
+# Objects : [n1428283794]
+# name:be: []
+msgid "улица Сироткина"
+msgstr ""
+
+# Objects : [n1428283769, n1428288449]
+# name:be: [вуліца Ціміразева]
+msgid "улица Тимирязева"
+msgstr ""
+
+# Objects : [n1428283774]
+# name:be: []
+msgid "улица Ульяновых"
+msgstr ""
+
+# Objects : [n1428283795]
+# name:be: []
+msgid "улица Урицкого"
+msgstr ""
+
+# Objects : [n2724066781]
+# name:be: [вуліца Чалюскіна]
+msgid "улица Челюскина"
+msgstr ""
+
+# Objects : [n1428283782]
+# name:be: [вуліца Шчорса]
+msgid "улица Щорса"
+msgstr ""
+
+# Objects : [n1428283776, n1428288451]
+# name:be: [Хлебазавод]
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n1428288452]
+# name:be: [Школа]
+msgid "школа"
+msgstr ""
+
+# Objects : [n1428283778]
+# name:be: [Школа]
+msgid "Школа"
+msgstr ""
+
+# Objects : [n1428283781, n1428288453]
+# name:be: [Шашэйшая вуліца]
+msgid "Шоссейная улица"
+msgstr ""
+
+# Objects : [n1428288454]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+

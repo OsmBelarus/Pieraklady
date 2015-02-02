@@ -1,0 +1,240 @@
+# Objects : [w289715362]
+# name:be: []
+msgid ""Валерия""
+msgstr ""
+
+# Objects : [w289715365]
+# name:be: []
+msgid ""Шанс""
+msgstr ""
+
+# Objects : [w289694095]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w289718807]
+# name:be: []
+msgid "Аптека№60"
+msgstr ""
+
+# Objects : [w289715368]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w299261545]
+# name:be: []
+msgid "Ветеренария"
+msgstr ""
+
+# Objects : [n2788680176]
+# name:be: [Гара Міндоўга]
+msgid "Гора Миндовга"
+msgstr ""
+
+# Objects : [n2766736652]
+# name:be: []
+msgid "Гостиница Панский дом"
+msgstr ""
+
+# Objects : [w300240712]
+# name:be: []
+msgid "Дежурная аптека"
+msgstr ""
+
+# Objects : [w289715375]
+# name:be: []
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [n2788680344]
+# name:be: [Дом-Музей Адама Міцкевіча]
+msgid "Дом-музей Адама Мицкевича"
+msgstr ""
+
+# Objects : [n2788680462]
+# name:be: [Будынак былой Навагрудскай Беларускай гімназіі]
+msgid "Здание бывшей Новогрудской Белорусского гимназии"
+msgstr ""
+
+# Objects : [w300240720]
+# name:be: []
+msgid "Златка"
+msgstr ""
+
+# Objects : [w289715436]
+# name:be: []
+msgid "Инфекционное отделение"
+msgstr ""
+
+# Objects : [w289715437]
+# name:be: []
+msgid "Кафе Молодёжное"
+msgstr ""
+
+# Objects : [n2788680859]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681483]
+# name:be: [Могілкі старыя хрысціянскія]
+msgid "Кладбище старое христианское"
+msgstr ""
+
+# Objects : [n2788681517]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [w289715438]
+# name:be: []
+msgid "Колледж НГАК"
+msgstr ""
+
+# Objects : [n2788681905]
+# name:be: [Касцёл Святога Міхала Арханёла]
+msgid "Костел Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n2788682342]
+# name:be: [Касцёл Фарны (Перамянення Пана)]
+msgid "Костел Фарный (Преображения Господня)"
+msgstr ""
+
+# Objects : [n2788682467]
+# name:be: [Курган Адама Міцкевіча]
+msgid "Курган Адама Мицкевича"
+msgstr ""
+
+# Objects : [n1550673684]
+# name:be: [Курган Неўміручасці]
+msgid "Курган Бессмертия"
+msgstr ""
+
+# Objects : [w300240726]
+# name:be: []
+msgid "Лилея"
+msgstr ""
+
+# Objects : [w289694163, w289883449, w289991140, w299221127, w300236832, w300240741]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w264445905]
+# name:be: []
+msgid "магазин"спутник""
+msgstr ""
+
+# Objects : [n2788682600]
+# name:be: [Мячэць]
+msgid "Мечеть"
+msgstr ""
+
+# Objects : [n1871938373]
+# name:be: [Міліцыя]
+msgid "Милиция"
+msgstr ""
+
+# Objects : [n1365667034]
+# name:be: [Навагрудак]
+msgid "Новогрудок"
+msgstr ""
+
+# Objects : [n306067515]
+# name:be: [Навагрудскі замак]
+msgid "Новогрудский замок"
+msgstr ""
+
+# Objects : [w300240732]
+# name:be: []
+msgid "Охрана"
+msgstr ""
+
+# Objects : [n2956914045]
+# name:be: []
+msgid "Памятник В.С. Высоцкому"
+msgstr ""
+
+# Objects : [n2956914042]
+# name:be: []
+msgid "Памятник воинам-афганцам"
+msgstr ""
+
+# Objects : [n2956914044]
+# name:be: []
+msgid "Памятник Ленину"
+msgstr ""
+
+# Objects : [n3136684433]
+# name:be: []
+msgid "Памятник Миндовгу"
+msgstr ""
+
+# Objects : [n2956914043]
+# name:be: []
+msgid "Памятник Победы"
+msgstr ""
+
+# Objects : [n2956914047]
+# name:be: [Помнik Я.Коласу]
+msgid "Памятник Я. Коласу"
+msgstr ""
+
+# Objects : [w273270442]
+# name:be: []
+msgid "Панский дом"
+msgstr ""
+
+# Objects : [n2788683467]
+# name:be: [Парк гарадскі]
+msgid "Парк городской"
+msgstr ""
+
+# Objects : [w289715444]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w297170286]
+# name:be: []
+msgid "Пони"
+msgstr ""
+
+# Objects : [n2788687759]
+# name:be: [руіны]
+msgid "руины"
+msgstr ""
+
+# Objects : [n2788684258]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2788684355]
+# name:be: [Сабор Святога Мікалая]
+msgid "Собор Святого Николая"
+msgstr ""
+
+# Objects : [w261509612]
+# name:be: []
+msgid "Стройлюкс"
+msgstr ""
+
+# Objects : [n2788684394]
+# name:be: [Гандлёвыя рады]
+msgid "Торговые ряды"
+msgstr ""
+
+# Objects : [n2788685063]
+# name:be: [Капліца-пахавальня Альбрыхта Заборскага]
+msgid "Усыпальница Альбрехта Заборского"
+msgstr ""
+
+# Objects : [w300240737]
+# name:be: []
+msgid "Эдельвейс"
+msgstr ""
+

@@ -1,0 +1,315 @@
+# Objects : [w206076367]
+# name:be: [Берагавая вуліца]
+msgid "Береговая улица"
+msgstr ""
+
+# Objects : [w154611122]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w205036652]
+# name:be: [Далінная вуліца]
+msgid "Долинная улица"
+msgstr ""
+
+# Objects : [w219752594]
+# name:be: [Заходняя вуліца]
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [w204633329]
+# name:be: [Зялёная вуліца]
+msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w155389129, w219372353]
+# name:be: [Інтэрнацыянальная вуліца]
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w210708007]
+# name:be: [Калгасны завулак]
+msgid "Колхозный переулок"
+msgstr ""
+
+# Objects : [w205628613]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [w210177257, w37377977]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w219752615]
+# name:be: []
+msgid "Красноармейская"
+msgstr ""
+
+# Objects : [w219752622]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w219752614, w219752617]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w243262821]
+# name:be: [Паркавы завулак]
+msgid "Парковый переулок"
+msgstr ""
+
+# Objects : [w326042920]
+# name:be: []
+msgid "пер.Гагарина"
+msgstr ""
+
+# Objects : [w210709689]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w219752586]
+# name:be: [завулак Будзёнага]
+msgid "переулок Будённого"
+msgstr ""
+
+# Objects : [w206077540]
+# name:be: [завулак Вялюгі]
+msgid "переулок Вилюги"
+msgstr ""
+
+# Objects : [w241439666]
+# name:be: [завулак Луначарскага]
+msgid "переулок Луначарского"
+msgstr ""
+
+# Objects : [w219752595]
+# name:be: [завулак Швякава]
+msgid "переулок Швякова"
+msgstr ""
+
+# Objects : [w206086079]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w219518077]
+# name:be: [Піянерскі завулак]
+msgid "Пионерский переулок"
+msgstr ""
+
+# Objects : [w205036625]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w206073413]
+# name:be: [Пасялковая вуліца]
+msgid "Поселковая улица"
+msgstr ""
+
+# Objects : [w263172260, w263172261]
+# name:be: [Прамысловая вуліца]
+msgid "Промышленная улица"
+msgstr ""
+
+# Objects : [w210007459, w37378599]
+# name:be: [Пушкінская вуліца]
+msgid "Пушкинская улица"
+msgstr ""
+
+# Objects : [w210176923]
+# name:be: [Рэспубліканская вуліца]
+msgid "Республиканская улица"
+msgstr ""
+
+# Objects : [w219752620]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w206076899]
+# name:be: [Паўночная вуліца]
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w206231738]
+# name:be: [Паўночны завулак]
+msgid "Северный переулок"
+msgstr ""
+
+# Objects : [w219501815, w219715121, w37376780]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w79469426]
+# name:be: [Сацыялістычная вуліца]
+msgid "Социалистическая улица"
+msgstr ""
+
+# Objects : [w204633247]
+# name:be: [Будаўнічая вуліца]
+msgid "Строительная улица"
+msgstr ""
+
+# Objects : [w215398515]
+# name:be: [вуліца 40 гадоў БССР]
+msgid "улица 40 лет БССР"
+msgstr ""
+
+# Objects : [w219752603]
+# name:be: [вуліца 40 гадоў Кастрычніка]
+msgid "улица 40 лет Октября"
+msgstr ""
+
+# Objects : [w219752618]
+# name:be: [вуліца 40 гадоў Перамогі]
+msgid "улица 40 лет Победы"
+msgstr ""
+
+# Objects : [w154611131]
+# name:be: [вуліца 8 Сакавіка]
+msgid "улица 8 Марта"
+msgstr ""
+
+# Objects : [w219752619]
+# name:be: [вуліца Будзёнага]
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [w206081353]
+# name:be: [вуліца Вялюгі]
+msgid "улица Вилюги"
+msgstr ""
+
+# Objects : [w207549817]
+# name:be: [вуліца Валошына]
+msgid "улица Волошина"
+msgstr ""
+
+# Objects : [w283123546, w37409631]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w205316137]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [w37378528]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w37377978]
+# name:be: [вуліца Жыжкевіча]
+msgid "улица Жижкевича"
+msgstr ""
+
+# Objects : [w219752611]
+# name:be: [вуліца Каліноўскага]
+msgid "улица Калиновского"
+msgstr ""
+
+# Objects : [w205620413]
+# name:be: [вуліца Карла Маркса]
+msgid "улица Карла Маркса"
+msgstr ""
+
+# Objects : [w37376778, w68874101, w68874102]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w219753913]
+# name:be: [вуліца Караткевіча]
+msgid "улица Короткевича"
+msgstr ""
+
+# Objects : [w205316534]
+# name:be: [вуліца Луначарскага]
+msgid "улица Луначарского"
+msgstr ""
+
+# Objects : [w205619912]
+# name:be: [вуліца Марата Казея]
+msgid "улица Марата Казея"
+msgstr ""
+
+# Objects : [w241439354]
+# name:be: [вуліца Меліяратараў]
+msgid "улица Мелиораторов"
+msgstr ""
+
+# Objects : [w205319991]
+# name:be: [вуліца Міру]
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w206078997]
+# name:be: [вуліца Прыміна]
+msgid "улица Примина"
+msgstr ""
+
+# Objects : [w219752596]
+# name:be: [вуліца Рыбака]
+msgid "улица Рыбака"
+msgstr ""
+
+# Objects : [w205628230, w219752612]
+# name:be: [вуліца Сямёнава]
+msgid "улица Семёнова"
+msgstr ""
+
+# Objects : [w211633234]
+# name:be: [вуліца Тэльмана]
+msgid "улица Тельмана"
+msgstr ""
+
+# Objects : [w207549617]
+# name:be: [вуліца Тупіцы]
+msgid "улица Тупицы"
+msgstr ""
+
+# Objects : [w219752597]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w154611129]
+# name:be: [вуліца Швякава]
+msgid "улица Швякова"
+msgstr ""
+
+# Objects : [w219752621]
+# name:be: [вуліца Шутава]
+msgid "улица Шутова"
+msgstr ""
+
+# Objects : [w210176994]
+# name:be: [вуліца Энгельса]
+msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w218982548]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+
+# Objects : [w207548356]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+
+# Objects : [w219752610]
+# name:be: [Паўднёвы завулак]
+msgid "Южный переулок"
+msgstr ""
+

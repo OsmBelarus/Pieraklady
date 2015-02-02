@@ -1,0 +1,55 @@
+# Objects : [w135284877]
+# name:be: []
+msgid "Дюльки"
+msgstr ""
+
+# Objects : [n243047053, w25077130]
+# name:be: []
+msgid "Ковалевка 1-я"
+msgstr ""
+
+# Objects : [n1486186961]
+# name:be: []
+msgid "Крыница"
+msgstr ""
+
+# Objects : [w210732104]
+# name:be: []
+msgid "КУСП База Роднянская"
+msgstr ""
+
+# Objects : [w228652337]
+# name:be: []
+msgid "МАСЛО ЗАВОД"
+msgstr ""
+
+# Objects : [w274735374]
+# name:be: []
+msgid "МН "Дружба""
+msgstr ""
+
+# Objects : [n243047300, w25078157]
+# name:be: [руч. Муравец]
+msgid "Муравец"
+msgstr ""
+
+# Objects : [w135284875, w135284878, w135284880, w135284882, w135284883]
+# name:be: []
+msgid "Свиньи"
+msgstr ""
+
+# Objects : [n2788687351, n2788687352, n2788687359]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788685438]
+# name:be: [Царква (руіны)]
+msgid "Церковь (руины)"
+msgstr ""
+
+# Objects : [n306068429]
+# name:be: [Шасцёраўка]
+msgid "Шестёровка"
+msgstr ""
+

@@ -1,0 +1,120 @@
+# Objects : [n1380859790]
+# name:be: []
+msgid "Cemetery"
+msgstr ""
+
+# Objects : [n1380817147]
+# name:be: [Сельсавет]
+msgid "Администрация района"
+msgstr ""
+
+# Objects : [n1380809076]
+# name:be: []
+msgid "Анненский конь"
+msgstr ""
+
+# Objects : [n1380807586]
+# name:be: []
+msgid "В.И. Ленин"
+msgstr ""
+
+# Objects : [n2085180144]
+# name:be: []
+msgid "военкомат"
+msgstr ""
+
+# Objects : [n2766736658]
+# name:be: []
+msgid "Гостиница Придорожный сервис"
+msgstr ""
+
+# Objects : [n1380810414]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [n1380912496]
+# name:be: []
+msgid "ЗАГС Зельвенского райоа"
+msgstr ""
+
+# Objects : [n306067852]
+# name:be: [Зэльва]
+msgid "Зельва"
+msgstr ""
+
+# Objects : [r3723408]
+# name:be: []
+msgid "Зельвенское"
+msgstr ""
+
+# Objects : [w262192124]
+# name:be: []
+msgid "И.П. Даник Г.П."
+msgstr ""
+
+# Objects : [w261532151]
+# name:be: []
+msgid "ИП Прохоренков"
+msgstr ""
+
+# Objects : [n2788682220]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [w120730656]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1380754147]
+# name:be: []
+msgid "Мемориал победы"
+msgstr ""
+
+# Objects : [n1380818522]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [n1380819991]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [n1380883058]
+# name:be: [Парк Перамогі]
+msgid "Парк Победы"
+msgstr ""
+
+# Objects : [w198379814]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n1380760632]
+# name:be: []
+msgid "Самоходное орудие ИС-152(Танк) , Освободитель Зельвы"
+msgstr ""
+
+# Objects : [n2788686631]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [w239750706]
+# name:be: []
+msgid "Школа №1"
+msgstr ""
+
+# Objects : [w239745803]
+# name:be: []
+msgid "Школа №2"
+msgstr ""
+
+# Objects : [r3233153]
+# name:be: []
+msgid "Школа №3"
+msgstr ""
+

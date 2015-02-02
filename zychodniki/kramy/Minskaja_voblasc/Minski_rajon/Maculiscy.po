@@ -1,0 +1,20 @@
+# Objects : [n306064911]
+# name:be: []
+msgid "Агрокомбинат"
+msgstr ""
+
+# Objects : [n1126813859, n1126858027]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1169474649, n1171089860, n1171089861]
+# name:be: [Цырульня]
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n1143424380]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+

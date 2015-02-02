@@ -1,0 +1,185 @@
+# Objects : [w164318415]
+# name:be: []
+msgid "11-й Городок"
+msgstr ""
+
+# Objects : [w164299121]
+# name:be: []
+msgid "14-й Городок"
+msgstr ""
+
+# Objects : [w274928252]
+# name:be: []
+msgid "Hors motors"
+msgstr ""
+
+# Objects : [w199885205]
+# name:be: []
+msgid "Автобусный парк №3"
+msgstr ""
+
+# Objects : [w274923426]
+# name:be: []
+msgid "автомобильная стоянка"
+msgstr ""
+
+# Objects : [w173723545]
+# name:be: []
+msgid "Авторынок"
+msgstr ""
+
+# Objects : [n470544276]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w112953735]
+# name:be: []
+msgid "В/Ч 32213"
+msgstr ""
+
+# Objects : [n306063914]
+# name:be: []
+msgid "Воен.Городок"
+msgstr ""
+
+# Objects : [n470330510]
+# name:be: []
+msgid "ГК "Надречный""
+msgstr ""
+
+# Objects : [n2766736691]
+# name:be: []
+msgid "Гостиница Слуцк"
+msgstr ""
+
+# Objects : [w39258200]
+# name:be: []
+msgid "Детский пляж"
+msgstr ""
+
+# Objects : [w200852219]
+# name:be: []
+msgid "ДЮСШ"
+msgstr ""
+
+# Objects : [n3269442757]
+# name:be: []
+msgid "Заправка автокондиционеров"
+msgstr ""
+
+# Objects : [n2788680469]
+# name:be: [Будынак былога дваранскага сходу]
+msgid "Здание дворянского собрания"
+msgstr ""
+
+# Objects : [n1758983404]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w39234434]
+# name:be: []
+msgid "Мемориал евреям-жертвам Холокоста"
+msgstr ""
+
+# Objects : [w39449121]
+# name:be: []
+msgid "Минифутбол"
+msgstr ""
+
+# Objects : [w164247522]
+# name:be: []
+msgid "Модуль"
+msgstr ""
+
+# Objects : [n1759474279]
+# name:be: []
+msgid "Молодёжный центр"
+msgstr ""
+
+# Objects : [n306063861]
+# name:be: []
+msgid "На Жукова"
+msgstr ""
+
+# Objects : [w168325200]
+# name:be: []
+msgid "ОАО "Слуцкий Сыродельный Комбинат""
+msgstr ""
+
+# Objects : [w171452800]
+# name:be: []
+msgid "ОАО "Слуцк модуль""
+msgstr ""
+
+# Objects : [n470019281]
+# name:be: []
+msgid "Памятник В. И. Ленину"
+msgstr ""
+
+# Objects : [n470019304]
+# name:be: []
+msgid "Памятник воину-освободителю"
+msgstr ""
+
+# Objects : [n470019321]
+# name:be: []
+msgid "Памятник Софии Слуцкой"
+msgstr ""
+
+# Objects : [w39269015]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w39501087]
+# name:be: []
+msgid "Рынок цветов"
+msgstr ""
+
+# Objects : [w39268979]
+# name:be: []
+msgid "Свалка мусора"
+msgstr ""
+
+# Objects : [n1366339033, n1758979355, n2098733504]
+# name:be: [Слуцк]
+msgid "Слуцк"
+msgstr ""
+
+# Objects : [w39499559]
+# name:be: [Слуцкі кансеўрны завод]
+msgid "Слуцкий консервный завод"
+msgstr ""
+
+# Objects : [w25128003]
+# name:be: []
+msgid "Слуцкий сахарорафинадный комбинат"
+msgstr ""
+
+# Objects : [n1620269000]
+# name:be: []
+msgid "стоматология Дент-Ник"
+msgstr ""
+
+# Objects : [n306063859]
+# name:be: [Цэнтральная раённая бальніца]
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [n470072101]
+# name:be: []
+msgid "Центр занятости населения"
+msgstr ""
+
+# Objects : [n2788686377]
+# name:be: [Царква Святога Міхала Арханёла]
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [w164207620]
+# name:be: []
+msgid "Чехова"
+msgstr ""
+

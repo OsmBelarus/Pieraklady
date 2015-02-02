@@ -1,0 +1,185 @@
+# Objects : [w263794036]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w243055563, w263794472, w264431263, w264450334, w264589141, w274547242, w281824631]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w263218624, w264589165]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w264431264]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w176068697]
+# name:be: []
+msgid "д.6"
+msgstr ""
+
+# Objects : [w176068676]
+# name:be: []
+msgid "д.7"
+msgstr ""
+
+# Objects : [w263344294]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w263483361]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w261402156]
+# name:be: []
+msgid "Жгуньская контора"
+msgstr ""
+
+# Objects : [w283605296]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w181087824]
+# name:be: []
+msgid "Иговская контора"
+msgstr ""
+
+# Objects : [w263218998, w264303261]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w181081912, w245531980, w264431531, w264450706, w281824433, w282857763]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w264431532, w266848289, w279547391]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w281824531]
+# name:be: []
+msgid "Контора колхоза"
+msgstr ""
+
+# Objects : [w261537907]
+# name:be: []
+msgid "Котельная КСШ"
+msgstr ""
+
+# Objects : [w282053205]
+# name:be: []
+msgid "крестьянское хозяйство"
+msgstr ""
+
+# Objects : [w246797423]
+# name:be: []
+msgid "Крупецкий сельский совет"
+msgstr ""
+
+# Objects : [w263794025]
+# name:be: []
+msgid "Лебедевский дом культуры"
+msgstr ""
+
+# Objects : [w257732141, w257745122, w279550033, w279744664, w280003643, w281999670]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w281824657]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w246797476]
+# name:be: []
+msgid "Мастерская народны ремесел"
+msgstr ""
+
+# Objects : [w283605297]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
+# Objects : [w264303265]
+# name:be: []
+msgid "Мельница"
+msgstr ""
+
+# Objects : [w274547210]
+# name:be: []
+msgid "Пожарная"
+msgstr ""
+
+# Objects : [w264303267]
+# name:be: []
+msgid "Пожарное депо"
+msgstr ""
+
+# Objects : [w255194176]
+# name:be: []
+msgid "Продтовары"
+msgstr ""
+
+# Objects : [w246797449]
+# name:be: []
+msgid "Продтовары и промтовары"
+msgstr ""
+
+# Objects : [w246308427]
+# name:be: []
+msgid "Продтовары № 63"
+msgstr ""
+
+# Objects : [w243055556, w261402160, w263344324, w263483297, w263794030, w263794508, w264303268, w264431536, w264431537, w264450522, w264589262, w264589430, w274547145, w275254384, w275254386, w279547395, w279547396, w282856484, w288428968]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w176068706]
+# name:be: []
+msgid "Сад-ясли"
+msgstr ""
+
+# Objects : [w279549092]
+# name:be: []
+msgid "сельский совет"
+msgstr ""
+
+# Objects : [w263344326, w281824645]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
+# Objects : [w245531985]
+# name:be: []
+msgid "Спортивный зал"
+msgstr ""
+
+# Objects : [w245635470, w263794547]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w245531972]
+# name:be: []
+msgid "Утевский магазин"
+msgstr ""
+
+# Objects : [w263794032, w264589209, w264589248, w274547150, w281824525]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+

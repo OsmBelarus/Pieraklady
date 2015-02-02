@@ -1,0 +1,175 @@
+# Objects : [w169678653]
+# name:be: [Беларуская вуліца]
+msgid "Белорусская улица"
+msgstr ""
+
+# Objects : [w169345158]
+# name:be: [Брэсцкая вуліца]
+msgid "Брестская улица"
+msgstr ""
+
+# Objects : [w169345148]
+# name:be: [Вакзальная вуліца]
+msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w239705416]
+# name:be: [Гомельская вуліца]
+msgid "Гомельская улица"
+msgstr ""
+
+# Objects : [w169339705]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w199789892]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w239704269]
+# name:be: [Залінейная вуліца]
+msgid "Залинейная улица"
+msgstr ""
+
+# Objects : [w239704270]
+# name:be: [Калгасны завулак]
+msgid "Колхозный переулок"
+msgstr ""
+
+# Objects : [w130585428]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w239704273]
+# name:be: [Моладзевая вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w169678645]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w169339704, w239705412, w282078262]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w169678650]
+# name:be: [Першамайскі праезд]
+msgid "Первомайский проезд"
+msgstr ""
+
+# Objects : [w169345156]
+# name:be: [завулак Леніна]
+msgid "переулок Ленина"
+msgstr ""
+
+# Objects : [w169345150]
+# name:be: [завулак Мічурына]
+msgid "переулок Мичурина"
+msgstr ""
+
+# Objects : [w239704279]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w106116218]
+# name:be: [Паштовая вуліца]
+msgid "Почтовая улица"
+msgstr ""
+
+# Objects : [w169345134]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w199789893]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w253460366]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w169339698]
+# name:be: [Савецкі завулак]
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w236813234]
+# name:be: [Сцяпная вуліца]
+msgid "Степная улица"
+msgstr ""
+
+# Objects : [w169345155]
+# name:be: [вуліца 70 гадоў Кастрычніка]
+msgid "улица 70 лет Октября"
+msgstr ""
+
+# Objects : [w169345144]
+# name:be: [вуліца Жданава]
+msgid "улица Жданова"
+msgstr ""
+
+# Objects : [w169678652]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w169678651]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w238816570, w282628718]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w169678655]
+# name:be: [вуліца Лермантава]
+msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [w169345157]
+# name:be: [вуліца Міру]
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w169345161, w239391680]
+# name:be: [вуліца Мічурына]
+msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [w169339700]
+# name:be: [вуліца Перамогі]
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [w169780351]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w169345127]
+# name:be: [вуліца Будаўнікоў]
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w239704282]
+# name:be: [Кветкавая вуліца]
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w169345152, w239706058]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

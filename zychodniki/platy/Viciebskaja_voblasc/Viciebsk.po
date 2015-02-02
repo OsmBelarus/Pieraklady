@@ -1,0 +1,95 @@
+# Objects : [w144061172]
+# name:be: []
+msgid "автохозяйство Белвест"
+msgstr ""
+
+# Objects : [w232894732]
+# name:be: []
+msgid "Автоцентр RENAULT"
+msgstr ""
+
+# Objects : [w231927587]
+# name:be: []
+msgid "Гордормост"
+msgstr ""
+
+# Objects : [w27897635]
+# name:be: []
+msgid "ГПК-10"
+msgstr ""
+
+# Objects : [w119835670, w119933365, w119933374]
+# name:be: [Дз/сад]
+msgid "Д/сад"
+msgstr ""
+
+# Objects : [w117980688]
+# name:be: [Інфекцыйная бальніца]
+msgid "Инфекционная больница"
+msgstr ""
+
+# Objects : [w241099691]
+# name:be: []
+msgid "ИП «ЧЕСС-Бел»"
+msgstr ""
+
+# Objects : [w40014849]
+# name:be: []
+msgid "ООО «Альянспласт»"
+msgstr ""
+
+# Objects : [w226945370]
+# name:be: []
+msgid "Подстанция"
+msgstr ""
+
+# Objects : [w30701445]
+# name:be: [Падстанцыя «Тэхналагічная»]
+msgid "подстанция "Технологическая""
+msgstr ""
+
+# Objects : [w27896599]
+# name:be: [Полацкі рынак]
+msgid "Полоцкий Рынок"
+msgstr ""
+
+# Objects : [w192123635]
+# name:be: [Супрацьтуберкулёзны дыспансэр]
+msgid "Противотуберкулёзный диспансер"
+msgstr ""
+
+# Objects : [w228269043]
+# name:be: [ВДПЛ № 1 машынабудаўніцтва імя Шмырова]
+msgid "Профессиональный лицей № 1 машиностроения"
+msgstr ""
+
+# Objects : [w55729040]
+# name:be: [Радзільня № 2]
+msgid "Роддом № 2"
+msgstr ""
+
+# Objects : [w27896600]
+# name:be: []
+msgid "стадион "Локомотив""
+msgstr ""
+
+# Objects : [w260181313]
+# name:be: []
+msgid "строительство здания Октябрьского РОВД"
+msgstr ""
+
+# Objects : [w180945801, w180945802, w180954538, w180954539]
+# name:be: []
+msgid "Территория ДОСААФ"
+msgstr ""
+
+# Objects : [w135509949]
+# name:be: []
+msgid "Центр реабилитации для инвалидов"
+msgstr ""
+
+# Objects : [w265922615]
+# name:be: []
+msgid "Эстакада"
+msgstr ""
+

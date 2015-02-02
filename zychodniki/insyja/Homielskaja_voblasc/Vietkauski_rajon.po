@@ -1,0 +1,165 @@
+# Objects : [w257610083]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [r3220412]
+# name:be: []
+msgid "Ветковская районная больница"
+msgstr ""
+
+# Objects : [w238843970]
+# name:be: []
+msgid "Ветковская ЦРБ"
+msgstr ""
+
+# Objects : [w260880855]
+# name:be: []
+msgid "ГУО "Великонемковский детский сад - средняя школа""
+msgstr ""
+
+# Objects : [n2788680315]
+# name:be: [Палацава-паркавы комплекс Сянажэцкіх-Войнічаў]
+msgid "Дворцово-парковый комплекс Сеножецких-Войничей"
+msgstr ""
+
+# Objects : [w262678833]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [n243044948, w25081075]
+# name:be: [Зарэчча]
+msgid "Заречье"
+msgstr ""
+
+# Objects : [w311535844]
+# name:be: []
+msgid "ЗСК СКУ-10"
+msgstr ""
+
+# Objects : [n1110299624]
+# name:be: []
+msgid "Исправительная колония-поселение № 21"
+msgstr ""
+
+# Objects : [w309926316]
+# name:be: []
+msgid "КН"
+msgstr ""
+
+# Objects : [w179250277, w244910744]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w238844066]
+# name:be: []
+msgid "котельная ЦРБ"
+msgstr ""
+
+# Objects : [w257610088]
+# name:be: []
+msgid "Котельная школы"
+msgstr ""
+
+# Objects : [w25195320]
+# name:be: []
+msgid "Кривое"
+msgstr ""
+
+# Objects : [w269477017]
+# name:be: []
+msgid "КТ100 кв"
+msgstr ""
+
+# Objects : [w309855358]
+# name:be: []
+msgid "Памятник Ленину"
+msgstr ""
+
+# Objects : [n306068002]
+# name:be: []
+msgid "Перелевка-Верхличи"
+msgstr ""
+
+# Objects : [n243046609, w25082002]
+# name:be: [Петраполле]
+msgid "Петрополье"
+msgstr ""
+
+# Objects : [n3092050109]
+# name:be: []
+msgid "Приснянская амбулатория врача общей практики"
+msgstr ""
+
+# Objects : [w257603834]
+# name:be: []
+msgid "Приснянская базовая школа"
+msgstr ""
+
+# Objects : [n243046588, w25082015]
+# name:be: [Рыслаўль]
+msgid "Риславль"
+msgstr ""
+
+# Objects : [w179250267]
+# name:be: []
+msgid "Светиловичская участковая больница"
+msgstr ""
+
+# Objects : [n243044917, w25081081]
+# name:be: [Сяліцкая]
+msgid "Селицкая"
+msgstr ""
+
+# Objects : [w226744231]
+# name:be: []
+msgid "Сожский карьер"
+msgstr ""
+
+# Objects : [w244910756]
+# name:be: []
+msgid "Средняя школа"
+msgstr ""
+
+# Objects : [n2837168134]
+# name:be: []
+msgid "Столб"
+msgstr ""
+
+# Objects : [w262404752, w287682294, w301922564, w318066847]
+# name:be: []
+msgid "ТП"
+msgstr ""
+
+# Objects : [n2788684591]
+# name:be: [Сядзібна-паркавы комплекс]
+msgid "Усадебно-парковый комплекс"
+msgstr ""
+
+# Objects : [n2788684790]
+# name:be: [Сядзіба Шульцаў]
+msgid "Усадьба Шульцев"
+msgstr ""
+
+# Objects : [n243046589, w25082006]
+# name:be: [Ухова]
+msgid "Ухово"
+msgstr ""
+
+# Objects : [n597740677]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [n2788686472, n2788686473]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w25196633]
+# name:be: []
+msgid "Чечель"
+msgstr ""
+

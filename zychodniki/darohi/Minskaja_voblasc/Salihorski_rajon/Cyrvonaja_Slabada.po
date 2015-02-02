@@ -1,0 +1,165 @@
+# Objects : [w273546628]
+# name:be: [Базарная вуліца]
+msgid "Базарная улица"
+msgstr ""
+
+# Objects : [w274902153]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w274902149]
+# name:be: [Зарэчная вуліца]
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w277856288]
+# name:be: [Клінічная вуліца]
+msgid "Клиническая улица"
+msgstr ""
+
+# Objects : [w277788339]
+# name:be: [Клінічны завулак]
+msgid "Клинический переулок"
+msgstr ""
+
+# Objects : [w273985437]
+# name:be: [Калгасная вуліца]
+msgid "колхозная улица"
+msgstr ""
+
+# Objects : [w274760275]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w274472721]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w274472736]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w273985272]
+# name:be: [Майская вуліца]
+msgid "Майская улица"
+msgstr ""
+
+# Objects : [w273548765]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w274472719]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w273986170, w274902146]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w273985722]
+# name:be: [Пясчаны завулак]
+msgid "Песчаный переулок"
+msgstr ""
+
+# Objects : [w274902157]
+# name:be: [Памежная вуліца]
+msgid "Пограничная улица"
+msgstr ""
+
+# Objects : [w273548283]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w274472732]
+# name:be: [Паштовая вуліца]
+msgid "Почтовая улица"
+msgstr ""
+
+# Objects : [w273545119]
+# name:be: [Слуцкая вуліца]
+msgid "Слуцкая улица"
+msgstr ""
+
+# Objects : [w273989919]
+# name:be: [Слуцкі завулак]
+msgid "Слуцкий переулок"
+msgstr ""
+
+# Objects : [w274902138]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w273548605]
+# name:be: [Стрыжэўская вуліца]
+msgid "Стрижевская улица"
+msgstr ""
+
+# Objects : [w274902151]
+# name:be: [Працоўная вуліца]
+msgid "Трудовая улица"
+msgstr ""
+
+# Objects : [w274472713]
+# name:be: [вуліца 40 гадоў БССР]
+msgid "улица 40 лет БССР"
+msgstr ""
+
+# Objects : [w274472717]
+# name:be: [вуліца 8 Сакавіка]
+msgid "улица 8 Марта"
+msgstr ""
+
+# Objects : [w273545949]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w273547389]
+# name:be: [вуліца Жукоўскага]
+msgid "улица Жуковского"
+msgstr ""
+
+# Objects : [w273545359]
+# name:be: [вуліца Максіма Горкага]
+msgid "улица Максима Горького"
+msgstr ""
+
+# Objects : [w273544910]
+# name:be: [вуліца Маякоўскага]
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [w274472726]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w273985735]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w125581886]
+# name:be: [вуліца Янкі Купалы]
+msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w274472742]
+# name:be: [Школьны завулак]
+msgid "Школьный переулок"
+msgstr ""
+
+# Objects : [w274902154]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

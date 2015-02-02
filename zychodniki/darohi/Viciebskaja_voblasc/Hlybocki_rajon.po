@@ -1,0 +1,65 @@
+# Objects : [w242039662]
+# name:be: []
+msgid ""аллея трезвости""
+msgstr ""
+
+# Objects : [w25270068]
+# name:be: []
+msgid "дорога на промзону"
+msgstr ""
+
+# Objects : [w321246475]
+# name:be: []
+msgid "Комсомольский переулок"
+msgstr ""
+
+# Objects : [w177690827]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w84034840]
+# name:be: []
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w326047681]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w84034845]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w255891404]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w321247649, w84034841, w84034843]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w263500577]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w255891403, w255892341, w255893370, w255893504]
+# name:be: []
+msgid "улица Новосёлов"
+msgstr ""
+
+# Objects : [w255752527]
+# name:be: []
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w255752339, w313553875]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+

@@ -1,0 +1,40 @@
+# Objects : [n306064217]
+# name:be: []
+msgid "ATM Беларусбанк"
+msgstr ""
+
+# Objects : [n3126163594]
+# name:be: []
+msgid "ATM БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n306064219]
+# name:be: []
+msgid "ATM Приорбанк"
+msgstr ""
+
+# Objects : [n3146919010]
+# name:be: []
+msgid "Атм Агропромбанк"
+msgstr ""
+
+# Objects : [n306064222, n306064328, n306064491, n306064518]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n306064324]
+# name:be: [Белзнешэканомбанк]
+msgid "Белвнешэкономбанк"
+msgstr ""
+
+# Objects : [n306064446]
+# name:be: [Белпрамбудбанк]
+msgid "Белпромстройбанк"
+msgstr ""
+
+# Objects : [n306064325, n306064329, n306064425, n306064521]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+

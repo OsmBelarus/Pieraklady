@@ -1,0 +1,120 @@
+# Objects : [w29501435]
+# name:be: []
+msgid "ЕХБ "Спасение""
+msgstr ""
+
+# Objects : [w315811136]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w41014352]
+# name:be: [Касцёл Св. Мацвея]
+msgid "Костёл Св. Матвея"
+msgstr ""
+
+# Objects : [w290903356]
+# name:be: []
+msgid "Крестовоздвиженская"
+msgstr ""
+
+# Objects : [n306066077]
+# name:be: []
+msgid "Монастырь На Лысой Горе"
+msgstr ""
+
+# Objects : [n3190770344]
+# name:be: []
+msgid "православная церковь"
+msgstr ""
+
+# Objects : [w62044547]
+# name:be: []
+msgid "Приход свт. Николая Чудотворца"
+msgstr ""
+
+# Objects : [n2956893540]
+# name:be: []
+msgid "Свято-Вознесенская церковь пос. Ждановичи"
+msgstr ""
+
+# Objects : [n965543174]
+# name:be: [Сельсавет]
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w256861196]
+# name:be: []
+msgid "Храм"
+msgstr ""
+
+# Objects : [n3149890854]
+# name:be: []
+msgid "Храм Вознесения Господня"
+msgstr ""
+
+# Objects : [n3204675577]
+# name:be: []
+msgid "Храм в честь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w161635066]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2278014488]
+# name:be: []
+msgid "Церковь во имя образа Пресвятой Богородицы, именуемого "Отрада""
+msgstr ""
+
+# Objects : [w243591073]
+# name:be: []
+msgid "Церковь в честь Рождества Христова"
+msgstr ""
+
+# Objects : [n1372201876]
+# name:be: []
+msgid "Церковь ЕХБ "Спасение""
+msgstr ""
+
+# Objects : [n2579719501]
+# name:be: []
+msgid "Церковь Иисуса Христа"
+msgstr ""
+
+# Objects : [n1370051356]
+# name:be: []
+msgid "Церковь Рождества Богородицы"
+msgstr ""
+
+# Objects : [n1370040227]
+# name:be: []
+msgid "Церковь Рождества Богородицы (руины)"
+msgstr ""
+
+# Objects : [n1372193739]
+# name:be: []
+msgid "Церковь св. Ильи"
+msgstr ""
+
+# Objects : [n1373736855]
+# name:be: []
+msgid "Церковь св. Иоанна (дерев.)"
+msgstr ""
+
+# Objects : [n1369988852]
+# name:be: []
+msgid "Церковь св. Петра и Павла"
+msgstr ""
+
+# Objects : [w148991674]
+# name:be: []
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [w127582193, w283546484]
+# name:be: []
+msgid "Церковь святых Веры, Надежды, Любви"
+msgstr ""
+

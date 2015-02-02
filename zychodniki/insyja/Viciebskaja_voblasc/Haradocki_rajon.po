@@ -1,0 +1,355 @@
+# Objects : [n2279529025]
+# name:be: []
+msgid "Барсуки"
+msgstr ""
+
+# Objects : [n2279532238]
+# name:be: []
+msgid "Безносенки"
+msgstr ""
+
+# Objects : [w25183321]
+# name:be: [воз. Бялібінец]
+msgid "Белибинец"
+msgstr ""
+
+# Objects : [w56381517]
+# name:be: []
+msgid "бол. Ивановский Мох"
+msgstr ""
+
+# Objects : [w56379431]
+# name:be: []
+msgid "бол. Клюкинский Мох"
+msgstr ""
+
+# Objects : [w178451134]
+# name:be: []
+msgid "бол. Плехановский Мох"
+msgstr ""
+
+# Objects : [r4428021, w178451131]
+# name:be: []
+msgid "бол. Чистик"
+msgstr ""
+
+# Objects : [w297391182]
+# name:be: []
+msgid "Болото Чёрный Мох"
+msgstr ""
+
+# Objects : [n306066526]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n27077712]
+# name:be: [Бычыха]
+msgid "Бычиха"
+msgstr ""
+
+# Objects : [w25196645]
+# name:be: [воз. Верына]
+msgid "Верино"
+msgstr ""
+
+# Objects : [n2788680001]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n2788680166]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1662712349]
+# name:be: [Брацкія могілкі]
+msgid "Воисковое захоронение 1943-1944гг. №4377"
+msgstr ""
+
+# Objects : [n2978339629]
+# name:be: [Вязаўкі]
+msgid "Вязовки"
+msgstr ""
+
+# Objects : [n2935836405]
+# name:be: []
+msgid "Герой Советского Союза. Уроженец д.Марченки Ромашкин Т.Т."
+msgstr ""
+
+# Objects : [w155535526]
+# name:be: [Гліняны кар’ер]
+msgid "Глиняный карьер"
+msgstr ""
+
+# Objects : [w290045165]
+# name:be: []
+msgid "Городище"
+msgstr ""
+
+# Objects : [w282402294]
+# name:be: [Гаражанка]
+msgid "Горожанка"
+msgstr ""
+
+# Objects : [w167947810]
+# name:be: [Грыбачы]
+msgid "Грибачи"
+msgstr ""
+
+# Objects : [n1662890045, n1664329274, n275173426]
+# name:be: [Гуркі]
+msgid "Гурки"
+msgstr ""
+
+# Objects : [w25188325]
+# name:be: [воз. Дабрыніна]
+msgid "Добрынино"
+msgstr ""
+
+# Objects : [n1657568168]
+# name:be: [дом Кандавурава]
+msgid "дом Кандаурова"
+msgstr ""
+
+# Objects : [n475340539]
+# name:be: []
+msgid "Езерище-Невельский"
+msgstr ""
+
+# Objects : [n306066519]
+# name:be: [Залучча]
+msgid "Залучье"
+msgstr ""
+
+# Objects : [n2788680442]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n1797317357]
+# name:be: []
+msgid "Замчище XIV - XVII вв."
+msgstr ""
+
+# Objects : [w25193700]
+# name:be: []
+msgid "Исно"
+msgstr ""
+
+# Objects : [w168150721]
+# name:be: []
+msgid "Кабищанка"
+msgstr ""
+
+# Objects : [n2978743161]
+# name:be: [Кісялёўкі]
+msgid "Киселёвки"
+msgstr ""
+
+# Objects : [w281431674, w281964057]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w25193448]
+# name:be: [Клюшова]
+msgid "Клюшово"
+msgstr ""
+
+# Objects : [n243044085, w25087999]
+# name:be: [Карнілы]
+msgid "Корнилы"
+msgstr ""
+
+# Objects : [n2788682297]
+# name:be: [Касцёл Святых апосталаў Пятра й Паўла]
+msgid "Костел Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n1664329256, n1664329273]
+# name:be: []
+msgid "Лахи"
+msgstr ""
+
+# Objects : [n2279525938]
+# name:be: []
+msgid "Лопашки"
+msgstr ""
+
+# Objects : [n2791280867]
+# name:be: []
+msgid "Наполеонова тропа"
+msgstr ""
+
+# Objects : [n243042033, w25085641]
+# name:be: [Нізкія]
+msgid "Низкие"
+msgstr ""
+
+# Objects : [r3218742]
+# name:be: []
+msgid "о. Большой"
+msgstr ""
+
+# Objects : [w202314526]
+# name:be: []
+msgid "о. Глиновик"
+msgstr ""
+
+# Objects : [w25537230]
+# name:be: []
+msgid "о. Говейник"
+msgstr ""
+
+# Objects : [w25537086]
+# name:be: []
+msgid "о. Городище"
+msgstr ""
+
+# Objects : [w25537253]
+# name:be: []
+msgid "о. Дубовик"
+msgstr ""
+
+# Objects : [w25537229]
+# name:be: []
+msgid "о. Козел"
+msgstr ""
+
+# Objects : [w25537254]
+# name:be: []
+msgid "о. Лозовик"
+msgstr ""
+
+# Objects : [w164671372]
+# name:be: []
+msgid "ОАО «Птицефабрика Городок»"
+msgstr ""
+
+# Objects : [w25197902]
+# name:be: [Обаль]
+msgid "Оболь"
+msgstr ""
+
+# Objects : [n2766728162]
+# name:be: []
+msgid "Озёрная"
+msgstr ""
+
+# Objects : [n2279516464]
+# name:be: []
+msgid "Ольшаники"
+msgstr ""
+
+# Objects : [w25537387]
+# name:be: []
+msgid "остров Рябиновый"
+msgstr ""
+
+# Objects : [n2788683609]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788683645]
+# name:be: [Прысядзібны парк Мастманаў]
+msgid "Приусадебный парк Мастманав"
+msgstr ""
+
+# Objects : [n2279530449]
+# name:be: []
+msgid "Пыльки"
+msgstr ""
+
+# Objects : [n243039829, w25103488]
+# name:be: [Пяцеры]
+msgid "Пятери"
+msgstr ""
+
+# Objects : [w155535743]
+# name:be: [Разбураная цагельня]
+msgid "Разрушенный кирпичный завод "Безносенки""
+msgstr ""
+
+# Objects : [n306066935]
+# name:be: [Раслякі]
+msgid "Росляки"
+msgstr ""
+
+# Objects : [w172604040, w172604041, w25097456]
+# name:be: []
+msgid "садовые участки"
+msgstr ""
+
+# Objects : [w292256833]
+# name:be: []
+msgid "Садовые участки"
+msgstr ""
+
+# Objects : [w177980154]
+# name:be: []
+msgid "садовые участки "Тюльпан-2""
+msgstr ""
+
+# Objects : [w25193472]
+# name:be: [воз. Соміна]
+msgid "Сомино"
+msgstr ""
+
+# Objects : [w197991101]
+# name:be: []
+msgid "СТ «Лосвидо»"
+msgstr ""
+
+# Objects : [w25194627]
+# name:be: [воз. Церабаўля]
+msgid "Теребавля"
+msgstr ""
+
+# Objects : [n2950494062]
+# name:be: []
+msgid "Транспортная инспекция РФ"
+msgstr ""
+
+# Objects : [w93245105]
+# name:be: []
+msgid "Туристско-оздоровительный комплекс «Лосвидо»"
+msgstr ""
+
+# Objects : [w178451128]
+# name:be: []
+msgid "ур. Раков Мох"
+msgstr ""
+
+# Objects : [n2788685031]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788687388]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788685856]
+# name:be: [Царква Ушэсця Гасподняга]
+msgid "Церковь Вознесения Господня"
+msgstr ""
+
+# Objects : [w25183957]
+# name:be: [воз. Шалынец]
+msgid "Шалынец"
+msgstr ""
+
+# Objects : [n2766728263]
+# name:be: []
+msgid "Эридан"
+msgstr ""
+
+# Objects : [w127012433]
+# name:be: [воз. Ямянішча]
+msgid "Яменище"
+msgstr ""
+

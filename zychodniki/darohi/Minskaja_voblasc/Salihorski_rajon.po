@@ -1,0 +1,225 @@
+# Objects : [w39476537]
+# name:be: []
+msgid "50 лет Победы"
+msgstr ""
+
+# Objects : [w39476646, w39476893]
+# name:be: []
+msgid "Васильковая"
+msgstr ""
+
+# Objects : [w39476571]
+# name:be: []
+msgid "Весенний переулок"
+msgstr ""
+
+# Objects : [w39476553, w39476865]
+# name:be: [Дружны завулак]
+msgid "Дружный переулок"
+msgstr ""
+
+# Objects : [w39476691]
+# name:be: []
+msgid "Есенина"
+msgstr ""
+
+# Objects : [w296643976]
+# name:be: []
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w39476748]
+# name:be: [Заходні завулак]
+msgid "Западный переулок"
+msgstr ""
+
+# Objects : [n1818931385]
+# name:be: []
+msgid "Камера контроля скорости Mesta-2200"
+msgstr ""
+
+# Objects : [w301229245]
+# name:be: []
+msgid "Красный Берег"
+msgstr ""
+
+# Objects : [w39476825]
+# name:be: []
+msgid "М. Багдановича"
+msgstr ""
+
+# Objects : [w39476685]
+# name:be: []
+msgid "Майская"
+msgstr ""
+
+# Objects : [w39476855]
+# name:be: [Мірная вуліца]
+msgid "Мирная улица"
+msgstr ""
+
+# Objects : [w84677737]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w39476526, w39476658]
+# name:be: []
+msgid "пер. Калийный"
+msgstr ""
+
+# Objects : [w39476937]
+# name:be: []
+msgid "Подлесный переулок"
+msgstr ""
+
+# Objects : [w39476696, w39476786]
+# name:be: []
+msgid "проезд Новосёлов"
+msgstr ""
+
+# Objects : [w301229246]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w65304213, w65304238]
+# name:be: []
+msgid "Саманная"
+msgstr ""
+
+# Objects : [w39476695]
+# name:be: []
+msgid "Сиреневый переулок"
+msgstr ""
+
+# Objects : [w232796346]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w39476603]
+# name:be: []
+msgid "Старобинская"
+msgstr ""
+
+# Objects : [w307831905]
+# name:be: []
+msgid "технологитеская дорога 1 РУ"
+msgstr ""
+
+# Objects : [w39476737]
+# name:be: [Ціхі завулак]
+msgid "Тихий переулок"
+msgstr ""
+
+# Objects : [w154359324]
+# name:be: []
+msgid "тропа"
+msgstr ""
+
+# Objects : [w158475683]
+# name:be: []
+msgid "тропа к ст. "Горняк-1""
+msgstr ""
+
+# Objects : [w116508697]
+# name:be: []
+msgid "ул. 15"
+msgstr ""
+
+# Objects : [w116508678]
+# name:be: []
+msgid "ул. 16"
+msgstr ""
+
+# Objects : [w72354378]
+# name:be: []
+msgid "ул. 17"
+msgstr ""
+
+# Objects : [w116508684]
+# name:be: []
+msgid "ул. 18"
+msgstr ""
+
+# Objects : [w116508689]
+# name:be: []
+msgid "ул. 19"
+msgstr ""
+
+# Objects : [w116508692]
+# name:be: []
+msgid "ул. 20 (уточнить)"
+msgstr ""
+
+# Objects : [w261056030]
+# name:be: []
+msgid "ул. 21 (уточнить)"
+msgstr ""
+
+# Objects : [w116508669]
+# name:be: []
+msgid "ул. 3"
+msgstr ""
+
+# Objects : [w116508688, w208183990]
+# name:be: []
+msgid "ул. 4"
+msgstr ""
+
+# Objects : [w116508664]
+# name:be: []
+msgid "ул. 5"
+msgstr ""
+
+# Objects : [w208183988]
+# name:be: []
+msgid "ул. 6"
+msgstr ""
+
+# Objects : [w260065618]
+# name:be: []
+msgid "ул. 7"
+msgstr ""
+
+# Objects : [w72354371]
+# name:be: []
+msgid "ул. 8"
+msgstr ""
+
+# Objects : [w117686477, w28891805]
+# name:be: []
+msgid "ул. Пролетарская"
+msgstr ""
+
+# Objects : [w154359696]
+# name:be: []
+msgid "улица Коржа"
+msgstr ""
+
+# Objects : [w39476721, w39476796, w39476879]
+# name:be: []
+msgid "улица Костюшко"
+msgstr ""
+
+# Objects : [w125727587, w297140281, w72354362, w80503260]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w39476707]
+# name:be: []
+msgid "Чуклая"
+msgstr ""
+
+# Objects : [w274268989]
+# name:be: []
+msgid "Шашлычная"
+msgstr ""
+
+# Objects : [w39476522]
+# name:be: [Я. Коласа]
+msgid "Я. Коласа"
+msgstr ""
+

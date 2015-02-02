@@ -1,0 +1,240 @@
+# Objects : [n1042090408]
+# name:be: []
+msgid "Babruisk Air Base"
+msgstr ""
+
+# Objects : [w71742260]
+# name:be: []
+msgid "Bobruisk Airclub"
+msgstr ""
+
+# Objects : [n306066569]
+# name:be: []
+msgid "База Отдыха"
+msgstr ""
+
+# Objects : [w25195013]
+# name:be: [Белы Бераг]
+msgid "Белый Берег"
+msgstr ""
+
+# Objects : [n1365278887]
+# name:be: [Бабруйск]
+msgid "Бобруйск"
+msgstr ""
+
+# Objects : [n271044317]
+# name:be: [Брожа]
+msgid "Брожа"
+msgstr ""
+
+# Objects : [n306066571]
+# name:be: []
+msgid "Вид На Излучину Березины"
+msgstr ""
+
+# Objects : [n2129378552, n2766728046]
+# name:be: []
+msgid "Вишневый сад"
+msgstr ""
+
+# Objects : [w25197250]
+# name:be: []
+msgid "Вяхово"
+msgstr ""
+
+# Objects : [w25180683]
+# name:be: [Глухое воз.]
+msgid "Глухое"
+msgstr ""
+
+# Objects : [n306066658]
+# name:be: [Глуша]
+msgid "Глуша"
+msgstr ""
+
+# Objects : [n2766736495]
+# name:be: []
+msgid "Гостиница Бобруйск"
+msgstr ""
+
+# Objects : [n3154411123]
+# name:be: []
+msgid "Детский оздоровительный лагерь"
+msgstr ""
+
+# Objects : [n306066573, n306066582]
+# name:be: []
+msgid "Детский Оздоровительный Лагерь"
+msgstr ""
+
+# Objects : [n306066586]
+# name:be: []
+msgid "Детский Оздоровительный Лагерь 'Дружба'"
+msgstr ""
+
+# Objects : [n306065301]
+# name:be: []
+msgid "Детский Оздоровительный Лагерь 'Космос'"
+msgstr ""
+
+# Objects : [n306066565]
+# name:be: []
+msgid "Детский Оздоровительный Лагерь 'Мечта'"
+msgstr ""
+
+# Objects : [n306066587]
+# name:be: []
+msgid "Детский Оздоровительный Лагерь 'Мир'"
+msgstr ""
+
+# Objects : [n306065297, n306065303]
+# name:be: [Дубаўка]
+msgid "Дубовка"
+msgstr ""
+
+# Objects : [w312081196]
+# name:be: []
+msgid "Завод по переработке масличных культур"
+msgstr ""
+
+# Objects : [n306066690]
+# name:be: []
+msgid "Заглубокое"
+msgstr ""
+
+# Objects : [w252236339]
+# name:be: []
+msgid "Зверохозяйство"
+msgstr ""
+
+# Objects : [n306066591]
+# name:be: [Каменка]
+msgid "Каменка"
+msgstr ""
+
+# Objects : [n2940218157]
+# name:be: []
+msgid "Киселевичский"
+msgstr ""
+
+# Objects : [n306066613]
+# name:be: [Красны Брод]
+msgid "Красный Брод"
+msgstr ""
+
+# Objects : [n994177838]
+# name:be: []
+msgid "Крокодил"
+msgstr ""
+
+# Objects : [w209965644]
+# name:be: []
+msgid "Мех.двор"
+msgstr ""
+
+# Objects : [w325191948, w325216327]
+# name:be: []
+msgid "Минск-Гомель"
+msgstr ""
+
+# Objects : [n306066576]
+# name:be: [Мірадзіна]
+msgid "Мирадино"
+msgstr ""
+
+# Objects : [n1641755558]
+# name:be: []
+msgid "Могила футболиста А. Прокопенко"
+msgstr ""
+
+# Objects : [n2788682739, n2788682746]
+# name:be: [Малельня стараверская]
+msgid "Молельный дом староверов"
+msgstr ""
+
+# Objects : [w325191953]
+# name:be: []
+msgid "Немецкое солдатское кладбище"
+msgstr ""
+
+# Objects : [n306065302]
+# name:be: []
+msgid "Озеро"
+msgstr ""
+
+# Objects : [n2622424334]
+# name:be: []
+msgid "Остановка"
+msgstr ""
+
+# Objects : [w25197025]
+# name:be: []
+msgid "Плавун"
+msgstr ""
+
+# Objects : [n2788683598]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788684019]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n306065305]
+# name:be: [Савічы]
+msgid "Савичи"
+msgstr ""
+
+# Objects : [n2766722641]
+# name:be: []
+msgid "Санаторий Шинник"
+msgstr ""
+
+# Objects : [n306066563]
+# name:be: []
+msgid "Сычково"
+msgstr ""
+
+# Objects : [n306065315]
+# name:be: [Цялуша]
+msgid "Телуша"
+msgstr ""
+
+# Objects : [n2874309384, w25107055]
+# name:be: [Такары]
+msgid "Токари"
+msgstr ""
+
+# Objects : [w286662765]
+# name:be: []
+msgid "Туголицкий биохимический завод"
+msgstr ""
+
+# Objects : [w25193989]
+# name:be: []
+msgid "Усох"
+msgstr ""
+
+# Objects : [n2788685078]
+# name:be: [Капліца-пахавальня Забелаў]
+msgid "Усыпальница Забелов"
+msgstr ""
+
+# Objects : [n2788685286]
+# name:be: [Гаспадарчы двор Варанцовых-Вельямінавых]
+msgid "Хозяйственный двор Воронцовых-Вельяминовых"
+msgstr ""
+
+# Objects : [n2788686479]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2766728260]
+# name:be: []
+msgid "Щатково"
+msgstr ""
+

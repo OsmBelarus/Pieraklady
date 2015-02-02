@@ -1,0 +1,70 @@
+# Objects : [n1206542644]
+# name:be: []
+msgid "Life"
+msgstr ""
+
+# Objects : [n1201057060]
+# name:be: []
+msgid "MTC"
+msgstr ""
+
+# Objects : [n1201057050]
+# name:be: [Velcom]
+msgid "Velcom"
+msgstr ""
+
+# Objects : [w99159604]
+# name:be: []
+msgid "Аэромаш"
+msgstr ""
+
+# Objects : [w104545933]
+# name:be: []
+msgid "ГСК "Автотурист""
+msgstr ""
+
+# Objects : [w112766456]
+# name:be: []
+msgid "ГСК "Спутник""
+msgstr ""
+
+# Objects : [w51928521]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w102317186]
+# name:be: []
+msgid "КИЗ"Домосед""
+msgstr ""
+
+# Objects : [n1042090389]
+# name:be: [Мачулішчы]
+msgid "Мачулищи"
+msgstr ""
+
+# Objects : [n1114032341]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w103398290, w104067551, w98185120]
+# name:be: []
+msgid "Огороды"
+msgstr ""
+
+# Objects : [w188307851]
+# name:be: []
+msgid "РУП "МИНСКЭНЕРГО""
+msgstr ""
+
+# Objects : [w103398114, w104361273, w98185119]
+# name:be: [Садовыя ўчасткі]
+msgid "Садовые участки"
+msgstr ""
+
+# Objects : [w104070220, w98752877]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+

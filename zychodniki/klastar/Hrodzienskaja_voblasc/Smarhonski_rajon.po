@@ -1,0 +1,100 @@
+# Objects : [n1575421605]
+# name:be: []
+msgid "Колокольня"
+msgstr ""
+
+# Objects : [w155299302]
+# name:be: []
+msgid "Костел Богоматери"
+msgstr ""
+
+# Objects : [n306068569]
+# name:be: []
+msgid "Костел Богоматери Руженцовой"
+msgstr ""
+
+# Objects : [w157520052]
+# name:be: []
+msgid "Костел Преображения Господнего"
+msgstr ""
+
+# Objects : [n1575437396]
+# name:be: []
+msgid "Костел св. Тадеуша"
+msgstr ""
+
+# Objects : [n2788682246]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы; Костел Троицкий"
+msgstr ""
+
+# Objects : [w154185540]
+# name:be: []
+msgid "Костел Троицкий"
+msgstr ""
+
+# Objects : [w111031440]
+# name:be: []
+msgid "Костел Троицкий (дерев.)"
+msgstr ""
+
+# Objects : [n1552030910]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1551959392]
+# name:be: []
+msgid "Церковь иконы Богоматери "Всех скорбящих Радость""
+msgstr ""
+
+# Objects : [w154218452]
+# name:be: []
+msgid "Церковь Покровская"
+msgstr ""
+
+# Objects : [w157520053]
+# name:be: []
+msgid "Церковь св. Александра Невского"
+msgstr ""
+
+# Objects : [n1575422036]
+# name:be: []
+msgid "Церковь св. Евфросиньи Полоцкой"
+msgstr ""
+
+# Objects : [w108803758]
+# name:be: []
+msgid "церковь святых апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n1551966889]
+# name:be: []
+msgid "Церковь униатская (руины)"
+msgstr ""
+
+# Objects : [n1576491224]
+# name:be: []
+msgid "Часовня "Криница у богини""
+msgstr ""
+
+# Objects : [n1615543044]
+# name:be: []
+msgid "Часовня католич."
+msgstr ""
+
+# Objects : [n1551921023]
+# name:be: []
+msgid "Часовня католич. Девы Марии"
+msgstr ""
+
+# Objects : [n1559015357, n1575453908]
+# name:be: []
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n1575487118]
+# name:be: []
+msgid "Часовня-усыпальница"
+msgstr ""
+

@@ -1,0 +1,355 @@
+# Objects : [w273211447]
+# name:be: []
+msgid "АБК Спиртзавода"
+msgstr ""
+
+# Objects : [w287691238]
+# name:be: []
+msgid "АВМ"
+msgstr ""
+
+# Objects : [n2788679966]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n2788680002]
+# name:be: [Водяная мельница (руины)]
+msgid "Водяная мельница (руины)"
+msgstr ""
+
+# Objects : [n2788680175]
+# name:be: [Гербавы слуп Раецкіх]
+msgid "Гербовый столб Раецких"
+msgstr ""
+
+# Objects : [w268934322]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w271970108]
+# name:be: []
+msgid "ГРС"
+msgstr ""
+
+# Objects : [w271993851]
+# name:be: []
+msgid "д. Литаровщина"
+msgstr ""
+
+# Objects : [r3828059]
+# name:be: []
+msgid "Заполье"
+msgstr ""
+
+# Objects : [w279990486]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w271992600, w276737652, w280449351, w287690219, w288514032, w291790875, w291790879, w291790881]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w268224321]
+# name:be: []
+msgid "КЗСВ"
+msgstr ""
+
+# Objects : [n2788680650]
+# name:be: [Могілкі вайсковыя часоў 1-й сусветнай вайны]
+msgid "Кладбище военное времен 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788680851]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n1560677747]
+# name:be: []
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681351]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681515]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n2788681686]
+# name:be: [Званіца]
+msgid "Колокольня"
+msgstr ""
+
+# Objects : [n2788682162]
+# name:be: [Касцёл Святой Ганны]
+msgid "Костел Святой Анны"
+msgstr ""
+
+# Objects : [w267250700, w271991116, w280449352]
+# name:be: []
+msgid "котельная РУП ЖКХ"
+msgstr ""
+
+# Objects : [w273211446]
+# name:be: []
+msgid "котельная Спиртзавода"
+msgstr ""
+
+# Objects : [w271968979]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w25137230]
+# name:be: []
+msgid "Лесок"
+msgstr ""
+
+# Objects : [w286071209]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w240323424]
+# name:be: []
+msgid "магестральный газопровод"
+msgstr ""
+
+# Objects : [w271993515]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
+# Objects : [w278894965]
+# name:be: []
+msgid "мехмастерские СПК"
+msgstr ""
+
+# Objects : [w280449362]
+# name:be: []
+msgid "модуль"
+msgstr ""
+
+# Objects : [w280710928]
+# name:be: []
+msgid "МОДУЛЬ"
+msgstr ""
+
+# Objects : [w288525567]
+# name:be: []
+msgid "мукомольный цех"
+msgstr ""
+
+# Objects : [n3171382805]
+# name:be: []
+msgid "Наблюдательная вышка"
+msgstr ""
+
+# Objects : [n1559342210]
+# name:be: []
+msgid "Оборонительные сооружения 1-й мировой войны"
+msgstr ""
+
+# Objects : [w274835987]
+# name:be: []
+msgid "ООО "Райца""
+msgstr ""
+
+# Objects : [w271969917]
+# name:be: []
+msgid "Опытно-экспериментальный цех по производству киселя овсяного"
+msgstr ""
+
+# Objects : [n2408756267]
+# name:be: []
+msgid "Остатки шлюза"
+msgstr ""
+
+# Objects : [n2788683562]
+# name:be: [Плябанія]
+msgid "Плебания"
+msgstr ""
+
+# Objects : [n1560676178]
+# name:be: []
+msgid "Плебания и брама"
+msgstr ""
+
+# Objects : [w274827859]
+# name:be: []
+msgid "Правление СПК"
+msgstr ""
+
+# Objects : [w280996047]
+# name:be: []
+msgid "Правление СПК "Малюшичи""
+msgstr ""
+
+# Objects : [n2788684071, n2788684083]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w271994089]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w272818205]
+# name:be: []
+msgid "Спиртзавод"
+msgstr ""
+
+# Objects : [n2788684461]
+# name:be: [Сядзібна-паркавы комплекс Кашыцаў]
+msgid "Усадебно-парковый комплекс Кашицев"
+msgstr ""
+
+# Objects : [n2788684525]
+# name:be: [Сядзібна-паркавы комплекс Путкамераў]
+msgid "Усадебно-парковый комплекс Путкамеров"
+msgstr ""
+
+# Objects : [n2788684819, n2788684829]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788684655]
+# name:be: [Сядзіба (рэшткі)]
+msgid "Усадьба (остатки)"
+msgstr ""
+
+# Objects : [n2788685081]
+# name:be: [Капліца-пахавальня Кашыцаў]
+msgid "Усыпальница Кашицев"
+msgstr ""
+
+# Objects : [n2788685089]
+# name:be: [Капліца-пахавальня Несялоўскіх]
+msgid "Усыпальница Неселовских"
+msgstr ""
+
+# Objects : [n2788685247]
+# name:be: [Фальварак]
+msgid "Фольварк"
+msgstr ""
+
+# Objects : [n1559149252]
+# name:be: []
+msgid "Хозпостройка (руины)"
+msgstr ""
+
+# Objects : [n2788685280]
+# name:be: [Гаспадарчы двор Булгакаў]
+msgid "Хозяйственный двор Булгаков"
+msgstr ""
+
+# Objects : [n2788685289]
+# name:be: [Гаспадарчы двор Грабоўскіх]
+msgid "Хозяйственный двор Гробовских"
+msgstr ""
+
+# Objects : [n2788685320]
+# name:be: [Гаспадарчы двор Чачотаў]
+msgid "Хозяйственный двор Чечетов"
+msgstr ""
+
+# Objects : [n2788685508]
+# name:be: [Царква Маці Божай Казанскай]
+msgid "Церковь Божией Матери Казанской"
+msgstr ""
+
+# Objects : [n2788685823, n2788685831]
+# name:be: [Царква Ушэсця Гасподняга]
+msgid "Церковь Вознесения Господня"
+msgstr ""
+
+# Objects : [n2788685910]
+# name:be: [Царква Усіх Святых]
+msgid "Церковь Всех Святых"
+msgstr ""
+
+# Objects : [n2788686042, n2788686046]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686135]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n2788686233]
+# name:be: [Царква Нараджэння Прасвятой Багародзіцы]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686285]
+# name:be: [Царква Святой Барбары]
+msgid "Церковь Св. Варвары"
+msgstr ""
+
+# Objects : [n2788686323]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n2788686423]
+# name:be: [Царква Святога Іаана Прадцечы]
+msgid "Церковь Святого Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n2788686646]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788686765, n2788686781]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2788687257]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788687504]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2788687568, n2788687570, n2788687574, n2788687575, n2788687577]
+# name:be: [Каплічка прыдарожная]
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n3048484645, w300746194]
+# name:be: [Чорная]
+msgid "Чёрная"
+msgstr ""
+
+# Objects : [w288434994]
+# name:be: []
+msgid "школа"
+msgstr ""
+
+# Objects : [w320770416]
+# name:be: []
+msgid "шрп"
+msgstr ""
+
+# Objects : [w268226002, w274826605, w291790873, w291790877]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+

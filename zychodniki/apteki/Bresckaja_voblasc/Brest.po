@@ -1,0 +1,45 @@
+# Objects : [n306062409]
+# name:be: [36,6]
+msgid "36,6"
+msgstr ""
+
+# Objects : [n1189960747, n1246224715, n1499209876, n1729355187, n1798084562, n306068179]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n1029402447]
+# name:be: [Камерцыйная аптэка]
+msgid "Аптека коммерческая"
+msgstr ""
+
+# Objects : [n1375740699]
+# name:be: [Аптэка №158]
+msgid "Аптека №158"
+msgstr ""
+
+# Objects : [n306068169]
+# name:be: [Аптэка №165]
+msgid "Аптека №165"
+msgstr ""
+
+# Objects : [n1628066751]
+# name:be: [Аптэка №241]
+msgid "Аптека №241"
+msgstr ""
+
+# Objects : [n306063984]
+# name:be: []
+msgid "Витафарм"
+msgstr ""
+
+# Objects : [n2053095673]
+# name:be: [Мед-сэрвіс]
+msgid "Мед-сервис"
+msgstr ""
+
+# Objects : [n3295540832]
+# name:be: [Фармацыя №71]
+msgid "Фармация №71"
+msgstr ""
+

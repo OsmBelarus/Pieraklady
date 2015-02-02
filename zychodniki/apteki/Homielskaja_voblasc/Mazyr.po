@@ -1,0 +1,40 @@
+# Objects : [n674423880]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n674418503]
+# name:be: [Аптэка №190 Цэнтральная]
+msgid "Аптека №190 Центральная"
+msgstr ""
+
+# Objects : [n3259525689]
+# name:be: [Аптэка №48]
+msgid "Аптека №48"
+msgstr ""
+
+# Objects : [n3227912928]
+# name:be: [Аптэка №62]
+msgid "Аптека №62"
+msgstr ""
+
+# Objects : [n2755885428]
+# name:be: [Аптэка №63]
+msgid "аптека №63"
+msgstr ""
+
+# Objects : [n3259525695]
+# name:be: [Аптэка №64]
+msgid "Аптека №64"
+msgstr ""
+
+# Objects : [n2758938583, n2763834883, n3311555242]
+# name:be: []
+msgid "Моя аптека"
+msgstr ""
+
+# Objects : [n2145441507, n2154238063, n2760147843, n3259750927, n3259750929, n3270045732]
+# name:be: [Планета здароўя]
+msgid "Планета здоровья"
+msgstr ""
+

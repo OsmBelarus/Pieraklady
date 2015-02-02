@@ -1,0 +1,655 @@
+# Objects : [w103698721]
+# name:be: []
+msgid "194-й стрелковой дивизии улица"
+msgstr ""
+
+# Objects : [w293956093]
+# name:be: []
+msgid "1-й Садовый переулок"
+msgstr ""
+
+# Objects : [w199800758]
+# name:be: []
+msgid "2-й переулок Щорса"
+msgstr ""
+
+# Objects : [w275871010, w281785320]
+# name:be: []
+msgid "70 лет Октября"
+msgstr ""
+
+# Objects : [w275871004]
+# name:be: []
+msgid "Белорусская улица"
+msgstr ""
+
+# Objects : [w25249572]
+# name:be: []
+msgid "в/ч 55461"
+msgstr ""
+
+# Objects : [w289681570, w289681571]
+# name:be: []
+msgid "Вихнина"
+msgstr ""
+
+# Objects : [w199800760, w250496986]
+# name:be: []
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w250496985]
+# name:be: []
+msgid "Восточный переулок"
+msgstr ""
+
+# Objects : [w262666216]
+# name:be: []
+msgid "Вторая"
+msgstr ""
+
+# Objects : [w194281102]
+# name:be: []
+msgid "Гродненская улица"
+msgstr ""
+
+# Objects : [w194281103, w209062613, w59979292, w90865974]
+# name:be: []
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w262666217]
+# name:be: []
+msgid "Жемчужная"
+msgstr ""
+
+# Objects : [w134682377, w178622457, w200015235, w212027202, w212027204, w90868337, w90868351, w90869376]
+# name:be: []
+msgid "Жуйкова улица"
+msgstr ""
+
+# Objects : [w190294466, w264347689, w309218736, w309218737]
+# name:be: []
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w289875875, w296678403, w309202012]
+# name:be: []
+msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w176744401, w200240480]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w291787100, w291787111, w313648075, w313648076]
+# name:be: []
+msgid "Исаева"
+msgstr ""
+
+# Objects : [w303907651]
+# name:be: []
+msgid "Калинина"
+msgstr ""
+
+# Objects : [w233126555, w267187007, w267187008, w267187011, w314468147]
+# name:be: []
+msgid "Кировская"
+msgstr ""
+
+# Objects : [w25250404, w289681572]
+# name:be: []
+msgid "Китинский проезд"
+msgstr ""
+
+# Objects : [w25245853, w291861332, w291861335]
+# name:be: []
+msgid "Козлова"
+msgstr ""
+
+# Objects : [w289680026]
+# name:be: []
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w133886253, w228075758, w25247409, w284150527, w289681573, w291863662, w291863663]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w276205319]
+# name:be: []
+msgid "Краснобережская Слободка"
+msgstr ""
+
+# Objects : [w200240461, w200240468]
+# name:be: []
+msgid "Красносельская улица"
+msgstr ""
+
+# Objects : [w201802455]
+# name:be: []
+msgid "Крестьянская улица"
+msgstr ""
+
+# Objects : [w125598754, w125598755]
+# name:be: []
+msgid "Кузнечный переулок"
+msgstr ""
+
+# Objects : [w230239032, w275147401, w275147402]
+# name:be: []
+msgid "Лазенко"
+msgstr ""
+
+# Objects : [w265906663, w265906665, w289681575, w291863664]
+# name:be: []
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w275871008]
+# name:be: []
+msgid "Лесная"
+msgstr ""
+
+# Objects : [w194281096, w303309636, w309218738]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w271249301, w289875865, w290819338, w309218739]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w319669380]
+# name:be: []
+msgid "Малая Полевая"
+msgstr ""
+
+# Objects : [w297718355]
+# name:be: []
+msgid "Малороговская"
+msgstr ""
+
+# Objects : [w199613761]
+# name:be: []
+msgid "Медовая улица"
+msgstr ""
+
+# Objects : [w289680028]
+# name:be: []
+msgid "Механизаторов"
+msgstr ""
+
+# Objects : [w309909309]
+# name:be: []
+msgid "Минская улица"
+msgstr ""
+
+# Objects : [w289874169]
+# name:be: []
+msgid "Мира"
+msgstr ""
+
+# Objects : [w289681579, w312186562]
+# name:be: []
+msgid "Молодежная"
+msgstr ""
+
+# Objects : [w118415083, w176744405, w186915319, w189247043, w189247044, w190208165, w200015239, w233126529, w264347690, w270786252, w270793423, w275871003, w282044500, w282044501, w282044502, w282044503, w291861333, w296621532, w296621533, w90868340]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w25247410, w270786263]
+# name:be: []
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w199800756]
+# name:be: [Маскоўская вуліца]
+msgid "Московская улица"
+msgstr ""
+
+# Objects : [w165928882]
+# name:be: []
+msgid "Надежды"
+msgstr ""
+
+# Objects : [w25247773]
+# name:be: []
+msgid "На полигон ТБО (свалку)"
+msgstr ""
+
+# Objects : [w275871005]
+# name:be: []
+msgid "Независимости"
+msgstr ""
+
+# Objects : [w201802449, w201802450, w271243119, w273015856]
+# name:be: []
+msgid "Никольская улица"
+msgstr ""
+
+# Objects : [w179242534, w194488699, w275147403, w277246533, w295186842]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w202857460, w267187012]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w202857473]
+# name:be: []
+msgid "Озёрный переулок"
+msgstr ""
+
+# Objects : [w125598756, w189247040, w194488664, w194488697, w199626335, w200240469, w264563113, w265906667, w265906669, w282043604, w282043606, w282044504, w282044505, w290520469, w309218742, w309218743, w313071047]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w289681578, w289681580, w289681581, w293825204, w293825205]
+# name:be: []
+msgid "Осиновка"
+msgstr ""
+
+# Objects : [w291863666, w291863667]
+# name:be: []
+msgid "Отечественная"
+msgstr ""
+
+# Objects : [w262666226]
+# name:be: []
+msgid "п/к Октябоьский"
+msgstr ""
+
+# Objects : [w262666227]
+# name:be: []
+msgid "п/к Рабочий"
+msgstr ""
+
+# Objects : [w267187013]
+# name:be: []
+msgid "Пагонянская"
+msgstr ""
+
+# Objects : [w289875871]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w226741628, w287815136]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w262666220]
+# name:be: []
+msgid "Первая"
+msgstr ""
+
+# Objects : [w130785760, w194488689, w199626336, w234007235, w264737491, w264902311, w264902312, w274937822, w275871006, w300626997, w300627000, w308927458, w309869497, w309869498, w309869499]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w176744404, w291863668]
+# name:be: []
+msgid "Первомаяйская"
+msgstr ""
+
+# Objects : [w277235330]
+# name:be: []
+msgid "переулок 2-й Садовый"
+msgstr ""
+
+# Objects : [w250719820]
+# name:be: []
+msgid "переулок Щорса"
+msgstr ""
+
+# Objects : [w287815141]
+# name:be: []
+msgid "п-к Гродненский"
+msgstr ""
+
+# Objects : [w293956092]
+# name:be: []
+msgid "п-к Озерный"
+msgstr ""
+
+# Objects : [w226741624]
+# name:be: []
+msgid "п-к Партизанский"
+msgstr ""
+
+# Objects : [w291860497, w319667593]
+# name:be: []
+msgid "п-к Садовый"
+msgstr ""
+
+# Objects : [w233126525]
+# name:be: []
+msgid "п-к Советский"
+msgstr ""
+
+# Objects : [w287815142]
+# name:be: []
+msgid "п-к Угловой"
+msgstr ""
+
+# Objects : [w233126548]
+# name:be: []
+msgid "п-к Фрунзе"
+msgstr ""
+
+# Objects : [w267187020, w307126640]
+# name:be: []
+msgid "п-к Школьный"
+msgstr ""
+
+# Objects : [w276166252]
+# name:be: []
+msgid "Поганянская"
+msgstr ""
+
+# Objects : [w291863670]
+# name:be: []
+msgid "Полевая"
+msgstr ""
+
+# Objects : [w200240475, w254339626, w267187019, w267195892, w287815137]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w200240476]
+# name:be: []
+msgid "Поплавная улица"
+msgstr ""
+
+# Objects : [w211636219]
+# name:be: []
+msgid "поселок Садовый"
+msgstr ""
+
+# Objects : [w127031672]
+# name:be: []
+msgid "Почтовая"
+msgstr ""
+
+# Objects : [w226742481]
+# name:be: []
+msgid "Приднепровская"
+msgstr ""
+
+# Objects : [w291863669]
+# name:be: []
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w265906670, w275577092, w275577095, w275577096, w309202014]
+# name:be: []
+msgid "Рабочая улица"
+msgstr ""
+
+# Objects : [w233126535, w233126546]
+# name:be: []
+msgid "Рогачёвская улица"
+msgstr ""
+
+# Objects : [w25247577, w255786304]
+# name:be: []
+msgid "Роговская улица"
+msgstr ""
+
+# Objects : [w303940816]
+# name:be: []
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w200240448, w200240478, w200240483, w203633562, w226955955, w269492031, w276166253, w284643129, w289371656, w289875869, w291860495, w296621535, w309202015]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w296621536]
+# name:be: []
+msgid "Светлая"
+msgstr ""
+
+# Objects : [w104422284, w114456702, w189247039, w189247047, w189247048, w201629001, w250495618, w25247411, w25248659, w264745614, w265424581, w265734816, w276166254, w291863665]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w201628998]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w104422248, w275871007, w276514838]
+# name:be: []
+msgid "Совхозная"
+msgstr ""
+
+# Objects : [w309202016]
+# name:be: []
+msgid "Социалистическая улица"
+msgstr ""
+
+# Objects : [w165928883, w287815138]
+# name:be: []
+msgid "Стадионная"
+msgstr ""
+
+# Objects : [w202857530]
+# name:be: []
+msgid "Степная улица"
+msgstr ""
+
+# Objects : [w130792582, w296621537, w296621538]
+# name:be: []
+msgid "Стренакова"
+msgstr ""
+
+# Objects : [w267187015]
+# name:be: []
+msgid "Студенческая"
+msgstr ""
+
+# Objects : [w105702374]
+# name:be: []
+msgid "Талькова"
+msgstr ""
+
+# Objects : [w262666223]
+# name:be: []
+msgid "Третья"
+msgstr ""
+
+# Objects : [w265906671]
+# name:be: []
+msgid "Трудовая улица"
+msgstr ""
+
+# Objects : [w271686196]
+# name:be: []
+msgid "улица Боженова"
+msgstr ""
+
+# Objects : [w130786252, w269875614]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w176743496]
+# name:be: []
+msgid "улица Дружбы"
+msgstr ""
+
+# Objects : [w194281099]
+# name:be: []
+msgid "улица Зелёная Роща"
+msgstr ""
+
+# Objects : [w293968127]
+# name:be: []
+msgid "улица Исаева"
+msgstr ""
+
+# Objects : [w130895859, w201629002, w236585115]
+# name:be: []
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w203633559]
+# name:be: []
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w200240479]
+# name:be: []
+msgid "улица Ковалёва"
+msgstr ""
+
+# Objects : [w230239024]
+# name:be: []
+msgid "улица Космонавтов"
+msgstr ""
+
+# Objects : [w129529501, w202293268, w202293269]
+# name:be: []
+msgid "улица Л. Толстого"
+msgstr ""
+
+# Objects : [w206648398, w267187009, w269878560, w271070422]
+# name:be: []
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w200015236, w200015237, w94100511]
+# name:be: []
+msgid "улица Мазилина"
+msgstr ""
+
+# Objects : [w200240467]
+# name:be: []
+msgid "улица Максима Горького"
+msgstr ""
+
+# Objects : [w125599316, w165928884]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w130910173, w273311928]
+# name:be: []
+msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [w277235321]
+# name:be: []
+msgid "улица Озерная"
+msgstr ""
+
+# Objects : [w108642758, w129529495, w129529499, w194283925, w203633561]
+# name:be: []
+msgid "улица Петровского"
+msgstr ""
+
+# Objects : [w230239023, w230239031, w276692591]
+# name:be: []
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w277235328]
+# name:be: []
+msgid "улица Садовая 1-я"
+msgstr ""
+
+# Objects : [w25245879, w271070424]
+# name:be: []
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [w233126544]
+# name:be: []
+msgid "улица Фрунзе"
+msgstr ""
+
+# Objects : [w200015241, w91019159]
+# name:be: []
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w271070425]
+# name:be: []
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w199800757]
+# name:be: [вуліца Шчорса]
+msgid "улица Щорса"
+msgstr ""
+
+# Objects : [w289874161]
+# name:be: []
+msgid "Хойницкая"
+msgstr ""
+
+# Objects : [w289680025, w289680027, w289680029, w289680030, w289680031, w310351457]
+# name:be: []
+msgid "Холочье"
+msgstr ""
+
+# Objects : [w199997843]
+# name:be: []
+msgid "Хуторская улица"
+msgstr ""
+
+# Objects : [w133887192, w25247759, w262666224, w267614003, w295250884, w309218744]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w233126532]
+# name:be: []
+msgid "Чкалова"
+msgstr ""
+
+# Objects : [w104422265, w226742069, w25248657, w25249568, w289874158, w289874160, w309202017]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w130902424, w226732521, w291860496, w309202018, w309218745]
+# name:be: []
+msgid "Шоссейная"
+msgstr ""
+
+# Objects : [w226742294]
+# name:be: []
+msgid "Шоссейная улица"
+msgstr ""
+
+# Objects : [w194488701]
+# name:be: []
+msgid "Юбилейная"
+msgstr ""
+
+# Objects : [w200240484]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+
+# Objects : [w275147404, w275147405]
+# name:be: []
+msgid "Южная"
+msgstr ""
+

@@ -1,0 +1,165 @@
+# Objects : [w252100468]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [w309309237]
+# name:be: []
+msgid "Альбертинское лесничество"
+msgstr ""
+
+# Objects : [w98708358]
+# name:be: []
+msgid "Базар м-н"
+msgstr ""
+
+# Objects : [w308755933]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w274221816]
+# name:be: []
+msgid "Бутербродная"
+msgstr ""
+
+# Objects : [w143092378]
+# name:be: []
+msgid "Венеция"
+msgstr ""
+
+# Objects : [w99002812]
+# name:be: [Ваенкамат]
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w183899849]
+# name:be: []
+msgid "Городская баня"
+msgstr ""
+
+# Objects : [w103525363]
+# name:be: [Гарадская паліклініка]
+msgid "Городская поликлиника"
+msgstr ""
+
+# Objects : [w266123238]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w262056617]
+# name:be: []
+msgid "ГРП №4"
+msgstr ""
+
+# Objects : [w199561322]
+# name:be: [Палац Пуслоўскіх]
+msgid "Дворец Пусловских"
+msgstr ""
+
+# Objects : [w120642174]
+# name:be: [Дэльфін]
+msgid "Дельфин"
+msgstr ""
+
+# Objects : [w118047874]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w114805370]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
+# Objects : [w97843360]
+# name:be: [Дом гандлю]
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [w97869967]
+# name:be: []
+msgid "Золотой Феникс"
+msgstr ""
+
+# Objects : [w297897329]
+# name:be: []
+msgid "Летняя кухня"
+msgstr ""
+
+# Objects : [w246798339]
+# name:be: []
+msgid "Магазин "Родная сторона""
+msgstr ""
+
+# Objects : [w183704518]
+# name:be: []
+msgid "Мебель Пинскдрев"
+msgstr ""
+
+# Objects : [w297893988]
+# name:be: []
+msgid "Насосная станция"
+msgstr ""
+
+# Objects : [w118054974]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [r3749756]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [w120642175]
+# name:be: []
+msgid "РЭС"
+msgstr ""
+
+# Objects : [w97726522]
+# name:be: []
+msgid "Синагога 1642—48 гг."
+msgstr ""
+
+# Objects : [w117974850]
+# name:be: [Слонім]
+msgid "Слоним"
+msgstr ""
+
+# Objects : [w183884231]
+# name:be: []
+msgid "Слонимская райветстанция"
+msgstr ""
+
+# Objects : [w98747831]
+# name:be: [Слонімскі аддзел Дэпартамента аховы МУС РБ]
+msgid "Слонимский отдел Департамента охраны МВД РБ"
+msgstr ""
+
+# Objects : [w96729522]
+# name:be: []
+msgid "Слонимский райисполком"
+msgstr ""
+
+# Objects : [w98990076]
+# name:be: []
+msgid "Суд Слонимского района"
+msgstr ""
+
+# Objects : [w118054973]
+# name:be: []
+msgid "Тихий дворик"
+msgstr ""
+
+# Objects : [w97698981]
+# name:be: []
+msgid "Центральная библиотека имени Якуба Коласа"
+msgstr ""
+
+# Objects : [w297865365, w297865366, w297893989, w297893990]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+

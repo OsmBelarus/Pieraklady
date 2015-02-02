@@ -1,0 +1,500 @@
+# Objects : [n1654339288]
+# name:be: [Верасы]
+msgid ""Верасы""
+msgstr ""
+
+# Objects : [n1684216538]
+# name:be: [Бухгалтэрыя 1С]
+msgid "1С Бухгалтерия"
+msgstr ""
+
+# Objects : [n3161601515]
+# name:be: []
+msgid "kari"
+msgstr ""
+
+# Objects : [n3251953672]
+# name:be: []
+msgid "life:)"
+msgstr ""
+
+# Objects : [n3161601514]
+# name:be: []
+msgid "O. Jen"
+msgstr ""
+
+# Objects : [n2609466743]
+# name:be: []
+msgid "Serge"
+msgstr ""
+
+# Objects : [n905973019]
+# name:be: [Аўтааўдыёсэрвіс]
+msgid "АвтоАудиоСервис (Саланг-Авто)"
+msgstr ""
+
+# Objects : [n1900609573, n2338171529]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n2609466741]
+# name:be: []
+msgid "Акцент"
+msgstr ""
+
+# Objects : [n2508925931]
+# name:be: [Белвест]
+msgid "Белвест"
+msgstr ""
+
+# Objects : [n1654322691, n1654331680, n1676762140, n1686960173, n1687532428, n2134668255]
+# name:be: [Белсаюздрук]
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [n1426800522, n1430555111]
+# name:be: [Белтропік]
+msgid "Белтропик"
+msgstr ""
+
+# Objects : [n306067144]
+# name:be: [Бярозка]
+msgid "Березка"
+msgstr ""
+
+# Objects : [n1676765898]
+# name:be: [Букмекерская кантора «Плюс-мінус»]
+msgid "Букмекерская контора "Плюс-минус""
+msgstr ""
+
+# Objects : [n3056387057]
+# name:be: [Буслiк]
+msgid "Буслик"
+msgstr ""
+
+# Objects : [n2467525458]
+# name:be: []
+msgid "Бьютель"
+msgstr ""
+
+# Objects : [n1259619495, n1598841158]
+# name:be: [Вікторыя]
+msgid "Виктория"
+msgstr ""
+
+# Objects : [n1116509884]
+# name:be: []
+msgid "Витамин"
+msgstr ""
+
+# Objects : [n2520613964]
+# name:be: [Усход]
+msgid "Восход"
+msgstr ""
+
+# Objects : [n1437594282]
+# name:be: [Усё для дома]
+msgid "Всё для дома"
+msgstr ""
+
+# Objects : [n1598499311]
+# name:be: [Ганна]
+msgid "Ганна"
+msgstr ""
+
+# Objects : [n1597360137, n1597360156]
+# name:be: [Дзіцячы свет]
+msgid "Детский мир"
+msgstr ""
+
+# Objects : [n306067225, n306067273]
+# name:be: [Дыяніс]
+msgid "Дионис"
+msgstr ""
+
+# Objects : [n1597513439, n2993815726, n674489852]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n3056387058]
+# name:be: []
+msgid "Евроопт +++"
+msgstr ""
+
+# Objects : [n1598477106]
+# name:be: []
+msgid "Евросеть"
+msgstr ""
+
+# Objects : [n1597360155]
+# name:be: [Жар-птушка]
+msgid "Жар птушка"
+msgstr ""
+
+# Objects : [n506306673]
+# name:be: [Задыяк]
+msgid "Зодиак"
+msgstr ""
+
+# Objects : [n2338171530]
+# name:be: []
+msgid "Зоомагазин"
+msgstr ""
+
+# Objects : [n1687526587]
+# name:be: [Заакрама]
+msgid "Зоо магазин"
+msgstr ""
+
+# Objects : [n1116509877]
+# name:be: []
+msgid "Зоомагазин "Любимец""
+msgstr ""
+
+# Objects : [n1687526463]
+# name:be: [Заакрама Улюбенец]
+msgid "ЗОО магазин Любимец"
+msgstr ""
+
+# Objects : [n1721592583]
+# name:be: [Камодка]
+msgid "Комодик"
+msgstr ""
+
+# Objects : [n2481576306]
+# name:be: []
+msgid "Копи-центр"
+msgstr ""
+
+# Objects : [n1654317030, n2134667311]
+# name:be: []
+msgid "Корма для животных"
+msgstr ""
+
+# Objects : [n3083221665]
+# name:be: []
+msgid "Королевство сна"
+msgstr ""
+
+# Objects : [n1654344844, n1686942938]
+# name:be: [Ламбард]
+msgid "Ломбард"
+msgstr ""
+
+# Objects : [n3145895005]
+# name:be: []
+msgid "Любава Люкс"
+msgstr ""
+
+# Objects : [n2746897880]
+# name:be: []
+msgid "Магазин "Двери и фильтры для воды""
+msgstr ""
+
+# Objects : [n1683561705]
+# name:be: [Крама «Каравай»]
+msgid "Магазин "Каравай""
+msgstr ""
+
+# Objects : [n306067140]
+# name:be: [Крама «Дыяніс»]
+msgid "Магазин Дионис"
+msgstr ""
+
+# Objects : [n306067136]
+# name:be: [Крама «Ялінка»]
+msgid "Магазин Ёлочка"
+msgstr ""
+
+# Objects : [n1598499292]
+# name:be: [Крама Палімір]
+msgid "магазин Полимир"
+msgstr ""
+
+# Objects : [n1432534508]
+# name:be: [Крама «Пчолка»]
+msgid "Магазин Пчёлка"
+msgstr ""
+
+# Objects : [n2393232565]
+# name:be: []
+msgid "Магазин Ритуальных услуг"
+msgstr ""
+
+# Objects : [n616393261]
+# name:be: [Магазін «Сонечны»]
+msgid "Магазин Солнечный"
+msgstr ""
+
+# Objects : [n1683563251]
+# name:be: [Марынэ]
+msgid "Маринэ"
+msgstr ""
+
+# Objects : [n1597360134, n2508925934]
+# name:be: [Мэблевая крама]
+msgid "Мебельный"
+msgstr ""
+
+# Objects : [n1680479662]
+# name:be: [Фітнэс-цэнтр]
+msgid "Мебельный магазин"
+msgstr ""
+
+# Objects : [n3251953673]
+# name:be: []
+msgid "Мелочи жизни"
+msgstr ""
+
+# Objects : [n1683565754]
+# name:be: [Мілавіца]
+msgid "Милавица"
+msgstr ""
+
+# Objects : [n1432530583]
+# name:be: [Мілена]
+msgid "Милена"
+msgstr ""
+
+# Objects : [n674490345]
+# name:be: [Мінірынак]
+msgid "Минирынок"
+msgstr ""
+
+# Objects : [n2512721893]
+# name:be: [Маладосць]
+msgid "Молодость"
+msgstr ""
+
+# Objects : [n1728782070]
+# name:be: [Начная крама]
+msgid "Ночник"
+msgstr ""
+
+# Objects : [n2575526723]
+# name:be: []
+msgid "ООО "Белагромеханизм""
+msgstr ""
+
+# Objects : [n3161601517]
+# name:be: []
+msgid "Остров чистоты"
+msgstr ""
+
+# Objects : [n2467479515]
+# name:be: []
+msgid "Очкарик"
+msgstr ""
+
+# Objects : [n306067139]
+# name:be: [Паўлінка]
+msgid "Павлинка"
+msgstr ""
+
+# Objects : [n1430562810, n2575444152]
+# name:be: [Цырульня]
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n1680491008]
+# name:be: [Цырульня «Гламур»]
+msgid "Парикмахерская "Гламур""
+msgstr ""
+
+# Objects : [n2053294072]
+# name:be: []
+msgid "Парикмахерская "Престиж""
+msgstr ""
+
+# Objects : [n1676762655]
+# name:be: []
+msgid "Парикмахерская "Эридана""
+msgstr ""
+
+# Objects : [n599967304]
+# name:be: [Ветразь]
+msgid "Парус"
+msgstr ""
+
+# Objects : [n611807658]
+# name:be: []
+msgid "Пинскдрев"
+msgstr ""
+
+# Objects : [n2338171531]
+# name:be: []
+msgid "Пинский трикотаж"
+msgstr ""
+
+# Objects : [n1686942937]
+# name:be: [Пральня]
+msgid "Прачечная"
+msgstr ""
+
+# Objects : [n1463830417]
+# name:be: [Прыём карыстаных АКБ, продаж новых АКБ (група кампаній ПАК)]
+msgid "Прием б/у АКБ, продажа новы АКБ (группа компаний ПАК)"
+msgstr ""
+
+# Objects : [n3068640595]
+# name:be: []
+msgid "Пятый элемент"
+msgstr ""
+
+# Objects : [n2554662439]
+# name:be: []
+msgid "Распечатка"
+msgstr ""
+
+# Objects : [n1432532075]
+# name:be: [Рытуал]
+msgid "Ритуал"
+msgstr ""
+
+# Objects : [n2349391179]
+# name:be: []
+msgid "Саланг"
+msgstr ""
+
+# Objects : [n3068638762]
+# name:be: []
+msgid "Салон "Алло""
+msgstr ""
+
+# Objects : [n3068447586]
+# name:be: []
+msgid "Салон «Velcom»"
+msgstr ""
+
+# Objects : [n1686962848]
+# name:be: [Продаж мабільных тэлефонаў]
+msgid "Салон мобильной связи "Сотос""
+msgstr ""
+
+# Objects : [n1676769996]
+# name:be: [Салон сувязі «Лайф»]
+msgid "Салон Связи "Лайф""
+msgstr ""
+
+# Objects : [n2145576865]
+# name:be: []
+msgid "Связной"
+msgstr ""
+
+# Objects : [n1436250137, n1436250731, n1436252346, n2420486602]
+# name:be: [Саюздрук]
+msgid "Союзпечать"
+msgstr ""
+
+# Objects : [n1686940275]
+# name:be: [Стыль]
+msgid "Стиль"
+msgstr ""
+
+# Objects : [n306067127]
+# name:be: [СТА ВАЗ]
+msgid "СТО ВАЗ"
+msgstr ""
+
+# Objects : [n1680496083]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n2148040459]
+# name:be: []
+msgid "Сэконд Хэнд"
+msgstr ""
+
+# Objects : [n506322041]
+# name:be: [Тацяна]
+msgid "Татьяна"
+msgstr ""
+
+# Objects : [n3056387166]
+# name:be: []
+msgid "Техно плюс"
+msgstr ""
+
+# Objects : [n1676762141]
+# name:be: [Усмешка]
+msgid "Улыбка:)"
+msgstr ""
+
+# Objects : [n3161601518]
+# name:be: []
+msgid "Универсам 26"
+msgstr ""
+
+# Objects : [n3251953674]
+# name:be: []
+msgid "Фейерверки"
+msgstr ""
+
+# Objects : [n2974352585]
+# name:be: []
+msgid "Фирменный центр «Velcom»"
+msgstr ""
+
+# Objects : [n1683564734]
+# name:be: [Фотаатэлье]
+msgid "Фотоателье"
+msgstr ""
+
+# Objects : [n2134665687, n2134668641]
+# name:be: []
+msgid "Цветочный киоск"
+msgstr ""
+
+# Objects : [n506351899]
+# name:be: [Кветкі]
+msgid "Цветы"
+msgstr ""
+
+# Objects : [n1999655549, n3102213329]
+# name:be: []
+msgid "Центр МТС"
+msgstr ""
+
+# Objects : [n2467498281]
+# name:be: []
+msgid "Цифровик"
+msgstr ""
+
+# Objects : [n1598499274, n615050926]
+# name:be: [Чарадзей]
+msgid "Чародей"
+msgstr ""
+
+# Objects : [n306067271]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n306067141]
+# name:be: [Эканом]
+msgid "Эконом (бывший Спутник)"
+msgstr ""
+
+# Objects : [n3068190840]
+# name:be: []
+msgid "Эксклюзивный пункт продаж life:)"
+msgstr ""
+
+# Objects : [n616393268]
+# name:be: [Экстрым]
+msgid "Экстрим"
+msgstr ""
+
+# Objects : [n306067201]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+msgstr ""
+
+# Objects : [n1430561879]
+# name:be: [Ювелірная майстэрня]
+msgid "Ювелирная мастерская"
+msgstr ""
+

@@ -1,0 +1,235 @@
+# Objects : [w275631046]
+# name:be: []
+msgid "Балыкова улица"
+msgstr ""
+
+# Objects : [w270360937, w278769757]
+# name:be: []
+msgid "Белорусская улица"
+msgstr ""
+
+# Objects : [w239468013]
+# name:be: []
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w265632227]
+# name:be: []
+msgid "Гвардейская улица"
+msgstr ""
+
+# Objects : [w271450681]
+# name:be: []
+msgid "Горького улица"
+msgstr ""
+
+# Objects : [w270360940]
+# name:be: []
+msgid "Залеская улица"
+msgstr ""
+
+# Objects : [w109268936, w270901770, w270901782]
+# name:be: []
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w240859838, w286294156]
+# name:be: []
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [w141178958, w271374186]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w266504894]
+# name:be: []
+msgid "Кооперативная улица"
+msgstr ""
+
+# Objects : [w270898458]
+# name:be: []
+msgid "Краснобережская улица"
+msgstr ""
+
+# Objects : [w253247314]
+# name:be: []
+msgid "Кузнечная улица"
+msgstr ""
+
+# Objects : [w240859817, w240859823]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w263817584, w265632228, w265635546, w272258102]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w275414933]
+# name:be: []
+msgid "Малый лес улица"
+msgstr ""
+
+# Objects : [w141177337, w240859830, w263817582, w270896188]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w253247324, w270375058]
+# name:be: []
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w235998587]
+# name:be: []
+msgid "Наровлянская улица"
+msgstr ""
+
+# Objects : [w253247319, w258781816, w270901772, w270901774, w270901779, w270967708, w275973106]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w235998576]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w235998586, w270360938]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w109268929]
+# name:be: []
+msgid "Песочная улица"
+msgstr ""
+
+# Objects : [w248853689]
+# name:be: []
+msgid "Победы улица"
+msgstr ""
+
+# Objects : [w248853690]
+# name:be: []
+msgid "Подобедова улица"
+msgstr ""
+
+# Objects : [w241234853]
+# name:be: []
+msgid "Покоть"
+msgstr ""
+
+# Objects : [w278862008]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w235998559]
+# name:be: []
+msgid "Проезжая улица"
+msgstr ""
+
+# Objects : [w270898463]
+# name:be: []
+msgid "Речная улица"
+msgstr ""
+
+# Objects : [w265582612, w270375061]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w240859842]
+# name:be: []
+msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w270359339, w270610053]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w270359343]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w104566108]
+# name:be: []
+msgid "Совхозная улица"
+msgstr ""
+
+# Objects : [w235998582]
+# name:be: []
+msgid "Тешковская улица"
+msgstr ""
+
+# Objects : [w258777548]
+# name:be: []
+msgid "Трудовая улица"
+msgstr ""
+
+# Objects : [w258777547]
+# name:be: []
+msgid "Угловая улица"
+msgstr ""
+
+# Objects : [w253247313]
+# name:be: []
+msgid "улица 40 лет Победы"
+msgstr ""
+
+# Objects : [w259318606]
+# name:be: []
+msgid "улица Гоголя"
+msgstr ""
+
+# Objects : [w270901775, w270967721]
+# name:be: []
+msgid "улица Дубровка"
+msgstr ""
+
+# Objects : [w248853688, w259213941, w263817581, w271450682]
+# name:be: []
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w253247309]
+# name:be: []
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w141177336]
+# name:be: []
+msgid "улица Луначарского"
+msgstr ""
+
+# Objects : [w271450685]
+# name:be: []
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [w275414932]
+# name:be: []
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [w265586802, w270897214, w270901768, w270967723]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w270361075, w275701539]
+# name:be: []
+msgid "Чечерская улица"
+msgstr ""
+
+# Objects : [w240859861, w265582555, w270361076]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+

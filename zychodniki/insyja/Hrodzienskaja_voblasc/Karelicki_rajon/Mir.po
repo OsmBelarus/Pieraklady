@@ -1,0 +1,220 @@
+# Objects : [w264435578]
+# name:be: []
+msgid ""Дорога замков""
+msgstr ""
+
+# Objects : [w264435579]
+# name:be: []
+msgid ""Мирский""
+msgstr ""
+
+# Objects : [n3012994033]
+# name:be: []
+msgid "автошкола "Автомиргрупп""
+msgstr ""
+
+# Objects : [n1376734416]
+# name:be: [Домік ахоўніка]
+msgid "Брама и сторожка"
+msgstr ""
+
+# Objects : [n2766736613]
+# name:be: []
+msgid "Гостиница Мир"
+msgstr ""
+
+# Objects : [n2766736614]
+# name:be: []
+msgid "Гостиница Мирский замок"
+msgstr ""
+
+# Objects : [w267253662]
+# name:be: []
+msgid "ГРС"
+msgstr ""
+
+# Objects : [w264429920]
+# name:be: []
+msgid "ГУ Мирское лесничество"
+msgstr ""
+
+# Objects : [n1376731271]
+# name:be: []
+msgid "Дворец /сохр. подвалы/"
+msgstr ""
+
+# Objects : [w264453002]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [n1376743175]
+# name:be: []
+msgid "Иешива"
+msgstr ""
+
+# Objects : [w264439953]
+# name:be: []
+msgid "кафе "Мирум""
+msgstr ""
+
+# Objects : [n1376730593, n2788680823]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681104]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681273]
+# name:be: [Могілкі праваслаўныя]
+msgid "Кладбище православное"
+msgstr ""
+
+# Objects : [n2788681994]
+# name:be: [Касцёл Святога Мікалая]
+msgid "Костел Святого Николая"
+msgstr ""
+
+# Objects : [w297717666]
+# name:be: []
+msgid "летнее кафе"
+msgstr ""
+
+# Objects : [w264435610]
+# name:be: []
+msgid "Магазин птицефабрики "Красноармейская""
+msgstr ""
+
+# Objects : [w264439692]
+# name:be: []
+msgid "Мебель"
+msgstr ""
+
+# Objects : [n3012700339]
+# name:be: []
+msgid "милиция"
+msgstr ""
+
+# Objects : [n794527456]
+# name:be: [Мір]
+msgid "Мир"
+msgstr ""
+
+# Objects : [w264440899, w264441395]
+# name:be: []
+msgid "Мирская горнопоселковая больница"
+msgstr ""
+
+# Objects : [n2788682637]
+# name:be: [Мірскі замак]
+msgid "Мирский замок"
+msgstr ""
+
+# Objects : [w112504454]
+# name:be: []
+msgid "Мирский Замок"
+msgstr ""
+
+# Objects : [n794527449]
+# name:be: [Мірскі пасялковы савет народных дэпутатаў]
+msgid "Мирский поселковый совет народных депутатов"
+msgstr ""
+
+# Objects : [w292856138]
+# name:be: []
+msgid "Насосная станция"
+msgstr ""
+
+# Objects : [n1376740696]
+# name:be: []
+msgid "Пансион при хедере"
+msgstr ""
+
+# Objects : [w264439689]
+# name:be: []
+msgid "Пекарня"
+msgstr ""
+
+# Objects : [w264435615]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n445411926]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [n2788684074]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w264452098]
+# name:be: []
+msgid "птицефабрика "Красноармейская""
+msgstr ""
+
+# Objects : [r3889389]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2788684342]
+# name:be: [Сінагогальны двор]
+msgid "Синагогальны двор"
+msgstr ""
+
+# Objects : [w64765157]
+# name:be: [Тытунь]
+msgid "Табак"
+msgstr ""
+
+# Objects : [n2788685135]
+# name:be: []
+msgid "Фальварак «Замір'е»"
+msgstr ""
+
+# Objects : [n1376740401]
+# name:be: []
+msgid "Хедер"
+msgstr ""
+
+# Objects : [n2788686322]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n2788686643]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788687659]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687744]
+# name:be: [Капліца-пахавальня Святаполкаў-Мірскіх]
+msgid "Часовня-усыпальница Святополк-Мирских"
+msgstr ""
+
+# Objects : [w264435799]
+# name:be: []
+msgid "ЧТПУП "СеБаТорг" магазин продукты"
+msgstr ""
+
+# Objects : [n1376744391]
+# name:be: []
+msgid "Школа и госпиталь"
+msgstr ""
+
+# Objects : [w278901440]
+# name:be: []
+msgid "Электросети"
+msgstr ""
+

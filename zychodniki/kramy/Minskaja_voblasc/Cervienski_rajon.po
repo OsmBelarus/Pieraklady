@@ -1,0 +1,25 @@
+# Objects : [n322027664]
+# name:be: []
+msgid "Бочка с рыбой"
+msgstr ""
+
+# Objects : [n291802456]
+# name:be: []
+msgid "МАГАЗIH"
+msgstr ""
+
+# Objects : [n1013904633, n1013946808, n1283807337, n2087585345, n2290488747, n888814307]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1843280804, n825059179]
+# name:be: []
+msgid "продукты"
+msgstr ""
+
+# Objects : [n3159507768]
+# name:be: []
+msgid "СТО"
+msgstr ""
+

@@ -1,0 +1,515 @@
+# Objects : [r2696844]
+# name:be: []
+msgid "cтанция Дубно — Сухиничи"
+msgstr ""
+
+# Objects : [r2717657]
+# name:be: []
+msgid "Большие Озерки — комплекс Большие Озерки"
+msgstr ""
+
+# Objects : [r2705200]
+# name:be: []
+msgid "Большие Озерки — Малые Озерки"
+msgstr ""
+
+# Objects : [r2684687]
+# name:be: []
+msgid "Бояры — Савейки"
+msgstr ""
+
+# Objects : [r2705201]
+# name:be: []
+msgid "Голубы — Руда Липичанская — Новоселки"
+msgstr ""
+
+# Objects : [r2696681]
+# name:be: []
+msgid "Голынка — Тельмуки — Бояры"
+msgstr ""
+
+# Objects : [r2699524]
+# name:be: []
+msgid "Гудевичи — Радевичи — Семиренки — граница Берестовицкого района"
+msgstr ""
+
+# Objects : [r2699340]
+# name:be: []
+msgid "Гудевичи — Семашки"
+msgstr ""
+
+# Objects : [r2716969]
+# name:be: []
+msgid "деревня Пацевичи — ферма Пацевичи"
+msgstr ""
+
+# Objects : [r2703138]
+# name:be: []
+msgid "Донцы — Говчево"
+msgstr ""
+
+# Objects : [r2696948]
+# name:be: []
+msgid "Дубно — Княжеводцы"
+msgstr ""
+
+# Objects : [r2705202]
+# name:be: []
+msgid "Ельня — Дашковцы"
+msgstr ""
+
+# Objects : [r2666155]
+# name:be: []
+msgid "Желудок — Орля — Мальковичи"
+msgstr ""
+
+# Objects : [r2705203]
+# name:be: []
+msgid "Задворье — Бояры"
+msgstr ""
+
+# Objects : [r2705204]
+# name:be: []
+msgid "Задворье — Макары"
+msgstr ""
+
+# Objects : [r2697335]
+# name:be: []
+msgid "Заполье — Савинка"
+msgstr ""
+
+# Objects : [r2696845]
+# name:be: []
+msgid "Заполье — Сухиничи"
+msgstr ""
+
+# Objects : [r2703180]
+# name:be: []
+msgid "Зельва — Деречин — Медвиновичи"
+msgstr ""
+
+# Objects : [r2697515]
+# name:be: []
+msgid "Каменчаны — Стрельцы — Жиличи"
+msgstr ""
+
+# Objects : [r1322298]
+# name:be: []
+msgid "Ковшово — комплекс деревни Ковшово"
+msgstr ""
+
+# Objects : [r2710899]
+# name:be: []
+msgid "Козейки — Мартиновцы — Хомичи"
+msgstr ""
+
+# Objects : [r2716968]
+# name:be: []
+msgid "Копачи — Пацевичи"
+msgstr ""
+
+# Objects : [r2709197]
+# name:be: []
+msgid "Копачи — Плебановцы — Струбница — Дулевщина"
+msgstr ""
+
+# Objects : [r2699217]
+# name:be: []
+msgid "Косилы — Щечицы"
+msgstr ""
+
+# Objects : [r2703139]
+# name:be: []
+msgid "Котчино — Лобзово"
+msgstr ""
+
+# Objects : [r2695717]
+# name:be: []
+msgid "Кульшичи — Рыбаки"
+msgstr ""
+
+# Objects : [r2703140]
+# name:be: []
+msgid "Куриловичи — Букштово — Котчино"
+msgstr ""
+
+# Objects : [r2703141]
+# name:be: []
+msgid "Куриловичи — Нацково"
+msgstr ""
+
+# Objects : [r2703142]
+# name:be: []
+msgid "Куриловичи — Щара"
+msgstr ""
+
+# Objects : [r1322299]
+# name:be: []
+msgid "Лавно — Мазаново"
+msgstr ""
+
+# Objects : [r2697368]
+# name:be: []
+msgid "Лавно — Хвойняны"
+msgstr ""
+
+# Objects : [r2703143]
+# name:be: []
+msgid "Ланцевичи — Моньковичи — Меховск"
+msgstr ""
+
+# Objects : [r2702684]
+# name:be: []
+msgid "Логновичи — Леоновичи"
+msgstr ""
+
+# Objects : [r2702613]
+# name:be: []
+msgid "Лопатичи — Шевчики"
+msgstr ""
+
+# Objects : [r2697461]
+# name:be: []
+msgid "Лунно — Гудевичи — Большие Эйсмонты — Олекшицы"
+msgstr ""
+
+# Objects : [r2697516]
+# name:be: []
+msgid "Лунно — Залески"
+msgstr ""
+
+# Objects : [r2697517]
+# name:be: []
+msgid "Лунно — Машталеры — Стрельцы"
+msgstr ""
+
+# Objects : [r2697485]
+# name:be: []
+msgid "Лунно — Мешетники — Глядовичи"
+msgstr ""
+
+# Objects : [r2705205]
+# name:be: []
+msgid "Лупачи — Дубровка"
+msgstr ""
+
+# Objects : [r2703144]
+# name:be: []
+msgid "Мальковичи — Ланцевичи — Милевичи"
+msgstr ""
+
+# Objects : [r2696852]
+# name:be: []
+msgid "Мальковичи — Синевичи — Новоселки"
+msgstr ""
+
+# Objects : [r2697518]
+# name:be: []
+msgid "Машталеры — Кухари"
+msgstr ""
+
+# Objects : [r2703480]
+# name:be: []
+msgid "Машталеры — Семиренки"
+msgstr ""
+
+# Objects : [r2709198]
+# name:be: []
+msgid "Мижево — Зарудавье — Старина — Кульшичи"
+msgstr ""
+
+# Objects : [r2715973]
+# name:be: []
+msgid "Мижево — ферма Мижево"
+msgstr ""
+
+# Objects : [r2696682]
+# name:be: []
+msgid "Микелевщина — Белый Мост — Голынка"
+msgstr ""
+
+# Objects : [r2696846]
+# name:be: []
+msgid "Миклашовцы — Сухиничи"
+msgstr ""
+
+# Objects : [r2703145]
+# name:be: []
+msgid "Милевичи — Букштово"
+msgstr ""
+
+# Objects : [r2703146]
+# name:be: []
+msgid "Моньковичи — Родишки"
+msgstr ""
+
+# Objects : [r2710900]
+# name:be: []
+msgid "Олешевичи — Кривульки — граница Щучинского района"
+msgstr ""
+
+# Objects : [r2703486]
+# name:be: []
+msgid "Пилки — Толстики"
+msgstr ""
+
+# Objects : [r2697490]
+# name:be: []
+msgid "Подъезд к деревне Богатыревичи от а/д Лунно — Мешетники — Глядовичи"
+msgstr ""
+
+# Objects : [r2709250]
+# name:be: []
+msgid "Подъезд к деревне Большая Рогозница от а/д Самуйловичи Дольные — Логновичи"
+msgstr ""
+
+# Objects : [r2710888]
+# name:be: []
+msgid "Подъезд к деревне Глядовичи от а/д Гродно — Ружаны — Ивацевичи"
+msgstr ""
+
+# Objects : [r2697443]
+# name:be: []
+msgid "Подъезд к деревне Гончары"
+msgstr ""
+
+# Objects : [r2709209]
+# name:be: []
+msgid "Подъезд к деревне Грушевка от а/д Гродно — Ружаны — Ивацевичи"
+msgstr ""
+
+# Objects : [r2716908]
+# name:be: []
+msgid "Подъезд к деревне Дорогляны от а/д Слоним — Мосты — Скидель"
+msgstr ""
+
+# Objects : [r2699525]
+# name:be: []
+msgid "Подъезд к деревне Дубляны от а/д Гудевичи — Радевичи — Семиренки — граница Берестовицкого района"
+msgstr ""
+
+# Objects : [r2696949]
+# name:be: []
+msgid "Подъезд к деревне Дубно"
+msgstr ""
+
+# Objects : [r2705209]
+# name:be: []
+msgid "Подъезд к деревне Ельня от а/д Острино — Щучин — Волковыск"
+msgstr ""
+
+# Objects : [r2696772]
+# name:be: []
+msgid "Подъезд к деревне Заполье"
+msgstr ""
+
+# Objects : [r2709199]
+# name:be: []
+msgid "Подъезд к деревне Зарудавье от а/д Мижево — Зарудавье — Старина — Кульшичи"
+msgstr ""
+
+# Objects : [r2696950]
+# name:be: []
+msgid "Подъезд к деревне Княжеводцы"
+msgstr ""
+
+# Objects : [r2710887]
+# name:be: []
+msgid "Подъезд к деревне Копачи от а/д Острино — Щучин — Волковыск"
+msgstr ""
+
+# Objects : [r2716919]
+# name:be: []
+msgid "Подъезд к деревне Лавры от а/д Мосты — Зельва — Ружаны"
+msgstr ""
+
+# Objects : [r2703147]
+# name:be: []
+msgid "Подъезд к деревне Меховск от а/д Куриловичи — Букштово — Котчино"
+msgstr ""
+
+# Objects : [r2697486]
+# name:be: []
+msgid "Подъезд к деревне Миневичи от а/д Лунно — Мешетники — Глядовичи"
+msgstr ""
+
+# Objects : [r2697370]
+# name:be: []
+msgid "Подъезд к деревне Неман"
+msgstr ""
+
+# Objects : [r2697444]
+# name:be: []
+msgid "Подъезд к деревне Новинка"
+msgstr ""
+
+# Objects : [r2697487]
+# name:be: []
+msgid "Подъезд к деревне Новоселки от а/д Лунно — Мешетники — Глядовичи"
+msgstr ""
+
+# Objects : [r2710830]
+# name:be: []
+msgid "Подъезд к деревне Огородники от а/д Сахарный комбинат — Плавы — Обухово"
+msgstr ""
+
+# Objects : [r2699526]
+# name:be: []
+msgid "Подъезд к деревне Одверна от а/д Гудевичи — Радевичи — Семиренки — граница Берестовицкого района"
+msgstr ""
+
+# Objects : [r2697442]
+# name:be: []
+msgid "Подъезд к деревне Осовляны от а/д Слоним — Мосты — Скидель — граница Литвы (Поречье)"
+msgstr ""
+
+# Objects : [r2697462]
+# name:be: []
+msgid "Подъезд к деревне Острово от а/д Лунно — Гудевичи — Эйсмонты — Олекшицы"
+msgstr ""
+
+# Objects : [r2717743]
+# name:be: []
+msgid "Подъезд к деревне Русиновцы от а/д Слоним — Мосты — Скидель"
+msgstr ""
+
+# Objects : [r2696848]
+# name:be: []
+msgid "Подъезд к деревне Сорочицы"
+msgstr ""
+
+# Objects : [r2697445]
+# name:be: []
+msgid "Подъезд к деревне Струбница"
+msgstr ""
+
+# Objects : [r2717651]
+# name:be: []
+msgid "Подъезд к деревне Толстики от а/д Гродно — Ружаны — Ивацевичи"
+msgstr ""
+
+# Objects : [r2705206]
+# name:be: []
+msgid "Подъезд к деревне Тумаши от а/д Зельва — Деречин — Медвиновичи"
+msgstr ""
+
+# Objects : [r2699295]
+# name:be: []
+msgid "Подъезд к деревне Улазы от а/д Косилы — Щечицы"
+msgstr ""
+
+# Objects : [r2696854]
+# name:be: []
+msgid "Подъезд к деревне Черлёна"
+msgstr ""
+
+# Objects : [r2705210]
+# name:be: []
+msgid "Подъезд к деревне Ярчаки от а/д Желудок — Орля — Мальковичи"
+msgstr ""
+
+# Objects : [r2717685]
+# name:be: []
+msgid "Подъезд к ферме деревни Новинка от а/д Слоним — Мосты — Скидель"
+msgstr ""
+
+# Objects : [r2717792]
+# name:be: []
+msgid "Подъезд к ферме № 2 деревни Микелевщина от а/д Острино — Щучин — Волковыск"
+msgstr ""
+
+# Objects : [r2717604]
+# name:be: []
+msgid "Подъезд к химцентру деревни Струга от а/д Лунно — Гудевичи — Эйсмонты — Олекшицы"
+msgstr ""
+
+# Objects : [r2717734]
+# name:be: []
+msgid "Подъезд к хозяйству Княжеводцы"
+msgstr ""
+
+# Objects : [r2717735]
+# name:be: []
+msgid "Подъезд к школе деревни Черлёна от а/д Слоним — Мосты — Скидель"
+msgstr ""
+
+# Objects : [r2699336]
+# name:be: []
+msgid "Понижаны — Глядовичи — Щербовичи"
+msgstr ""
+
+# Objects : [r2696847]
+# name:be: []
+msgid "Ревки — Сорочицы — Миклашовцы — станция Дубно"
+msgstr ""
+
+# Objects : [r2697463]
+# name:be: []
+msgid "Рыболовичи — Черленка"
+msgstr ""
+
+# Objects : [r2702617]
+# name:be: []
+msgid "Самуйловичи Дольные — Борки — Парфеновичи"
+msgstr ""
+
+# Objects : [r2709251]
+# name:be: []
+msgid "Самуйловичи Дольные — Логновичи"
+msgstr ""
+
+# Objects : [r2702630]
+# name:be: []
+msgid "Самуйловичи — Парфеновичи — Большая Рогозница — Войдевичи"
+msgstr ""
+
+# Objects : [r1322339]
+# name:be: []
+msgid "Скидель — Плавы — Обухово"
+msgstr ""
+
+# Objects : [r2717607]
+# name:be: []
+msgid "Сорочицы — урочище Мостовское"
+msgstr ""
+
+# Objects : [r2703474]
+# name:be: []
+msgid "Струбница — Войдевичи"
+msgstr ""
+
+# Objects : [r2703487]
+# name:be: []
+msgid "Струга — Пилки — Огрызки"
+msgstr ""
+
+# Objects : [r2696858]
+# name:be: []
+msgid "Черлёна — станция Черлёна"
+msgstr ""
+
+# Objects : [r2696857]
+# name:be: []
+msgid "Черленка — Казаковцы"
+msgstr ""
+
+# Objects : [r2705207]
+# name:be: []
+msgid "Шестилы — Стукалы — Голубы"
+msgstr ""
+
+# Objects : [r2705208]
+# name:be: []
+msgid "Шимки — Москали — Воля–Крупицы"
+msgstr ""
+
+# Objects : [r2666162]
+# name:be: []
+msgid "Щучин — Каменка — Скидель"
+msgstr ""
+
+# Objects : [r1314768]
+# name:be: []
+msgid "Ярмоличи — Матеевичи — Цыдики"
+msgstr ""
+

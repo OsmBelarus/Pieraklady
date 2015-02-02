@@ -1,0 +1,40 @@
+# Objects : [w130786604]
+# name:be: [Дружба]
+msgid "Дружба"
+msgstr ""
+
+# Objects : [w130064425, w40711506]
+# name:be: []
+msgid "Платная"
+msgstr ""
+
+# Objects : [w233702456]
+# name:be: []
+msgid "Платная автостоянка гостиницы Беларусь"
+msgstr ""
+
+# Objects : [w40696827]
+# name:be: [Стаянка Стралецкі капітал]
+msgid "Стоянка "Стрелецкий капитал""
+msgstr ""
+
+# Objects : [w151272996]
+# name:be: [Стаянка БПС-Сбербанк]
+msgid "Стоянка БПС-сбербанк"
+msgstr ""
+
+# Objects : [w38670206]
+# name:be: [Стаянка Дыёніс]
+msgid "Стоянка Дионис"
+msgstr ""
+
+# Objects : [w41164594]
+# name:be: [Стаянка Еўрапарку]
+msgid "Стоянка европарк"
+msgstr ""
+
+# Objects : [w151367440]
+# name:be: [Стаянка Карал]
+msgid "Стоянка коралл"
+msgstr ""
+

@@ -1,0 +1,205 @@
+# Objects : [w151591901]
+# name:be: []
+msgid "37а"
+msgstr ""
+
+# Objects : [n2964490275]
+# name:be: [алея знакамітых ураджэнцаў Глыбоччыны]
+msgid "аллея знаменитых уроженцев Глуботчины"
+msgstr ""
+
+# Objects : [w278468531]
+# name:be: []
+msgid "АТП №16"
+msgstr ""
+
+# Objects : [n2964375920]
+# name:be: [барону Мюнгхаўзэну]
+msgid "барону Мюнгхаузену"
+msgstr ""
+
+# Objects : [n945287502]
+# name:be: []
+msgid "бывший монастырь Кармелитов: Брама"
+msgstr ""
+
+# Objects : [n1390888197, w25126091]
+# name:be: [Глыбокае]
+msgid "Глубокое"
+msgstr ""
+
+# Objects : [w275510034]
+# name:be: []
+msgid "Глубокская ЦРБ"
+msgstr ""
+
+# Objects : [n2866824938, w282746409]
+# name:be: []
+msgid "Глубокский лесхоз"
+msgstr ""
+
+# Objects : [w287141553]
+# name:be: []
+msgid "Гостиница "АРОЛА""
+msgstr ""
+
+# Objects : [n2766736542]
+# name:be: []
+msgid "Гостиница Глубокое"
+msgstr ""
+
+# Objects : [n2766736633]
+# name:be: []
+msgid "Гостиница Норд"
+msgstr ""
+
+# Objects : [n2766736644]
+# name:be: []
+msgid "Гостиница Очаг"
+msgstr ""
+
+# Objects : [w275516453]
+# name:be: []
+msgid "ДЭУ-35"
+msgstr ""
+
+# Objects : [w148294800]
+# name:be: []
+msgid "Железнодорожный вокзал"
+msgstr ""
+
+# Objects : [w282745478]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [n2964463857]
+# name:be: [Езус і самарыцянка]
+msgid "Иисус и самарянка"
+msgstr ""
+
+# Objects : [w275512913]
+# name:be: [Папраўчая калонія № 13]
+msgid "Исправительная колония № 13"
+msgstr ""
+
+# Objects : [w81113465]
+# name:be: [могілкі "Каптёўка"]
+msgid "кладбище "Коптевка""
+msgstr ""
+
+# Objects : [w25193731]
+# name:be: [Кагальнае]
+msgid "Когальное"
+msgstr ""
+
+# Objects : [w152775960]
+# name:be: []
+msgid "колбасный цех"
+msgstr ""
+
+# Objects : [n945287484]
+# name:be: [Калона ў гонар Канстытуцыі РП 3 мая 1791 г.]
+msgid "Колонна  в честь  Конституции РП  3 мая 1791 г."
+msgstr ""
+
+# Objects : [w151591904, w277420032]
+# name:be: []
+msgid "Комбикормовый завод"
+msgstr ""
+
+# Objects : [n2788682260]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [r2871403]
+# name:be: []
+msgid "Машерова"
+msgstr ""
+
+# Objects : [n243018676]
+# name:be: [Міхайлаўка]
+msgid "Михайловка"
+msgstr ""
+
+# Objects : [n2489401359]
+# name:be: [магіла Мюнгхаўзэна]
+msgid "могила Мюнгхаузена"
+msgstr ""
+
+# Objects : [n2489509753]
+# name:be: [магілы польскіх жаўнераў 1920г.]
+msgid "могилы польских солдат 1920 г."
+msgstr ""
+
+# Objects : [n2788682967]
+# name:be: [Манастыр базыльянаў Беразьвецкі]
+msgid "Монастырь базилиан Березвецкий"
+msgstr ""
+
+# Objects : [w287142062]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w277418287]
+# name:be: []
+msgid "ОАО Глубокский МКК"
+msgstr ""
+
+# Objects : [w275524548]
+# name:be: []
+msgid "ОАО Глубокский мясокомбинат"
+msgstr ""
+
+# Objects : [n306064994]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [w306884074]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2788684352]
+# name:be: [Сабор Нараджэння Прасвятой Багародзіцы]
+msgid "Собор Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w302955623]
+# name:be: []
+msgid "Старое еврейское кладбище"
+msgstr ""
+
+# Objects : [n2964463842]
+# name:be: []
+msgid "фонтан"
+msgstr ""
+
+# Objects : [w277418871, w277418872]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n2788685283]
+# name:be: [Гаспадарчы двор Вітгенштэйнаў]
+msgid "Хозяйственный двор Витгенштейнов"
+msgstr ""
+
+# Objects : [w173561236]
+# name:be: []
+msgid "ЧТУП Холтранс"
+msgstr ""
+
+# Objects : [w148314793]
+# name:be: []
+msgid "Электроподстанция"
+msgstr ""
+
+# Objects : [n306065008]
+# name:be: []
+msgid "Этнографический Музей"
+msgstr ""
+

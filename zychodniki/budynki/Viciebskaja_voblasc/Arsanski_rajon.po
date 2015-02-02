@@ -1,0 +1,55 @@
+# Objects : [w158003903]
+# name:be: []
+msgid "АГРО"
+msgstr ""
+
+# Objects : [w159801422]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [w163786211]
+# name:be: []
+msgid "Госпиталь ИВОВ "Юрцево""
+msgstr ""
+
+# Objects : [w201077276]
+# name:be: []
+msgid "Звёздная улица"
+msgstr ""
+
+# Objects : [w75778295]
+# name:be: [Кавярня «Сустрэча»]
+msgid "Кафе Встреча"
+msgstr ""
+
+# Objects : [w161439784]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w158831399]
+# name:be: []
+msgid "Котельн."
+msgstr ""
+
+# Objects : [w159801472, w225215202]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w181409690]
+# name:be: []
+msgid "Мурашко"
+msgstr ""
+
+# Objects : [w225251037]
+# name:be: []
+msgid "сельсая"
+msgstr ""
+
+# Objects : [w224705017]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+

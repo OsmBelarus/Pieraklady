@@ -1,0 +1,220 @@
+# Objects : [w304193054]
+# name:be: []
+msgid "База отдыха "МЕРЕЯ""
+msgstr ""
+
+# Objects : [w212275039]
+# name:be: []
+msgid "Беседка"
+msgstr ""
+
+# Objects : [w304193577]
+# name:be: []
+msgid "БЕСЕДКА"
+msgstr ""
+
+# Objects : [w208383416]
+# name:be: []
+msgid "болото"
+msgstr ""
+
+# Objects : [n2166457491]
+# name:be: []
+msgid "водонапорная башня"
+msgstr ""
+
+# Objects : [w304200439]
+# name:be: []
+msgid "Водонапорная башня 1"
+msgstr ""
+
+# Objects : [w260424779]
+# name:be: []
+msgid "Военное кладбище"
+msgstr ""
+
+# Objects : [n893280900]
+# name:be: []
+msgid "Горецкий Педагогический Колледж"
+msgstr ""
+
+# Objects : [n1365412437]
+# name:be: [Горкі]
+msgid "Горки"
+msgstr ""
+
+# Objects : [w75664571]
+# name:be: []
+msgid "дом животновода"
+msgstr ""
+
+# Objects : [n893284495]
+# name:be: []
+msgid "ДОМ КУЛЬТУРЫ"
+msgstr ""
+
+# Objects : [w211443363]
+# name:be: []
+msgid "зерносушыльный комплекс"
+msgstr ""
+
+# Objects : [w170467064, w207135648, w207429624, w212650889]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [w304195522]
+# name:be: []
+msgid "кладбище дер. Моисеево"
+msgstr ""
+
+# Objects : [n3080642220]
+# name:be: []
+msgid "КСУП "Племзавод Ленино""
+msgstr ""
+
+# Objects : [w304193639]
+# name:be: []
+msgid "КУПЕЛЬ"
+msgstr ""
+
+# Objects : [w75664494]
+# name:be: []
+msgid "Ленино"
+msgstr ""
+
+# Objects : [w207142881, w207272354, w207282430, w207429625, w208183892, w208669414, w210927615]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w75664312]
+# name:be: []
+msgid "МЕРЕЯ"
+msgstr ""
+
+# Objects : [w206616265, w208217111]
+# name:be: []
+msgid "мехдвор"
+msgstr ""
+
+# Objects : [w274735374]
+# name:be: []
+msgid "МН "Дружба""
+msgstr ""
+
+# Objects : [n893284795]
+# name:be: []
+msgid "Музей Советско-Польского боевого содружества"
+msgstr ""
+
+# Objects : [w274735370]
+# name:be: []
+msgid "нефтепровод"
+msgstr ""
+
+# Objects : [w314421213]
+# name:be: []
+msgid "НПС Горки"
+msgstr ""
+
+# Objects : [w75664520]
+# name:be: []
+msgid "очистные сооружения"
+msgstr ""
+
+# Objects : [n2657278966]
+# name:be: []
+msgid "Памятник неизвестному воину"
+msgstr ""
+
+# Objects : [n893293165]
+# name:be: []
+msgid "Памятник Польским воинам"
+msgstr ""
+
+# Objects : [n893291581]
+# name:be: []
+msgid "Памятник Советским воинам"
+msgstr ""
+
+# Objects : [w304195944]
+# name:be: []
+msgid "памятник Советским солдатам"
+msgstr ""
+
+# Objects : [w169531400, w169531408]
+# name:be: [Парасіца]
+msgid "Поросица"
+msgstr ""
+
+# Objects : [w304193553]
+# name:be: []
+msgid "Прометей"
+msgstr ""
+
+# Objects : [w325148449]
+# name:be: []
+msgid "пруд"
+msgstr ""
+
+# Objects : [w207542075, w208217112]
+# name:be: []
+msgid "сад"
+msgstr ""
+
+# Objects : [w75664555]
+# name:be: []
+msgid "свиноводческий комплекс сарай №6-7"
+msgstr ""
+
+# Objects : [w75664469]
+# name:be: []
+msgid "свиноводческий комплекс сарай №8"
+msgstr ""
+
+# Objects : [w75664444]
+# name:be: []
+msgid "свиноводческий комплекс сарай №9"
+msgstr ""
+
+# Objects : [w75664597]
+# name:be: []
+msgid "СКЛАД №1"
+msgstr ""
+
+# Objects : [n893281568]
+# name:be: []
+msgid "Советско-Польская братская могила"
+msgstr ""
+
+# Objects : [w304199955]
+# name:be: []
+msgid "спортплощадка педколледжа"
+msgstr ""
+
+# Objects : [w75664243]
+# name:be: []
+msgid "СТАРОЕ ОЗЕРО"
+msgstr ""
+
+# Objects : [w76477915]
+# name:be: []
+msgid "Суровцово"
+msgstr ""
+
+# Objects : [w204642358]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [n2788687372]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [w325186662]
+# name:be: []
+msgid "элеватор"
+msgstr ""
+

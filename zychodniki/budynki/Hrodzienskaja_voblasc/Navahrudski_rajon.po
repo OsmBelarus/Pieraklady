@@ -1,0 +1,75 @@
+# Objects : [w299439628]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w299439629]
+# name:be: []
+msgid "ГРП№11"
+msgstr ""
+
+# Objects : [w299468170]
+# name:be: []
+msgid "ГРП№5"
+msgstr ""
+
+# Objects : [w299960328]
+# name:be: []
+msgid "ГРП№9"
+msgstr ""
+
+# Objects : [w196981341]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [n1575445557]
+# name:be: []
+msgid "Дом жилой (дерев.)"
+msgstr ""
+
+# Objects : [w260914933, w260914934]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w289728679]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w243086838]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w264738598]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w301439213]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n1559039309, n1560639973]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [n1551977540]
+# name:be: []
+msgid "Флигель"
+msgstr ""
+
+# Objects : [n1576504611]
+# name:be: []
+msgid "Флигель (?)"
+msgstr ""
+
+# Objects : [w289728682, w301441586, w301460076]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+

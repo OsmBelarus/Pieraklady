@@ -1,0 +1,150 @@
+# Objects : [w239169115]
+# name:be: []
+msgid "да"
+msgstr ""
+
+# Objects : [w294293652]
+# name:be: []
+msgid "дет. сад"
+msgstr ""
+
+# Objects : [w131591748]
+# name:be: []
+msgid "ДЮСШ №1"
+msgstr ""
+
+# Objects : [w287225163]
+# name:be: []
+msgid "ДЮСШ №2"
+msgstr ""
+
+# Objects : [w287270299]
+# name:be: []
+msgid "евроопт"
+msgstr ""
+
+# Objects : [w257592818]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w239182957]
+# name:be: []
+msgid "загс"
+msgstr ""
+
+# Objects : [w253164309]
+# name:be: []
+msgid "Калинка"
+msgstr ""
+
+# Objects : [w311238811]
+# name:be: []
+msgid "КИП радио"
+msgstr ""
+
+# Objects : [w311238812]
+# name:be: []
+msgid "КИП связи"
+msgstr ""
+
+# Objects : [w311238813, w321776841]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w294293653]
+# name:be: []
+msgid "котельняя"
+msgstr ""
+
+# Objects : [w287270303]
+# name:be: []
+msgid "мастерская"
+msgstr ""
+
+# Objects : [w287270306]
+# name:be: []
+msgid "морг"
+msgstr ""
+
+# Objects : [w239172489, w239182738]
+# name:be: []
+msgid "продукты"
+msgstr ""
+
+# Objects : [w252616575, w301753033]
+# name:be: []
+msgid "проходная"
+msgstr ""
+
+# Objects : [w252440736]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
+# Objects : [w236689214]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w238297112, w248438005, w258731843, w258751822]
+# name:be: []
+msgid "РПУ "Калинковичирайгаз""
+msgstr ""
+
+# Objects : [w239032340]
+# name:be: []
+msgid "санстанция"
+msgstr ""
+
+# Objects : [w238563860]
+# name:be: []
+msgid "Спутник"
+msgstr ""
+
+# Objects : [w238563861]
+# name:be: []
+msgid "Стройматерилы"
+msgstr ""
+
+# Objects : [w302891330]
+# name:be: []
+msgid "тех. осмотр"
+msgstr ""
+
+# Objects : [w248785244]
+# name:be: []
+msgid "ул.50 Лет Октября 91"
+msgstr ""
+
+# Objects : [w257592819]
+# name:be: []
+msgid "Умелый садовник"
+msgstr ""
+
+# Objects : [w61751416]
+# name:be: []
+msgid "Фаворит"
+msgstr ""
+
+# Objects : [w302731295]
+# name:be: []
+msgid "Центр досуга железнодорожный"
+msgstr ""
+
+# Objects : [w260072824]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w302891331]
+# name:be: []
+msgid "шиномонтаж"
+msgstr ""
+
+# Objects : [w302891332]
+# name:be: []
+msgid "энергонадзор"
+msgstr ""
+

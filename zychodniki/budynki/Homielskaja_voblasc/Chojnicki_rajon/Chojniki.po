@@ -1,0 +1,350 @@
+# Objects : [w260409617]
+# name:be: []
+msgid ""Гарант""
+msgstr ""
+
+# Objects : [w260432136]
+# name:be: []
+msgid ""Дары от Зари""
+msgstr ""
+
+# Objects : [w260418592]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w260418593]
+# name:be: []
+msgid "Автомастерская"
+msgstr ""
+
+# Objects : [w259053216]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w80397280]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w259053218]
+# name:be: []
+msgid "Баня №1"
+msgstr ""
+
+# Objects : [w260886057]
+# name:be: []
+msgid "Бевторчермет"
+msgstr ""
+
+# Objects : [w240264219]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w240463538]
+# name:be: []
+msgid "БелАз"
+msgstr ""
+
+# Objects : [w240264220]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w257416377]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
+# Objects : [w240264222]
+# name:be: []
+msgid "Ветаптека"
+msgstr ""
+
+# Objects : [w240257631]
+# name:be: []
+msgid "Ветлаборатория"
+msgstr ""
+
+# Objects : [w240257632]
+# name:be: []
+msgid "Ветстанция"
+msgstr ""
+
+# Objects : [w240268123]
+# name:be: []
+msgid "Вираж"
+msgstr ""
+
+# Objects : [w259169125]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w259053217]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w260902242]
+# name:be: []
+msgid "Городская котельная"
+msgstr ""
+
+# Objects : [w260432146]
+# name:be: []
+msgid "ДК "Мелиоратор""
+msgstr ""
+
+# Objects : [w240264223]
+# name:be: []
+msgid "Дорожный"
+msgstr ""
+
+# Objects : [w259040648]
+# name:be: []
+msgid "ДОССАФ"
+msgstr ""
+
+# Objects : [w319671990]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w259053219]
+# name:be: []
+msgid "Журавинка"
+msgstr ""
+
+# Objects : [w240264225]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w264738308]
+# name:be: []
+msgid "Кассы ж/д вокзала "Хойники""
+msgstr ""
+
+# Objects : [w260418595]
+# name:be: []
+msgid "Кафе"
+msgstr ""
+
+# Objects : [w240264227]
+# name:be: []
+msgid "Кафе "Золотая бочка""
+msgstr ""
+
+# Objects : [w291750792]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w260409603, w260409604, w260418598, w264427591]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w260418597]
+# name:be: []
+msgid "Магазин "Европа""
+msgstr ""
+
+# Objects : [w264555874]
+# name:be: []
+msgid "Магазин "Ромашка""
+msgstr ""
+
+# Objects : [w240264229]
+# name:be: []
+msgid "Магазин "Техномир""
+msgstr ""
+
+# Objects : [w240264231]
+# name:be: []
+msgid "Магазин "Эдельвейс""
+msgstr ""
+
+# Objects : [w259704593]
+# name:be: []
+msgid "Магазин мебели"
+msgstr ""
+
+# Objects : [w260438139]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w240257634]
+# name:be: []
+msgid "Отделение дневного пребывания инвалидов"
+msgstr ""
+
+# Objects : [w258060279]
+# name:be: []
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [w260409600]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w240463540]
+# name:be: []
+msgid "Полесье"
+msgstr ""
+
+# Objects : [w240467437, w240502817, w260418600, w260432147, w260455449]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w259046717, w259180860, w259703094, w260407368, w260409599]
+# name:be: []
+msgid "ПРОДУКТОВЫЙ"
+msgstr ""
+
+# Objects : [w240467438]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w240460876]
+# name:be: []
+msgid "Районный дом культуры"
+msgstr ""
+
+# Objects : [w260432188]
+# name:be: []
+msgid "Районный отдел образования"
+msgstr ""
+
+# Objects : [w240268131]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w240463539]
+# name:be: []
+msgid "РУП "Белпочта""
+msgstr ""
+
+# Objects : [w291725262, w291725454, w291885622]
+# name:be: []
+msgid "сарай"
+msgstr ""
+
+# Objects : [w240257638]
+# name:be: []
+msgid "Семстанция"
+msgstr ""
+
+# Objects : [w240467441]
+# name:be: []
+msgid "средняя школа № 1"
+msgstr ""
+
+# Objects : [w260886058]
+# name:be: []
+msgid "Сттойматериалы"
+msgstr ""
+
+# Objects : [w260432149]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [w259704594]
+# name:be: []
+msgid "Супермаркет "Хойникский""
+msgstr ""
+
+# Objects : [w264738309]
+# name:be: []
+msgid "Товарная кантора"
+msgstr ""
+
+# Objects : [w240463541]
+# name:be: []
+msgid "Торговый ряд"
+msgstr ""
+
+# Objects : [w240268132]
+# name:be: []
+msgid "Удобный"
+msgstr ""
+
+# Objects : [w260881932]
+# name:be: []
+msgid "УНСМГЭ университет им. А.Д. Сахарова"
+msgstr ""
+
+# Objects : [w260432159]
+# name:be: []
+msgid "Управление Полесского Государственного радиологического заповедника"
+msgstr ""
+
+# Objects : [w260432164]
+# name:be: []
+msgid "Управление ТБЗ"
+msgstr ""
+
+# Objects : [w260886059]
+# name:be: []
+msgid "Упраление РайПО"
+msgstr ""
+
+# Objects : [w240264238]
+# name:be: []
+msgid "Учебно-курсовой комбинат"
+msgstr ""
+
+# Objects : [w240502804]
+# name:be: []
+msgid "Учреждение "Хойникский территориальный центр социального обслуживания населения""
+msgstr ""
+
+# Objects : [w260432175]
+# name:be: []
+msgid "Фабрика художественных изделий"
+msgstr ""
+
+# Objects : [w260411942]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [w263625996]
+# name:be: []
+msgid "Хозяйственный"
+msgstr ""
+
+# Objects : [w260418596]
+# name:be: []
+msgid "Хойникский государственный профессиональный лицей"
+msgstr ""
+
+# Objects : [w240264240]
+# name:be: []
+msgid "Хуторок"
+msgstr ""
+
+# Objects : [w259165929]
+# name:be: []
+msgid "Центр гигиены и эпидемиологии"
+msgstr ""
+
+# Objects : [w291750793]
+# name:be: []
+msgid "ШРП ХКЗ"
+msgstr ""
+
+# Objects : [w240257639, w286421224]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+

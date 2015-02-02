@@ -1,0 +1,55 @@
+# Objects : [n2766736563]
+# name:be: []
+msgid "Гостиница Дрибин"
+msgstr ""
+
+# Objects : [w233364825]
+# name:be: []
+msgid "Дрибинский РГС"
+msgstr ""
+
+# Objects : [w233365697]
+# name:be: []
+msgid "Зерносушильный комплекс"
+msgstr ""
+
+# Objects : [n2388468360, n2388468361]
+# name:be: []
+msgid "Канализацияя"
+msgstr ""
+
+# Objects : [w309363646, w315568635]
+# name:be: []
+msgid "Каток"
+msgstr ""
+
+# Objects : [w309917408]
+# name:be: []
+msgid "Насыпь"
+msgstr ""
+
+# Objects : [w274235760]
+# name:be: []
+msgid "РАПТС"
+msgstr ""
+
+# Objects : [w233364834]
+# name:be: []
+msgid "Совхоз Дрибинский"
+msgstr ""
+
+# Objects : [r3076865]
+# name:be: [Старадрыбінскі завулак]
+msgid "Стародрибинский переулок"
+msgstr ""
+
+# Objects : [w233364821]
+# name:be: []
+msgid "Убойный цех"
+msgstr ""
+
+# Objects : [w233365694]
+# name:be: []
+msgid "Электросети"
+msgstr ""
+

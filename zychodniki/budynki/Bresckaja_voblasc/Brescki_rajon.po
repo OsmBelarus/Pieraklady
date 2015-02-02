@@ -1,0 +1,90 @@
+# Objects : [w108327679]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [w169182082]
+# name:be: []
+msgid "Гостиничный домик №1"
+msgstr ""
+
+# Objects : [w169182073]
+# name:be: []
+msgid "Гостиничный домик №2"
+msgstr ""
+
+# Objects : [w169182050]
+# name:be: []
+msgid "Гостиничный домик №3"
+msgstr ""
+
+# Objects : [w169182070]
+# name:be: []
+msgid "Гостиничный домик №4"
+msgstr ""
+
+# Objects : [w169182079]
+# name:be: []
+msgid "Гостиничный домик №5"
+msgstr ""
+
+# Objects : [w117054830]
+# name:be: [Дом культуры]
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w276922811]
+# name:be: [Чыгуначная станцыя]
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w132987200]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w279526128]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w96945519]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть"
+msgstr ""
+
+# Objects : [w252591081]
+# name:be: []
+msgid "Приграничный грузовой терминал Козловичи 2"
+msgstr ""
+
+# Objects : [w116914318]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w115851049]
+# name:be: []
+msgid "Средняя школа д.Тельмы"
+msgstr ""
+
+# Objects : [w107578471]
+# name:be: []
+msgid "СШ д.Черни"
+msgstr ""
+
+# Objects : [w132985140]
+# name:be: []
+msgid "Усадьба Немцевичей"
+msgstr ""
+
+# Objects : [w279526371]
+# name:be: []
+msgid "ЧУП "АСБ Центр оздоровления Солнечный""
+msgstr ""
+
+# Objects : [w274547855]
+# name:be: []
+msgid "Экоцентр "Прибужское Полесье""
+msgstr ""
+

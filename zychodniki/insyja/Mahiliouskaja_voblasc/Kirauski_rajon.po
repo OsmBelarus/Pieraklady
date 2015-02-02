@@ -1,0 +1,80 @@
+# Objects : [n306065253, n306065291, w25195013]
+# name:be: [Белы Бераг]
+msgid "Белый Берег"
+msgstr ""
+
+# Objects : [w25196447]
+# name:be: []
+msgid "Вепринка"
+msgstr ""
+
+# Objects : [n2952506912]
+# name:be: []
+msgid "Ветряк"
+msgstr ""
+
+# Objects : [n2788680276]
+# name:be: [Палацава-паркавы комплекс Булгакаў]
+msgid "Дворцово-парковый комплекс Булгаков"
+msgstr ""
+
+# Objects : [w25194907]
+# name:be: []
+msgid "Друть"
+msgstr ""
+
+# Objects : [w25194016]
+# name:be: []
+msgid "Жовин"
+msgstr ""
+
+# Objects : [n2431139597, n2431139613]
+# name:be: []
+msgid "Задвижка"
+msgstr ""
+
+# Objects : [n2766728098]
+# name:be: []
+msgid "Изумруд"
+msgstr ""
+
+# Objects : [w298491713]
+# name:be: []
+msgid "карьер "Пацева Слобода""
+msgstr ""
+
+# Objects : [w230550369]
+# name:be: []
+msgid "карьер песка "Козуличи""
+msgstr ""
+
+# Objects : [w325191948]
+# name:be: []
+msgid "Минск-Гомель"
+msgstr ""
+
+# Objects : [w206507338, w206507339, w206507340, w206507341]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [n306065292]
+# name:be: []
+msgid "Прекрасный Луг"
+msgstr ""
+
+# Objects : [n3313455380, n3313474671, n3313484362]
+# name:be: []
+msgid "регулятор"
+msgstr ""
+
+# Objects : [n2788685346]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [r538654]
+# name:be: []
+msgid "Чигиринское"
+msgstr ""
+

@@ -1,0 +1,225 @@
+# Objects : [w279989382]
+# name:be: []
+msgid "амбулатория"
+msgstr ""
+
+# Objects : [w279547073]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [n2930548519]
+# name:be: []
+msgid "В/н башня"
+msgstr ""
+
+# Objects : [n275085485]
+# name:be: []
+msgid "Веселовка-Сеньковка-Новые Юрковичи"
+msgstr ""
+
+# Objects : [w257895806]
+# name:be: []
+msgid "гараж ОАО "Утевское""
+msgstr ""
+
+# Objects : [w257896153]
+# name:be: []
+msgid "д. Уть"
+msgstr ""
+
+# Objects : [w208186103]
+# name:be: []
+msgid "Жгунский Дом Культуры"
+msgstr ""
+
+# Objects : [n306067993]
+# name:be: [Закапыцце]
+msgid "Закопытье"
+msgstr ""
+
+# Objects : [w275932685]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
+# Objects : [w243914240]
+# name:be: []
+msgid "Зерносушилка и склады ЧУП "Тереховка-Агро""
+msgstr ""
+
+# Objects : [w273216093]
+# name:be: []
+msgid "Канава"
+msgstr ""
+
+# Objects : [w257897508]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w263611093]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w257883474]
+# name:be: []
+msgid "контора ОАО "Утевское""
+msgstr ""
+
+# Objects : [n306067987]
+# name:be: [Кругавец]
+msgid "Круговец"
+msgstr ""
+
+# Objects : [w255034191]
+# name:be: []
+msgid "Крупецкое кладбище"
+msgstr ""
+
+# Objects : [w25187834]
+# name:be: []
+msgid "Лосево"
+msgstr ""
+
+# Objects : [w176068707, w289516072]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w255034195]
+# name:be: []
+msgid "Машинно-тракторный двор СПК "Крупец""
+msgstr ""
+
+# Objects : [w279547393]
+# name:be: []
+msgid "Мех. двор"
+msgstr ""
+
+# Objects : [w257896708]
+# name:be: []
+msgid "мехдвор ОАО "Утевское""
+msgstr ""
+
+# Objects : [w243914085]
+# name:be: []
+msgid "Мехдвор ЧУП "Тереховка-АГРО""
+msgstr ""
+
+# Objects : [w314286194, w314287482]
+# name:be: []
+msgid "МН "Дружба""
+msgstr ""
+
+# Objects : [w243914289]
+# name:be: []
+msgid "молочный комплекс ЧУП "Тереховка-Агро""
+msgstr ""
+
+# Objects : [w169492251]
+# name:be: []
+msgid "Мох"
+msgstr ""
+
+# Objects : [n2788683198]
+# name:be: [Музей]
+msgid "Музей"
+msgstr ""
+
+# Objects : [w289516070]
+# name:be: []
+msgid "Нивская библиотека"
+msgstr ""
+
+# Objects : [w259015759, w259015760]
+# name:be: []
+msgid "ОАО "Утевское" п. Степь"
+msgstr ""
+
+# Objects : [w169492252]
+# name:be: []
+msgid "окопы"
+msgstr ""
+
+# Objects : [w259015900, w259015901, w259015919]
+# name:be: []
+msgid "п. Степь"
+msgstr ""
+
+# Objects : [w257897601]
+# name:be: []
+msgid "погибшим"
+msgstr ""
+
+# Objects : [w25190365, w25198568]
+# name:be: []
+msgid "Ревучее"
+msgstr ""
+
+# Objects : [n275086320]
+# name:be: []
+msgid "Селище 1-е-Камень"
+msgstr ""
+
+# Objects : [n275086323]
+# name:be: []
+msgid "Селище-Новозыбковский"
+msgstr ""
+
+# Objects : [w257897644]
+# name:be: []
+msgid "сельский исполком"
+msgstr ""
+
+# Objects : [w261402161]
+# name:be: []
+msgid "Советским солдатам"
+msgstr ""
+
+# Objects : [w176068754]
+# name:be: []
+msgid "СОТ "Дударево""
+msgstr ""
+
+# Objects : [w279684917]
+# name:be: []
+msgid "СПК "Борщёвский" мехдвор"
+msgstr ""
+
+# Objects : [n243059058]
+# name:be: []
+msgid "Три сестры"
+msgstr ""
+
+# Objects : [n2788684442]
+# name:be: [Сядзібна-паркавы комплекс Гілярдаў]
+msgid "Усадебно-парковый комплекс Гилярдов"
+msgstr ""
+
+# Objects : [w257896864]
+# name:be: []
+msgid "Утевское"
+msgstr ""
+
+# Objects : [n2788686006]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686193]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686615]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [w261539528]
+# name:be: []
+msgid "Южная"
+msgstr ""
+

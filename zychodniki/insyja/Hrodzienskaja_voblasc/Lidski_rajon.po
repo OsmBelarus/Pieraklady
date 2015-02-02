@@ -1,0 +1,295 @@
+# Objects : [n1042023419]
+# name:be: []
+msgid "Lida Air Base"
+msgstr ""
+
+# Objects : [r3798425]
+# name:be: []
+msgid "Гераненский сельский совет"
+msgstr ""
+
+# Objects : [n3012744853, n3012744854]
+# name:be: [Ганчары]
+msgid "Гончары"
+msgstr ""
+
+# Objects : [n513125713]
+# name:be: [Гродзенская вобласць]
+msgid "Гродненская область"
+msgstr ""
+
+# Objects : [n306067629, n306067663]
+# name:be: [Гуды]
+msgid "Гуды"
+msgstr ""
+
+# Objects : [w280858076]
+# name:be: []
+msgid "Гуды-2"
+msgstr ""
+
+# Objects : [n306067375]
+# name:be: [Гутна]
+msgid "Гутно"
+msgstr ""
+
+# Objects : [n2788680308]
+# name:be: [Палацава-паркавы комплекс Радзівілаў]
+msgid "Дворцово-парковый комплекс Радзивиллов"
+msgstr ""
+
+# Objects : [r417858]
+# name:be: [Дзітва]
+msgid "Дитва"
+msgstr ""
+
+# Objects : [w25187922]
+# name:be: []
+msgid "карьер "Колышки""
+msgstr ""
+
+# Objects : [w291356439]
+# name:be: []
+msgid "Карьер Показь"
+msgstr ""
+
+# Objects : [n2788681121]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681187]
+# name:be: [Могілкі каталіцкія. Капліца]
+msgid "Кладбище католическое. Часовня"
+msgstr ""
+
+# Objects : [n2788681559]
+# name:be: [Могілкі хрысціянскія]
+msgid "Кладбище христианское"
+msgstr ""
+
+# Objects : [n2788681687]
+# name:be: [Званіца]
+msgid "Колокольня"
+msgstr ""
+
+# Objects : [n3154450845]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [n2788681798]
+# name:be: [Касцёл Перамянення Пана]
+msgid "Костел Преображения Господня"
+msgstr ""
+
+# Objects : [n2788681906, n2788681908]
+# name:be: [Касцёл Святога Міхала Арханёла]
+msgid "Костел Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n2788682038]
+# name:be: [Касцёл Найсвяцейшага Сэрца Езуса і Святога Андрэя Баболі]
+msgid "Костел Святого Сердца Иисуса и Святого Андрея Боболи"
+msgstr ""
+
+# Objects : [n2788682236]
+# name:be: [Касцёл Святой Тройцы]
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n306067371]
+# name:be: [Ліда]
+msgid "Лида"
+msgstr ""
+
+# Objects : [r3798390]
+# name:be: []
+msgid "Липнишковский сельский совет"
+msgstr ""
+
+# Objects : [w323211565]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [n306067377]
+# name:be: [Мінойты]
+msgid "Минойты"
+msgstr ""
+
+# Objects : [n306067434, n306067621]
+# name:be: []
+msgid "Моб. Связь"
+msgstr ""
+
+# Objects : [n1876482210]
+# name:be: []
+msgid "Мытнянский Гастинец"
+msgstr ""
+
+# Objects : [n306067384]
+# name:be: [Нёман]
+msgid "Неман"
+msgstr ""
+
+# Objects : [w25140377]
+# name:be: []
+msgid "ОАО "Лидлен""
+msgstr ""
+
+# Objects : [r4193646]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [w117204521]
+# name:be: []
+msgid "п\л "Солнышко""
+msgstr ""
+
+# Objects : [w302946283, w302946284]
+# name:be: []
+msgid "Пилорама"
+msgstr ""
+
+# Objects : [r4230270]
+# name:be: []
+msgid "Полевая база торфодобычи"
+msgstr ""
+
+# Objects : [w315780474]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [n2788684167]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2766722599]
+# name:be: []
+msgid "Санаторий Радуга"
+msgstr ""
+
+# Objects : [w145670995]
+# name:be: []
+msgid "Торфобрикетный завод"
+msgstr ""
+
+# Objects : [r4230701]
+# name:be: []
+msgid "Торфо-брикетный завод"
+msgstr ""
+
+# Objects : [r3848087]
+# name:be: []
+msgid "Торфомассив"
+msgstr ""
+
+# Objects : [w309123912]
+# name:be: []
+msgid "Тофоразработки"
+msgstr ""
+
+# Objects : [n2788684459]
+# name:be: [Сядзібна-паркавы комплекс Захватовічаў]
+msgid "Усадебно-парковый комплекс Захватовичей"
+msgstr ""
+
+# Objects : [n2788684538]
+# name:be: [Сядзібна-паркавы комплекс Ромэраў]
+msgid "Усадебно-парковый комплекс Ромеров"
+msgstr ""
+
+# Objects : [n1405220443]
+# name:be: []
+msgid "Усадьба "У Нарвы""
+msgstr ""
+
+# Objects : [n2788684680]
+# name:be: [Сядзіба Важынскіх]
+msgid "Усадьба Важинскому"
+msgstr ""
+
+# Objects : [n2788684693, n2788684695]
+# name:be: [Сядзіба Грабоўскіх]
+msgid "Усадьба Гробовских"
+msgstr ""
+
+# Objects : [n1282823890]
+# name:be: []
+msgid "Усадьба Ромеров"
+msgstr ""
+
+# Objects : [w304461678]
+# name:be: []
+msgid "Фап"
+msgstr ""
+
+# Objects : [w302947167]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [n2788685254]
+# name:be: [Фальварак]
+msgid "Фольварк"
+msgstr ""
+
+# Objects : [n2788685389]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2788685707, n2788685714]
+# name:be: [Царква Узвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n2788686048, n2788686052, n2788686055]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686238]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686496]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788687262]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788687677]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687400]
+# name:be: [Капліца Маці Божай Ружанцовай]
+msgid "Часовня Богородицы Розария"
+msgstr ""
+
+# Objects : [n2788687403]
+# name:be: [Капліца Маці Божай Анёльскай]
+msgid "Часовня Девы Марии Ангельской"
+msgstr ""
+
+# Objects : [n2788687412]
+# name:be: [Капліца Святога Яна Хрысцiцеля]
+msgid "Часовня Св. Иоанна Крестителя"
+msgstr ""
+
+# Objects : [n2788687455]
+# name:be: [Капліца Святых Іахіма й Ганны]
+msgid "Часовня Святых Иохима и Анны"
+msgstr ""
+

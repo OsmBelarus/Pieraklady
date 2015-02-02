@@ -1,0 +1,70 @@
+# Objects : [n1380778258]
+# name:be: []
+msgid ""Миля" Продукты"
+msgstr ""
+
+# Objects : [n1380780363]
+# name:be: []
+msgid "Shoes"
+msgstr ""
+
+# Objects : [n1380778255]
+# name:be: []
+msgid "Universal Store"
+msgstr ""
+
+# Objects : [n1380786106]
+# name:be: []
+msgid "Автозапчасти / Автосервис"
+msgstr ""
+
+# Objects : [n1382304673]
+# name:be: [Бытавая хімія]
+msgid "Бытовая химия"
+msgstr ""
+
+# Objects : [n1380782624]
+# name:be: [Вікторыя]
+msgid "Виктория"
+msgstr ""
+
+# Objects : [n1380778250]
+# name:be: [Кулінарыя]
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n1380790920, n1380793126]
+# name:be: []
+msgid "Мясо"
+msgstr ""
+
+# Objects : [n1793787977]
+# name:be: []
+msgid "Мясо-молоко"
+msgstr ""
+
+# Objects : [n1380782376, n2129825763]
+# name:be: [Цырульня]
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n1382304425]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2475216974]
+# name:be: []
+msgid "Родная сторона"
+msgstr ""
+
+# Objects : [n1380813940]
+# name:be: []
+msgid "Точка (Продтовары)"
+msgstr ""
+
+# Objects : [n1380794642]
+# name:be: [Гаспадарчыя тавары]
+msgid "Хозтовары"
+msgstr ""
+

@@ -1,0 +1,225 @@
+# Objects : [w241224847]
+# name:be: []
+msgid ""Белсоюзпечать""
+msgstr ""
+
+# Objects : [w155762316]
+# name:be: []
+msgid ""Озерный""
+msgstr ""
+
+# Objects : [w241803105]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w168529162]
+# name:be: []
+msgid "гаражи ДЭУ 34"
+msgstr ""
+
+# Objects : [w155762050]
+# name:be: [Гасцініца "Браслаў"]
+msgid "Гостиница "Браслав""
+msgstr ""
+
+# Objects : [w57746283]
+# name:be: [Гасцініца "Заезны двор"]
+msgid "Гостиница "Заездный двор""
+msgstr ""
+
+# Objects : [w155762346]
+# name:be: [дзіцячая бібліятэка]
+msgid "детская библиотека"
+msgstr ""
+
+# Objects : [w159309289]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w155762238]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w155762062]
+# name:be: []
+msgid "Дом пионеров"
+msgstr ""
+
+# Objects : [w159128260]
+# name:be: [Гісторыка-краязнаўчы музей]
+msgid "Историко-краеведческий музей"
+msgstr ""
+
+# Objects : [w156292176]
+# name:be: []
+msgid "Кафе "Сузорье""
+msgstr ""
+
+# Objects : [w241221279]
+# name:be: []
+msgid "кафетерий"
+msgstr ""
+
+# Objects : [w155762199]
+# name:be: [кнігарня "Літарынка"]
+msgid "книжный магазин "Літарынка""
+msgstr ""
+
+# Objects : [w159806489]
+# name:be: []
+msgid "Комитет Погранвойск"
+msgstr ""
+
+# Objects : [w241793221]
+# name:be: []
+msgid "корпус № 1 "зеленый""
+msgstr ""
+
+# Objects : [w57747462]
+# name:be: []
+msgid "корпус № 2 "голубой""
+msgstr ""
+
+# Objects : [w241793846]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w168569361]
+# name:be: []
+msgid "Мастерские-гаражи"
+msgstr ""
+
+# Objects : [w57746282]
+# name:be: [музей традыцыйнай культуры]
+msgid "музей традиционной культуры"
+msgstr ""
+
+# Objects : [w159806490]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w159145955]
+# name:be: []
+msgid "Отдел образования"
+msgstr ""
+
+# Objects : [w156292046]
+# name:be: [парафіяльны дом]
+msgid "парафиальный дом"
+msgstr ""
+
+# Objects : [w241224850]
+# name:be: []
+msgid "продуктовый"
+msgstr ""
+
+# Objects : [w156424538, w159309295]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w241221280]
+# name:be: []
+msgid "продуктовый "Василёк""
+msgstr ""
+
+# Objects : [w156424810]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w155762064]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [w156292037]
+# name:be: []
+msgid "Райплемстанция"
+msgstr ""
+
+# Objects : [w159309185]
+# name:be: []
+msgid "Редакция"
+msgstr ""
+
+# Objects : [w241802631]
+# name:be: []
+msgid "Ресторан"
+msgstr ""
+
+# Objects : [w241224848]
+# name:be: []
+msgid "Ритуальный"
+msgstr ""
+
+# Objects : [w155762126]
+# name:be: []
+msgid "Санаторий подростковый туберкулезный"
+msgstr ""
+
+# Objects : [w158860953]
+# name:be: []
+msgid "Суд"
+msgstr ""
+
+# Objects : [w159309188]
+# name:be: []
+msgid "Супермаркет "Бережье""
+msgstr ""
+
+# Objects : [w159333627]
+# name:be: []
+msgid "Супермаркет "Евроопт""
+msgstr ""
+
+# Objects : [w159309067]
+# name:be: []
+msgid "Супермаркет "Родны кут"""
+msgstr ""
+
+# Objects : [w240684293]
+# name:be: []
+msgid "Танцплощадка"
+msgstr ""
+
+# Objects : [w168569362]
+# name:be: []
+msgid "Топочная"
+msgstr ""
+
+# Objects : [w159309190]
+# name:be: [ТЦ "Віталіч"]
+msgid "ТЦ "Віталіч""
+msgstr ""
+
+# Objects : [w155762067]
+# name:be: []
+msgid "Универмаг "Брас""
+msgstr ""
+
+# Objects : [w155762171]
+# name:be: []
+msgid "фирменный маг. "Маяк""
+msgstr ""
+
+# Objects : [w258752794]
+# name:be: []
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [r3255276]
+# name:be: []
+msgid "Центральная районная поликлиника"
+msgstr ""
+
+# Objects : [w240895944]
+# name:be: []
+msgid "Эстрадная площадка"
+msgstr ""
+

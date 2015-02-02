@@ -1,0 +1,565 @@
+# Objects : [n243044385, w25079915]
+# name:be: [Анюціна]
+msgid "Анютино"
+msgstr ""
+
+# Objects : [n243044831, w25080889]
+# name:be: [Бакаў]
+msgid "Баков"
+msgstr ""
+
+# Objects : [n243044435, w25079986]
+# name:be: []
+msgid "Бакуновичи"
+msgstr ""
+
+# Objects : [n243045667, w25079857]
+# name:be: [Бяльгійскі]
+msgid "Бельгийский"
+msgstr ""
+
+# Objects : [n243045376, w25079008]
+# name:be: []
+msgid "Ближняя Речица"
+msgstr ""
+
+# Objects : [n243045503, w25079043]
+# name:be: [Багданаўка]
+msgid "Богдановка"
+msgstr ""
+
+# Objects : [n243045165, w25078540]
+# name:be: [Баровая]
+msgid "Боровая"
+msgstr ""
+
+# Objects : [n243044744, w25080815]
+# name:be: [Васькоўка]
+msgid "Васьковка"
+msgstr ""
+
+# Objects : [n243045506, w25079046]
+# name:be: [Вепрын]
+msgid "Веприн"
+msgstr ""
+
+# Objects : [n243044416, w25079946]
+# name:be: [Вербеж]
+msgid "Вербеж"
+msgstr ""
+
+# Objects : [n243045660, w25079770]
+# name:be: [Верамейкі]
+msgid "Веремейки"
+msgstr ""
+
+# Objects : [n243044411, w25079963]
+# name:be: [Вінаград]
+msgid "Виноград"
+msgstr ""
+
+# Objects : [n243044401, w25079868]
+# name:be: [Вазраждзенне]
+msgid "Возрожденье"
+msgstr ""
+
+# Objects : [n243045517, w25079032]
+# name:be: [Вымач]
+msgid "Вымочь"
+msgstr ""
+
+# Objects : [n243044847, w25080831]
+# name:be: [Гіжня]
+msgid "Гижня"
+msgstr ""
+
+# Objects : [n243044399, w25079880]
+# name:be: [Глінь]
+msgid "Глинь"
+msgstr ""
+
+# Objects : [n243045373, w25078996]
+# name:be: []
+msgid "Глыбокий Лог"
+msgstr ""
+
+# Objects : [n243045374, w25078999]
+# name:be: []
+msgid "Гойков"
+msgstr ""
+
+# Objects : [n243045500, w25079061]
+# name:be: [Галоўчыцы]
+msgid "Головчицы"
+msgstr ""
+
+# Objects : [n243044414, w25079957]
+# name:be: [Горкі]
+msgid "Горки"
+msgstr ""
+
+# Objects : [n243045653, w25079832]
+# name:be: [Гарадзец]
+msgid "Городец"
+msgstr ""
+
+# Objects : [n243044838, w25080866]
+# name:be: [Грыўкі]
+msgid "Гривки"
+msgstr ""
+
+# Objects : [n243044403, w25079863]
+# name:be: [Грамабой]
+msgid "Громобой"
+msgstr ""
+
+# Objects : [n243045505, w25079045]
+# name:be: [Гронаў]
+msgid "Гронов"
+msgstr ""
+
+# Objects : [n243044821, w25080845]
+# name:be: [Доўгае]
+msgid "Долгое"
+msgstr ""
+
+# Objects : [n243044432, w25079983]
+# name:be: [Драгунскія Хутары]
+msgid "Драгунские Хуторы"
+msgstr ""
+
+# Objects : [n243044843, n243045495, w25079058, w25080827]
+# name:be: [Дубраўка]
+msgid "Дубровка"
+msgstr ""
+
+# Objects : [n243044405, w25080855]
+# name:be: [Язёры]
+msgid "Езёры"
+msgstr ""
+
+# Objects : [n243044737, w25080814]
+# name:be: [Ялоўка]
+msgid "Еловка"
+msgstr ""
+
+# Objects : [n243045666, w25079861]
+# name:be: [Жытнёў]
+msgid "Житнёв"
+msgstr ""
+
+# Objects : [n243044404, w25079975]
+# name:be: []
+msgid "Журавель"
+msgstr ""
+
+# Objects : [n243044784, w25080793]
+# name:be: [Забачэў]
+msgid "Забочев"
+msgstr ""
+
+# Objects : [n243044394, w25079904]
+# name:be: [Загурковішча]
+msgid "Загурковище"
+msgstr ""
+
+# Objects : [n243044408, w25079969]
+# name:be: [Заазер’е]
+msgid "Заозерье"
+msgstr ""
+
+# Objects : [n243044842, w25080824]
+# name:be: [Зара]
+msgid "Заря"
+msgstr ""
+
+# Objects : [n243044409, w25079967]
+# name:be: [Звязда]
+msgid "Звезда"
+msgstr ""
+
+# Objects : [n243044750, w25080823]
+# name:be: [Зялёны Дуб]
+msgid "Зелёный Дуб"
+msgstr ""
+
+# Objects : [n243045514, w25079025]
+# name:be: [Зоры]
+msgid "Зори"
+msgstr ""
+
+# Objects : [n243045510, w25079055]
+# name:be: []
+msgid "Зябень"
+msgstr ""
+
+# Objects : [w25080812]
+# name:be: []
+msgid "Калинино"
+msgstr ""
+
+# Objects : [n243045508, w25079050]
+# name:be: []
+msgid "Калютин"
+msgstr ""
+
+# Objects : [n243044741, n243044758, n243045159, w25078542, w25080801, w25080816]
+# name:be: [Каменка]
+msgid "Каменка"
+msgstr ""
+
+# Objects : [n243044413, w25079960]
+# name:be: [Карпаўскі]
+msgid "Карповский"
+msgstr ""
+
+# Objects : [n243045161, w25078554]
+# name:be: [Кліны]
+msgid "Клины"
+msgstr ""
+
+# Objects : [n243045493, w25079064]
+# name:be: []
+msgid "Князевка"
+msgstr ""
+
+# Objects : [n243045654, w25079835]
+# name:be: [Калода]
+msgid "Колода"
+msgstr ""
+
+# Objects : [n243045511, w25079019]
+# name:be: [Камаровічы]
+msgid "Комаровичи"
+msgstr ""
+
+# Objects : [n243044400, w25079866, w25079908]
+# name:be: [Карма]
+msgid "Корма"
+msgstr ""
+
+# Objects : [n243044764, w25080802]
+# name:be: [Касар]
+msgid "Косарь"
+msgstr ""
+
+# Objects : [n243044402, w25079855]
+# name:be: [Красны]
+msgid "Красный"
+msgstr ""
+
+# Objects : [n243044396, w25079881]
+# name:be: [Латышчына]
+msgid "Латыщино"
+msgstr ""
+
+# Objects : [n243044398, w25079882]
+# name:be: [Ляшчэвіна]
+msgid "Лещевино"
+msgstr ""
+
+# Objects : [n243044415, w25079948]
+# name:be: [Лімень]
+msgid "Лимень"
+msgstr ""
+
+# Objects : [n243045504, w25079041]
+# name:be: []
+msgid "Лисаны"
+msgstr ""
+
+# Objects : [n243044418, w25079930]
+# name:be: [Лабанаўка]
+msgid "Лобановка"
+msgstr ""
+
+# Objects : [n243044834, w25080843]
+# name:be: [Лобча]
+msgid "Лобча"
+msgstr ""
+
+# Objects : [n243045211, w25078567]
+# name:be: []
+msgid "Лысовка"
+msgstr ""
+
+# Objects : [n243044387, w25079911]
+# name:be: []
+msgid "Лютровка"
+msgstr ""
+
+# Objects : [n243044768, w25080798]
+# name:be: [Ляхі]
+msgid "Ляхи"
+msgstr ""
+
+# Objects : [n243045167, w25078537]
+# name:be: [Майскі]
+msgid "Майский"
+msgstr ""
+
+# Objects : [n243045155, n243045157, w25078545, w25078552]
+# name:be: [Малінаўка]
+msgid "Малиновка"
+msgstr ""
+
+# Objects : [n243044406, w25079974]
+# name:be: [Мірагошч]
+msgid "Мирогощ"
+msgstr ""
+
+# Objects : [n243045496, w25079057]
+# name:be: [Міхайлаўка]
+msgid "Михайловка"
+msgstr ""
+
+# Objects : [n243045515, w25079029]
+# name:be: [Міхалін]
+msgid "Михалин"
+msgstr ""
+
+# Objects : [n243044839, w25080868]
+# name:be: [Міхлін]
+msgid "Михлин"
+msgstr ""
+
+# Objects : [n243044434, w25079979]
+# name:be: [Манастырок]
+msgid "Монастырёк"
+msgstr ""
+
+# Objects : [n243044397, w25079897]
+# name:be: [Масткова]
+msgid "Мостково"
+msgstr ""
+
+# Objects : [n243045656, w25079830]
+# name:be: [Масток]
+msgid "Мосток"
+msgstr ""
+
+# Objects : [n243045675, w25079710]
+# name:be: [Новая Беліца]
+msgid "Новая Белица"
+msgstr ""
+
+# Objects : [n243044410, w25079966]
+# name:be: []
+msgid "Новая Слобода"
+msgstr ""
+
+# Objects : [n243045195, w25078576]
+# name:be: []
+msgid "Новомалиновка"
+msgstr ""
+
+# Objects : [n243044823, w25080878]
+# name:be: [Новы Свет]
+msgid "Новый Свет"
+msgstr ""
+
+# Objects : [n243045659, w25079853]
+# name:be: [Наркі]
+msgid "Норки"
+msgstr ""
+
+# Objects : [n243045207, w25078569]
+# name:be: [Асавец]
+msgid "Осовец"
+msgstr ""
+
+# Objects : [n243045209, w25078568]
+# name:be: []
+msgid "Островы"
+msgstr ""
+
+# Objects : [n243045420, w25078994]
+# name:be: [Охар]
+msgid "Охор"
+msgstr ""
+
+# Objects : [n1663714112, w153735422]
+# name:be: []
+msgid "Палом"
+msgstr ""
+
+# Objects : [n243045509, w25079052]
+# name:be: []
+msgid "Пиленка"
+msgstr ""
+
+# Objects : [n243044433, w25079985]
+# name:be: [Пільня]
+msgid "Пильня"
+msgstr ""
+
+# Objects : [n243044384, n243045375, w25079002, w25079913]
+# name:be: [Пабеда]
+msgid "Победа"
+msgstr ""
+
+# Objects : [n243044756, w25080797]
+# name:be: [Падбудкі]
+msgid "Подбудки"
+msgstr ""
+
+# Objects : [n243044752, w25080817]
+# name:be: [Падлом’е]
+msgid "Подломье"
+msgstr ""
+
+# Objects : [n243044832, w25080884]
+# name:be: [Поліпень]
+msgid "Полипень"
+msgstr ""
+
+# Objects : [n243044836, w25080860]
+# name:be: [Прыпёчына]
+msgid "Припёчино"
+msgstr ""
+
+# Objects : [n1663714113, w153735423]
+# name:be: []
+msgid "Просвет"
+msgstr ""
+
+# Objects : [n243044830, w25080890]
+# name:be: []
+msgid "Ремидовщина"
+msgstr ""
+
+# Objects : [n243045513, w25079023]
+# name:be: [Рэчыца]
+msgid "Речица"
+msgstr ""
+
+# Objects : [n243044417, w25079938]
+# name:be: [Ржавец]
+msgid "Ржавец"
+msgstr ""
+
+# Objects : [n243044819, w25080882]
+# name:be: [Рагаліна]
+msgid "Рогалино"
+msgstr ""
+
+# Objects : [n243044846, w25080829]
+# name:be: [Рынкоўка]
+msgid "Рынковка"
+msgstr ""
+
+# Objects : [n243044754, w25080794]
+# name:be: [Светлы]
+msgid "Светлый"
+msgstr ""
+
+# Objects : [n243044412, n243044782, w25079962, w25080796]
+# name:be: [Селішча]
+msgid "Селище"
+msgstr ""
+
+# Objects : [n243044835, w25080862]
+# name:be: [Сакалоўка]
+msgid "Соколовка"
+msgstr ""
+
+# Objects : [n243045686, w25079734]
+# name:be: [Старая Беліца]
+msgid "Старая Белица"
+msgstr ""
+
+# Objects : [n243045048, w25078993]
+# name:be: [Сцепаноў]
+msgid "Степанов"
+msgstr ""
+
+# Objects : [n243045409, w25078995]
+# name:be: []
+msgid "Торжев"
+msgstr ""
+
+# Objects : [n243044383, w25079943]
+# name:be: [Тур’е]
+msgid "Турье"
+msgstr ""
+
+# Objects : [n243044419, w25079893]
+# name:be: [Вудага]
+msgid "Удога"
+msgstr ""
+
+# Objects : [n243045518, w25079036]
+# name:be: [Вусце]
+msgid "Устье"
+msgstr ""
+
+# Objects : [n243044428, w25080001]
+# name:be: [Ушакі]
+msgid "Ушаки"
+msgstr ""
+
+# Objects : [n243045494, w25079056]
+# name:be: []
+msgid "Холменка"
+msgstr ""
+
+# Objects : [n243045512, w25078986]
+# name:be: [Халоблін]
+msgid "Холоблин"
+msgstr ""
+
+# Objects : [n243045679, w25079822]
+# name:be: []
+msgid "Холодня"
+msgstr ""
+
+# Objects : [n243045655, w25079827]
+# name:be: [Чарнышын]
+msgid "Чернышин"
+msgstr ""
+
+# Objects : [n243045507, w25079049]
+# name:be: []
+msgid "Чудяны"
+msgstr ""
+
+# Objects : [n243044382, w25079922]
+# name:be: [Шароеўка]
+msgid "Шароевка"
+msgstr ""
+
+# Objects : [n243044407, w25079970]
+# name:be: [Шыманы]
+msgid "Шиманы"
+msgstr ""
+
+# Objects : [n243044841, w25080821]
+# name:be: [Шчацінка]
+msgid "Щетинка"
+msgstr ""
+
+# Objects : [n243045668, w25079845]
+# name:be: [Юдаўка]
+msgid "Юдовка"
+msgstr ""
+
+# Objects : [n243044395, w25079906]
+# name:be: [Юны Пахар]
+msgid "Юный Пахарь"
+msgstr ""
+
+# Objects : [n243045516, w25079039]
+# name:be: [Ямкі]
+msgid "Ямки"
+msgstr ""
+
+# Objects : [n243045652, w25079839]
+# name:be: [Ясная Зара]
+msgid "Ясная Заря"
+msgstr ""
+
+# Objects : [n243045657, w25079825]
+# name:be: [Ясная Паляна]
+msgid "Ясная Поляна"
+msgstr ""
+

@@ -1,0 +1,45 @@
+# Objects : [n1537066494]
+# name:be: []
+msgid "Idea-Bank"
+msgstr ""
+
+# Objects : [n823148609]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1465777522, n1537088668, n2208025527]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n2165308382]
+# name:be: []
+msgid "БеларусБанк"
+msgstr ""
+
+# Objects : [n1190676422]
+# name:be: [Белзнешэканомбанк]
+msgid "Белвнешэкономбанк"
+msgstr ""
+
+# Objects : [n2181231775]
+# name:be: []
+msgid "БелИнвестБанк"
+msgstr ""
+
+# Objects : [n1061780491, n1465838167, n713173013]
+# name:be: [БПС-банк]
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n1537066493]
+# name:be: []
+msgid "ВТБ"
+msgstr ""
+
+# Objects : [n1061780495]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+

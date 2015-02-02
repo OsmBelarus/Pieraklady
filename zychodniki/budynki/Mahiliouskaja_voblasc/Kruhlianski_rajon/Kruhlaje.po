@@ -1,0 +1,550 @@
+# Objects : [w144897853]
+# name:be: []
+msgid ""БЕЛГОСТРАХ""
+msgstr ""
+
+# Objects : [w208674626]
+# name:be: []
+msgid ""БЕЛТЕЛЕКОМ""
+msgstr ""
+
+# Objects : [w302394316]
+# name:be: []
+msgid ""Евроопт""
+msgstr ""
+
+# Objects : [w144896460]
+# name:be: []
+msgid ""Районый Узел связи""
+msgstr ""
+
+# Objects : [w209994695]
+# name:be: []
+msgid ""Центр внеурочной деятельности учащихся""
+msgstr ""
+
+# Objects : [w208191652]
+# name:be: []
+msgid ""Центр социального обслуживание населения""
+msgstr ""
+
+# Objects : [w223413357]
+# name:be: []
+msgid "АГЗП, автомобильный  газозаправочный   пункт"
+msgstr ""
+
+# Objects : [w207694730]
+# name:be: []
+msgid "АСБ Беларусбанк"
+msgstr ""
+
+# Objects : [w232526590]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w207694731]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [w210210217]
+# name:be: []
+msgid "Ветеринарная   станция"
+msgstr ""
+
+# Objects : [w209994673]
+# name:be: []
+msgid "Воскресная  школа"
+msgstr ""
+
+# Objects : [w208674584]
+# name:be: []
+msgid "Гаражи  - МЧС"
+msgstr ""
+
+# Objects : [w229504840]
+# name:be: []
+msgid "ГЕУ-11"
+msgstr ""
+
+# Objects : [w213498486]
+# name:be: []
+msgid "Гостиница "Изумруд""
+msgstr ""
+
+# Objects : [w218559588]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w218425623]
+# name:be: []
+msgid "ГРП-5"
+msgstr ""
+
+# Objects : [w223250567]
+# name:be: []
+msgid "ГРП -  ПМК -266"
+msgstr ""
+
+# Objects : [w218425621]
+# name:be: []
+msgid "ГРП  № 2"
+msgstr ""
+
+# Objects : [w208233666]
+# name:be: []
+msgid "ГРП  № 6"
+msgstr ""
+
+# Objects : [w210206172]
+# name:be: []
+msgid "Детсад   № 1"
+msgstr ""
+
+# Objects : [w208175617]
+# name:be: []
+msgid "Детсад №3"
+msgstr ""
+
+# Objects : [w208175618]
+# name:be: []
+msgid "Детсад №7"
+msgstr ""
+
+# Objects : [w208408314]
+# name:be: []
+msgid "Детский сад № 2"
+msgstr ""
+
+# Objects : [w209994671]
+# name:be: []
+msgid "Дом   быта"
+msgstr ""
+
+# Objects : [w203727817]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w208382870]
+# name:be: []
+msgid "ЖИЛКОММУНХОЗ"
+msgstr ""
+
+# Objects : [w208674632]
+# name:be: []
+msgid "Зубопротезное   отделение"
+msgstr ""
+
+# Objects : [w209336838]
+# name:be: []
+msgid "Кондитерская  фабрика  - Екатерина"
+msgstr ""
+
+# Objects : [w240228677]
+# name:be: []
+msgid "Котельная  "Агропромтехснаб""
+msgstr ""
+
+# Objects : [w232789956]
+# name:be: []
+msgid "Котельная - больницы"
+msgstr ""
+
+# Objects : [w240228678]
+# name:be: []
+msgid "Котельная  кондитерской  фабрики"
+msgstr ""
+
+# Objects : [w218587491]
+# name:be: []
+msgid "Котельная льнозавода"
+msgstr ""
+
+# Objects : [w223413361]
+# name:be: []
+msgid "Котельная - маслозавода"
+msgstr ""
+
+# Objects : [w223250568]
+# name:be: []
+msgid "Котельная - ПМК - 266"
+msgstr ""
+
+# Objects : [w207694742]
+# name:be: []
+msgid "Котельная  центральная"
+msgstr ""
+
+# Objects : [w223249052]
+# name:be: []
+msgid "Котельная  - школы"
+msgstr ""
+
+# Objects : [w209994654]
+# name:be: []
+msgid "Круглянская  баня"
+msgstr ""
+
+# Objects : [w208674638]
+# name:be: []
+msgid "Круглянская больница"
+msgstr ""
+
+# Objects : [w208674617, w208674635, w208674639]
+# name:be: []
+msgid "Круглянская   больница"
+msgstr ""
+
+# Objects : [w144897064]
+# name:be: []
+msgid "Круглянский "РАЙИСПОЛКОМ""
+msgstr ""
+
+# Objects : [w210212838]
+# name:be: []
+msgid "Круглянский   Маслозавод"
+msgstr ""
+
+# Objects : [w276079454]
+# name:be: []
+msgid "Круглянский РОВД"
+msgstr ""
+
+# Objects : [w210210242]
+# name:be: []
+msgid "Круглянское   ДРСУ - 214"
+msgstr ""
+
+# Objects : [w210206171]
+# name:be: []
+msgid "Круглянское   лесничество"
+msgstr ""
+
+# Objects : [w209970774]
+# name:be: []
+msgid "КУПП"Аргон""
+msgstr ""
+
+# Objects : [w208551184]
+# name:be: []
+msgid "Льнозавод - проходная"
+msgstr ""
+
+# Objects : [w208551185, w208551186, w208551187, w208551188]
+# name:be: []
+msgid "Льнозавод - шоха"
+msgstr ""
+
+# Objects : [w208191717, w208369217, w210178636, w210192612, w210192613]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w208177046, w208408335, w209994670]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w207694747]
+# name:be: []
+msgid "Магазин,  кофе"
+msgstr ""
+
+# Objects : [w208175625]
+# name:be: []
+msgid "магазин  "ОГОНЕК""
+msgstr ""
+
+# Objects : [w208175626]
+# name:be: []
+msgid "магазин "ОЛИМП""
+msgstr ""
+
+# Objects : [w208408333]
+# name:be: []
+msgid "Магазин  " Северный""
+msgstr ""
+
+# Objects : [w210210224]
+# name:be: []
+msgid "Магазин  " Универсам""
+msgstr ""
+
+# Objects : [w207427316]
+# name:be: []
+msgid "Магазин  Гаспадар"
+msgstr ""
+
+# Objects : [w207694744]
+# name:be: []
+msgid "Магазин  Жасмин"
+msgstr ""
+
+# Objects : [w207694745]
+# name:be: []
+msgid "Магазин  Лилиана"
+msgstr ""
+
+# Objects : [w207694746]
+# name:be: []
+msgid "Магазин  Престиж"
+msgstr ""
+
+# Objects : [w209347994]
+# name:be: []
+msgid "Магазин  продовольственный"
+msgstr ""
+
+# Objects : [w209994672]
+# name:be: []
+msgid "магазин - продовольственный"
+msgstr ""
+
+# Objects : [w208551196]
+# name:be: []
+msgid "Магазин- эл. тех.  товары"
+msgstr ""
+
+# Objects : [w210010754]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
+# Objects : [w208551217, w208551236]
+# name:be: []
+msgid "Мастерские- Агропромтехснаб""
+msgstr ""
+
+# Objects : [w208551245]
+# name:be: []
+msgid "Молодежный   центр "Эльдорадо""
+msgstr ""
+
+# Objects : [w207694743]
+# name:be: []
+msgid "Музей районный историко-краеведческий"
+msgstr ""
+
+# Objects : [w208674614]
+# name:be: []
+msgid "НАРСУД"
+msgstr ""
+
+# Objects : [w208551191]
+# name:be: []
+msgid "ОАО "Круглянский  " АГРОПРОМТЕХСНАБ""
+msgstr ""
+
+# Objects : [w210192610]
+# name:be: []
+msgid "ОАО "Круглянский  АГРО""
+msgstr ""
+
+# Objects : [w208181265]
+# name:be: []
+msgid "ОАО "Круглянский льнозавод""
+msgstr ""
+
+# Objects : [w208551246]
+# name:be: []
+msgid "ОАО "ПМК- 92  ВОДСТРОЙ""
+msgstr ""
+
+# Objects : [w207427317, w208177047, w210192611]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w208551210]
+# name:be: []
+msgid "Общежитие  - ОАО "АГРОПРОМТЕХСНАБ""
+msgstr ""
+
+# Objects : [w210206174]
+# name:be: []
+msgid "Общежитие -  ПМК - 266"
+msgstr ""
+
+# Objects : [w209994679]
+# name:be: []
+msgid "Павильон  торговый"
+msgstr ""
+
+# Objects : [w218425625]
+# name:be: []
+msgid "ПГРП- 1"
+msgstr ""
+
+# Objects : [w208674597]
+# name:be: []
+msgid "Пожарная    аварийно - спасательная   служба"
+msgstr ""
+
+# Objects : [w208674621]
+# name:be: []
+msgid "ПОЛИКЛИННИКА"
+msgstr ""
+
+# Objects : [w208551199]
+# name:be: []
+msgid "Проходная - Агропротехснаб""
+msgstr ""
+
+# Objects : [w210212839]
+# name:be: []
+msgid "Проходная - маслозавода"
+msgstr ""
+
+# Objects : [w209994669]
+# name:be: []
+msgid "Районный  Военный  Комиссариат"
+msgstr ""
+
+# Objects : [w207569881]
+# name:be: []
+msgid "Райтопсбыт"
+msgstr ""
+
+# Objects : [w207175356, w207175357]
+# name:be: []
+msgid "санстанция"
+msgstr ""
+
+# Objects : [w207569882]
+# name:be: []
+msgid "Семенная   инспекция"
+msgstr ""
+
+# Objects : [w232021453]
+# name:be: []
+msgid "Склад ""
+msgstr ""
+
+# Objects : [w232021455]
+# name:be: []
+msgid "Склад -  ""
+msgstr ""
+
+# Objects : [w208551198]
+# name:be: []
+msgid "Склад - "Агропромтехснаб""
+msgstr ""
+
+# Objects : [w208551195, w208551229]
+# name:be: []
+msgid "Склад -  "Агропромтехснаб""
+msgstr ""
+
+# Objects : [w208674625]
+# name:be: []
+msgid "Склад - больницы"
+msgstr ""
+
+# Objects : [w208551202]
+# name:be: []
+msgid "Склад - ОАО " ПМК - 92 ВОДСТРОЙ""
+msgstr ""
+
+# Objects : [w209750366]
+# name:be: []
+msgid "Склад - оптово- торговой   базы."
+msgstr ""
+
+# Objects : [w210210238]
+# name:be: []
+msgid "СМУ - 6"
+msgstr ""
+
+# Objects : [w215047563]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w217827407]
+# name:be: []
+msgid "Столовая, кулинария"
+msgstr ""
+
+# Objects : [w208551214]
+# name:be: []
+msgid "Столовая  - Агропромтехснаб."
+msgstr ""
+
+# Objects : [w208674633]
+# name:be: []
+msgid "Столовая -больницы"
+msgstr ""
+
+# Objects : [w209994663]
+# name:be: []
+msgid "Торговый  центр  "Днепр""
+msgstr ""
+
+# Objects : [w210210226]
+# name:be: []
+msgid "Филиал -  Круглянский   РГС"
+msgstr ""
+
+# Objects : [w210010740]
+# name:be: []
+msgid "Школа  - ДЮСШ"
+msgstr ""
+
+# Objects : [w210206173]
+# name:be: []
+msgid "Школа  - интернат"
+msgstr ""
+
+# Objects : [r3671822]
+# name:be: []
+msgid "школа № 1"
+msgstr ""
+
+# Objects : [w240228679]
+# name:be: []
+msgid "ШРП"
+msgstr ""
+
+# Objects : [w218425626]
+# name:be: []
+msgid "ШРП - 1"
+msgstr ""
+
+# Objects : [w218431738]
+# name:be: []
+msgid "ШРП - 12"
+msgstr ""
+
+# Objects : [w209336839]
+# name:be: []
+msgid "ШРП - 13"
+msgstr ""
+
+# Objects : [w215198595]
+# name:be: []
+msgid "ШРП - 2"
+msgstr ""
+
+# Objects : [w218425630]
+# name:be: []
+msgid "ШРП - 4"
+msgstr ""
+
+# Objects : [w218425632]
+# name:be: []
+msgid "ШРП - 8"
+msgstr ""
+
+# Objects : [w208172912]
+# name:be: []
+msgid "Электрические   сети"
+msgstr ""
+
+# Objects : [w208369210]
+# name:be: []
+msgid "Энергонадзор"
+msgstr ""
+

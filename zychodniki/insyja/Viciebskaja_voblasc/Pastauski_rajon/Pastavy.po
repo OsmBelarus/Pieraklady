@@ -1,0 +1,175 @@
+# Objects : [n1498456722]
+# name:be: []
+msgid ""Горизонт""
+msgstr ""
+
+# Objects : [w136484137]
+# name:be: []
+msgid "5-й Городок"
+msgstr ""
+
+# Objects : [w136593145]
+# name:be: []
+msgid "6-й Городок"
+msgstr ""
+
+# Objects : [w136493064]
+# name:be: []
+msgid "Автобаза ЖКХ"
+msgstr ""
+
+# Objects : [w136495816]
+# name:be: []
+msgid "АТП № 17"
+msgstr ""
+
+# Objects : [n2927013110]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n2788680149]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1540898066]
+# name:be: []
+msgid "ВСК "Азимут""
+msgstr ""
+
+# Objects : [n1240244293]
+# name:be: [Галоўпаштамт]
+msgid "Главпочтамт"
+msgstr ""
+
+# Objects : [w30383267]
+# name:be: [Гаргаз]
+msgid "Горгаз"
+msgstr ""
+
+# Objects : [n2766736656]
+# name:be: []
+msgid "Гостиница Поставы"
+msgstr ""
+
+# Objects : [n2788680320]
+# name:be: [Палацава-паркавы комплекс Тызенгаўзаў]
+msgid "Дворцово-парковый комплекс Тызенгаузов"
+msgstr ""
+
+# Objects : [w107868709]
+# name:be: [Дзіцячая школа мастацтваў]
+msgid "Детская школа искусств"
+msgstr ""
+
+# Objects : [w107958190]
+# name:be: []
+msgid "Заготскот"
+msgstr ""
+
+# Objects : [r397253]
+# name:be: [Задзеўскае]
+msgid "Задевское"
+msgstr ""
+
+# Objects : [n2788680463]
+# name:be: [Будынак былой павятовай адміністрацыі]
+msgid "Здание бывшей уездной администрации"
+msgstr ""
+
+# Objects : [n2788681056]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [w25194986]
+# name:be: []
+msgid "Ковальки"
+msgstr ""
+
+# Objects : [n1240244298]
+# name:be: []
+msgid "Колесо"
+msgstr ""
+
+# Objects : [n2788681889]
+# name:be: [Касцёл Святога Антонія Падуанскага]
+msgid "Костел Святого Антония Падуанского"
+msgstr ""
+
+# Objects : [w136484142]
+# name:be: [Кацельня]
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w66846884]
+# name:be: [Культтавары]
+msgid "Культтовары"
+msgstr ""
+
+# Objects : [w137414817]
+# name:be: [Мясакамбінат]
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [w136565809]
+# name:be: [ААТ "Пастаўскі малочны завод"]
+msgid "ОАО "Поставский молочный завод""
+msgstr ""
+
+# Objects : [n1498488072]
+# name:be: [помнік Леніну]
+msgid "Памятник Ленину"
+msgstr ""
+
+# Objects : [n1498488035]
+# name:be: [Помнік загінулым у Вялікай Айчыннай вайне]
+msgid "Памятник погибшим в Великой Отечественной войне"
+msgstr ""
+
+# Objects : [n1498488019]
+# name:be: [Помнік польскім жаўнерам]
+msgid "Памятник польским солдатам"
+msgstr ""
+
+# Objects : [n1236299652, w136477563]
+# name:be: [Паставы]
+msgid "Поставы"
+msgstr ""
+
+# Objects : [w137590973]
+# name:be: []
+msgid "Релейная"
+msgstr ""
+
+# Objects : [n565762513]
+# name:be: []
+msgid "Т-34"
+msgstr ""
+
+# Objects : [n2123442248]
+# name:be: []
+msgid "Теремок"
+msgstr ""
+
+# Objects : [w136592593]
+# name:be: [тэрыторыя аптова-гандлёвай базы]
+msgid "территория оптовой-торговой базы"
+msgstr ""
+
+# Objects : [n2788684392]
+# name:be: [Пляц гандлёвы]
+msgid "Торговая площадь"
+msgstr ""
+
+# Objects : [n2788686528]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w137587474]
+# name:be: []
+msgid "Цифра"
+msgstr ""
+

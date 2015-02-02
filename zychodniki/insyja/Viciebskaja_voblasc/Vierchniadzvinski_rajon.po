@@ -1,0 +1,180 @@
+# Objects : [w132054113]
+# name:be: []
+msgid "Augsdaugava"
+msgstr ""
+
+# Objects : [n275325233]
+# name:be: []
+msgid "Border Control"
+msgstr ""
+
+# Objects : [w25191008]
+# name:be: []
+msgid "АБЗ"
+msgstr ""
+
+# Objects : [n1632682372]
+# name:be: [Боркавічы]
+msgid "Борковичи"
+msgstr ""
+
+# Objects : [w25190918]
+# name:be: []
+msgid "Вархамеево"
+msgstr ""
+
+# Objects : [n1365314961, n306064913]
+# name:be: [Верхнядзвінск]
+msgid "Верхнедвинск"
+msgstr ""
+
+# Objects : [w180150681]
+# name:be: []
+msgid "Верхнедвинская ЦРБ"
+msgstr ""
+
+# Objects : [n2766728045]
+# name:be: []
+msgid "Верхнедвинский"
+msgstr ""
+
+# Objects : [n2788680300]
+# name:be: [Палацава-паркавы комплекс Нітаслаўскіх]
+msgid "Дворцово-парковый комплекс Нитославских"
+msgstr ""
+
+# Objects : [w25191352]
+# name:be: []
+msgid "Жаберное"
+msgstr ""
+
+# Objects : [w198430398]
+# name:be: []
+msgid "жидкий"
+msgstr ""
+
+# Objects : [w25536948]
+# name:be: []
+msgid "Замковый остров"
+msgstr ""
+
+# Objects : [n2788680435]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [w25537013]
+# name:be: []
+msgid "ЗАП.ДВИНА (ДАУГАВА)"
+msgstr ""
+
+# Objects : [w160338456]
+# name:be: [Заходняя Дзвіна]
+msgid "Западная Двина"
+msgstr ""
+
+# Objects : [w25199923]
+# name:be: []
+msgid "Изубрица"
+msgstr ""
+
+# Objects : [w25194264]
+# name:be: []
+msgid "Кобылинское"
+msgstr ""
+
+# Objects : [n2788682414]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [n275294225]
+# name:be: []
+msgid "Кострово-Байдаково"
+msgstr ""
+
+# Objects : [w25193373]
+# name:be: []
+msgid "Кропы"
+msgstr ""
+
+# Objects : [w38137781]
+# name:be: []
+msgid "Максимово"
+msgstr ""
+
+# Objects : [n306064975]
+# name:be: []
+msgid "Памяти жителей д. Тирищего"
+msgstr ""
+
+# Objects : [n306064951]
+# name:be: []
+msgid "Памяти жителей д. Цигельники"
+msgstr ""
+
+# Objects : [n2788683716]
+# name:be: [Прысядзібны парк пры былой сядзібе Лапацінскіх]
+msgid "Приусадебный парк при бывшей усадьбе Лопатинских"
+msgstr ""
+
+# Objects : [n2788683860]
+# name:be: [Прысядзібны парк пры былой сядзібе Шчытоў]
+msgid "Приусадебный парк при бывшей усадьбе щит"
+msgstr ""
+
+# Objects : [n306064872, n746916783]
+# name:be: [Свольна]
+msgid "Свольно"
+msgstr ""
+
+# Objects : [w25190311]
+# name:be: [Святое]
+msgid "Святое"
+msgstr ""
+
+# Objects : [w25195167]
+# name:be: []
+msgid "Селедцово"
+msgstr ""
+
+# Objects : [w25198992]
+# name:be: []
+msgid "Страдное"
+msgstr ""
+
+# Objects : [w25197804]
+# name:be: []
+msgid "Стрелковское"
+msgstr ""
+
+# Objects : [w25192637]
+# name:be: []
+msgid "Стрешно"
+msgstr ""
+
+# Objects : [w25196103]
+# name:be: []
+msgid "Тятно"
+msgstr ""
+
+# Objects : [w127915379]
+# name:be: []
+msgid "Хозяин"
+msgstr ""
+
+# Objects : [n2788685446]
+# name:be: [Царква (руіны)]
+msgid "Церковь (руины)"
+msgstr ""
+
+# Objects : [n2788686572]
+# name:be: [Царква Святой Эўфрасіні Полацкай]
+msgid "Церковь Святой Ефросинии Полоцкой"
+msgstr ""
+
+# Objects : [n2788687287]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+

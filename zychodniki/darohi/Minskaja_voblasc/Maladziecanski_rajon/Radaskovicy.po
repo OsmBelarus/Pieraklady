@@ -1,0 +1,120 @@
+# Objects : [w25718001]
+# name:be: [Віленская вуліца]
+msgid "Виленская улица"
+msgstr ""
+
+# Objects : [w287670463]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [w176443482]
+# name:be: [Дуброўская вуліца]
+msgid "Дубровская улица"
+msgstr ""
+
+# Objects : [w25717987]
+# name:be: [Зарэчная вуліца]
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w25717992]
+# name:be: [Заслаўская вуліца]
+msgid "Заславская улица"
+msgstr ""
+
+# Objects : [w287477696]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w287670362]
+# name:be: [Мінская вуліца]
+msgid "Минская улица"
+msgstr ""
+
+# Objects : [w25717955]
+# name:be: [завулак Раманава]
+msgid "переулок Романова"
+msgstr ""
+
+# Objects : [w287670763]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w37190420]
+# name:be: [Полацкая вуліца]
+msgid "Полоцкая улица"
+msgstr ""
+
+# Objects : [w25717993]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w37190434]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w245521920]
+# name:be: [вуліца Бурдзенюка]
+msgid "улица Бурденюка"
+msgstr ""
+
+# Objects : [w25718006]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [w25717977, w25717995]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w238889621, w301105837, w41362304]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w238889628]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w238889622]
+# name:be: [вуліца Ракасоўскага]
+msgid "улица Рокоссовского"
+msgstr ""
+
+# Objects : [w287674800]
+# name:be: [вуліца Раманава]
+msgid "улица Романова"
+msgstr ""
+
+# Objects : [w287674801]
+# name:be: [вуліца Будаўнікоў]
+msgid "улица Строителей"
+msgstr ""
+
+# Objects : [w25717996]
+# name:be: [вуліца Тарашкевіча]
+msgid "улица Тарашкевича"
+msgstr ""
+
+# Objects : [w25718004]
+# name:be: [вуліца Чарнышэвіча]
+msgid "улица Чернышевича"
+msgstr ""
+
+# Objects : [w238889624]
+# name:be: [вуліца Янкоўскага]
+msgid "улица Янковского"
+msgstr ""
+
+# Objects : [w238889626]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+

@@ -1,0 +1,305 @@
+# Objects : [n1172127736]
+# name:be: [1000 дробязей]
+msgid "1000 мелочей"
+msgstr ""
+
+# Objects : [n1116574718]
+# name:be: []
+msgid "585"
+msgstr ""
+
+# Objects : [n1392524046]
+# name:be: [5-ты элемент]
+msgid "5 Элемент"
+msgstr ""
+
+# Objects : [n306066970]
+# name:be: []
+msgid "Geely Motors"
+msgstr ""
+
+# Objects : [n1701523594]
+# name:be: [Ziko]
+msgid "Ziko"
+msgstr ""
+
+# Objects : [n2350863652]
+# name:be: []
+msgid "Автомания"
+msgstr ""
+
+# Objects : [n1138060730]
+# name:be: [Аліса]
+msgid "Алиса"
+msgstr ""
+
+# Objects : [n2561117178]
+# name:be: []
+msgid "Атлант"
+msgstr ""
+
+# Objects : [n2561142160]
+# name:be: []
+msgid "Белвест"
+msgstr ""
+
+# Objects : [n1392524045]
+# name:be: [Буслік]
+msgid "Буслик"
+msgstr ""
+
+# Objects : [n1128417255]
+# name:be: [Вікторыя]
+msgid "Виктория"
+msgstr ""
+
+# Objects : [n1431383117]
+# name:be: [Вінзавод]
+msgid "Винзавод"
+msgstr ""
+
+# Objects : [n1706262469]
+# name:be: [Гарызонт]
+msgid "Горизонт"
+msgstr ""
+
+# Objects : [n1141274888]
+# name:be: [Дзіцячы свет]
+msgid "Детский мир"
+msgstr ""
+
+# Objects : [n306066976]
+# name:be: [Дыяніс]
+msgid "Дионис"
+msgstr ""
+
+# Objects : [n1128417235]
+# name:be: [Дыскаўнтар «Мойдадыр»]
+msgid "Дискаунтер Мойдодыр"
+msgstr ""
+
+# Objects : [n1172127748]
+# name:be: [Дысконт]
+msgid "Дисконт"
+msgstr ""
+
+# Objects : [n306066955]
+# name:be: [Дом гандлю]
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [n1706262483, n2561117180, n2993917533, n3010596278, n306067034]
+# name:be: [Еўраопт]
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n306067028]
+# name:be: [Крама (Ноўка)]
+msgid "Курочка Ряба"
+msgstr ""
+
+# Objects : [n1706262484]
+# name:be: [Ландыш]
+msgid "Ландыш"
+msgstr ""
+
+# Objects : [n2561117182]
+# name:be: []
+msgid "Лидер"
+msgstr ""
+
+# Objects : [n2561117183]
+# name:be: []
+msgid "Лотос"
+msgstr ""
+
+# Objects : [n306067009, n306067037, n306067039, n306067047, n306067303]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n306067029]
+# name:be: [Крама ў Кароўніках]
+msgid "Магазин В Коровниках"
+msgstr ""
+
+# Objects : [n306067301]
+# name:be: [Крама №15]
+msgid "Магазин №15"
+msgstr ""
+
+# Objects : [n1130845656]
+# name:be: [Марка]
+msgid "Марко"
+msgstr ""
+
+# Objects : [n1361031826]
+# name:be: [Мелівадгас ПМК-18]
+msgid "Мелиоводхоз ПМК-18"
+msgstr ""
+
+# Objects : [n1706262496]
+# name:be: [Міла]
+msgid "Мила"
+msgstr ""
+
+# Objects : [n2349315824]
+# name:be: []
+msgid "Молодечномебель"
+msgstr ""
+
+# Objects : [n2561146544]
+# name:be: []
+msgid "Мясковит"
+msgstr ""
+
+# Objects : [n1361032264, n3102217323]
+# name:be: [Ніка]
+msgid "Ника"
+msgstr ""
+
+# Objects : [n3102219038]
+# name:be: []
+msgid "Окей"
+msgstr ""
+
+# Objects : [n1706262497]
+# name:be: [Оптыка]
+msgid "Оптика"
+msgstr ""
+
+# Objects : [n3124674625]
+# name:be: []
+msgid "Продукты 2"
+msgstr ""
+
+# Objects : [n1706262498]
+# name:be: [Прамысловыя тавары]
+msgid "Промышленные товары"
+msgstr ""
+
+# Objects : [n2561117184]
+# name:be: []
+msgid "Рекор"
+msgstr ""
+
+# Objects : [n525675083]
+# name:be: [Рытуальныя тавары]
+msgid "Ритуальные товары"
+msgstr ""
+
+# Objects : [n525651068]
+# name:be: [Рытуальныя паслугі]
+msgid "Ритуальные услуги"
+msgstr ""
+
+# Objects : [n2561117185]
+# name:be: []
+msgid "Санта"
+msgstr ""
+
+# Objects : [n1116574722]
+# name:be: [Светач]
+msgid "Светоч"
+msgstr ""
+
+# Objects : [n1706262500]
+# name:be: [Сотас]
+msgid "Сотос"
+msgstr ""
+
+# Objects : [n1436638003]
+# name:be: [Саюздрук]
+msgid "Союзпечать"
+msgstr ""
+
+# Objects : [n2561142161]
+# name:be: []
+msgid "Спорт лидер"
+msgstr ""
+
+# Objects : [n1436384345]
+# name:be: [Тапаз]
+msgid "Топаз"
+msgstr ""
+
+# Objects : [n1706262519]
+# name:be: [Турыст]
+msgid "Турист"
+msgstr ""
+
+# Objects : [n306066974]
+# name:be: [Універсам]
+msgid "Универсам"
+msgstr ""
+
+# Objects : [n1172127753]
+# name:be: [Універсам №59]
+msgid "Универсам №59"
+msgstr ""
+
+# Objects : [n3102118919]
+# name:be: []
+msgid "Фирменная секция GEFEST"
+msgstr ""
+
+# Objects : [n3102225163]
+# name:be: []
+msgid "Франциск"
+msgstr ""
+
+# Objects : [n1706262520]
+# name:be: [Фрыдрыхсхафен]
+msgid "Фридрихсхафен"
+msgstr ""
+
+# Objects : [n684467938]
+# name:be: []
+msgid "Хомяк"
+msgstr ""
+
+# Objects : [n1436380103]
+# name:be: [Кветкі, хмызняк]
+msgid "Цветы, кустарники"
+msgstr ""
+
+# Objects : [n1706262521, n3102224404]
+# name:be: [Кветкі з Галандыі]
+msgid "Цветы из Голландии"
+msgstr ""
+
+# Objects : [n1706262522]
+# name:be: [Цэзар]
+msgid "Цезарь"
+msgstr ""
+
+# Objects : [n3102125287, n3102140598]
+# name:be: []
+msgid "Центр МТС"
+msgstr ""
+
+# Objects : [n1706262523]
+# name:be: [Лічбавік]
+msgid "Цифровик"
+msgstr ""
+
+# Objects : [n306067007]
+# name:be: [Аўтасэрвіс]
+msgid "Частный Автосервис"
+msgstr ""
+
+# Objects : [n2511177812]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [n3102231016]
+# name:be: []
+msgid "Электросила"
+msgstr ""
+
+# Objects : [n1706262525]
+# name:be: [Яна]
+msgid "Яна"
+msgstr ""
+

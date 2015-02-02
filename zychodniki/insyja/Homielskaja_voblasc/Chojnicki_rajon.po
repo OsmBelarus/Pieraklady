@@ -1,0 +1,240 @@
+# Objects : [n2623428410]
+# name:be: []
+msgid "VELCOM"
+msgstr ""
+
+# Objects : [w311071549]
+# name:be: []
+msgid "Базовая школа-сад"
+msgstr ""
+
+# Objects : [w256680729]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2788679934]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [w256700001]
+# name:be: []
+msgid "Винокурня с башней конец 19в"
+msgstr ""
+
+# Objects : [w25193986]
+# name:be: []
+msgid "Вирвиха"
+msgstr ""
+
+# Objects : [w288322589]
+# name:be: []
+msgid "Ворота усадьбы"
+msgstr ""
+
+# Objects : [w25195412]
+# name:be: []
+msgid "Вьюры"
+msgstr ""
+
+# Objects : [w25194975]
+# name:be: []
+msgid "Гнездное"
+msgstr ""
+
+# Objects : [w310953203]
+# name:be: []
+msgid "ГУО «Стреличевская средняя школа им. В.Н. Марченко»"
+msgstr ""
+
+# Objects : [w288322584]
+# name:be: []
+msgid "Дом эконома 19в"
+msgstr ""
+
+# Objects : [w260411937]
+# name:be: []
+msgid "ДЭУ 155"
+msgstr ""
+
+# Objects : [w256702042]
+# name:be: []
+msgid "Кантора совхоза"
+msgstr ""
+
+# Objects : [w258885180, w258885181]
+# name:be: []
+msgid "Карьер"
+msgstr ""
+
+# Objects : [w256705464]
+# name:be: []
+msgid "Киоск газовый"
+msgstr ""
+
+# Objects : [w259880566]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2914619271]
+# name:be: []
+msgid "Курганный могильник"
+msgstr ""
+
+# Objects : [w288322586]
+# name:be: []
+msgid "Ледник"
+msgstr ""
+
+# Objects : [w25196105]
+# name:be: []
+msgid "Ломыш"
+msgstr ""
+
+# Objects : [w256685194, w256826524, w256830593, w256833209, w263306648]
+# name:be: []
+msgid "Мехдвор"
+msgstr ""
+
+# Objects : [w256703031]
+# name:be: []
+msgid "Мехдвор и зерносклад"
+msgstr ""
+
+# Objects : [w25192569]
+# name:be: []
+msgid "Мостище"
+msgstr ""
+
+# Objects : [w288322588]
+# name:be: []
+msgid "Ограда усадьбы"
+msgstr ""
+
+# Objects : [n2788683891]
+# name:be: []
+msgid "Памятник воину"
+msgstr ""
+
+# Objects : [w25190384]
+# name:be: []
+msgid "Персток"
+msgstr ""
+
+# Objects : [r3397849]
+# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
+msgid "Полесский государственный радиационно-экологический заповедник"
+msgstr ""
+
+# Objects : [w253459232]
+# name:be: [Прыпяць]
+msgid "Припять"
+msgstr ""
+
+# Objects : [w288325614]
+# name:be: []
+msgid "Приусадебный парк Ваньковичей"
+msgstr ""
+
+# Objects : [w256569517, w256688897, w256829721]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w288325612, w288325613]
+# name:be: []
+msgid "развалины школы"
+msgstr ""
+
+# Objects : [w25183725]
+# name:be: []
+msgid "Семеница"
+msgstr ""
+
+# Objects : [w256700868]
+# name:be: []
+msgid "Слобожанская средняя школа"
+msgstr ""
+
+# Objects : [w256833211]
+# name:be: []
+msgid "Спиртзавод"
+msgstr ""
+
+# Objects : [w25197633]
+# name:be: []
+msgid "Староселье"
+msgstr ""
+
+# Objects : [w256830596]
+# name:be: []
+msgid "Стреличевское кладбище"
+msgstr ""
+
+# Objects : [n2918893260]
+# name:be: []
+msgid "Трагедии Чернобыля"
+msgstr ""
+
+# Objects : [w24947270, w284774187]
+# name:be: []
+msgid "УЖД Хойники"
+msgstr ""
+
+# Objects : [w288325608]
+# name:be: []
+msgid "Усадебный дом Ваньковичей 1909г"
+msgstr ""
+
+# Objects : [w256700002]
+# name:be: []
+msgid "Усадебный дом Ястржембских 19в"
+msgstr ""
+
+# Objects : [w256700000]
+# name:be: []
+msgid "Усадьба Ястржембских"
+msgstr ""
+
+# Objects : [w256685196, w256826528, w256829722]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
+# Objects : [w256703419, w256807205, w256828512, w256830597, w256833689, w258732668]
+# name:be: []
+msgid "Ферма"
+msgstr ""
+
+# Objects : [w256685197]
+# name:be: []
+msgid "Ферма и зерносклад"
+msgstr ""
+
+# Objects : [w256698711]
+# name:be: []
+msgid "Ферма и мехдвор"
+msgstr ""
+
+# Objects : [w288322587]
+# name:be: []
+msgid "Хоздвор"
+msgstr ""
+
+# Objects : [w288325610]
+# name:be: []
+msgid "Хозяйственный дом Ваньковичей"
+msgstr ""
+
+# Objects : [n2924273608]
+# name:be: []
+msgid "Хойники"
+msgstr ""
+
+# Objects : [n2766728243]
+# name:be: []
+msgid "Хойникский"
+msgstr ""
+

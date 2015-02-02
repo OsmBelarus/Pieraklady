@@ -1,0 +1,135 @@
+# Objects : [w25277954]
+# name:be: [Браслаўская вуліца]
+msgid "Браславская улица"
+msgstr ""
+
+# Objects : [w97801060]
+# name:be: [Браслаўскі завулак]
+msgid "Браславский переулок"
+msgstr ""
+
+# Objects : [w97801064]
+# name:be: [Вясновая вуліца]
+msgid "Весенняя улица"
+msgstr ""
+
+# Objects : [w161938735]
+# name:be: [Грамадзянская вуліца]
+msgid "Гражданская улица"
+msgstr ""
+
+# Objects : [w103067288]
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w97801065]
+# name:be: [Моладзевая вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w97801061]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w97801078]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w161938809]
+# name:be: [завулак Горкага]
+msgid "переулок Горького"
+msgstr ""
+
+# Objects : [w177868883, w97801080]
+# name:be: [завулак Кірава]
+msgid "переулок Кирова"
+msgstr ""
+
+# Objects : [w97801081]
+# name:be: []
+msgid "Переулок Стадионный"
+msgstr ""
+
+# Objects : [w161938804]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w97801074]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w25277957]
+# name:be: [Спартыўная вуліца]
+msgid "Спортивная улица"
+msgstr ""
+
+# Objects : [w97801076]
+# name:be: [Стадыённая вуліца]
+msgid "Стадионная улица"
+msgstr ""
+
+# Objects : [w97801073]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w97801058]
+# name:be: [вуліца Заслонава]
+msgid "улица Заслонова"
+msgstr ""
+
+# Objects : [w161938799, w177868884, w98371870]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w161938801]
+# name:be: [вуліца Крылова]
+msgid "улица Крылова"
+msgstr ""
+
+# Objects : [w97801071]
+# name:be: [вуліца Куйбышава]
+msgid "улица Куйбышева"
+msgstr ""
+
+# Objects : [w161938803, w241089560, w241089561]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w97801062]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [w161938805]
+# name:be: [вуліца Свярдлова]
+msgid "улица Свердлова"
+msgstr ""
+
+# Objects : [w97801069]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w266099817, w266099818, w97801068]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [w161938807]
+# name:be: [вуліца Янкі Купалы]
+msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w97942504]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+

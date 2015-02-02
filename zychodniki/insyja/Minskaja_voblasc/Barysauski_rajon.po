@@ -1,0 +1,275 @@
+# Objects : [w236581758]
+# name:be: []
+msgid "Асфальтно-Бетонная база "Неманица""
+msgstr ""
+
+# Objects : [n701819083]
+# name:be: []
+msgid "База отдыха "Пески""
+msgstr ""
+
+# Objects : [w25196559]
+# name:be: [Бярэ́зіна]
+msgid "Березина"
+msgstr ""
+
+# Objects : [r3400208, w253737149]
+# name:be: [Бярэзінскі біясферны запаведнік]
+msgid "Березинский биосферный заповедник"
+msgstr ""
+
+# Objects : [n306067870]
+# name:be: []
+msgid "Блиндажная-1"
+msgstr ""
+
+# Objects : [n306067942]
+# name:be: []
+msgid "Блиндажная-2"
+msgstr ""
+
+# Objects : [n306067868]
+# name:be: []
+msgid "Большое Стахово"
+msgstr ""
+
+# Objects : [n306067873]
+# name:be: [Барысаў]
+msgid "Борисов"
+msgstr ""
+
+# Objects : [n2788679896]
+# name:be: [Брылёўскае поле]
+msgid "Брилевское поле"
+msgstr ""
+
+# Objects : [n2788679898]
+# name:be: [Бтіва на Бярэзіне]
+msgid "Бтива на Березине"
+msgstr ""
+
+# Objects : [n2788680204]
+# name:be: [Гарадзішча]
+msgid "Городище"
+msgstr ""
+
+# Objects : [w25197897]
+# name:be: [Дамашкаўскае]
+msgid "Домашковское"
+msgstr ""
+
+# Objects : [n765331017]
+# name:be: [Дом культуры]
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [n2766728081]
+# name:be: []
+msgid "Дудинка-Сити"
+msgstr ""
+
+# Objects : [n765331030]
+# name:be: []
+msgid "ЖКХ"
+msgstr ""
+
+# Objects : [w318194741]
+# name:be: [Папраўчая калонія № 14]
+msgid "Исправительная колония № 14"
+msgstr ""
+
+# Objects : [n2788680973]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681442]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [n2788682331]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n764519636]
+# name:be: []
+msgid "Лошницкий С/С"
+msgstr ""
+
+# Objects : [n1990899094]
+# name:be: []
+msgid "Макет танкового полигона"
+msgstr ""
+
+# Objects : [n1376716933]
+# name:be: []
+msgid "Мемориальный комплекс войны 1812 г."
+msgstr ""
+
+# Objects : [n1376717762]
+# name:be: []
+msgid "Место форсирования Березины Наполеоном в ноябре 1812 г."
+msgstr ""
+
+# Objects : [n3245901789]
+# name:be: [Навасады]
+msgid "Новосады"
+msgstr ""
+
+# Objects : [n793930710]
+# name:be: [Навасёлкі]
+msgid "Новоселки"
+msgstr ""
+
+# Objects : [w25202298]
+# name:be: []
+msgid "Палик"
+msgstr ""
+
+# Objects : [n886465691]
+# name:be: []
+msgid "Памятник"
+msgstr ""
+
+# Objects : [n2788683371]
+# name:be: [Помнік у гонар палеглых жаўнераў арміі Напалеона]
+msgid "Памятник в честь погибших солдат армии Наполеона"
+msgstr ""
+
+# Objects : [n848609740]
+# name:be: []
+msgid "Памятник русским воинам 1812"
+msgstr ""
+
+# Objects : [n2788684198]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n306067951]
+# name:be: [Прыяміна]
+msgid "Приямино"
+msgstr ""
+
+# Objects : [w167801105]
+# name:be: []
+msgid "Пчельник"
+msgstr ""
+
+# Objects : [n243022615, w25109899]
+# name:be: [Рыбачнае]
+msgid "Рыбачное"
+msgstr ""
+
+# Objects : [n243022665]
+# name:be: []
+msgid "Сан.Блонь"
+msgstr ""
+
+# Objects : [w197880522]
+# name:be: []
+msgid "Санаторий "Березина""
+msgstr ""
+
+# Objects : [n2766722467]
+# name:be: []
+msgid "Санаторий БАТЭ"
+msgstr ""
+
+# Objects : [n2766722472]
+# name:be: []
+msgid "Санаторий Белино"
+msgstr ""
+
+# Objects : [n2766722495]
+# name:be: []
+msgid "Санаторий Дудинка"
+msgstr ""
+
+# Objects : [w197881228]
+# name:be: []
+msgid "Свалка"
+msgstr ""
+
+# Objects : [n306067863]
+# name:be: []
+msgid "Светлая Роща"
+msgstr ""
+
+# Objects : [n306067890]
+# name:be: []
+msgid "Староборисов"
+msgstr ""
+
+# Objects : [n2788684550]
+# name:be: [Сядзібна-паркавы комплекс Слізняў]
+msgid "Усадебно-парковый комплекс Слизней"
+msgstr ""
+
+# Objects : [n2788684562]
+# name:be: [Сядзібна-паркавы комплекс Тышкевічаў]
+msgid "Усадебно-парковый комплекс Тышкевичей"
+msgstr ""
+
+# Objects : [n1376740769]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [n2788684884]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n306067867]
+# name:be: []
+msgid "Французкая Высота"
+msgstr ""
+
+# Objects : [n2788685408]
+# name:be: [Гаспадарчы двор]
+msgid "Хозяйственный двор"
+msgstr ""
+
+# Objects : [n2079491950]
+# name:be: []
+msgid "Хомич КФХ"
+msgstr ""
+
+# Objects : [n306067875]
+# name:be: [Цэнтральная]
+msgid "Центральная"
+msgstr ""
+
+# Objects : [n2788687317]
+# name:be: [Царква могілкавая]
+msgid "Церковь кладбищенская"
+msgstr ""
+
+# Objects : [n2788686389]
+# name:be: [Царква Святога Міхала Арханёла]
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n2788686656]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788687269]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788687525]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [w195939426]
+# name:be: []
+msgid "Экспериментально-испытательный полигон НИИ ПБиЧС МЧС РБ"
+msgstr ""
+

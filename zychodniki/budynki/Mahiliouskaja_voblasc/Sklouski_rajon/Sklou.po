@@ -1,0 +1,105 @@
+# Objects : [w264418215]
+# name:be: []
+msgid "автобусная остановка"
+msgstr ""
+
+# Objects : [w264410034]
+# name:be: []
+msgid "Автобусная остановка"
+msgstr ""
+
+# Objects : [w202529083]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w74740603]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w239478830]
+# name:be: []
+msgid "Доб Быта"
+msgstr ""
+
+# Objects : [w312548467]
+# name:be: []
+msgid "ж"
+msgstr ""
+
+# Objects : [w312548466]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w104027697, w209537384, w241520101, w253287044, w253289018]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w171974344]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w274500754]
+# name:be: []
+msgid "мусор"
+msgstr ""
+
+# Objects : [w312020398]
+# name:be: []
+msgid "н"
+msgstr ""
+
+# Objects : [w74740621]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w259708487]
+# name:be: []
+msgid "Памятник"
+msgstr ""
+
+# Objects : [w206221704]
+# name:be: []
+msgid "пгрп"
+msgstr ""
+
+# Objects : [w205424541]
+# name:be: []
+msgid "промышленный цех"
+msgstr ""
+
+# Objects : [w74749387]
+# name:be: []
+msgid "ПТУ-139"
+msgstr ""
+
+# Objects : [w104027610]
+# name:be: []
+msgid "РЭС"
+msgstr ""
+
+# Objects : [w74740609]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w74740611]
+# name:be: []
+msgid "Химчистка"
+msgstr ""
+
+# Objects : [w74749329]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w104960872]
+# name:be: []
+msgid "Шкловский райгаз"
+msgstr ""
+

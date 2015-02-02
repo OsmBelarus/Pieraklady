@@ -1,0 +1,110 @@
+# Objects : [n1866933401]
+# name:be: []
+msgid "Буда"
+msgstr ""
+
+# Objects : [n817806242, n817806278]
+# name:be: []
+msgid "Верхлес"
+msgstr ""
+
+# Objects : [n817806226, n817806255]
+# name:be: []
+msgid "Волевачи"
+msgstr ""
+
+# Objects : [n2814834112, n2814834113]
+# name:be: []
+msgid "Загорье"
+msgstr ""
+
+# Objects : [n817806263, n817806301]
+# name:be: [Залессе]
+msgid "Залесье"
+msgstr ""
+
+# Objects : [n2425114848, n817806254]
+# name:be: []
+msgid "Карпиловка"
+msgstr ""
+
+# Objects : [n1895028494, n1895028514]
+# name:be: []
+msgid "Корзуны"
+msgstr ""
+
+# Objects : [n827868210]
+# name:be: []
+msgid "Красн. гора"
+msgstr ""
+
+# Objects : [n1801082590, n1801082597]
+# name:be: []
+msgid "Куколевка"
+msgstr ""
+
+# Objects : [n817806228, n817806273]
+# name:be: [Кулікі]
+msgid "Кулики"
+msgstr ""
+
+# Objects : [n1283807320, n1283807387]
+# name:be: []
+msgid "Любишино"
+msgstr ""
+
+# Objects : [n985599617, n985599621]
+# name:be: []
+msgid "Натальевск"
+msgstr ""
+
+# Objects : [n1449043153]
+# name:be: []
+msgid "Опытная станция"
+msgstr ""
+
+# Objects : [n1293137076, n1422316877, n1422322287, n1801082436]
+# name:be: []
+msgid "Островы"
+msgstr ""
+
+# Objects : [n453423517, n453423519]
+# name:be: []
+msgid "поворот Ялча"
+msgstr ""
+
+# Objects : [n2814834114, n2814834115]
+# name:be: []
+msgid "Рудня"
+msgstr ""
+
+# Objects : [n1422316875]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [n817806298]
+# name:be: [Смілавічы]
+msgid "Смиловичи"
+msgstr ""
+
+# Objects : [n2361160646, n827868216]
+# name:be: []
+msgid "Смогоровка"
+msgstr ""
+
+# Objects : [n827868253]
+# name:be: []
+msgid "Станево"
+msgstr ""
+
+# Objects : [n2815429658, n2815429659]
+# name:be: []
+msgid "Старый Пруд"
+msgstr ""
+
+# Objects : [n1866933370, n2814834116]
+# name:be: []
+msgid "Черноградь"
+msgstr ""
+

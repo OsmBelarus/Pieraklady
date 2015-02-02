@@ -1,0 +1,250 @@
+# Objects : [w277252475]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w211117652]
+# name:be: []
+msgid "аптека"
+msgstr ""
+
+# Objects : [w207542317, w285031068]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w277245018]
+# name:be: []
+msgid "Вавилон"
+msgstr ""
+
+# Objects : [w207464213]
+# name:be: []
+msgid "Ветеран"
+msgstr ""
+
+# Objects : [w208421913]
+# name:be: []
+msgid "Ветразь"
+msgstr ""
+
+# Objects : [w208421862]
+# name:be: []
+msgid "Гермес"
+msgstr ""
+
+# Objects : [w232411406]
+# name:be: []
+msgid "ГРП-11"
+msgstr ""
+
+# Objects : [w232411407]
+# name:be: []
+msgid "ГРП-12"
+msgstr ""
+
+# Objects : [w232411408]
+# name:be: []
+msgid "ГРП-2"
+msgstr ""
+
+# Objects : [w243915222]
+# name:be: []
+msgid "ГРП - 8"
+msgstr ""
+
+# Objects : [w232411409]
+# name:be: []
+msgid "ГРП-9"
+msgstr ""
+
+# Objects : [w207464178]
+# name:be: []
+msgid "детская библиатека"
+msgstr ""
+
+# Objects : [w211256611]
+# name:be: []
+msgid "дом культуры"
+msgstr ""
+
+# Objects : [w211406129]
+# name:be: []
+msgid "кафе "Бриз""
+msgstr ""
+
+# Objects : [w277261260]
+# name:be: []
+msgid "Книги"
+msgstr ""
+
+# Objects : [w207464167]
+# name:be: []
+msgid "котельная Советская"
+msgstr ""
+
+# Objects : [w211408860]
+# name:be: []
+msgid "крыничка"
+msgstr ""
+
+# Objects : [w232654041]
+# name:be: []
+msgid "Лагуна"
+msgstr ""
+
+# Objects : [w230224127, w231788382]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w210218750]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w207464209]
+# name:be: []
+msgid "мастер"
+msgstr ""
+
+# Objects : [w207464177]
+# name:be: []
+msgid "МГСПТК"
+msgstr ""
+
+# Objects : [w207464172]
+# name:be: []
+msgid "мини европа"
+msgstr ""
+
+# Objects : [w242485087]
+# name:be: []
+msgid "Мстиславский РГС"
+msgstr ""
+
+# Objects : [w211256625]
+# name:be: []
+msgid "Мстиславский СУД"
+msgstr ""
+
+# Objects : [w207541336]
+# name:be: []
+msgid "нева"
+msgstr ""
+
+# Objects : [w211261901]
+# name:be: []
+msgid "Пассаж"
+msgstr ""
+
+# Objects : [w220313823]
+# name:be: []
+msgid "ПГРП-1"
+msgstr ""
+
+# Objects : [w232411558]
+# name:be: []
+msgid "ПГРП-7"
+msgstr ""
+
+# Objects : [w230784945]
+# name:be: []
+msgid "пожарная каланча"
+msgstr ""
+
+# Objects : [w208421840]
+# name:be: []
+msgid "пролеска"
+msgstr ""
+
+# Objects : [w226682580]
+# name:be: []
+msgid "редакция газеты"
+msgstr ""
+
+# Objects : [w211406079]
+# name:be: []
+msgid "РИК"
+msgstr ""
+
+# Objects : [w207464181]
+# name:be: []
+msgid "РКЦ"
+msgstr ""
+
+# Objects : [w207464204]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w207464499]
+# name:be: []
+msgid "родны кут"
+msgstr ""
+
+# Objects : [w211427494]
+# name:be: []
+msgid "Слабодской"
+msgstr ""
+
+# Objects : [w230784946]
+# name:be: []
+msgid "Соц защита"
+msgstr ""
+
+# Objects : [w277252479]
+# name:be: []
+msgid "Спутник"
+msgstr ""
+
+# Objects : [w211406094]
+# name:be: []
+msgid "Строительный"
+msgstr ""
+
+# Objects : [w211427676]
+# name:be: []
+msgid "Типография"
+msgstr ""
+
+# Objects : [w211256617]
+# name:be: []
+msgid "Торговый дом"
+msgstr ""
+
+# Objects : [w207464233]
+# name:be: []
+msgid "учебный корпус"
+msgstr ""
+
+# Objects : [w277252482]
+# name:be: []
+msgid "Фирюза"
+msgstr ""
+
+# Objects : [w277252483]
+# name:be: []
+msgid "Хозяин"
+msgstr ""
+
+# Objects : [w211427609]
+# name:be: []
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [w211268657]
+# name:be: []
+msgid "Шамовский"
+msgstr ""
+
+# Objects : [w211261824]
+# name:be: []
+msgid "ШАНС"
+msgstr ""
+
+# Objects : [w292852560]
+# name:be: []
+msgid "ШС"
+msgstr ""
+

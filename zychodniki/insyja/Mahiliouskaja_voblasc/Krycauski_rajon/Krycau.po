@@ -1,0 +1,400 @@
+# Objects : [r1751550]
+# name:be: []
+msgid "Автобус №7"
+msgstr ""
+
+# Objects : [r1751551]
+# name:be: []
+msgid "Автобус №7а"
+msgstr ""
+
+# Objects : [w211850946]
+# name:be: []
+msgid "Автопарк №3"
+msgstr ""
+
+# Objects : [w209199832]
+# name:be: []
+msgid "Аллея славы"
+msgstr ""
+
+# Objects : [n2194128780]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w211858577, w211916531]
+# name:be: []
+msgid "Безсоюзпечать"
+msgstr ""
+
+# Objects : [w209144162, w226831791]
+# name:be: []
+msgid "бойлерная"
+msgstr ""
+
+# Objects : [n650549170]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [w207697744]
+# name:be: []
+msgid "Бюро технической инветаризации"
+msgstr ""
+
+# Objects : [n2194128781]
+# name:be: []
+msgid "Ветврач"
+msgstr ""
+
+# Objects : [w209182015]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w82148614]
+# name:be: []
+msgid "Воскресенская"
+msgstr ""
+
+# Objects : [w245159550]
+# name:be: []
+msgid "Вторчермет"
+msgstr ""
+
+# Objects : [w209140810]
+# name:be: []
+msgid "Горгаз"
+msgstr ""
+
+# Objects : [w211850558]
+# name:be: []
+msgid "Гортоп"
+msgstr ""
+
+# Objects : [w203360675]
+# name:be: []
+msgid "Госстрах"
+msgstr ""
+
+# Objects : [n956545036]
+# name:be: []
+msgid "Гостиница "Сож""
+msgstr ""
+
+# Objects : [n2766736696]
+# name:be: []
+msgid "Гостиница Сож"
+msgstr ""
+
+# Objects : [n2788680227]
+# name:be: [Палац Галынскіх]
+msgid "Дворец Голынских"
+msgstr ""
+
+# Objects : [w236286249]
+# name:be: []
+msgid "детсад № 19"
+msgstr ""
+
+# Objects : [w209201565, w226831881]
+# name:be: []
+msgid "детская площадка"
+msgstr ""
+
+# Objects : [w226831882]
+# name:be: []
+msgid "детские горки"
+msgstr ""
+
+# Objects : [w208564840]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [n2218256449]
+# name:be: []
+msgid "Дом творчества"
+msgstr ""
+
+# Objects : [w209201562]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [w209183893]
+# name:be: []
+msgid "ДЭУ-77"
+msgstr ""
+
+# Objects : [n2193727459]
+# name:be: []
+msgid "Жетон"
+msgstr ""
+
+# Objects : [w209171152]
+# name:be: []
+msgid "Завод ЖБИ"
+msgstr ""
+
+# Objects : [w208403177]
+# name:be: []
+msgid "Замковая гора"
+msgstr ""
+
+# Objects : [n2788680404]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [w242701529]
+# name:be: []
+msgid "Ивановка"
+msgstr ""
+
+# Objects : [w209136930, w209199835]
+# name:be: []
+msgid "Игровая детская площадка"
+msgstr ""
+
+# Objects : [w209174386]
+# name:be: []
+msgid "Каляда"
+msgstr ""
+
+# Objects : [w204209942]
+# name:be: []
+msgid "Комсомольский"
+msgstr ""
+
+# Objects : [w211086356]
+# name:be: []
+msgid "контора ОРСа"
+msgstr ""
+
+# Objects : [n2145344455]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [n2154061433]
+# name:be: []
+msgid "красный крест"
+msgstr ""
+
+# Objects : [n306068370]
+# name:be: [Крычаў-1]
+msgid "Кричев-1"
+msgstr ""
+
+# Objects : [w209140199]
+# name:be: []
+msgid "Кричевский район газоснабжения"
+msgstr ""
+
+# Objects : [w50826786]
+# name:be: []
+msgid "Кричевский цементный завод (ЦШК)"
+msgstr ""
+
+# Objects : [n2142291014]
+# name:be: []
+msgid "Кричев ТВ-КОМ"
+msgstr ""
+
+# Objects : [n2142300228]
+# name:be: []
+msgid "КУРГАН СЛАВЫ"
+msgstr ""
+
+# Objects : [w211850611]
+# name:be: []
+msgid "Лайф (деревообработка)"
+msgstr ""
+
+# Objects : [w209139927]
+# name:be: []
+msgid "летня площадка"
+msgstr ""
+
+# Objects : [w208406207]
+# name:be: []
+msgid "Магазин деской одежды"
+msgstr ""
+
+# Objects : [w209033202]
+# name:be: []
+msgid "магазин ритуальные услуги"
+msgstr ""
+
+# Objects : [w209162982]
+# name:be: []
+msgid "молодежный"
+msgstr ""
+
+# Objects : [n2193772180]
+# name:be: []
+msgid "мр-н Комсомольский"
+msgstr ""
+
+# Objects : [n2193772185]
+# name:be: []
+msgid "мр-н Сож"
+msgstr ""
+
+# Objects : [w211850560]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [n2155870618]
+# name:be: []
+msgid "Народный суд"
+msgstr ""
+
+# Objects : [w216980690]
+# name:be: []
+msgid "Новый корпус"
+msgstr ""
+
+# Objects : [w211913490]
+# name:be: []
+msgid "огороды"
+msgstr ""
+
+# Objects : [w209136933]
+# name:be: []
+msgid "Площадка отдыха"
+msgstr ""
+
+# Objects : [w211850562]
+# name:be: []
+msgid "ПМК-264"
+msgstr ""
+
+# Objects : [n2788683602]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [w209318337]
+# name:be: []
+msgid "Привокзальный рынок"
+msgstr ""
+
+# Objects : [w207169091]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w211868395]
+# name:be: []
+msgid "радиотеле транслятор"
+msgstr ""
+
+# Objects : [w211850702]
+# name:be: []
+msgid "Ремстрой"
+msgstr ""
+
+# Objects : [w208834538, w209316399, w209316400]
+# name:be: []
+msgid "Сельхозтехника"
+msgstr ""
+
+# Objects : [w242695585]
+# name:be: []
+msgid "Сож"
+msgstr ""
+
+# Objects : [w208562328]
+# name:be: []
+msgid "Спортивная площадка"
+msgstr ""
+
+# Objects : [n2142308237]
+# name:be: []
+msgid "Стоматолическое отделение ЦРБ"
+msgstr ""
+
+# Objects : [w209033188]
+# name:be: []
+msgid "Торговый павельон"
+msgstr ""
+
+# Objects : [n2211240858]
+# name:be: []
+msgid "Три кита"
+msgstr ""
+
+# Objects : [w209136934]
+# name:be: []
+msgid "Фонд социальной защиты населения"
+msgstr ""
+
+# Objects : [w209136935]
+# name:be: []
+msgid "фонтан"
+msgstr ""
+
+# Objects : [w209141001]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [w204210413]
+# name:be: []
+msgid "хокейная коробка"
+msgstr ""
+
+# Objects : [w209199836]
+# name:be: []
+msgid "Хокейная коробка"
+msgstr ""
+
+# Objects : [w208656682]
+# name:be: []
+msgid "Цент занятости"
+msgstr ""
+
+# Objects : [w208551086]
+# name:be: []
+msgid "Центральное кладбище"
+msgstr ""
+
+# Objects : [w50825450]
+# name:be: []
+msgid "центральный рынок"
+msgstr ""
+
+# Objects : [n2788686495]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788686592]
+# name:be: [Царква Святой Параскевы Пятніцы]
+msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [w209183894]
+# name:be: []
+msgid "Цетральная районная больница"
+msgstr ""
+
+# Objects : [n2312728624]
+# name:be: []
+msgid "ЦШК"
+msgstr ""
+
+# Objects : [w211913870]
+# name:be: []
+msgid "частное дворовое хозяйство"
+msgstr ""
+
+# Objects : [w204209955]
+# name:be: []
+msgid "Яблоко"
+msgstr ""
+

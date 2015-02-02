@@ -1,0 +1,75 @@
+# Objects : [n1230052343, n1358194925, n1563449259, n1636431323, n306068096, n306068194, n306068253, n306068265]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n419333610]
+# name:be: [Аптэка "Знаходка"]
+msgid "Аптека "Находка""
+msgstr ""
+
+# Objects : [n600459956]
+# name:be: [Аптэка №125]
+msgid "Аптека №125"
+msgstr ""
+
+# Objects : [n452534411]
+# name:be: [Аптэка №194]
+msgid "Аптека №194"
+msgstr ""
+
+# Objects : [n621251781]
+# name:be: [Аптэка №195]
+msgid "Аптека №195"
+msgstr ""
+
+# Objects : [n621251782]
+# name:be: [Аптэка №2 (ОДО "Медфармснаб")]
+msgid "Аптека №2 (ОДО "Медфармснаб")"
+msgstr ""
+
+# Objects : [n794364674]
+# name:be: [Аптэка №29 ООО Іскамед]
+msgid "Аптека №29 ООО Искамед"
+msgstr ""
+
+# Objects : [n1452327455]
+# name:be: [Аптэка №36]
+msgid "Аптека №36"
+msgstr ""
+
+# Objects : [n982331009]
+# name:be: [Аптэка №59]
+msgid "Аптека №59"
+msgstr ""
+
+# Objects : [n1233411020, n452534413]
+# name:be: [Біатэст-Гомель]
+msgid "Биотест-Гомель"
+msgstr ""
+
+# Objects : [n2195552745]
+# name:be: [Дзяжурная аптэка]
+msgid "Дежурная аптека"
+msgstr ""
+
+# Objects : [n1444968023]
+# name:be: [Мэдэя]
+msgid "Медея"
+msgstr ""
+
+# Objects : [n1099385916]
+# name:be: [Мая Аптэка]
+msgid "Моя Аптека"
+msgstr ""
+
+# Objects : [n795714549, n856444465]
+# name:be: [Планета здароўя]
+msgid "Планета Здоровья"
+msgstr ""
+
+# Objects : [n452534416]
+# name:be: [Фармацыя, аптэка №1]
+msgid "Фармация, аптека №1"
+msgstr ""
+

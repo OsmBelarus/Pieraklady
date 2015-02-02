@@ -1,0 +1,200 @@
+# Objects : [n1376622641]
+# name:be: []
+msgid "Брама"
+msgstr ""
+
+# Objects : [n456828752]
+# name:be: []
+msgid "Брод"
+msgstr ""
+
+# Objects : [n1313504934]
+# name:be: []
+msgid "Взорванный Дзот"
+msgstr ""
+
+# Objects : [n2788680171]
+# name:be: [Геаграфічны цэнтар Беларусі]
+msgid "Географический центр Беларуси"
+msgstr ""
+
+# Objects : [n1376677684]
+# name:be: []
+msgid "Дворец (руины)"
+msgstr ""
+
+# Objects : [n1373783569]
+# name:be: []
+msgid "Дом священника (?)"
+msgstr ""
+
+# Objects : [n2788680569]
+# name:be: [Кальвінскі збор]
+msgid "Кальвинский сбор"
+msgstr ""
+
+# Objects : [r2393580]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2788680787]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681514]
+# name:be: [Могілкі татарскія (Мізар)]
+msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n243007792, w25130615]
+# name:be: [Канапелькі]
+msgid "Конопельки"
+msgstr ""
+
+# Objects : [n2322545730]
+# name:be: []
+msgid "Конюшни"
+msgstr ""
+
+# Objects : [w312713823]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
+# Objects : [n243007723, w25130643]
+# name:be: [Ляскі]
+msgid "Лески"
+msgstr ""
+
+# Objects : [w312713822]
+# name:be: []
+msgid "Лошадиная ферма"
+msgstr ""
+
+# Objects : [w25201434]
+# name:be: []
+msgid "Лошанское водохранилище"
+msgstr ""
+
+# Objects : [w116534755]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n306063021]
+# name:be: []
+msgid "Озеро"
+msgstr ""
+
+# Objects : [n1110429138]
+# name:be: []
+msgid "Памятник на месте сожжённой деревни Бабенка"
+msgstr ""
+
+# Objects : [n2788683565]
+# name:be: [Плябанія]
+msgid "Плебания"
+msgstr ""
+
+# Objects : [r3768643]
+# name:be: []
+msgid "Полевая база"
+msgstr ""
+
+# Objects : [n2788684079]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2322545741]
+# name:be: []
+msgid "Руины"
+msgstr ""
+
+# Objects : [w132767060]
+# name:be: []
+msgid "С/т Сосна"
+msgstr ""
+
+# Objects : [w132720798]
+# name:be: []
+msgid "с/т Сымончицы - 2"
+msgstr ""
+
+# Objects : [n2766722554]
+# name:be: []
+msgid "Санаторий Подъельники"
+msgstr ""
+
+# Objects : [w284088854]
+# name:be: []
+msgid "Торфоперегруз"
+msgstr ""
+
+# Objects : [w224026456]
+# name:be: []
+msgid "УЖД Сергеевичского торфопредприятия"
+msgstr ""
+
+# Objects : [w284087065, w284087066, w284087067, w284087068, w284087069, w284087071, w284087072, w284087073, w284087074, w284087075]
+# name:be: []
+msgid "УЖД Слуцкого торфопредприятия"
+msgstr ""
+
+# Objects : [w223351692]
+# name:be: []
+msgid "Узденский государственный сельскохозяйственный профессиональный лицей"
+msgstr ""
+
+# Objects : [n2788684400]
+# name:be: [Сядзібна-паркавы комплекс Амбрамбальскіх]
+msgid "Усадебно-парковый комплекс Амбрамбальских"
+msgstr ""
+
+# Objects : [n2788684458]
+# name:be: [Сядзібна-паркавы комплекс Завішаў]
+msgid "Усадебно-парковый комплекс Завишей"
+msgstr ""
+
+# Objects : [n2788684827]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788684741]
+# name:be: [Сядзіба Наркевічаў-Ёдкаў]
+msgid "Усадьба Наркевич-Иодко"
+msgstr ""
+
+# Objects : [n1376621974]
+# name:be: []
+msgid "Фамильное кладбище Наркевичей-Иодко"
+msgstr ""
+
+# Objects : [n2788685246]
+# name:be: [Фальварак]
+msgid "Фольварк"
+msgstr ""
+
+# Objects : [n1460562336, w239059000]
+# name:be: []
+msgid "х. Ореховка"
+msgstr ""
+
+# Objects : [n2788685288]
+# name:be: [Гаспадарчы двор Грабоўскіх]
+msgid "Хозяйственный двор Гробовских"
+msgstr ""
+
+# Objects : [n2788685437]
+# name:be: [Царква (руіны)]
+msgid "Церковь (руины)"
+msgstr ""
+
+# Objects : [n2788686789]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+

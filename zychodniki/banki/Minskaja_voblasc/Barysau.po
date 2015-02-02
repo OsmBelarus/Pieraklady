@@ -1,0 +1,30 @@
+# Objects : [n2079487576]
+# name:be: []
+msgid "HomeCreditBank"
+msgstr ""
+
+# Objects : [n2524544961]
+# name:be: []
+msgid "Prior Bank"
+msgstr ""
+
+# Objects : [n2079487060]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n2079489093, n3006940078, n785111269, w171378770]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w156361020]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n1824108382]
+# name:be: []
+msgid "Сомбелбанк"
+msgstr ""
+

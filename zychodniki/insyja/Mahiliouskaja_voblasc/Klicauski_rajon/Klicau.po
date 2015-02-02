@@ -1,0 +1,335 @@
+# Objects : [w98856192]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w98727513]
+# name:be: []
+msgid "АП"
+msgstr ""
+
+# Objects : [w98727554]
+# name:be: []
+msgid "Базар"
+msgstr ""
+
+# Objects : [w206512963]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w98008230]
+# name:be: []
+msgid "БеларусьБанк"
+msgstr ""
+
+# Objects : [w98721873]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w207281167]
+# name:be: []
+msgid "Ваенкомат"
+msgstr ""
+
+# Objects : [w206375658]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w205488103]
+# name:be: []
+msgid "Гортоп, №7"
+msgstr ""
+
+# Objects : [n1131336656]
+# name:be: []
+msgid "Гостиница Кличев"
+msgstr ""
+
+# Objects : [n2766736639]
+# name:be: []
+msgid "Гостиница Ольса"
+msgstr ""
+
+# Objects : [w205488102]
+# name:be: []
+msgid "ГРП №6"
+msgstr ""
+
+# Objects : [w99199487]
+# name:be: []
+msgid "деревообрабатывающий цех"
+msgstr ""
+
+# Objects : [w98727544]
+# name:be: []
+msgid "ДРСУ"
+msgstr ""
+
+# Objects : [r2957841]
+# name:be: []
+msgid "Заводской переулок"
+msgstr ""
+
+# Objects : [w99199526]
+# name:be: []
+msgid "кантора"
+msgstr ""
+
+# Objects : [w207315964]
+# name:be: []
+msgid "кантора лесопункта"
+msgstr ""
+
+# Objects : [w207281227]
+# name:be: []
+msgid "Кантора с-за Ольса"
+msgstr ""
+
+# Objects : [w97725082]
+# name:be: []
+msgid "Карусели"
+msgstr ""
+
+# Objects : [w98727540]
+# name:be: []
+msgid "кательная"
+msgstr ""
+
+# Objects : [n1365412664]
+# name:be: [Клічаў]
+msgid "Кличев"
+msgstr ""
+
+# Objects : [n1131348273]
+# name:be: []
+msgid "Кличевский аграрно-технический колледж"
+msgstr ""
+
+# Objects : [w205488104]
+# name:be: []
+msgid "Кличевский РГС"
+msgstr ""
+
+# Objects : [w98727485]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [r2957842]
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [r2957843]
+# name:be: [Ленінская вуліца]
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w207142138]
+# name:be: []
+msgid "лесхоз"
+msgstr ""
+
+# Objects : [w98727521]
+# name:be: []
+msgid "магазин РАЙПО"
+msgstr ""
+
+# Objects : [w205590351]
+# name:be: []
+msgid "мастерская"
+msgstr ""
+
+# Objects : [w98727460, w98856224]
+# name:be: []
+msgid "мастерские"
+msgstr ""
+
+# Objects : [r2957844]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w99682410]
+# name:be: []
+msgid "навес"
+msgstr ""
+
+# Objects : [w98715331]
+# name:be: []
+msgid "Общежитие ПМК - 89"
+msgstr ""
+
+# Objects : [w98721880]
+# name:be: []
+msgid "Отделение ЗАГС"
+msgstr ""
+
+# Objects : [w98996520]
+# name:be: []
+msgid "Охрана"
+msgstr ""
+
+# Objects : [n1131397342]
+# name:be: []
+msgid "памятник Ленину"
+msgstr ""
+
+# Objects : [r2957845]
+# name:be: []
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [r2957846]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [r2957854]
+# name:be: []
+msgid "переулок Демина"
+msgstr ""
+
+# Objects : [r2957847]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w98715335]
+# name:be: []
+msgid "ПМК-89"
+msgstr ""
+
+# Objects : [n1131328133]
+# name:be: [Пажарная частка]
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [r2957848]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w207141955]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [r2957849]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w98727548]
+# name:be: []
+msgid "Райветстанция"
+msgstr ""
+
+# Objects : [w98715334]
+# name:be: []
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [w98721860]
+# name:be: []
+msgid "РАЙПО"
+msgstr ""
+
+# Objects : [w98727532]
+# name:be: []
+msgid "РБУ"
+msgstr ""
+
+# Objects : [w98715355]
+# name:be: []
+msgid "РОО"
+msgstr ""
+
+# Objects : [w205590331]
+# name:be: []
+msgid "РСУ"
+msgstr ""
+
+# Objects : [w99199443]
+# name:be: []
+msgid "РЭС"
+msgstr ""
+
+# Objects : [r2957850]
+# name:be: []
+msgid "Савхозная улица"
+msgstr ""
+
+# Objects : [w207315562]
+# name:be: []
+msgid "Сварочный пост"
+msgstr ""
+
+# Objects : [w99199495]
+# name:be: []
+msgid "склад хранения баллонов СУГ"
+msgstr ""
+
+# Objects : [r2957851]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [r2957855]
+# name:be: []
+msgid "улица 70 лет Октября"
+msgstr ""
+
+# Objects : [r2957856]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [r2957857]
+# name:be: []
+msgid "улица Кривоноса"
+msgstr ""
+
+# Objects : [r2957858]
+# name:be: []
+msgid "улица Островского"
+msgstr ""
+
+# Objects : [r2957859]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [r2957860]
+# name:be: [вуліца Энгельса]
+msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w98727482]
+# name:be: []
+msgid "Хлебзавод"
+msgstr ""
+
+# Objects : [w98721843]
+# name:be: []
+msgid "Центр занятости"
+msgstr ""
+
+# Objects : [r2957852]
+# name:be: [Школьны завулак]
+msgid "Школьный переулок"
+msgstr ""
+
+# Objects : [w207176243]
+# name:be: []
+msgid "Энергонадзор"
+msgstr ""
+
+# Objects : [r2957853]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+

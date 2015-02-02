@@ -1,0 +1,80 @@
+# Objects : [w127240386]
+# name:be: []
+msgid "бульвар Надежд"
+msgstr ""
+
+# Objects : [w154202973]
+# name:be: []
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [w109355489]
+# name:be: [Завадская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w155763360]
+# name:be: []
+msgid "Заречный переулок"
+msgstr ""
+
+# Objects : [w109375074]
+# name:be: [Карэнеўская вуліца]
+msgid "Кореневская улица"
+msgstr ""
+
+# Objects : [w154202937]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w154202962]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w154202947]
+# name:be: []
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w154202946]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w154202976, w154218585]
+# name:be: []
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w154202974]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w313654460]
+# name:be: []
+msgid "Улица Гагарина"
+msgstr ""
+
+# Objects : [w154202933, w154218553]
+# name:be: []
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w164083291]
+# name:be: []
+msgid "улица Огинского"
+msgstr ""
+
+# Objects : [w109375075]
+# name:be: [вуліца Суворава]
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [w154202943]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+

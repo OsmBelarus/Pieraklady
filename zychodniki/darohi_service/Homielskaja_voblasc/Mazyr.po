@@ -1,0 +1,125 @@
+# Objects : [w263492712, w263492713, w273248816, w311222256]
+# name:be: [1-ы Заводскі завулак]
+msgid "1-й Заводской переулок"
+msgstr ""
+
+# Objects : [w270559573, w53310427]
+# name:be: [2-і Заводскі завулак]
+msgid "2-й Заводской переулок"
+msgstr ""
+
+# Objects : [w273283489]
+# name:be: [2-і Партовы завулак]
+msgid "2-й Портовый переулок"
+msgstr ""
+
+# Objects : [w318931072]
+# name:be: [3-і Партовы завулак]
+msgid "3-й Портовый переулок"
+msgstr ""
+
+# Objects : [w269914093]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [w53310483]
+# name:be: [Інтэрнацыянальны завулак]
+msgid "Интернациональный переулок"
+msgstr ""
+
+# Objects : [w201526041]
+# name:be: []
+msgid "Лельчицкое шоссе"
+msgstr ""
+
+# Objects : [w34517669]
+# name:be: [Першамайскі завулак]
+msgid "Первомайский переулок"
+msgstr ""
+
+# Objects : [w116022527]
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [w53310538]
+# name:be: [Палеская вуліца]
+msgid "Полесская улица"
+msgstr ""
+
+# Objects : [w47571049]
+# name:be: [Прывакзальны завулак]
+msgid "Привокзальный переулок"
+msgstr ""
+
+# Objects : [w115630950]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w197325965]
+# name:be: [Страканіцкі бульвар]
+msgid "Страконицкий бульвар"
+msgstr ""
+
+# Objects : [w53310296]
+# name:be: [вуліца Гогаля]
+msgid "улица Гоголя"
+msgstr ""
+
+# Objects : [w205042882]
+# name:be: [вуліца Гара камунараў]
+msgid "улица Гора коммунаров"
+msgstr ""
+
+# Objects : [w114545072]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w269914077]
+# name:be: []
+msgid "улица Клубничная"
+msgstr ""
+
+# Objects : [w112181770]
+# name:be: [вуліца Катлаўца]
+msgid "улица Котловца"
+msgstr ""
+
+# Objects : [w269914078]
+# name:be: []
+msgid "улица Кукурузная"
+msgstr ""
+
+# Objects : [w269914073]
+# name:be: []
+msgid "улица Малиновая"
+msgstr ""
+
+# Objects : [w269914072]
+# name:be: []
+msgid "улица Огуречная"
+msgstr ""
+
+# Objects : [w269914069]
+# name:be: []
+msgid "улица Смородиновая"
+msgstr ""
+
+# Objects : [w269914071]
+# name:be: []
+msgid "улица Травяная"
+msgstr ""
+
+# Objects : [w269914070]
+# name:be: []
+msgid "улица Цветочная"
+msgstr ""
+
+# Objects : [w53310673]
+# name:be: [Швейны завулак]
+msgid "Швейный переулок"
+msgstr ""
+

@@ -1,0 +1,115 @@
+# Objects : [n729568665]
+# name:be: []
+msgid "Truck stop"
+msgstr ""
+
+# Objects : [n2670420552]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w268316602]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [n2766736603]
+# name:be: []
+msgid "Гостиница Лепель"
+msgstr ""
+
+# Objects : [w242610124]
+# name:be: []
+msgid "ГЭС"
+msgstr ""
+
+# Objects : [w165372847]
+# name:be: []
+msgid "ЗАО "Витебскагропродукт""
+msgstr ""
+
+# Objects : [n2788681175]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681957]
+# name:be: [Касцёл Святога Казіміра]
+msgid "Костел Святого Казимира"
+msgstr ""
+
+# Objects : [w165372848]
+# name:be: []
+msgid "Котельная ЛСЭП ЛКУПП ЖКХ "Лепель""
+msgstr ""
+
+# Objects : [n1365412907, n271043772, n275269793]
+# name:be: [Лепель]
+msgid "Лепель"
+msgstr ""
+
+# Objects : [w240915199]
+# name:be: []
+msgid "Лепельский Пляж"
+msgstr ""
+
+# Objects : [w165372849]
+# name:be: []
+msgid "ЛКУПП ЖКХ "Лепель""
+msgstr ""
+
+# Objects : [n2486034533]
+# name:be: [мемарыял войнаў-вызваліцеляў]
+msgid "мемориал войнов-освободителей"
+msgstr ""
+
+# Objects : [w242567393]
+# name:be: []
+msgid "навес"
+msgstr ""
+
+# Objects : [w165372850]
+# name:be: []
+msgid "ОАО "Лепельский молочно-консервный комбинат""
+msgstr ""
+
+# Objects : [n2485935471]
+# name:be: [Помнік Яну-Паўлу II]
+msgid "Памятник Иоанну-Павлу II"
+msgstr ""
+
+# Objects : [n2995114037]
+# name:be: []
+msgid "памятник Ленину"
+msgstr ""
+
+# Objects : [w240901961]
+# name:be: [Помнік Льву Сапеге]
+msgid "памятник Льву Сапеге"
+msgstr ""
+
+# Objects : [w240899804]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [n2670420556]
+# name:be: [Суд Лепельскага раёна]
+msgid "Суд Лепельского района"
+msgstr ""
+
+# Objects : [w165372851]
+# name:be: []
+msgid "Филиал РУПП "Витебскхлебпром" Лепельский хлебозавод"
+msgstr ""
+
+# Objects : [n2788686596]
+# name:be: [Царква Святой Параскевы Пятніцы]
+msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [n2788687419]
+# name:be: [Капліца Святога Георгія]
+msgid "Часовня Святого Георгия"
+msgstr ""
+

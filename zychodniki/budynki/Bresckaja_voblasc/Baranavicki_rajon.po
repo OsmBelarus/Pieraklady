@@ -1,0 +1,95 @@
+# Objects : [w249002079]
+# name:be: []
+msgid "10"
+msgstr ""
+
+# Objects : [w249002050]
+# name:be: []
+msgid "12"
+msgstr ""
+
+# Objects : [w249002059]
+# name:be: []
+msgid "14"
+msgstr ""
+
+# Objects : [w249001859]
+# name:be: []
+msgid "16"
+msgstr ""
+
+# Objects : [w249002005]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [w249001874]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w249001976]
+# name:be: []
+msgid "20"
+msgstr ""
+
+# Objects : [w249001850]
+# name:be: []
+msgid "6"
+msgstr ""
+
+# Objects : [w249002002]
+# name:be: []
+msgid "8"
+msgstr ""
+
+# Objects : [w58722361]
+# name:be: [Аўтамыйня]
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w226116077]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n1129481514]
+# name:be: []
+msgid "Бровар"
+msgstr ""
+
+# Objects : [n1559360456]
+# name:be: []
+msgid "Ледовня"
+msgstr ""
+
+# Objects : [n1575491327]
+# name:be: []
+msgid "Музей-усадьба Адама Мицкевича"
+msgstr ""
+
+# Objects : [w225999585]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w199954877]
+# name:be: []
+msgid "Старый друг"
+msgstr ""
+
+# Objects : [n1575448425, n1642913548]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [w244810482]
+# name:be: []
+msgid "Усадьба Адама Мицкевича"
+msgstr ""
+
+# Objects : [w58722362]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+

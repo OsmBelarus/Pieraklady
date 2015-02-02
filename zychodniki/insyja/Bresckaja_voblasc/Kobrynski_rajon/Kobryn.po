@@ -1,0 +1,250 @@
+# Objects : [n355703191]
+# name:be: []
+msgid "Suworow"
+msgstr ""
+
+# Objects : [n564973065]
+# name:be: []
+msgid "Topolok"
+msgstr ""
+
+# Objects : [w280437478]
+# name:be: []
+msgid "Автопарк"
+msgstr ""
+
+# Objects : [w185585068]
+# name:be: []
+msgid "Агроусадьба "На Сосновке""
+msgstr ""
+
+# Objects : [n275453709]
+# name:be: [Андронава]
+msgid "Андроново"
+msgstr ""
+
+# Objects : [w128109278]
+# name:be: []
+msgid "Баскетбольная площадка"
+msgstr ""
+
+# Objects : [w128109279]
+# name:be: []
+msgid "Беговая дорожка СШ №4"
+msgstr ""
+
+# Objects : [n564973071]
+# name:be: [Беларусь]
+msgid "Беларусь"
+msgstr ""
+
+# Objects : [n1409649706, n1416394889]
+# name:be: []
+msgid "Вертолёт Ми-8 в честь погибших на афганской войне"
+msgstr ""
+
+# Objects : [w128092383]
+# name:be: [Вадасховішча]
+msgid "Водохранилище"
+msgstr ""
+
+# Objects : [w127319573]
+# name:be: []
+msgid "Военно-исторический музей имени Суворова"
+msgstr ""
+
+# Objects : [w128109281]
+# name:be: []
+msgid "Волейбольная площадка"
+msgstr ""
+
+# Objects : [n2766736484]
+# name:be: []
+msgid "Гостиница Беларусь"
+msgstr ""
+
+# Objects : [n2766736699]
+# name:be: []
+msgid "Гостиница Суворов"
+msgstr ""
+
+# Objects : [n355707892]
+# name:be: []
+msgid "Дом-музей Суворова"
+msgstr ""
+
+# Objects : [n564931896]
+# name:be: []
+msgid "ДЭКО"
+msgstr ""
+
+# Objects : [n1941648348]
+# name:be: []
+msgid "Кантор-металл"
+msgstr ""
+
+# Objects : [n1282789142]
+# name:be: []
+msgid "КГБ"
+msgstr ""
+
+# Objects : [n2788680718]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681204]
+# name:be: [Могілкі новыя хрысціянскія]
+msgid "Кладбище новые христианские"
+msgstr ""
+
+# Objects : [n2788681471]
+# name:be: [Могілкі старыя хрысціянскія]
+msgid "Кладбище старое христианское"
+msgstr ""
+
+# Objects : [n355703183, n355707906, n476416018, n565546570]
+# name:be: [Кобрын]
+msgid "Кобрин"
+msgstr ""
+
+# Objects : [n566681668, w214093031]
+# name:be: []
+msgid "Кобринский хлебозавод"
+msgstr ""
+
+# Objects : [n2788682311]
+# name:be: [Касцёл Спачыну Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n566681669, w214093029]
+# name:be: []
+msgid "Масло-сыр завод"
+msgstr ""
+
+# Objects : [w128109282]
+# name:be: []
+msgid "Минифутбольная грунтовая площадка"
+msgstr ""
+
+# Objects : [n2788682951]
+# name:be: [Манастыр Святого Спаса]
+msgid "Монастырь Святого Спаса"
+msgstr ""
+
+# Objects : [n1359741318]
+# name:be: []
+msgid "Моряк с попугаем"
+msgstr ""
+
+# Objects : [n564973079]
+# name:be: []
+msgid "Памятник В. И. Ленину"
+msgstr ""
+
+# Objects : [n564973074]
+# name:be: []
+msgid "памятник волынскому князю Владимиру Васильковичу и его жене Ольге"
+msgstr ""
+
+# Objects : [n355703186]
+# name:be: []
+msgid "Памятник в память войны 1812 года"
+msgstr ""
+
+# Objects : [n355681888]
+# name:be: []
+msgid "Памятник в честь героев - танкистов 22-й танковой дивизии защищявщей Кобрин в первые дни войны."
+msgstr ""
+
+# Objects : [n355707897]
+# name:be: []
+msgid "Памятник освобождению Кобрина от немецко-фашистких захватчиков"
+msgstr ""
+
+# Objects : [w128109283]
+# name:be: []
+msgid "Постамент"
+msgstr ""
+
+# Objects : [n2788683584]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788683776]
+# name:be: [Прысядзібны парк пры былой сядзібе Тызенгаўзаў]
+msgid "Приусадебный парк при бывшей усадьбе Тызенгаузов"
+msgstr ""
+
+# Objects : [n355666588]
+# name:be: [Птушкафабрыка]
+msgid "Птушкофабрика"
+msgstr ""
+
+# Objects : [n2788684294]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [w128109284]
+# name:be: []
+msgid "Спортивная площадка"
+msgstr ""
+
+# Objects : [n573670767]
+# name:be: []
+msgid "Суворова"
+msgstr ""
+
+# Objects : [n564973075]
+# name:be: [Суд]
+msgid "Суд"
+msgstr ""
+
+# Objects : [r3462443]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [r3462444]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [n2489472474]
+# name:be: []
+msgid "Фактор Дизайн"
+msgstr ""
+
+# Objects : [n566674467, n587794913]
+# name:be: [Фруктовы]
+msgid "Фруктовый"
+msgstr ""
+
+# Objects : [n2788685915]
+# name:be: [Царква Евангелля хрысціян-баптыстаў]
+msgid "Церковь Евангелия христиан-баптистов"
+msgstr ""
+
+# Objects : [n2788686257]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788686300]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n2788686451]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788686725]
+# name:be: [Царква Святых апосталаў Пятра й Паўла]
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+

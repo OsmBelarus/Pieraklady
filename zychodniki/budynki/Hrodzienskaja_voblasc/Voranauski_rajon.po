@@ -1,0 +1,215 @@
+# Objects : [w228790992]
+# name:be: []
+msgid "1 завод"
+msgstr ""
+
+# Objects : [w228791160]
+# name:be: []
+msgid "2 завод"
+msgstr ""
+
+# Objects : [w211083216]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w128803890]
+# name:be: []
+msgid "АЗС19 Белоруснефть"
+msgstr ""
+
+# Objects : [w210820444, w307150355, w317913782]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w228790437]
+# name:be: []
+msgid "Весы"
+msgstr ""
+
+# Objects : [w211226145]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w210707126]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w210712032]
+# name:be: []
+msgid "Вороновский лесхоз"
+msgstr ""
+
+# Objects : [w231238922]
+# name:be: []
+msgid "Вороновское Лесничество"
+msgstr ""
+
+# Objects : [w211123605]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w210944861]
+# name:be: []
+msgid "Детсад № 1"
+msgstr ""
+
+# Objects : [w210946573, w211436749]
+# name:be: []
+msgid "Детсад № 3"
+msgstr ""
+
+# Objects : [w210946745]
+# name:be: []
+msgid "Детсад № 4"
+msgstr ""
+
+# Objects : [w210709292]
+# name:be: []
+msgid "Детская музыкальная школа"
+msgstr ""
+
+# Objects : [n1642910454]
+# name:be: []
+msgid "Дом-крепость Нонхартов"
+msgstr ""
+
+# Objects : [w210262555]
+# name:be: []
+msgid "Дом правосудия"
+msgstr ""
+
+# Objects : [w315710035]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w307150462]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w307150383]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w243535189, w312189482, w314553205, w315575589, w317507949]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w210928380]
+# name:be: []
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [w304685139]
+# name:be: []
+msgid "кухня"
+msgstr ""
+
+# Objects : [w175692641, w307150384]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w211123254]
+# name:be: []
+msgid "Магазин компьютерной техники "Окей""
+msgstr ""
+
+# Objects : [w210706918]
+# name:be: []
+msgid "Магазин № 4"
+msgstr ""
+
+# Objects : [w307155338]
+# name:be: []
+msgid "Незабудка"
+msgstr ""
+
+# Objects : [w228791219]
+# name:be: []
+msgid "Пилорама"
+msgstr ""
+
+# Objects : [w210928739]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [w210264817]
+# name:be: []
+msgid "Районный Дом культуры"
+msgstr ""
+
+# Objects : [w210709280]
+# name:be: []
+msgid "Районный исполнительный комитет"
+msgstr ""
+
+# Objects : [w210946226]
+# name:be: []
+msgid "Редакция "Вороновской газеты""
+msgstr ""
+
+# Objects : [w210707901]
+# name:be: []
+msgid "Ресторан "Сустрэча""
+msgstr ""
+
+# Objects : [w210765476]
+# name:be: []
+msgid "Санэпидемстанция"
+msgstr ""
+
+# Objects : [w307150385]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w210710506]
+# name:be: []
+msgid "Спортивная школа"
+msgstr ""
+
+# Objects : [w211083192, w222886168]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [w210756787]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w306641448]
+# name:be: []
+msgid "улица Железнодорожная"
+msgstr ""
+
+# Objects : [w210707448]
+# name:be: []
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w307150386]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w210946105]
+# name:be: []
+msgid "Хозмаг"
+msgstr ""
+
+# Objects : [w211436970]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+

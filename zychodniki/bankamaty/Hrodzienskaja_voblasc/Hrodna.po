@@ -1,0 +1,70 @@
+# Objects : [n2264638345, n320409596, n320409765]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n320409411, n320409620, n320409672, n320409889, n320409936, n332218632]
+# name:be: []
+msgid "Беларусбанк (BYR)"
+msgstr ""
+
+# Objects : [n320409623]
+# name:be: []
+msgid "Беларусбанк (USD, BYR)"
+msgstr ""
+
+# Objects : [n320409648]
+# name:be: []
+msgid "Белвнешэкономбанк (BYR)"
+msgstr ""
+
+# Objects : [n3236313709, n3279186326]
+# name:be: []
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n320409749]
+# name:be: []
+msgid "Белинвестбанк (BYR)"
+msgstr ""
+
+# Objects : [n2058941523]
+# name:be: []
+msgid "БПС-банк"
+msgstr ""
+
+# Objects : [n320409792]
+# name:be: []
+msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n320409465]
+# name:be: []
+msgid "БПС-Сбербанк (BYR)"
+msgstr ""
+
+# Objects : [n3279186327]
+# name:be: []
+msgid "Инфокиоск"
+msgstr ""
+
+# Objects : [n320409811, n3245269356]
+# name:be: []
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n320409403, n320409896]
+# name:be: []
+msgid "Приорбанк (BYR)"
+msgstr ""
+
+# Objects : [n320409799]
+# name:be: []
+msgid "СБС"
+msgstr ""
+
+# Objects : [n320409946]
+# name:be: []
+msgid "Трастбанк"
+msgstr ""
+

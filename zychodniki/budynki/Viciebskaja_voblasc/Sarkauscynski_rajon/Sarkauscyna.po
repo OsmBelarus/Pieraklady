@@ -1,0 +1,305 @@
+# Objects : [w213396758]
+# name:be: []
+msgid "ABC"
+msgstr ""
+
+# Objects : [w306377478]
+# name:be: []
+msgid "Автобаза"
+msgstr ""
+
+# Objects : [w214232487]
+# name:be: []
+msgid "Автобаза РПС"
+msgstr ""
+
+# Objects : [w200250772, w213396754]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [w213452778]
+# name:be: []
+msgid "Агроснаб"
+msgstr ""
+
+# Objects : [w218882537]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [w157500634]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w157260266]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w306375607]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [w307835329]
+# name:be: []
+msgid "Бумеранг"
+msgstr ""
+
+# Objects : [w306377553]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w31551378]
+# name:be: []
+msgid "Горгаз"
+msgstr ""
+
+# Objects : [w214701323]
+# name:be: []
+msgid "Гортоп"
+msgstr ""
+
+# Objects : [w306354037]
+# name:be: []
+msgid "Детская районная библиотека"
+msgstr ""
+
+# Objects : [w215593062]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w287814891]
+# name:be: []
+msgid "Дисконт"
+msgstr ""
+
+# Objects : [w158180473]
+# name:be: []
+msgid "ДКУСП ПМК-68"
+msgstr ""
+
+# Objects : [w213396755]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
+# Objects : [w201386140]
+# name:be: []
+msgid "ДРСУ-131"
+msgstr ""
+
+# Objects : [w158180474]
+# name:be: []
+msgid "ДСУ №26"
+msgstr ""
+
+# Objects : [w200248590]
+# name:be: []
+msgid "ЖД вокзал "Шарковщизна""
+msgstr ""
+
+# Objects : [w155141568]
+# name:be: []
+msgid "Журавинка"
+msgstr ""
+
+# Objects : [w157509864]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w158170810]
+# name:be: []
+msgid "Кинотеатр"
+msgstr ""
+
+# Objects : [w213408555]
+# name:be: []
+msgid "Комбинат кооперативной промышленности"
+msgstr ""
+
+# Objects : [w213396757]
+# name:be: []
+msgid "Компьютерная техника"
+msgstr ""
+
+# Objects : [w164449747]
+# name:be: []
+msgid "Котельная "Центральная""
+msgstr ""
+
+# Objects : [w305842866]
+# name:be: []
+msgid "Котельная ДСУ-26"
+msgstr ""
+
+# Objects : [w305842708]
+# name:be: []
+msgid "Котельная СШ№2"
+msgstr ""
+
+# Objects : [w157509865]
+# name:be: []
+msgid "Крыница"
+msgstr ""
+
+# Objects : [w215593355]
+# name:be: []
+msgid "Магазин Меркурий"
+msgstr ""
+
+# Objects : [w306375756]
+# name:be: []
+msgid "Манеж"
+msgstr ""
+
+# Objects : [w157274174]
+# name:be: []
+msgid "Меридиан"
+msgstr ""
+
+# Objects : [w158175622]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w306355486]
+# name:be: []
+msgid "Мясная лавка"
+msgstr ""
+
+# Objects : [w157856364, w159327431]
+# name:be: []
+msgid "Оазис"
+msgstr ""
+
+# Objects : [w155967604]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w155967605, w200249450]
+# name:be: []
+msgid "Орион"
+msgstr ""
+
+# Objects : [w200249451]
+# name:be: []
+msgid "Охрана"
+msgstr ""
+
+# Objects : [w158178388]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w306379231]
+# name:be: []
+msgid "ПТУП "Комплект -М""
+msgstr ""
+
+# Objects : [w157509867]
+# name:be: []
+msgid "Районный исполнительный комитет"
+msgstr ""
+
+# Objects : [w158170812]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [w216750866]
+# name:be: []
+msgid "Редакция "Клич Радзимы""
+msgstr ""
+
+# Objects : [w158175623]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w310466647]
+# name:be: []
+msgid "Родны кут №5"
+msgstr ""
+
+# Objects : [w158178389]
+# name:be: []
+msgid "РУЭС"
+msgstr ""
+
+# Objects : [w213083712]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w158175624]
+# name:be: []
+msgid "Скорая помощь"
+msgstr ""
+
+# Objects : [w215596204]
+# name:be: []
+msgid "столовая"
+msgstr ""
+
+# Objects : [w157509868]
+# name:be: []
+msgid "СУД"
+msgstr ""
+
+# Objects : [w200262970]
+# name:be: []
+msgid "Телевышка"
+msgstr ""
+
+# Objects : [w158179783]
+# name:be: []
+msgid "УЗ "Шарковщинское РТМО""
+msgstr ""
+
+# Objects : [w157509870]
+# name:be: []
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w158179787]
+# name:be: []
+msgid "Универмаг "Центральный""
+msgstr ""
+
+# Objects : [w294951371]
+# name:be: []
+msgid "У Янки"
+msgstr ""
+
+# Objects : [w213452779]
+# name:be: []
+msgid "Хлебоприемный"
+msgstr ""
+
+# Objects : [w307328519]
+# name:be: []
+msgid "Хозяйственный"
+msgstr ""
+
+# Objects : [w305842591]
+# name:be: []
+msgid "Центр внешкольной работы"
+msgstr ""
+
+# Objects : [w213409280, w213409281]
+# name:be: []
+msgid "Шарковщинский КОСЗ"
+msgstr ""
+
+# Objects : [w158170813]
+# name:be: []
+msgid "Эконом"
+msgstr ""
+

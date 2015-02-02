@@ -1,0 +1,145 @@
+# Objects : [w212651693]
+# name:be: []
+msgid "Cанаторий"
+msgstr ""
+
+# Objects : [w215246341]
+# name:be: []
+msgid "АВМ"
+msgstr ""
+
+# Objects : [w249677552]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [w213785381, w236716080, w273003319]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w213806788, w215372995]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [w304788053]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w213727519]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w249540375]
+# name:be: []
+msgid "дом операторов"
+msgstr ""
+
+# Objects : [w215250334]
+# name:be: []
+msgid "кафе"
+msgstr ""
+
+# Objects : [w215353778, w215373109]
+# name:be: []
+msgid "клуб"
+msgstr ""
+
+# Objects : [w215370014]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w267222518]
+# name:be: []
+msgid "Котельная птичника"
+msgstr ""
+
+# Objects : [w267650589]
+# name:be: []
+msgid "Котельная школы"
+msgstr ""
+
+# Objects : [w244659091]
+# name:be: []
+msgid "Котельная №12 УКП ЖКХ"
+msgstr ""
+
+# Objects : [w213362064, w213793265, w213811134, w215353788, w215372601, w276927151]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w215250336]
+# name:be: []
+msgid "Медпункт"
+msgstr ""
+
+# Objects : [w213796236]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w215250322]
+# name:be: []
+msgid "Правление колхоза "Авангард""
+msgstr ""
+
+# Objects : [w319524842]
+# name:be: []
+msgid "Профилакторий"
+msgstr ""
+
+# Objects : [w215247957, w215247958]
+# name:be: []
+msgid "Птичник"
+msgstr ""
+
+# Objects : [w215247954]
+# name:be: []
+msgid "Птични к"
+msgstr ""
+
+# Objects : [w306524016]
+# name:be: []
+msgid "Свислочская сельская врачебная амбулатория"
+msgstr ""
+
+# Objects : [w215522688]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
+# Objects : [w213808537]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w214602159]
+# name:be: []
+msgid "Стеклозавод"
+msgstr ""
+
+# Objects : [w213818683, w215372726]
+# name:be: []
+msgid "столовая"
+msgstr ""
+
+# Objects : [w215404978]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w276926576]
+# name:be: []
+msgid "Фельдшерский пункт"
+msgstr ""
+
+# Objects : [w213783701]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+

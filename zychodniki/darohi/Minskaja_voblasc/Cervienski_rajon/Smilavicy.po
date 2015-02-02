@@ -1,0 +1,70 @@
+# Objects : [w157905460]
+# name:be: []
+msgid "Автодром"
+msgstr ""
+
+# Objects : [w157905457]
+# name:be: [Грушавая вуліца]
+msgid "Грушевая улица"
+msgstr ""
+
+# Objects : [w35361598]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w127076434]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w35361563, w85651228]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w157905450]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w85651230]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w196968455]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w196968454, w31745427]
+# name:be: [вуліца Горкага]
+msgid "улица Горького"
+msgstr ""
+
+# Objects : [w146880469]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Держинского"
+msgstr ""
+
+# Objects : [w116370051]
+# name:be: [вуліца Даватара]
+msgid "улица Доватора"
+msgstr ""
+
+# Objects : [w81574179]
+# name:be: [вуліца Мядведзева]
+msgid "улица Медведева"
+msgstr ""
+
+# Objects : [w114313468]
+# name:be: [Школьны завулак]
+msgid "Школьный переулок"
+msgstr ""
+
+# Objects : [w157905463]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+

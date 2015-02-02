@@ -1,0 +1,445 @@
+# Objects : [w254271027]
+# name:be: []
+msgid "15-я зенитно-ракетная бригада"
+msgstr ""
+
+# Objects : [w23564266]
+# name:be: []
+msgid "c.т. Красный Печатник"
+msgstr ""
+
+# Objects : [n2110442017]
+# name:be: []
+msgid "Westa"
+msgstr ""
+
+# Objects : [n1941443823, w183730436]
+# name:be: []
+msgid "АВ Спортивные лошади"
+msgstr ""
+
+# Objects : [w280827823]
+# name:be: []
+msgid "Автодром"
+msgstr ""
+
+# Objects : [w107306618]
+# name:be: []
+msgid "Агрокомлекс"
+msgstr ""
+
+# Objects : [n1374640633]
+# name:be: []
+msgid "Амбар"
+msgstr ""
+
+# Objects : [w221136631]
+# name:be: [Асіна]
+msgid "Асино"
+msgstr ""
+
+# Objects : [w25188729]
+# name:be: []
+msgid "Бездонка"
+msgstr ""
+
+# Objects : [w127623370, w25130536]
+# name:be: []
+msgid "Безодница"
+msgstr ""
+
+# Objects : [n3056747233]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n3056747133]
+# name:be: []
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n1374641038]
+# name:be: [Альтанка]
+msgid "Беседка усадьбы Чапских"
+msgstr ""
+
+# Objects : [n1374639447]
+# name:be: []
+msgid "Библиотека ("Скарбец")"
+msgstr ""
+
+# Objects : [n3316837785]
+# name:be: []
+msgid "Боровики"
+msgstr ""
+
+# Objects : [n1374629508]
+# name:be: []
+msgid "Брама и сторожка (руины)"
+msgstr ""
+
+# Objects : [n1373748259]
+# name:be: []
+msgid "Ветряной электрогенератор"
+msgstr ""
+
+# Objects : [n2788679973]
+# name:be: [Вінакурня]
+msgid "Винодельня"
+msgstr ""
+
+# Objects : [n1373734638]
+# name:be: []
+msgid "Винокурня"
+msgstr ""
+
+# Objects : [n3316837786]
+# name:be: []
+msgid "Вицковщина"
+msgstr ""
+
+# Objects : [n2514396744]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [n2788680044]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n306062907]
+# name:be: []
+msgid "Глущицы"
+msgstr ""
+
+# Objects : [n1372197268]
+# name:be: []
+msgid "Гора Дзержинская (высшая точка РБ)"
+msgstr ""
+
+# Objects : [n2788680177]
+# name:be: [Гара Сьвятая (Дзяржынскага)]
+msgid "Гора Святая (Дзержинского)"
+msgstr ""
+
+# Objects : [n2766736742]
+# name:be: []
+msgid "Гостиничный комплекс Веста"
+msgstr ""
+
+# Objects : [n3316837787, w221604763, w221604764, w240048886]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
+# Objects : [w232379351]
+# name:be: []
+msgid "Дачи, с/т Бережа"
+msgstr ""
+
+# Objects : [w230366129]
+# name:be: []
+msgid "Дачи, с/т Василёк"
+msgstr ""
+
+# Objects : [w232379352]
+# name:be: []
+msgid "Дачи, с/т Надежда Инв"
+msgstr ""
+
+# Objects : [w221725678]
+# name:be: []
+msgid "Дачи, с/т Пятигорье"
+msgstr ""
+
+# Objects : [w244580679]
+# name:be: []
+msgid "Дзержинская городская свалка бытовых отходов"
+msgstr ""
+
+# Objects : [n306063130]
+# name:be: []
+msgid "Добринево"
+msgstr ""
+
+# Objects : [n1373735312]
+# name:be: []
+msgid "Дом для рабочих"
+msgstr ""
+
+# Objects : [n1374635099]
+# name:be: []
+msgid "Дом жилой"
+msgstr ""
+
+# Objects : [n1729287727, n1729287731, n1729287736, n1729287739]
+# name:be: []
+msgid "ДОТ"
+msgstr ""
+
+# Objects : [w312715806]
+# name:be: []
+msgid "Загон"
+msgstr ""
+
+# Objects : [w228385365]
+# name:be: []
+msgid "Зоосад"
+msgstr ""
+
+# Objects : [n2788681374]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2766728111]
+# name:be: []
+msgid "Ковальцы"
+msgstr ""
+
+# Objects : [n2514396758, n2514396759]
+# name:be: []
+msgid "Колодец"
+msgstr ""
+
+# Objects : [n1885007649]
+# name:be: []
+msgid "Колонка"
+msgstr ""
+
+# Objects : [n1373736680, n1374630668]
+# name:be: []
+msgid "Конюшня"
+msgstr ""
+
+# Objects : [n2788682383]
+# name:be: [Касцёл]
+msgid "Костел"
+msgstr ""
+
+# Objects : [w312644700]
+# name:be: []
+msgid "КСК Аргамак"
+msgstr ""
+
+# Objects : [n1374628904]
+# name:be: []
+msgid "Кузница"
+msgstr ""
+
+# Objects : [w136175474]
+# name:be: []
+msgid "Мотор"
+msgstr ""
+
+# Objects : [w324348421]
+# name:be: []
+msgid "мтф "Павелково""
+msgstr ""
+
+# Objects : [w292734682]
+# name:be: []
+msgid "Новатор Сад"
+msgstr ""
+
+# Objects : [n1374691808]
+# name:be: []
+msgid "Оборонительное сооружение 1930-х гг."
+msgstr ""
+
+# Objects : [w127623305]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [n2619559640]
+# name:be: []
+msgid "Памятник им. Марата Казея"
+msgstr ""
+
+# Objects : [w178125667]
+# name:be: []
+msgid "Парк активного отдыха "Якутские горы""
+msgstr ""
+
+# Objects : [n3140043249]
+# name:be: []
+msgid "Парк Приключений Крутогорье"
+msgstr ""
+
+# Objects : [w222313943]
+# name:be: []
+msgid "Парники"
+msgstr ""
+
+# Objects : [w301963432]
+# name:be: []
+msgid "плембаза "Фаниполь""
+msgstr ""
+
+# Objects : [n3316837789, n3316837792, n3316899409]
+# name:be: []
+msgid "Победное"
+msgstr ""
+
+# Objects : [w175022456, w240045499, w279531288]
+# name:be: []
+msgid "Пожарный водоем"
+msgstr ""
+
+# Objects : [w244276176]
+# name:be: []
+msgid "Пожарный водоём"
+msgstr ""
+
+# Objects : [n2788683699]
+# name:be: [Прысядзібны парк пры былой сядзібе Капылінскіх]
+msgid "Приусадебный парк при бывшей усадьбе Капылинских"
+msgstr ""
+
+# Objects : [n2788683714]
+# name:be: [Прысядзібны парк пры былой сядзібе Ленскіх]
+msgid "Приусадебный парк при бывшей усадьбе Ленских"
+msgstr ""
+
+# Objects : [w178006609]
+# name:be: []
+msgid "Республиканская туберкулезная больница "Волковичи""
+msgstr ""
+
+# Objects : [n2887459898]
+# name:be: [РТПС Ярошаўка]
+msgid "РТПС Ярошевка"
+msgstr ""
+
+# Objects : [n275339320]
+# name:be: []
+msgid "Рубилки"
+msgstr ""
+
+# Objects : [w276256009]
+# name:be: []
+msgid "с/т Керамин"
+msgstr ""
+
+# Objects : [w315258817]
+# name:be: []
+msgid "с/т Птичь-2"
+msgstr ""
+
+# Objects : [w284423304]
+# name:be: []
+msgid "С/т Ракета"
+msgstr ""
+
+# Objects : [w192487755]
+# name:be: []
+msgid "Садоводческое товарищество "Антосино""
+msgstr ""
+
+# Objects : [n2766722486]
+# name:be: []
+msgid "Санаторий Веста"
+msgstr ""
+
+# Objects : [w279538855]
+# name:be: []
+msgid "Свиноферма"
+msgstr ""
+
+# Objects : [n306062873]
+# name:be: []
+msgid "Станьково"
+msgstr ""
+
+# Objects : [w25188293]
+# name:be: []
+msgid "Старые очистные сооружения"
+msgstr ""
+
+# Objects : [n988017446]
+# name:be: []
+msgid "Стоянка правления колхоза "Октябрьская революция""
+msgstr ""
+
+# Objects : [n1729275403]
+# name:be: []
+msgid "Страж леса"
+msgstr ""
+
+# Objects : [n2968484774]
+# name:be: []
+msgid "Томковичи"
+msgstr ""
+
+# Objects : [n2788684426]
+# name:be: [Сядзібна-паркавы комплекс Ваньковічаў]
+msgid "Усадебно-парковый комплекс Ваньковичей"
+msgstr ""
+
+# Objects : [n2788684513]
+# name:be: [Сядзібна-паркавы комплекс Пашкевічаў]
+msgid "Усадебно-парковый комплекс Пашкевичей"
+msgstr ""
+
+# Objects : [n2788684569]
+# name:be: [Сядзібна-паркавы комплекс Чапскіх]
+msgid "Усадебно-парковый комплекс Чапских"
+msgstr ""
+
+# Objects : [n1373735712, n1373787310, n1374538371]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [n2788684715]
+# name:be: [Сядзіба Кастравіцкіх]
+msgid "Усадьба Костровицких"
+msgstr ""
+
+# Objects : [n2788685076]
+# name:be: [Капліца-пахавальня Дыбоўскіх]
+msgid "Усыпальница Дыбовских"
+msgstr ""
+
+# Objects : [w279531289]
+# name:be: []
+msgid "Участок продается"
+msgstr ""
+
+# Objects : [w305951208]
+# name:be: []
+msgid "Фермер"
+msgstr ""
+
+# Objects : [n1374640550]
+# name:be: []
+msgid "Флигель"
+msgstr ""
+
+# Objects : [n2788685172]
+# name:be: [Фальварак Чапскіх]
+msgid "Фольварк Чапских"
+msgstr ""
+
+# Objects : [w274807029]
+# name:be: []
+msgid "Хуторянка"
+msgstr ""
+
+# Objects : [n2788686236]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686494]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2936556707, w25131737]
+# name:be: [Шыталеўшчына]
+msgid "Шитолевщина"
+msgstr ""
+

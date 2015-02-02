@@ -1,0 +1,75 @@
+# Objects : [n1906525424, n1906525426]
+# name:be: []
+msgid "Автопарк №12"
+msgstr ""
+
+# Objects : [n1906523345, n1906523351]
+# name:be: []
+msgid "Автопровод"
+msgstr ""
+
+# Objects : [n1915500912]
+# name:be: []
+msgid "больница"
+msgstr ""
+
+# Objects : [n1906525423, n1906525425]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [n2563421407, n2563421409]
+# name:be: []
+msgid "Маслосырзавод"
+msgstr ""
+
+# Objects : [n2563387236, n2563387938]
+# name:be: []
+msgid "Орджоникидзе"
+msgstr ""
+
+# Objects : [n1906522550, n1906522551]
+# name:be: []
+msgid "площадь Свободы"
+msgstr ""
+
+# Objects : [n1906522515, n1906522516]
+# name:be: []
+msgid "СШ №1"
+msgstr ""
+
+# Objects : [n1906523342, n1906523348]
+# name:be: []
+msgid "СШ №2"
+msgstr ""
+
+# Objects : [n1906522517, n1906522518]
+# name:be: []
+msgid "улица Западная"
+msgstr ""
+
+# Objects : [n2563388836, n2563388957]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [n1906527811, n1906527812]
+# name:be: []
+msgid "Универсам"
+msgstr ""
+
+# Objects : [n2563420698]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n2563421094]
+# name:be: []
+msgid "Хозмаг"
+msgstr ""
+
+# Objects : [n2563430516, n3097410202]
+# name:be: []
+msgid "Школа №3"
+msgstr ""
+

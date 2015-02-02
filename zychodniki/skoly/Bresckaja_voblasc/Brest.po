@@ -1,0 +1,380 @@
+# Objects : [n306062390]
+# name:be: []
+msgid "Балетная Школа"
+msgstr ""
+
+# Objects : [n306063028]
+# name:be: [Бізнэс-каледж]
+msgid "Бизнес-колледж"
+msgstr ""
+
+# Objects : [n306063082]
+# name:be: [Педагагічны універсітэт]
+msgid "Брестский государственный университет (ст.корп)"
+msgstr ""
+
+# Objects : [n306062326]
+# name:be: [Брэсцкі каледж прыборабудавання]
+msgid "Брестский колледж приборостроения"
+msgstr ""
+
+# Objects : [n979265428]
+# name:be: [Брэсцкі ПТК сферы абслугоўвання]
+msgid "Брестский ПТК сферы обслуживания"
+msgstr ""
+
+# Objects : [n306064277]
+# name:be: [Брэсцкае ДПТУ № 65]
+msgid "Брестское ГПТУ № 65"
+msgstr ""
+
+# Objects : [n979234799]
+# name:be: [Брэсцкае абласное ВАР]
+msgid "Брестское областное УОР"
+msgstr ""
+
+# Objects : [n306063079]
+# name:be: [Вячэрняя школа]
+msgid "Вечерняя школа"
+msgstr ""
+
+# Objects : [n306063064]
+# name:be: []
+msgid "Воскресная школа"
+msgstr ""
+
+# Objects : [n306068043]
+# name:be: [Гімназія №2]
+msgid "Гимназия №2"
+msgstr ""
+
+# Objects : [w58202176]
+# name:be: [Музычная гімназія №4]
+msgid "Гимназия №4"
+msgstr ""
+
+# Objects : [n1375740700]
+# name:be: [Гімназія №5]
+msgid "Гимназия №5"
+msgstr ""
+
+# Objects : [n306062103]
+# name:be: [Гімназія №6]
+msgid "Гимназия №6"
+msgstr ""
+
+# Objects : [n306068157]
+# name:be: []
+msgid "Д/С 39"
+msgstr ""
+
+# Objects : [n306068231]
+# name:be: []
+msgid "Д/С №2"
+msgstr ""
+
+# Objects : [n306068050]
+# name:be: []
+msgid "Д/С №41"
+msgstr ""
+
+# Objects : [n306068048]
+# name:be: []
+msgid "Д/С №5"
+msgstr ""
+
+# Objects : [n306068217]
+# name:be: []
+msgid "Д/С №55"
+msgstr ""
+
+# Objects : [n306068211]
+# name:be: []
+msgid "Д/С №57"
+msgstr ""
+
+# Objects : [n306068208]
+# name:be: []
+msgid "Д/С №63"
+msgstr ""
+
+# Objects : [w85762580]
+# name:be: []
+msgid "Д/С №69"
+msgstr ""
+
+# Objects : [n306063015]
+# name:be: []
+msgid "Д.Сад №16 'Сонейка'"
+msgstr ""
+
+# Objects : [n306063272]
+# name:be: []
+msgid "Дет. cад №10"
+msgstr ""
+
+# Objects : [n306062988]
+# name:be: []
+msgid "Дет. cад №12"
+msgstr ""
+
+# Objects : [n306062386]
+# name:be: []
+msgid "Дет. cад №13"
+msgstr ""
+
+# Objects : [n306063086]
+# name:be: []
+msgid "Дет. cад №31"
+msgstr ""
+
+# Objects : [n306062262, n306063037]
+# name:be: []
+msgid "Дет. сад. №"
+msgstr ""
+
+# Objects : [n306068040]
+# name:be: []
+msgid "Дет. сад. №49"
+msgstr ""
+
+# Objects : [n306063268]
+# name:be: []
+msgid "Дет. сад. №65"
+msgstr ""
+
+# Objects : [n306062444]
+# name:be: []
+msgid "Дет. сад. №7"
+msgstr ""
+
+# Objects : [n306062187]
+# name:be: []
+msgid "Дет. сад. №81"
+msgstr ""
+
+# Objects : [n306064275]
+# name:be: [Дзіцячы сад №46]
+msgid "Детский сад №46"
+msgstr ""
+
+# Objects : [n979279076]
+# name:be: [ДЮСШ па грэблевым відам спорту]
+msgid "ДЮСШ по гребным видам спорта"
+msgstr ""
+
+# Objects : [n306062439]
+# name:be: []
+msgid "ЖД колледж"
+msgstr ""
+
+# Objects : [n306062440]
+# name:be: []
+msgid "ЖД училище"
+msgstr ""
+
+# Objects : [n306062323]
+# name:be: []
+msgid "Интернат"
+msgstr ""
+
+# Objects : [n306069239]
+# name:be: [Ліцэй №1 імя А.С.Пушкіна]
+msgid "Лицей №1 имени А.С. Пушкина"
+msgstr ""
+
+# Objects : [n306069094]
+# name:be: [Медыцынскі каледж]
+msgid "Медицинский колледж"
+msgstr ""
+
+# Objects : [w58413760]
+# name:be: []
+msgid "Межшкольный учебно-производственный комбинат трудового обучения и профессиональной ориентации учащихся"
+msgstr ""
+
+# Objects : [n306062185]
+# name:be: [Музычная школа]
+msgid "Музыкальная школа"
+msgstr ""
+
+# Objects : [n306069244]
+# name:be: [Пачатковая школа №36]
+msgid "Начальная школа №36"
+msgstr ""
+
+# Objects : [n306068044]
+# name:be: []
+msgid "НШ №34"
+msgstr ""
+
+# Objects : [n306062435]
+# name:be: []
+msgid "Социальный Приют"
+msgstr ""
+
+# Objects : [n306062389]
+# name:be: [Сярэдняя школа №19]
+msgid "Средня школа №19"
+msgstr ""
+
+# Objects : [n306062339]
+# name:be: [Сярэдняя школа №22]
+msgid "Средня школа №22"
+msgstr ""
+
+# Objects : [n306062381]
+# name:be: [Сярэдняя школа №3]
+msgid "Средня школа №3"
+msgstr ""
+
+# Objects : [n306062264]
+# name:be: [Сярэдняя школа №22]
+msgid "Средня школа №31"
+msgstr ""
+
+# Objects : [n306062385]
+# name:be: [Сярэдняя школа №6]
+msgid "Средня школа №6"
+msgstr ""
+
+# Objects : [n1015719358]
+# name:be: [Сярэдняя школа №12]
+msgid "Средняя школа №12"
+msgstr ""
+
+# Objects : [n842068882]
+# name:be: [Сярэдняя школа №13]
+msgid "Средняя школа №13"
+msgstr ""
+
+# Objects : [n1001741741]
+# name:be: [Сярэдняя школа №14]
+msgid "Средняя школа №14"
+msgstr ""
+
+# Objects : [n840563722]
+# name:be: [Сярэдняя школа №15]
+msgid "Средняя школа №15"
+msgstr ""
+
+# Objects : [n1165174826]
+# name:be: [Сярэдняя школа №16]
+msgid "Средняя школа №16"
+msgstr ""
+
+# Objects : [n1167979820]
+# name:be: [Сярэдняя школа №17]
+msgid "Средняя школа №17"
+msgstr ""
+
+# Objects : [n306062378]
+# name:be: [Сярэдняя школа №20]
+msgid "Средняя школа №20"
+msgstr ""
+
+# Objects : [r967152]
+# name:be: [Сярэдняя школа №25]
+msgid "Средняя школа №25"
+msgstr ""
+
+# Objects : [n306064271]
+# name:be: [Сярэдняя школа №27]
+msgid "Средняя школа №27"
+msgstr ""
+
+# Objects : [w96941536]
+# name:be: []
+msgid "Средняя школа № 30 имени Д.Б. Гвишиани г. Бреста"
+msgstr ""
+
+# Objects : [n1195353914]
+# name:be: [Сярэдняя школа №33]
+msgid "Средняя школа №33"
+msgstr ""
+
+# Objects : [w69476352]
+# name:be: []
+msgid "Средняя школа № 35 г. Бреста"
+msgstr ""
+
+# Objects : [n1001741716]
+# name:be: [Сярэдняя школа №37]
+msgid "Средняя школа №37"
+msgstr ""
+
+# Objects : [w60171462]
+# name:be: [Сярэдняя школа №7 г.Брэста]
+msgid "Средняя школа №7 г.Бреста"
+msgstr ""
+
+# Objects : [n2627414474]
+# name:be: []
+msgid "Стадион Гимназии"
+msgstr ""
+
+# Objects : [n306063019]
+# name:be: [Будаўнічы тэхнікум]
+msgid "Строительный техникум"
+msgstr ""
+
+# Objects : [n2957609697]
+# name:be: []
+msgid "Учебный центр"
+msgstr ""
+
+# Objects : [w102279405]
+# name:be: [Школа №10]
+msgid "Школа №10"
+msgstr ""
+
+# Objects : [n306063250]
+# name:be: [Школа №18]
+msgid "Школа №18"
+msgstr ""
+
+# Objects : [n1202474430]
+# name:be: [Школа №23]
+msgid "Школа №23"
+msgstr ""
+
+# Objects : [n306068214]
+# name:be: []
+msgid "Школа №24"
+msgstr ""
+
+# Objects : [n306069040]
+# name:be: []
+msgid "Школа №26"
+msgstr ""
+
+# Objects : [n306069054]
+# name:be: [Школа №28]
+msgid "Школа №28"
+msgstr ""
+
+# Objects : [n306068205]
+# name:be: []
+msgid "Школа № 29"
+msgstr ""
+
+# Objects : [n306064300]
+# name:be: [Школа №5]
+msgid "Школа №5"
+msgstr ""
+
+# Objects : [n306062337]
+# name:be: [Яслі-сад №30]
+msgid "Ясли-сад №30"
+msgstr ""
+
+# Objects : [n306064276]
+# name:be: [Яслі-сад №50]
+msgid "Ясли-сад №50"
+msgstr ""
+
+# Objects : [n306062382]
+# name:be: [Яслі-сад №53]
+msgid "Ясли-сад №53"
+msgstr ""
+

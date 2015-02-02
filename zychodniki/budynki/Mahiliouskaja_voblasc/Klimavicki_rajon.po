@@ -1,0 +1,100 @@
+# Objects : [w205469918]
+# name:be: []
+msgid "БАНЯ"
+msgstr ""
+
+# Objects : [w210707123]
+# name:be: []
+msgid "ГАРАЖЫ"
+msgstr ""
+
+# Objects : [w206103582]
+# name:be: []
+msgid "ДЕТ ДОМ"
+msgstr ""
+
+# Objects : [w205466881]
+# name:be: []
+msgid "Дом КУЛЬТУРЫ"
+msgstr ""
+
+# Objects : [w209340067]
+# name:be: []
+msgid "КАФЕ"
+msgstr ""
+
+# Objects : [w235422384]
+# name:be: []
+msgid "КЗС д.Родня"
+msgstr ""
+
+# Objects : [w253565477]
+# name:be: []
+msgid "КЗС п.Тимоново"
+msgstr ""
+
+# Objects : [w210708044]
+# name:be: []
+msgid "Киоск"
+msgstr ""
+
+# Objects : [w229654582]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w205466883]
+# name:be: []
+msgid "КОНТОРА"
+msgstr ""
+
+# Objects : [w253566273]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w229142682]
+# name:be: []
+msgid "КОТЕЛЬНАЯ ЖКХ"
+msgstr ""
+
+# Objects : [w251338736]
+# name:be: []
+msgid "Котельная Спир завода"
+msgstr ""
+
+# Objects : [w205463577, w205463578, w205463579, w205463581, w269121125]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w206093470, w209340068, w209340069, w210708043, w240942945]
+# name:be: []
+msgid "МАГАЗИН"
+msgstr ""
+
+# Objects : [w205617268, w252237248, w267650411]
+# name:be: []
+msgid "Сарай"
+msgstr ""
+
+# Objects : [w206083533, w210920902, w226381080]
+# name:be: []
+msgid "САРАЙ"
+msgstr ""
+
+# Objects : [w135284872]
+# name:be: []
+msgid "Свино-кладбище"
+msgstr ""
+
+# Objects : [w229653501]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w205463582]
+# name:be: []
+msgid "Хлеб"
+msgstr ""
+

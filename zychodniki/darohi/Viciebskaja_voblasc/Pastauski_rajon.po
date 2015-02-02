@@ -1,0 +1,115 @@
+# Objects : [w178330492]
+# name:be: []
+msgid "Švenčionys — Adutiškis"
+msgstr ""
+
+# Objects : [w203477213, w217631742]
+# name:be: []
+msgid "Альфреда Ромера ул."
+msgstr ""
+
+# Objects : [w176555968, w204119117]
+# name:be: [Баравая вуліца]
+msgid "Боровая улица"
+msgstr ""
+
+# Objects : [w25276259]
+# name:be: []
+msgid "Воропаевская улица"
+msgstr ""
+
+# Objects : [w102844071]
+# name:be: []
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [w246516724, w37994311]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w204119122]
+# name:be: [Ламіжынская вуліца]
+msgid "Ломиженская улица"
+msgstr ""
+
+# Objects : [w300906594]
+# name:be: []
+msgid "Лукашово-Симоны"
+msgstr ""
+
+# Objects : [w102203657, w102203686, w201229675, w203708249, w203708250, w248515715, w264097584, w264097586, w264097592, w264097595, w97869871]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w176555999]
+# name:be: []
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w132022011, w132022115, w176555979, w204114797, w204114798, w97696344]
+# name:be: [Наберажная вулица]
+msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w102203661, w102203718, w102203737]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w132022116]
+# name:be: []
+msgid "Песочная улица"
+msgstr ""
+
+# Objects : [w201258934]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w102203667, w102203731, w102203796, w204249548, w97696351]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w102203801, w204770374]
+# name:be: []
+msgid "Старая улица"
+msgstr ""
+
+# Objects : [w97869864, w97869876]
+# name:be: []
+msgid "улица 40 лет Победы"
+msgstr ""
+
+# Objects : [w203477219, w44540051]
+# name:be: []
+msgid "улица 60 лет Октября"
+msgstr ""
+
+# Objects : [w97869869]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w318868800]
+# name:be: [вуліца Кляро]
+msgid "улица Кляро"
+msgstr ""
+
+# Objects : [w180008326, w204114799, w204114800, w204119114, w204249546, w204348862]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w128839042, w203556967, w203556968, w203708248, w248776368]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w203477215]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+

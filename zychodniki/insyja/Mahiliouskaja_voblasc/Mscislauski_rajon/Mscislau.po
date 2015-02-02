@@ -1,0 +1,195 @@
+# Objects : [w277252476]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w220313819]
+# name:be: []
+msgid "База МПМК 271"
+msgstr ""
+
+# Objects : [w236168403]
+# name:be: []
+msgid "База РАЙПО"
+msgstr ""
+
+# Objects : [w207464166]
+# name:be: []
+msgid "гаражный кооператив"
+msgstr ""
+
+# Objects : [n2788680183]
+# name:be: [Гарадзішча «Замкавая Гара»]
+msgid "Городище «Замковая Гора»"
+msgstr ""
+
+# Objects : [n2908882865, w287258885]
+# name:be: []
+msgid "Детская площадка"
+msgstr ""
+
+# Objects : [n2035325116]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w211406126]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w207541827]
+# name:be: []
+msgid "ДЭУ 79"
+msgstr ""
+
+# Objects : [w236168404]
+# name:be: []
+msgid "Жилкомхоз"
+msgstr ""
+
+# Objects : [w160972582]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n2788681818, r3658962]
+# name:be: [Касцёл Найсвяцейшай Панны Марыі]
+msgid "Костел Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n2788681897]
+# name:be: [Касцёл Святога Міхала Арханёла і кляштар езуітаў]
+msgid "Костел Святого Архангела Михаила и кляштор иезуитов"
+msgstr ""
+
+# Objects : [w220334448]
+# name:be: []
+msgid "котельная ЖКХ"
+msgstr ""
+
+# Objects : [w230075938]
+# name:be: []
+msgid "Лыжная база"
+msgstr ""
+
+# Objects : [w210218237, w212311819]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w243911296]
+# name:be: []
+msgid "МАСЛОСЫРЗАВОД"
+msgstr ""
+
+# Objects : [w220313822]
+# name:be: []
+msgid "Мех. двор Водоканал"
+msgstr ""
+
+# Objects : [w220313820]
+# name:be: []
+msgid "Мех двор ДСУ"
+msgstr ""
+
+# Objects : [n2035273014]
+# name:be: []
+msgid "Мстиславль"
+msgstr ""
+
+# Objects : [n2035416361]
+# name:be: []
+msgid "Мстиславльская районная больница"
+msgstr ""
+
+# Objects : [w208658269]
+# name:be: []
+msgid "Мстиславский РГС"
+msgstr ""
+
+# Objects : [w233223799]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w208687294, w208687295, w242472293, w242472294]
+# name:be: []
+msgid "оборок"
+msgstr ""
+
+# Objects : [w270158074]
+# name:be: []
+msgid "Огни Сибири"
+msgstr ""
+
+# Objects : [w277252477]
+# name:be: []
+msgid "Пицерия"
+msgstr ""
+
+# Objects : [n2891433037]
+# name:be: []
+msgid "РИК"
+msgstr ""
+
+# Objects : [n2908893621]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w193001169]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w75662028]
+# name:be: []
+msgid "Святое"
+msgstr ""
+
+# Objects : [w208376905]
+# name:be: []
+msgid "Собор во имя Св. Благоверного Кн. Александра Невского"
+msgstr ""
+
+# Objects : [w239393130]
+# name:be: []
+msgid "спец комендатура"
+msgstr ""
+
+# Objects : [w220334370]
+# name:be: []
+msgid "Теле вышка"
+msgstr ""
+
+# Objects : [n2788684396]
+# name:be: [Гандлёвыя рады]
+msgid "Торговые ряды"
+msgstr ""
+
+# Objects : [w211406088]
+# name:be: []
+msgid "УКПП "Проект""
+msgstr ""
+
+# Objects : [n2788686146]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n2788686267]
+# name:be: [Царква Святога Аляксандра Неўскага]
+msgid "Церковь Св. Александра Невского"
+msgstr ""
+
+# Objects : [n2788686652]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [w233223801]
+# name:be: []
+msgid "ЦРБ"
+msgstr ""
+

@@ -1,0 +1,125 @@
+# Objects : [w208391673]
+# name:be: []
+msgid "Автобаза № 15"
+msgstr ""
+
+# Objects : [w208403340]
+# name:be: []
+msgid "В/Ч 7404"
+msgstr ""
+
+# Objects : [n2186974795]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [n1374521375]
+# name:be: []
+msgid "Городище "Гаштольдова гора" (археол.)"
+msgstr ""
+
+# Objects : [n2766736554]
+# name:be: []
+msgid "Гостиница Дзержинск"
+msgstr ""
+
+# Objects : [w208406224]
+# name:be: []
+msgid "Дзержинский опытный механический завод"
+msgstr ""
+
+# Objects : [n2186917343]
+# name:be: []
+msgid "Дзержинский РОВД"
+msgstr ""
+
+# Objects : [w208229978]
+# name:be: []
+msgid "Дзержинский экспериментально-механический завод"
+msgstr ""
+
+# Objects : [n1111706175]
+# name:be: []
+msgid "Дот"
+msgstr ""
+
+# Objects : [n2788680403]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n2186966412]
+# name:be: []
+msgid "Исполком"
+msgstr ""
+
+# Objects : [n2706005379]
+# name:be: [Койданава]
+msgid "Койданово"
+msgstr ""
+
+# Objects : [n2788682165]
+# name:be: [Касцёл Святой Ганны]
+msgid "Костел Святой Анны"
+msgstr ""
+
+# Objects : [w208230341]
+# name:be: []
+msgid "ОАО «Амкодор-Дзержинск»"
+msgstr ""
+
+# Objects : [w281924949]
+# name:be: []
+msgid "ОДО Призма"
+msgstr ""
+
+# Objects : [w317755951]
+# name:be: []
+msgid "Производство"
+msgstr ""
+
+# Objects : [w208229699]
+# name:be: []
+msgid "Промышленная застройка"
+msgstr ""
+
+# Objects : [w275761430]
+# name:be: []
+msgid "Рембаза"
+msgstr ""
+
+# Objects : [w238904751, w275158343]
+# name:be: []
+msgid "Родники"
+msgstr ""
+
+# Objects : [n2186949945]
+# name:be: []
+msgid "РОЧС"
+msgstr ""
+
+# Objects : [w208239632]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w208401330]
+# name:be: []
+msgid "Тройка"
+msgstr ""
+
+# Objects : [n2186930177]
+# name:be: []
+msgid "Центральная больница"
+msgstr ""
+
+# Objects : [n2788686051]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w208545208]
+# name:be: []
+msgid "Элиз"
+msgstr ""
+

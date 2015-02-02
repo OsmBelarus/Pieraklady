@@ -1,0 +1,50 @@
+# Objects : [w25263260]
+# name:be: []
+msgid "Козловского"
+msgstr ""
+
+# Objects : [w112242294]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w129373059]
+# name:be: [Маісееўшчына—Багданава]
+msgid "Моисеевщина-Богданово"
+msgstr ""
+
+# Objects : [w61156136, w61161058]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w25259996]
+# name:be: [Рабочая вуліца]
+msgid "Рабочая улица"
+msgstr ""
+
+# Objects : [w70192845, w70192849]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w61108934, w61108938]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w61156717]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w86480553]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [w61108936, w79500971]
+# name:be: [вуліца Мічурына]
+msgid "улица Мичурина"
+msgstr ""
+

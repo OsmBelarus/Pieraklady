@@ -1,0 +1,40 @@
+# Objects : [n1722592328]
+# name:be: []
+msgid "Верасок"
+msgstr ""
+
+# Objects : [n3280526444]
+# name:be: []
+msgid "Дачный маг."
+msgstr ""
+
+# Objects : [n1256445517]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [n1668875296, n2246351831]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n1299481424]
+# name:be: []
+msgid "МАГАЗИН"
+msgstr ""
+
+# Objects : [n1139059045, n1722592329]
+# name:be: []
+msgid "Сельмаг"
+msgstr ""
+
+# Objects : [n1379310705, n1446838391]
+# name:be: [СТА]
+msgid "СТО"
+msgstr ""
+
+# Objects : [n1256448413]
+# name:be: []
+msgid "столовая буфет"
+msgstr ""
+

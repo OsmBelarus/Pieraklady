@@ -1,0 +1,155 @@
+# Objects : [w139751191]
+# name:be: []
+msgid "7 Вечеров"
+msgstr ""
+
+# Objects : [w256490757]
+# name:be: []
+msgid "Административное здание"
+msgstr ""
+
+# Objects : [w127708137]
+# name:be: [Адміністрацыя]
+msgid "Администрация"
+msgstr ""
+
+# Objects : [w140101339]
+# name:be: []
+msgid "Брама"
+msgstr ""
+
+# Objects : [w314364825]
+# name:be: []
+msgid "Визит"
+msgstr ""
+
+# Objects : [w139751190, w140136088]
+# name:be: []
+msgid "Дукора"
+msgstr ""
+
+# Objects : [w256461336]
+# name:be: []
+msgid "Жилое здание"
+msgstr ""
+
+# Objects : [w139751192, w234331757]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w140101331]
+# name:be: []
+msgid "Конюшни"
+msgstr ""
+
+# Objects : [w127708133, w234331733]
+# name:be: []
+msgid "Конюшня"
+msgstr ""
+
+# Objects : [w234331729, w234331730, w234331736, w234331737]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
+# Objects : [w234331732]
+# name:be: []
+msgid "Кузня"
+msgstr ""
+
+# Objects : [w142161729]
+# name:be: []
+msgid "Магадан-Бай"
+msgstr ""
+
+# Objects : [w256489592, w256490327]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w256490701]
+# name:be: []
+msgid "Магазин, Административное здание"
+msgstr ""
+
+# Objects : [w97724667]
+# name:be: []
+msgid "Марьиногорский аграрно-технический колледж"
+msgstr ""
+
+# Objects : [w129705927]
+# name:be: []
+msgid "музей"
+msgstr ""
+
+# Objects : [w233996559]
+# name:be: []
+msgid "Насосная"
+msgstr ""
+
+# Objects : [w156343897]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w215601103]
+# name:be: []
+msgid "Продуктовый магазин"
+msgstr ""
+
+# Objects : [w303192431]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w170628503]
+# name:be: []
+msgid "Пуховичское лесничество"
+msgstr ""
+
+# Objects : [w103260787, w139751185]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w140106409]
+# name:be: []
+msgid "Руины"
+msgstr ""
+
+# Objects : [w234331735]
+# name:be: []
+msgid "Сеновал"
+msgstr ""
+
+# Objects : [w127708132]
+# name:be: []
+msgid "Стол Заказов"
+msgstr ""
+
+# Objects : [w127708130]
+# name:be: []
+msgid "Сыроварня"
+msgstr ""
+
+# Objects : [w303190911]
+# name:be: []
+msgid "Талька"
+msgstr ""
+
+# Objects : [w127708127, w175896744, w175896745]
+# name:be: [Ферма]
+msgid "Ферма"
+msgstr ""
+
+# Objects : [w140825796]
+# name:be: []
+msgid "Флигель"
+msgstr ""
+
+# Objects : [w128546755]
+# name:be: []
+msgid "Церковь Свято-Троицкая"
+msgstr ""
+

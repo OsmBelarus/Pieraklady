@@ -1,0 +1,100 @@
+# Objects : [n2510858134]
+# name:be: []
+msgid "Альянс"
+msgstr ""
+
+# Objects : [n2491363576]
+# name:be: []
+msgid "Вектор"
+msgstr ""
+
+# Objects : [n2445115069]
+# name:be: []
+msgid "Вереск"
+msgstr ""
+
+# Objects : [n2444389436]
+# name:be: []
+msgid "Ганна"
+msgstr ""
+
+# Objects : [n2491363759]
+# name:be: []
+msgid "Каравай"
+msgstr ""
+
+# Objects : [n2491363666]
+# name:be: []
+msgid "Колос"
+msgstr ""
+
+# Objects : [n2463399896]
+# name:be: []
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n2444392345, n3208243739]
+# name:be: []
+msgid "Лана"
+msgstr ""
+
+# Objects : [n3208240143]
+# name:be: []
+msgid "Мегастеп"
+msgstr ""
+
+# Objects : [n2463405979]
+# name:be: []
+msgid "МТС"
+msgstr ""
+
+# Objects : [n2460226940]
+# name:be: []
+msgid "Наш дом"
+msgstr ""
+
+# Objects : [n2463400376]
+# name:be: []
+msgid "Обувь"
+msgstr ""
+
+# Objects : [n2444393350]
+# name:be: []
+msgid "Промтовары"
+msgstr ""
+
+# Objects : [n2463395390]
+# name:be: []
+msgid "Радуга"
+msgstr ""
+
+# Objects : [n2464212317]
+# name:be: []
+msgid "Рубин"
+msgstr ""
+
+# Objects : [n3214158167]
+# name:be: []
+msgid "Солярий"
+msgstr ""
+
+# Objects : [n2463395389]
+# name:be: []
+msgid "Строймастер"
+msgstr ""
+
+# Objects : [n2444393351]
+# name:be: []
+msgid "Техносеть"
+msgstr ""
+
+# Objects : [n3208241981]
+# name:be: []
+msgid "Чистюля"
+msgstr ""
+
+# Objects : [n2444389439]
+# name:be: []
+msgid "Шанс"
+msgstr ""
+

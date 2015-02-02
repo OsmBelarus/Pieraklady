@@ -1,0 +1,150 @@
+# Objects : [w301619171]
+# name:be: []
+msgid "КЛЯШТОРНОГО"
+msgstr ""
+
+# Objects : [w102186858]
+# name:be: []
+msgid "Ленинградская улица"
+msgstr ""
+
+# Objects : [w242465434]
+# name:be: [Лепельская вуліца]
+msgid "Лепельская улица"
+msgstr ""
+
+# Objects : [w242465433]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w242465431]
+# name:be: []
+msgid "Лесной переулок"
+msgstr ""
+
+# Objects : [w199623254]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w301229085]
+# name:be: []
+msgid "МИРА"
+msgstr ""
+
+# Objects : [w313341417]
+# name:be: []
+msgid "Молодежная улица"
+msgstr ""
+
+# Objects : [w127285171, w199623266]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w102835038, w282193194]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w300253901]
+# name:be: []
+msgid "ПАРКОВАЯ"
+msgstr ""
+
+# Objects : [w199623257, w282016238]
+# name:be: []
+msgid "Полевая улица"
+msgstr ""
+
+# Objects : [w242572845, w242788002, w242788003, w282193195, w297715225]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w200484491, w200484494, w242609303, w301229087]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w273274938, w281990101]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w199623250, w242487152]
+# name:be: []
+msgid "Стадионная улица"
+msgstr ""
+
+# Objects : [w313390985]
+# name:be: []
+msgid "ул. Озерная"
+msgstr ""
+
+# Objects : [w312724244]
+# name:be: []
+msgid "ул. Солнечная"
+msgstr ""
+
+# Objects : [w227191479, w313527462, w313527463, w313527464]
+# name:be: []
+msgid "ул. Школьная"
+msgstr ""
+
+# Objects : [w199623251, w199623259, w199623262, w199623274, w199623275, w242788001]
+# name:be: []
+msgid "улица Козловой"
+msgstr ""
+
+# Objects : [w199623277]
+# name:be: []
+msgid "улица Лепельская"
+msgstr ""
+
+# Objects : [w199623256]
+# name:be: []
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [w301231961]
+# name:be: []
+msgid "ЦВЕТОЧНАЯ"
+msgstr ""
+
+# Objects : [w199623272]
+# name:be: []
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w297715224, w297907281]
+# name:be: []
+msgid "ЦЕНТРАЛЬНАЯ"
+msgstr ""
+
+# Objects : [w178853355, w231050634, w25259876, w274445051, w274445054, w297715226, w297715227, w297715228, w297715229, w309731090]
+# name:be: []
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w132795644, w241500950, w241500951]
+# name:be: [Чарнаручча—Латыгалічы—Красналукі]
+msgid "Черноручье-Латыголичи-Краснолуки"
+msgstr ""
+
+# Objects : [w127285185, w199623261, w199623270, w242465435]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w62783399, w62783401]
+# name:be: [Экалагічная сцяжына]
+msgid "Экологическая тропа"
+msgstr ""
+
+# Objects : [w242572846]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+

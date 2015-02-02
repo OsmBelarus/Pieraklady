@@ -1,0 +1,1035 @@
+# Objects : [n1172305120]
+# name:be: []
+msgid ""Victory""
+msgstr ""
+
+# Objects : [n1168827787]
+# name:be: []
+msgid ""VIP Club""
+msgstr ""
+
+# Objects : [n1379310700]
+# name:be: []
+msgid ""Автобаня""
+msgstr ""
+
+# Objects : [n2624609004]
+# name:be: []
+msgid ""Беларуськалий" старое здание"
+msgstr ""
+
+# Objects : [w116516339]
+# name:be: []
+msgid ""Детский городок""
+msgstr ""
+
+# Objects : [w120550182]
+# name:be: []
+msgid ""Детский пляж""
+msgstr ""
+
+# Objects : [n1168828369]
+# name:be: []
+msgid ""Ретро""
+msgstr ""
+
+# Objects : [n1168828163]
+# name:be: []
+msgid ""Скай-бар""
+msgstr ""
+
+# Objects : [n1168827852]
+# name:be: []
+msgid ""Фэст""
+msgstr ""
+
+# Objects : [w41046784]
+# name:be: []
+msgid "1 Ру"
+msgstr ""
+
+# Objects : [r1539679]
+# name:be: []
+msgid "автобус г. Солигорска"
+msgstr ""
+
+# Objects : [n1379310735, n2678613982, n475594688]
+# name:be: [Аўтамыйня]
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w281796607]
+# name:be: []
+msgid "Автошкола"
+msgstr ""
+
+# Objects : [n2361222123]
+# name:be: []
+msgid "Адвокатская контора"
+msgstr ""
+
+# Objects : [w281796554]
+# name:be: []
+msgid "административное здание"
+msgstr ""
+
+# Objects : [n2624613633, n2624677999]
+# name:be: []
+msgid "аптека"
+msgstr ""
+
+# Objects : [n2624570252]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [n1168827898]
+# name:be: []
+msgid "Бар "Пинта""
+msgstr ""
+
+# Objects : [n2625156418]
+# name:be: []
+msgid "баскетбольное поле"
+msgstr ""
+
+# Objects : [n1420382293]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w248861222, w248862512]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [n2624604014, n2625734906]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [w41124048]
+# name:be: []
+msgid "Бетонный пирс"
+msgstr ""
+
+# Objects : [n2625158201]
+# name:be: []
+msgid "боулинг"
+msgstr ""
+
+# Objects : [n828733544]
+# name:be: []
+msgid "Бюст "В.И. Ленин""
+msgstr ""
+
+# Objects : [n1384309569]
+# name:be: []
+msgid "ВЕЛО-мастерская"
+msgstr ""
+
+# Objects : [w119208177]
+# name:be: []
+msgid "Велотриальные Трассы"
+msgstr ""
+
+# Objects : [n2621900159]
+# name:be: []
+msgid "Взрослая поликлиника"
+msgstr ""
+
+# Objects : [n3105818018]
+# name:be: [Вішнеўка]
+msgid "Вишневка"
+msgstr ""
+
+# Objects : [n475594702]
+# name:be: []
+msgid "Газпром нефть"
+msgstr ""
+
+# Objects : [r1735898, r3437333, r3437340, r3437351, r3437618]
+# name:be: []
+msgid "Гимназия №1"
+msgstr ""
+
+# Objects : [r1735899]
+# name:be: []
+msgid "Гимназия №2"
+msgstr ""
+
+# Objects : [r1735900]
+# name:be: []
+msgid "Гимназия №3"
+msgstr ""
+
+# Objects : [n2013597012]
+# name:be: []
+msgid "горгаз"
+msgstr ""
+
+# Objects : [n2318084364]
+# name:be: []
+msgid "Горный комбайн"
+msgstr ""
+
+# Objects : [n1420382297]
+# name:be: []
+msgid "Городская ветеринарная станция"
+msgstr ""
+
+# Objects : [n1248142825]
+# name:be: []
+msgid "Городская стоматология"
+msgstr ""
+
+# Objects : [w44832725]
+# name:be: []
+msgid "Городской суд"
+msgstr ""
+
+# Objects : [w115985582]
+# name:be: []
+msgid "Городской фонтан"
+msgstr ""
+
+# Objects : [n1385401788]
+# name:be: [Гасцiнiца "Новае Палессе"]
+msgid "Гостиница "Новое Полесье""
+msgstr ""
+
+# Objects : [n2766736478]
+# name:be: []
+msgid "Гостиница Алеся"
+msgstr ""
+
+# Objects : [n2766736632]
+# name:be: []
+msgid "Гостиница Новое Полесье"
+msgstr ""
+
+# Objects : [w252613696]
+# name:be: []
+msgid "Государственная инспекция по маломерным судам"
+msgstr ""
+
+# Objects : [w135322566]
+# name:be: []
+msgid "Грануляция"
+msgstr ""
+
+# Objects : [r1735910]
+# name:be: []
+msgid "д/с №10"
+msgstr ""
+
+# Objects : [r1736477]
+# name:be: []
+msgid "д/с №12"
+msgstr ""
+
+# Objects : [r1735911]
+# name:be: []
+msgid "д/с №14"
+msgstr ""
+
+# Objects : [r1736478]
+# name:be: []
+msgid "д/с №15"
+msgstr ""
+
+# Objects : [r1735912]
+# name:be: []
+msgid "д/с №16"
+msgstr ""
+
+# Objects : [r1736479]
+# name:be: []
+msgid "д/с №17"
+msgstr ""
+
+# Objects : [r1736480]
+# name:be: []
+msgid "д/с №18"
+msgstr ""
+
+# Objects : [r1735913]
+# name:be: []
+msgid "д/с №19"
+msgstr ""
+
+# Objects : [r1735914]
+# name:be: []
+msgid "д/с №20"
+msgstr ""
+
+# Objects : [r1736481]
+# name:be: []
+msgid "д/с №21"
+msgstr ""
+
+# Objects : [r1735915]
+# name:be: []
+msgid "д/с №23"
+msgstr ""
+
+# Objects : [r1736482]
+# name:be: []
+msgid "д/с №24"
+msgstr ""
+
+# Objects : [r1735916]
+# name:be: []
+msgid "д/с №25"
+msgstr ""
+
+# Objects : [r1735917]
+# name:be: []
+msgid "д/с №28"
+msgstr ""
+
+# Objects : [r1735919]
+# name:be: []
+msgid "д/с №3"
+msgstr ""
+
+# Objects : [r1735920]
+# name:be: []
+msgid "д/с №30"
+msgstr ""
+
+# Objects : [r1735921]
+# name:be: []
+msgid "д/с №31"
+msgstr ""
+
+# Objects : [r1735922]
+# name:be: []
+msgid "д/с №32"
+msgstr ""
+
+# Objects : [r1735923]
+# name:be: []
+msgid "д/с №33"
+msgstr ""
+
+# Objects : [r1735924]
+# name:be: []
+msgid "д/с №36"
+msgstr ""
+
+# Objects : [r1735925]
+# name:be: []
+msgid "д/с №37"
+msgstr ""
+
+# Objects : [r1735926]
+# name:be: []
+msgid "д/с №38"
+msgstr ""
+
+# Objects : [r1735927]
+# name:be: []
+msgid "д/с №39"
+msgstr ""
+
+# Objects : [r1736483]
+# name:be: []
+msgid "д/с №4"
+msgstr ""
+
+# Objects : [r1735928]
+# name:be: []
+msgid "д/с №40"
+msgstr ""
+
+# Objects : [r1735929]
+# name:be: []
+msgid "д/с №41"
+msgstr ""
+
+# Objects : [r1735930]
+# name:be: []
+msgid "д/с №5"
+msgstr ""
+
+# Objects : [r1735931]
+# name:be: []
+msgid "д/с №7"
+msgstr ""
+
+# Objects : [n2621529148, n2621535606]
+# name:be: []
+msgid "Детская музыкальная школа"
+msgstr ""
+
+# Objects : [n2625072763, n2625153693, n2625741806, n2625743672, n2625743835, n2625747046, n2625749168, n2625751040, n2625751877]
+# name:be: []
+msgid "детская площадка"
+msgstr ""
+
+# Objects : [w248862755]
+# name:be: []
+msgid "Детская площадка"
+msgstr ""
+
+# Objects : [r1735918]
+# name:be: []
+msgid "Дошкольный центр развития ребенка"
+msgstr ""
+
+# Objects : [n2624606364]
+# name:be: []
+msgid "Евросеть"
+msgstr ""
+
+# Objects : [n2625734160]
+# name:be: []
+msgid "ЖКХ комплекс"
+msgstr ""
+
+# Objects : [w217409410]
+# name:be: []
+msgid "ЖКХ-комплекс"
+msgstr ""
+
+# Objects : [w260061851]
+# name:be: []
+msgid "ЖСПК №184"
+msgstr ""
+
+# Objects : [w108970155, w215904261, w41363111]
+# name:be: [Хімчыстка]
+msgid "ЗАО "СИПРсОП""
+msgstr ""
+
+# Objects : [w304937056]
+# name:be: []
+msgid "запчасти к бензопилам"
+msgstr ""
+
+# Objects : [n828733607]
+# name:be: [Задыяк]
+msgid "Зодиак"
+msgstr ""
+
+# Objects : [n2624626898, n2624833879]
+# name:be: []
+msgid "игровые автоматы"
+msgstr ""
+
+# Objects : [n592058785]
+# name:be: [Калій 1]
+msgid "Калий-1"
+msgstr ""
+
+# Objects : [n2625072046]
+# name:be: []
+msgid "киоск"
+msgstr ""
+
+# Objects : [n2624606659]
+# name:be: []
+msgid "клуб "VIP""
+msgstr ""
+
+# Objects : [n2625159122]
+# name:be: []
+msgid "клуб "Паутина""
+msgstr ""
+
+# Objects : [n3105818019]
+# name:be: [Кавалёва Лаза]
+msgid "Ковалева Лоза"
+msgstr ""
+
+# Objects : [n2622001595]
+# name:be: []
+msgid "Кожно-венерологический диспансер"
+msgstr ""
+
+# Objects : [n3105818020]
+# name:be: [Камсамольскі раён]
+msgid "Комсомольский район"
+msgstr ""
+
+# Objects : [w307416465]
+# name:be: []
+msgid "конвейер руды Берёзовского рудника"
+msgstr ""
+
+# Objects : [n2624615074]
+# name:be: []
+msgid "кружок "юных натуралистов""
+msgstr ""
+
+# Objects : [n2624600725]
+# name:be: []
+msgid "Ледовый дворец"
+msgstr ""
+
+# Objects : [n3105818021]
+# name:be: [Лясны раён]
+msgid "Лесной район"
+msgstr ""
+
+# Objects : [w295789411]
+# name:be: []
+msgid "маг. Родная Сторона"
+msgstr ""
+
+# Objects : [n2625733411]
+# name:be: []
+msgid "магазин "Белита-Витекс""
+msgstr ""
+
+# Objects : [n2624613275]
+# name:be: []
+msgid "магазин "лазурит""
+msgstr ""
+
+# Objects : [n2624610894]
+# name:be: []
+msgid "магазин "юбилейный""
+msgstr ""
+
+# Objects : [n2621997290]
+# name:be: []
+msgid "Медицинская лаборатория "Синево""
+msgstr ""
+
+# Objects : [n3105818022]
+# name:be: [Мікрараён №17]
+msgid "Микрорайон №17"
+msgstr ""
+
+# Objects : [n3105818023]
+# name:be: [Маладзёжны раён]
+msgid "Молодежный район"
+msgstr ""
+
+# Objects : [n1562705708]
+# name:be: []
+msgid "МРЭО ГАИ"
+msgstr ""
+
+# Objects : [n2624592623]
+# name:be: []
+msgid "музей"
+msgstr ""
+
+# Objects : [w285208620]
+# name:be: []
+msgid "Мясоперерабатывающий комплекс ОАО "Беларуськалий""
+msgstr ""
+
+# Objects : [n3105818024]
+# name:be: [Набярэжны раён]
+msgid "Набережный район"
+msgstr ""
+
+# Objects : [w124365252]
+# name:be: []
+msgid "Надежда"
+msgstr ""
+
+# Objects : [w111434740]
+# name:be: []
+msgid "Насосная станция"
+msgstr ""
+
+# Objects : [n2621404142, n2621405288, n2621414866, n2621529145, n2621535602]
+# name:be: []
+msgid "НАТ "Сузор'е""
+msgstr ""
+
+# Objects : [w124365241]
+# name:be: []
+msgid "Нова"
+msgstr ""
+
+# Objects : [n2361222122]
+# name:be: []
+msgid "Нотариальная контора"
+msgstr ""
+
+# Objects : [n2621404141, n2621405287, n2621414865, n2621529144, n2621535601]
+# name:be: []
+msgid "ОАТ "Искорка""
+msgstr ""
+
+# Objects : [n1121996542, n1121996627, n1121996715, n1121996806, n1121996858, n1121996867, n1121996913, n1121996938, n1121996966]
+# name:be: []
+msgid "Обменный пункт"
+msgstr ""
+
+# Objects : [w41160242]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [n1420874286]
+# name:be: []
+msgid "Общежитие СГПТК"
+msgstr ""
+
+# Objects : [n3105818025]
+# name:be: [Кастрычніцкі раён]
+msgid "Октябрьский район"
+msgstr ""
+
+# Objects : [w40127926]
+# name:be: []
+msgid "ООО "Пассат""
+msgstr ""
+
+# Objects : [n1429275563]
+# name:be: []
+msgid "Офис "Белгосстрах""
+msgstr ""
+
+# Objects : [w248871727]
+# name:be: []
+msgid "Павлин"
+msgstr ""
+
+# Objects : [n528428176]
+# name:be: []
+msgid "Памятник Шахтёру"
+msgstr ""
+
+# Objects : [n2624607782]
+# name:be: []
+msgid "парикмахерская "алеся""
+msgstr ""
+
+# Objects : [n2625752231]
+# name:be: []
+msgid "парикмахерская "Ирен""
+msgstr ""
+
+# Objects : [n2624598202]
+# name:be: []
+msgid "парковка"
+msgstr ""
+
+# Objects : [n3105818026]
+# name:be: [Паркавы раён]
+msgid "Парковый район"
+msgstr ""
+
+# Objects : [n2312991655]
+# name:be: []
+msgid "Паутина"
+msgstr ""
+
+# Objects : [n1420874289, r1736475]
+# name:be: [Педагагічны каледж]
+msgid "Педагогический колледж"
+msgstr ""
+
+# Objects : [n2621995336]
+# name:be: []
+msgid "Пирс Romantic Moon"
+msgstr ""
+
+# Objects : [n2621998328]
+# name:be: []
+msgid "Платная стоматология"
+msgstr ""
+
+# Objects : [n3105818027]
+# name:be: [Пакроўка]
+msgid "Покровка"
+msgstr ""
+
+# Objects : [n2625741320]
+# name:be: []
+msgid "поле для минифутбола"
+msgstr ""
+
+# Objects : [n3105818028]
+# name:be: [Паўночны раён]
+msgid "Поселок Северный"
+msgstr ""
+
+# Objects : [n2624604918]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [n2624616784]
+# name:be: []
+msgid "продуктовый магазин"
+msgstr ""
+
+# Objects : [n1234459972]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w120550183]
+# name:be: []
+msgid "Прокат катамаранов"
+msgstr ""
+
+# Objects : [w96833416]
+# name:be: []
+msgid "проходная 1РУ"
+msgstr ""
+
+# Objects : [w281796051]
+# name:be: []
+msgid "Проходная цеха КИП и А"
+msgstr ""
+
+# Objects : [w163593601]
+# name:be: []
+msgid "ПС-110 1СКК"
+msgstr ""
+
+# Objects : [w281799256]
+# name:be: []
+msgid "ПС-110 Солигорская"
+msgstr ""
+
+# Objects : [r1736473]
+# name:be: []
+msgid "ПТУ-104"
+msgstr ""
+
+# Objects : [w77143547]
+# name:be: []
+msgid "Радуга"
+msgstr ""
+
+# Objects : [w133733690]
+# name:be: []
+msgid "Радуга-Дом"
+msgstr ""
+
+# Objects : [n2625747881]
+# name:be: []
+msgid "ремонт обуви"
+msgstr ""
+
+# Objects : [w41835899]
+# name:be: []
+msgid "Ремстроймонтаж"
+msgstr ""
+
+# Objects : [n2621529150, n2621535609]
+# name:be: []
+msgid "Родильное отделение"
+msgstr ""
+
+# Objects : [w222860953]
+# name:be: []
+msgid "Рудник"
+msgstr ""
+
+# Objects : [w222860954]
+# name:be: []
+msgid "Рудоуправление"
+msgstr ""
+
+# Objects : [w40946624]
+# name:be: []
+msgid "Рынок "Октябрьский""
+msgstr ""
+
+# Objects : [w41616165]
+# name:be: []
+msgid "Рынок "Радужный""
+msgstr ""
+
+# Objects : [n2253197031]
+# name:be: []
+msgid "Рыцарь  с дамой на коне."
+msgstr ""
+
+# Objects : [n2766722477]
+# name:be: []
+msgid "Санаторий Березка"
+msgstr ""
+
+# Objects : [n2766722603]
+# name:be: []
+msgid "Санаторий Республиканская больница спелеолечения"
+msgstr ""
+
+# Objects : [n2253197034]
+# name:be: []
+msgid "Санэпидемстанция"
+msgstr ""
+
+# Objects : [n1420874287, n1420874288, r1736474]
+# name:be: []
+msgid "СГПТК"
+msgstr ""
+
+# Objects : [n2625746143]
+# name:be: []
+msgid "сквер"
+msgstr ""
+
+# Objects : [w233208322]
+# name:be: []
+msgid "Склад топлива ОАО "Газпромнефть""
+msgstr ""
+
+# Objects : [n492268069]
+# name:be: [Салігорск]
+msgid "Солигорск"
+msgstr ""
+
+# Objects : [n1420874290, r1736476]
+# name:be: []
+msgid "Солигорский горно-химический колледж"
+msgstr ""
+
+# Objects : [w72502108]
+# name:be: []
+msgid "Солигорский пляж"
+msgstr ""
+
+# Objects : [n1420874291]
+# name:be: []
+msgid "Солигорский экономический техникум"
+msgstr ""
+
+# Objects : [r1640546]
+# name:be: []
+msgid "Солигорское водохранилище"
+msgstr ""
+
+# Objects : [n1249658680]
+# name:be: []
+msgid "Спелеолечебница"
+msgstr ""
+
+# Objects : [w62254662]
+# name:be: []
+msgid "Спортивно-зрелищный комплекс"
+msgstr ""
+
+# Objects : [w40870757]
+# name:be: []
+msgid "Стадион "Строитель""
+msgstr ""
+
+# Objects : [w256478877, w256494351]
+# name:be: []
+msgid "Стадион гимназии №1"
+msgstr ""
+
+# Objects : [w256478873]
+# name:be: []
+msgid "Стадион СШ №3"
+msgstr ""
+
+# Objects : [w41398658]
+# name:be: []
+msgid "Стадион СШ №4"
+msgstr ""
+
+# Objects : [w41398657]
+# name:be: []
+msgid "Стадион СШ №5"
+msgstr ""
+
+# Objects : [w256494359]
+# name:be: []
+msgid "Стадион СШ №8"
+msgstr ""
+
+# Objects : [n1382792535]
+# name:be: []
+msgid "Стелла"
+msgstr ""
+
+# Objects : [w111508655]
+# name:be: []
+msgid "Стихия Ветра"
+msgstr ""
+
+# Objects : [n1168828388]
+# name:be: []
+msgid "СТК"
+msgstr ""
+
+# Objects : [n475594708]
+# name:be: [СТА]
+msgid "СТО"
+msgstr ""
+
+# Objects : [n1269600067]
+# name:be: []
+msgid "стоматология"
+msgstr ""
+
+# Objects : [n2555886148]
+# name:be: []
+msgid "Стоматология "Людент""
+msgstr ""
+
+# Objects : [n1534888562]
+# name:be: []
+msgid "Стоматология "Эстетика""
+msgstr ""
+
+# Objects : [n2624678755]
+# name:be: []
+msgid "стоянка"
+msgstr ""
+
+# Objects : [w248818010]
+# name:be: []
+msgid "Строительство аптеки"
+msgstr ""
+
+# Objects : [w124171752]
+# name:be: []
+msgid "Строительство магазина "Евроопт""
+msgstr ""
+
+# Objects : [w252613099]
+# name:be: []
+msgid "Строительство супермаркета Mart INN (откр. 2015 г.)"
+msgstr ""
+
+# Objects : [n1827187834]
+# name:be: []
+msgid "Суши-бар"
+msgstr ""
+
+# Objects : [w41398708]
+# name:be: []
+msgid "ТД "Лазурит""
+msgstr ""
+
+# Objects : [w277649109]
+# name:be: []
+msgid "Теплицы"
+msgstr ""
+
+# Objects : [n1420382299]
+# name:be: []
+msgid "Туристическое бюро"
+msgstr ""
+
+# Objects : [n2814552987]
+# name:be: []
+msgid "ул. Козлова 21"
+msgstr ""
+
+# Objects : [n1429275558]
+# name:be: []
+msgid "Финансовая мииция КГК"
+msgstr ""
+
+# Objects : [n2624608608, n499587041]
+# name:be: [Фантан]
+msgid "Фонтан"
+msgstr ""
+
+# Objects : [n1172304987]
+# name:be: []
+msgid "Фото"
+msgstr ""
+
+# Objects : [w248815020]
+# name:be: []
+msgid "Цветы"
+msgstr ""
+
+# Objects : [n3105819929]
+# name:be: [Цэнтральны раён]
+msgid "Центральный район"
+msgstr ""
+
+# Objects : [n2621529149, n2621535608]
+# name:be: []
+msgid "Центр детского творчества"
+msgstr ""
+
+# Objects : [n2625735914]
+# name:be: []
+msgid "центр печати"
+msgstr ""
+
+# Objects : [n1420382300]
+# name:be: []
+msgid "Центр соцзащиты"
+msgstr ""
+
+# Objects : [w281795924]
+# name:be: []
+msgid "цех КИП и А"
+msgstr ""
+
+# Objects : [w163593600]
+# name:be: []
+msgid "Цех электроснабжения"
+msgstr ""
+
+# Objects : [n1386019558]
+# name:be: []
+msgid "Чай, кофе"
+msgstr ""
+
+# Objects : [n3105819930]
+# name:be: [Шахцёрскі раён]
+msgid "Шахтерский район"
+msgstr ""
+
+# Objects : [r1735901]
+# name:be: []
+msgid "Школа №1"
+msgstr ""
+
+# Objects : [r1735902]
+# name:be: []
+msgid "Школа №10"
+msgstr ""
+
+# Objects : [r1735903]
+# name:be: []
+msgid "Школа №11"
+msgstr ""
+
+# Objects : [r1735904]
+# name:be: []
+msgid "Школа №2"
+msgstr ""
+
+# Objects : [r1735905]
+# name:be: []
+msgid "Школа №3"
+msgstr ""
+
+# Objects : [r1735906]
+# name:be: []
+msgid "Школа №4"
+msgstr ""
+
+# Objects : [r1735907]
+# name:be: []
+msgid "Школа №5"
+msgstr ""
+
+# Objects : [r1735908, r3437334, r3437341, r3437352, r3437619]
+# name:be: []
+msgid "Школа №6"
+msgstr ""
+
+# Objects : [r1735909]
+# name:be: []
+msgid "Школа №8"
+msgstr ""
+
+# Objects : [w62192596]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+

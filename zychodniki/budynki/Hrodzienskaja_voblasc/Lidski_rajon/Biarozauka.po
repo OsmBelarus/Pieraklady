@@ -1,0 +1,185 @@
+# Objects : [w98590955]
+# name:be: []
+msgid "Sofina"
+msgstr ""
+
+# Objects : [w192613915]
+# name:be: []
+msgid "Автошкола"
+msgstr ""
+
+# Objects : [w192613912]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
+# Objects : [w97854600]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w97854602]
+# name:be: []
+msgid "Банк"
+msgstr ""
+
+# Objects : [w98296436]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [n2992101632, w99369020]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [w188622589]
+# name:be: []
+msgid "Василёк"
+msgstr ""
+
+# Objects : [w193701193]
+# name:be: []
+msgid "Водозабор"
+msgstr ""
+
+# Objects : [w192978293, w98590943]
+# name:be: []
+msgid "Детсад №2"
+msgstr ""
+
+# Objects : [w98590964]
+# name:be: []
+msgid "Дом быта"
+msgstr ""
+
+# Objects : [w188512868]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w188516193]
+# name:be: []
+msgid "ЖЭС"
+msgstr ""
+
+# Objects : [w98590941]
+# name:be: []
+msgid "Заводоуправление"
+msgstr ""
+
+# Objects : [w243099049]
+# name:be: []
+msgid "Здание стеклозавода"
+msgstr ""
+
+# Objects : [w98590948]
+# name:be: []
+msgid "Исполком"
+msgstr ""
+
+# Objects : [w188679409]
+# name:be: []
+msgid "Калi ласка"
+msgstr ""
+
+# Objects : [w188679412]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w189687236]
+# name:be: []
+msgid "Лик"
+msgstr ""
+
+# Objects : [w192541266]
+# name:be: []
+msgid "Люкс"
+msgstr ""
+
+# Objects : [w188606642, w98455484]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w192613911]
+# name:be: []
+msgid "Магазин "Чистюля""
+msgstr ""
+
+# Objects : [w243099023]
+# name:be: []
+msgid "механический цех"
+msgstr ""
+
+# Objects : [w99369042]
+# name:be: []
+msgid "Общежитие №2"
+msgstr ""
+
+# Objects : [w99369030]
+# name:be: []
+msgid "Общежитие №3"
+msgstr ""
+
+# Objects : [w99369043]
+# name:be: []
+msgid "Общежитие №4"
+msgstr ""
+
+# Objects : [w188677406]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [w98294756]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть № 4"
+msgstr ""
+
+# Objects : [w99369002]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w97854598]
+# name:be: [Пошта]
+msgid "Почта"
+msgstr ""
+
+# Objects : [w243099016]
+# name:be: []
+msgid "Склад готовой продукции"
+msgstr ""
+
+# Objects : [w188678600]
+# name:be: []
+msgid "Склад стройматериалов"
+msgstr ""
+
+# Objects : [w243099043]
+# name:be: []
+msgid "транспортный цех"
+msgstr ""
+
+# Objects : [w192632309]
+# name:be: []
+msgid "Усадьба "Над Неманом""
+msgstr ""
+
+# Objects : [w243099004]
+# name:be: []
+msgid "Цех для производства стекловаты"
+msgstr ""
+
+# Objects : [w243099018]
+# name:be: []
+msgid "цех химической обработки"
+msgstr ""
+
+# Objects : [w243099027]
+# name:be: []
+msgid "цех №5"
+msgstr ""
+

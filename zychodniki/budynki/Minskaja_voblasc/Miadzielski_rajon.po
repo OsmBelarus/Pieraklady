@@ -1,0 +1,100 @@
+# Objects : [w288214364]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [n1577987056]
+# name:be: []
+msgid "Винокурня (руины)"
+msgstr ""
+
+# Objects : [w285374246]
+# name:be: []
+msgid "Дезбарьер"
+msgstr ""
+
+# Objects : [w242566106]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w179496103]
+# name:be: [чыгуначны вакзал]
+msgid "ж/д вокзал"
+msgstr ""
+
+# Objects : [n1559359841]
+# name:be: []
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w242566110]
+# name:be: [Кавярня "Паўлінка"]
+msgid "Кафе "Павлинка""
+msgstr ""
+
+# Objects : [w309489279]
+# name:be: []
+msgid "КХ "Антей-сад" фрукты, овощи, саженцы и др."
+msgstr ""
+
+# Objects : [w242566119]
+# name:be: []
+msgid "летнее кафе"
+msgstr ""
+
+# Objects : [w113048468]
+# name:be: []
+msgid "Магазин, Хлебопекарня"
+msgstr ""
+
+# Objects : [w242562392]
+# name:be: [Кляштар бернардынаў-францысканаў]
+msgid "Монастырь бернардинцев-францискан"
+msgstr ""
+
+# Objects : [w242562391]
+# name:be: [Плябанія XIX ст.]
+msgid "Плебания XIX в."
+msgstr ""
+
+# Objects : [w229714856]
+# name:be: []
+msgid "Пожарная часть МЧС"
+msgstr ""
+
+# Objects : [w242566113]
+# name:be: []
+msgid "продуктовый"
+msgstr ""
+
+# Objects : [w241938210]
+# name:be: []
+msgid "Производственный корпус"
+msgstr ""
+
+# Objects : [w285374333]
+# name:be: []
+msgid "Резервуары для мазута"
+msgstr ""
+
+# Objects : [w242573243]
+# name:be: [Сельскі выканкам]
+msgid "Сельский исполком"
+msgstr ""
+
+# Objects : [w242566118]
+# name:be: []
+msgid "торговая площадка"
+msgstr ""
+
+# Objects : [n1640457514, w113053803]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [n1559360393]
+# name:be: []
+msgid "Усадебный дом 19в. /сохр. частично/"
+msgstr ""
+

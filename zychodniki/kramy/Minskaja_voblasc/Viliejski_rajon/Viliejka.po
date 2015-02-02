@@ -1,0 +1,235 @@
+# Objects : [n1095062235]
+# name:be: []
+msgid ""Уют""
+msgstr ""
+
+# Objects : [n1109734836]
+# name:be: []
+msgid "25-Магазин"
+msgstr ""
+
+# Objects : [n1095036800]
+# name:be: []
+msgid "9-й магазин"
+msgstr ""
+
+# Objects : [n3210448431, n3210730070, n3212101074]
+# name:be: []
+msgid "Second hand"
+msgstr ""
+
+# Objects : [n1095016111, n1109729691]
+# name:be: [Аўтазапчасткі]
+msgid "Автозапчасти"
+msgstr ""
+
+# Objects : [n1095009746]
+# name:be: [Алеся]
+msgid "Алеся"
+msgstr ""
+
+# Objects : [n1104578610]
+# name:be: []
+msgid "БелитаВитекс"
+msgstr ""
+
+# Objects : [n1095062187]
+# name:be: [Віцязь]
+msgid "Витязь"
+msgstr ""
+
+# Objects : [n1109709996]
+# name:be: []
+msgid "Волна"
+msgstr ""
+
+# Objects : [n1095016118]
+# name:be: []
+msgid "Дорорс Продукты"
+msgstr ""
+
+# Objects : [n1086735163, n3208899397]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n1109734840, n3206097892]
+# name:be: [Еўрасетка]
+msgid "Евросеть"
+msgstr ""
+
+# Objects : [n1095062202]
+# name:be: []
+msgid "Звездочка"
+msgstr ""
+
+# Objects : [n1086701109]
+# name:be: []
+msgid "Камея"
+msgstr ""
+
+# Objects : [n3208869837, n3210422886]
+# name:be: []
+msgid "Киоск"
+msgstr ""
+
+# Objects : [n3206091690]
+# name:be: []
+msgid "Кулинария"
+msgstr ""
+
+# Objects : [n1109735613, n1109736186]
+# name:be: []
+msgid "Куриный"
+msgstr ""
+
+# Objects : [n1095062196]
+# name:be: []
+msgid "Лагуна"
+msgstr ""
+
+# Objects : [n3205811597]
+# name:be: []
+msgid "ЛучМ"
+msgstr ""
+
+# Objects : [n1108865035]
+# name:be: []
+msgid "Магазин №6"
+msgstr ""
+
+# Objects : [n1105609207]
+# name:be: []
+msgid "МаксАвто"
+msgstr ""
+
+# Objects : [n3205814435]
+# name:be: []
+msgid "Марко"
+msgstr ""
+
+# Objects : [n1109734845]
+# name:be: []
+msgid "Меломан"
+msgstr ""
+
+# Objects : [n1095036797]
+# name:be: []
+msgid "Меркурий"
+msgstr ""
+
+# Objects : [n3096837523]
+# name:be: []
+msgid "Мечта"
+msgstr ""
+
+# Objects : [n1109736187]
+# name:be: []
+msgid "Мясная лавка"
+msgstr ""
+
+# Objects : [n3205956668]
+# name:be: []
+msgid "Овощной магазин"
+msgstr ""
+
+# Objects : [n3210421861]
+# name:be: []
+msgid "Одежда"
+msgstr ""
+
+# Objects : [n3209012510]
+# name:be: []
+msgid "Парикмахерская"
+msgstr ""
+
+# Objects : [n1109734838]
+# name:be: [Ветразь]
+msgid "Парус"
+msgstr ""
+
+# Objects : [n3210603098]
+# name:be: []
+msgid "Продовольственный магазин"
+msgstr ""
+
+# Objects : [n3208856605]
+# name:be: []
+msgid "Продуктовый магазин"
+msgstr ""
+
+# Objects : [n1109735611, n1112165789, n3206096106]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n1108865037]
+# name:be: []
+msgid "Продукты питания"
+msgstr ""
+
+# Objects : [n1086725121, n1095062239]
+# name:be: []
+msgid "Ромашка"
+msgstr ""
+
+# Objects : [n765033175]
+# name:be: []
+msgid "Сиреневый туман"
+msgstr ""
+
+# Objects : [n1108865036]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
+# Objects : [n1095016105]
+# name:be: [Будматэрыялы]
+msgid "Стройматериалы"
+msgstr ""
+
+# Objects : [n1109735612]
+# name:be: []
+msgid "Трикатаж"
+msgstr ""
+
+# Objects : [n3210727477]
+# name:be: []
+msgid "ТЦ Модуль"
+msgstr ""
+
+# Objects : [n1109729692]
+# name:be: [Універмаг]
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [n1086684526]
+# name:be: []
+msgid "Универсам Вилия"
+msgstr ""
+
+# Objects : [n1109729690]
+# name:be: [Хлебазавод]
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n1109729693]
+# name:be: [Гаспадарчыя тавары]
+msgid "Хозтовары"
+msgstr ""
+
+# Objects : [n1109738367]
+# name:be: []
+msgid "Хозяйственный"
+msgstr ""
+
+# Objects : [n1095016101]
+# name:be: [Чабарок]
+msgid "Чабарок"
+msgstr ""
+
+# Objects : [n3206071264]
+# name:be: []
+msgid "Шиномонтаж"
+msgstr ""
+

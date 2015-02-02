@@ -1,0 +1,245 @@
+# Objects : [r2064921]
+# name:be: []
+msgid "Автостанция-Новая Заря"
+msgstr ""
+
+# Objects : [w77739238]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [w282515060]
+# name:be: []
+msgid "АП-19"
+msgstr ""
+
+# Objects : [n1446188139]
+# name:be: []
+msgid "Банно-оздоровительный комплекс"
+msgstr ""
+
+# Objects : [n1446188151]
+# name:be: [Белдзяржстрах]
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n1446188153]
+# name:be: []
+msgid "Белкоопстрах"
+msgstr ""
+
+# Objects : [w77740344]
+# name:be: [Белтэлекам]
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n1132265646]
+# name:be: [Ветлякарня]
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w130756491]
+# name:be: [Вакзал]
+msgid "Вокзал"
+msgstr ""
+
+# Objects : [n2766736608]
+# name:be: []
+msgid "Гостиница Марьина Горка"
+msgstr ""
+
+# Objects : [n1619145940]
+# name:be: []
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w118038501]
+# name:be: []
+msgid "Домики"
+msgstr ""
+
+# Objects : [n914322036]
+# name:be: [Дом культуры]
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w282515062]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [n2790804792]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w274825648]
+# name:be: []
+msgid "ИВС"
+msgstr ""
+
+# Objects : [w100667756]
+# name:be: [Крынiца]
+msgid "Криница"
+msgstr ""
+
+# Objects : [w304584378]
+# name:be: []
+msgid "Криничка"
+msgstr ""
+
+# Objects : [n1365666902]
+# name:be: [Мар'іна Горка]
+msgid "Марьина Горка"
+msgstr ""
+
+# Objects : [r2082243]
+# name:be: []
+msgid "Марьина Горка — Дубровка"
+msgstr ""
+
+# Objects : [r2072097]
+# name:be: []
+msgid "Марьина Горка - Минск"
+msgstr ""
+
+# Objects : [r2082238]
+# name:be: []
+msgid "Марьина Горка - Пуховичи"
+msgstr ""
+
+# Objects : [w279956332]
+# name:be: []
+msgid "Марьиногорская обувная фабрика"
+msgstr ""
+
+# Objects : [n913778020]
+# name:be: []
+msgid "Марьиногорская поликлиника 1"
+msgstr ""
+
+# Objects : [n278745446]
+# name:be: []
+msgid "Марьиногорская центральная районная больница"
+msgstr ""
+
+# Objects : [n915568864]
+# name:be: []
+msgid "Марьиногорская центральная районная поликлиника"
+msgstr ""
+
+# Objects : [w100813248]
+# name:be: []
+msgid "Новая заря"
+msgstr ""
+
+# Objects : [r2082239]
+# name:be: []
+msgid "Новая Заря - Криница"
+msgstr ""
+
+# Objects : [w274507897]
+# name:be: []
+msgid "ОАО "Пуховичский комбинат хлебопродуктов""
+msgstr ""
+
+# Objects : [n1421933981]
+# name:be: []
+msgid "ОАО "Пуховичский комбинат хлебопродуктов" хлебоприемный участок"
+msgstr ""
+
+# Objects : [w274953688, w77739228]
+# name:be: []
+msgid "ОАО «Пуховичинефтепродукт»"
+msgstr ""
+
+# Objects : [w124863373]
+# name:be: []
+msgid "ОАО Пуховичский райагросервис механизированное отделение"
+msgstr ""
+
+# Objects : [n914310340]
+# name:be: []
+msgid "обелиск"
+msgstr ""
+
+# Objects : [w279956333]
+# name:be: []
+msgid "ООО "Пуховичский пищекомбинат""
+msgstr ""
+
+# Objects : [n914196862]
+# name:be: []
+msgid "памятник"
+msgstr ""
+
+# Objects : [n661194083]
+# name:be: []
+msgid "Привокзальная площадь"
+msgstr ""
+
+# Objects : [n661194084]
+# name:be: [Пухавічы]
+msgid "Пуховичи"
+msgstr ""
+
+# Objects : [n1581539629]
+# name:be: []
+msgid "Пуховичский райселькомунхоз"
+msgstr ""
+
+# Objects : [w86306481]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [w274825649]
+# name:be: []
+msgid "Ровд"
+msgstr ""
+
+# Objects : [n2766722595]
+# name:be: []
+msgid "Санаторий Пуховичи"
+msgstr ""
+
+# Objects : [n916880360]
+# name:be: []
+msgid "Смайл+"
+msgstr ""
+
+# Objects : [w274953689, w77739224]
+# name:be: []
+msgid "СООО "Морозпродукт""
+msgstr ""
+
+# Objects : [n1764164571]
+# name:be: []
+msgid "Спортзал"
+msgstr ""
+
+# Objects : [n1492811020]
+# name:be: []
+msgid "Танк"
+msgstr ""
+
+# Objects : [w77740301]
+# name:be: []
+msgid "УП "Жилтеплосервис""
+msgstr ""
+
+# Objects : [n2788684586]
+# name:be: [Сядзібна-паркавы комплекс Макавых]
+msgid "Усадебно-парковый комплекс маковой"
+msgstr ""
+
+# Objects : [n1376568104]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [w77679961]
+# name:be: []
+msgid "Хельсинки"
+msgstr ""
+

@@ -1,0 +1,135 @@
+# Objects : [w232699178, w232699237]
+# name:be: []
+msgid "Гаражная улица"
+msgstr ""
+
+# Objects : [w287809066]
+# name:be: []
+msgid "Дорожная улица"
+msgstr ""
+
+# Objects : [w232699236]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w232699197]
+# name:be: []
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w310616406]
+# name:be: [Ласкавая вуліца]
+msgid "Ласковая улица"
+msgstr ""
+
+# Objects : [w232699204, w232699212, w287809067]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w287809068]
+# name:be: []
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [w310193903]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w232699164]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w232605476, w287669252, w287669255, w287809070, w287809071]
+# name:be: []
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w232699168, w252092507]
+# name:be: []
+msgid "Полесская улица"
+msgstr ""
+
+# Objects : [w232699225]
+# name:be: []
+msgid "проезд к молочно-товарному комплексу"
+msgstr ""
+
+# Objects : [w287809065, w310193904]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w307113544, w307119721, w307119723]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w307119728]
+# name:be: []
+msgid "у.Волкова"
+msgstr ""
+
+# Objects : [w232605483]
+# name:be: []
+msgid "у.Добровольского"
+msgstr ""
+
+# Objects : [w310196127]
+# name:be: []
+msgid "у.Заречная"
+msgstr ""
+
+# Objects : [w232699198, w310194328]
+# name:be: []
+msgid "у.Колхозная"
+msgstr ""
+
+# Objects : [w232605474]
+# name:be: []
+msgid "у.Молодежная"
+msgstr ""
+
+# Objects : [w232605481]
+# name:be: []
+msgid "у.Новая"
+msgstr ""
+
+# Objects : [w307119726]
+# name:be: []
+msgid "у.Шевченко"
+msgstr ""
+
+# Objects : [w233334760]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w232605473]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [w138387580, w252587123]
+# name:be: []
+msgid "Чкаловская улица"
+msgstr ""
+
+# Objects : [w232699235]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w287669257]
+# name:be: []
+msgid "Шоссейная улица"
+msgstr ""
+
+# Objects : [w232699160, w232699201, w253444837]
+# name:be: []
+msgid "Юбилейная улица"
+msgstr ""
+

@@ -1,0 +1,80 @@
+# Objects : [n621163477]
+# name:be: []
+msgid "Беларусьбанк"
+msgstr ""
+
+# Objects : [w258613341]
+# name:be: []
+msgid "Бойлерная"
+msgstr ""
+
+# Objects : [n2766736720]
+# name:be: []
+msgid "Гостиница Четверть века"
+msgstr ""
+
+# Objects : [n2958515564]
+# name:be: []
+msgid "Департамент охраны"
+msgstr ""
+
+# Objects : [w238986123]
+# name:be: []
+msgid "ДЭУ-21"
+msgstr ""
+
+# Objects : [n1365412530, n621144437]
+# name:be: [Жыткавічы]
+msgid "Житковичи"
+msgstr ""
+
+# Objects : [n2645829344]
+# name:be: [Жыткавіцкі раённы выканаўчы камітэт]
+msgid "Житковичский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n2645829343]
+# name:be: [Жыткавіцкі раённы Савет дэпутатаў]
+msgid "Житковичский районный Совет депутатов"
+msgstr ""
+
+# Objects : [w282880138]
+# name:be: []
+msgid "КНС-3"
+msgstr ""
+
+# Objects : [w258067698]
+# name:be: []
+msgid "леспромхоз"
+msgstr ""
+
+# Objects : [n621163453, n991465865]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w238981527, w266840136]
+# name:be: []
+msgid "ОАО "Сатурн""
+msgstr ""
+
+# Objects : [w285231304]
+# name:be: []
+msgid "пешеходный мостик"
+msgstr ""
+
+# Objects : [n1166356934]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n621163459]
+# name:be: [Пракуратура]
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [n907669954]
+# name:be: [РАУС]
+msgid "РОВД"
+msgstr ""
+

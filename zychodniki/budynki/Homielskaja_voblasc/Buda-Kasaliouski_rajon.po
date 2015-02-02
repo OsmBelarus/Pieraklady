@@ -1,0 +1,115 @@
+# Objects : [w273226761]
+# name:be: []
+msgid "Гараж.Бытовое помещение"
+msgstr ""
+
+# Objects : [w321978105]
+# name:be: []
+msgid "Детсад"
+msgstr ""
+
+# Objects : [w256429261]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w245152959, w249899849, w312738554]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w245152960]
+# name:be: []
+msgid "Заправка СПК"
+msgstr ""
+
+# Objects : [w235888660]
+# name:be: []
+msgid "КАФЕ"ХУТОРОК""
+msgstr ""
+
+# Objects : [w245159545, w273244630]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w249899851]
+# name:be: []
+msgid "Контора ПМС"
+msgstr ""
+
+# Objects : [w244919019, w245152961]
+# name:be: []
+msgid "Контора СПК"
+msgstr ""
+
+# Objects : [w249899850]
+# name:be: []
+msgid "КПП ПМС"
+msgstr ""
+
+# Objects : [w259694514, w283740052, w283740053]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w244919020, w244941483, w245159546, w249901431, w249901432, w249901433, w263796944, w312738571, w321978118]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w245152962]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
+# Objects : [w321978117]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [w273226779]
+# name:be: []
+msgid "Пост ЭЦ"
+msgstr ""
+
+# Objects : [w283740054]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [w320476874]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [w258881595, w258881596]
+# name:be: []
+msgid "Промышленное здание"
+msgstr ""
+
+# Objects : [w255994014]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w283740056]
+# name:be: []
+msgid "сушилка"
+msgstr ""
+
+# Objects : [w273226781]
+# name:be: []
+msgid "Уза"
+msgstr ""
+
+# Objects : [w244919021, w273262323, w283740049]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w321978119]
+# name:be: []
+msgid "Филлиал Рогачёвского МКК"
+msgstr ""
+

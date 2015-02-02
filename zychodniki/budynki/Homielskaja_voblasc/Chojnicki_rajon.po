@@ -1,0 +1,100 @@
+# Objects : [w256833208]
+# name:be: []
+msgid "Банно-прачечный комбинат"
+msgstr ""
+
+# Objects : [w262329418]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w263306647]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w256696994]
+# name:be: []
+msgid "Кантора совхоза"
+msgstr ""
+
+# Objects : [w256685193]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w256698720, w262038348]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [w320476650]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w260242636]
+# name:be: []
+msgid "Котельная детсада"
+msgstr ""
+
+# Objects : [w262038588]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w256685195]
+# name:be: []
+msgid "Не действующее"
+msgstr ""
+
+# Objects : [w264574191]
+# name:be: []
+msgid "не используется"
+msgstr ""
+
+# Objects : [w256698783, w256702036, w256821454, w256823064, w256833290, w258727951, w263306779]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w256681854, w256688896, w256833210]
+# name:be: []
+msgid "ПРОДУКТОВЫЙ"
+msgstr ""
+
+# Objects : [w240236292]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w256688898, w256702035]
+# name:be: []
+msgid "Сельский клуб"
+msgstr ""
+
+# Objects : [w263306649]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w256833214]
+# name:be: []
+msgid "Стреличевский сельсовет"
+msgstr ""
+
+# Objects : [w256833213]
+# name:be: []
+msgid "Стреличевский ФАП"
+msgstr ""
+
+# Objects : [w256833217]
+# name:be: []
+msgid "Управление Стреличевского СПК"
+msgstr ""
+
+# Objects : [w258730772]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+

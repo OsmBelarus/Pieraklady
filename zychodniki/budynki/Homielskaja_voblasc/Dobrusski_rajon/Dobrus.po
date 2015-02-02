@@ -1,0 +1,330 @@
+# Objects : [w237820253]
+# name:be: []
+msgid "Автошкола"
+msgstr ""
+
+# Objects : [w241082293]
+# name:be: []
+msgid "Административное здание РПУ "Добрушрайгаз""
+msgstr ""
+
+# Objects : [w238696312, w238852226]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w219366460]
+# name:be: []
+msgid "Белгасстрах"
+msgstr ""
+
+# Objects : [w219366461, w238852184, w238852214, w238852246]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [w241082296, w242221546]
+# name:be: []
+msgid "Бытовая химия"
+msgstr ""
+
+# Objects : [w240474168]
+# name:be: []
+msgid "Ветлебница"
+msgstr ""
+
+# Objects : [w237821018]
+# name:be: []
+msgid "Виктория"
+msgstr ""
+
+# Objects : [w241461821]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w237809494]
+# name:be: []
+msgid "Все по 40"
+msgstr ""
+
+# Objects : [w242952974]
+# name:be: []
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w242188919]
+# name:be: []
+msgid "Детская консультация"
+msgstr ""
+
+# Objects : [w219366462]
+# name:be: []
+msgid "Добруш"
+msgstr ""
+
+# Objects : [w240131872]
+# name:be: []
+msgid "Добрушское БТИ"
+msgstr ""
+
+# Objects : [w238852234]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w242018712]
+# name:be: []
+msgid "Дом Пионеров"
+msgstr ""
+
+# Objects : [w241082329, w288767122]
+# name:be: []
+msgid "Жар-птица"
+msgstr ""
+
+# Objects : [w240093276]
+# name:be: []
+msgid "Книги"
+msgstr ""
+
+# Objects : [w288749912]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w238696290]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w238856487]
+# name:be: []
+msgid "контора "Горкоопзаготторга" Добрушского райпо"
+msgstr ""
+
+# Objects : [w238852242]
+# name:be: []
+msgid "Контора ЦРБ"
+msgstr ""
+
+# Objects : [w288767123]
+# name:be: []
+msgid "Копеечка"
+msgstr ""
+
+# Objects : [w238187188]
+# name:be: []
+msgid "КОТ"
+msgstr ""
+
+# Objects : [w242953019]
+# name:be: []
+msgid "Котельная СШ № 2"
+msgstr ""
+
+# Objects : [w241218923]
+# name:be: []
+msgid "котельная СШ №5"
+msgstr ""
+
+# Objects : [w238276557, w238856499]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w238852183]
+# name:be: []
+msgid "Магазин и общежитие"
+msgstr ""
+
+# Objects : [w240964323]
+# name:be: []
+msgid "Магазин № 38"
+msgstr ""
+
+# Objects : [w288629089]
+# name:be: []
+msgid "Мега-Остров"
+msgstr ""
+
+# Objects : [w241082330]
+# name:be: []
+msgid "Меркурий"
+msgstr ""
+
+# Objects : [w238851240]
+# name:be: []
+msgid "Минимаркет"
+msgstr ""
+
+# Objects : [w240001884]
+# name:be: []
+msgid "Молодёжный"
+msgstr ""
+
+# Objects : [w238849748]
+# name:be: []
+msgid "Народный суд"
+msgstr ""
+
+# Objects : [w238696153]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w238849749]
+# name:be: []
+msgid "Общежитие ПТУ-99"
+msgstr ""
+
+# Objects : [w242188826]
+# name:be: []
+msgid "Отдел образования"
+msgstr ""
+
+# Objects : [w242018649]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w219366463]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w288767124]
+# name:be: []
+msgid "По пути!"
+msgstr ""
+
+# Objects : [w238187207, w238441351, w238702074, w238852245, w239993442, w240121864, w241244793, w241461814, w241578969, w242063254, w242221562, w242222183, w242603873, w244283547, w244689337, w288767125]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w238853065]
+# name:be: []
+msgid "Продукты №12"
+msgstr ""
+
+# Objects : [w242221563]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w238856496]
+# name:be: []
+msgid "Пром и продтовары"
+msgstr ""
+
+# Objects : [w238849735, w288767126]
+# name:be: []
+msgid "Промтовары"
+msgstr ""
+
+# Objects : [w238852185]
+# name:be: []
+msgid "ПТУ"
+msgstr ""
+
+# Objects : [w242188828]
+# name:be: []
+msgid "Районный исполнительный комитет"
+msgstr ""
+
+# Objects : [w238856513]
+# name:be: []
+msgid "РАЙПОТРЕБСОЮЗ"
+msgstr ""
+
+# Objects : [w238403688]
+# name:be: []
+msgid "Ритуальные услуги"
+msgstr ""
+
+# Objects : [w242041224]
+# name:be: []
+msgid "Родильный дом"
+msgstr ""
+
+# Objects : [w241082332]
+# name:be: []
+msgid "Родничок"
+msgstr ""
+
+# Objects : [w288749909]
+# name:be: []
+msgid "Солнечный"
+msgstr ""
+
+# Objects : [w238852241]
+# name:be: []
+msgid "Спорткомплекс"
+msgstr ""
+
+# Objects : [w238696300, w238852186]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w242603875]
+# name:be: []
+msgid "Сьюзи!"
+msgstr ""
+
+# Objects : [w238849755]
+# name:be: []
+msgid "Торговый павильон"
+msgstr ""
+
+# Objects : [w219366469]
+# name:be: []
+msgid "Торговый центр КБО"
+msgstr ""
+
+# Objects : [w238792044]
+# name:be: []
+msgid "У Димона"
+msgstr ""
+
+# Objects : [w238849746]
+# name:be: []
+msgid "Универмаг"
+msgstr ""
+
+# Objects : [w238187189]
+# name:be: []
+msgid "УПК"
+msgstr ""
+
+# Objects : [r3282790]
+# name:be: []
+msgid "Фарфоровый завод"
+msgstr ""
+
+# Objects : [w238852187]
+# name:be: []
+msgid "Хлебозавод № 19"
+msgstr ""
+
+# Objects : [w288767129]
+# name:be: []
+msgid "Цвик"
+msgstr ""
+
+# Objects : [w241082334]
+# name:be: []
+msgid "ЦГЭ"
+msgstr ""
+
+# Objects : [w242188830]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w249896098]
+# name:be: []
+msgid "Шабринское лесничество"
+msgstr ""
+

@@ -1,0 +1,55 @@
+# Objects : [w82784394]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [w87826801]
+# name:be: []
+msgid "Водонапорн. башня"
+msgstr ""
+
+# Objects : [w82699338]
+# name:be: [ДК]
+msgid "ДК"
+msgstr ""
+
+# Objects : [w78057075]
+# name:be: []
+msgid "Лесничество"
+msgstr ""
+
+# Objects : [w127310312, w70594763]
+# name:be: []
+msgid "Минимаркет"
+msgstr ""
+
+# Objects : [w78057069]
+# name:be: [Музей]
+msgid "Музей"
+msgstr ""
+
+# Objects : [w78057036]
+# name:be: [Сядзібна-паркавы комплекс Грабніцкіх (руіны)]
+msgid "Обольская усадьба Гребницких (развалины)"
+msgstr ""
+
+# Objects : [w82699318]
+# name:be: [Пажарная частка]
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w82699339]
+# name:be: []
+msgid "Сель. совет"
+msgstr ""
+
+# Objects : [w78243918]
+# name:be: []
+msgid "Цех №1"
+msgstr ""
+
+# Objects : [w78243916]
+# name:be: []
+msgid "Цех №2"
+msgstr ""
+

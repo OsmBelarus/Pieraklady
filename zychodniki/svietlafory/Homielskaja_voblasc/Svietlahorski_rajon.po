@@ -1,0 +1,90 @@
+# Objects : [n343162077, n343162078]
+# name:be: []
+msgid "Автостанция"
+msgstr ""
+
+# Objects : [n1469322028, n1469322034]
+# name:be: []
+msgid "АП-5"
+msgstr ""
+
+# Objects : [n438072719, n438072720]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n343162067]
+# name:be: [Гасцініца]
+msgid "гостиница"
+msgstr ""
+
+# Objects : [n438072716, n438072717]
+# name:be: []
+msgid "Дп Мирошниченко"
+msgstr ""
+
+# Objects : [n1469322062, n1469322068]
+# name:be: []
+msgid "Зптн"
+msgstr ""
+
+# Objects : [n2181277682, n2181277724]
+# name:be: []
+msgid "ЗПТН"
+msgstr ""
+
+# Objects : [n1469322074]
+# name:be: []
+msgid "Картинная Галерея"
+msgstr ""
+
+# Objects : [n343162076]
+# name:be: []
+msgid "кинотеатр "Юность""
+msgstr ""
+
+# Objects : [n1469322089]
+# name:be: [Могілкі]
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n1469322092]
+# name:be: [Лясная]
+msgid "Лесная"
+msgstr ""
+
+# Objects : [n1469322096, n1469322104]
+# name:be: [Медсанчастка]
+msgid "Медсанчасть"
+msgstr ""
+
+# Objects : [n1180665825]
+# name:be: []
+msgid "Остановка "Серебряные Ключи""
+msgstr ""
+
+# Objects : [n445650479, n445650488]
+# name:be: []
+msgid "Строитель"
+msgstr ""
+
+# Objects : [n343162079, n343162080]
+# name:be: [ЦЭЦ]
+msgid "ТЭЦ"
+msgstr ""
+
+# Objects : [n2181276983]
+# name:be: []
+msgid "Урал 3"
+msgstr ""
+
+# Objects : [n1469322124, n1469322126]
+# name:be: []
+msgid "Химволокно"
+msgstr ""
+
+# Objects : [n1469322040, n1469322046]
+# name:be: []
+msgid "ЦКК"
+msgstr ""
+

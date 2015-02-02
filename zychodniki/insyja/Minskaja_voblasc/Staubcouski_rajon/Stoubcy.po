@@ -1,0 +1,370 @@
+# Objects : [n2621296651]
+# name:be: []
+msgid "Byfly"
+msgstr ""
+
+# Objects : [n612439285]
+# name:be: [Аўтамыйня]
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w48187885]
+# name:be: []
+msgid "Автопарк №17"
+msgstr ""
+
+# Objects : [n3238524414, w316724558]
+# name:be: []
+msgid "Акинчицы"
+msgstr ""
+
+# Objects : [w48186875]
+# name:be: []
+msgid "Алеся"
+msgstr ""
+
+# Objects : [n306063522]
+# name:be: []
+msgid "Астерия"
+msgstr ""
+
+# Objects : [n612432676]
+# name:be: []
+msgid "Баня № 1"
+msgstr ""
+
+# Objects : [n2621296650]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n2621296664]
+# name:be: []
+msgid "Бессмертный огонь"
+msgstr ""
+
+# Objects : [n612437417]
+# name:be: []
+msgid "БИЛЬЯРД'КРИСТАЛЛИН'"
+msgstr ""
+
+# Objects : [n306063353]
+# name:be: []
+msgid "Бти"
+msgstr ""
+
+# Objects : [n612435788]
+# name:be: []
+msgid "ВАЗА"
+msgstr ""
+
+# Objects : [n612450223]
+# name:be: []
+msgid "ВОЕНКОМАТ"
+msgstr ""
+
+# Objects : [n612436397]
+# name:be: []
+msgid "Воинам-интернационалистам"
+msgstr ""
+
+# Objects : [n612443807]
+# name:be: []
+msgid "ГК ВАСЕЛИС"
+msgstr ""
+
+# Objects : [n2766736480]
+# name:be: []
+msgid "Гостиница Астерия"
+msgstr ""
+
+# Objects : [n306063518]
+# name:be: []
+msgid "Гостинница"
+msgstr ""
+
+# Objects : [n612433371]
+# name:be: []
+msgid "Дзержинскому"
+msgstr ""
+
+# Objects : [w48185957]
+# name:be: []
+msgid "ДЭУ-62"
+msgstr ""
+
+# Objects : [n2788680366]
+# name:be: [Чыгуначны вакзал]
+msgid "Железнодорожный вокзал"
+msgstr ""
+
+# Objects : [n2621296661]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w48183917, w48184777]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2788680837]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681361]
+# name:be: [Могілкі старыя каталіцкія]
+msgid "Кладбище старое католическое"
+msgstr ""
+
+# Objects : [n2788681459]
+# name:be: [Могілкі старыя праваслаўныя]
+msgid "Кладбище старое православное"
+msgstr ""
+
+# Objects : [n612440363]
+# name:be: []
+msgid "КОЖНО-ВЕНЕР. ОТДЕЛЕНИЕ"
+msgstr ""
+
+# Objects : [w48183671]
+# name:be: []
+msgid "КОЛХОЗНЫЙ РЫНОК"
+msgstr ""
+
+# Objects : [n612435537]
+# name:be: []
+msgid "ЛЕНИН В.И."
+msgstr ""
+
+# Objects : [n306063364]
+# name:be: []
+msgid "Международный Переговорный Пункт"
+msgstr ""
+
+# Objects : [w48187640]
+# name:be: []
+msgid "МИНИРЫНОК"
+msgstr ""
+
+# Objects : [w48186881]
+# name:be: []
+msgid "Мини рынок"
+msgstr ""
+
+# Objects : [w48183715]
+# name:be: []
+msgid "Молочный завод"
+msgstr ""
+
+# Objects : [w48187588]
+# name:be: []
+msgid "Морг"
+msgstr ""
+
+# Objects : [w48185843]
+# name:be: []
+msgid "Моторный завод"
+msgstr ""
+
+# Objects : [n1376621317]
+# name:be: []
+msgid "Музей-усадьба Я. Коласа "Окинчицы""
+msgstr ""
+
+# Objects : [n306063483]
+# name:be: []
+msgid "Мчс"
+msgstr ""
+
+# Objects : [n612454745]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [n306063331]
+# name:be: []
+msgid "Налоговая Инспекция"
+msgstr ""
+
+# Objects : [n612432609]
+# name:be: []
+msgid "ООО'СТОЛБЦЫГАЗСТРОЙ'"
+msgstr ""
+
+# Objects : [w48183924]
+# name:be: []
+msgid "ООО 'столбцыгазстрой'"
+msgstr ""
+
+# Objects : [w48185303]
+# name:be: []
+msgid "ООО "ВестТрансАвто""
+msgstr ""
+
+# Objects : [w48186510]
+# name:be: []
+msgid "Плодоовощной комбинат"
+msgstr ""
+
+# Objects : [w48183841]
+# name:be: []
+msgid "ПЛЯЖ"
+msgstr ""
+
+# Objects : [w48187901]
+# name:be: []
+msgid "ПМК"
+msgstr ""
+
+# Objects : [w48185894]
+# name:be: []
+msgid "полигон столбцовских ЭС"
+msgstr ""
+
+# Objects : [n612436447]
+# name:be: []
+msgid "Польское кладбище"
+msgstr ""
+
+# Objects : [w48184693]
+# name:be: []
+msgid "Продуктовый магазин"
+msgstr ""
+
+# Objects : [w48185706]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n612446991]
+# name:be: []
+msgid "ПРОКУРАТУРА"
+msgstr ""
+
+# Objects : [n306063335]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
+# Objects : [n306063494]
+# name:be: []
+msgid "Райпо"
+msgstr ""
+
+# Objects : [n612436372]
+# name:be: []
+msgid "РДК"
+msgstr ""
+
+# Objects : [n306063357, n612436272, w48184814]
+# name:be: [РАУС]
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w48187884]
+# name:be: []
+msgid "РСУ"
+msgstr ""
+
+# Objects : [w48183966]
+# name:be: []
+msgid "РУП 'столбцовское окс'"
+msgstr ""
+
+# Objects : [n306063480]
+# name:be: []
+msgid "Руэс"
+msgstr ""
+
+# Objects : [w48187911]
+# name:be: []
+msgid "Свитанок"
+msgstr ""
+
+# Objects : [n2788684314]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [w48187049]
+# name:be: []
+msgid "Скорая Помощь"
+msgstr ""
+
+# Objects : [n306063563]
+# name:be: [Стары Двор]
+msgid "Старый Двор"
+msgstr ""
+
+# Objects : [n612446003]
+# name:be: []
+msgid "Стелла освободителям 2 июля 1944"
+msgstr ""
+
+# Objects : [w48187889]
+# name:be: []
+msgid "Столбцовские электрические сети"
+msgstr ""
+
+# Objects : [w48183775]
+# name:be: [Стоўбцаўскі мясакамбінат]
+msgid "Столбцовский мясокомбинат"
+msgstr ""
+
+# Objects : [w48185549]
+# name:be: []
+msgid "Столбцовский опытный лесхоз"
+msgstr ""
+
+# Objects : [n278618048]
+# name:be: [Стоўбцы]
+msgid "Столбцы"
+msgstr ""
+
+# Objects : [n612446737]
+# name:be: []
+msgid "СУД"
+msgstr ""
+
+# Objects : [w48187195]
+# name:be: []
+msgid "Танцплощадка"
+msgstr ""
+
+# Objects : [n2621296662]
+# name:be: []
+msgid "Типография"
+msgstr ""
+
+# Objects : [n2621296656]
+# name:be: []
+msgid "Тренажерный зал"
+msgstr ""
+
+# Objects : [w48187554]
+# name:be: []
+msgid "ТЦ "Армандо""
+msgstr ""
+
+# Objects : [n2788684736]
+# name:be: [Сядзіба Міцкевічаў у Акіньчыцах]
+msgid "Усадьба Мицкевичей в Акинчиц"
+msgstr ""
+
+# Objects : [n2621296657]
+# name:be: []
+msgid "Фото лаборатория"
+msgstr ""
+
+# Objects : [w48187617]
+# name:be: []
+msgid "хлебозавод"
+msgstr ""
+
+# Objects : [n2788686569]
+# name:be: [Царква Святой Ганны]
+msgid "Церковь Святой Анны"
+msgstr ""
+

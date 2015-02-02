@@ -1,0 +1,170 @@
+# Objects : [w246992465]
+# name:be: []
+msgid "автовесы"
+msgstr ""
+
+# Objects : [w316664353, w316902244]
+# name:be: []
+msgid "Багданович"
+msgstr ""
+
+# Objects : [w296129264, w296129379]
+# name:be: []
+msgid "вечный огонь"
+msgstr ""
+
+# Objects : [n1282432097]
+# name:be: []
+msgid "Вытрезвитель"
+msgstr ""
+
+# Objects : [w246992459]
+# name:be: []
+msgid "Газсервис"
+msgstr ""
+
+# Objects : [n674417700]
+# name:be: []
+msgid "Городской парк"
+msgstr ""
+
+# Objects : [n2766736566]
+# name:be: []
+msgid "Гостиница Дружба"
+msgstr ""
+
+# Objects : [n1237242412]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w246992461]
+# name:be: []
+msgid "Диспетчерская"
+msgstr ""
+
+# Objects : [w287277339]
+# name:be: []
+msgid "инфекция"
+msgstr ""
+
+# Objects : [n503706349]
+# name:be: []
+msgid "Калинковичи"
+msgstr ""
+
+# Objects : [n3049611945]
+# name:be: [Калінкавічы Усходнія]
+msgid "Калинковичи-Восточные"
+msgstr ""
+
+# Objects : [w246992462]
+# name:be: []
+msgid "Контора торговой базы РСХТ"
+msgstr ""
+
+# Objects : [w321101329]
+# name:be: []
+msgid "КУП "Калинковичский мебельный комбинат""
+msgstr ""
+
+# Objects : [w312102093, w312102095]
+# name:be: []
+msgid "КУП «Коммунальник Калинковичский»"
+msgstr ""
+
+# Objects : [w315735179]
+# name:be: []
+msgid "Мартин"
+msgstr ""
+
+# Objects : [n674418350]
+# name:be: []
+msgid "Милиция + ГАИ"
+msgstr ""
+
+# Objects : [n674423286]
+# name:be: [Мясакамбінат]
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [w248785241, w248785242, w248785243]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [n1139356366]
+# name:be: []
+msgid "ПГАК"
+msgstr ""
+
+# Objects : [w288473425]
+# name:be: []
+msgid "Полесский аграрный колледж"
+msgstr ""
+
+# Objects : [n674421451]
+# name:be: []
+msgid "Районная поликлиника"
+msgstr ""
+
+# Objects : [w255787696]
+# name:be: []
+msgid "Райпо"
+msgstr ""
+
+# Objects : [w246992463]
+# name:be: []
+msgid "Райтопсбыт"
+msgstr ""
+
+# Objects : [n674420505]
+# name:be: []
+msgid "РМЗ"
+msgstr ""
+
+# Objects : [w287277341]
+# name:be: []
+msgid "роддом"
+msgstr ""
+
+# Objects : [w315716419]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w61751413]
+# name:be: []
+msgid "Торговые ряды "Магистраль""
+msgstr ""
+
+# Objects : [n674421615]
+# name:be: [Хлебазавод]
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [n674418472]
+# name:be: []
+msgid "Хлебопродукт"
+msgstr ""
+
+# Objects : [w312102099, w312102100]
+# name:be: []
+msgid "ЧУП "Калинковичский молочный комбинат""
+msgstr ""
+
+# Objects : [w287280951]
+# name:be: []
+msgid "Школа №2"
+msgstr ""
+
+# Objects : [w297732284]
+# name:be: []
+msgid "№ 3"
+msgstr ""
+
+# Objects : [w262659542, w263199270]
+# name:be: []
+msgid "№4"
+msgstr ""
+

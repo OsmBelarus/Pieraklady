@@ -1,0 +1,45 @@
+# Objects : [n306061886, n306068126]
+# name:be: []
+msgid "A-100"
+msgstr ""
+
+# Objects : [w103397938]
+# name:be: []
+msgid "GAS"
+msgstr ""
+
+# Objects : [n824063435]
+# name:be: [А-100]
+msgid "А-100"
+msgstr ""
+
+# Objects : [n1263056330]
+# name:be: []
+msgid "АГНКС Брест-1"
+msgstr ""
+
+# Objects : [n1263057124]
+# name:be: []
+msgid "АГНКС Брест-2"
+msgstr ""
+
+# Objects : [n2904954405]
+# name:be: []
+msgid "Белнефтехим"
+msgstr ""
+
+# Objects : [n2009770596, n3060394733, n306062044, n306062115, n306062154, n306062256, n306063776, n306069281, n3087226030, w66580504]
+# name:be: []
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [n3189609239]
+# name:be: []
+msgid "БелТрансОил"
+msgstr ""
+
+# Objects : [n1186571361, n306064289]
+# name:be: [Лукоiл]
+msgid "Лукойл"
+msgstr ""
+

@@ -1,0 +1,520 @@
+# Objects : [w94115324]
+# name:be: []
+msgid "02"
+msgstr ""
+
+# Objects : [w94114596]
+# name:be: []
+msgid "03"
+msgstr ""
+
+# Objects : [w279979910]
+# name:be: []
+msgid "04"
+msgstr ""
+
+# Objects : [w154222607, w279979909, w280198612, w280198617, w280198671, w280242008, w280242027, w281556484, w94114956, w94115176, w94115444, w94115460, w94115682, w94117068]
+# name:be: []
+msgid "1"
+msgstr ""
+
+# Objects : [w154222538, w280198618, w280198647, w280198648, w280198657, w280198696, w280242026, w280242033, w93961779, w94114332, w94114463, w94114612, w94115275]
+# name:be: []
+msgid "10"
+msgstr ""
+
+# Objects : [w280242006]
+# name:be: []
+msgid "101"
+msgstr ""
+
+# Objects : [w154222579, w280198598, w280242106]
+# name:be: []
+msgid "103"
+msgstr ""
+
+# Objects : [w274911379]
+# name:be: []
+msgid "108а"
+msgstr ""
+
+# Objects : [w274532786]
+# name:be: []
+msgid "108б"
+msgstr ""
+
+# Objects : [w279771136, w280242144]
+# name:be: []
+msgid "10а"
+msgstr ""
+
+# Objects : [w154222547, w279979908, w280198634, w280198639, w280198663, w280242134, w94114420, w94115098, w94115247, w94115271, w94117039]
+# name:be: []
+msgid "11"
+msgstr ""
+
+# Objects : [w154222555, w280198608, w280198610, w280198679, w280242041, w280242108, w93971119, w94114891, w94114939, w94115177, w94115685]
+# name:be: []
+msgid "12"
+msgstr ""
+
+# Objects : [w274758435, w274779360, w280242089]
+# name:be: []
+msgid "12а"
+msgstr ""
+
+# Objects : [n1094038365, w279979902, w280198591, w280198624, w280198651, w281553222, w94115404, w94115487, w94117082]
+# name:be: []
+msgid "13"
+msgstr ""
+
+# Objects : [w154222589, w280198590, w280198596, w280198664, w280242081, w93970665, w94115393, w94115505, w94115683]
+# name:be: []
+msgid "14"
+msgstr ""
+
+# Objects : [w93961747]
+# name:be: []
+msgid "14а"
+msgstr ""
+
+# Objects : [w279979898, w280198602, w280198616, w280198691, w280242133, w94115434, w94115457, w94117088]
+# name:be: []
+msgid "15"
+msgstr ""
+
+# Objects : [w157536171, w273060347]
+# name:be: []
+msgid "15а"
+msgstr ""
+
+# Objects : [w315864599]
+# name:be: []
+msgid "15в"
+msgstr ""
+
+# Objects : [w112605600, w154222516, w280198589, w280198652, w280242058, w93953839, w94114291, w94114868, w94115212]
+# name:be: []
+msgid "16"
+msgstr ""
+
+# Objects : [w157536122, w274782267]
+# name:be: []
+msgid "16а"
+msgstr ""
+
+# Objects : [w274782259]
+# name:be: []
+msgid "16б"
+msgstr ""
+
+# Objects : [w279979907, w280198587, w280198604, w280198677, w94115147, w94115416, w94115594, w94115634]
+# name:be: []
+msgid "17"
+msgstr ""
+
+# Objects : [w274280910]
+# name:be: []
+msgid "17,19"
+msgstr ""
+
+# Objects : [w157536234]
+# name:be: []
+msgid "17а"
+msgstr ""
+
+# Objects : [w112605588, w112605602, w154222567, w280198641, w280198695, w94114445, w94115020, w94115331]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [w157536173]
+# name:be: []
+msgid "18а"
+msgstr ""
+
+# Objects : [w279979913, w280198593, w280198656, w280198690, w94115162, w94115706]
+# name:be: []
+msgid "19"
+msgstr ""
+
+# Objects : [w157536213, w283411353]
+# name:be: []
+msgid "19а"
+msgstr ""
+
+# Objects : [w274532777, w274787723, w275146703, w275155370, w94114329]
+# name:be: []
+msgid "1а"
+msgstr ""
+
+# Objects : [w154222597, w154222605, w280198619, w280198669, w280242110, w281556489, w283401702, w94114487, w94114763, w94114778, w94114853]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w112605582, w112605592, w154222586, w280198631, w280198689, w94115168, w94115197]
+# name:be: []
+msgid "20"
+msgstr ""
+
+# Objects : [w157536179]
+# name:be: []
+msgid "20а"
+msgstr ""
+
+# Objects : [w154222507, w279979906, w280198586, w280198635, w94114255, w94114368, w94115043, w94115598]
+# name:be: []
+msgid "21"
+msgstr ""
+
+# Objects : [w273060376]
+# name:be: []
+msgid "21а"
+msgstr ""
+
+# Objects : [w112605589, w112605594, w154222525, w280198621, w280198683, w94115461, w94115643]
+# name:be: []
+msgid "22"
+msgstr ""
+
+# Objects : [w279979912, w280198599, w94114905, w94115363, w94115642]
+# name:be: []
+msgid "23"
+msgstr ""
+
+# Objects : [w112605590, w112605601, w280198611, w280198673, w94115218]
+# name:be: []
+msgid "24"
+msgstr ""
+
+# Objects : [w279979901, w280198642, w94115000, w94115463]
+# name:be: []
+msgid "25"
+msgstr ""
+
+# Objects : [w280198614, w280198680]
+# name:be: []
+msgid "26"
+msgstr ""
+
+# Objects : [w280198632, w94114688, w94115387]
+# name:be: []
+msgid "27"
+msgstr ""
+
+# Objects : [w280198603, w280198672]
+# name:be: []
+msgid "28"
+msgstr ""
+
+# Objects : [w280198622, w94114283, w94114345]
+# name:be: []
+msgid "29"
+msgstr ""
+
+# Objects : [w274478403, w274908143, w287461264]
+# name:be: []
+msgid "2а"
+msgstr ""
+
+# Objects : [w273429098]
+# name:be: []
+msgid "2А"
+msgstr ""
+
+# Objects : [w273429094]
+# name:be: []
+msgid "2Б"
+msgstr ""
+
+# Objects : [w273429092]
+# name:be: []
+msgid "2В"
+msgstr ""
+
+# Objects : [w154222517, w154222570, w279979900, w280198605, w280198660, w280198676, w93971782, w94114403, w94115281, w94115313, w94115686, w94117038]
+# name:be: []
+msgid "3"
+msgstr ""
+
+# Objects : [w274758374]
+# name:be: []
+msgid "3/1"
+msgstr ""
+
+# Objects : [w274758438]
+# name:be: []
+msgid "3/2"
+msgstr ""
+
+# Objects : [w280198668]
+# name:be: []
+msgid "30"
+msgstr ""
+
+# Objects : [w280198613, w94114245, w94115083]
+# name:be: []
+msgid "31"
+msgstr ""
+
+# Objects : [w280198678, w94114438]
+# name:be: []
+msgid "32"
+msgstr ""
+
+# Objects : [w179411065]
+# name:be: []
+msgid "32а"
+msgstr ""
+
+# Objects : [w280198601, w94115566]
+# name:be: []
+msgid "33"
+msgstr ""
+
+# Objects : [w280198675, w94114651]
+# name:be: []
+msgid "34"
+msgstr ""
+
+# Objects : [w94115628]
+# name:be: []
+msgid "35"
+msgstr ""
+
+# Objects : [w273492570, w274478434]
+# name:be: []
+msgid "35а"
+msgstr ""
+
+# Objects : [w94114423]
+# name:be: []
+msgid "36"
+msgstr ""
+
+# Objects : [w94114373]
+# name:be: []
+msgid "37"
+msgstr ""
+
+# Objects : [w274478405, w274787766]
+# name:be: []
+msgid "3а"
+msgstr ""
+
+# Objects : [w154222571, w280198609, w280198649, w280242065, w281556476, w94114219, w94115315, w94115660, w94115665]
+# name:be: []
+msgid "4"
+msgstr ""
+
+# Objects : [w94115680]
+# name:be: []
+msgid "43"
+msgstr ""
+
+# Objects : [w280198659]
+# name:be: []
+msgid "46"
+msgstr ""
+
+# Objects : [w157536170]
+# name:be: []
+msgid "46а"
+msgstr ""
+
+# Objects : [w157536240]
+# name:be: []
+msgid "46б"
+msgstr ""
+
+# Objects : [w273449216, w274478436]
+# name:be: []
+msgid "4а"
+msgstr ""
+
+# Objects : [w154222535, w154222548, w279979905, w280198594, w280198650, w280198666, w93953488, w94114355, w94114951, w94115411, w94115477, w94115705, w94115709, w94117053]
+# name:be: []
+msgid "5"
+msgstr ""
+
+# Objects : [w280198670]
+# name:be: []
+msgid "50"
+msgstr ""
+
+# Objects : [w273449170]
+# name:be: []
+msgid "52а"
+msgstr ""
+
+# Objects : [w274478414, w279771145, w279776499]
+# name:be: []
+msgid "5а"
+msgstr ""
+
+# Objects : [w154222592, w280198597, w280198636, w280242114, w280242131, w93962925, w94114210, w94114897, w94115124, w94115138, w94115543]
+# name:be: []
+msgid "6"
+msgstr ""
+
+# Objects : [w280198585]
+# name:be: []
+msgid "62"
+msgstr ""
+
+# Objects : [w280198600]
+# name:be: []
+msgid "66"
+msgstr ""
+
+# Objects : [w280242053]
+# name:be: []
+msgid "68"
+msgstr ""
+
+# Objects : [w274478412]
+# name:be: []
+msgid "6а"
+msgstr ""
+
+# Objects : [w154222578, w154222602, w279979911, w280198637, w280198654, w280198692, w280242032, w93961121, w94114223, w94114634, w94114971, w94115163, w94115272, w94115692, w94117060]
+# name:be: []
+msgid "7"
+msgstr ""
+
+# Objects : [w316945825]
+# name:be: []
+msgid "70"
+msgstr ""
+
+# Objects : [w280198685]
+# name:be: []
+msgid "76"
+msgstr ""
+
+# Objects : [w280198667]
+# name:be: []
+msgid "78"
+msgstr ""
+
+# Objects : [w274478423]
+# name:be: []
+msgid "7а"
+msgstr ""
+
+# Objects : [w280198584, w280198627, w280198643, w280198674, w280242075, w94114693, w94115086, w94115328, w94115486, w94115604]
+# name:be: []
+msgid "8"
+msgstr ""
+
+# Objects : [w280213346]
+# name:be: []
+msgid "80"
+msgstr ""
+
+# Objects : [w280213347]
+# name:be: []
+msgid "82"
+msgstr ""
+
+# Objects : [w280198640]
+# name:be: []
+msgid "83"
+msgstr ""
+
+# Objects : [w280242044]
+# name:be: []
+msgid "84"
+msgstr ""
+
+# Objects : [w280198630]
+# name:be: []
+msgid "85"
+msgstr ""
+
+# Objects : [w280242056]
+# name:be: []
+msgid "86"
+msgstr ""
+
+# Objects : [w274787762]
+# name:be: []
+msgid "88"
+msgstr ""
+
+# Objects : [w281556474]
+# name:be: []
+msgid "8а"
+msgstr ""
+
+# Objects : [w154222562, w279979899, w279979903, w280198628, w280198629, w280198645, w280198688, w280242009, w316903286, w94114547, w94114782, w94114836, w94114972, w94115621, w94117075]
+# name:be: []
+msgid "9"
+msgstr ""
+
+# Objects : [w280198620]
+# name:be: []
+msgid "91"
+msgstr ""
+
+# Objects : [w280198697]
+# name:be: []
+msgid "93"
+msgstr ""
+
+# Objects : [w280198684]
+# name:be: []
+msgid "95"
+msgstr ""
+
+# Objects : [w280198693]
+# name:be: []
+msgid "97"
+msgstr ""
+
+# Objects : [w280198681]
+# name:be: []
+msgid "99"
+msgstr ""
+
+# Objects : [w280242084]
+# name:be: []
+msgid "9а"
+msgstr ""
+
+# Objects : [w273492518]
+# name:be: []
+msgid "д.Таборишки,"
+msgstr ""
+
+# Objects : [w276504049]
+# name:be: []
+msgid "интернат"
+msgstr ""
+
+# Objects : [w274478397]
+# name:be: []
+msgid "клуб"
+msgstr ""
+
+# Objects : [w274478413]
+# name:be: []
+msgid "контора"
+msgstr ""
+
+# Objects : [w273060338]
+# name:be: []
+msgid "ул.Молодежная,33"
+msgstr ""
+
+# Objects : [w273060389]
+# name:be: []
+msgid "ул.Молодежная,50"
+msgstr ""
+
+# Objects : [w274219652]
+# name:be: []
+msgid "ул.Промышленная,1"
+msgstr ""
+

@@ -1,0 +1,225 @@
+# Objects : [n1907410314]
+# name:be: []
+msgid "Ice Skating"
+msgstr ""
+
+# Objects : [n1907410309]
+# name:be: []
+msgid "Swimming Pool"
+msgstr ""
+
+# Objects : [w25202636]
+# name:be: []
+msgid "Бобровичское"
+msgstr ""
+
+# Objects : [w259131489]
+# name:be: []
+msgid "в/ч 15994"
+msgstr ""
+
+# Objects : [n1516274466]
+# name:be: [Валянціна]
+msgid "Валентина"
+msgstr ""
+
+# Objects : [n306069074]
+# name:be: []
+msgid "Волька"
+msgstr ""
+
+# Objects : [w25197045]
+# name:be: []
+msgid "Вульковское"
+msgstr ""
+
+# Objects : [n2766728048]
+# name:be: []
+msgid "Выгоновский"
+msgstr ""
+
+# Objects : [w25202406]
+# name:be: []
+msgid "Выгоновское"
+msgstr ""
+
+# Objects : [w25189217]
+# name:be: []
+msgid "Выжер"
+msgstr ""
+
+# Objects : [n2766736702]
+# name:be: []
+msgid "Гостиница Телеханы"
+msgstr ""
+
+# Objects : [w25197707]
+# name:be: []
+msgid "Гоща"
+msgstr ""
+
+# Objects : [n2788680240]
+# name:be: [Палац Пуслоўскіх]
+msgid "Дворец Пусловских"
+msgstr ""
+
+# Objects : [n306069147]
+# name:be: [Даманава]
+msgid "Доманово"
+msgstr ""
+
+# Objects : [n2788680467]
+# name:be: [Будынак былой школы]
+msgid "Здание бывшей школы"
+msgstr ""
+
+# Objects : [n2766728094]
+# name:be: []
+msgid "Ивацевичский"
+msgstr ""
+
+# Objects : [n2788680487]
+# name:be: [Царква Святога прарока Іллі]
+msgid "Илии"
+msgstr ""
+
+# Objects : [w299223154]
+# name:be: []
+msgid "Исправительная колония"
+msgstr ""
+
+# Objects : [n2788680635, n2788680637]
+# name:be: [Могілкі вайсковыя часоў 1-й сусветнай вайны]
+msgid "Кладбище военное времен 1-й мировой войны"
+msgstr ""
+
+# Objects : [n2788680747]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681430]
+# name:be: [Могілкі старыя каталіцкія. Капліца]
+msgid "Кладбище старое католическое. Часовня"
+msgstr ""
+
+# Objects : [w25190185]
+# name:be: []
+msgid "Корочин"
+msgstr ""
+
+# Objects : [n2741737672]
+# name:be: [Косава Палескае]
+msgid "Коссово-Полесское"
+msgstr ""
+
+# Objects : [w25192736]
+# name:be: []
+msgid "Лунево"
+msgstr ""
+
+# Objects : [n306069215]
+# name:be: []
+msgid "Охотничий Домик"
+msgstr ""
+
+# Objects : [n2788683590, n2788683592]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2788683975, n2788683990]
+# name:be: [Прысядзібны парк]
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [n2788683737]
+# name:be: [Прысядзібны парк пры былой сядзібе Палубінскіх]
+msgid "Приусадебный парк при бывшей усадьбе Полубинских"
+msgstr ""
+
+# Objects : [n2788683782]
+# name:be: [Прысядзібны парк пры былой сядзібе Халецкіх]
+msgid "Приусадебный парк при бывшей усадьбе Халецкий"
+msgstr ""
+
+# Objects : [n2788683844]
+# name:be: [Прысядзібны парк пры былой сядзібе Юндзілаў]
+msgid "Приусадебный парк при бывшей усадьбе Юндилов"
+msgstr ""
+
+# Objects : [n2788687753]
+# name:be: [пункт]
+msgid "пункт"
+msgstr ""
+
+# Objects : [w25196487]
+# name:be: []
+msgid "Соминское"
+msgstr ""
+
+# Objects : [n3248389675, w318434505]
+# name:be: []
+msgid "СПК "Гощево""
+msgstr ""
+
+# Objects : [n2099678588]
+# name:be: [Музей Тадэвуша Касцюшкі]
+msgid "Тадэуша Костюшко музей"
+msgstr ""
+
+# Objects : [n2788684717]
+# name:be: [Сядзіба Касцюшкаў]
+msgid "Усадьба Костюшко"
+msgstr ""
+
+# Objects : [n2788685112]
+# name:be: [Капліца-пахавальня]
+msgid "Усыпальница"
+msgstr ""
+
+# Objects : [n2788687335]
+# name:be: [Царква]
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n2788686129]
+# name:be: [Царква Праабражэння Гасподняга]
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n2788686196]
+# name:be: [Царква Нараджэння Божай Маці]
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686305]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n2788686369]
+# name:be: [Царква Святога Міхала Арханёла]
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n2788686474]
+# name:be: [Царква Святога Мікалая]
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788686564]
+# name:be: [Царква Святой Ганны]
+msgid "Церковь Святой Анны"
+msgstr ""
+
+# Objects : [n2788687205, n2788687211]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n3248386791]
+# name:be: []
+msgid "Школа"
+msgstr ""
+

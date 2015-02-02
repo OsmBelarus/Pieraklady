@@ -1,0 +1,180 @@
+# Objects : [w262012361]
+# name:be: []
+msgid "АВМ"
+msgstr ""
+
+# Objects : [w289975714]
+# name:be: []
+msgid "АТС"
+msgstr ""
+
+# Objects : [w317784955]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w259879035, w259879036]
+# name:be: []
+msgid "бытовое здание"
+msgstr ""
+
+# Objects : [w320483045, w320925073, w320925074]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w318069331]
+# name:be: []
+msgid "гаражи"
+msgstr ""
+
+# Objects : [w297376914]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w289506833, w289528546, w289528547, w289973529]
+# name:be: []
+msgid "забр"
+msgstr ""
+
+# Objects : [w261526189]
+# name:be: []
+msgid "заброшенный дом"
+msgstr ""
+
+# Objects : [w261526190]
+# name:be: []
+msgid "заброшшенный дом"
+msgstr ""
+
+# Objects : [w262012365]
+# name:be: []
+msgid "зерносушилка"
+msgstr ""
+
+# Objects : [w289346507]
+# name:be: []
+msgid "Кательная"
+msgstr ""
+
+# Objects : [w289346506]
+# name:be: []
+msgid "КЗС"
+msgstr ""
+
+# Objects : [w323397587]
+# name:be: []
+msgid "КНС"
+msgstr ""
+
+# Objects : [w287670795]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w321978830]
+# name:be: []
+msgid "корвник"
+msgstr ""
+
+# Objects : [w259879037, w259879038]
+# name:be: []
+msgid "кормоцех"
+msgstr ""
+
+# Objects : [w318060408, w318060409, w318060410, w318060411, w318060412, w324388542]
+# name:be: []
+msgid "коровник"
+msgstr ""
+
+# Objects : [w254106500, w287694223, w318078782, w325412518]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w318069336]
+# name:be: []
+msgid "котельная (разр.)"
+msgstr ""
+
+# Objects : [w287670792]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
+# Objects : [w313813360, w313813361, w313813362, w313813363]
+# name:be: []
+msgid "крыльцо"
+msgstr ""
+
+# Objects : [w318078772]
+# name:be: []
+msgid "МТФ"
+msgstr ""
+
+# Objects : [w289853701, w289853702, w289853703, w289853704, w289853705, w289853706, w289853707, w289853708, w289853709, w289853710, w289853711, w289853712, w289853713, w289853714, w300809320, w300809321]
+# name:be: []
+msgid "навес"
+msgstr ""
+
+# Objects : [w301790869]
+# name:be: []
+msgid "остановка"
+msgstr ""
+
+# Objects : [w288909010]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
+# Objects : [w259879041]
+# name:be: []
+msgid "проходная"
+msgstr ""
+
+# Objects : [w251137555, w300809322]
+# name:be: []
+msgid "разр."
+msgstr ""
+
+# Objects : [w306956008]
+# name:be: []
+msgid "санаторий «Приднепровский»"
+msgstr ""
+
+# Objects : [w324388544, w324388546, w324388548, w324388550, w324388551, w324388553, w324388555, w324388556, w324388558, w324496918, w324496919, w324496920, w324496921, w324496922, w324496923, w324496924, w324496925]
+# name:be: []
+msgid "сарай"
+msgstr ""
+
+# Objects : [w259879042]
+# name:be: []
+msgid "свинарник"
+msgstr ""
+
+# Objects : [w303039881]
+# name:be: []
+msgid "Скважина"
+msgstr ""
+
+# Objects : [w321978832]
+# name:be: []
+msgid "телятник"
+msgstr ""
+
+# Objects : [w287662844, w287662845]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w259879043]
+# name:be: []
+msgid "цех приготовления кормов"
+msgstr ""
+
+# Objects : [r3487954]
+# name:be: []
+msgid "ШРП СГЦ Заречье"
+msgstr ""
+

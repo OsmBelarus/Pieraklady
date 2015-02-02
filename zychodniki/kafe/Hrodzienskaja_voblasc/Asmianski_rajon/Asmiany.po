@@ -1,0 +1,30 @@
+# Objects : [n2360724509]
+# name:be: []
+msgid "Галактика"
+msgstr ""
+
+# Objects : [n3246626307]
+# name:be: []
+msgid "Империя"
+msgstr ""
+
+# Objects : [n2659190092]
+# name:be: []
+msgid "Каприз"
+msgstr ""
+
+# Objects : [n899605527]
+# name:be: [Стары млын]
+msgid "Старая мельница"
+msgstr ""
+
+# Objects : [n2833362613]
+# name:be: [Стары горад]
+msgid "Старый город"
+msgstr ""
+
+# Objects : [n2360744147]
+# name:be: [Cталовая №1]
+msgid "Столовая №1"
+msgstr ""
+

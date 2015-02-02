@@ -1,0 +1,6520 @@
+# Objects : [w29129242]
+# name:be: []
+msgid "«ФИРМА МОКА» ООО"
+msgstr ""
+
+# Objects : [r2453286]
+# name:be: [1-ы Дальні завулак]
+msgid "1-й Дальний переулок"
+msgstr ""
+
+# Objects : [r3681847]
+# name:be: [1-ы Зарэчны завулак]
+msgid "1-й Заречный переулок"
+msgstr ""
+
+# Objects : [r331071]
+# name:be: [1-ы Новы завулак]
+msgid "1-й Новый переулок"
+msgstr ""
+
+# Objects : [r2534409]
+# name:be: [1-ы завулак Белуша]
+msgid "1-й переулок Белуша"
+msgstr ""
+
+# Objects : [r2453287]
+# name:be: [1-ы завулак Калініна]
+msgid "1-й переулок Калинина"
+msgstr ""
+
+# Objects : [r2562510]
+# name:be: [1-ы завулак Карскага]
+msgid "1-й переулок Карского"
+msgstr ""
+
+# Objects : [r2540870]
+# name:be: [1-ы завулак Серафімовіча]
+msgid "1-й переулок Серафимовича"
+msgstr ""
+
+# Objects : [r2447534]
+# name:be: [1-ы завулак Скрынніка]
+msgid "1-й переулок Скрынника"
+msgstr ""
+
+# Objects : [w41420065]
+# name:be: [1-ы пуць]
+msgid "1-й путь"
+msgstr ""
+
+# Objects : [r2534410]
+# name:be: [1-я Працоўная вуліца]
+msgid "1-я Трудовая улица"
+msgstr ""
+
+# Objects : [n1325456655]
+# name:be: []
+msgid "2а Чех"
+msgstr ""
+
+# Objects : [r2453288]
+# name:be: [2-і Дальні завулак]
+msgid "2-й Дальний переулок"
+msgstr ""
+
+# Objects : [r3997103]
+# name:be: [2-і Каравайны завулак]
+msgid "2-й Каравайный переулок"
+msgstr ""
+
+# Objects : [r162790]
+# name:be: [2-і завулак Белуша]
+msgid "2-й переулок Белуша"
+msgstr ""
+
+# Objects : [r1474219]
+# name:be: [2-і завулак Дзяржынскага]
+msgid "2-й переулок Дзержинского"
+msgstr ""
+
+# Objects : [r2453289]
+# name:be: [2-і завулак Калініна]
+msgid "2-й переулок Калинина"
+msgstr ""
+
+# Objects : [r1307632]
+# name:be: [2-і завулак Скрынніка]
+msgid "2-й переулок Скрынника"
+msgstr ""
+
+# Objects : [w41420062]
+# name:be: [2-і пуць]
+msgid "2-й путь"
+msgstr ""
+
+# Objects : [r2561243]
+# name:be: [2-я Працоўная вуліца]
+msgid "2-я Трудовая улица"
+msgstr ""
+
+# Objects : [r2453290]
+# name:be: [3-і Дальні завулак]
+msgid "3-й Дальний переулок"
+msgstr ""
+
+# Objects : [r2530415]
+# name:be: [3-і Асенні завулак]
+msgid "3-й Осенний переулок"
+msgstr ""
+
+# Objects : [r2453291]
+# name:be: [3-і завулак Калініна]
+msgid "3-й переулок Калинина"
+msgstr ""
+
+# Objects : [r135486]
+# name:be: [3-і завулак Серафімовіча]
+msgid "3-й переулок Серафимовича"
+msgstr ""
+
+# Objects : [r326092]
+# name:be: [3-і Падольны завулак]
+msgid "3-й Подольный переулок"
+msgstr ""
+
+# Objects : [w219450771]
+# name:be: [3-і пуць]
+msgid "3-й путь"
+msgstr ""
+
+# Objects : [n1701090013]
+# name:be: []
+msgid "3 Пыш"
+msgstr ""
+
+# Objects : [r2453292]
+# name:be: [4-ы Дальні завулак]
+msgid "4-й Дальний переулок"
+msgstr ""
+
+# Objects : [r2453293]
+# name:be: [4-ы завулак Калініна]
+msgid "4-й переулок Калинина"
+msgstr ""
+
+# Objects : [r326095]
+# name:be: [4-ы Падольны завулак]
+msgid "4-й Подольный переулок"
+msgstr ""
+
+# Objects : [w256170107]
+# name:be: [4-ы пуць]
+msgid "4-й путь"
+msgstr ""
+
+# Objects : [n2888597618]
+# name:be: []
+msgid "50 лет БелТАПАЗ"
+msgstr ""
+
+# Objects : [r2453294]
+# name:be: [5-ы Дальні завулак]
+msgid "5-й Дальний переулок"
+msgstr ""
+
+# Objects : [r2453295]
+# name:be: [5-ы завулак Калініна]
+msgid "5-й переулок Калинина"
+msgstr ""
+
+# Objects : [w42135137]
+# name:be: [5-ы пуць]
+msgid "5-й путь"
+msgstr ""
+
+# Objects : [n1325441794]
+# name:be: []
+msgid "5 Чех"
+msgstr ""
+
+# Objects : [n3188424666]
+# name:be: []
+msgid "61-К"
+msgstr ""
+
+# Objects : [r2453296]
+# name:be: [6-ы Дальні завулак]
+msgid "6-й Дальний переулок"
+msgstr ""
+
+# Objects : [r2906027]
+# name:be: [6-ы Прыгарадны завулак]
+msgid "6-й Пригородный переулок"
+msgstr ""
+
+# Objects : [w256170108]
+# name:be: [6-ы пуць]
+msgid "6-й путь"
+msgstr ""
+
+# Objects : [r2453297]
+# name:be: [7-ы Дальні завулак]
+msgid "7-й Дальний переулок"
+msgstr ""
+
+# Objects : [r2906028]
+# name:be: [7-ы Прыгарадны завулак]
+msgid "7-й Пригородный переулок"
+msgstr ""
+
+# Objects : [n1822955063]
+# name:be: []
+msgid "Agency of Medical Marketing"
+msgstr ""
+
+# Objects : [n1244235004]
+# name:be: []
+msgid "Alpha Centauri"
+msgstr ""
+
+# Objects : [n1366372458]
+# name:be: []
+msgid "BeerЛога"
+msgstr ""
+
+# Objects : [n3298151922]
+# name:be: []
+msgid "BERTEL"
+msgstr ""
+
+# Objects : [w29129437]
+# name:be: []
+msgid "CTO"
+msgstr ""
+
+# Objects : [n2385836555]
+# name:be: []
+msgid "Hello, Grodno!"
+msgstr ""
+
+# Objects : [n1256405872]
+# name:be: []
+msgid "Metro"
+msgstr ""
+
+# Objects : [n320409496]
+# name:be: []
+msgid "Stop line"
+msgstr ""
+
+# Objects : [w156967589]
+# name:be: []
+msgid "Tennis"
+msgstr ""
+
+# Objects : [n2660413105]
+# name:be: []
+msgid "Victory"
+msgstr ""
+
+# Objects : [n320409798]
+# name:be: []
+msgid "ZooБазар"
+msgstr ""
+
+# Objects : [w101929475]
+# name:be: []
+msgid "АБК"
+msgstr ""
+
+# Objects : [n2267121850]
+# name:be: [Аўтобусны парк]
+msgid "Автобусный парк"
+msgstr ""
+
+# Objects : [r2882967]
+# name:be: []
+msgid "Автобус № 1"
+msgstr ""
+
+# Objects : [r2884629]
+# name:be: []
+msgid "Автобус № 10"
+msgstr ""
+
+# Objects : [r2881366]
+# name:be: []
+msgid "Автобус № 11"
+msgstr ""
+
+# Objects : [r2881367]
+# name:be: []
+msgid "Автобус № 12"
+msgstr ""
+
+# Objects : [r2886220]
+# name:be: []
+msgid "Автобус № 13"
+msgstr ""
+
+# Objects : [r2886221]
+# name:be: []
+msgid "Автобус № 14"
+msgstr ""
+
+# Objects : [r2886219]
+# name:be: []
+msgid "Автобус № 15"
+msgstr ""
+
+# Objects : [r2887383]
+# name:be: []
+msgid "Автобус № 16"
+msgstr ""
+
+# Objects : [r2887381]
+# name:be: []
+msgid "Автобус № 17"
+msgstr ""
+
+# Objects : [r2887382]
+# name:be: []
+msgid "Автобус № 18"
+msgstr ""
+
+# Objects : [r2887380]
+# name:be: []
+msgid "Автобус № 19"
+msgstr ""
+
+# Objects : [r2882965]
+# name:be: []
+msgid "Автобус № 2"
+msgstr ""
+
+# Objects : [r2886451]
+# name:be: []
+msgid "Автобус № 20"
+msgstr ""
+
+# Objects : [r2904247]
+# name:be: []
+msgid "Автобус № 20Э"
+msgstr ""
+
+# Objects : [r2896210]
+# name:be: []
+msgid "Автобус № 21"
+msgstr ""
+
+# Objects : [r2896697]
+# name:be: []
+msgid "Автобус № 21Э"
+msgstr ""
+
+# Objects : [r2915986]
+# name:be: []
+msgid "Автобус № 22"
+msgstr ""
+
+# Objects : [r2916094]
+# name:be: []
+msgid "Автобус № 23"
+msgstr ""
+
+# Objects : [r2895928]
+# name:be: []
+msgid "Автобус № 24"
+msgstr ""
+
+# Objects : [r2902947]
+# name:be: []
+msgid "Автобус № 25"
+msgstr ""
+
+# Objects : [r2925566]
+# name:be: []
+msgid "Автобус № 25Э"
+msgstr ""
+
+# Objects : [r2895926]
+# name:be: []
+msgid "Автобус № 26"
+msgstr ""
+
+# Objects : [r2925565]
+# name:be: []
+msgid "Автобус № 26Э"
+msgstr ""
+
+# Objects : [r2998241]
+# name:be: []
+msgid "Автобус № 27"
+msgstr ""
+
+# Objects : [r2896700]
+# name:be: []
+msgid "Автобус № 28"
+msgstr ""
+
+# Objects : [r2929155]
+# name:be: []
+msgid "Автобус № 29"
+msgstr ""
+
+# Objects : [r2882964]
+# name:be: []
+msgid "Автобус № 3"
+msgstr ""
+
+# Objects : [r2896695]
+# name:be: []
+msgid "Автобус № 30"
+msgstr ""
+
+# Objects : [r2896698]
+# name:be: []
+msgid "Автобус № 34"
+msgstr ""
+
+# Objects : [r2896699]
+# name:be: []
+msgid "Автобус № 35"
+msgstr ""
+
+# Objects : [r2916017]
+# name:be: []
+msgid "Автобус № 36"
+msgstr ""
+
+# Objects : [r2925567]
+# name:be: []
+msgid "Автобус № 37"
+msgstr ""
+
+# Objects : [r2925568]
+# name:be: []
+msgid "Автобус № 37Э"
+msgstr ""
+
+# Objects : [r2943112]
+# name:be: []
+msgid "Автобус № 38"
+msgstr ""
+
+# Objects : [r3105468]
+# name:be: []
+msgid "Автобус № 39"
+msgstr ""
+
+# Objects : [r2882966]
+# name:be: []
+msgid "Автобус № 4"
+msgstr ""
+
+# Objects : [r2946691]
+# name:be: []
+msgid "Автобус № 40Э"
+msgstr ""
+
+# Objects : [r3458698]
+# name:be: []
+msgid "Автобус № 45"
+msgstr ""
+
+# Objects : [r2895927]
+# name:be: []
+msgid "Автобус № 46"
+msgstr ""
+
+# Objects : [r2884628]
+# name:be: []
+msgid "Автобус № 5"
+msgstr ""
+
+# Objects : [r2884630]
+# name:be: []
+msgid "Автобус № 6"
+msgstr ""
+
+# Objects : [r2884633]
+# name:be: []
+msgid "Автобус № 7"
+msgstr ""
+
+# Objects : [r2884632]
+# name:be: []
+msgid "Автобус № 8"
+msgstr ""
+
+# Objects : [r2884631]
+# name:be: []
+msgid "Автобус № 9"
+msgstr ""
+
+# Objects : [w279947953]
+# name:be: []
+msgid "Автовокзал Гродно"
+msgstr ""
+
+# Objects : [n1824052070]
+# name:be: []
+msgid "Автодром АртДрайв"
+msgstr ""
+
+# Objects : [n2403354131]
+# name:be: []
+msgid "Автокомбинат"
+msgstr ""
+
+# Objects : [r2530490]
+# name:be: [Аўтамабільная вуліца]
+msgid "Автомобильная улица"
+msgstr ""
+
+# Objects : [n1382992103]
+# name:be: []
+msgid "АвтоПикассо"
+msgstr ""
+
+# Objects : [w277682960]
+# name:be: []
+msgid "Авторынок"
+msgstr ""
+
+# Objects : [n1383002841]
+# name:be: []
+msgid "Автошкола Автолюкс"
+msgstr ""
+
+# Objects : [n1383015076]
+# name:be: []
+msgid "Автошкола Автотранс 9"
+msgstr ""
+
+# Objects : [n1382995964]
+# name:be: []
+msgid "Автошкола АртДрайв"
+msgstr ""
+
+# Objects : [n1382973837]
+# name:be: []
+msgid "Автошкола БОАМЛ"
+msgstr ""
+
+# Objects : [n1383006205]
+# name:be: []
+msgid "Автошкола Интур-Сервис"
+msgstr ""
+
+# Objects : [n1382983458]
+# name:be: []
+msgid "Автошкола Мартонс"
+msgstr ""
+
+# Objects : [n1383003805]
+# name:be: []
+msgid "Автошкола МовипАвто"
+msgstr ""
+
+# Objects : [n1382986954]
+# name:be: []
+msgid "Автошкола ЮкардАвто"
+msgstr ""
+
+# Objects : [n1383001220]
+# name:be: []
+msgid "Автоэлита"
+msgstr ""
+
+# Objects : [r2540999]
+# name:be: [Агранамічная вуліца]
+msgid "Агрономическая улица"
+msgstr ""
+
+# Objects : [n1216085788]
+# name:be: []
+msgid "Адам Мицкевич"
+msgstr ""
+
+# Objects : [r2538963]
+# name:be: [Адамавіцкая вуліца]
+msgid "Адамовичская улица"
+msgstr ""
+
+# Objects : [n2268452375]
+# name:be: [Адміністрацыя Ленінскага раёна г. Гродна]
+msgid "Администрация Ленинского района г. Гродно"
+msgstr ""
+
+# Objects : [w29126629]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
+# Objects : [r163324]
+# name:be: [Акадэмічная вуліца]
+msgid "Академическая улица"
+msgstr ""
+
+# Objects : [n320409481]
+# name:be: []
+msgid "Аквацентр"
+msgstr ""
+
+# Objects : [r2525641]
+# name:be: [Аксамітная вуліца]
+msgid "Аксамитная улица"
+msgstr ""
+
+# Objects : [n2944207923]
+# name:be: []
+msgid "Аллея памяти"
+msgstr ""
+
+# Objects : [w29125989]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [w226765108]
+# name:be: []
+msgid "АЛМИ"
+msgstr ""
+
+# Objects : [n717859177]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [n320409652]
+# name:be: []
+msgid "Анфилада"
+msgstr ""
+
+# Objects : [n350190570]
+# name:be: []
+msgid "Аптека №147"
+msgstr ""
+
+# Objects : [n2929871395, n2947311921]
+# name:be: [Аптэчны склад]
+msgid "Аптечный склад"
+msgstr ""
+
+# Objects : [r2541000]
+# name:be: [Архітэктурная вуліца]
+msgid "Архитектурная улица"
+msgstr ""
+
+# Objects : [n2924957966]
+# name:be: []
+msgid "Астровский"
+msgstr ""
+
+# Objects : [r274259]
+# name:be: [Асфальтная вуліца]
+msgid "Асфальтная улица"
+msgstr ""
+
+# Objects : [n2851107413, n320409723, n320670207]
+# name:be: [Аульс]
+msgid "Аульс"
+msgstr ""
+
+# Objects : [r3240210]
+# name:be: [Аульская вуліца]
+msgid "Аульская улица"
+msgstr ""
+
+# Objects : [n1832189985]
+# name:be: []
+msgid "База"
+msgstr ""
+
+# Objects : [w237463761]
+# name:be: []
+msgid "база отдыха "Купалинка""
+msgstr ""
+
+# Objects : [n1646856783]
+# name:be: []
+msgid "Банно-оздоровительный комплекс"
+msgstr ""
+
+# Objects : [w29125782]
+# name:be: [Лазня]
+msgid "Баня"
+msgstr ""
+
+# Objects : [n320409739]
+# name:be: [Баранавічы]
+msgid "Барановичи"
+msgstr ""
+
+# Objects : [r2538964]
+# name:be: [Баранавіцкая вуліца]
+msgid "Барановичская улица"
+msgstr ""
+
+# Objects : [n2612276232]
+# name:be: []
+msgid "Барон"
+msgstr ""
+
+# Objects : [w29125544]
+# name:be: []
+msgid "Бассеин Детского Садика №58"
+msgstr ""
+
+# Objects : [w29160019]
+# name:be: []
+msgid "Бассейн СШ №20"
+msgstr ""
+
+# Objects : [n717837615]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n3236277321]
+# name:be: []
+msgid "БелАгроПромБанк"
+msgstr ""
+
+# Objects : [n3271136346, n717837608]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n320409575]
+# name:be: [Беларусь]
+msgid "Беларусь"
+msgstr ""
+
+# Objects : [n2958519016, w29124919]
+# name:be: [Белдзяржстрах]
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n1832189986]
+# name:be: []
+msgid "БелКоопСтрах"
+msgstr ""
+
+# Objects : [w29124751]
+# name:be: []
+msgid "Белмаркет"
+msgstr ""
+
+# Objects : [r3506143]
+# name:be: [Белавежская вуліца]
+msgid "Беловежская улица"
+msgstr ""
+
+# Objects : [w29126223]
+# name:be: []
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [r2545961]
+# name:be: [Беларуская вуліца]
+msgid "Белорусская улица"
+msgstr ""
+
+# Objects : [n735140906]
+# name:be: []
+msgid "Белорусская универсальная товарная биржа"
+msgstr ""
+
+# Objects : [n320409503]
+# name:be: []
+msgid "Белорусский институт правознания Гродненский филиал"
+msgstr ""
+
+# Objects : [r317684]
+# name:be: [Беластоцкая вуліца]
+msgid "Белостокская улица"
+msgstr ""
+
+# Objects : [r317685]
+# name:be: [Беластоцкі завулак]
+msgid "Белостокский переулок"
+msgstr ""
+
+# Objects : [n2888596681]
+# name:be: []
+msgid "БелТАПАЗ"
+msgstr ""
+
+# Objects : [n2612276239, n320409475, n320409632, n320409907]
+# name:be: [Белтэлекам]
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n3178670097]
+# name:be: []
+msgid "Белые камни"
+msgstr ""
+
+# Objects : [n1877973302]
+# name:be: []
+msgid "Белэксимгарант"
+msgstr ""
+
+# Objects : [r3472505]
+# name:be: [Берагавая вуліца]
+msgid "Береговая улица"
+msgstr ""
+
+# Objects : [r2540781]
+# name:be: [Бярозавая вуліца]
+msgid "Берёзовая улица"
+msgstr ""
+
+# Objects : [n2935152684]
+# name:be: []
+msgid "Бертелю А. С."
+msgstr ""
+
+# Objects : [r3506100]
+# name:be: [Біялагічная вуліца]
+msgid "Биологическая улица"
+msgstr ""
+
+# Objects : [w29124938]
+# name:be: [Біялагічны корпус ГрДМУ]
+msgid "Биологический корпус ГрГМУ"
+msgstr ""
+
+# Objects : [w29127131]
+# name:be: []
+msgid "БИРЖА"
+msgstr ""
+
+# Objects : [r2538970]
+# name:be: [Блакітная вуліца]
+msgid "Блакитная улица"
+msgstr ""
+
+# Objects : [r2539300]
+# name:be: [Бліжняя вуліца]
+msgid "Ближняя улица"
+msgstr ""
+
+# Objects : [n3188412346]
+# name:be: []
+msgid "БМП-1"
+msgstr ""
+
+# Objects : [n3188412347]
+# name:be: []
+msgid "БМП-2"
+msgstr ""
+
+# Objects : [r302446]
+# name:be: [Багатая вуліца]
+msgid "Богатая улица"
+msgstr ""
+
+# Objects : [n827272347]
+# name:be: []
+msgid "Бойцовский клуб"
+msgstr ""
+
+# Objects : [w29125642]
+# name:be: [Бальніца хуткай медыцынскай дапамогі]
+msgid "Больница скорой медицинской помощи"
+msgstr ""
+
+# Objects : [n320409585]
+# name:be: []
+msgid "Больница №1"
+msgstr ""
+
+# Objects : [n679990593]
+# name:be: [Бальніца № 3]
+msgid "Больница № 3"
+msgstr ""
+
+# Objects : [r173632]
+# name:be: [Вялікая Траецкая вуліца]
+msgid "Большая Троицкая улица"
+msgstr ""
+
+# Objects : [r2561247]
+# name:be: [Батанічная вуліца]
+msgid "Ботаническая улица"
+msgstr ""
+
+# Objects : [r215425]
+# name:be: [Брацкая вуліца]
+msgid "Братская улица"
+msgstr ""
+
+# Objects : [n3188412348]
+# name:be: []
+msgid "БРДМ-1"
+msgstr ""
+
+# Objects : [n3188412349]
+# name:be: []
+msgid "БРДМ-2"
+msgstr ""
+
+# Objects : [r2453298]
+# name:be: [Брэсцкая вуліца]
+msgid "Брестская улица"
+msgstr ""
+
+# Objects : [n2639378573]
+# name:be: []
+msgid "Бригантина"
+msgstr ""
+
+# Objects : [r4458050, w289723212]
+# name:be: []
+msgid "БСМП"
+msgstr ""
+
+# Objects : [n3188412350]
+# name:be: []
+msgid "БТР-60"
+msgstr ""
+
+# Objects : [r3510302]
+# name:be: [Букетная вуліца]
+msgid "Букетная улица"
+msgstr ""
+
+# Objects : [r129308]
+# name:be: [бульвар Ленінскага Камсамолу]
+msgid "бульвар Ленинского Комсомола"
+msgstr ""
+
+# Objects : [r3506132]
+# name:be: [Бурштынавая вуліца]
+msgid "Бурштыновая улица"
+msgstr ""
+
+# Objects : [n2653872408]
+# name:be: []
+msgid "Бюро путешествий и экскурсий"
+msgstr ""
+
+# Objects : [n2876829520]
+# name:be: []
+msgid "Вавёркіна хатка"
+msgstr ""
+
+# Objects : [n2884874434]
+# name:be: []
+msgid "Валерий Врублевский (1836 — 1908)"
+msgstr ""
+
+# Objects : [r2538968]
+# name:be: [Васільковая вуліца]
+msgid "Васильковая улица"
+msgstr ""
+
+# Objects : [r3199261]
+# name:be: [Ветлівая вуліца]
+msgid "Вежливая улица"
+msgstr ""
+
+# Objects : [n2437799409, n2437799412, n2437799418]
+# name:be: []
+msgid "Вело трамплины"
+msgstr ""
+
+# Objects : [r2913390]
+# name:be: [Вянечная вуліца]
+msgid "Венечная улица"
+msgstr ""
+
+# Objects : [r2538969]
+# name:be: [Верасовая вуліца]
+msgid "Вересковая улица"
+msgstr ""
+
+# Objects : [r4056840]
+# name:be: [Верхняя вуліца]
+msgid "Верхняя улица"
+msgstr ""
+
+# Objects : [r3681517]
+# name:be: [Вясёлая вуліца]
+msgid "Весёлая улица"
+msgstr ""
+
+# Objects : [r163363]
+# name:be: [Вясновая вуліца]
+msgid "Весенняя улица"
+msgstr ""
+
+# Objects : [n2311120205]
+# name:be: []
+msgid "Ветеринарная аптека/лечебница ОДО "ЯРОШ""
+msgstr ""
+
+# Objects : [n1859336641]
+# name:be: []
+msgid "Ветеринарная клиника Воробьева"
+msgstr ""
+
+# Objects : [n379592423]
+# name:be: []
+msgid "Вечный огонь"
+msgstr ""
+
+# Objects : [n1832189987]
+# name:be: []
+msgid "Виварий"
+msgstr ""
+
+# Objects : [n2881284282]
+# name:be: []
+msgid "Вид на Неман"
+msgstr ""
+
+# Objects : [r134321]
+# name:be: [Віленская вуліца]
+msgid "Виленская улица"
+msgstr ""
+
+# Objects : [n320409617]
+# name:be: []
+msgid "Виленский"
+msgstr ""
+
+# Objects : [r2532270]
+# name:be: [Віленскі завулак]
+msgid "Виленский переулок"
+msgstr ""
+
+# Objects : [r1102201]
+# name:be: [Вішнёвая вуліца]
+msgid "Вишнёвая улица"
+msgstr ""
+
+# Objects : [n1966825241]
+# name:be: [Вішнявец]
+msgid "Вишневец"
+msgstr ""
+
+# Objects : [n428964269]
+# name:be: [Вішнявец-1]
+msgid "Вишневец-1"
+msgstr ""
+
+# Objects : [n1716296342]
+# name:be: [Вішнявец-2]
+msgid "Вишневец-2"
+msgstr ""
+
+# Objects : [n1716282153]
+# name:be: [Вішнявец-3]
+msgid "Вишневец-3"
+msgstr ""
+
+# Objects : [n1716296346]
+# name:be: [Вішнявец-4]
+msgid "Вишневец-4"
+msgstr ""
+
+# Objects : [n1716296315]
+# name:be: [Вішнявец-5]
+msgid "Вишневец-5"
+msgstr ""
+
+# Objects : [n2623160552]
+# name:be: [Вішнявец–5]
+msgid "Вишневец–5"
+msgstr ""
+
+# Objects : [n1716279932]
+# name:be: [Вішнявец-6]
+msgid "Вишневец-6"
+msgstr ""
+
+# Objects : [r907651]
+# name:be: [Вішнявецкая вуліца]
+msgid "Вишневецкая улица"
+msgstr ""
+
+# Objects : [n1648194578]
+# name:be: []
+msgid "Водозабор "Гожка""
+msgstr ""
+
+# Objects : [n1648191385]
+# name:be: []
+msgid "Водозабор "Пышки""
+msgstr ""
+
+# Objects : [n1648198353]
+# name:be: []
+msgid "Водозабор "Чеховщизна""
+msgstr ""
+
+# Objects : [w29126095]
+# name:be: []
+msgid "Водозаборная "Гродно-Азот""
+msgstr ""
+
+# Objects : [n320409711]
+# name:be: [воданапорныя вежы]
+msgid "Водонапорные башни"
+msgstr ""
+
+# Objects : [w29125327]
+# name:be: []
+msgid "Военный комиссариат Гродненской области"
+msgstr ""
+
+# Objects : [n2628992535]
+# name:be: [Ваенны факультэт ГрДУ]
+msgid "Военный факультет ГрГУ"
+msgstr ""
+
+# Objects : [n540468197]
+# name:be: []
+msgid "Воинам-афганцам"
+msgstr ""
+
+# Objects : [r349582]
+# name:be: [Вакзальная вуліца]
+msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [r3685883]
+# name:be: [Валейбольная вуліца]
+msgid "Волейбольная улица"
+msgstr ""
+
+# Objects : [r2451684]
+# name:be: [Усходняя вуліца]
+msgid "Восточная улица"
+msgstr ""
+
+# Objects : [n1928962522]
+# name:be: []
+msgid "Вулкан"
+msgstr ""
+
+# Objects : [n320409712]
+# name:be: [Вышэйшая Духоўная Семінарыя]
+msgid "Высшая Духовная Семинария"
+msgstr ""
+
+# Objects : [n846816642]
+# name:be: []
+msgid "Г. А. Горновых"
+msgstr ""
+
+# Objects : [n320409775]
+# name:be: [ДАІ]
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [n2366093363]
+# name:be: [Галерэя Тызенгаўза]
+msgid "Галерея Тизенгауза"
+msgstr ""
+
+# Objects : [n320409446]
+# name:be: []
+msgid "Гаплица"
+msgstr ""
+
+# Objects : [r3430782]
+# name:be: [Гаражная вуліца]
+msgid "Гаражная улица"
+msgstr ""
+
+# Objects : [n1210160733]
+# name:be: []
+msgid "Гаражный комплекс"
+msgstr ""
+
+# Objects : [r135354]
+# name:be: [Гарбарская вуліца]
+msgid "Гарбарская улица"
+msgstr ""
+
+# Objects : [r1102255]
+# name:be: [Гданьская вуліца]
+msgid "Гданьская улица"
+msgstr ""
+
+# Objects : [w29125898, w29148876]
+# name:be: []
+msgid "Гемма"
+msgstr ""
+
+# Objects : [n1860864440]
+# name:be: [Генеральнае консульства Літоўскай Рэспублікі]
+msgid "Генеральное консульство Литовской Республики"
+msgstr ""
+
+# Objects : [w165699951]
+# name:be: [Генеральнае Консульства РП у Гродна]
+msgid "Генеральное Консульство РП в Гродно"
+msgstr ""
+
+# Objects : [n2913453285]
+# name:be: []
+msgid "Гигиена"
+msgstr ""
+
+# Objects : [w29125695]
+# name:be: []
+msgid "Гимназия №3"
+msgstr ""
+
+# Objects : [w29125951]
+# name:be: [Гiмназiя №7]
+msgid "Гимназия №7"
+msgstr ""
+
+# Objects : [w158852458]
+# name:be: []
+msgid "Гипермаркет Евроопт"
+msgstr ""
+
+# Objects : [w320163097]
+# name:be: []
+msgid "ГКБ №2"
+msgstr ""
+
+# Objects : [n1941558664]
+# name:be: []
+msgid "ГКНС Дубль"
+msgstr ""
+
+# Objects : [r3199262]
+# name:be: [Галоўная вуліца]
+msgid "Главная улица"
+msgstr ""
+
+# Objects : [r2539301]
+# name:be: [Гожская вуліца]
+msgid "Гожская улица"
+msgstr ""
+
+# Objects : [w320163095]
+# name:be: []
+msgid "ГОКЦ "Психиатрия и наркология""
+msgstr ""
+
+# Objects : [n320409693]
+# name:be: [Галавічы]
+msgid "Головичи"
+msgstr ""
+
+# Objects : [r2373487]
+# name:be: [Ганіёнская вуліца]
+msgid "Гонионская улица"
+msgstr ""
+
+# Objects : [r2373488]
+# name:be: [Ганіёнскі завулак]
+msgid "Гонионский переулок"
+msgstr ""
+
+# Objects : [r3679735]
+# name:be: [Ганчарная вуліца]
+msgid "Гончарная улица"
+msgstr ""
+
+# Objects : [r2539340]
+# name:be: [Горная вуліца]
+msgid "Горная улица"
+msgstr ""
+
+# Objects : [r916822]
+# name:be: [Гарадзенская вуліца]
+msgid "Городенская улица"
+msgstr ""
+
+# Objects : [r275891]
+# name:be: [Гараднічанская вуліца]
+msgid "Городничанская улица"
+msgstr ""
+
+# Objects : [n320409745]
+# name:be: []
+msgid "Городская клиническая больница № 2"
+msgstr ""
+
+# Objects : [n320409930, r4480220]
+# name:be: [Гарадская клінічная бальніца № 4]
+msgid "Городская клиническая больница № 4"
+msgstr ""
+
+# Objects : [n320409597]
+# name:be: []
+msgid "Городская поликлиника № 1"
+msgstr ""
+
+# Objects : [n320409892]
+# name:be: []
+msgid "Городская поликлиника № 3"
+msgstr ""
+
+# Objects : [n1561249551]
+# name:be: []
+msgid "Городская поликлиника № 4"
+msgstr ""
+
+# Objects : [n3084301676]
+# name:be: []
+msgid "Городская поликлиника № 5"
+msgstr ""
+
+# Objects : [n3084301677]
+# name:be: []
+msgid "Городская поликлиника № 6"
+msgstr ""
+
+# Objects : [r2539302]
+# name:be: [Гарадская вуліца]
+msgid "Городская улица"
+msgstr ""
+
+# Objects : [r2474167]
+# name:be: [Гаспадарчая вуліца]
+msgid "Господарчая улица"
+msgstr ""
+
+# Objects : [n320409770]
+# name:be: [Гродна]
+msgid "гостиница "Гродно""
+msgstr ""
+
+# Objects : [n2766736681]
+# name:be: []
+msgid "Гостиница Семашко"
+msgstr ""
+
+# Objects : [n2766736706]
+# name:be: []
+msgid "Гостиница Турист"
+msgstr ""
+
+# Objects : [n2766736749]
+# name:be: []
+msgid "Гостиничный комплекс Неман"
+msgstr ""
+
+# Objects : [n2766736755]
+# name:be: []
+msgid "Гостиничный комплекс Славия"
+msgstr ""
+
+# Objects : [n1850655901]
+# name:be: [Дзяржаўны архіў Гродзенскай вобласці]
+msgid "Государственный архив Гродненской области"
+msgstr ""
+
+# Objects : [n2612276247]
+# name:be: []
+msgid "Государственный архив общественных объединений Гродненской области"
+msgstr ""
+
+# Objects : [n2222555431]
+# name:be: [Грандзічы]
+msgid "Грандичи"
+msgstr ""
+
+# Objects : [r159073]
+# name:be: [Грандзіцкая вуліца]
+msgid "Грандичская улица"
+msgstr ""
+
+# Objects : [w87463873]
+# name:be: []
+msgid "Грандичский рынок"
+msgstr ""
+
+# Objects : [n1255373978]
+# name:be: []
+msgid "Графит"
+msgstr ""
+
+# Objects : [n2881284283]
+# name:be: []
+msgid "Граффити"
+msgstr ""
+
+# Objects : [n1382988672]
+# name:be: []
+msgid "Гродненская автошкола ДОСААФ"
+msgstr ""
+
+# Objects : [r4480239]
+# name:be: [Гродзенская гарадская станцыя хуткай медыцынскай дапамогі]
+msgid "Гродненская городская станция скорой медицинской помощи"
+msgstr ""
+
+# Objects : [r3814616]
+# name:be: [Гродзенская крэпасць]
+msgid "Гродненская крепость"
+msgstr ""
+
+# Objects : [w29125476]
+# name:be: [Гродзенская абласная станцыя пералівання крыві]
+msgid "Гродненская областная станция переливания крови"
+msgstr ""
+
+# Objects : [n3142519882]
+# name:be: []
+msgid "Гродненская правда"
+msgstr ""
+
+# Objects : [w29129401]
+# name:be: []
+msgid "Гродненская региональная таможня"
+msgstr ""
+
+# Objects : [n429379285]
+# name:be: [Гродзенская тытунёвая фабрыка «Нёман»]
+msgid "Гродненская табачная фабрика «Неман»"
+msgstr ""
+
+# Objects : [n2273037302]
+# name:be: [Гродзенская транспартная пракуратура]
+msgid "Гродненская транспортная прокуратура"
+msgstr ""
+
+# Objects : [r2969821]
+# name:be: [Гродзенская ЦЭЦ-2]
+msgid "Гродненская ТЭЦ-2"
+msgstr ""
+
+# Objects : [r4258393]
+# name:be: [Гродзенская вуліца]
+msgid "Гродненская улица"
+msgstr ""
+
+# Objects : [n320409774]
+# name:be: [Гродзенская цэнтральная гарадская паліклініка]
+msgid "Гродненская центральная городская поликлиника"
+msgstr ""
+
+# Objects : [n2343901437]
+# name:be: []
+msgid "Гродненские электрические сети"
+msgstr ""
+
+# Objects : [n320409607]
+# name:be: [Гродзенскі гарадскі выканаўчы камітэт]
+msgid "Гродненский городской исполнительный комитет"
+msgstr ""
+
+# Objects : [n2633724416]
+# name:be: [Гродзенскі гарадскі аддел па НС]
+msgid "Гродненский городской отдел по ЧС"
+msgstr ""
+
+# Objects : [n320409520]
+# name:be: [Гродзенскі дзяржаўны аграрны ўніверсітэт]
+msgid "Гродненский государственный аграрный университет"
+msgstr ""
+
+# Objects : [n320409490]
+# name:be: [Гродзенскі дзяржаўны каледж мастацваў]
+msgid "Гродненский государственный колледж искусств"
+msgstr ""
+
+# Objects : [n320409467]
+# name:be: [Гродзенскі дзяржаўны каледж тэхнікі, тэхналогій і дызайна]
+msgid "Гродненский государственный колледж техники, технологий и дизайна"
+msgstr ""
+
+# Objects : [n320409521]
+# name:be: [Гродзенскі дзяржаўны медыцынскі каледж]
+msgid "Гродненский государственный медицинский колледж"
+msgstr ""
+
+# Objects : [n320409492]
+# name:be: []
+msgid "Гродненский государственный медицинский университет"
+msgstr ""
+
+# Objects : [n1863658377]
+# name:be: [Гродзенскі дзяржаўны музей гісторыі рэлігіі]
+msgid "Гродненский государственный музей истории религии"
+msgstr ""
+
+# Objects : [n352653491]
+# name:be: [Гродзенскі дзяржаўны музычны каледж]
+msgid "Гродненский государственный музыкальный колледж"
+msgstr ""
+
+# Objects : [n3086276565]
+# name:be: [Гродзенскі дзяржаўны палітэхнічны каледж]
+msgid "Гродненский государственный политехнический колледж"
+msgstr ""
+
+# Objects : [n320409542]
+# name:be: [Гродзенскі дзяржаўны прафесійна-тэхнічны каледж бытавога абслугоўвання насельніцтва]
+msgid "Гродненский государственный профессионально-технический колледж бытового обслуживания населения"
+msgstr ""
+
+# Objects : [n320409625]
+# name:be: [Гродзенскі дзяржаўны прафесіянальна-тэхналагічны каледж камунальнай гаспадаркі]
+msgid "Гродненский государственный профессионально-технический колледж коммунального хозяйства"
+msgstr ""
+
+# Objects : [n320409471]
+# name:be: [Гродзенскі дзяржаўны прафесіянальна-тэхналагічны каледж прыборабудавання]
+msgid "Гродненский государственный профессионально-технический колледж приборостроения"
+msgstr ""
+
+# Objects : [n2628992537, n320409519]
+# name:be: [Гродзенскі дзяржаўны прафесіянальны тэхналагічны каледж]
+msgid "Гродненский государственный профессиональный технологический колледж"
+msgstr ""
+
+# Objects : [n320409916]
+# name:be: [Гродзенскі дзяржаўны будаўнічы прафесіянальны ліцэй]
+msgid "Гродненский государственный строительный профессиональный лицей"
+msgstr ""
+
+# Objects : [r3779373, w29125214]
+# name:be: [Гродзенскі дзяржаўны ўніверсітэт імя Янкі Купалы]
+msgid "Гродненский государственный университет имени Янки Купалы"
+msgstr ""
+
+# Objects : [n320409487]
+# name:be: [Гродзенскі дзяржаўны хіміка-тэхналагічны прафесіянальны ліцэй]
+msgid "Гродненский государственный химико-технологический профессиональный лицей"
+msgstr ""
+
+# Objects : [n320409665]
+# name:be: [Гродзенскі гуманітарны каледж]
+msgid "Гродненский гуманитарный колледж"
+msgstr ""
+
+# Objects : [n1856337572, n2913453286]
+# name:be: []
+msgid "Гродненский зональный центр гигиены и эпидемиологии"
+msgstr ""
+
+# Objects : [w279831224]
+# name:be: [Гродзенскі заапарк]
+msgid "Гродненский зоопарк"
+msgstr ""
+
+# Objects : [n1863559089]
+# name:be: [Гродзенскі каледж бізнесу і права]
+msgid "Гродненский колледж бизнеса и права"
+msgstr ""
+
+# Objects : [w33743703]
+# name:be: []
+msgid "Гродненский ликеро-водочный завод"
+msgstr ""
+
+# Objects : [n2667023945]
+# name:be: [Гродзенскі міжраённы аддзел Следчага камітэта]
+msgid "Гродненский межрайонный отдел Следственного комитета"
+msgstr ""
+
+# Objects : [w41418949]
+# name:be: []
+msgid "Гродненский Механический Заод"
+msgstr ""
+
+# Objects : [n320409619]
+# name:be: [Гродзенскі абласны выканаўчы камітэт]
+msgid "Гродненский областной исполнительный комитет"
+msgstr ""
+
+# Objects : [n1332228277]
+# name:be: [Гродзенскі абласны перынатальны центр]
+msgid "Гродненский областной перинатальный центр"
+msgstr ""
+
+# Objects : [n2627140996]
+# name:be: [Гродзенскі абласны суд]
+msgid "Гродненский областной суд"
+msgstr ""
+
+# Objects : [n320409558]
+# name:be: [Гродзенскі раённы выканаўчы камітэт]
+msgid "Гродненский районный исполнительный комитет"
+msgstr ""
+
+# Objects : [n2616321202]
+# name:be: [Гродзенскі сельскі раён электрычных сетак]
+msgid "Гродненский сельский район электрических сетей"
+msgstr ""
+
+# Objects : [n320409722]
+# name:be: [Гродзенскі гандлёвы каледж Белкаапсаюза]
+msgid "Гродненский торговый колледж Белкоопсоюза"
+msgstr ""
+
+# Objects : [n2629231471]
+# name:be: []
+msgid "Гродненское агентство по государственной регистрации и земельному кадастру"
+msgstr ""
+
+# Objects : [n2629231472]
+# name:be: []
+msgid "Гродненское агентство по оказанию риэлтерских услуг"
+msgstr ""
+
+# Objects : [n2625705197]
+# name:be: [Гродзенскае тралейбуснае упраўленне]
+msgid "Гродненское троллейбусное управление"
+msgstr ""
+
+# Objects : [n3001111819, n454695016, n460516914, n461646971, n474880122, n495217687, n510138705, n540645236, n541317447, n571686068, n810159909, n847177138]
+# name:be: [Гродна]
+msgid "Гродно"
+msgstr ""
+
+# Objects : [n462070404]
+# name:be: []
+msgid "Гродноводоканал"
+msgstr ""
+
+# Objects : [n3190010834]
+# name:be: []
+msgid "Гродногазстройизоляция"
+msgstr ""
+
+# Objects : [w45403459]
+# name:be: []
+msgid "Гроднозеленстрой"
+msgstr ""
+
+# Objects : [n2384764098]
+# name:be: []
+msgid "Гродноинвест"
+msgstr ""
+
+# Objects : [n2929871396]
+# name:be: []
+msgid "Гроднокинотехпром"
+msgstr ""
+
+# Objects : [n2579388554]
+# name:be: []
+msgid "ГродноЛизинг"
+msgstr ""
+
+# Objects : [n2967952161]
+# name:be: []
+msgid "Гроднооблводоканал"
+msgstr ""
+
+# Objects : [n1871632806]
+# name:be: []
+msgid "Гроднооблгаз"
+msgstr ""
+
+# Objects : [n2090886204]
+# name:be: [Гроднапрамбуд]
+msgid "Гроднопромстрой"
+msgstr ""
+
+# Objects : [n2339747304]
+# name:be: []
+msgid "Гродно УООП"
+msgstr ""
+
+# Objects : [w29125995]
+# name:be: []
+msgid "Гродноэнерго"
+msgstr ""
+
+# Objects : [n1939584233]
+# name:be: []
+msgid "Гроодненские информационные сети"
+msgstr ""
+
+# Objects : [r3869380]
+# name:be: [Грунвальдзкая вуліца]
+msgid "Грюнвальдская улица"
+msgstr ""
+
+# Objects : [w29126212]
+# name:be: []
+msgid "ГУКПП "Гродноводоканал""
+msgstr ""
+
+# Objects : [w29124860]
+# name:be: []
+msgid "ГУО «Специальный ясли–сад № 81 г. Гродно для детей с нарушением зрения»"
+msgstr ""
+
+# Objects : [w29124856]
+# name:be: []
+msgid "ГУО «Ясли–сад № 73 г. Гродно»"
+msgstr ""
+
+# Objects : [w29124864]
+# name:be: []
+msgid "ГУО «Ясли–сад № 79 г. Гродно»"
+msgstr ""
+
+# Objects : [r3772887]
+# name:be: [Давыд Гарадзенскі]
+msgid "Давид Гродненский"
+msgstr ""
+
+# Objects : [r3506044]
+# name:be: [Даўні завулак]
+msgid "Давний переулок"
+msgstr ""
+
+# Objects : [n2876829526]
+# name:be: []
+msgid "Давыду Гарадзенскаму"
+msgstr ""
+
+# Objects : [r2453299]
+# name:be: [Дальняя вуліца]
+msgid "Дальняя улица"
+msgstr ""
+
+# Objects : [r288163]
+# name:be: [Дачная вуліца]
+msgid "Дачная улица"
+msgstr ""
+
+# Objects : [n320409603]
+# name:be: []
+msgid "дворец администратора"
+msgstr ""
+
+# Objects : [w29357645]
+# name:be: []
+msgid "Дворец творчества детей и молодежи"
+msgstr ""
+
+# Objects : [n2788680260]
+# name:be: [Палац Храптовічаў]
+msgid "Дворец Хрептовичей"
+msgstr ""
+
+# Objects : [n2788680261]
+# name:be: [Палац Чацвярцінскіх]
+msgid "Дворец Четвертинских"
+msgstr ""
+
+# Objects : [n2788680298]
+# name:be: [Палацава-паркавы комплекс Ляхніцкіх]
+msgid "Дворцово-парковый комплекс Ляхницких"
+msgstr ""
+
+# Objects : [n2776756699]
+# name:be: [Дзевятоўка]
+msgid "Девятовка"
+msgstr ""
+
+# Objects : [n320409437]
+# name:be: [Дзевятоўка–1]
+msgid "Девятовка–1"
+msgstr ""
+
+# Objects : [n1716240034]
+# name:be: [Дзевятоўка–2]
+msgid "Девятовка–2"
+msgstr ""
+
+# Objects : [n1716241009]
+# name:be: [Дзевятоўка–3]
+msgid "Девятовка–3"
+msgstr ""
+
+# Objects : [n1416883387]
+# name:be: [Дзевятоўка–4]
+msgid "Девятовка–4"
+msgstr ""
+
+# Objects : [n1716225499]
+# name:be: [Дзевятоўка–5]
+msgid "Девятовка–5"
+msgstr ""
+
+# Objects : [n1716226650]
+# name:be: [Дзевятоўка-6]
+msgid "Девятовка-6"
+msgstr ""
+
+# Objects : [n1716227357]
+# name:be: [Дзевятоўка–7]
+msgid "Девятовка–7"
+msgstr ""
+
+# Objects : [n1894586459]
+# name:be: [Дзевятоўка–9]
+msgid "Девятовка–9"
+msgstr ""
+
+# Objects : [n3084301679]
+# name:be: [Дзіцячая паліклініка № 1]
+msgid "Детская поликлиника № 1"
+msgstr ""
+
+# Objects : [w29125748]
+# name:be: [Дзіцячы сад №23]
+msgid "Детский сад №23"
+msgstr ""
+
+# Objects : [w29125747]
+# name:be: [Дзіцячы сад №30]
+msgid "Детский сад №30"
+msgstr ""
+
+# Objects : [w199543300]
+# name:be: []
+msgid "Детский сад №31"
+msgstr ""
+
+# Objects : [w29125666]
+# name:be: [Дзіцячы сад №41]
+msgid "Детский сад №41"
+msgstr ""
+
+# Objects : [w29125665]
+# name:be: []
+msgid "Детский сад №46"
+msgstr ""
+
+# Objects : [w29125662]
+# name:be: []
+msgid "Детский сад №47"
+msgstr ""
+
+# Objects : [w29125663]
+# name:be: [Дзіцячы сад №53]
+msgid "Детский сад №53"
+msgstr ""
+
+# Objects : [w29125657]
+# name:be: []
+msgid "Детский сад №68"
+msgstr ""
+
+# Objects : [w29125506]
+# name:be: []
+msgid "Детский сад №82"
+msgstr ""
+
+# Objects : [w29125507]
+# name:be: []
+msgid "Детский сад №84"
+msgstr ""
+
+# Objects : [w29125493]
+# name:be: []
+msgid "Детский сад №86"
+msgstr ""
+
+# Objects : [w29125517]
+# name:be: []
+msgid "Детский сад №95"
+msgstr ""
+
+# Objects : [w244314212]
+# name:be: []
+msgid "ДЗОТ"
+msgstr ""
+
+# Objects : [w29124799]
+# name:be: []
+msgid "ДК "Юность""
+msgstr ""
+
+# Objects : [r2523179]
+# name:be: [Добрая вуліца]
+msgid "Добрая улица"
+msgstr ""
+
+# Objects : [n320409606]
+# name:be: []
+msgid "Дом вице-администратора"
+msgstr ""
+
+# Objects : [n320409621]
+# name:be: []
+msgid "дом вице-губернатора Максимовича"
+msgstr ""
+
+# Objects : [r135343]
+# name:be: [Дамініканская вуліца]
+msgid "Доминиканская улица"
+msgstr ""
+
+# Objects : [n2876843070]
+# name:be: []
+msgid "Дом Культуры "Цветлит""
+msgstr ""
+
+# Objects : [n2268461206]
+# name:be: []
+msgid "Дом-музей Максима Богдановича"
+msgstr ""
+
+# Objects : [n2268463173]
+# name:be: []
+msgid "Дом-музей Элизы Ожешко"
+msgstr ""
+
+# Objects : [w29124808]
+# name:be: [Дом навукі і тэхнікі]
+msgid "Дом науки и техники"
+msgstr ""
+
+# Objects : [w29125320]
+# name:be: [Дом афіцэраў]
+msgid "Дом офицеров"
+msgstr ""
+
+# Objects : [n2004808936]
+# name:be: []
+msgid "Дом ребенка"
+msgstr ""
+
+# Objects : [n2788680341]
+# name:be: [Дом Элізы Ажэшка]
+msgid "Дом Элизы Ожешко"
+msgstr ""
+
+# Objects : [n3167098973]
+# name:be: []
+msgid "ДОТ"
+msgstr ""
+
+# Objects : [r4445318]
+# name:be: []
+msgid "Дошкольный санаторный ясли-сад № 34"
+msgstr ""
+
+# Objects : [n320409703]
+# name:be: []
+msgid "Драматический театр"
+msgstr ""
+
+# Objects : [r4056841]
+# name:be: [Сяброўская вуліца]
+msgid "Дружеская улица"
+msgstr ""
+
+# Objects : [r3973909]
+# name:be: [Дружная вуліца]
+msgid "Дружная улица"
+msgstr ""
+
+# Objects : [r2447535]
+# name:be: [Друскеніцкі тупік]
+msgid "Друскеницкий тупик"
+msgstr ""
+
+# Objects : [n2895838679]
+# name:be: []
+msgid "ДСУ-18"
+msgstr ""
+
+# Objects : [n629605550]
+# name:be: [Дуброва]
+msgid "Дуброва"
+msgstr ""
+
+# Objects : [r338035]
+# name:be: [Дубровенская вуліца]
+msgid "Дубровенская улица"
+msgstr ""
+
+# Objects : [w33810515]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [w225203950, w29125380, w29125543]
+# name:be: [Еўраопт]
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [n2895838680]
+# name:be: []
+msgid "Еж"
+msgstr ""
+
+# Objects : [w29125933]
+# name:be: []
+msgid "Ёлки Палки"
+msgstr ""
+
+# Objects : [r2532272]
+# name:be: [Жаданая вуліца]
+msgid "Желанная улица"
+msgstr ""
+
+# Objects : [r3472517]
+# name:be: [Жалезная вуліца]
+msgid "Железная улица"
+msgstr ""
+
+# Objects : [n320409708]
+# name:be: [Чыгуначная бальніца]
+msgid "Железнодорожная больница"
+msgstr ""
+
+# Objects : [r4521213]
+# name:be: [Чыгуначная вуліца]
+msgid "Железнодорожная улица"
+msgstr ""
+
+# Objects : [n3178670091]
+# name:be: []
+msgid "Жемчужина"
+msgstr ""
+
+# Objects : [w29124876]
+# name:be: []
+msgid "Женская консультация № 5"
+msgstr ""
+
+# Objects : [r3973910]
+# name:be: [Маляўнічы завулак]
+msgid "Живописный переулок"
+msgstr ""
+
+# Objects : [n491591305]
+# name:be: []
+msgid "Животным, за неоценимый вклад в развитие медицинской науки"
+msgstr ""
+
+# Objects : [n1280618811]
+# name:be: []
+msgid "Жилиберу памятник"
+msgstr ""
+
+# Objects : [r2525642]
+# name:be: [Жнівеньская вуліца]
+msgid "Жнивеньская улица"
+msgstr ""
+
+# Objects : [r3445357]
+# name:be: [Жнівеньскі завулак]
+msgid "Жнивеньский переулок"
+msgstr ""
+
+# Objects : [n2264614844]
+# name:be: []
+msgid "ЖЭС №9"
+msgstr ""
+
+# Objects : [n629605534]
+# name:be: [Забалаць]
+msgid "Заболоть"
+msgstr ""
+
+# Objects : [r3681598]
+# name:be: [Запаветная вуліца]
+msgid "Заветная улица"
+msgstr ""
+
+# Objects : [r269871]
+# name:be: [Заводская вуліца]
+msgid "Заводская улица"
+msgstr ""
+
+# Objects : [r3506045]
+# name:be: [Загарадны завулак]
+msgid "Загородный переулок"
+msgstr ""
+
+# Objects : [n2929871399, n320409512, n320409858]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [n2611962002]
+# name:be: []
+msgid "Законность. Правопорядок."
+msgstr ""
+
+# Objects : [n827227211]
+# name:be: []
+msgid "зал А"
+msgstr ""
+
+# Objects : [n827227212]
+# name:be: []
+msgid "зал Б-В"
+msgstr ""
+
+# Objects : [n2893441691]
+# name:be: []
+msgid "Зал Борьбы, ШВСМ УФКСиТ Гродненского облисполкома"
+msgstr ""
+
+# Objects : [n827227220]
+# name:be: []
+msgid "зал Г"
+msgstr ""
+
+# Objects : [n827227223]
+# name:be: []
+msgid "зал Д"
+msgstr ""
+
+# Objects : [r344912]
+# name:be: [Замкавая вуліца]
+msgid "Замковая улица"
+msgstr ""
+
+# Objects : [r2453300]
+# name:be: [Заходняя вуліца]
+msgid "Западная улица"
+msgstr ""
+
+# Objects : [w29124748]
+# name:be: []
+msgid "Западный"
+msgstr ""
+
+# Objects : [r2532273]
+# name:be: [Зарэчная вуліца]
+msgid "Заречная улица"
+msgstr ""
+
+# Objects : [r2539303]
+# name:be: [Зарэчны завулак]
+msgid "Заречный переулок"
+msgstr ""
+
+# Objects : [n428964267, w121006256]
+# name:be: [Зарыца]
+msgid "Зарица"
+msgstr ""
+
+# Objects : [n1884199896]
+# name:be: [Зарыца-2]
+msgid "Зарица-2"
+msgstr ""
+
+# Objects : [n1884197206]
+# name:be: [Зарыца-3]
+msgid "Зарица-3"
+msgstr ""
+
+# Objects : [n1882400129]
+# name:be: [Зарыца-4]
+msgid "Зарица-4"
+msgstr ""
+
+# Objects : [n1496515101]
+# name:be: [Зарыца-5]
+msgid "Зарица-5"
+msgstr ""
+
+# Objects : [n1397433930]
+# name:be: []
+msgid "ЗАСО "БАГАЧ""
+msgstr ""
+
+# Objects : [r2530437]
+# name:be: [Зорная вуліца]
+msgid "Звёздная улица"
+msgstr ""
+
+# Objects : [r4056842]
+# name:be: [Званкавая вуліца]
+msgid "Звонковая улица"
+msgstr ""
+
+# Objects : [n2788680454]
+# name:be: [Гарадскі «стары» тэатар]
+msgid "Здание «старого» театра"
+msgstr ""
+
+# Objects : [n320409599]
+# name:be: []
+msgid "здание Медицинской Школы"
+msgstr ""
+
+# Objects : [w33631550]
+# name:be: []
+msgid "Зелёный мир"
+msgstr ""
+
+# Objects : [n3170901615]
+# name:be: []
+msgid "Земляной форт"
+msgstr ""
+
+# Objects : [w166706157]
+# name:be: []
+msgid "ЗОВ Мебель"
+msgstr ""
+
+# Objects : [r3110046]
+# name:be: [Залацістая вуліца]
+msgid "Золотистая улица"
+msgstr ""
+
+# Objects : [n3271136344]
+# name:be: []
+msgid "Игровая комната"
+msgstr ""
+
+# Objects : [r197898]
+# name:be: [Выдавецкая вуліца]
+msgid "Издательская улица"
+msgstr ""
+
+# Objects : [r187057]
+# name:be: [Індурская шаша]
+msgid "Индурское шоссе"
+msgstr ""
+
+# Objects : [r2374958]
+# name:be: [Індустрыяльная вуліца]
+msgid "Индустриальная улица"
+msgstr ""
+
+# Objects : [n1850620748]
+# name:be: [Інжынерна-будаўнічы факультэт ГрДУ]
+msgid "Инженерно-строительный факультет ГрГУ"
+msgstr ""
+
+# Objects : [n2827441954]
+# name:be: []
+msgid "Инспекция Министерства по налогам и сборам РБ по Октябрьскому району"
+msgstr ""
+
+# Objects : [n2827441955]
+# name:be: []
+msgid "Инспекция по делам несовершеннолетних"
+msgstr ""
+
+# Objects : [n2629194716]
+# name:be: [Інстытут "Гроднаграмадзянпраект"]
+msgid "Институт "Гродногражданпроект""
+msgstr ""
+
+# Objects : [n2888188583]
+# name:be: [Інстытут біяхіміі біялагічна актыўных злучэнняў]
+msgid "Институт биохимии биологически активных соединений"
+msgstr ""
+
+# Objects : [n2629238797]
+# name:be: []
+msgid "Институт недвижимости и оценки"
+msgstr ""
+
+# Objects : [n2652242214]
+# name:be: [Інстытут павышэння кваліфікацыі і перападрыхтоўкі кадраў ГрДУ]
+msgid "Институт повышения квалификации и переподготовки кадров ГрГУ"
+msgstr ""
+
+# Objects : [n1863559090]
+# name:be: [Інстытут правазнаўства]
+msgid "Институт правоведения"
+msgstr ""
+
+# Objects : [w29128797]
+# name:be: []
+msgid "Инструментальный Цех"
+msgstr ""
+
+# Objects : [w29125514]
+# name:be: []
+msgid "Интернат"
+msgstr ""
+
+# Objects : [n320409508]
+# name:be: [Інфекцыйная бальніца]
+msgid "Инфекционная больница"
+msgstr ""
+
+# Objects : [n2360729273]
+# name:be: []
+msgid "ИП "Голдоптима""
+msgstr ""
+
+# Objects : [n3188412351]
+# name:be: []
+msgid "ИС-2"
+msgstr ""
+
+# Objects : [n3188412352]
+# name:be: []
+msgid "ИС-3"
+msgstr ""
+
+# Objects : [n2788680513]
+# name:be: [Гістарычная забудова пл. Савецкая]
+msgid "Историческая застройка пл. Советская"
+msgstr ""
+
+# Objects : [n2788680524]
+# name:be: [Гістарычная забудова вул. Замкавая]
+msgid "Историческая застройка ул. Замковая"
+msgstr ""
+
+# Objects : [n2788680543]
+# name:be: [Гістарычная забудова вул. Ажэшкі]
+msgid "Историческая застройка ул. Ожешко"
+msgstr ""
+
+# Objects : [n2788680554]
+# name:be: [Гістарычная забудова вул. Савецкая]
+msgid "Историческая застройка ул. Советская"
+msgstr ""
+
+# Objects : [n3188412353]
+# name:be: []
+msgid "ИСУ-152"
+msgstr ""
+
+# Objects : [r2539304]
+# name:be: [Ліпеньская вуліца]
+msgid "Июльская улица"
+msgstr ""
+
+# Objects : [r3980182]
+# name:be: [Калачаўская вуліца]
+msgid "Калачевская улица"
+msgstr ""
+
+# Objects : [r901855]
+# name:be: [Калінавая вуліца]
+msgid "Калиновая улица"
+msgstr ""
+
+# Objects : [r3957806]
+# name:be: [Калюжная вуліца]
+msgid "Калюжная улица"
+msgstr ""
+
+# Objects : [r2449068]
+# name:be: [Калючынская вуліца]
+msgid "Калючинская улица"
+msgstr ""
+
+# Objects : [r1074528]
+# name:be: [Каплiчная вуліца]
+msgid "Капличная улица"
+msgstr ""
+
+# Objects : [w29124930]
+# name:be: []
+msgid "Каравай"
+msgstr ""
+
+# Objects : [r3997104]
+# name:be: [Каравайная вуліца]
+msgid "Каравайная улица"
+msgstr ""
+
+# Objects : [n1328413607]
+# name:be: []
+msgid "Карбышев Дмитрий Михайлович"
+msgstr ""
+
+# Objects : [n320409572]
+# name:be: [Кардыядыспансер]
+msgid "Кардиодиспансер"
+msgstr ""
+
+# Objects : [n320409581]
+# name:be: [Кардыялагічная паліклініка]
+msgid "Кардиологическая поликлиника"
+msgstr ""
+
+# Objects : [n2924957967]
+# name:be: []
+msgid "Карета"
+msgstr ""
+
+# Objects : [w114823142]
+# name:be: []
+msgid "Картинг клуб "Вираж""
+msgstr ""
+
+# Objects : [r3679481]
+# name:be: [Каштанавая вуліца]
+msgid "Каштановая улица"
+msgstr ""
+
+# Objects : [w320703235]
+# name:be: []
+msgid "Квасовский"
+msgstr ""
+
+# Objects : [w117874014]
+# name:be: []
+msgid "киоск"
+msgstr ""
+
+# Objects : [r2562511]
+# name:be: [Цагляная вуліца]
+msgid "Кирпичная улица"
+msgstr ""
+
+# Objects : [w46735871]
+# name:be: []
+msgid "Кислородная"
+msgstr ""
+
+# Objects : [w29153437]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n2788680613]
+# name:be: [Могілкі Вайсковыя]
+msgid "Кладбище Военное"
+msgstr ""
+
+# Objects : [n2788680872]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681284]
+# name:be: [Могілкі старыя каталіцкія (занёманскія)]
+msgid "Кладбище старое католическое (занеманское)"
+msgstr ""
+
+# Objects : [n2788681288]
+# name:be: [Могілкі старыя каталіцкія (фарныя)]
+msgid "Кладбище старое католическое (фарное)"
+msgstr ""
+
+# Objects : [n2788681460]
+# name:be: [Могілкі старыя праваслаўныя]
+msgid "Кладбище старое православное"
+msgstr ""
+
+# Objects : [r278450]
+# name:be: [Кляновая вуліца]
+msgid "Кленовая улица"
+msgstr ""
+
+# Objects : [w29126619]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
+# Objects : [n2660413114]
+# name:be: []
+msgid "Ключи"
+msgstr ""
+
+# Objects : [n2788681618]
+# name:be: [Кляштар дамініканаў]
+msgid "Кляштор доминиканцев"
+msgstr ""
+
+# Objects : [n1941563933]
+# name:be: []
+msgid "КНС-3"
+msgstr ""
+
+# Objects : [n1882191480]
+# name:be: []
+msgid "КНС-6"
+msgstr ""
+
+# Objects : [n1941555141]
+# name:be: []
+msgid "КНС-8"
+msgstr ""
+
+# Objects : [n1941558665]
+# name:be: []
+msgid "КНС Главная"
+msgstr ""
+
+# Objects : [n1882191479]
+# name:be: []
+msgid "КНС Рыбацкая"
+msgstr ""
+
+# Objects : [n1941566938]
+# name:be: []
+msgid "КНС Учхоз"
+msgstr ""
+
+# Objects : [n1941576419]
+# name:be: []
+msgid "КНС-Фолюш"
+msgstr ""
+
+# Objects : [n1941557450]
+# name:be: []
+msgid "КНС-Форты"
+msgstr ""
+
+# Objects : [n320409464]
+# name:be: [Скура-венералагічны дыспансэр]
+msgid "Кожно-венерологический диспансер"
+msgstr ""
+
+# Objects : [n559633692]
+# name:be: [Калбасіно]
+msgid "Колбасино"
+msgstr ""
+
+# Objects : [r317697]
+# name:be: [Каўбасінская вуліца]
+msgid "Колбасинская улица"
+msgstr ""
+
+# Objects : [r317696]
+# name:be: [Каўбасінскі завулак]
+msgid "Колбасинский переулок"
+msgstr ""
+
+# Objects : [n320409689]
+# name:be: []
+msgid "Колизей 2000"
+msgstr ""
+
+# Objects : [r2373489]
+# name:be: [Калектыўная вуліца]
+msgid "Коллективная улица"
+msgstr ""
+
+# Objects : [r2373490]
+# name:be: [Калектыўны завулак]
+msgid "Коллективный переулок"
+msgstr ""
+
+# Objects : [w276641793, w29145067]
+# name:be: []
+msgid "Колобки"
+msgstr ""
+
+# Objects : [n442980809]
+# name:be: []
+msgid "Колобки (Березка)"
+msgstr ""
+
+# Objects : [n2965505582]
+# name:be: []
+msgid "Колодец из фильма "Белые росы""
+msgstr ""
+
+# Objects : [n428964265]
+# name:be: [Каложа]
+msgid "Коложа"
+msgstr ""
+
+# Objects : [r2539305]
+# name:be: [Калгасная вуліца]
+msgid "Колхозная улица"
+msgstr ""
+
+# Objects : [r1060226]
+# name:be: [Кальцавая вуліца]
+msgid "Кольцевая улица"
+msgstr ""
+
+# Objects : [r1060227]
+# name:be: [Кальцавы завулак]
+msgid "Кольцевой переулок"
+msgstr ""
+
+# Objects : [r2540871]
+# name:be: [Камбайнёрская вуліца]
+msgid "Комбайнёрская улица"
+msgstr ""
+
+# Objects : [w194809964]
+# name:be: []
+msgid "Комбинат строительных материалов"
+msgstr ""
+
+# Objects : [n2268460070]
+# name:be: []
+msgid "Комитет государственной безопасности по Гродненской области"
+msgstr ""
+
+# Objects : [n3249314084]
+# name:be: []
+msgid "Комитет природных ресурсов"
+msgstr ""
+
+# Objects : [r135389]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [r135479]
+# name:be: [Камунальны тупік]
+msgid "Коммунальный тупик"
+msgstr ""
+
+# Objects : [r2540782]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [n320409618]
+# name:be: []
+msgid "Корица"
+msgstr ""
+
+# Objects : [r2538971]
+# name:be: [Каралінская вуліца]
+msgid "Королинская улица"
+msgstr ""
+
+# Objects : [r3980183]
+# name:be: [Караліхінская вуліца]
+msgid "Королихинская улица"
+msgstr ""
+
+# Objects : [n2788681712]
+# name:be: [Касцёл Звеставання Найсвяцейшай Панне Марыі]
+msgid "Костел Благовещения Деве Марии"
+msgstr ""
+
+# Objects : [n2788681733]
+# name:be: [Касцёл Маці Божай Анёльскай і кляштар францысканаў]
+msgid "Костел Девы Марии Ангельской и кляштор францисканцев"
+msgstr ""
+
+# Objects : [n2788681778]
+# name:be: [Касцёл Адшукання Святога Крыжа і кляштар бэрнардынаў]
+msgid "Костел Открытия Святого Креста и монастырь бернардинцев"
+msgstr ""
+
+# Objects : [n3245269347]
+# name:be: []
+msgid "Костел Пресвятой Девы Марии Милосердия"
+msgstr ""
+
+# Objects : [r2530453]
+# name:be: [Краявідная вуліца]
+msgid "Краевидная улица"
+msgstr ""
+
+# Objects : [r4520444]
+# name:be: [Крайні завулак]
+msgid "Крайний переулок"
+msgstr ""
+
+# Objects : [r4520445]
+# name:be: [Крайняя вуліца]
+msgid "Крайняя улица"
+msgstr ""
+
+# Objects : [r2447536]
+# name:be: [Чырвоная вуліца]
+msgid "Красная улица"
+msgstr ""
+
+# Objects : [r122599]
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [r3476534]
+# name:be: []
+msgid "Красногвардейская улица"
+msgstr ""
+
+# Objects : [r2453301]
+# name:be: [Чырвонасцяжная вуліца]
+msgid "Краснознамённая улица"
+msgstr ""
+
+# Objects : [r2374959]
+# name:be: [Чырвонапартызанская вуліца]
+msgid "Краснопартизанская улица"
+msgstr ""
+
+# Objects : [r2562512]
+# name:be: [Чырвонафлоцкая вуліца]
+msgid "Краснофлотская улица"
+msgstr ""
+
+# Objects : [r2539306]
+# name:be: [Крынічная вуліца]
+msgid "Криничная улица"
+msgstr ""
+
+# Objects : [r2539308]
+# name:be: [Крынічны завулак]
+msgid "Криничный переулок"
+msgstr ""
+
+# Objects : [w29128906]
+# name:be: []
+msgid "Кристалтранс"
+msgstr ""
+
+# Objects : [n426048280]
+# name:be: []
+msgid "Кронон Парк Отель"
+msgstr ""
+
+# Objects : [r2532274]
+# name:be: [Кругавая вуліца]
+msgid "Круговая улица"
+msgstr ""
+
+# Objects : [r317671]
+# name:be: [Ксцінская вуліца]
+msgid "Кстинская улица"
+msgstr ""
+
+# Objects : [r317675]
+# name:be: [Ксцінскі завулак]
+msgid "Кстинский переулок"
+msgstr ""
+
+# Objects : [w29126630]
+# name:be: []
+msgid "КТП"
+msgstr ""
+
+# Objects : [n320409480]
+# name:be: [Кульбакі]
+msgid "Кульбаки"
+msgstr ""
+
+# Objects : [r4051548]
+# name:be: [Кульбацкая вуліца]
+msgid "Кульбакская улица"
+msgstr ""
+
+# Objects : [w29125143]
+# name:be: []
+msgid "КУП "Медицинский центр красоты и здоровья""
+msgstr ""
+
+# Objects : [n2766728130, n3178670083]
+# name:be: []
+msgid "Купалинка"
+msgstr ""
+
+# Objects : [r2374960]
+# name:be: [Купальская вуліца]
+msgid "Купальская улица"
+msgstr ""
+
+# Objects : [r2374961]
+# name:be: [Купальскі завулак]
+msgid "Купальский переулок"
+msgstr ""
+
+# Objects : [w312908976]
+# name:be: []
+msgid "Курган Славы"
+msgstr ""
+
+# Objects : [w269253124]
+# name:be: []
+msgid "Курилка факультета математики и информатики"
+msgstr ""
+
+# Objects : [n809930973]
+# name:be: []
+msgid "Курсантам–Пограничникам. 22 июня 1941 года. Помним …"
+msgstr ""
+
+# Objects : [w29126859]
+# name:be: []
+msgid "Лагуна, фабрика Мебели"
+msgstr ""
+
+# Objects : [n1966813662]
+# name:be: [Лапенкі]
+msgid "Лапенки"
+msgstr ""
+
+# Objects : [r274258]
+# name:be: [Лапенкаўская вуліца]
+msgid "Лапенковская улица"
+msgstr ""
+
+# Objects : [n2891057297]
+# name:be: []
+msgid "Лебеди"
+msgstr ""
+
+# Objects : [r2374962]
+# name:be: [Леванабярэжная вуліца]
+msgid "Левонабережная улица"
+msgstr ""
+
+# Objects : [w29125410]
+# name:be: []
+msgid "Ледовый дворец"
+msgstr ""
+
+# Objects : [n441732888]
+# name:be: []
+msgid "Ленин В.И."
+msgstr ""
+
+# Objects : [n1626440016]
+# name:be: [Ленінскі аддзел Дэпартамента аховы МУС РБ]
+msgid "Ленинский отдел Департамента охраны МВД РБ"
+msgstr ""
+
+# Objects : [n2273486138, r2888067]
+# name:be: [Ленінскі раён]
+msgid "Ленинский район"
+msgstr ""
+
+# Objects : [n427733167]
+# name:be: []
+msgid "Лесная Сказка"
+msgstr ""
+
+# Objects : [r2564518]
+# name:be: [Лясная вуліца]
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [r2530468]
+# name:be: [Летняя вуліца]
+msgid "Летняя улица"
+msgstr ""
+
+# Objects : [r122574]
+# name:be: [Лідская вуліца]
+msgid "Лидская улица"
+msgstr ""
+
+# Objects : [r215427]
+# name:be: [Лідскі завулак]
+msgid "Лидский переулок"
+msgstr ""
+
+# Objects : [n2314689767]
+# name:be: []
+msgid "Лимузин"
+msgstr ""
+
+# Objects : [n1863658385]
+# name:be: []
+msgid "ЛОДЭ"
+msgstr ""
+
+# Objects : [n320409709]
+# name:be: [Ласосна]
+msgid "Лососна"
+msgstr ""
+
+# Objects : [n320409917, n808232831]
+# name:be: [Ласосна]
+msgid "Лососно"
+msgstr ""
+
+# Objects : [r2374963]
+# name:be: [Ласаснянскі завулак]
+msgid "Лососнянский переулок"
+msgstr ""
+
+# Objects : [r4056843]
+# name:be: [Прамяністая вуліца]
+msgid "Лучистая улица"
+msgstr ""
+
+# Objects : [n1270901752]
+# name:be: []
+msgid "Лютеранская кирха святого Иоанна 1783 год"
+msgstr ""
+
+# Objects : [n320409661]
+# name:be: [Лямус ля Брыгіцкага кляштара]
+msgid "Лямус у Бригитского Монастыря"
+msgstr ""
+
+# Objects : [w104058312]
+# name:be: []
+msgid "Лянок"
+msgstr ""
+
+# Objects : [r2746719]
+# name:be: [Магістральная вуліца]
+msgid "Магистральная улица"
+msgstr ""
+
+# Objects : [w117881896]
+# name:be: []
+msgid "Магнит"
+msgstr ""
+
+# Objects : [r1102196]
+# name:be: [Мазавецкая вуліца]
+msgid "Мазовецкая улица"
+msgstr ""
+
+# Objects : [n1382081592]
+# name:be: []
+msgid "МАКСИ"
+msgstr ""
+
+# Objects : [n2770244946]
+# name:be: [Малахавічы]
+msgid "Малаховичи"
+msgstr ""
+
+# Objects : [r1083554]
+# name:be: [Малахавіцкая вуліца]
+msgid "Малаховичская улица"
+msgstr ""
+
+# Objects : [r192092]
+# name:be: [Малая Траецкая вуліца]
+msgid "Малая Троицкая улица"
+msgstr ""
+
+# Objects : [r4056844]
+# name:be: [Малая вуліца]
+msgid "Малая улица"
+msgstr ""
+
+# Objects : [r2539309]
+# name:be: [Малінавая вуліца]
+msgid "Малиновая улица"
+msgstr ""
+
+# Objects : [n320409433]
+# name:be: [Малышчына]
+msgid "Малыщина"
+msgstr ""
+
+# Objects : [r337429]
+# name:be: [Малышчынская вуліца]
+msgid "Малыщинская улица"
+msgstr ""
+
+# Objects : [r1060609]
+# name:be: [Мануфактурная вуліца]
+msgid "Мануфактурная улица"
+msgstr ""
+
+# Objects : [n2315782522, n2651551101]
+# name:be: []
+msgid "Марро"
+msgstr ""
+
+# Objects : [r2952093]
+# name:be: []
+msgid "Маршрутное такси № 1"
+msgstr ""
+
+# Objects : [r2901540]
+# name:be: []
+msgid "Маршрутное такси № 10"
+msgstr ""
+
+# Objects : [r2930844]
+# name:be: []
+msgid "Маршрутное такси № 11"
+msgstr ""
+
+# Objects : [r2901539]
+# name:be: []
+msgid "Маршрутное такси № 12"
+msgstr ""
+
+# Objects : [r2901538]
+# name:be: []
+msgid "Маршрутное такси № 17"
+msgstr ""
+
+# Objects : [r2902829]
+# name:be: []
+msgid "Маршрутное такси № 18"
+msgstr ""
+
+# Objects : [r2901002]
+# name:be: []
+msgid "Маршрутное такси № 2"
+msgstr ""
+
+# Objects : [r3495416]
+# name:be: []
+msgid "Маршрутное такси № 22"
+msgstr ""
+
+# Objects : [r2930949]
+# name:be: []
+msgid "Маршрутное такси № 3"
+msgstr ""
+
+# Objects : [r2902788]
+# name:be: []
+msgid "Маршрутное такси № 32"
+msgstr ""
+
+# Objects : [r2904177]
+# name:be: []
+msgid "Маршрутное такси № 35"
+msgstr ""
+
+# Objects : [r2941707]
+# name:be: []
+msgid "Маршрутное такси № 8"
+msgstr ""
+
+# Objects : [n1821566171]
+# name:be: []
+msgid "Мастерская по ремонту одежды"
+msgstr ""
+
+# Objects : [w29158393]
+# name:be: []
+msgid "Мебель"
+msgstr ""
+
+# Objects : [n2941057251]
+# name:be: []
+msgid "Мега"
+msgstr ""
+
+# Objects : [r134236]
+# name:be: [Мядовая вуліца]
+msgid "Медовая улица"
+msgstr ""
+
+# Objects : [r2532275]
+# name:be: [Межавая вуліца]
+msgid "Межевая улица"
+msgstr ""
+
+# Objects : [r3933583]
+# name:be: [Міжсаўгасная вуліца]
+msgid "Межсовхозная улица"
+msgstr ""
+
+# Objects : [n3181572436]
+# name:be: []
+msgid "Меловые горы"
+msgstr ""
+
+# Objects : [r4056845]
+# name:be: [Меладычная вуліца]
+msgid "Мелодичная улица"
+msgstr ""
+
+# Objects : [n2924957968]
+# name:be: []
+msgid "Мельница"
+msgstr ""
+
+# Objects : [r1102199]
+# name:be: [Мігаўская вуліца]
+msgid "Миговская улица"
+msgstr ""
+
+# Objects : [w29160050]
+# name:be: [Рынак]
+msgid "мини-рынок "Поповича""
+msgstr ""
+
+# Objects : [w29158576]
+# name:be: []
+msgid "мини-рынок "Фолюш""
+msgstr ""
+
+# Objects : [n2267085536]
+# name:be: []
+msgid "мини-рынок "Форты""
+msgstr ""
+
+# Objects : [n1256808982, w109879750]
+# name:be: []
+msgid "минирынок Девятовка"
+msgstr ""
+
+# Objects : [n1697670377]
+# name:be: []
+msgid "Мира-Бар"
+msgstr ""
+
+# Objects : [w77910452]
+# name:be: []
+msgid "Мир аккумуляторов"
+msgstr ""
+
+# Objects : [r303987]
+# name:be: [Мірная вуліца]
+msgid "Мирная улица"
+msgstr ""
+
+# Objects : [r1060608]
+# name:be: [Млынарная вуліца]
+msgid "Млынарная улица"
+msgstr ""
+
+# Objects : [n331811393]
+# name:be: []
+msgid "Мойка"
+msgstr ""
+
+# Objects : [n3018684260, r3957807]
+# name:be: [Маладая вуліца]
+msgid "Молодая улица"
+msgstr ""
+
+# Objects : [r177578]
+# name:be: [Маладзёжная вуліца]
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [r4258394]
+# name:be: [Моладзевы завулак]
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w29125079]
+# name:be: []
+msgid "молодёжный центр Гродно"
+msgstr ""
+
+# Objects : [r2534411]
+# name:be: [Малочная вуліца]
+msgid "Молочная улица"
+msgstr ""
+
+# Objects : [w305037911]
+# name:be: []
+msgid "Молочный мир"
+msgstr ""
+
+# Objects : [n2884874435]
+# name:be: []
+msgid "Молочный Мир"
+msgstr ""
+
+# Objects : [n2904612177]
+# name:be: []
+msgid "Монумент "Фара Витовта""
+msgstr ""
+
+# Objects : [r2449069]
+# name:be: [Мопраўская вуліца]
+msgid "Мопровская улица"
+msgstr ""
+
+# Objects : [r1229275]
+# name:be: [Маставая вуліца]
+msgid "Мостовая улица"
+msgstr ""
+
+# Objects : [n2965508437]
+# name:be: []
+msgid "Музей автозаправочных колонок"
+msgstr ""
+
+# Objects : [n2876829521]
+# name:be: [Музей быту]
+msgid "Музей быта"
+msgstr ""
+
+# Objects : [n1328383764]
+# name:be: []
+msgid "Музей имени Карбышева Дмитрия Михайловича"
+msgstr ""
+
+# Objects : [n2690057475]
+# name:be: [Музей гісторыі Гарадніцы]
+msgid "Музей истории Городницы"
+msgstr ""
+
+# Objects : [n1697656359]
+# name:be: []
+msgid "Музей истории пчеловодства"
+msgstr ""
+
+# Objects : [n2895838681]
+# name:be: []
+msgid "Музей строительной техники"
+msgstr ""
+
+# Objects : [n320409602]
+# name:be: []
+msgid "Музыкальный Флигель ('кривая Офицына')"
+msgstr ""
+
+# Objects : [r2449364]
+# name:be: [Мулярская вуліца]
+msgid "Мулярская улица"
+msgstr ""
+
+# Objects : [r2566423]
+# name:be: [Мясніцкая вуліца]
+msgid "Мясницкая улица"
+msgstr ""
+
+# Objects : [n320409615]
+# name:be: []
+msgid "На Телеграфной"
+msgstr ""
+
+# Objects : [r916809]
+# name:be: []
+msgid "Нектар"
+msgstr ""
+
+# Objects : [n320409679]
+# name:be: [Нёман]
+msgid "Неман"
+msgstr ""
+
+# Objects : [r163084]
+# name:be: [Нёманская вуліца]
+msgid "Нёманская улица"
+msgstr ""
+
+# Objects : [r2568217]
+# name:be: [Нёманскі завулак]
+msgid "Нёманский переулок"
+msgstr ""
+
+# Objects : [n320409943]
+# name:be: []
+msgid "Неманское лесничество"
+msgstr ""
+
+# Objects : [n1712790259]
+# name:be: []
+msgid "Неопознанное сооружение"
+msgstr ""
+
+# Objects : [n320409671]
+# name:be: [Ніжняя царква (руіны)]
+msgid "Нижняя церковь (руины)"
+msgstr ""
+
+# Objects : [w29128794]
+# name:be: []
+msgid "Новая Кузница"
+msgstr ""
+
+# Objects : [r173623]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
+# Objects : [r2374964]
+# name:be: [Новакастрычніцкая вуліца]
+msgid "Новооктябрьская улица"
+msgstr ""
+
+# Objects : [r2530474]
+# name:be: [Навасельная вуліца]
+msgid "Новосельная улица"
+msgstr ""
+
+# Objects : [w29125034]
+# name:be: [Новы замак]
+msgid "Новый замок"
+msgstr ""
+
+# Objects : [r2567778]
+# name:be: [Новы мост]
+msgid "Новый мост"
+msgstr ""
+
+# Objects : [n2558783194]
+# name:be: [Новы свет]
+msgid "Новый свет"
+msgstr ""
+
+# Objects : [n2343901438]
+# name:be: []
+msgid "ОАО "Белвторполимер""
+msgstr ""
+
+# Objects : [w117883575, w33808020]
+# name:be: []
+msgid "ОАО "БелКард""
+msgstr ""
+
+# Objects : [w29126236]
+# name:be: []
+msgid "ОАО "Белкард" производство автомобильных агрегатов"
+msgstr ""
+
+# Objects : [r1076958]
+# name:be: []
+msgid "ОАО "Гродненский стеклозавод""
+msgstr ""
+
+# Objects : [n2363358018]
+# name:be: []
+msgid "ОАО "ГродноАгроСпецАвтоТранс""
+msgstr ""
+
+# Objects : [w29129451]
+# name:be: []
+msgid "ОАО"Гродножилстрой""
+msgstr ""
+
+# Objects : [w54584710]
+# name:be: []
+msgid "ОАО "Мясокомбинат""
+msgstr ""
+
+# Objects : [w29126306, w304918201, w304918202]
+# name:be: []
+msgid "ОАО "Радиоволна""
+msgstr ""
+
+# Objects : [w225633350]
+# name:be: []
+msgid "ОАО "Спецмонтажстрой–178""
+msgstr ""
+
+# Objects : [w29126000]
+# name:be: []
+msgid "ОАО ГИАП"
+msgstr ""
+
+# Objects : [w29128760]
+# name:be: []
+msgid "ОАО ГродноХлебоПродукт"
+msgstr ""
+
+# Objects : [n2001145785]
+# name:be: []
+msgid "ОАО СМТ №30"
+msgstr ""
+
+# Objects : [n320409526]
+# name:be: [Абласная бальніца]
+msgid "Областная больница"
+msgstr ""
+
+# Objects : [n2935153492]
+# name:be: [Абласная філармонія]
+msgid "Областная филармония"
+msgstr ""
+
+# Objects : [n2932443729]
+# name:be: []
+msgid "Областной диспансер спортивной медицины"
+msgstr ""
+
+# Objects : [w320163098]
+# name:be: []
+msgid "Областной кардиодиспансер"
+msgstr ""
+
+# Objects : [n2273037303]
+# name:be: []
+msgid "Областной сборный пункт"
+msgstr ""
+
+# Objects : [n405343115, r142717]
+# name:be: []
+msgid "Обувная фабрика "Неман""
+msgstr ""
+
+# Objects : [w29160107]
+# name:be: []
+msgid "Обувщик"
+msgstr ""
+
+# Objects : [w254317958]
+# name:be: []
+msgid "Общежитие ГрГМУ"
+msgstr ""
+
+# Objects : [w29130465]
+# name:be: [Інтэрнат №1]
+msgid "Общежитие №1"
+msgstr ""
+
+# Objects : [w29129799]
+# name:be: [Інтэрнат №2]
+msgid "Общежитие №2"
+msgstr ""
+
+# Objects : [w29129637]
+# name:be: [Інтэрнат №3]
+msgid "Общежитие №3"
+msgstr ""
+
+# Objects : [w29150223]
+# name:be: [Інтэрнат №4]
+msgid "Общежитие №4"
+msgstr ""
+
+# Objects : [n2827441956]
+# name:be: []
+msgid "Общественный пункт охраны порядка №1"
+msgstr ""
+
+# Objects : [n1561249575]
+# name:be: []
+msgid "Общественный пункт охраны порядка №2"
+msgstr ""
+
+# Objects : [n2827441957]
+# name:be: []
+msgid "Общественный пункт охраны порядка №3"
+msgstr ""
+
+# Objects : [n2827441958]
+# name:be: []
+msgid "Общественный пункт охраны порядка №4"
+msgstr ""
+
+# Objects : [r4078511]
+# name:be: [Аб’язная вуліца]
+msgid "Объездная улица"
+msgstr ""
+
+# Objects : [r2374965]
+# name:be: [Агародная вуліца]
+msgid "Огородная улица"
+msgstr ""
+
+# Objects : [r2604239]
+# name:be: [Адэльская вуліца]
+msgid "Одельская улица"
+msgstr ""
+
+# Objects : [r4258395]
+# name:be: [Азёрная вуліца]
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [r272014]
+# name:be: [Азёрская шаша]
+msgid "Озёрское шоссе"
+msgstr ""
+
+# Objects : [r3030738]
+# name:be: [Акрэсная вуліца]
+msgid "Окрестная улица"
+msgstr ""
+
+# Objects : [r2449070]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [n2640378582]
+# name:be: [Кастрычніцкі аддзел Дэпартамента аховы МУС РБ]
+msgid "Октябрьский отдел Департамента охраны МВД РБ"
+msgstr ""
+
+# Objects : [n2273486140, r2888068]
+# name:be: [Кастрычніцкі раён]
+msgid "Октябрьский район"
+msgstr ""
+
+# Objects : [r2453302]
+# name:be: [Акульная вуліца]
+msgid "Окульная улица"
+msgstr ""
+
+# Objects : [r3980184]
+# name:be: [Алімпійская вуліца]
+msgid "Олимпийская улица"
+msgstr ""
+
+# Objects : [n1853647644]
+# name:be: [Альшанка]
+msgid "Ольшанка"
+msgstr ""
+
+# Objects : [r4258396]
+# name:be: [Альшанская вуліца]
+msgid "Ольшанская улица"
+msgstr ""
+
+# Objects : [n479889436]
+# name:be: [Амега]
+msgid "Омега"
+msgstr ""
+
+# Objects : [w29129194]
+# name:be: []
+msgid "ООО "Юнадо""
+msgstr ""
+
+# Objects : [n3189967758]
+# name:be: []
+msgid "ООО «Экспозит»"
+msgstr ""
+
+# Objects : [w29125159]
+# name:be: []
+msgid "Оптика"
+msgstr ""
+
+# Objects : [r4056846, r4056847]
+# name:be: [Аптымістычная вуліца]
+msgid "Оптимистическая улица"
+msgstr ""
+
+# Objects : [n702578061]
+# name:be: []
+msgid "ОП №13"
+msgstr ""
+
+# Objects : [r4056848]
+# name:be: [Арэхавая вуліца]
+msgid "Ореховая улица"
+msgstr ""
+
+# Objects : [r4096211]
+# name:be: [Асавіяхімаўская вуліца]
+msgid "Осавиахимовская улица"
+msgstr ""
+
+# Objects : [r2525643]
+# name:be: [Асенняя вуліца]
+msgid "Осенняя улица"
+msgstr ""
+
+# Objects : [n1782392710]
+# name:be: [Аддзел унутранных спраў адміністрацыі Ленінскага раёна]
+msgid "Отдел внутренних дел администрации Ленинского района"
+msgstr ""
+
+# Objects : [n350190718]
+# name:be: [Аддзел унутранных спраў адміністрацыі Кастрычніцкага раёна]
+msgid "Отдел внутренних дел администрации Октябрьского района"
+msgstr ""
+
+# Objects : [n2827441959]
+# name:be: [Аддзел унутранных спраў Гродзенскага райвыканкама]
+msgid "Отдел внутренних дел Гродненского райисполкома"
+msgstr ""
+
+# Objects : [n3236339909]
+# name:be: []
+msgid "отделение "Фолюш""
+msgstr ""
+
+# Objects : [n2674538392, n2827441961]
+# name:be: [Аддзяленне па грамадзянству і міграцыі]
+msgid "Отделение по гражданству и миграции"
+msgstr ""
+
+# Objects : [n2827441960]
+# name:be: []
+msgid "Отдел уголовного розыска"
+msgstr ""
+
+# Objects : [r3936031]
+# name:be: [Айчынная вуліца]
+msgid "Отечественная улица"
+msgstr ""
+
+# Objects : [r2534412]
+# name:be: [Атрадная вуліца]
+msgid "Отрадная улица"
+msgstr ""
+
+# Objects : [r2539310]
+# name:be: [Бацькоўская вуліца]
+msgid "Отцовская улица"
+msgstr ""
+
+# Objects : [n1657549057, n1657549067]
+# name:be: []
+msgid "Очистные сооружения канализации"
+msgstr ""
+
+# Objects : [w297027929]
+# name:be: []
+msgid "Павильон "Bertel" Лидское Пиво"
+msgstr ""
+
+# Objects : [n2876829525]
+# name:be: []
+msgid "Пагоня на Грунвальд 1410"
+msgstr ""
+
+# Objects : [n1853640792]
+# name:be: [Палестына]
+msgid "Палестина"
+msgstr ""
+
+# Objects : [n1270901754]
+# name:be: []
+msgid "Памятник погибшим милиционерам"
+msgstr ""
+
+# Objects : [n394582075]
+# name:be: [помнік Сакалоўскаму]
+msgid "Памятник Соколовскому"
+msgstr ""
+
+# Objects : [n1548078420]
+# name:be: []
+msgid "памятник Чапаеву"
+msgstr ""
+
+# Objects : [r288162]
+# name:be: [Паркавая вуліца]
+msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w188410740]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
+# Objects : [n824836229]
+# name:be: []
+msgid "Парламент"
+msgstr ""
+
+# Objects : [n2628992540]
+# name:be: [Педагагічны факультэт ГрДУ]
+msgid "Педагогический факультет ГрГУ"
+msgstr ""
+
+# Objects : [n3084301680]
+# name:be: []
+msgid "Педиатрический кабинет"
+msgstr ""
+
+# Objects : [n3084301681, n3084301682]
+# name:be: []
+msgid "Педиатрическое отделение"
+msgstr ""
+
+# Objects : [n320409831]
+# name:be: []
+msgid "Педиатрическое отделение № 3"
+msgstr ""
+
+# Objects : [n3084301683]
+# name:be: []
+msgid "Педиатрическое отделение № 5"
+msgstr ""
+
+# Objects : [n3084301684]
+# name:be: []
+msgid "Педиатрическое отделение № 6"
+msgstr ""
+
+# Objects : [r3973911]
+# name:be: [Першацветная вуліца]
+msgid "Первоцветная улица"
+msgstr ""
+
+# Objects : [n462217474]
+# name:be: [Пярэселка]
+msgid "Переселка"
+msgstr ""
+
+# Objects : [r2374968]
+# name:be: [завулак Дарвіна]
+msgid "переулок Дарвина"
+msgstr ""
+
+# Objects : [r2373493]
+# name:be: [завулак Дзекабрыстаў]
+msgid "переулок Декабристов"
+msgstr ""
+
+# Objects : [r535711]
+# name:be: [завулак Дзяржынскага]
+msgid "переулок Дзержинского"
+msgstr ""
+
+# Objects : [r2449071]
+# name:be: [завулак Дабралюбава]
+msgid "переулок Добролюбова"
+msgstr ""
+
+# Objects : [r2447620]
+# name:be: [завулак Даватара]
+msgid "переулок Доватора"
+msgstr ""
+
+# Objects : [r4078513]
+# name:be: [завулак Курбатава]
+msgid "переулок Курбатова"
+msgstr ""
+
+# Objects : [r2374969]
+# name:be: [завулак Манюшкі]
+msgid "переулок Манюшко"
+msgstr ""
+
+# Objects : [r961597]
+# name:be: [завулак Перамогі]
+msgid "переулок Победы"
+msgstr ""
+
+# Objects : [r191104]
+# name:be: [завулак Паповіча]
+msgid "переулок Поповича"
+msgstr ""
+
+# Objects : [r2453308]
+# name:be: [завулак Пучкова]
+msgid "переулок Пучкова"
+msgstr ""
+
+# Objects : [r2447621]
+# name:be: [завулак Рэйманта]
+msgid "переулок Реймонта"
+msgstr ""
+
+# Objects : [r2540784]
+# name:be: [завулак Свярдлова]
+msgid "переулок Свердлова"
+msgstr ""
+
+# Objects : [r2373494]
+# name:be: [завулак Суворава]
+msgid "переулок Суворова"
+msgstr ""
+
+# Objects : [r2538972]
+# name:be: [Пясочная вуліца]
+msgid "Песочная улица"
+msgstr ""
+
+# Objects : [r2534413]
+# name:be: [Пясочны завулак]
+msgid "Песочный переулок"
+msgstr ""
+
+# Objects : [r3681848]
+# name:be: [Пяшчаная вуліца]
+msgid "Песчаная улица"
+msgstr ""
+
+# Objects : [w29126811]
+# name:be: []
+msgid "Пинскдрев, дискаунтер"
+msgstr ""
+
+# Objects : [r2447619]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w29125659]
+# name:be: []
+msgid "Пищеблок"
+msgstr ""
+
+# Objects : [r2373495, w29160021]
+# name:be: [плошча Дзекабрыстаў]
+msgid "площадь Декабристов"
+msgstr ""
+
+# Objects : [r2540785]
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [w33481555]
+# name:be: []
+msgid "площадь Советских Пограничников"
+msgstr ""
+
+# Objects : [n2343791264, n2343791265, r165397]
+# name:be: [плошча Тызенгаўза]
+msgid "площадь Тизенгауза"
+msgstr ""
+
+# Objects : [r215428]
+# name:be: [Пераможная вуліца]
+msgid "Победоносная улица"
+msgstr ""
+
+# Objects : [r916965]
+# name:be: [Паваротная вуліца]
+msgid "Поворотная улица"
+msgstr ""
+
+# Objects : [r3980185]
+# name:be: [Пагаранская вуліца]
+msgid "Погоранская улица"
+msgstr ""
+
+# Objects : [n428964272]
+# name:be: [Пагараны-Кашэўнікі]
+msgid "Погораны-Кошевники"
+msgstr ""
+
+# Objects : [n320409740]
+# name:be: []
+msgid "Пограничникам"
+msgstr ""
+
+# Objects : [r2540783]
+# name:be: [Падгорная вуліца]
+msgid "Подгорная улица"
+msgstr ""
+
+# Objects : [n1956873822]
+# name:be: [Падкрыжакі]
+msgid "Подкрыжаки"
+msgstr ""
+
+# Objects : [r3430894]
+# name:be: [Падкрыжацкая вуліца]
+msgid "Подкрыжацкая улица"
+msgstr ""
+
+# Objects : [r133852]
+# name:be: [Падольная вуліца]
+msgid "Подольная улица"
+msgstr ""
+
+# Objects : [n3084301686]
+# name:be: []
+msgid "Подстанция скорой помощи № 2"
+msgstr ""
+
+# Objects : [n1835918276]
+# name:be: [Падстанцыя хуткай дапамогі № 3]
+msgid "Подстанция скорой помощи № 3"
+msgstr ""
+
+# Objects : [n3245269349]
+# name:be: []
+msgid "Подъезд / Фотостудия"
+msgstr ""
+
+# Objects : [n1626440015]
+# name:be: [Пажарная аварыйна-выратавальная часць № 2]
+msgid "Пожарная аварийно-спасательная часть № 2"
+msgstr ""
+
+# Objects : [w29126244]
+# name:be: [Пажарная аварыйна-выратавальная часць № 3]
+msgid "Пожарная аварийно-спасательная часть № 3"
+msgstr ""
+
+# Objects : [n2643453734]
+# name:be: [Пажарная аварыйна-выратавальная часць № 5]
+msgid "Пожарная аварийно-спасательная часть № 5"
+msgstr ""
+
+# Objects : [n320409660]
+# name:be: [пажарная каланча]
+msgid "Пожарная каланча"
+msgstr ""
+
+# Objects : [n3163727900]
+# name:be: [Пажарны аварыйна-выратавальны атрад]
+msgid "Пожарный аварийно-спасательный отряд"
+msgstr ""
+
+# Objects : [r2373491]
+# name:be: [Палеская вуліца]
+msgid "Полесская улица"
+msgstr ""
+
+# Objects : [n320670589, w41419651]
+# name:be: [Палескі парк]
+msgid "Полесский парк"
+msgstr ""
+
+# Objects : [n2571641340, w265901876]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n1558439465]
+# name:be: []
+msgid "Поликлиника ОАО Гродно Азот"
+msgstr ""
+
+# Objects : [n320409494]
+# name:be: [Паліклініка № 2]
+msgid "Поликлиника № 2"
+msgstr ""
+
+# Objects : [n687298503]
+# name:be: [Паліклініка №5]
+msgid "Поликлиника №5"
+msgstr ""
+
+# Objects : [n2674558978]
+# name:be: []
+msgid "Поликлиническое отделение"
+msgstr ""
+
+# Objects : [n2360729276]
+# name:be: []
+msgid "Поликлиническое отделение Кардиодиспансера"
+msgstr ""
+
+# Objects : [n3178670087]
+# name:be: []
+msgid "Поляна бардов"
+msgstr ""
+
+# Objects : [n507052969]
+# name:be: [Панямунь]
+msgid "Понемунь"
+msgstr ""
+
+# Objects : [r272740]
+# name:be: [Панямунская вуліца]
+msgid "Понемуньская улица"
+msgstr ""
+
+# Objects : [r282972]
+# name:be: [Парахавая вуліца]
+msgid "Пороховая улица"
+msgstr ""
+
+# Objects : [r344909]
+# name:be: [Парахавы завулак]
+msgid "Пороховой переулок"
+msgstr ""
+
+# Objects : [r2374966]
+# name:be: [Партовая вуліца]
+msgid "Портовая улица"
+msgstr ""
+
+# Objects : [n2612276265]
+# name:be: [Ганаровае консульства Украіны ў Гродне]
+msgid "Почетное консульство Украины в Гродно"
+msgstr ""
+
+# Objects : [r4056849]
+# name:be: [Паэтычная вуліца]
+msgid "Поэтическая улица"
+msgstr ""
+
+# Objects : [w29127089]
+# name:be: []
+msgid "ПП ЖБК ОАО СМТ №30"
+msgstr ""
+
+# Objects : [r2534415]
+# name:be: [Святочная вуліца]
+msgid "Праздничная улица"
+msgstr ""
+
+# Objects : [w227844532]
+# name:be: []
+msgid "прачка"
+msgstr ""
+
+# Objects : [r162788]
+# name:be: [Прыгарадная вуліца]
+msgid "Пригородная улица"
+msgstr ""
+
+# Objects : [n2967940135]
+# name:be: []
+msgid "Приёмная родильного отделения"
+msgstr ""
+
+# Objects : [n2382586711, n2968108733]
+# name:be: []
+msgid "Приёмное отделение"
+msgstr ""
+
+# Objects : [n428964270, w173492567]
+# name:be: [Прынёманскі]
+msgid "Принеманский"
+msgstr ""
+
+# Objects : [w276885061]
+# name:be: []
+msgid "Принеманское-6"
+msgstr ""
+
+# Objects : [r272741]
+# name:be: [Прагулачная вуліца]
+msgid "Прогулочная улица"
+msgstr ""
+
+# Objects : [w176037080]
+# name:be: []
+msgid "Продукты"
+msgstr ""
+
+# Objects : [n2629189147]
+# name:be: []
+msgid "Проектный институт Гродногипрозем"
+msgstr ""
+
+# Objects : [n2941057252]
+# name:be: []
+msgid "Прокат"
+msgstr ""
+
+# Objects : [n2760732926]
+# name:be: [Пракуратура горада Гродна]
+msgid "Прокуратура города Гродно"
+msgstr ""
+
+# Objects : [n2273037304, n2760732924]
+# name:be: [Пракуратура Гродзенскага раёна]
+msgid "Прокуратура Гродненского района"
+msgstr ""
+
+# Objects : [w29124916]
+# name:be: [Пракуратура Гродзенскай вобласці]
+msgid "Прокуратура Гродненской области"
+msgstr ""
+
+# Objects : [w29126130]
+# name:be: [Пракуратура Леніскага раёна]
+msgid "Прокуратура Ленинского района"
+msgstr ""
+
+# Objects : [w29125530]
+# name:be: [Пракуратура Кастрычніцкага раёна]
+msgid "Прокуратура Октябрьского района"
+msgstr ""
+
+# Objects : [r2449366]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [r158257]
+# name:be: [праспект Кляцкога]
+msgid "проспект Клецкова"
+msgstr ""
+
+# Objects : [r123021]
+# name:be: [праспект Касманаўтаў]
+msgid "проспект Космонавтов"
+msgstr ""
+
+# Objects : [r130755]
+# name:be: [праспект Будаўнікоў]
+msgid "проспект Строителей"
+msgstr ""
+
+# Objects : [r282255]
+# name:be: [праспект Янкі Купалы]
+msgid "проспект Янки Купалы"
+msgstr ""
+
+# Objects : [n320409612]
+# name:be: []
+msgid "Противотуберкулезная поликлиника"
+msgstr ""
+
+# Objects : [n320409502]
+# name:be: [Прафесіянальны электратэхнічны каледж]
+msgid "Профессиональный электротехнический колледж"
+msgstr ""
+
+# Objects : [r317698]
+# name:be: [Прафсаюзная вуліца]
+msgid "Профсоюзная улица"
+msgstr ""
+
+# Objects : [w36964640]
+# name:be: []
+msgid "ПСДТУ РУП "Гродноэнерго""
+msgstr ""
+
+# Objects : [n320409647]
+# name:be: []
+msgid "Психиатрия-Наркология"
+msgstr ""
+
+# Objects : [w29129186]
+# name:be: []
+msgid "ПТО "Гродно-Пульс""
+msgstr ""
+
+# Objects : [n2339772893]
+# name:be: []
+msgid "ПТО "Гродно-Центральный""
+msgstr ""
+
+# Objects : [w29126603, w29126628]
+# name:be: []
+msgid "ПТОР"
+msgstr ""
+
+# Objects : [w29124729]
+# name:be: []
+msgid "Пункт приёма вторичного сырья"
+msgstr ""
+
+# Objects : [n2222553093]
+# name:be: [Пышкі]
+msgid "Пышки"
+msgstr ""
+
+# Objects : [r2539454]
+# name:be: [Рабочая вуліца]
+msgid "Рабочая улица"
+msgstr ""
+
+# Objects : [r2539341, r3679028]
+# name:be: [Вясёлкавая вуліца, Радужная вуліца]
+msgid "Радужная улица"
+msgstr ""
+
+# Objects : [r4110810]
+# name:be: [Рамесны ўезд]
+msgid "Рамесны въезд"
+msgstr ""
+
+# Objects : [n1880417790]
+# name:be: [Рамонт абутку]
+msgid "Рамонт абутку"
+msgstr ""
+
+# Objects : [n1328426878]
+# name:be: []
+msgid "Рандеву"
+msgstr ""
+
+# Objects : [r2539312]
+# name:be: [Ранняя вуліца]
+msgid "Ранняя улица"
+msgstr ""
+
+# Objects : [w29126416]
+# name:be: [Рэмбыттэхніка]
+msgid "Рембыттехника"
+msgstr ""
+
+# Objects : [n1784867719, n1821566174, n2267105539, w117871811]
+# name:be: []
+msgid "Ремонт обуви"
+msgstr ""
+
+# Objects : [n1784867720]
+# name:be: []
+msgid "Ремонт одежды"
+msgstr ""
+
+# Objects : [n1880417791]
+# name:be: []
+msgid "Ремонт часов"
+msgstr ""
+
+# Objects : [n1880417792]
+# name:be: []
+msgid "Ремонт ювелирных изделий"
+msgstr ""
+
+# Objects : [r317561]
+# name:be: [Рачная вуліца]
+msgid "Речная улица"
+msgstr ""
+
+# Objects : [r2539343]
+# name:be: [Жытняя вуліца]
+msgid "Ржаная улица"
+msgstr ""
+
+# Objects : [w259603966]
+# name:be: []
+msgid "Ритуальные принадлежности"
+msgstr ""
+
+# Objects : [n2267117925, w46735872, w61939951]
+# name:be: [Рытуальныя паслугі]
+msgid "Ритуальные услуги"
+msgstr ""
+
+# Objects : [w135157370]
+# name:be: []
+msgid "Родная сторона"
+msgstr ""
+
+# Objects : [n3236339915]
+# name:be: []
+msgid "Родная сторона / Аптека"
+msgstr ""
+
+# Objects : [w231763913]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w121714041, w225425920, w234106058, w238698526]
+# name:be: []
+msgid "Родны Кут"
+msgstr ""
+
+# Objects : [r2538973]
+# name:be: [Рамонкавая вуліца]
+msgid "Ромашковая улица"
+msgstr ""
+
+# Objects : [r3080190]
+# name:be: [Рошчынская вуліца]
+msgid "Рощинская улица"
+msgstr ""
+
+# Objects : [r1083553]
+# name:be: [Рошчынскі завулак]
+msgid "Рощинский переулок"
+msgstr ""
+
+# Objects : [w44625488]
+# name:be: []
+msgid "РП"
+msgstr ""
+
+# Objects : [w96639487]
+# name:be: []
+msgid "РП-1"
+msgstr ""
+
+# Objects : [n1648213207]
+# name:be: []
+msgid "РП-31"
+msgstr ""
+
+# Objects : [n1648213204]
+# name:be: []
+msgid "РП-4 Главная"
+msgstr ""
+
+# Objects : [n1657604945]
+# name:be: []
+msgid "РП-ОСК"
+msgstr ""
+
+# Objects : [w227630855]
+# name:be: []
+msgid "Рублевский"
+msgstr ""
+
+# Objects : [n428964268]
+# name:be: [Румлёва]
+msgid "Румлёво"
+msgstr ""
+
+# Objects : [r2567850]
+# name:be: [Румлевскі мост]
+msgid "Румлевский мост"
+msgstr ""
+
+# Objects : [r3114099]
+# name:be: [Румлёўскі праспект]
+msgid "Румлёвский проспект"
+msgstr ""
+
+# Objects : [w29126513]
+# name:be: []
+msgid "РУП Гроднохлебпром"
+msgstr ""
+
+# Objects : [r2539524]
+# name:be: [Рыбацкая вуліца]
+msgid "Рыбацкая улица"
+msgstr ""
+
+# Objects : [r916962]
+# name:be: [Рабінавая вуліца]
+msgid "Рябиновая улица"
+msgstr ""
+
+# Objects : [w291358203]
+# name:be: []
+msgid "с/о "Пламя""
+msgstr ""
+
+# Objects : [r1060538]
+# name:be: []
+msgid "с/о Гостинец"
+msgstr ""
+
+# Objects : [r2373492]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [n2766722499, w237463767]
+# name:be: []
+msgid "санаторий "Жемчужина""
+msgstr ""
+
+# Objects : [w237463768]
+# name:be: []
+msgid "санаторий "Неман""
+msgstr ""
+
+# Objects : [n2766722548]
+# name:be: []
+msgid "Санаторий Нёман-72"
+msgstr ""
+
+# Objects : [r2534429]
+# name:be: [Санаторная вуліца]
+msgid "Санаторная улица"
+msgstr ""
+
+# Objects : [w29126621]
+# name:be: []
+msgid "Санчасть"
+msgstr ""
+
+# Objects : [w29126172]
+# name:be: []
+msgid "САХ"
+msgstr ""
+
+# Objects : [r302445]
+# name:be: [Светлая вуліца]
+msgid "Светлая улица"
+msgstr ""
+
+# Objects : [r2539313]
+# name:be: [Светлы завулак]
+msgid "Светлый переулок"
+msgstr ""
+
+# Objects : [w29158561]
+# name:be: []
+msgid "Свинарник"
+msgstr ""
+
+# Objects : [r303986]
+# name:be: [Світальная вуліца]
+msgid "Свитальная улица"
+msgstr ""
+
+# Objects : [n2891057298]
+# name:be: []
+msgid "Святая"
+msgstr ""
+
+# Objects : [n821061384]
+# name:be: []
+msgid "Северная котельная"
+msgstr ""
+
+# Objects : [r2539314]
+# name:be: [Паўночная вуліца]
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [r2453303]
+# name:be: [Сельская вуліца]
+msgid "Сельская улица"
+msgstr ""
+
+# Objects : [r4078512]
+# name:be: [Шэрая вуліца]
+msgid "Серая улица"
+msgstr ""
+
+# Objects : [r2534433]
+# name:be: [Срэбраная вуліца]
+msgid "Серебряная улица"
+msgstr ""
+
+# Objects : [n2788684317]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n2788684288]
+# name:be: [Сінагога харальная]
+msgid "Синагога хоральная"
+msgstr ""
+
+# Objects : [n3178670101]
+# name:be: [Сінька]
+msgid "Синька"
+msgstr ""
+
+# Objects : [r4056850]
+# name:be: [Казачная вуліца]
+msgid "Сказочная улица"
+msgstr ""
+
+# Objects : [w289508480]
+# name:be: []
+msgid "Сквер дружбы"
+msgstr ""
+
+# Objects : [n2585268137]
+# name:be: [Сквер памяці войнаў аўганцаў]
+msgid "Сквер памяти войнов афганцев"
+msgstr ""
+
+# Objects : [w33632471]
+# name:be: [Скідзельскі рынак]
+msgid "Скидельский рынок"
+msgstr ""
+
+# Objects : [r2673878]
+# name:be: [Скідзельская шаша]
+msgid "Скидельское шоссе"
+msgstr ""
+
+# Objects : [w29125676]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
+# Objects : [n559738733]
+# name:be: [Скамарошкі]
+msgid "Скоморошки"
+msgstr ""
+
+# Objects : [r2576551]
+# name:be: [Скосная вуліца]
+msgid "Скосная улица"
+msgstr ""
+
+# Objects : [n445996317]
+# name:be: [Славія]
+msgid "Славия"
+msgstr ""
+
+# Objects : [r1083659]
+# name:be: [Славянская вуліца]
+msgid "Славянская улица"
+msgstr ""
+
+# Objects : [n1853636373]
+# name:be: [Сабачая Горка]
+msgid "Собачья Горка"
+msgstr ""
+
+# Objects : [n320409763]
+# name:be: []
+msgid "Сова"
+msgstr ""
+
+# Objects : [r135342]
+# name:be: [Савецкая плошча]
+msgid "Советская площадь"
+msgstr ""
+
+# Objects : [r135344]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [r3067338]
+# name:be: [Саўгасная вуліца]
+msgid "Совхозная улица"
+msgstr ""
+
+# Objects : [r4185665]
+# name:be: [Сакаліная вуліца]
+msgid "Соколиная улица"
+msgstr ""
+
+# Objects : [r2453304]
+# name:be: [Сакольская вуліца]
+msgid "Сокольская улица"
+msgstr ""
+
+# Objects : [r1102200]
+# name:be: [Сонечная вуліца]
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [n1851895781]
+# name:be: []
+msgid "Солнышко"
+msgstr ""
+
+# Objects : [r3422298]
+# name:be: [Саломенкаўская вуліца]
+msgid "Соломенковская улица"
+msgstr ""
+
+# Objects : [n2210023225]
+# name:be: [Солы]
+msgid "Солы"
+msgstr ""
+
+# Objects : [r2538974]
+# name:be: [Сапоцкінская вуліца]
+msgid "Сопоцкинская улица"
+msgstr ""
+
+# Objects : [r4096212]
+# name:be: [Сасновая вуліца]
+msgid "Сосновая улица"
+msgstr ""
+
+# Objects : [r181216]
+# name:be: [Сацыялістычная вуліца]
+msgid "Социалистическая улица"
+msgstr ""
+
+# Objects : [n1877973309]
+# name:be: []
+msgid "СоюзИнтерТранс"
+msgstr ""
+
+# Objects : [w29147019]
+# name:be: []
+msgid "Союз поляков"
+msgstr ""
+
+# Objects : [r215429]
+# name:be: [Спартакаўская вуліца]
+msgid "Спартаковская улица"
+msgstr ""
+
+# Objects : [n2932443730]
+# name:be: []
+msgid "Спорт"
+msgstr ""
+
+# Objects : [n3178670086]
+# name:be: []
+msgid "Спортивная"
+msgstr ""
+
+# Objects : [n1700604460]
+# name:be: []
+msgid "Справочный Туристический центр."
+msgstr ""
+
+# Objects : [r4521214]
+# name:be: [Сярэдні завулак]
+msgid "Средний переулок"
+msgstr ""
+
+# Objects : [w29125644]
+# name:be: [Сярэдняя школа №12]
+msgid "Средняя школа №12"
+msgstr ""
+
+# Objects : [w29125694]
+# name:be: []
+msgid "Средняя школа №20"
+msgstr ""
+
+# Objects : [n1856372240]
+# name:be: []
+msgid "Стамотология"
+msgstr ""
+
+# Objects : [w281105057]
+# name:be: []
+msgid "станция Аульс"
+msgstr ""
+
+# Objects : [w29128793]
+# name:be: []
+msgid "Старая Кузница"
+msgstr ""
+
+# Objects : [r2347475]
+# name:be: [Старазамкавая вуліца]
+msgid "Старозамковая улица"
+msgstr ""
+
+# Objects : [r2815470]
+# name:be: [Старамалышчынская вуліца]
+msgid "Старомалыщинская улица"
+msgstr ""
+
+# Objects : [n441571364, w29125791]
+# name:be: [Стары замак]
+msgid "Старый замок"
+msgstr ""
+
+# Objects : [n2621931685]
+# name:be: []
+msgid "Статус Кво"
+msgstr ""
+
+# Objects : [r4096213]
+# name:be: [Стаханаўская вуліца]
+msgid "Стахановская улица"
+msgstr ""
+
+# Objects : [w31263822]
+# name:be: []
+msgid "стеклозавод"
+msgstr ""
+
+# Objects : [n379789513]
+# name:be: []
+msgid "Стелла"
+msgstr ""
+
+# Objects : [w29126622]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [n320409875]
+# name:be: []
+msgid "Стоматологическая поликлиника"
+msgstr ""
+
+# Objects : [n1327387133, n3189972000]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [n810198151]
+# name:be: []
+msgid "стоп"
+msgstr ""
+
+# Objects : [n1782387376]
+# name:be: []
+msgid "Стоплайн"
+msgstr ""
+
+# Objects : [n1877973312]
+# name:be: []
+msgid "Страховые услуги"
+msgstr ""
+
+# Objects : [r2539455]
+# name:be: [Стралковая вуліца]
+msgid "Стрелковая улица"
+msgstr ""
+
+# Objects : [n320409874]
+# name:be: [Будаўнічы ліцэй №1]
+msgid "Строительный лицей №1"
+msgstr ""
+
+# Objects : [w314217868]
+# name:be: []
+msgid "строительство автоцентра Renault"
+msgstr ""
+
+# Objects : [n2944207924, n2944207925]
+# name:be: []
+msgid "Строителям кольца"
+msgstr ""
+
+# Objects : [r2957864]
+# name:be: [Студэнцкая вуліца]
+msgid "Студенческая улица"
+msgstr ""
+
+# Objects : [n3188412354]
+# name:be: []
+msgid "СУ-24МР"
+msgstr ""
+
+# Objects : [n2621931686]
+# name:be: [Суд Гродзенскага раёна]
+msgid "Суд Гродненского района"
+msgstr ""
+
+# Objects : [n320409557]
+# name:be: [Суд Ленінскага раёна]
+msgid "Суд Ленинского района"
+msgstr ""
+
+# Objects : [w29126108]
+# name:be: [Суд Кастрычніцкага раёна]
+msgid "Суд Октябрьского района"
+msgstr ""
+
+# Objects : [r2453305]
+# name:be: [Супольная вуліца]
+msgid "Супольная улица"
+msgstr ""
+
+# Objects : [r4056851]
+# name:be: [Шчаслівая вуліца]
+msgid "Счастливая улица"
+msgstr ""
+
+# Objects : [n2931728291]
+# name:be: [СШ № 36]
+msgid "СШ № 36"
+msgstr ""
+
+# Objects : [n3188412355]
+# name:be: []
+msgid "Т-62"
+msgstr ""
+
+# Objects : [w29160312]
+# name:be: [Тытунёвая фабрыка]
+msgid "Табачная фабрика"
+msgstr ""
+
+# Objects : [n320409869]
+# name:be: []
+msgid "Танк"
+msgstr ""
+
+# Objects : [n523866085]
+# name:be: []
+msgid "Танк Т-34"
+msgstr ""
+
+# Objects : [n320409940]
+# name:be: [Тарусічы]
+msgid "Тарусичи"
+msgstr ""
+
+# Objects : [r3685809]
+# name:be: [Тарусіцкая вуліца]
+msgid "Тарусичская улица"
+msgstr ""
+
+# Objects : [r2450643]
+# name:be: [Татарская вуліца]
+msgid "Татарская улица"
+msgstr ""
+
+# Objects : [r3980186]
+# name:be: [Творчая вуліца]
+msgid "Творческая улица"
+msgstr ""
+
+# Objects : [w29125996]
+# name:be: []
+msgid "ТВЦ "Пассаж""
+msgstr ""
+
+# Objects : [n320409600]
+# name:be: [Тэатр Тызенгаўза]
+msgid "Театр Тизенгауза"
+msgstr ""
+
+# Objects : [r122598]
+# name:be: [Тэлеграфная вуліца]
+msgid "Телеграфная улица"
+msgstr ""
+
+# Objects : [r2606962]
+# name:be: [Цяністы завулак]
+msgid "Тенистый переулок"
+msgstr ""
+
+# Objects : [n3178670093]
+# name:be: []
+msgid "Теремок"
+msgstr ""
+
+# Objects : [w166855803]
+# name:be: []
+msgid "Терразит Плюс — Окна и Двери"
+msgstr ""
+
+# Objects : [w29125914]
+# name:be: []
+msgid "Террариум"
+msgstr ""
+
+# Objects : [w29130508]
+# name:be: []
+msgid "Территориальный центр социального обслуживания населения Ленинского района"
+msgstr ""
+
+# Objects : [r2539525]
+# name:be: [Цесная вуліца]
+msgid "Тесная улица"
+msgstr ""
+
+# Objects : [w29124810]
+# name:be: [Тэхналагічны каледж ГрДУ]
+msgid "Технологический колледж ГрГУ"
+msgstr ""
+
+# Objects : [n2628992541]
+# name:be: []
+msgid "Тир"
+msgstr ""
+
+# Objects : [r317462]
+# name:be: [Ткацкая вуліца]
+msgid "Ткацкая улица"
+msgstr ""
+
+# Objects : [n2967941798]
+# name:be: []
+msgid "Топаз"
+msgstr ""
+
+# Objects : [r2539315]
+# name:be: [Таполевая вуліца]
+msgid "Тополевая улица"
+msgstr ""
+
+# Objects : [w105609592]
+# name:be: []
+msgid "Торговый центр "Веста""
+msgstr ""
+
+# Objects : [n2382586717]
+# name:be: []
+msgid "Травмопункт"
+msgstr ""
+
+# Objects : [r2540872]
+# name:be: [Трактарная вуліца]
+msgid "Тракторная улица"
+msgstr ""
+
+# Objects : [n2522947020]
+# name:be: []
+msgid "Трамплины"
+msgstr ""
+
+# Objects : [r2374967]
+# name:be: [Транспартная вуліца]
+msgid "Транспортная улица"
+msgstr ""
+
+# Objects : [w306758711]
+# name:be: []
+msgid "Транспортный цех"
+msgstr ""
+
+# Objects : [r2904296]
+# name:be: []
+msgid "Троллейбус № 1"
+msgstr ""
+
+# Objects : [r2904298]
+# name:be: []
+msgid "Троллейбус № 10"
+msgstr ""
+
+# Objects : [r2908403]
+# name:be: []
+msgid "Троллейбус № 11"
+msgstr ""
+
+# Objects : [r2904297]
+# name:be: []
+msgid "Троллейбус № 12"
+msgstr ""
+
+# Objects : [r2924884]
+# name:be: []
+msgid "Троллейбус № 13"
+msgstr ""
+
+# Objects : [r2904331]
+# name:be: []
+msgid "Троллейбус № 14"
+msgstr ""
+
+# Objects : [r2924929]
+# name:be: []
+msgid "Троллейбус № 15"
+msgstr ""
+
+# Objects : [r2917179]
+# name:be: []
+msgid "Троллейбус № 16"
+msgstr ""
+
+# Objects : [r2924928]
+# name:be: []
+msgid "Троллейбус № 17"
+msgstr ""
+
+# Objects : [r2908404]
+# name:be: []
+msgid "Троллейбус № 2"
+msgstr ""
+
+# Objects : [r2908409]
+# name:be: []
+msgid "Троллейбус № 3"
+msgstr ""
+
+# Objects : [r2908407]
+# name:be: []
+msgid "Троллейбус № 4"
+msgstr ""
+
+# Objects : [r2908406]
+# name:be: []
+msgid "Троллейбус № 5"
+msgstr ""
+
+# Objects : [r2908405]
+# name:be: []
+msgid "Троллейбус № 6"
+msgstr ""
+
+# Objects : [r2904349]
+# name:be: []
+msgid "Троллейбус № 7"
+msgstr ""
+
+# Objects : [r2904332]
+# name:be: []
+msgid "Троллейбус № 8"
+msgstr ""
+
+# Objects : [r2908408]
+# name:be: []
+msgid "Троллейбус № 9"
+msgstr ""
+
+# Objects : [n2569882200]
+# name:be: []
+msgid "Тубдиспансер"
+msgstr ""
+
+# Objects : [r3957808]
+# name:be: [Туманная вуліца]
+msgid "Туманная улица"
+msgstr ""
+
+# Objects : [r3957809]
+# name:be: [Туманны завулак]
+msgid "Туманный переулок"
+msgstr ""
+
+# Objects : [n320409908]
+# name:be: [Турыст]
+msgid "Турист"
+msgstr ""
+
+# Objects : [w29125538]
+# name:be: []
+msgid "тц.Брест"
+msgstr ""
+
+# Objects : [w29125473]
+# name:be: []
+msgid "тц.Ника"
+msgstr ""
+
+# Objects : [w33279743]
+# name:be: [турма]
+msgid "Тюрьма"
+msgstr ""
+
+# Objects : [w29126126]
+# name:be: [Турма-1]
+msgid "Тюрьма-1"
+msgstr ""
+
+# Objects : [w29126112]
+# name:be: []
+msgid "УВД Гродненского облисполкома"
+msgstr ""
+
+# Objects : [n2827441962]
+# name:be: []
+msgid "Уголовно-исполнительная инспекция"
+msgstr ""
+
+# Objects : [r3973912]
+# name:be: [Удалая вуліца]
+msgid "Удачная улица"
+msgstr ""
+
+# Objects : [r4461823]
+# name:be: []
+msgid "УЗ "ОМАБ""
+msgstr ""
+
+# Objects : [r2532276]
+# name:be: [вуліца 11 Ліпеня]
+msgid "улица 11 Липеня"
+msgstr ""
+
+# Objects : [r182432]
+# name:be: [вуліца 17 Верасня]
+msgid "улица 17 Сентября"
+msgstr ""
+
+# Objects : [r1298932]
+# name:be: [вуліца 1 Мая]
+msgid "улица 1 Мая"
+msgstr ""
+
+# Objects : [r2925553]
+# name:be: [вуліца 8 Сакавіка]
+msgid "улица 8 Марта"
+msgstr ""
+
+# Objects : [r2534440]
+# name:be: [вуліца Абрэмскага]
+msgid "улица Абремского"
+msgstr ""
+
+# Objects : [r2525644]
+# name:be: [вуліца Александровіча]
+msgid "улица Александровича"
+msgstr ""
+
+# Objects : [r2532277]
+# name:be: [вуліца Альхімовіча]
+msgid "улица Альхимовича"
+msgstr ""
+
+# Objects : [r134208]
+# name:be: [вуліца Антонава]
+msgid "улица Антонова"
+msgstr ""
+
+# Objects : [r2449367]
+# name:be: [вуліца Арцёма]
+msgid "улица Артёма"
+msgstr ""
+
+# Objects : [r2539526]
+# name:be: [вуліца Бабіна Гара]
+msgid "улица Бабина Гора"
+msgstr ""
+
+# Objects : [r2374970]
+# name:be: [вуліца Бабкіна]
+msgid "улица Бабкина"
+msgstr ""
+
+# Objects : [r4258397]
+# name:be: [вуліца Бажоры]
+msgid "улица Бажоры"
+msgstr ""
+
+# Objects : [r2539317]
+# name:be: [вуліца Бакштанскага]
+msgid "улица Бакштанского"
+msgstr ""
+
+# Objects : [r2530477]
+# name:be: [вуліца Баліцкага]
+msgid "улица Балицкого"
+msgstr ""
+
+# Objects : [r2532278]
+# name:be: [вуліца Баранцэвіча]
+msgid "улица Баранцевича"
+msgstr ""
+
+# Objects : [r2449072]
+# name:be: [вуліца Бялінскага]
+msgid "улица Белинского"
+msgstr ""
+
+# Objects : [r122707]
+# name:be: [вуліца Белуша]
+msgid "улица Белуша"
+msgstr ""
+
+# Objects : [r1071255]
+# name:be: [вуліца Белыя Росы]
+msgid "улица Белые Росы"
+msgstr ""
+
+# Objects : [r1102198]
+# name:be: [вуліца Бертэля]
+msgid "улица Бертеля"
+msgstr ""
+
+# Objects : [r4096214]
+# name:be: [вуліца Багдана Хмяльніцкага]
+msgid "улица Богдана Хмельницкого"
+msgstr ""
+
+# Objects : [r2539527]
+# name:be: [вуліца Багдановіча]
+msgid "улица Богдановича"
+msgstr ""
+
+# Objects : [r302640]
+# name:be: [вуліца Багуцкага]
+msgid "улица Богуцкого"
+msgstr ""
+
+# Objects : [r123185]
+# name:be: [вуліца Болдзіна]
+msgid "улица Болдина"
+msgstr ""
+
+# Objects : [r4258398]
+# name:be: [вуліца Бандоўскага]
+msgid "улица Бондовского"
+msgstr ""
+
+# Objects : [r1071251]
+# name:be: [вуліца Брыкеля]
+msgid "улица Брикеля"
+msgstr ""
+
+# Objects : [r162399]
+# name:be: [вуліца Будзёнага]
+msgid "улица Будённого"
+msgstr ""
+
+# Objects : [r2539318]
+# name:be: [вуліца Ваньковіча]
+msgid "улица Ваньковича"
+msgstr ""
+
+# Objects : [r225222]
+# name:be: [вуліца Васілька]
+msgid "улица Василька"
+msgstr ""
+
+# Objects : [r2447622]
+# name:be: [вуліца Ватуціна]
+msgid "улица Ватутина"
+msgstr ""
+
+# Objects : [r2557113]
+# name:be: [вуліца Вялікая Альшанка]
+msgid "улица Великая Ольшанка"
+msgstr ""
+
+# Objects : [r2447537]
+# name:be: [вуліца Веры Харужай]
+msgid "улица Веры Хоружей"
+msgstr ""
+
+# Objects : [r2539319]
+# name:be: [вуліца Вір]
+msgid "улица Вир"
+msgstr ""
+
+# Objects : [r273718]
+# name:be: [вуліца Вішнявец]
+msgid "улица Вишневец"
+msgstr ""
+
+# Objects : [r916956]
+# name:be: [вуліца Валжэцкага]
+msgid "улица Волжецкого"
+msgstr ""
+
+# Objects : [r2925554]
+# name:be: [вуліца Волкава]
+msgid "улица Волкова"
+msgstr ""
+
+# Objects : [r2539458]
+# name:be: [вуліца Ваўковіча]
+msgid "улица Волковича"
+msgstr ""
+
+# Objects : [r313551]
+# name:be: [вуліца Урублеўскага]
+msgid "улица Врублевского"
+msgstr ""
+
+# Objects : [r1069526]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [r4056853]
+# name:be: [вуліца Гартнага]
+msgid "улица Гартного"
+msgstr ""
+
+# Objects : [r2887401]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
+# Objects : [r942394]
+# name:be: [вуліца Гая]
+msgid "улица Гая"
+msgstr ""
+
+# Objects : [r2595340]
+# name:be: [вуліца Гедройца]
+msgid "улица Гедроица"
+msgstr ""
+
+# Objects : [r2374971]
+# name:be: [вуліца Герасімовіча]
+msgid "улица Герасимовича"
+msgstr ""
+
+# Objects : [r1102197]
+# name:be: [вуліца Герцэна]
+msgid "улица Герцена"
+msgstr ""
+
+# Objects : [r2539320]
+# name:be: [вуліца Гінтаўта]
+msgid "улица Гинтовта"
+msgstr ""
+
+# Objects : [r2373496]
+# name:be: [вуліца Гогаля]
+msgid "улица Гоголя"
+msgstr ""
+
+# Objects : [r317461]
+# name:be: [вуліца Галавічы]
+msgid "улица Головичи"
+msgstr ""
+
+# Objects : [r1111919]
+# name:be: [вуліца Гарнавых]
+msgid "улица Горновых"
+msgstr ""
+
+# Objects : [r2532271]
+# name:be: [вуліца Горы]
+msgid "улица Горы"
+msgstr ""
+
+# Objects : [r2534441]
+# name:be: [вуліца Грабоўскага]
+msgid "улица Грабовского"
+msgstr ""
+
+# Objects : [r2530478]
+# name:be: [вуліца Грыгаровіча]
+msgid "улица Григоровича"
+msgstr ""
+
+# Objects : [r2447538]
+# name:be: [вуліца Гротгера]
+msgid "улица Гротгера"
+msgstr ""
+
+# Objects : [r539180]
+# name:be: [вуліца Давыда Гарадзенскага]
+msgid "улица Давида Городенского"
+msgstr ""
+
+# Objects : [r3114115]
+# name:be: [вуліца Данілава]
+msgid "улица Данилова"
+msgstr ""
+
+# Objects : [r2374972]
+# name:be: [вуліца Дарвіна]
+msgid "улица Дарвина"
+msgstr ""
+
+# Objects : [r2373497]
+# name:be: [вуліца Дзекабрыстаў]
+msgid "улица Декабристов"
+msgstr ""
+
+# Objects : [r4096215]
+# name:be: [вуліца Дземчанкі]
+msgid "улица Демченко"
+msgstr ""
+
+# Objects : [r163348]
+# name:be: [вуліца Дзяржынскага]
+msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [r1060596]
+# name:be: [вуліца Дзмітрыеўка]
+msgid "улица Дмитриевка"
+msgstr ""
+
+# Objects : [r2449073]
+# name:be: [вуліца Дабралюбава]
+msgid "улица Добролюбова"
+msgstr ""
+
+# Objects : [r1300768]
+# name:be: [вуліца Даватара]
+msgid "улица Доватора"
+msgstr ""
+
+# Objects : [r123142]
+# name:be: [вуліца Дамброўскага]
+msgid "улица Домбровского"
+msgstr ""
+
+# Objects : [r2530479]
+# name:be: [вуліца Дамейкі]
+msgid "улица Домейко"
+msgstr ""
+
+# Objects : [r2673322]
+# name:be: [вуліца Друцк]
+msgid "улица Друцк"
+msgstr ""
+
+# Objects : [r414609]
+# name:be: [вуліца Дубко]
+msgid "улица Дубко"
+msgstr ""
+
+# Objects : [r2539321]
+# name:be: [вуліца Дуброва]
+msgid "улица Дуброва"
+msgstr ""
+
+# Objects : [r2595579]
+# name:be: [вуліца Духінскага]
+msgid "улица Духинского"
+msgstr ""
+
+# Objects : [r2534442]
+# name:be: [вуліца Ельскага]
+msgid "улица Ельского"
+msgstr ""
+
+# Objects : [r2539322]
+# name:be: [вуліца Жалкоўскага]
+msgid "улица Желковского"
+msgstr ""
+
+# Objects : [r3506046]
+# name:be: [вуліца Забалаць]
+msgid "улица Заболоть"
+msgstr ""
+
+# Objects : [r3949402]
+# name:be: [вуліца Забалоцкага]
+msgid "улица Заболоцкого"
+msgstr ""
+
+# Objects : [r2449067]
+# name:be: [вуліца Завершчызна]
+msgid "улица Заверщизна"
+msgstr ""
+
+# Objects : [r2530480]
+# name:be: [вуліца Заменгофа]
+msgid "улица Заменгофа"
+msgstr ""
+
+# Objects : [r2373498]
+# name:be: [вуліца Зана]
+msgid "улица Зана"
+msgstr ""
+
+# Objects : [r135478]
+# name:be: [вуліца Заслаўскага]
+msgid "улица Заславского"
+msgstr ""
+
+# Objects : [r123023]
+# name:be: [вуліца Захарава]
+msgid "улица Захарова"
+msgstr ""
+
+# Objects : [r2449074]
+# name:be: [вуліца Зярнова]
+msgid "улица Зернова"
+msgstr ""
+
+# Objects : [r2453309]
+# name:be: [вуліца Зоі Касмадзям’янскай]
+msgid "улица Зои Космодемьянской"
+msgstr ""
+
+# Objects : [r3867553]
+# name:be: [вуліца Іўліева]
+msgid "улица Ивлиева"
+msgstr ""
+
+# Objects : [r187110]
+# name:be: [вуліца Кабяка]
+msgid "улица Кабяка"
+msgstr ""
+
+# Objects : [r2530481]
+# name:be: [вуліца Кавязіна]
+msgid "улица Кавязина"
+msgstr ""
+
+# Objects : [r2538977]
+# name:be: [вуліца Казаноўскага]
+msgid "улица Казановского"
+msgstr ""
+
+# Objects : [r2453310]
+# name:be: [вуліца Калініна]
+msgid "улица Калинина"
+msgstr ""
+
+# Objects : [r162390]
+# name:be: [вуліца Каліноўскага]
+msgid "улица Калиновского"
+msgstr ""
+
+# Objects : [r287999]
+# name:be: [вуліца Карбышава]
+msgid "улица Карбышева"
+msgstr ""
+
+# Objects : [r122600]
+# name:be: [вуліца Карла Маркса]
+msgid "улица Карла Маркса"
+msgstr ""
+
+# Objects : [r4096216]
+# name:be: [вуліца Кармелюка]
+msgid "улица Кармелюка"
+msgstr ""
+
+# Objects : [r331083]
+# name:be: [вуліца Карскага]
+msgid "улица Карского"
+msgstr ""
+
+# Objects : [r135447]
+# name:be: [вуліца Квятко]
+msgid "улица Кветко"
+msgstr ""
+
+# Objects : [r2562513]
+# name:be: [вуліца Кірычэнкі]
+msgid "улица Кириченко"
+msgstr ""
+
+# Objects : [r181214]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
+# Objects : [r2562514]
+# name:be: [вуліца Каложа]
+msgid "улица Коложа"
+msgstr ""
+
+# Objects : [r2327855]
+# name:be: [вуліца Камарова]
+msgid "улица Комарова"
+msgstr ""
+
+# Objects : [r2925555]
+# name:be: [вуліца Караткевіча]
+msgid "улица Короткевича"
+msgstr ""
+
+# Objects : [r2449368]
+# name:be: [вуліца Касцюшка]
+msgid "улица Костюшко"
+msgstr ""
+
+# Objects : [r130648]
+# name:be: [вуліца Катоўскага]
+msgid "улица Котовского"
+msgstr ""
+
+# Objects : [r162801]
+# name:be: [вуліца Каханоўскага]
+msgid "улица Кохановского"
+msgstr ""
+
+# Objects : [r2539529]
+# name:be: [вуліца Крэмко]
+msgid "улица Кремко"
+msgstr ""
+
+# Objects : [r1102256]
+# name:be: [вуліца Крылова]
+msgid "улица Крылова"
+msgstr ""
+
+# Objects : [r4521215]
+# name:be: [вуліца Куйбышава]
+msgid "улица Куйбышева"
+msgstr ""
+
+# Objects : [r2374973]
+# name:be: [вуліца Курбатава]
+msgid "улица Курбатова"
+msgstr ""
+
+# Objects : [r964517]
+# name:be: [вуліца Курчатава]
+msgid "улица Курчатова"
+msgstr ""
+
+# Objects : [r1102195]
+# name:be: [вуліца Кутузава]
+msgid "улица Кутузова"
+msgstr ""
+
+# Objects : [r2373499]
+# name:be: [вуліца Лелявеля]
+msgid "улица Лелевеля"
+msgstr ""
+
+# Objects : [r123011]
+# name:be: [вуліца Леніна]
+msgid "улица Ленина"
+msgstr ""
+
+# Objects : [r134287]
+# name:be: [вуліца Лермантава]
+msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [r1308311]
+# name:be: [вуліца Лізы Чайкінай]
+msgid "улица Лизы Чайкиной"
+msgstr ""
+
+# Objects : [r964530]
+# name:be: [вуліца Ліможа]
+msgid "улица Лиможа"
+msgstr ""
+
+# Objects : [r317674]
+# name:be: [вуліца Лісіная Горка]
+msgid "улица Лисиная Горка"
+msgstr ""
+
+# Objects : [r2449075]
+# name:be: [вуліца Літоўскага]
+msgid "улица Литовского"
+msgstr ""
+
+# Objects : [r317547]
+# name:be: [вуліца Ласосна]
+msgid "улица Лососна"
+msgstr ""
+
+# Objects : [r2539345]
+# name:be: [вуліца Лынькова]
+msgid "улица Лынькова"
+msgstr ""
+
+# Objects : [r2540802]
+# name:be: [вуліца Льва Бакста]
+msgid "улица Льва Бакста"
+msgstr ""
+
+# Objects : [r130400]
+# name:be: [вуліца Льва Талстога]
+msgid "улица Льва Толстого"
+msgstr ""
+
+# Objects : [r165429]
+# name:be: [вуліца Максіма Горкага]
+msgid "улица Максима Горького"
+msgstr ""
+
+# Objects : [r2374974]
+# name:be: [вуліца Манюшкі]
+msgid "улица Манюшко"
+msgstr ""
+
+# Objects : [r3114107]
+# name:be: [вуліца Маслакова]
+msgid "улица Маслакова"
+msgstr ""
+
+# Objects : [r2453311]
+# name:be: [вуліца Матросава]
+msgid "улица Матросова"
+msgstr ""
+
+# Objects : [r2449369]
+# name:be: [вуліца Маякоўскага]
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [r2566424]
+# name:be: [вуліца Крэйдавыя горы]
+msgid "улица Меловые горы"
+msgstr ""
+
+# Objects : [r2449370]
+# name:be: [вуліца Мендзялеева]
+msgid "улица Менделеева"
+msgstr ""
+
+# Objects : [r337430]
+# name:be: [вуліца Мерацкая застава]
+msgid "улица Меречская застава"
+msgstr ""
+
+# Objects : [r4258399]
+# name:be: [вуліца Мінейкі]
+msgid "улица Минейки"
+msgstr ""
+
+# Objects : [r2374975]
+# name:be: [вуліца Міру]
+msgid "улица Мира"
+msgstr ""
+
+# Objects : [r4056854]
+# name:be: [вуліца Міхася Чарота]
+msgid "улица Михася Чарота"
+msgstr ""
+
+# Objects : [r2449076]
+# name:be: [вуліца Міцкевіча]
+msgid "улица Мицкевича"
+msgstr ""
+
+# Objects : [r4521216]
+# name:be: [вуліца Мічурына]
+msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [r2447539]
+# name:be: [вуліца Марозава]
+msgid "улица Морозова"
+msgstr ""
+
+# Objects : [r192093]
+# name:be: [вуліца Найдуса]
+msgid "улица Найдуса"
+msgstr ""
+
+# Objects : [r2519246]
+# name:be: [вуліца Напалеона Орды]
+msgid "улица Наполеона Орды"
+msgstr ""
+
+# Objects : [r2374976]
+# name:be: [вуліца Някрасава]
+msgid "улица Некрасова"
+msgstr ""
+
+# Objects : [r2374977]
+# name:be: [вуліца Нямцэвіча]
+msgid "улица Немцевича"
+msgstr ""
+
+# Objects : [r2373500]
+# name:be: [вуліца Мікалаева]
+msgid "улица Николаева"
+msgstr ""
+
+# Objects : [r135487]
+# name:be: [вуліца Нагіна]
+msgid "улица Ногина"
+msgstr ""
+
+# Objects : [r2919936]
+# name:be: [вуліца Агінскага]
+msgid "улица Огинского"
+msgstr ""
+
+# Objects : [r1308309]
+# name:be: [вуліца Вольгі Саломавай]
+msgid "улица Ольги Соломовой"
+msgstr ""
+
+# Objects : [r2374978]
+# name:be: [вуліца Арджанікідзэ]
+msgid "улица Орджоникидзе"
+msgstr ""
+
+# Objects : [r1108033]
+# name:be: [вуліца Асіпенкі]
+msgid "улица Осипенко"
+msgstr ""
+
+# Objects : [r337390]
+# name:be: [вуліца Астравок]
+msgid "улица Островок"
+msgstr ""
+
+# Objects : [r162394]
+# name:be: [вуліца Астроўскага]
+msgid "улица Островского"
+msgstr ""
+
+# Objects : [r4056855]
+# name:be: [вуліца Паўла Баброўскага]
+msgid "улица Павла Бобровского"
+msgstr ""
+
+# Objects : [r1307633]
+# name:be: [вуліца Паўлава]
+msgid "улица Павлова"
+msgstr ""
+
+# Objects : [r2449077]
+# name:be: [вуліца Паўлоўскага]
+msgid "улица Павловского"
+msgstr ""
+
+# Objects : [r2539346]
+# name:be: [вуліца Панчанкі]
+msgid "улица Панченко"
+msgstr ""
+
+# Objects : [r130792]
+# name:be: [вуліца Парыжскай Камуны]
+msgid "улица Парижской Коммуны"
+msgstr ""
+
+# Objects : [r313291]
+# name:be: [вуліца Перасёлка]
+msgid "улица Переселка"
+msgstr ""
+
+# Objects : [r2373501]
+# name:be: [вуліца Пестэля]
+msgid "улица Пестеля"
+msgstr ""
+
+# Objects : [r197710]
+# name:be: [вуліца Пестрака]
+msgid "улица Пестрака"
+msgstr ""
+
+# Objects : [r165013]
+# name:be: [вуліца Перамогі]
+msgid "улица Победы"
+msgstr ""
+
+# Objects : [r2447540]
+# name:be: [вуліца Пажарскага]
+msgid "улица Пожарского"
+msgstr ""
+
+# Objects : [r2449371]
+# name:be: [вуліца Паліграфістаў]
+msgid "улица Полиграфистов"
+msgstr ""
+
+# Objects : [r2451685]
+# name:be: [вуліца Папова]
+msgid "улица Попова"
+msgstr ""
+
+# Objects : [r163371]
+# name:be: [вуліца Паповіча]
+msgid "улица Поповича"
+msgstr ""
+
+# Objects : [r1102304]
+# name:be: [вуліца Пучкова]
+msgid "улица Пучкова"
+msgstr ""
+
+# Objects : [r176388]
+# name:be: [вуліца Пушкіна]
+msgid "улица Пушкина"
+msgstr ""
+
+# Objects : [r2534416]
+# name:be: [вуліца Пушкова]
+msgid "улица Пушкова"
+msgstr ""
+
+# Objects : [r3756637]
+# name:be: [вуліца Пышкі]
+msgid "улица Пышки"
+msgstr ""
+
+# Objects : [r4096217]
+# name:be: [вуліца Разіна]
+msgid "улица Разина"
+msgstr ""
+
+# Objects : [r180485]
+# name:be: [вуліца Рэйманта]
+msgid "улица Реймонта"
+msgstr ""
+
+# Objects : [r154606]
+# name:be: [вуліца Рэпіна]
+msgid "улица Репина"
+msgstr ""
+
+# Objects : [r2530483]
+# name:be: [вуліца Рагачоўскага]
+msgid "улица Рогачевского"
+msgstr ""
+
+# Objects : [r302444]
+# name:be: [вуліца Ражанскага]
+msgid "улица Рожанского"
+msgstr ""
+
+# Objects : [r2374979]
+# name:be: [вуліца Разанава]
+msgid "улица Розанова"
+msgstr ""
+
+# Objects : [r2447623]
+# name:be: [вуліца Розы Люксембург]
+msgid "улица Розы Люксембург"
+msgstr ""
+
+# Objects : [r2373502]
+# name:be: [вуліца Рылеева]
+msgid "улица Рылеева"
+msgstr ""
+
+# Objects : [r1083540]
+# name:be: [вуліца Садакова]
+msgid "улица Садакова"
+msgstr ""
+
+# Objects : [r2534443]
+# name:be: [вуліца Садоўнікава Гара]
+msgid "улица Садовникова Гора"
+msgstr ""
+
+# Objects : [r2539460]
+# name:be: [вуліца Санфіравай]
+msgid "улица Санфировой"
+msgstr ""
+
+# Objects : [r2539461]
+# name:be: [вуліца Свярдлова]
+msgid "улица Свердлова"
+msgstr ""
+
+# Objects : [r916957]
+# name:be: [вуліца Серакоўскага]
+msgid "улица Сераковского"
+msgstr ""
+
+# Objects : [r135390]
+# name:be: [вуліца Серафімовіча]
+msgid "улица Серафимовича"
+msgstr ""
+
+# Objects : [r1102193]
+# name:be: [вуліца Сяргея Лазо]
+msgid "улица Сергея Лазо"
+msgstr ""
+
+# Objects : [r4056856]
+# name:be: [вуліца Сяргея Ланскога]
+msgid "улица Сергея Ланского"
+msgstr ""
+
+# Objects : [r3641654]
+# name:be: [вуліца Сівачова]
+msgid "улица Сивачёва"
+msgstr ""
+
+# Objects : [r317797]
+# name:be: [вуліца Скамарошкі]
+msgid "улица Скоморошки"
+msgstr ""
+
+# Objects : [r130666]
+# name:be: [вуліца Скрынніка]
+msgid "улица Скрынника"
+msgstr ""
+
+# Objects : [r171898]
+# name:be: [вуліца Славінскага]
+msgid "улица Славинского"
+msgstr ""
+
+# Objects : [r180484]
+# name:be: [вуліца Славацкага]
+msgid "улица Словацкого"
+msgstr ""
+
+# Objects : [r163372]
+# name:be: [вуліца Савецкіх Пагранічнікаў]
+msgid "улица Советских Пограничников"
+msgstr ""
+
+# Objects : [r198117]
+# name:be: [вуліца Сакалоўскага]
+msgid "улица Соколовского"
+msgstr ""
+
+# Objects : [r214359]
+# name:be: [вуліца Солы]
+msgid "улица Солы"
+msgstr ""
+
+# Objects : [r2595492]
+# name:be: [вуліца Зоф'і Налкоўскай]
+msgid "улица Софьи Налковской"
+msgstr ""
+
+# Objects : [r2539462]
+# name:be: [вуліца Стэфана Баторыя]
+msgid "улица Стефана Батория"
+msgstr ""
+
+# Objects : [r197997]
+# name:be: [вуліца Суворава]
+msgid "улица Суворова"
+msgstr ""
+
+# Objects : [r2534444]
+# name:be: [вуліца Сулістроўскага]
+msgid "улица Сулистровского"
+msgstr ""
+
+# Objects : [r2447541]
+# name:be: [вуліца Сухамбаева]
+msgid "улица Сухомбаева"
+msgstr ""
+
+# Objects : [r4065652]
+# name:be: [вуліца Счаснага]
+msgid "улица Счастного"
+msgstr ""
+
+# Objects : [r2373503]
+# name:be: [вуліца Сыракомлі]
+msgid "улица Сырокомли"
+msgstr ""
+
+# Objects : [r337428]
+# name:be: [вуліца Таўлая]
+msgid "улица Тавлая"
+msgstr ""
+
+# Objects : [r177917]
+# name:be: [вуліца Тэльмана]
+msgid "улица Тельмана"
+msgstr ""
+
+# Objects : [r337409]
+# name:be: [вуліца Церашковай]
+msgid "улица Терешковой"
+msgstr ""
+
+# Objects : [r173626]
+# name:be: [вуліца Цёткі]
+msgid "улица Тетки"
+msgstr ""
+
+# Objects : [r298824]
+# name:be: [вуліца Ціміразева]
+msgid "улица Тимирязева"
+msgstr ""
+
+# Objects : [r1102192]
+# name:be: [вуліца Цітова]
+msgid "улица Титова"
+msgstr ""
+
+# Objects : [r906370]
+# name:be: [вуліца Томіна]
+msgid "улица Томина"
+msgstr ""
+
+# Objects : [r2449078]
+# name:be: [вуліца Урыцкага]
+msgid "улица Урицкого"
+msgstr ""
+
+# Objects : [r2453312]
+# name:be: [вуліца Вусава]
+msgid "улица Усова"
+msgstr ""
+
+# Objects : [r2534445]
+# name:be: [вуліца Фолюш]
+msgid "улица Фолюш"
+msgstr ""
+
+# Objects : [r942396]
+# name:be: [вуліца Фамічова]
+msgid "улица Фомичёва"
+msgstr ""
+
+# Objects : [r1102202]
+# name:be: [вуліца Фрунзэ]
+msgid "улица Фрунзе"
+msgstr ""
+
+# Objects : [r2530484]
+# name:be: [вуліца Фурсенкі]
+msgid "улица Фурсенко"
+msgstr ""
+
+# Objects : [r907614]
+# name:be: [вуліца Хімікаў]
+msgid "улица Химиков"
+msgstr ""
+
+# Objects : [r2449079]
+# name:be: [вуліца Чарнышэўскага]
+msgid "улица Чернышевского"
+msgstr ""
+
+# Objects : [r2374980]
+# name:be: [вуліца Чэхава]
+msgid "улица Чехова"
+msgstr ""
+
+# Objects : [r135352]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
+msgstr ""
+
+# Objects : [r2525645]
+# name:be: [вуліца Шарыпава]
+msgid "улица Шарипова"
+msgstr ""
+
+# Objects : [r1102203]
+# name:be: [вуліца Шаўчэнкі]
+msgid "улица Шевченко"
+msgstr ""
+
+# Objects : [r2539323]
+# name:be: [вуліца Шыдлоўскага]
+msgid "улица Шидловского"
+msgstr ""
+
+# Objects : [r1102190]
+# name:be: [вуліца Шчадрына]
+msgid "улица Щедрина"
+msgstr ""
+
+# Objects : [r271636]
+# name:be: [вуліца Шчорса]
+msgid "улица Щорса"
+msgstr ""
+
+# Objects : [r162793]
+# name:be: [вуліца Элізы Ажэшкі]
+msgid "улица Элизы Ожешко"
+msgstr ""
+
+# Objects : [r2595524]
+# name:be: [вуліца Юндзілы]
+msgid "улица Юндила"
+msgstr ""
+
+# Objects : [r2625459]
+# name:be: [вуліца Юрыя Алешы]
+msgid "улица Юрия Олеши"
+msgstr ""
+
+# Objects : [r2562515]
+# name:be: [вуліца Якуба Коласа]
+msgid "улица Якуба Коласа"
+msgstr ""
+
+# Objects : [r3199263]
+# name:be: [Умелая вуліца]
+msgid "Умелая улица"
+msgstr ""
+
+# Objects : [n1270830759]
+# name:be: [Упраўленне унутранных спраў]
+msgid "Управление внутренних дел"
+msgstr ""
+
+# Objects : [n2827441963]
+# name:be: [Упраўленне па грамадзянству і міграцыі]
+msgid "Управление по гражданству и миграции"
+msgstr ""
+
+# Objects : [n2360729285]
+# name:be: [Упраўленне Следчага камітэта па Гродзенскай вобласці]
+msgid "Управление Следственного комитета по Гродненской области"
+msgstr ""
+
+# Objects : [n2628992542]
+# name:be: [Упраўленне фізічнай культуры, спорта і турызма Гродзенскага аблвыканкама]
+msgid "Управление физической культуры, спорта и туризма Гродненского облисполкома"
+msgstr ""
+
+# Objects : [r2540873]
+# name:be: [урочышча Пышкі]
+msgid "урочище Пышки"
+msgstr ""
+
+# Objects : [n2788684834]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n2788684662]
+# name:be: [Сядзіба «Станіславова»]
+msgid "Усадьба «Станиславова»"
+msgstr ""
+
+# Objects : [n3167098052]
+# name:be: []
+msgid "Усики"
+msgstr ""
+
+# Objects : [n2788685060]
+# name:be: [Капліца-пахавальня А. Руссау]
+msgid "Усыпальница А. Руссау"
+msgstr ""
+
+# Objects : [n2788685086]
+# name:be: [Капліца-пахавальня М. Насковіч]
+msgid "Усыпальница М. Носкович"
+msgstr ""
+
+# Objects : [w29126571]
+# name:be: []
+msgid "Участок №3 ОАО ГродноЛифт"
+msgstr ""
+
+# Objects : [r337436]
+# name:be: [Вучнёўская вуліца]
+msgid "Ученическая улица"
+msgstr ""
+
+# Objects : [n320409721]
+# name:be: [Вычылішча алімпійскага рэзерву]
+msgid "Училище олимпийского резерва"
+msgstr ""
+
+# Objects : [r1083642]
+# name:be: [Фабрычная вуліца]
+msgid "Фабричная улица"
+msgstr ""
+
+# Objects : [n1514078890]
+# name:be: [Фабрычны]
+msgid "Фабричный"
+msgstr ""
+
+# Objects : [r2580461]
+# name:be: [Фабрычны завулак]
+msgid "Фабричный переулок"
+msgstr ""
+
+# Objects : [n320409522]
+# name:be: [Факультэт біялогіі і экалогіі ГрДУ]
+msgid "Факультет биологии и экологии ГрГУ"
+msgstr ""
+
+# Objects : [w29125206]
+# name:be: [Факультэт ГрДУ]
+msgid "Факультет ГрГУ"
+msgstr ""
+
+# Objects : [w29125284]
+# name:be: [Факультэт Гродзенскага дзяржаўнага аграрнага ўнівесітэта]
+msgid "Факультет Гродненского государственного аграрного университета"
+msgstr ""
+
+# Objects : [n2628992543]
+# name:be: [Факультэт давузаўскай падрыхтоўкі ГрДУ]
+msgid "Факультет довузовской подготовки ГрГУ"
+msgstr ""
+
+# Objects : [n1850576264]
+# name:be: [Факультэт інавацыйных тэхналогій машынабудавання ГрДУ]
+msgid "Факультет инновационных технологий машиностроения ГрГУ"
+msgstr ""
+
+# Objects : [n2628992544]
+# name:be: [Факультэт мастацтваў і дызайну ГрДУ]
+msgid "Факультет искусств и дизайна ГрГУ"
+msgstr ""
+
+# Objects : [n320409645]
+# name:be: [Факультэт гісторыі, камунікацыі і турызму ГрДУ]
+msgid "Факультет истории, коммуникации и туризма ГрГУ"
+msgstr ""
+
+# Objects : [n2628992545]
+# name:be: [Факультэт матэматыкі і інфарматыкі ГрДУ]
+msgid "Факультет математики и информатики ГрГУ"
+msgstr ""
+
+# Objects : [n2628992546]
+# name:be: [Факультэт фізічнай культуры ГрДУ]
+msgid "Факультет физической культуры ГрГУ"
+msgstr ""
+
+# Objects : [n1850620768]
+# name:be: [Факультэт эканомікі і кіравання ГрДУ]
+msgid "Факультет экономики и управления ГрГУ"
+msgstr ""
+
+# Objects : [r2539456]
+# name:be: [Фестывальная вуліца]
+msgid "Фестивальная улица"
+msgstr ""
+
+# Objects : [n1850620774]
+# name:be: [Фізіка-тэхнічны факультэт ГрДУ]
+msgid "Физико-технический факультет ГрГУ"
+msgstr ""
+
+# Objects : [w306758709]
+# name:be: []
+msgid "Филиал № 6 Белсвязьстрой"
+msgstr ""
+
+# Objects : [w29125226]
+# name:be: [Філалагічны факультэт ГрДУ]
+msgid "Филологический факультет ГрГУ"
+msgstr ""
+
+# Objects : [w29125091]
+# name:be: []
+msgid "Фобус"
+msgstr ""
+
+# Objects : [n428964274, w39146565]
+# name:be: [Фолюш]
+msgid "Фолюш"
+msgstr ""
+
+# Objects : [n2929871397, n2929871398]
+# name:be: []
+msgid "Фонд социальной защиты населения"
+msgstr ""
+
+# Objects : [w46735598]
+# name:be: []
+msgid "Фонтан"
+msgstr ""
+
+# Objects : [n773105918]
+# name:be: []
+msgid "Фонтан Дружбы"
+msgstr ""
+
+# Objects : [n428964266]
+# name:be: [Фарты]
+msgid "Форты"
+msgstr ""
+
+# Objects : [n3178670085, w110341443]
+# name:be: [Форт № 13]
+msgid "Форт № 13"
+msgstr ""
+
+# Objects : [n3236313711]
+# name:be: []
+msgid "Фото"
+msgstr ""
+
+# Objects : [n1762413888]
+# name:be: []
+msgid "фотомастерская у Вити"
+msgstr ""
+
+# Objects : [n3178670099]
+# name:be: []
+msgid "Футбольная поляна"
+msgstr ""
+
+# Objects : [r2534437]
+# name:be: [Хвойная вуліца]
+msgid "Хвойная улица"
+msgstr ""
+
+# Objects : [w29129450]
+# name:be: []
+msgid "Химволокно"
+msgstr ""
+
+# Objects : [w29126554]
+# name:be: []
+msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w117922605]
+# name:be: []
+msgid "Хлебозавод № 1"
+msgstr ""
+
+# Objects : [r3957810]
+# name:be: [Хлебасольная вуліца]
+msgid "Хлебосольная улица"
+msgstr ""
+
+# Objects : [r3990717]
+# name:be: [Хлебасольны завулак]
+msgid "Хлебосольный переулок"
+msgstr ""
+
+# Objects : [r2453306]
+# name:be: [Халмістая вуліца]
+msgid "Холмистая улица"
+msgstr ""
+
+# Objects : [r2453307]
+# name:be: [Халодная вуліца]
+msgid "Холодная улица"
+msgstr ""
+
+# Objects : [w318146350]
+# name:be: []
+msgid "Храма иконы Божией Матери «Взыскание погибших»"
+msgstr ""
+
+# Objects : [n1850655902]
+# name:be: []
+msgid "Цветлит"
+msgstr ""
+
+# Objects : [r2538975]
+# name:be: [Кветкавая вуліца]
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w172714002]
+# name:be: []
+msgid "Цветы"
+msgstr ""
+
+# Objects : [n3283404266]
+# name:be: [Цэнтральная падстанцыя]
+msgid "Центральная подстанция"
+msgstr ""
+
+# Objects : [r2522786]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w105609594]
+# name:be: []
+msgid "Центр Городничанский"
+msgstr ""
+
+# Objects : [n2004897235]
+# name:be: [Цэнтр занятасці]
+msgid "Центр занятости"
+msgstr ""
+
+# Objects : [n2788687298]
+# name:be: [Царква эвангеліцкая]
+msgid "Церковь евангелическая"
+msgstr ""
+
+# Objects : [n2788686050]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686291]
+# name:be: [Царква Святога Ўладзіміра]
+msgid "Церковь Св. Владимира"
+msgstr ""
+
+# Objects : [w29125652]
+# name:be: []
+msgid "ЦТП, Дезинфекторская, Патологоанатомическое отделение"
+msgstr ""
+
+# Objects : [r4056852]
+# name:be: [Чабаровая вуліца]
+msgid "Чаборовая улица"
+msgstr ""
+
+# Objects : [w275175927]
+# name:be: []
+msgid "чайка"
+msgstr ""
+
+# Objects : [n2788687665, n2788687668]
+# name:be: [Капліца]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687515, n2788687516]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2788687437]
+# name:be: [Капліца Святога Роха]
+msgid "Часовня Святого Роха"
+msgstr ""
+
+# Objects : [n2788687453]
+# name:be: [Капліца Святых апосталаў Пятра й Паўла]
+msgid "Часовня Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n491591289]
+# name:be: []
+msgid "Чаша со змеёй"
+msgstr ""
+
+# Objects : [r2530475]
+# name:be: [Чарнічная вуліца]
+msgid "Черничная улица"
+msgstr ""
+
+# Objects : [n320409374]
+# name:be: [Чашчаўляны]
+msgid "Чещавляны"
+msgstr ""
+
+# Objects : [n2690057479]
+# name:be: []
+msgid "Шахматно-шашечный клуб"
+msgstr ""
+
+# Objects : [n3198071201]
+# name:be: []
+msgid "Шиномонтаж Тип-топ"
+msgstr ""
+
+# Objects : [r4005918]
+# name:be: [Шырокая вуліца]
+msgid "Широкая улица"
+msgstr ""
+
+# Objects : [r2530476]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w29160016]
+# name:be: []
+msgid "Школьный сад"
+msgstr ""
+
+# Objects : [r1102191]
+# name:be: [Шасэйная вуліца]
+msgid "Шоссейная улица"
+msgstr ""
+
+# Objects : [r1102194]
+# name:be: [Шасэйны завулак]
+msgid "Шоссейный переулок"
+msgstr ""
+
+# Objects : [r2539344]
+# name:be: [Экзатычная вуліца]
+msgid "Экзотическая улица"
+msgstr ""
+
+# Objects : [n385978294]
+# name:be: []
+msgid "Элизе Ожешке"
+msgstr ""
+
+# Objects : [n2569882209]
+# name:be: [Эндакрыналагічны дыспансер]
+msgid "Эндокринологический диспансер"
+msgstr ""
+
+# Objects : [w29145119]
+# name:be: [Энэрганагляд]
+msgid "Энергонадзор"
+msgstr ""
+
+# Objects : [n320409598]
+# name:be: []
+msgid "Эполет"
+msgstr ""
+
+# Objects : [r3685810]
+# name:be: [Юбілейная вуліца]
+msgid "Юбилейная улица"
+msgstr ""
+
+# Objects : [r1617320]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
+msgstr ""
+
+# Objects : [n428964271, n823395032, w87455183]
+# name:be: [Паўднёвы]
+msgid "Южный"
+msgstr ""
+
+# Objects : [n2210020172]
+# name:be: [Паўднёвы–2]
+msgid "Южный–2"
+msgstr ""
+
+# Objects : [n2210020303]
+# name:be: [Паўднёвы–3]
+msgid "Южный–3"
+msgstr ""
+
+# Objects : [n2818062360]
+# name:be: [Паўднёвы–4]
+msgid "Южный–4"
+msgstr ""
+
+# Objects : [n2210020177]
+# name:be: [Паўднёвы–5]
+msgid "Южный–5"
+msgstr ""
+
+# Objects : [r2539457]
+# name:be: [Паўднёвы завулак]
+msgid "Южный переулок"
+msgstr ""
+
+# Objects : [n2628992547]
+# name:be: [Юрыдычны факультэт ГрДУ]
+msgid "Юридический факультет ГрГУ"
+msgstr ""
+
+# Objects : [n2935151270]
+# name:be: []
+msgid "Юрый Астроўскі"
+msgstr ""
+
+# Objects : [r2539316]
+# name:be: [Яблыневая вуліца]
+msgid "Яблоневая улица"
+msgstr ""
+
+# Objects : [r2534438]
+# name:be: [Ягадная вуліца]
+msgid "Ягодная улица"
+msgstr ""
+
+# Objects : [n2690057480]
+# name:be: []
+msgid "Янка Купала"
+msgstr ""
+
+# Objects : [r4276760]
+# name:be: [Яснапалянская вуліца]
+msgid "Яснополянская улица"
+msgstr ""
+

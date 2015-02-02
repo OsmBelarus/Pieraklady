@@ -1,0 +1,185 @@
+# Objects : [n2760519223]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
+# Objects : [n2375037036]
+# name:be: []
+msgid "БМЗ. Проходная №1"
+msgstr ""
+
+# Objects : [n2355868324]
+# name:be: []
+msgid "БМЗ. Проходная №2"
+msgstr ""
+
+# Objects : [n2760228519, w313540301]
+# name:be: []
+msgid "Больница"
+msgstr ""
+
+# Objects : [n2813116429]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
+# Objects : [w25194706]
+# name:be: []
+msgid "Глушец"
+msgstr ""
+
+# Objects : [w286247417]
+# name:be: []
+msgid "ГУО "Нивская средняя школа""
+msgstr ""
+
+# Objects : [w293852750]
+# name:be: []
+msgid "Детский сад д. Радуша"
+msgstr ""
+
+# Objects : [w25183864, w25536863]
+# name:be: []
+msgid "ДНЕПР"
+msgstr ""
+
+# Objects : [n306069923]
+# name:be: [Жлобін Паўночны]
+msgid "Жлобин-Северный"
+msgstr ""
+
+# Objects : [w25193713]
+# name:be: []
+msgid "Затонское"
+msgstr ""
+
+# Objects : [w269166377, w269166378, w271070417]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [w309183160]
+# name:be: []
+msgid "Кр.Берег в/ч 55461"
+msgstr ""
+
+# Objects : [n306069795]
+# name:be: [Красны Бераг]
+msgid "Красный Берег"
+msgstr ""
+
+# Objects : [w294787128]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w267215214]
+# name:be: []
+msgid "Машинно-тракторный двор"
+msgstr ""
+
+# Objects : [w319526235]
+# name:be: []
+msgid "Мемориал Детям Жертвам Фашизма"
+msgstr ""
+
+# Objects : [n1368835271]
+# name:be: []
+msgid "Место для отдыха"
+msgstr ""
+
+# Objects : [w271070421]
+# name:be: []
+msgid "Мех. двор"
+msgstr ""
+
+# Objects : [n1055284264]
+# name:be: [Мормаль]
+msgid "Мормаль"
+msgstr ""
+
+# Objects : [n306069829]
+# name:be: []
+msgid "Мостик"
+msgstr ""
+
+# Objects : [n2099798000]
+# name:be: []
+msgid "Памятник Жуйкову и Мазилину"
+msgstr ""
+
+# Objects : [n2099797993]
+# name:be: []
+msgid "Памятник погибшим в ВОВ"
+msgstr ""
+
+# Objects : [n2354917681]
+# name:be: []
+msgid "Погибшим в ВОВ"
+msgstr ""
+
+# Objects : [w25195068]
+# name:be: []
+msgid "Проров"
+msgstr ""
+
+# Objects : [n306069782]
+# name:be: [Салтанаўка]
+msgid "Салтановка"
+msgstr ""
+
+# Objects : [n2766722566]
+# name:be: []
+msgid "Санаторий Пралеска"
+msgstr ""
+
+# Objects : [w313540305, w313540306, w313540307, w313540308, w313540309]
+# name:be: []
+msgid "сарай"
+msgstr ""
+
+# Objects : [w238697297]
+# name:be: []
+msgid "Сейбит"
+msgstr ""
+
+# Objects : [n306069799]
+# name:be: []
+msgid "Усадьба Генерал-Лейтенанта Гатовского"
+msgstr ""
+
+# Objects : [n2788687337]
+# name:be: [Царква]
+msgid "Церковь. Руины"
+msgstr ""
+
+# Objects : [n2788685906]
+# name:be: [Царква Усіх Святых]
+msgid "Церковь Всех Святых"
+msgstr ""
+
+# Objects : [w270793442]
+# name:be: []
+msgid "Школа д.Майское"
+msgstr ""
+
+# Objects : [w294789688]
+# name:be: []
+msgid "Школа д. Малевичи"
+msgstr ""
+
+# Objects : [w293845215]
+# name:be: []
+msgid "Школа д.Радуша"
+msgstr ""
+
+# Objects : [w313546509]
+# name:be: []
+msgid "Школа п.Лукский"
+msgstr ""
+
+# Objects : [n306069807]
+# name:be: [Яшчыцы]
+msgid "Ящицы"
+msgstr ""
+

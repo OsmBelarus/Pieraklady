@@ -1,0 +1,375 @@
+# Objects : [n2442414337]
+# name:be: []
+msgid "Green House"
+msgstr ""
+
+# Objects : [n243002074, w25134079]
+# name:be: [Алешкавец]
+msgid "Алешковец"
+msgstr ""
+
+# Objects : [n243003708, w25133008, w292403008]
+# name:be: [Алешкава]
+msgid "Алешково"
+msgstr ""
+
+# Objects : [n2994347804]
+# name:be: []
+msgid "Аптека 128"
+msgstr ""
+
+# Objects : [w315263207]
+# name:be: []
+msgid "Ачысныя"
+msgstr ""
+
+# Objects : [w27406326]
+# name:be: []
+msgid "БАМ"
+msgstr ""
+
+# Objects : [n242997508, w25135095]
+# name:be: [Барысаўка]
+msgid "Борисовка"
+msgstr ""
+
+# Objects : [n2788679883]
+# name:be: [Брама царкоўная]
+msgid "Брама церковная"
+msgstr ""
+
+# Objects : [w27404981]
+# name:be: []
+msgid "в/ч 25819"
+msgstr ""
+
+# Objects : [n1376695866, n2788680022, n2788680028, n2788680031, n2788680032, n2788680041]
+# name:be: [Млын водны]
+msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [n1374803355]
+# name:be: []
+msgid "Водяная мельница (руины)"
+msgstr ""
+
+# Objects : [n2766728049]
+# name:be: []
+msgid "Высокий берег"
+msgstr ""
+
+# Objects : [n278453381, n306064347]
+# name:be: []
+msgid "Высокий Берег"
+msgstr ""
+
+# Objects : [n1464602637, w133109980]
+# name:be: [Грань]
+msgid "Грань"
+msgstr ""
+
+# Objects : [w232474330]
+# name:be: []
+msgid "ГУ «Николаевщинский дом-интернат с пансионатом для ветеранов войны, труда и инвалидов»"
+msgstr ""
+
+# Objects : [w48188261]
+# name:be: []
+msgid "дачи 'керамин'"
+msgstr ""
+
+# Objects : [w295689304]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
+# Objects : [n2788680401]
+# name:be: [Замчышча]
+msgid "Замчища"
+msgstr ""
+
+# Objects : [n612431532]
+# name:be: []
+msgid "ЗАХОРОНЕНИЕ ЕВРЕЕВ"
+msgstr ""
+
+# Objects : [n2788680810, n2788680878]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n2788681112]
+# name:be: [Могілкі каталіцкія]
+msgid "Кладбище католическое"
+msgstr ""
+
+# Objects : [n2788681189]
+# name:be: [Могілкі каталіцкія. Капліца]
+msgid "Кладбище католическое. Часовня"
+msgstr ""
+
+# Objects : [n1374714105]
+# name:be: []
+msgid "Колесная"
+msgstr ""
+
+# Objects : [n2111908925]
+# name:be: [Коласава]
+msgid "Колосово"
+msgstr ""
+
+# Objects : [n2788681713]
+# name:be: [Касцёл Звеставання Найсвяцейшай Панне Марыі]
+msgid "Костел Благовещения Деве Марии"
+msgstr ""
+
+# Objects : [n2788681938]
+# name:be: [Касцёл Святога Юзафа рамесніка]
+msgid "Костел Святого Иосифа"
+msgstr ""
+
+# Objects : [n2788682286]
+# name:be: [Касцёл Святых апосталаў Пятра й Паўла]
+msgid "Костел Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2788682323]
+# name:be: [Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі]
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n242996546, n2766728126, w25136088, w25198867]
+# name:be: [Кромань]
+msgid "Кромань"
+msgstr ""
+
+# Objects : [n1918879343]
+# name:be: []
+msgid "Ласток - мемориальная усадьба"
+msgstr ""
+
+# Objects : [n1254677857, w109653682]
+# name:be: [Ляжанец]
+msgid "Лежанец"
+msgstr ""
+
+# Objects : [n2959552456]
+# name:be: [Ліхачы]
+msgid "Лихачи"
+msgstr ""
+
+# Objects : [w132857383]
+# name:be: [Лубянка]
+msgid "Лубянка"
+msgstr ""
+
+# Objects : [n1877967394]
+# name:be: []
+msgid "Магистраль"
+msgstr ""
+
+# Objects : [n3169433833]
+# name:be: []
+msgid "Машин Хутор"
+msgstr ""
+
+# Objects : [n1394023874]
+# name:be: []
+msgid "Мельница"
+msgstr ""
+
+# Objects : [n2172319706]
+# name:be: [Дзяржынава]
+msgid "Мемориальный комплекс "Дзержиново""
+msgstr ""
+
+# Objects : [n306063345]
+# name:be: []
+msgid "Мрео Гаи"
+msgstr ""
+
+# Objects : [n2975419253]
+# name:be: []
+msgid "Музыкальная школа"
+msgstr ""
+
+# Objects : [n612449149]
+# name:be: []
+msgid "НОВОЕ КЛАДБИЩЕ"
+msgstr ""
+
+# Objects : [n2959547970, w292398869]
+# name:be: [Насалі]
+msgid "Носали"
+msgstr ""
+
+# Objects : [n1467397748]
+# name:be: []
+msgid "Панскi маёнтак Сула"
+msgstr ""
+
+# Objects : [n243002070, w25134076]
+# name:be: [Пятрова]
+msgid "Петрово"
+msgstr ""
+
+# Objects : [n2788687749]
+# name:be: [палеглых ў 1919-20 гг.]
+msgid "погибших в 1919-20 гг."
+msgstr ""
+
+# Objects : [n2959557953, w292400444]
+# name:be: [Прудзішча]
+msgid "Прудище"
+msgstr ""
+
+# Objects : [n3081222156]
+# name:be: []
+msgid "Пункт охраны общественного порядка"
+msgstr ""
+
+# Objects : [w48183786]
+# name:be: []
+msgid "Р.НЕМАН"
+msgstr ""
+
+# Objects : [n1111685942]
+# name:be: []
+msgid "Развалины спиртзавода"
+msgstr ""
+
+# Objects : [n2965881352]
+# name:be: []
+msgid "родник"
+msgstr ""
+
+# Objects : [n612429467]
+# name:be: []
+msgid "Родник"
+msgstr ""
+
+# Objects : [w125544079]
+# name:be: []
+msgid "Семейное дворянское кладбище, заброшено"
+msgstr ""
+
+# Objects : [n2788684311, n2788684320]
+# name:be: [Сінагога]
+msgid "Синагога"
+msgstr ""
+
+# Objects : [w48183322]
+# name:be: []
+msgid "Синяво"
+msgstr ""
+
+# Objects : [w48183288]
+# name:be: []
+msgid "Стецки"
+msgstr ""
+
+# Objects : [n1366339034]
+# name:be: [Стоўбцы]
+msgid "Столбцы"
+msgstr ""
+
+# Objects : [n612429432]
+# name:be: []
+msgid "СТОЛБЦЫ"
+msgstr ""
+
+# Objects : [n612431361]
+# name:be: []
+msgid "СТОЛБЦЫРАЙГАЗ"
+msgstr ""
+
+# Objects : [w284094092]
+# name:be: []
+msgid "УЖД Неманского торфопредприятия"
+msgstr ""
+
+# Objects : [n1254871708, w109682966]
+# name:be: [Уса]
+msgid "Уса"
+msgstr ""
+
+# Objects : [n2788684416]
+# name:be: [Сядзібна-паркавы комплекс Брахоцкіх]
+msgid "Усадебно-парковый комплекс Брохоцких"
+msgstr ""
+
+# Objects : [n2788684469]
+# name:be: [Сядзібна-паркавы комплекс Крупскіх]
+msgid "Усадебно-парковый комплекс Крупских"
+msgstr ""
+
+# Objects : [n1374766016]
+# name:be: []
+msgid "Усадебный дом (руины)"
+msgstr ""
+
+# Objects : [n2788684853]
+# name:be: [Сядзіба]
+msgid "Усадьба"
+msgstr ""
+
+# Objects : [n1394090828]
+# name:be: []
+msgid "Усадьба "Лесная сказка""
+msgstr ""
+
+# Objects : [n2788684727]
+# name:be: [Сядзіба Магнышэўскіх]
+msgid "Усадьба Магнышэвских"
+msgstr ""
+
+# Objects : [n2172319707]
+# name:be: []
+msgid "Ф. Э. Дзержинского"
+msgstr ""
+
+# Objects : [n2788685296, n2788685297]
+# name:be: [Гаспадарчы двор Ленскіх]
+msgid "Хозяйственный двор Ленских"
+msgstr ""
+
+# Objects : [n2788686324]
+# name:be: [Царква Святога Георгія]
+msgid "Церковь Св. Георгия"
+msgstr ""
+
+# Objects : [n2788686422]
+# name:be: [Царква Святога Іаана Прадцечы]
+msgid "Церковь Святого Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n2788687256]
+# name:be: [Царква Успення Прасвятой Багародзіцы]
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w201234333]
+# name:be: []
+msgid "Чабарок"
+msgstr ""
+
+# Objects : [n2788687652, n2788687654, n2788687666, n2788687671, n2788687673]
+# name:be: [Капліца, Каплічка]
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n2788687502, n2788687505, n2788687509]
+# name:be: [Капліца могілкавая]
+msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n2788687582]
+# name:be: [Каплічка прыдарожная]
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n3126547037]
+# name:be: []
+msgid "Якуб Колас"
+msgstr ""
+

@@ -1,0 +1,85 @@
+# Objects : [w300027320, w300027321]
+# name:be: []
+msgid "Аграрная"
+msgstr ""
+
+# Objects : [w210724375]
+# name:be: []
+msgid "Кореневского переулок"
+msgstr ""
+
+# Objects : [w129614119, w80119463]
+# name:be: [Ленінская вуліца]
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w123941812, w160022991, w239433224, w249160372, w271391530, w271391531]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w123941811, w271391532]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w125610444, w126989500]
+# name:be: [Азёрная вуліца]
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w123120905]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w122654383]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w124096731, w210724376, w313552249]
+# name:be: [Піянерскі завулак]
+msgid "Пионерский переулок"
+msgstr ""
+
+# Objects : [w160022985, w160022990, w160022992]
+# name:be: []
+msgid "Приозёрная улица"
+msgstr ""
+
+# Objects : [w160123902]
+# name:be: []
+msgid "Речная улица"
+msgstr ""
+
+# Objects : [w300027322]
+# name:be: []
+msgid "Речной переулок"
+msgstr ""
+
+# Objects : [w160087251, w160087254, w198416740]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w240472598]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w313552250]
+# name:be: [вуліца Корэнеўскага]
+msgid "улица Кореневского"
+msgstr ""
+
+# Objects : [w180243434, w242651375, w245869891, w73880937]
+# name:be: [Цэнтральная вуліца]
+msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w123941814, w125735470]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+

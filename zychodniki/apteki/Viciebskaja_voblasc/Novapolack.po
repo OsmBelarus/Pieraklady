@@ -1,0 +1,50 @@
+# Objects : [n2467525472]
+# name:be: []
+msgid "Альфа-аптека"
+msgstr ""
+
+# Objects : [n1434338837, n2053289147, n2053290441, n2145567643, n2974352584, n306067269]
+# name:be: [Аптэка]
+msgid "Аптека"
+msgstr ""
+
+# Objects : [n1531924677]
+# name:be: [Аптэка]
+msgid "Аптека №"
+msgstr ""
+
+# Objects : [n599967303]
+# name:be: [Аптэка №110]
+msgid "Аптека №110"
+msgstr ""
+
+# Objects : [n306067145]
+# name:be: [Аптэка №120]
+msgid "Аптека №120 Рамонак"
+msgstr ""
+
+# Objects : [n306067207]
+# name:be: [Аптэка №158]
+msgid "Аптека №158"
+msgstr ""
+
+# Objects : [n1209089937, n3068643012, n506200059]
+# name:be: [Зёлкавая лаўка]
+msgid "Зелейная лавка"
+msgstr ""
+
+# Objects : [n506351900]
+# name:be: [Свет здароўя]
+msgid "Мир здоровья"
+msgstr ""
+
+# Objects : [n1683566534]
+# name:be: [Начная аптэка]
+msgid "Ночная аптека 22:00-08:00"
+msgstr ""
+
+# Objects : [n615050929]
+# name:be: [Оптыка]
+msgid "Оптика"
+msgstr ""
+

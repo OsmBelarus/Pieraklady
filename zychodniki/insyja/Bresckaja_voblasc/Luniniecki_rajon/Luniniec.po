@@ -1,0 +1,145 @@
+# Objects : [r2963142]
+# name:be: []
+msgid "Базар"
+msgstr ""
+
+# Objects : [n2317010729]
+# name:be: []
+msgid "Башня котельной"
+msgstr ""
+
+# Objects : [n2317847667]
+# name:be: []
+msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [n2317846050]
+# name:be: []
+msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [n2317884619]
+# name:be: []
+msgid "ГППТК"
+msgstr ""
+
+# Objects : [n2317005196]
+# name:be: []
+msgid "Дом престарелых"
+msgstr ""
+
+# Objects : [n2317031356]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
+# Objects : [n2322824539]
+# name:be: []
+msgid "Женщина со спутником"
+msgstr ""
+
+# Objects : [n2318170349]
+# name:be: []
+msgid "Залесская амбулатория врача общей практики"
+msgstr ""
+
+# Objects : [n923883775]
+# name:be: [Краязнаўчы]
+msgid "Краеведческий"
+msgstr ""
+
+# Objects : [n2318035296]
+# name:be: []
+msgid "Курган Славы и Бессмертия"
+msgstr ""
+
+# Objects : [w222971035]
+# name:be: []
+msgid "Локомотивное депо"
+msgstr ""
+
+# Objects : [n306069777]
+# name:be: [Лунінец]
+msgid "Лунинец"
+msgstr ""
+
+# Objects : [n923883996]
+# name:be: []
+msgid "Лунинецкая больница сестринского ухода"
+msgstr ""
+
+# Objects : [n2317855496]
+# name:be: []
+msgid "Лунинецкий РИК"
+msgstr ""
+
+# Objects : [n2316976692, n937428733]
+# name:be: []
+msgid "ОВД"
+msgstr ""
+
+# Objects : [n2319139372]
+# name:be: []
+msgid "Паровоз"
+msgstr ""
+
+# Objects : [n2317884621]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n2317855502]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [n923884068]
+# name:be: []
+msgid "РАНС"
+msgstr ""
+
+# Objects : [n2317855503]
+# name:be: []
+msgid "РУЭС"
+msgstr ""
+
+# Objects : [n2326947683]
+# name:be: []
+msgid "СПТУ"
+msgstr ""
+
+# Objects : [n2316976696]
+# name:be: []
+msgid "СПЦ"
+msgstr ""
+
+# Objects : [w222766615]
+# name:be: []
+msgid "Старое кладбище"
+msgstr ""
+
+# Objects : [n2317884620]
+# name:be: []
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [n2317855497]
+# name:be: []
+msgid "Суд Лунинецкого района"
+msgstr ""
+
+# Objects : [n936119562]
+# name:be: [Цэнтральная раённая бальніца]
+msgid "Центральная районная больница"
+msgstr ""
+
+# Objects : [n2788685602]
+# name:be: [Царква Узвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n2322824553]
+# name:be: []
+msgid "Циолковский"
+msgstr ""
+

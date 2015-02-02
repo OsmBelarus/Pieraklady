@@ -1,0 +1,415 @@
+# Objects : [w106992771]
+# name:be: []
+msgid ""Рэгіянальная газета""
+msgstr ""
+
+# Objects : [w325988280]
+# name:be: []
+msgid "145А"
+msgstr ""
+
+# Objects : [w325988262]
+# name:be: []
+msgid "155"
+msgstr ""
+
+# Objects : [w325800597]
+# name:be: []
+msgid "158Б"
+msgstr ""
+
+# Objects : [w325988263]
+# name:be: []
+msgid "161"
+msgstr ""
+
+# Objects : [w325988264]
+# name:be: []
+msgid "165"
+msgstr ""
+
+# Objects : [w109200778]
+# name:be: [Аўтавакзал]
+msgid "Автовокзал"
+msgstr ""
+
+# Objects : [w164675957]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
+# Objects : [w205947572]
+# name:be: []
+msgid "Амазон-Колорит"
+msgstr ""
+
+# Objects : [w105475822]
+# name:be: []
+msgid "Аптека №111 Минская фармация"
+msgstr ""
+
+# Objects : [w106992732]
+# name:be: []
+msgid "Базар низких цен"
+msgstr ""
+
+# Objects : [w109200682, w109200686, w109200752]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w163591807]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [w169679697]
+# name:be: []
+msgid "Бассейн КДЮСШ"
+msgstr ""
+
+# Objects : [w106992848]
+# name:be: []
+msgid "Белмаркет"
+msgstr ""
+
+# Objects : [w138944677]
+# name:be: []
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [w196818487]
+# name:be: []
+msgid "Библиотека центральная районная филиал №6"
+msgstr ""
+
+# Objects : [w168243204]
+# name:be: []
+msgid "Водар хлеба"
+msgstr ""
+
+# Objects : [w244399346]
+# name:be: []
+msgid "Газ вода тепло"
+msgstr ""
+
+# Objects : [w169787013]
+# name:be: [ДАI]
+msgid "ГАИ"
+msgstr ""
+
+# Objects : [w169679698]
+# name:be: []
+msgid "Городская больница"
+msgstr ""
+
+# Objects : [w155007901]
+# name:be: []
+msgid "Городская поликлиника №3"
+msgstr ""
+
+# Objects : [w109200651]
+# name:be: []
+msgid "Департамет охраны МВД РБ"
+msgstr ""
+
+# Objects : [w207205362]
+# name:be: []
+msgid "Десткий сад №22"
+msgstr ""
+
+# Objects : [w106992799]
+# name:be: []
+msgid "Детская Больница"
+msgstr ""
+
+# Objects : [w109200783]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская поликлиника"
+msgstr ""
+
+# Objects : [w129912847]
+# name:be: []
+msgid "Добраном"
+msgstr ""
+
+# Objects : [w109200727, w129657195]
+# name:be: []
+msgid "Дом культуры железнодорожников"
+msgstr ""
+
+# Objects : [w168581455]
+# name:be: []
+msgid "ДРСУ-49"
+msgstr ""
+
+# Objects : [w228934484]
+# name:be: []
+msgid "ДЮСШ №3"
+msgstr ""
+
+# Objects : [w153740044, w169452276, w308479037]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w168279735]
+# name:be: []
+msgid "Жилой корпус"
+msgstr ""
+
+# Objects : [w207011007]
+# name:be: []
+msgid "Завод порошковой металлургии"
+msgstr ""
+
+# Objects : [w109200673]
+# name:be: []
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w176510699]
+# name:be: []
+msgid "Златка"
+msgstr ""
+
+# Objects : [w109200618]
+# name:be: []
+msgid "Инспекция по налогам и сборам РБ по Молодечненскому району"
+msgstr ""
+
+# Objects : [w109200750]
+# name:be: []
+msgid "КГБ"
+msgstr ""
+
+# Objects : [w109200667]
+# name:be: []
+msgid "Кожно-венерологический диспансер"
+msgstr ""
+
+# Objects : [w207347176]
+# name:be: []
+msgid "КПП таможни"
+msgstr ""
+
+# Objects : [w105475824]
+# name:be: []
+msgid "Лагуна"
+msgstr ""
+
+# Objects : [w106734955]
+# name:be: []
+msgid "Мара плюс"
+msgstr ""
+
+# Objects : [w168584081]
+# name:be: []
+msgid "Мемориальный комплекс «Шталаг 342»"
+msgstr ""
+
+# Objects : [w207328218]
+# name:be: []
+msgid "Миг лтд"
+msgstr ""
+
+# Objects : [w168285812, w169886014]
+# name:be: []
+msgid "Милиция"
+msgstr ""
+
+# Objects : [w169679699]
+# name:be: []
+msgid "Минский областной драматический театр"
+msgstr ""
+
+# Objects : [w109200624]
+# name:be: []
+msgid "Минский областной театр кукол "Батлейка""
+msgstr ""
+
+# Objects : [w106992669]
+# name:be: []
+msgid "Молодечненская центральная районная библиотека им. М. Богдановича"
+msgstr ""
+
+# Objects : [w109200771]
+# name:be: []
+msgid "Молодечненский государственный медицинский колледж"
+msgstr ""
+
+# Objects : [w106992846]
+# name:be: []
+msgid "Молодечненский государственный политехнический колледж"
+msgstr ""
+
+# Objects : [w169679682]
+# name:be: []
+msgid "Молодечненский государственный политехнический колледж (2 корпус)"
+msgstr ""
+
+# Objects : [w106992834]
+# name:be: []
+msgid "Молодечненский государственный профессионально-технический колледж"
+msgstr ""
+
+# Objects : [w194898391]
+# name:be: []
+msgid "Молодечненский пивоваренный завод"
+msgstr ""
+
+# Objects : [w109200713]
+# name:be: []
+msgid "Молодечненский райисполком"
+msgstr ""
+
+# Objects : [w106992787]
+# name:be: []
+msgid "Молодечненское музыкальное училище им. М. К. Огинского"
+msgstr ""
+
+# Objects : [w161963022]
+# name:be: []
+msgid "Моттель"
+msgstr ""
+
+# Objects : [w168584614]
+# name:be: []
+msgid "Ника"
+msgstr ""
+
+# Objects : [w316226028]
+# name:be: []
+msgid "ОАО "АСБ Беларусбанк" отделение №601/4"
+msgstr ""
+
+# Objects : [w194907104]
+# name:be: []
+msgid "ООО "Торговый дом Березакерамика-Вилия""
+msgstr ""
+
+# Objects : [w127602324]
+# name:be: []
+msgid "ПАСЧ №5 ПАСО №14"
+msgstr ""
+
+# Objects : [w106992690]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть"
+msgstr ""
+
+# Objects : [w266188397]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w106734981]
+# name:be: []
+msgid "Поликлиника № 1"
+msgstr ""
+
+# Objects : [w208032228]
+# name:be: []
+msgid "Продукты №3"
+msgstr ""
+
+# Objects : [w106992749]
+# name:be: []
+msgid "Районная больница №2"
+msgstr ""
+
+# Objects : [w243283076]
+# name:be: []
+msgid "Сантехника"
+msgstr ""
+
+# Objects : [w106992784]
+# name:be: []
+msgid "Следственный комитет"
+msgstr ""
+
+# Objects : [w169336056, w169341473]
+# name:be: []
+msgid "Спарк"
+msgstr ""
+
+# Objects : [w138944821]
+# name:be: []
+msgid "Спортивно-развлекательный центр Олимпик-2011"
+msgstr ""
+
+# Objects : [w105474116]
+# name:be: []
+msgid "Спутник"
+msgstr ""
+
+# Objects : [w168281640]
+# name:be: []
+msgid "Старый замок"
+msgstr ""
+
+# Objects : [w129661154]
+# name:be: []
+msgid "стоматология"
+msgstr ""
+
+# Objects : [w169680927]
+# name:be: []
+msgid "Струм"
+msgstr ""
+
+# Objects : [w97638981]
+# name:be: []
+msgid "ТАЦ "Модуль""
+msgstr ""
+
+# Objects : [w304634101]
+# name:be: [Тэхагляд]
+msgid "Техосмотр"
+msgstr ""
+
+# Objects : [w106992838]
+# name:be: []
+msgid "Торгово-экономический колледж"
+msgstr ""
+
+# Objects : [w97638982]
+# name:be: []
+msgid "ТРЦ "Тройка""
+msgstr ""
+
+# Objects : [w296195886]
+# name:be: []
+msgid "ТЭЦ"
+msgstr ""
+
+# Objects : [w106992727]
+# name:be: []
+msgid "Универмаг ТД Немига-Молодечно"
+msgstr ""
+
+# Objects : [w169786981]
+# name:be: [Фестывальны]
+msgid "Фестивальный"
+msgstr ""
+
+# Objects : [w109200652]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+
+# Objects : [w169680915]
+# name:be: []
+msgid "ЭНЭФ"
+msgstr ""
+
+# Objects : [w238782341]
+# name:be: []
+msgid "ЮЛАЙН"
+msgstr ""
+
+# Objects : [w316226030]
+# name:be: []
+msgid "Ясли-Сад № 5"
+msgstr ""
+

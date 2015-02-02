@@ -1,0 +1,215 @@
+# Objects : [w315656330]
+# name:be: []
+msgid ""Мотольские окна""
+msgstr ""
+
+# Objects : [w318369298]
+# name:be: []
+msgid "АВТОШКОЛА"
+msgstr ""
+
+# Objects : [n3212157677]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [n3212147786, n3212147827]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n3212140240]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [n3212138618, w241794117]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n3217886180]
+# name:be: []
+msgid "Бильярдная"
+msgstr ""
+
+# Objects : [n3212159325]
+# name:be: []
+msgid "Браво"
+msgstr ""
+
+# Objects : [n3205140691]
+# name:be: []
+msgid "Вегас"
+msgstr ""
+
+# Objects : [n3212189645]
+# name:be: []
+msgid "Визит"
+msgstr ""
+
+# Objects : [w241794175]
+# name:be: []
+msgid "Гимназия"
+msgstr ""
+
+# Objects : [n3232034632]
+# name:be: []
+msgid "ДОСКА ПОЧЁТА"
+msgstr ""
+
+# Objects : [w315652261]
+# name:be: []
+msgid "Ивановская пожарная часть"
+msgstr ""
+
+# Objects : [w315516238]
+# name:be: []
+msgid "Ивановское кладбище"
+msgstr ""
+
+# Objects : [n3212135974]
+# name:be: []
+msgid "Интернет-Кафе"
+msgstr ""
+
+# Objects : [n3212168241]
+# name:be: []
+msgid "Косметический кабинет"
+msgstr ""
+
+# Objects : [w241791777]
+# name:be: []
+msgid "Костел католический"
+msgstr ""
+
+# Objects : [n3212149498]
+# name:be: []
+msgid "Ленину"
+msgstr ""
+
+# Objects : [n3257109753]
+# name:be: []
+msgid "ЛМЛ мебель"
+msgstr ""
+
+# Objects : [w319299419]
+# name:be: []
+msgid "Лыжная и велосипедная трасса"
+msgstr ""
+
+# Objects : [w241794144]
+# name:be: []
+msgid "Магазин стройматериалов"
+msgstr ""
+
+# Objects : [w241801739]
+# name:be: []
+msgid "ОАО "Белсолод""
+msgstr ""
+
+# Objects : [w319297568]
+# name:be: []
+msgid "ОАО "Мотольские окна""
+msgstr ""
+
+# Objects : [n3217905661]
+# name:be: []
+msgid "ООО "ЛМЛ ультра""
+msgstr ""
+
+# Objects : [w256600800]
+# name:be: []
+msgid "Площадь Ленина"
+msgstr ""
+
+# Objects : [n3212200714]
+# name:be: []
+msgid "приемное отделение"
+msgstr ""
+
+# Objects : [n3216326423, w315518991]
+# name:be: []
+msgid "Продуктовый магазин "Лагода""
+msgstr ""
+
+# Objects : [n3212202008]
+# name:be: []
+msgid "Районная поликлинника"
+msgstr ""
+
+# Objects : [n3212169428]
+# name:be: []
+msgid "ремонт телефонов"
+msgstr ""
+
+# Objects : [w256601334]
+# name:be: []
+msgid "РОВД Ивановского Района"
+msgstr ""
+
+# Objects : [w241794188]
+# name:be: []
+msgid "Рынок "Альфард""
+msgstr ""
+
+# Objects : [w315517160]
+# name:be: []
+msgid "Рынок животных"
+msgstr ""
+
+# Objects : [w241794162]
+# name:be: []
+msgid "Спортзал Гимназии №1"
+msgstr ""
+
+# Objects : [w315657975]
+# name:be: []
+msgid "Спортплощадка гимназии"
+msgstr ""
+
+# Objects : [w315657331]
+# name:be: []
+msgid "Стадион для мини-футбола с искусственным покрытием"
+msgstr ""
+
+# Objects : [n3217888253]
+# name:be: []
+msgid "Тренажёрный зал"
+msgstr ""
+
+# Objects : [n3212157334]
+# name:be: []
+msgid "Хореографическая школа"
+msgstr ""
+
+# Objects : [n2788685587]
+# name:be: [Касцёл Узвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n2788685967]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n3212168338]
+# name:be: []
+msgid "Чырвоная звязда"
+msgstr ""
+
+# Objects : [n3212173428]
+# name:be: []
+msgid "Швейная мастерская"
+msgstr ""
+
+# Objects : [n306069120]
+# name:be: [Янаў Палескі]
+msgid "Янов-Полесский"
+msgstr ""
+
+# Objects : [n3232056023]
+# name:be: []
+msgid "Яночка"
+msgstr ""
+

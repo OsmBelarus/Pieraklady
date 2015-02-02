@@ -1,0 +1,35 @@
+# Objects : [n1776045991]
+# name:be: []
+msgid "Белнефтехим"
+msgstr ""
+
+# Objects : [n1436117946, w95532196]
+# name:be: [Беларуснафта]
+msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [n1471143902]
+# name:be: [Беларуснафта №1]
+msgid "Белоруснефть №1"
+msgstr ""
+
+# Objects : [n1425523505, n3306548272]
+# name:be: [Беларуснафта №7]
+msgid "Белоруснефть №7"
+msgstr ""
+
+# Objects : [n1410525668]
+# name:be: []
+msgid "Газ АЗС"
+msgstr ""
+
+# Objects : [n306067704, n3174641208]
+# name:be: [Лукоiл]
+msgid "Лукойл"
+msgstr ""
+
+# Objects : [n306067654]
+# name:be: []
+msgid "Славнефть"
+msgstr ""
+

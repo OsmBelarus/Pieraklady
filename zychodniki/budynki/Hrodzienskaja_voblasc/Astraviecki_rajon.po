@@ -1,0 +1,240 @@
+# Objects : [w93953760]
+# name:be: []
+msgid "10а"
+msgstr ""
+
+# Objects : [w173871684]
+# name:be: []
+msgid "7"
+msgstr ""
+
+# Objects : [w273060381]
+# name:be: []
+msgid "библиотека"
+msgstr ""
+
+# Objects : [w273429097]
+# name:be: []
+msgid "ГРП №1"
+msgstr ""
+
+# Objects : [w275155366]
+# name:be: []
+msgid "ГРП №10"
+msgstr ""
+
+# Objects : [w283330281]
+# name:be: []
+msgid "ГРП №11"
+msgstr ""
+
+# Objects : [w283330608]
+# name:be: []
+msgid "ГРП №13"
+msgstr ""
+
+# Objects : [w275143964]
+# name:be: []
+msgid "ГРП №2"
+msgstr ""
+
+# Objects : [w283324386]
+# name:be: []
+msgid "ГРП №9"
+msgstr ""
+
+# Objects : [w283321749, w283330933]
+# name:be: []
+msgid "ГРС"
+msgstr ""
+
+# Objects : [w274779371]
+# name:be: []
+msgid "дом культуры"
+msgstr ""
+
+# Objects : [w283324387]
+# name:be: []
+msgid "домовой РД"
+msgstr ""
+
+# Objects : [n1640455275]
+# name:be: []
+msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w276735893]
+# name:be: []
+msgid "контора колхозная"
+msgstr ""
+
+# Objects : [n1642917397]
+# name:be: []
+msgid "Конюшня-возовня"
+msgstr ""
+
+# Objects : [w273060362]
+# name:be: []
+msgid "лесничество"
+msgstr ""
+
+# Objects : [w274954661]
+# name:be: []
+msgid "Лесничетсво"
+msgstr ""
+
+# Objects : [w276504052]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w276701401]
+# name:be: []
+msgid "мясной цех"
+msgstr ""
+
+# Objects : [w301652421]
+# name:be: []
+msgid "ПГРП №12"
+msgstr ""
+
+# Objects : [w135568505]
+# name:be: []
+msgid "Пожарная аварийно-спасательная часть"
+msgstr ""
+
+# Objects : [w276504053]
+# name:be: []
+msgid "почта"
+msgstr ""
+
+# Objects : [w135894501]
+# name:be: [Прадукты]
+msgid "Продукты"
+msgstr ""
+
+# Objects : [w283328756, w283330961]
+# name:be: []
+msgid "РД"
+msgstr ""
+
+# Objects : [w276701423]
+# name:be: []
+msgid "свинарник"
+msgstr ""
+
+# Objects : [w276701429, w276701430]
+# name:be: []
+msgid "сушилка"
+msgstr ""
+
+# Objects : [w276504046]
+# name:be: []
+msgid "УПК"
+msgstr ""
+
+# Objects : [n1615569561, n1642890984, n1642920881]
+# name:be: []
+msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [w274758409]
+# name:be: []
+msgid "фап"
+msgstr ""
+
+# Objects : [w276701404]
+# name:be: []
+msgid "цех"
+msgstr ""
+
+# Objects : [w283324384]
+# name:be: []
+msgid "ШРП мали"
+msgstr ""
+
+# Objects : [w283330935]
+# name:be: []
+msgid "ШРП Таможня"
+msgstr ""
+
+# Objects : [w283318844]
+# name:be: []
+msgid "ШРП №1"
+msgstr ""
+
+# Objects : [w283318324]
+# name:be: []
+msgid "ШРП №10"
+msgstr ""
+
+# Objects : [w283328914]
+# name:be: []
+msgid "ШРП №11"
+msgstr ""
+
+# Objects : [w283414498]
+# name:be: []
+msgid "ШРП №12"
+msgstr ""
+
+# Objects : [w283325650]
+# name:be: []
+msgid "ШРП №13"
+msgstr ""
+
+# Objects : [w283325651]
+# name:be: []
+msgid "ШРП №15"
+msgstr ""
+
+# Objects : [w283322299]
+# name:be: []
+msgid "ШРП №16"
+msgstr ""
+
+# Objects : [w276737179]
+# name:be: []
+msgid "ШРП №2"
+msgstr ""
+
+# Objects : [w283328757]
+# name:be: []
+msgid "ШРП №3"
+msgstr ""
+
+# Objects : [w283328915]
+# name:be: []
+msgid "ШРП №4"
+msgstr ""
+
+# Objects : [w283123765]
+# name:be: []
+msgid "ШРП №5"
+msgstr ""
+
+# Objects : [w283325652]
+# name:be: []
+msgid "ШРП №6"
+msgstr ""
+
+# Objects : [w283330282]
+# name:be: []
+msgid "ШРП №7"
+msgstr ""
+
+# Objects : [w283330083]
+# name:be: []
+msgid "ШРП №8"
+msgstr ""
+
+# Objects : [w283317413]
+# name:be: []
+msgid "ШРП №9"
+msgstr ""
+
+# Objects : [w283328758]
+# name:be: []
+msgid "ЩРП №14"
+msgstr ""
+

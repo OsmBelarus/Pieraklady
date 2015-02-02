@@ -1,0 +1,420 @@
+# Objects : [w175328990]
+# name:be: []
+msgid "1000000 роз"
+msgstr ""
+
+# Objects : [w43111394]
+# name:be: []
+msgid "2-й корпус санатория"
+msgstr ""
+
+# Objects : [w206260597]
+# name:be: []
+msgid "Best club"
+msgstr ""
+
+# Objects : [w205178901]
+# name:be: []
+msgid "eXtrime"
+msgstr ""
+
+# Objects : [w283795906]
+# name:be: []
+msgid "MartInn"
+msgstr ""
+
+# Objects : [w210007133]
+# name:be: []
+msgid "Администрация Первомайского района"
+msgstr ""
+
+# Objects : [w175619754]
+# name:be: []
+msgid "Албена"
+msgstr ""
+
+# Objects : [w174386796]
+# name:be: []
+msgid "Альянс"
+msgstr ""
+
+# Objects : [w124864350]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w124864349]
+# name:be: []
+msgid "Баня № 2"
+msgstr ""
+
+# Objects : [w43329192, w43329195, w43329205]
+# name:be: []
+msgid "Бастион крепости"
+msgstr ""
+
+# Objects : [w43329191]
+# name:be: []
+msgid "Бастион-склад"
+msgstr ""
+
+# Objects : [w203584562]
+# name:be: []
+msgid "БГМТК"
+msgstr ""
+
+# Objects : [w316668344]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
+# Objects : [w59533591]
+# name:be: []
+msgid "Березина"
+msgstr ""
+
+# Objects : [w223756250]
+# name:be: []
+msgid "Бобруйск-Арена"
+msgstr ""
+
+# Objects : [w205461125]
+# name:be: []
+msgid "Бобруйские теплосети"
+msgstr ""
+
+# Objects : [w206481227]
+# name:be: []
+msgid "Бобруйское Троллейбусное Управление"
+msgstr ""
+
+# Objects : [w43094605]
+# name:be: []
+msgid "БФ "БГЭУ" корпус № 2"
+msgstr ""
+
+# Objects : [w70383974]
+# name:be: []
+msgid "Вероника"
+msgstr ""
+
+# Objects : [w87933243]
+# name:be: []
+msgid "Горизонт"
+msgstr ""
+
+# Objects : [w205312457]
+# name:be: []
+msgid "городская детская больница"
+msgstr ""
+
+# Objects : [w59533574]
+# name:be: []
+msgid "Госпиталь"
+msgstr ""
+
+# Objects : [w104146211]
+# name:be: []
+msgid "гостиница «Турист»"
+msgstr ""
+
+# Objects : [w104143843]
+# name:be: []
+msgid "Детская поликлиника № 2"
+msgstr ""
+
+# Objects : [w56730803]
+# name:be: []
+msgid "Детская поликлиника № 4"
+msgstr ""
+
+# Objects : [w204093320]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
+# Objects : [w259638758]
+# name:be: []
+msgid "диагностика"
+msgstr ""
+
+# Objects : [w43142233]
+# name:be: []
+msgid "Драмтеатр им. В.Дунина-Мартинкевича"
+msgstr ""
+
+# Objects : [w174787954]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
+# Objects : [w56724646]
+# name:be: []
+msgid "ЖЭУ 8"
+msgstr ""
+
+# Objects : [w234988624]
+# name:be: []
+msgid "ИК 2"
+msgstr ""
+
+# Objects : [w174555365]
+# name:be: []
+msgid "им. А.С.Пушкина"
+msgstr ""
+
+# Objects : [w57728786]
+# name:be: []
+msgid "инфекционная больница"
+msgstr ""
+
+# Objects : [w97228536]
+# name:be: [Магазін]
+msgid "Кирмаш"
+msgstr ""
+
+# Objects : [w93789716]
+# name:be: []
+msgid "Ковры и ткани"
+msgstr ""
+
+# Objects : [w173734707]
+# name:be: []
+msgid "Кольцо"
+msgstr ""
+
+# Objects : [w205312355, w206226941, w88675319]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w87933242]
+# name:be: []
+msgid "Магазин "Кругозор""
+msgstr ""
+
+# Objects : [w204526823]
+# name:be: []
+msgid "магазин 31"
+msgstr ""
+
+# Objects : [w205312444]
+# name:be: []
+msgid "Медицинский колледж"
+msgstr ""
+
+# Objects : [w70381291]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w175330703]
+# name:be: []
+msgid "Налоговая"
+msgstr ""
+
+# Objects : [w210007167]
+# name:be: []
+msgid "Ниагара"
+msgstr ""
+
+# Objects : [w104144060]
+# name:be: []
+msgid "Ноев Ковчег"
+msgstr ""
+
+# Objects : [w71253766]
+# name:be: []
+msgid "Нотариат"
+msgstr ""
+
+# Objects : [w158762004]
+# name:be: []
+msgid "Оборонительный вал"
+msgstr ""
+
+# Objects : [w246096104]
+# name:be: []
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w204113029]
+# name:be: []
+msgid "Общежитие №15 ОАО "Белшина""
+msgstr ""
+
+# Objects : [w204353236]
+# name:be: []
+msgid "ООО "Спецформация""
+msgstr ""
+
+# Objects : [w205443854]
+# name:be: []
+msgid "поликлиника"
+msgstr ""
+
+# Objects : [w205312456]
+# name:be: []
+msgid "Поликлиника № 1"
+msgstr ""
+
+# Objects : [w205043406]
+# name:be: [Паліклініка № 3]
+msgid "Поликлиника № 3"
+msgstr ""
+
+# Objects : [w204207742]
+# name:be: []
+msgid "поликлиника № 7"
+msgstr ""
+
+# Objects : [w204359784]
+# name:be: []
+msgid "Поликлинника № 5"
+msgstr ""
+
+# Objects : [w43329189]
+# name:be: []
+msgid "Пониженный люнет"
+msgstr ""
+
+# Objects : [w93789718]
+# name:be: []
+msgid "Практик"
+msgstr ""
+
+# Objects : [w71253749]
+# name:be: []
+msgid "Представительство НОК Беларуси в г. Бобруйске"
+msgstr ""
+
+# Objects : [w175364738]
+# name:be: []
+msgid "Приберезинский"
+msgstr ""
+
+# Objects : [w204087288]
+# name:be: []
+msgid "Пятёрочка"
+msgstr ""
+
+# Objects : [w87502918]
+# name:be: []
+msgid "Роддом"
+msgstr ""
+
+# Objects : [w56724648, w56730744]
+# name:be: []
+msgid "Родная Сторона"
+msgstr ""
+
+# Objects : [w205043426]
+# name:be: []
+msgid "РУВД Первомайского района"
+msgstr ""
+
+# Objects : [w205058747]
+# name:be: []
+msgid "санаторий "Радуга""
+msgstr ""
+
+# Objects : [w43111392]
+# name:be: []
+msgid "Санаторий им. В.И. Ленина"
+msgstr ""
+
+# Objects : [w205338536]
+# name:be: []
+msgid "Сафари"
+msgstr ""
+
+# Objects : [w230280361]
+# name:be: []
+msgid "Спортзал"
+msgstr ""
+
+# Objects : [w234988625]
+# name:be: []
+msgid "станция 3 подъема"
+msgstr ""
+
+# Objects : [w277849568]
+# name:be: []
+msgid "Стоматологическая поликлиника № 1"
+msgstr ""
+
+# Objects : [w204530266]
+# name:be: []
+msgid "СШ №22"
+msgstr ""
+
+# Objects : [w234988626]
+# name:be: []
+msgid "теплицы БШК"
+msgstr ""
+
+# Objects : [w204353293]
+# name:be: []
+msgid "ТЦ "БАС""
+msgstr ""
+
+# Objects : [w174547063]
+# name:be: []
+msgid "ТЦ «На Красноармейской»"
+msgstr ""
+
+# Objects : [w112144697]
+# name:be: []
+msgid "ТЦ Корона"
+msgstr ""
+
+# Objects : [w175359698]
+# name:be: []
+msgid "УКС, Архитектура"
+msgstr ""
+
+# Objects : [w210205276]
+# name:be: []
+msgid "Феникс"
+msgstr ""
+
+# Objects : [w56743624]
+# name:be: []
+msgid "ФОК"
+msgstr ""
+
+# Objects : [w96157299]
+# name:be: [Холм]
+msgid "Холм"
+msgstr ""
+
+# Objects : [w175359702]
+# name:be: []
+msgid "Центральная библиотека"
+msgstr ""
+
+# Objects : [w57728814]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
+# Objects : [w245164555]
+# name:be: []
+msgid "Чайная лавка"
+msgstr ""
+
+# Objects : [w307529206]
+# name:be: []
+msgid "Эдан"
+msgstr ""
+
+# Objects : [w203584561]
+# name:be: []
+msgid "Юбилейная"
+msgstr ""
+
+# Objects : [w175331009]
+# name:be: []
+msgid "Ясли-сад №19"
+msgstr ""
+

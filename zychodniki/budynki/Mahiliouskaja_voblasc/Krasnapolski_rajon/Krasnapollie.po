@@ -1,0 +1,105 @@
+# Objects : [w213052540]
+# name:be: []
+msgid "Адм здание РЭС"
+msgstr ""
+
+# Objects : [w211411319]
+# name:be: []
+msgid "Банк"
+msgstr ""
+
+# Objects : [w213376079]
+# name:be: []
+msgid "Банный комплекс"
+msgstr ""
+
+# Objects : [w210924628]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w220337593]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [w211408918]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w213152658]
+# name:be: []
+msgid "дом механизатора"
+msgstr ""
+
+# Objects : [w210966461]
+# name:be: []
+msgid "ККП"
+msgstr ""
+
+# Objects : [w211408929]
+# name:be: []
+msgid "Краеведческий музей"
+msgstr ""
+
+# Objects : [w210924636, w211244808, w211274565, w211408919, w211575422]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [w220225515]
+# name:be: []
+msgid "Молодежное"
+msgstr ""
+
+# Objects : [w211585230]
+# name:be: []
+msgid "МЧС"
+msgstr ""
+
+# Objects : [w217636750]
+# name:be: []
+msgid "ПГРП-1"
+msgstr ""
+
+# Objects : [w213052547]
+# name:be: []
+msgid "Поликлиника ЦРБ"
+msgstr ""
+
+# Objects : [w211242884]
+# name:be: []
+msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w261236067]
+# name:be: []
+msgid "разруш."
+msgstr ""
+
+# Objects : [w211580832]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w211413086]
+# name:be: []
+msgid "Родны кут"
+msgstr ""
+
+# Objects : [w220337619]
+# name:be: []
+msgid "РОНО"
+msgstr ""
+
+# Objects : [w210966462]
+# name:be: []
+msgid "хлебздвод"
+msgstr ""
+
+# Objects : [w211580835]
+# name:be: []
+msgid "ЧП"
+msgstr ""
+

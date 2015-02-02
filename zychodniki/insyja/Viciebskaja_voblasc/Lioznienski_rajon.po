@@ -1,0 +1,170 @@
+# Objects : [n1610819507]
+# name:be: []
+msgid "Автобаза ООО "Ника 67""
+msgstr ""
+
+# Objects : [w310932131]
+# name:be: []
+msgid "Бабиновичский цех деревообработки"
+msgstr ""
+
+# Objects : [n1412780284]
+# name:be: [Белнафтастрах]
+msgid "Белнефтестрах"
+msgstr ""
+
+# Objects : [w200391773]
+# name:be: []
+msgid "болото"
+msgstr ""
+
+# Objects : [n243042090, w25085866]
+# name:be: [Высачанскі Бор]
+msgid "Высочанский Бор"
+msgstr ""
+
+# Objects : [w312059125]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [n1439865011, w130808982]
+# name:be: [Глінкі]
+msgid "Глинки"
+msgstr ""
+
+# Objects : [n243042088, w25085860]
+# name:be: [Градзякі]
+msgid "Гредяки"
+msgstr ""
+
+# Objects : [w170608013]
+# name:be: []
+msgid "детский сад"
+msgstr ""
+
+# Objects : [n2766728062]
+# name:be: []
+msgid "Добромысли"
+msgstr ""
+
+# Objects : [w229242015]
+# name:be: []
+msgid "Добромыслинская ГЭС"
+msgstr ""
+
+# Objects : [n243045729, w25082599]
+# name:be: [Жалудова]
+msgid "Желудово"
+msgstr ""
+
+# Objects : [w119963435]
+# name:be: [Забалочаны кар’ер]
+msgid "Заболоченный карер"
+msgstr ""
+
+# Objects : [n306065981]
+# name:be: [Завольша]
+msgid "Заольша"
+msgstr ""
+
+# Objects : [w310932135]
+# name:be: []
+msgid "Землякам и воинам-освободителям"
+msgstr ""
+
+# Objects : [w178657096, w279006287, w310932208]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n2788681028]
+# name:be: [Могілкі габрэйскія]
+msgid "Кладбище еврейское"
+msgstr ""
+
+# Objects : [n3164352532]
+# name:be: []
+msgid "Крест"
+msgstr ""
+
+# Objects : [n306066222]
+# name:be: [Крынкі]
+msgid "Крынки"
+msgstr ""
+
+# Objects : [w165487765]
+# name:be: []
+msgid "КУСХП "Адаменки"-сушилка"
+msgstr ""
+
+# Objects : [w165490231]
+# name:be: []
+msgid "КУСХП "Крынки"-сушилка"
+msgstr ""
+
+# Objects : [w168173313, w173227324, w186726613, w186726614, w248952012, w248952013, w24946520, w27624404, w303559980, w303559981]
+# name:be: [Лінія Смаленск — Віцебск]
+msgid "Линия Смоленск - Витебск"
+msgstr ""
+
+# Objects : [w165489085]
+# name:be: []
+msgid "Лиозненский филиал ОАО "Витебская бройлерная птицефабрика""
+msgstr ""
+
+# Objects : [n2595367436]
+# name:be: [Лёзна—Рудня]
+msgid "Лиозно-Рудня"
+msgstr ""
+
+# Objects : [w199612031]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
+# Objects : [w310932136]
+# name:be: []
+msgid "Минирынок"
+msgstr ""
+
+# Objects : [w279813074]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [w199633641]
+# name:be: []
+msgid "ОАО "Рубежница"-сушилка"
+msgstr ""
+
+# Objects : [n2788683606]
+# name:be: [Паштовая станцыя]
+msgid "Почтовая станция"
+msgstr ""
+
+# Objects : [n2646082370]
+# name:be: []
+msgid "Страхование"
+msgstr ""
+
+# Objects : [w310932141]
+# name:be: []
+msgid "Тихмяновская высота"
+msgstr ""
+
+# Objects : [n243045813, w25082461]
+# name:be: [Таўпа]
+msgid "Толпа"
+msgstr ""
+
+# Objects : [w310932142]
+# name:be: []
+msgid "Убитым фашистами мирным гражданам"
+msgstr ""
+
+# Objects : [n243042102, w25085901]
+# name:be: [Украішча]
+msgid "Украище"
+msgstr ""
+
