@@ -1,0 +1,1433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="paragraph" srclang="RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="RU">
+        <seg>"Любимая аптека"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085528Z" creationid="alex" creationdate="20150130T085528Z">
+        <seg>"Любімая аптэка"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>123</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150128T142353Z" creationid="alex" creationdate="20150128T142302Z">
+        <seg>Аптэка №18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>24 часа</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084620Z" creationid="alex" creationdate="20150130T084620Z">
+        <seg>24 гадзіны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>36,6</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075626Z" creationid="alex" creationdate="20150130T075626Z">
+        <seg>36,6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алеан ОДО Аптека №1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085552Z" creationid="alex" creationdate="20150130T085552Z">
+        <seg>Алеан ТДА Аптэка №1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алеан ОДО Аптека №2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085553Z" creationid="alex" creationdate="20150130T085553Z">
+        <seg>Алеан ТДА Аптэка №2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Альфамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085611Z" creationid="alex" creationdate="20150130T085611Z">
+        <seg>Альфамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075457Z" creationid="alex" creationdate="20150130T075457Z">
+        <seg>Аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека "Находка"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075830Z" creationid="alex" creationdate="20150130T075830Z">
+        <seg>Аптэка "Знаходка"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека Приснянской АВОП</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084703Z" creationid="alex" creationdate="20150130T084703Z">
+        <seg>Аптэка Прыснянскай АВОП</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека коммерческая</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075433Z" creationid="alex" creationdate="20150130T075433Z">
+        <seg>Камерцыйная аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №..</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150129T143604Z" creationid="alex" creationdate="20150129T143604Z">
+        <seg>Аптэка №..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150129T143535Z" creationid="alex" creationdate="20150129T143535Z">
+        <seg>Аптэка №1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №1 Белмединфарм</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085347Z" creationid="alex" creationdate="20150130T085347Z">
+        <seg>Аптэка №1 Белмедінфарм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №1 ОДО "Шарлота"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085440Z" creationid="alex" creationdate="20150130T085408Z">
+        <seg>Аптэка №1 ТДА "Шарлота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №104</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085117Z" creationid="alex" creationdate="20150130T085117Z">
+        <seg>Аптэка №104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №105 РУП "Фармация"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150129T143615Z" creationid="alex" creationdate="20150129T143615Z">
+        <seg>Аптэка №105 РУП "Фармация"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №108</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085055Z" creationid="alex" creationdate="20150130T085055Z">
+        <seg>Аптэка №108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №109</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084538Z" creationid="alex" creationdate="20150130T084538Z">
+        <seg>Аптэка №109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №11</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084816Z" creationid="alex" creationdate="20150130T084816Z">
+        <seg>Аптэка №11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №110</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085326Z" creationid="alex" creationdate="20150130T085326Z">
+        <seg>Аптэка №110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №12</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085926Z" creationid="alex" creationdate="20150130T085926Z">
+        <seg>Аптэка №12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №125</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075833Z" creationid="alex" creationdate="20150130T075833Z">
+        <seg>Аптэка №125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №13</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085120Z" creationid="alex" creationdate="20150130T085120Z">
+        <seg>Аптэка №13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №138</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085951Z" creationid="alex" creationdate="20150130T085951Z">
+        <seg>Аптэка №138</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №14</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084918Z" creationid="alex" creationdate="20150130T084918Z">
+        <seg>Аптэка №14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №15</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085233Z" creationid="alex" creationdate="20150130T085233Z">
+        <seg>Аптэка №15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №157</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085911Z" creationid="alex" creationdate="20150130T085911Z">
+        <seg>Аптэка №157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №158</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124523Z" creationid="alex" creationdate="20150122T124523Z">
+        <seg>Аптэка №158</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №159</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075537Z" creationid="alex" creationdate="20150130T075537Z">
+        <seg>Аптэка №159</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №16</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085239Z" creationid="alex" creationdate="20150130T085239Z">
+        <seg>Аптэка №16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №162</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085123Z" creationid="alex" creationdate="20150130T085123Z">
+        <seg>Аптэка №162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №165</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124526Z" creationid="alex" creationdate="20150122T124526Z">
+        <seg>Аптэка №165</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №17</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084622Z" creationid="alex" creationdate="20150130T084622Z">
+        <seg>Аптэка №17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №175</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075539Z" creationid="alex" creationdate="20150130T075539Z">
+        <seg>Аптэка №175</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №18</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124455Z" creationid="alex" creationdate="20150122T124455Z">
+        <seg>Аптэка №18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №180</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085333Z" creationid="alex" creationdate="20150130T085333Z">
+        <seg>Аптэка №180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №189</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085125Z" creationid="alex" creationdate="20150130T085125Z">
+        <seg>Аптэка №189</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №19</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090011Z" creationid="alex" creationdate="20150130T090011Z">
+        <seg>Аптэка №19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №190 Центральная</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T124417Z" creationid="alex" creationdate="20150130T084548Z">
+        <seg>Аптэка №190 Цэнтральная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №193</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085953Z" creationid="alex" creationdate="20150130T085953Z">
+        <seg>Аптэка №193</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №194</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075836Z" creationid="alex" creationdate="20150130T075836Z">
+        <seg>Аптэка №194</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №195</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075838Z" creationid="alex" creationdate="20150130T075838Z">
+        <seg>Аптэка №195</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №199</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084819Z" creationid="alex" creationdate="20150130T084819Z">
+        <seg>Аптэка №199</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №199/8</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084711Z" creationid="alex" creationdate="20150130T084711Z">
+        <seg>Аптэка №199/8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084713Z" creationid="alex" creationdate="20150130T084713Z">
+        <seg>Аптэка №2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №2 (ОДО "Медфармснаб")</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084512Z" creationid="alex" creationdate="20150130T084512Z">
+        <seg>Аптэка №2 (ОДО "Медфармснаб")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №2 ОДО "Шарлота"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085431Z" creationid="alex" creationdate="20150130T085431Z">
+        <seg>Аптэка №2 ТДА "Шарлота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №2 УП "Виватон плюс"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084839Z" creationid="alex" creationdate="20150130T084839Z">
+        <seg>Аптэка №2 УП "Віватон плюс"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №2(ОДО "Медфармснаб")</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075909Z" creationid="alex" creationdate="20150130T075909Z">
+        <seg>Аптэка №2(ОДО "Медфармснаб")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №21</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084715Z" creationid="alex" creationdate="20150130T084715Z">
+        <seg>Аптэка №21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №214</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085929Z" creationid="alex" creationdate="20150130T085929Z">
+        <seg>Аптэка №214</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №215</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084821Z" creationid="alex" creationdate="20150130T084821Z">
+        <seg>Аптэка №215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №216 РУП "Минская фармация"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085427Z" creationid="alex" creationdate="20150130T085427Z">
+        <seg>Аптэка №216 РУП "Мінская фармация"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №223</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084823Z" creationid="alex" creationdate="20150130T084823Z">
+        <seg>Аптэка №223</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №233</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090114Z" creationid="alex" creationdate="20150130T090114Z">
+        <seg>Аптэка №233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №239</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085933Z" creationid="alex" creationdate="20150130T085933Z">
+        <seg>Аптэка №239</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №241</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124529Z" creationid="alex" creationdate="20150122T124529Z">
+        <seg>Аптэка №241</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №242</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085956Z" creationid="alex" creationdate="20150130T085956Z">
+        <seg>Аптэка №242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №25</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084541Z" creationid="alex" creationdate="20150130T084541Z">
+        <seg>Аптэка №25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №250</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150129T143538Z" creationid="alex" creationdate="20150129T143538Z">
+        <seg>Аптэка №250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №29 ООО Искамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075925Z" creationid="alex" creationdate="20150130T075925Z">
+        <seg>Аптэка №29 ООО Іскамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084841Z" creationid="alex" creationdate="20150130T084841Z">
+        <seg>Аптэка №3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №3 ОДО "Шарлота"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085436Z" creationid="alex" creationdate="20150130T085436Z">
+        <seg>Аптэка №3 ТДА "Шарлота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №30</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084717Z" creationid="alex" creationdate="20150130T084717Z">
+        <seg>Аптэка №30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №30 Искамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084730Z" creationid="alex" creationdate="20150130T084730Z">
+        <seg>Аптэка №30 Іскамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №33</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085924Z" creationid="alex" creationdate="20150130T085924Z">
+        <seg>Аптэка №33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №34</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085050Z" creationid="alex" creationdate="20150130T085050Z">
+        <seg>Аптэка №34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №35</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085914Z" creationid="alex" creationdate="20150130T085914Z">
+        <seg>Аптэка №35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №36</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075928Z" creationid="alex" creationdate="20150130T075928Z">
+        <seg>Аптэка №36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №37</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084732Z" creationid="alex" creationdate="20150130T084732Z">
+        <seg>Аптэка №37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084843Z" creationid="alex" creationdate="20150130T084843Z">
+        <seg>Аптэка №4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №4 Биотест НПК</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084854Z" creationid="alex" creationdate="20150130T084854Z">
+        <seg>Аптэка №4 Біатест НПК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №40</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085947Z" creationid="alex" creationdate="20150130T085947Z">
+        <seg>Аптэка №40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №44</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085220Z" creationid="alex" creationdate="20150130T085220Z">
+        <seg>Аптэка №44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №45 Искамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085449Z" creationid="alex" creationdate="20150130T085449Z">
+        <seg>Аптэка №45 Іскамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №48</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075822Z" creationid="alex" creationdate="20150130T075822Z">
+        <seg>Аптэка №48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №5</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085128Z" creationid="alex" creationdate="20150130T085128Z">
+        <seg>Аптэка №5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №5 Искамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084739Z" creationid="alex" creationdate="20150130T084739Z">
+        <seg>Аптэка №5 Іскамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №53</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084628Z" creationid="alex" creationdate="20150130T084628Z">
+        <seg>Аптэка №53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №59</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075930Z" creationid="alex" creationdate="20150130T075930Z">
+        <seg>Аптэка №59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №6</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124532Z" creationid="alex" creationdate="20150122T124532Z">
+        <seg>Аптэка №6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №6 ОДО "Шарлота"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085457Z" creationid="alex" creationdate="20150130T085457Z">
+        <seg>Аптэка №6 ТДА "Шарлота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №61</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085057Z" creationid="alex" creationdate="20150130T085057Z">
+        <seg>Аптэка №61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №62</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084552Z" creationid="alex" creationdate="20150130T084552Z">
+        <seg>Аптэка №62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №64</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084558Z" creationid="alex" creationdate="20150130T084558Z">
+        <seg>Аптэка №64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №7</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075819Z" creationid="alex" creationdate="20150130T075819Z">
+        <seg>Аптэка №7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №7 Витвар</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090036Z" creationid="alex" creationdate="20150130T090036Z">
+        <seg>Аптэка №7 Вітвар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №7 ОДО "Шарлота"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085501Z" creationid="alex" creationdate="20150130T085501Z">
+        <seg>Аптэка №7 ТДА "Шарлота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №74</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085307Z" creationid="alex" creationdate="20150130T085307Z">
+        <seg>Аптэка №74</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №8</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085620Z" creationid="alex" creationdate="20150130T085620Z">
+        <seg>Аптэка №8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №8 Витвар</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090044Z" creationid="alex" creationdate="20150130T090044Z">
+        <seg>Аптэка №8 Вітвар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №9</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084630Z" creationid="alex" creationdate="20150130T084630Z">
+        <seg>Аптэка №9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека-музей</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084813Z" creationid="alex" creationdate="20150130T084813Z">
+        <seg>Аптэка-музей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека456</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150128T144433Z" creationid="alex" creationdate="20150128T144433Z">
+        <seg>Аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптечный киоск</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150122T124504Z" creationid="alex" creationdate="20150122T124504Z">
+        <seg>Аптэчны шапік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Арника</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084922Z" creationid="alex" creationdate="20150130T084922Z">
+        <seg>Арніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Арника-Люкс</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084926Z" creationid="alex" creationdate="20150130T084926Z">
+        <seg>Арніка-Люкс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфарм</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075749Z" creationid="alex" creationdate="20150130T075749Z">
+        <seg>Белфарм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085921Z" creationid="alex" creationdate="20150130T085921Z">
+        <seg>Белфармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085646Z" creationid="alex" creationdate="20150130T085646Z">
+        <seg>Белфармацыя А ТДА Аптэка №1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №100</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085648Z" creationid="alex" creationdate="20150130T085648Z">
+        <seg>Белфармацыя А ТДА Аптэка №100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №101</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085650Z" creationid="alex" creationdate="20150130T085650Z">
+        <seg>Белфармацыя А ТДА Аптэка №101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №102</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085652Z" creationid="alex" creationdate="20150130T085652Z">
+        <seg>Белфармацыя А ТДА Аптэка №102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №104</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085654Z" creationid="alex" creationdate="20150130T085654Z">
+        <seg>Белфармацыя А ТДА Аптэка №104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №106</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085656Z" creationid="alex" creationdate="20150130T085656Z">
+        <seg>Белфармацыя А ТДА Аптэка №106</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №109</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085657Z" creationid="alex" creationdate="20150130T085657Z">
+        <seg>Белфармацыя А ТДА Аптэка №109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №11</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085701Z" creationid="alex" creationdate="20150130T085701Z">
+        <seg>Белфармацыя А ТДА Аптэка №11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №110</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085703Z" creationid="alex" creationdate="20150130T085703Z">
+        <seg>Белфармацыя А ТДА Аптэка №110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №112</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085705Z" creationid="alex" creationdate="20150130T085705Z">
+        <seg>Белфармацыя А ТДА Аптэка №112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белфармация А РУП Аптека №13</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085707Z" creationid="alex" creationdate="20150130T085707Z">
+        <seg>Белфармацыя А ТДА Аптэка №13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Биотест-Гомель</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075941Z" creationid="alex" creationdate="20150130T075941Z">
+        <seg>Біатэст-Гомель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Веста</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090003Z" creationid="alex" creationdate="20150130T090003Z">
+        <seg>Веста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ветаптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084747Z" creationid="alex" creationdate="20150130T084747Z">
+        <seg>Ветаптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ветеринарная аптека №5</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085142Z" creationid="alex" creationdate="20150130T085142Z">
+        <seg>Ветэрынарная аптэка №5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Дежурная аптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075759Z" creationid="alex" creationdate="20150130T075759Z">
+        <seg>Дзяжурная аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доктор А №4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085205Z" creationid="alex" creationdate="20150130T085205Z">
+        <seg>Доктар А №4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доктор А №7</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085208Z" creationid="alex" creationdate="20150130T085208Z">
+        <seg>Доктар А №7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доктор Вет</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085726Z" creationid="alex" creationdate="20150130T085726Z">
+        <seg>Доктар Вет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Зелёный Лист</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085742Z" creationid="alex" creationdate="20150130T085742Z">
+        <seg>Зялёны Ліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Искамед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084651Z" creationid="alex" creationdate="20150130T084651Z">
+        <seg>Іскамед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Комерческая</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084754Z" creationid="alex" creationdate="20150130T084754Z">
+        <seg>Камерцыйная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Круглосуточная аптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084907Z" creationid="alex" creationdate="20150130T084907Z">
+        <seg>Дзяжурная аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Мед-сервис</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075509Z" creationid="alex" creationdate="20150130T075509Z">
+        <seg>Мед-сэрвіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Медея</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075952Z" creationid="alex" creationdate="20150130T075952Z">
+        <seg>Мэдэя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Медтехника</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084912Z" creationid="alex" creationdate="20150130T084912Z">
+        <seg>Медтэхніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Моя Аптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075959Z" creationid="alex" creationdate="20150130T075959Z">
+        <seg>Мая Аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Нордин</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085749Z" creationid="alex" creationdate="20150130T085749Z">
+        <seg>Нардзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Нордин 24H</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085755Z" creationid="alex" creationdate="20150130T085755Z">
+        <seg>Нардзін 24H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>ОДО Лидафарм</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084950Z" creationid="alex" creationdate="20150130T084950Z">
+        <seg>ТДА Лідфарм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Оптика</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090053Z" creationid="alex" creationdate="20150130T090053Z">
+        <seg>Оптыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Оптимед</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085803Z" creationid="alex" creationdate="20150130T085803Z">
+        <seg>Аптымед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Панацея</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084954Z" creationid="alex" creationdate="20150130T084954Z">
+        <seg>Панацэя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Планета здоровья</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T080230Z" creationid="alex" creationdate="20150130T080230Z">
+        <seg>Планета здароўя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Планета здоровья №4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085532Z" creationid="alex" creationdate="20150130T085532Z">
+        <seg>Планета здароўя №4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фармация №155</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075736Z" creationid="alex" creationdate="20150130T075736Z">
+        <seg>Фармацыя №155</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фармация №71</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075717Z" creationid="alex" creationdate="20150130T075717Z">
+        <seg>Фармацыя №71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фармация №77/3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085214Z" creationid="alex" creationdate="20150130T085214Z">
+        <seg>Фармацыя №77/3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фармация, аптека №1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084533Z" creationid="alex" creationdate="20150130T084533Z">
+        <seg>Фармацыя, аптэка №1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>ЦРА №9</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075727Z" creationid="alex" creationdate="20150130T075727Z">
+        <seg>ЦРА №9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Центральная</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075745Z" creationid="alex" creationdate="20150130T075745Z">
+        <seg>Цэнтральная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Центральная аптека</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085156Z" creationid="alex" creationdate="20150130T085156Z">
+        <seg>Цэнтральная аптэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Центральная аптека №136</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085150Z" creationid="alex" creationdate="20150130T085150Z">
+        <seg>Цэнтральная аптэка №136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Центральная районная аптека №198</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085507Z" creationid="alex" creationdate="20150130T085507Z">
+        <seg>Цэнтральная раённая аптэка №198</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Центральная районная аптека №83</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T075556Z" creationid="alex" creationdate="20150130T075556Z">
+        <seg>Цэнтральная раённая аптэка №83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>аптека №63</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084556Z" creationid="alex" creationdate="20150130T084556Z">
+        <seg>Аптэка №63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№10</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085810Z" creationid="alex" creationdate="20150130T085810Z">
+        <seg>№10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№100</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085812Z" creationid="alex" creationdate="20150130T085812Z">
+        <seg>№100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№101</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085815Z" creationid="alex" creationdate="20150130T085815Z">
+        <seg>№101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№103</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085817Z" creationid="alex" creationdate="20150130T085817Z">
+        <seg>№103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№105</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085819Z" creationid="alex" creationdate="20150130T085819Z">
+        <seg>№105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№107</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085821Z" creationid="alex" creationdate="20150130T085821Z">
+        <seg>№107</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№108</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085823Z" creationid="alex" creationdate="20150130T085823Z">
+        <seg>№108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№109</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085825Z" creationid="alex" creationdate="20150130T085825Z">
+        <seg>№109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№112</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085826Z" creationid="alex" creationdate="20150130T085826Z">
+        <seg>№112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№113</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085828Z" creationid="alex" creationdate="20150130T085828Z">
+        <seg>№113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№129</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085103Z" creationid="alex" creationdate="20150130T085103Z">
+        <seg>№129</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№131</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T090103Z" creationid="alex" creationdate="20150130T090103Z">
+        <seg>№131</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№135</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T084805Z" creationid="alex" creationdate="20150130T084805Z">
+        <seg>№135</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№139 Фармация</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085007Z" creationid="alex" creationdate="20150130T085007Z">
+        <seg>№139 Фармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№14</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085830Z" creationid="alex" creationdate="20150130T085830Z">
+        <seg>№14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№146 Центральная районная Фармация</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085021Z" creationid="alex" creationdate="20150130T085021Z">
+        <seg>№146 Цэнтральная раённая Фармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№16</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085833Z" creationid="alex" creationdate="20150130T085833Z">
+        <seg>№16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№163 Фармация</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085026Z" creationid="alex" creationdate="20150130T085026Z">
+        <seg>№163 Фармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№17</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085835Z" creationid="alex" creationdate="20150130T085835Z">
+        <seg>№17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№182</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085838Z" creationid="alex" creationdate="20150130T085838Z">
+        <seg>№182</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№19</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085841Z" creationid="alex" creationdate="20150130T085841Z">
+        <seg>№19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085843Z" creationid="alex" creationdate="20150130T085843Z">
+        <seg>№2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№2 Комфарм</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085033Z" creationid="alex" creationdate="20150130T085033Z">
+        <seg>№2 Камфарм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№21</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085845Z" creationid="alex" creationdate="20150130T085845Z">
+        <seg>№21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№23</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085847Z" creationid="alex" creationdate="20150130T085847Z">
+        <seg>№23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№26</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085848Z" creationid="alex" creationdate="20150130T085848Z">
+        <seg>№26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085850Z" creationid="alex" creationdate="20150130T085850Z">
+        <seg>№3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№32</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085852Z" creationid="alex" creationdate="20150130T085852Z">
+        <seg>№32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№34</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085854Z" creationid="alex" creationdate="20150130T085854Z">
+        <seg>№34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№36</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085856Z" creationid="alex" creationdate="20150130T085856Z">
+        <seg>№36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№37</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085859Z" creationid="alex" creationdate="20150130T085859Z">
+        <seg>№37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>№4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150130T085901Z" creationid="alex" creationdate="20150130T085901Z">
+        <seg>№4</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
