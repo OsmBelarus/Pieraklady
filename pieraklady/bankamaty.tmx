@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Альфабанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150202T122423Z" creationid="alex" creationdate="20150202T122423Z">
+        <seg>Альфабанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>БПС-Сбербанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T122116Z" creationid="alex" creationdate="20150202T122116Z">
