@@ -20,6 +20,22 @@
         <seg>Белаграпрамбанк</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150202T121023Z" creationid="alex" creationdate="20150202T121023Z">
+        <seg>Беларусбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белинвестбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150202T121152Z" creationid="alex" creationdate="20150202T121152Z">
+        <seg>Белінвестбанк</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
