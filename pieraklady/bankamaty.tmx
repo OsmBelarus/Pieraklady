@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="paragraph" srclang="RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="RU">
+        <seg>Альфа-Банк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150202T115732Z" creationid="alex" creationdate="20150202T115732Z">
+        <seg>Альфа-Банк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белагропромбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150202T115721Z" creationid="alex" creationdate="20150202T115721Z">
+        <seg>Белаграпрамбанк</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
