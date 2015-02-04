@@ -236,6 +236,14 @@
         <seg>Хоўм Крэдыт Банк, ЦБУ №706</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Цептер Банк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144603Z" creationid="alex" creationdate="20150204T144603Z">
+        <seg>Цептар Банк</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
