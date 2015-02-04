@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>БелГазПромБанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T140937Z" creationid="alex" creationdate="20150204T140937Z">
+        <seg>БелГазПромБанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>БелСвиссБанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121505Z" creationid="alex" creationdate="20150202T121505Z">
