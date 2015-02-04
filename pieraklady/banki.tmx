@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="RU">
+        <seg>Абсолютбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T140201Z" creationid="alex" creationdate="20150204T140201Z">
+        <seg>Абсалютбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Альфа-Банк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T115732Z" creationid="alex" creationdate="20150202T115732Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T132932Z" creationid="alex" creationdate="20150204T132932Z">
         <seg>ВТБ Банк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Идея Банк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T140138Z" creationid="alex" creationdate="20150204T140119Z">
+        <seg>Ідэя Банк</seg>
       </tuv>
     </tu>
     <tu>
