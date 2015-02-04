@@ -148,6 +148,30 @@
         <seg>Тэхнабанк</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>ФрансаБанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T135750Z" creationid="alex" creationdate="20150204T135750Z">
+        <seg>ФрансаБанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хоум Кредит Банк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T135831Z" creationid="alex" creationdate="20150204T135831Z">
+        <seg>Хоўм Крэдыт Банк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хоум Кредит Банк, ЦБУ №706</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T135930Z" creationid="alex" creationdate="20150204T135930Z">
+        <seg>Хоўм Крэдыт Банк, ЦБУ №706</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
