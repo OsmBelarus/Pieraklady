@@ -22,14 +22,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Альфабанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150202T122423Z" creationid="alex" creationdate="20150202T122423Z">
-        <seg>Альфабанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>БПС-Сбербанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T122116Z" creationid="alex" creationdate="20150202T122116Z">
@@ -73,23 +65,15 @@
         <seg>БелВЭБ</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121704Z" creationid="alex" creationdate="20150202T121704Z">
-        <seg>БелЗЭБ</seg>
+        <seg>БелВЭБ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>БелГазПромБанк</seg>
+        <seg>Белгазпромбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T140937Z" creationid="alex" creationdate="20150204T140937Z">
-        <seg>БелГазПромБанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>БелСвиссБанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150202T121505Z" creationid="alex" creationdate="20150202T121505Z">
-        <seg>БелСвісБанк</seg>
+        <seg>Белгазпромбанк</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,22 +102,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Белвнешэкономбанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150202T121633Z" creationid="alex" creationdate="20150202T121633Z">
-        <seg>Белзнешэканамбанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Белгазпромбанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150202T121545Z" creationid="alex" creationdate="20150202T121545Z">
-        <seg>Белгазпрамбанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Белинвестбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121152Z" creationid="alex" creationdate="20150202T121152Z">
@@ -146,30 +114,6 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T141159Z" creationid="alex" creationdate="20150204T141159Z">
         <seg>Беларускі Народны Банк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>ВТБ</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150202T122313Z" creationid="alex" creationdate="20150202T122313Z">
-        <seg>ВТБ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>ВТБ Банк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T132932Z" creationid="alex" creationdate="20150204T132932Z">
-        <seg>ВТБ Банк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>ВТБ Беларусь</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T140353Z" creationid="alex" creationdate="20150204T140353Z">
-        <seg>ВТБ Беларусь</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,14 +166,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>ТехноБанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T140613Z" creationid="alex" creationdate="20150204T140613Z">
-        <seg>ТехноБанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Технобанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T122359Z" creationid="alex" creationdate="20150202T122359Z">
@@ -238,10 +174,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>ФрансаБанк</seg>
+        <seg>Франсабанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T135750Z" creationid="alex" creationdate="20150204T135750Z">
-        <seg>ФрансаБанк</seg>
+        <seg>Франсабанк</seg>
       </tuv>
     </tu>
     <tu>
