@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Банк Москва-Минск, ЦБУ №10</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144311Z" creationid="alex" creationdate="20150204T144311Z">
+        <seg>Банк Масква-Мінск, ЦБУ №10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>БелВЭБ</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121704Z" creationid="alex" creationdate="20150202T121704Z">
@@ -166,10 +174,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>МТБанк, РКЦ №52</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144332Z" creationid="alex" creationdate="20150204T144332Z">
+        <seg>МТБанк, РКЦ №52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Паритетбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144402Z" creationid="alex" creationdate="20150204T144402Z">
+        <seg>Парытэтбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Приорбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121417Z" creationid="alex" creationdate="20150202T121417Z">
         <seg>Прыёрбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>РРБ-Банк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144452Z" creationid="alex" creationdate="20150204T144452Z">
+        <seg>РРБ-Банк</seg>
       </tuv>
     </tu>
     <tu>
