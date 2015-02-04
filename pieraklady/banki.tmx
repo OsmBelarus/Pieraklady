@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>БСБ Банк, РКЦ №10</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T144128Z" creationid="alex" creationdate="20150204T144128Z">
+        <seg>БСБ Банк, РКЦ №10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>БТА Банк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T122226Z" creationid="alex" creationdate="20150202T122226Z">
@@ -70,14 +78,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Белгазпромбанк</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T140937Z" creationid="alex" creationdate="20150204T140937Z">
-        <seg>Белгазпромбанк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Белагропромбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T115721Z" creationid="alex" creationdate="20150202T115721Z">
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T133034Z" creationid="alex" creationdate="20150204T133034Z">
         <seg>Беларусбанк, філіял №100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белгазпромбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150204T140937Z" creationid="alex" creationdate="20150204T140937Z">
+        <seg>Белгазпромбанк</seg>
       </tuv>
     </tu>
     <tu>
