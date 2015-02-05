@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>БПС-Сбербанк, РКЦ №3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141343Z" creationid="alex" creationdate="20150205T141343Z">
+        <seg>БПС-Збербанк, РКЦ №3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>БПС-Сбербанк, РКЦ №4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141350Z" creationid="alex" creationdate="20150205T141350Z">
+        <seg>БПС-Збербанк, РКЦ №4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>БСБ Банк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T141247Z" creationid="alex" creationdate="20150204T141247Z">
@@ -110,6 +126,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Беларусбанк, №214</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141541Z" creationid="alex" creationdate="20150205T141541Z">
+        <seg>Беларусбанк, №214</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк, №214/10</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141539Z" creationid="alex" creationdate="20150205T141539Z">
+        <seg>Беларусбанк, №214/10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк, №214/13</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141536Z" creationid="alex" creationdate="20150205T141536Z">
+        <seg>Беларусбанк, №214/13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Белгазпромбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150204T140937Z" creationid="alex" creationdate="20150204T140937Z">
@@ -122,6 +162,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121152Z" creationid="alex" creationdate="20150202T121152Z">
         <seg>Белінвестбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Белинвестбанк, №629</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T141441Z" creationid="alex" creationdate="20150205T141441Z">
+        <seg>Белінвестбанк, №629</seg>
       </tuv>
     </tu>
     <tu>
