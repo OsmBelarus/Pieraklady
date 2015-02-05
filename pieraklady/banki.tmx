@@ -182,6 +182,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Беларусбанк, №100</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142628Z" creationid="alex" creationdate="20150205T142628Z">
+        <seg>Беларусбанк, №100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк, №100/118</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142648Z" creationid="alex" creationdate="20150205T142648Z">
+        <seg>Беларусбанк, №100/118</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк, №126/47</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142702Z" creationid="alex" creationdate="20150205T142702Z">
+        <seg>Беларусбанк, №126/47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Беларусбанк, №200/110</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150205T142256Z" creationid="alex" creationdate="20150205T142256Z">
@@ -354,6 +378,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150205T141724Z" creationid="alex" creationdate="20150205T141724Z">
         <seg>Прыёрбанк, ЦБУ №202/2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Приорбанк, ЦБУ №500</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142745Z" creationid="alex" creationdate="20150205T142735Z">
+        <seg>Прыёрбанк, ЦБП №500</seg>
       </tuv>
     </tu>
     <tu>
