@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>БелВЭБ, ЦРБ №680/1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142022Z" creationid="alex" creationdate="20150205T142022Z">
+        <seg>БелВЭБ, ЦРБ №680/1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Белагропромбанк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T115721Z" creationid="alex" creationdate="20150202T115721Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T122359Z" creationid="alex" creationdate="20150202T122359Z">
         <seg>Тэхнабанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Трастбанк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142054Z" creationid="alex" creationdate="20150205T142054Z">
+        <seg>Трастбанк</seg>
       </tuv>
     </tu>
     <tu>
