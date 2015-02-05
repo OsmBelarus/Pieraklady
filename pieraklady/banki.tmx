@@ -104,8 +104,8 @@
       <tuv lang="RU">
         <seg>Банк Москва-Минск, ЦБУ №10</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T144311Z" creationid="alex" creationdate="20150204T144311Z">
-        <seg>Банк Масква-Мінск, ЦБУ №10</seg>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142817Z" creationid="alex" creationdate="20150204T144311Z">
+        <seg>Банк Масква-Мінск, ЦБП №10</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +170,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150202T121023Z" creationid="alex" creationdate="20150202T121023Z">
         <seg>Беларусбанк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Беларусбанк, ЦБУ №222</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142831Z" creationid="alex" creationdate="20150205T142827Z">
+        <seg>Беларусбанк, ЦБП №222</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +368,8 @@
       <tuv lang="RU">
         <seg>Паритетбанк, ЦБУ №18</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150205T141833Z" creationid="alex" creationdate="20150205T141833Z">
-        <seg>Парытэтбанк, ЦБУ №18</seg>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142900Z" creationid="alex" creationdate="20150205T141833Z">
+        <seg>Парытэтбанк, ЦБП №18</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +384,8 @@
       <tuv lang="RU">
         <seg>Приорбанк, ЦБУ №202/2</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150205T141724Z" creationid="alex" creationdate="20150205T141724Z">
-        <seg>Прыёрбанк, ЦБУ №202/2</seg>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142855Z" creationid="alex" creationdate="20150205T141724Z">
+        <seg>Прыёрбанк, ЦБП №202/2</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,16 +440,16 @@
       <tuv lang="RU">
         <seg>Хоум Кредит Банк, ЦБУ №206</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150205T141703Z" creationid="alex" creationdate="20150205T141703Z">
-        <seg>Хоўм Крэдыт Банк, ЦБУ №206</seg>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142822Z" creationid="alex" creationdate="20150205T141703Z">
+        <seg>Хоўм Крэдыт Банк, ЦБП №206</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Хоум Кредит Банк, ЦБУ №706</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20150204T135930Z" creationid="alex" creationdate="20150204T135930Z">
-        <seg>Хоўм Крэдыт Банк, ЦБУ №706</seg>
+      <tuv lang="BE" changeid="alex" changedate="20150205T142840Z" creationid="alex" creationdate="20150204T135930Z">
+        <seg>Хоўм Крэдыт Банк, ЦБП №706</seg>
       </tuv>
     </tu>
     <tu>
