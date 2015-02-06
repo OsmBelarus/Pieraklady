@@ -123,11 +123,6 @@ msgstr ""
 msgid "33 Поликлиника"
 msgstr ""
 
-# Objects : [w25313335]
-# name:be: []
-msgid "36-я городская поликлиника г.Минска"
-msgstr ""
-
 # Objects : [w25393491]
 # name:be: []
 msgid "38, УП Минсгорисполкома Гаражи, стоянки, парковки"
@@ -376,6 +371,11 @@ msgstr ""
 # Objects : [w25323069]
 # name:be: [Аўтобусны парк №7]
 msgid "Автобусный парк №7"
+msgstr ""
+
+# Objects : [w25325987]
+# name:be: []
+msgid "Автодром"
 msgstr ""
 
 # Objects : [w53847861]
@@ -1093,11 +1093,6 @@ msgstr ""
 msgid "гипермаркет «ГИППО»"
 msgstr ""
 
-# Objects : [w44777082]
-# name:be: [Гіпермаркет Prostore]
-msgid "Гипермаркет Prostore"
-msgstr ""
-
 # Objects : [w36966458]
 # name:be: [Гіпермаркет ProStore]
 msgid "Гипермаркет ProStore"
@@ -1508,7 +1503,7 @@ msgstr ""
 msgid "ДЮК ФПиС №25"
 msgstr ""
 
-# Objects : [w30861395, w54524750, w66987385, w96675835]
+# Objects : [w30861395, w49845375, w54524750, w66987385, w96675835]
 # name:be: [Еўраопт]
 msgid "Евроопт"
 msgstr ""
@@ -1531,11 +1526,6 @@ msgstr ""
 # Objects : [w25321488]
 # name:be: []
 msgid "Ж/д станция Тракторный"
-msgstr ""
-
-# Objects : [w25326654]
-# name:be: [Жар-Птушка]
-msgid "Жар-птица"
 msgstr ""
 
 # Objects : [w25388779]
@@ -1763,6 +1753,11 @@ msgstr ""
 msgid "Кафе"
 msgstr ""
 
+# Objects : [w25326686]
+# name:be: []
+msgid "Кафе "Family Club""
+msgstr ""
+
 # Objects : [w184268704]
 # name:be: []
 msgid "Кафе "Ассорти""
@@ -1836,6 +1831,11 @@ msgstr ""
 # Objects : [w25322764]
 # name:be: []
 msgid "Колледж Торговли"
+msgstr ""
+
+# Objects : [w25326654]
+# name:be: []
+msgid "Колобок"
 msgstr ""
 
 # Objects : [w151747290]
@@ -1966,6 +1966,11 @@ msgstr ""
 # Objects : [w253756062]
 # name:be: []
 msgid "Магазин Продвильнюс"
+msgstr ""
+
+# Objects : [w66986539]
+# name:be: []
+msgid "Магазин разливного пива"
 msgstr ""
 
 # Objects : [w313114931]
@@ -3201,11 +3206,6 @@ msgstr ""
 # Objects : [w149429552]
 # name:be: []
 msgid "Соседи"
-msgstr ""
-
-# Objects : [w273717441]
-# name:be: []
-msgid "Соседи (8-23)"
 msgstr ""
 
 # Objects : [w25322853]

@@ -1,6 +1,26 @@
+# Objects : [w37876780]
+# name:be: []
+msgid ""Электробум-Ласточка""
+msgstr ""
+
+# Objects : [w37876779]
+# name:be: []
+msgid "Алеся"
+msgstr ""
+
+# Objects : [w40130646]
+# name:be: []
+msgid "База ДРСУ"
+msgstr ""
+
 # Objects : [w108866898]
 # name:be: [Лазня]
 msgid "Баня"
+msgstr ""
+
+# Objects : [w40130636]
+# name:be: []
+msgid "Белпромсервис"
 msgstr ""
 
 # Objects : [w37908069]
@@ -58,6 +78,11 @@ msgstr ""
 msgid "ЗАГС"
 msgstr ""
 
+# Objects : [w326518996]
+# name:be: []
+msgid "Зеленый луг"
+msgstr ""
+
 # Objects : [w37895584]
 # name:be: []
 msgid "Капучино"
@@ -66,11 +91,6 @@ msgstr ""
 # Objects : [w38319186]
 # name:be: []
 msgid "МРЭО ГАИ"
-msgstr ""
-
-# Objects : [w37876779]
-# name:be: []
-msgid "Олеся"
 msgstr ""
 
 # Objects : [w37895780]
@@ -88,6 +108,11 @@ msgstr ""
 msgid "РВК"
 msgstr ""
 
+# Objects : [w37878105]
+# name:be: []
+msgid "Славянка"
+msgstr ""
+
 # Objects : [w38280869]
 # name:be: [Смаргонь]
 msgid "Сморгонь"
@@ -103,9 +128,19 @@ msgstr ""
 msgid "Спектр"
 msgstr ""
 
+# Objects : [w40130626]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
 # Objects : [w37895550]
 # name:be: []
 msgid "Танак"
+msgstr ""
+
+# Objects : [w40127897]
+# name:be: []
+msgid "тракторсервис"
 msgstr ""
 
 # Objects : [w38287242]

@@ -158,6 +158,11 @@ msgstr ""
 msgid "Вокзальная улица"
 msgstr ""
 
+# Objects : [w326203093]
+# name:be: []
+msgid "Волковысский переулок"
+msgstr ""
+
 # Objects : [w101223045]
 # name:be: [Усходняя вуліца]
 msgid "Восточная улица"
@@ -348,6 +353,11 @@ msgstr ""
 msgid "Минский тракт"
 msgstr ""
 
+# Objects : [w120880606]
+# name:be: []
+msgid "Мокрый переулок"
+msgstr ""
+
 # Objects : [w126970795, w142230112, w308766186, w308766187]
 # name:be: [Маладзежная вуліца]
 msgid "Молодежная улица"
@@ -518,6 +528,11 @@ msgstr ""
 msgid "переулок Тавлая"
 msgstr ""
 
+# Objects : [w115861899]
+# name:be: []
+msgid "переулок Толстого"
+msgstr ""
+
 # Objects : [w115861896]
 # name:be: [завулак Шчорса]
 msgid "переулок Щорса"
@@ -561,11 +576,6 @@ msgstr ""
 # Objects : [w131407552]
 # name:be: [плошча Сапегі]
 msgid "площадь Сапеги"
-msgstr ""
-
-# Objects : [w308758209, w308758210, w72765362]
-# name:be: [Перамогі вуліца]
-msgid "Победы улица"
 msgstr ""
 
 # Objects : [w105641769]
@@ -863,6 +873,11 @@ msgstr ""
 msgid "улица Декабристов"
 msgstr ""
 
+# Objects : [w326049826, w326049827]
+# name:be: []
+msgid "улица Дзержинского"
+msgstr ""
+
 # Objects : [w103800578]
 # name:be: [вуліца Дабрыяна]
 msgid "улица Добрияна"
@@ -1046,6 +1061,11 @@ msgstr ""
 # Objects : [w72486087]
 # name:be: [вуліца Пліева]
 msgid "улица Плиева"
+msgstr ""
+
+# Objects : [w308758209, w308758210, w72765362]
+# name:be: [вуліца Перамогі]
+msgid "улица Победы"
 msgstr ""
 
 # Objects : [w117939042, w118381363, w120880901, w25287213]

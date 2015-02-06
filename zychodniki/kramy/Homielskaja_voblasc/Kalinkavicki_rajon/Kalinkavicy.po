@@ -8,11 +8,6 @@ msgstr ""
 msgid "Белсоюзпечать"
 msgstr ""
 
-# Objects : [n674423188]
-# name:be: [Бярозка]
-msgid "Березка"
-msgstr ""
-
 # Objects : [n1237225337]
 # name:be: []
 msgid "Гастроном "Север""
@@ -36,11 +31,6 @@ msgstr ""
 # Objects : [n1282432106]
 # name:be: []
 msgid "Полесский"
-msgstr ""
-
-# Objects : [n1282432089]
-# name:be: []
-msgid "Полесье"
 msgstr ""
 
 # Objects : [n1385469054]

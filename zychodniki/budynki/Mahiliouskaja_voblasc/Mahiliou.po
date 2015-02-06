@@ -208,6 +208,11 @@ msgstr ""
 msgid "Буслик"
 msgstr ""
 
+# Objects : [w326527092]
+# name:be: []
+msgid "вольер"
+msgstr ""
+
 # Objects : [w127788396]
 # name:be: []
 msgid "Габрово"
@@ -661,6 +666,11 @@ msgstr ""
 # Objects : [w235598883, w235598899, w309176915, w86757226, w86758459, w86758608, w86761120, w86762697, w86763259]
 # name:be: []
 msgid "переулок 1-й Июньский"
+msgstr ""
+
+# Objects : [w326523940]
+# name:be: []
+msgid "пилорама"
 msgstr ""
 
 # Objects : [w86764355]

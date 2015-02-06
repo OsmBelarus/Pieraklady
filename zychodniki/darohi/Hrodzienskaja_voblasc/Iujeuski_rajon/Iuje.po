@@ -1,3 +1,8 @@
+# Objects : [w272617050]
+# name:be: []
+msgid "Берёзовый переулок"
+msgstr ""
+
 # Objects : [w125513726]
 # name:be: [Зарэчная вуліца]
 msgid "Заречная улица"
@@ -111,6 +116,11 @@ msgstr ""
 # Objects : [w97094060]
 # name:be: [Пралетарская вуліца]
 msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w326481574]
+# name:be: []
+msgid "Пролетарский переулок"
 msgstr ""
 
 # Objects : [w263592314]
@@ -296,6 +306,11 @@ msgstr ""
 # Objects : [w114686765]
 # name:be: [вуліца Някрасава]
 msgid "улица Некрасова"
+msgstr ""
+
+# Objects : [w326501902]
+# name:be: []
+msgid "улица Огинского"
 msgstr ""
 
 # Objects : [w117098940]

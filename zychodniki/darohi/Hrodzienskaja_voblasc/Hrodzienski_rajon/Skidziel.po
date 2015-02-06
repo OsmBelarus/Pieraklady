@@ -134,12 +134,12 @@ msgid "улица Лермонтова"
 msgstr ""
 
 # Objects : [w312776214]
-# name:be: []
+# name:be: [Лугавая вуліца]
 msgid "улица Луговая"
 msgstr ""
 
 # Objects : [w277929011]
-# name:be: []
+# name:be: [вуліца Міру]
 msgid "улица Мира"
 msgstr ""
 

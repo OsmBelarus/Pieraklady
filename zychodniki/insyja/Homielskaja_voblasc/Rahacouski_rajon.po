@@ -3,9 +3,19 @@
 msgid "А"
 msgstr ""
 
-# Objects : [n3270050218]
+# Objects : [n3283834046, n3311324259]
+# name:be: []
+msgid "Артезианская скважина"
+msgstr ""
+
+# Objects : [n3270050218, n3331917393]
 # name:be: []
 msgid "Баня"
+msgstr ""
+
+# Objects : [n3328055340]
+# name:be: []
+msgid "Баня (забр.)"
 msgstr ""
 
 # Objects : [w318477419]
@@ -26,6 +36,11 @@ msgstr ""
 # Objects : [w262012363]
 # name:be: []
 msgid "деревообработка"
+msgstr ""
+
+# Objects : [w297376914]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [n2089850491]
@@ -73,6 +88,11 @@ msgstr ""
 msgid "загон"
 msgstr ""
 
+# Objects : [w297376913]
+# name:be: []
+msgid "Запольская средняя школа"
+msgstr ""
+
 # Objects : [w287670782]
 # name:be: []
 msgid "Запольский СДК"
@@ -118,6 +138,11 @@ msgstr ""
 msgid "Коммунистическая улица"
 msgstr ""
 
+# Objects : [w261970327]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [w25199194]
 # name:be: []
 msgid "Крушиновское"
@@ -138,7 +163,7 @@ msgstr ""
 msgid "Миньков"
 msgstr ""
 
-# Objects : [w318060398, w318507002, w318507004, w321978781]
+# Objects : [w318060398, w318507002, w318507004, w321978781, w326535589]
 # name:be: []
 msgid "МТФ"
 msgstr ""
@@ -146,11 +171,6 @@ msgstr ""
 # Objects : [w321978831]
 # name:be: []
 msgid "навозохранилище"
-msgstr ""
-
-# Objects : [n3283834046, n3311324259]
-# name:be: []
-msgid "Ортазианская скважина"
 msgstr ""
 
 # Objects : [n3320744902]
@@ -161,11 +181,6 @@ msgstr ""
 # Objects : [n2089866414]
 # name:be: []
 msgid "Памятник ВОВ"
-msgstr ""
-
-# Objects : [n3311324260]
-# name:be: []
-msgid "Погост"
 msgstr ""
 
 # Objects : [n2089868435]
@@ -228,12 +243,7 @@ msgstr ""
 msgid "Территория детсада"
 msgstr ""
 
-# Objects : [w324388462]
-# name:be: []
-msgid "Территория детского сада"
-msgstr ""
-
-# Objects : [w262503603, w323626913, w324388464]
+# Objects : [w262503603, w323626913]
 # name:be: []
 msgid "Территория школы"
 msgstr ""
@@ -261,5 +271,10 @@ msgstr ""
 # Objects : [r3392912]
 # name:be: [Юбілейная вуліца]
 msgid "Юбилейная улица"
+msgstr ""
+
+# Objects : [w326362301, w326362359, w326362360, w326491748, w326730153]
+# name:be: []
+msgid "Яблочный сад"
 msgstr ""
 

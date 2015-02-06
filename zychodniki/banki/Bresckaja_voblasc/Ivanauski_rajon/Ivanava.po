@@ -1,10 +1,10 @@
 # Objects : [n3212166710]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [n3212203731, w315657470]
-# name:be: []
+# name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
@@ -14,7 +14,7 @@ msgid "Беларусбанк Цбу112 Филиала 121"
 msgstr ""
 
 # Objects : [n3212157131, n3212163793]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

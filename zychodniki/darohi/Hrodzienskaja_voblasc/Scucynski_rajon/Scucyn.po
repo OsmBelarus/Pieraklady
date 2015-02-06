@@ -83,6 +83,11 @@ msgstr ""
 msgid "Лидская улица"
 msgstr ""
 
+# Objects : [w326351545]
+# name:be: [Майская вуліца]
+msgid "Майская улица"
+msgstr ""
+
 # Objects : [w250193171, w25288073, w79795409]
 # name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"
@@ -94,8 +99,13 @@ msgid "Набережная улица"
 msgstr ""
 
 # Objects : [w216024810]
-# name:be: []
+# name:be: [Азёрная вуліца]
 msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w235899615]
+# name:be: []
+msgid "Озёрный переулок"
 msgstr ""
 
 # Objects : [w127881647, w127882183, w250193715]

@@ -448,11 +448,6 @@ msgstr ""
 msgid "Брагинская улица"
 msgstr ""
 
-# Objects : [n2346002809]
-# name:be: []
-msgid "брод, болото"
-msgstr ""
-
 # Objects : [n454698202]
 # name:be: [Бросты]
 msgid "Бросты"

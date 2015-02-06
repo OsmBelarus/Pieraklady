@@ -8,11 +8,6 @@ msgstr ""
 msgid "Horka forest"
 msgstr ""
 
-# Objects : [w304074706]
-# name:be: []
-msgid "orchard"
-msgstr ""
-
 # Objects : [w313377018]
 # name:be: []
 msgid "алешник"
@@ -21,5 +16,10 @@ msgstr ""
 # Objects : [n3085933512]
 # name:be: []
 msgid "Перамогі / Pieramohi"
+msgstr ""
+
+# Objects : [w304074706]
+# name:be: [Фруктовы сад]
+msgid "фруктовый сад"
 msgstr ""
 

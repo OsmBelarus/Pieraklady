@@ -188,6 +188,11 @@ msgstr ""
 msgid "32 (БНР)"
 msgstr ""
 
+# Objects : [n3332417252]
+# name:be: []
+msgid "36-я городская поликлиника г.Минска"
+msgstr ""
+
 # Objects : [n3258129588]
 # name:be: []
 msgid "3 - операционный блок"
@@ -376,6 +381,11 @@ msgstr ""
 # Objects : [n2641964694]
 # name:be: []
 msgid "BELTRANSEXPEDITION"
+msgstr ""
+
+# Objects : [n3328156852]
+# name:be: []
+msgid "BelTransSputnik"
 msgstr ""
 
 # Objects : [n2600519773]
@@ -1968,11 +1978,6 @@ msgstr ""
 msgid "Беговая дорожка"
 msgstr ""
 
-# Objects : [w257726991]
-# name:be: []
-msgid "Беговой овал"
-msgstr ""
-
 # Objects : [n3207885360]
 # name:be: []
 msgid "Бел. фонд преодоления рассеянного склероза"
@@ -2053,7 +2058,7 @@ msgstr ""
 msgid "Белинвест"
 msgstr ""
 
-# Objects : [n1193864158, n1437409439, n305682996, n3283853127, n3295054033]
+# Objects : [n1193864158, n1437409439, n305682996, n3283853127, n3295054033, n3327597060]
 # name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
@@ -2206,11 +2211,6 @@ msgstr ""
 # Objects : [n3207816635]
 # name:be: []
 msgid "Белтрансзапчасть"
-msgstr ""
-
-# Objects : [n3326551806]
-# name:be: []
-msgid "БелТрансСпутник"
 msgstr ""
 
 # Objects : [w258889015]
@@ -3643,6 +3643,11 @@ msgstr ""
 msgid "Дом Вигдорчика"
 msgstr ""
 
+# Objects : [n3332483061]
+# name:be: []
+msgid "Дом Деда Мороза"
+msgstr ""
+
 # Objects : [n1370020957]
 # name:be: []
 msgid "Дом для рабочих"
@@ -3798,7 +3803,7 @@ msgstr ""
 msgid "евроопт"
 msgstr ""
 
-# Objects : [w25856720, w49845375]
+# Objects : [w25856720]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -4308,7 +4313,7 @@ msgstr ""
 msgid "игровые автоматы"
 msgstr ""
 
-# Objects : [n2526961356]
+# Objects : [n2526961356, n3332483022]
 # name:be: []
 msgid "Игровые автоматы"
 msgstr ""
@@ -4813,8 +4818,8 @@ msgstr ""
 msgid "Козыревское"
 msgstr ""
 
-# Objects : [n2626864754, n450883558]
-# name:be: [Кола агляду]
+# Objects : [n2626864754]
+# name:be: []
 msgid "Колесо обозрения"
 msgstr ""
 
@@ -5411,11 +5416,6 @@ msgstr ""
 # Objects : [w25431584]
 # name:be: []
 msgid "Магазин обуви «Отико»"
-msgstr ""
-
-# Objects : [w66986539]
-# name:be: []
-msgid "Магазин разливного пива"
 msgstr ""
 
 # Objects : [n3143637366]
@@ -7395,7 +7395,7 @@ msgstr ""
 
 # Objects : [n305674680]
 # name:be: [АПАП-49]
-msgid "Опоп-49"
+msgid "ОПОП-49"
 msgstr ""
 
 # Objects : [n305686946]
@@ -7656,11 +7656,6 @@ msgstr ""
 # Objects : [n3226728945]
 # name:be: []
 msgid "Орленок"
-msgstr ""
-
-# Objects : [n2631993426, n2631993427, n2631993428, n2631993429]
-# name:be: []
-msgid "Осветительная башня"
 msgstr ""
 
 # Objects : [w312089352]
@@ -8186,11 +8181,6 @@ msgstr ""
 # Objects : [n604715768]
 # name:be: []
 msgid "Подвальчик"
-msgstr ""
-
-# Objects : [n3286338123, n3286339663, n3286339761, n3286339762, n3286340240, n3286341033, n3286341034, n3286341061]
-# name:be: []
-msgid "Подземный переход"
 msgstr ""
 
 # Objects : [n2599793551]
@@ -10183,6 +10173,11 @@ msgstr ""
 msgid "Строительство гостиницы «Кемпински»"
 msgstr ""
 
+# Objects : [w326260651]
+# name:be: []
+msgid "Строительство Детского Сада"
+msgstr ""
+
 # Objects : [w128794470, w230091083]
 # name:be: []
 msgid "Строительство детской поликлиники"
@@ -10413,6 +10408,11 @@ msgstr ""
 msgid "СЦ "Орифлейм""
 msgstr ""
 
+# Objects : [n3332483007]
+# name:be: []
+msgid "Сцена"
+msgstr ""
+
 # Objects : [n2621317085]
 # name:be: []
 msgid "СШ №118"
@@ -10626,6 +10626,11 @@ msgstr ""
 # Objects : [n305678154]
 # name:be: []
 msgid "Тимур"
+msgstr ""
+
+# Objects : [n3332483005]
+# name:be: []
+msgid "Тир"
 msgstr ""
 
 # Objects : [n3207848366]
@@ -11701,11 +11706,6 @@ msgstr ""
 # Objects : [n2788686799]
 # name:be: [Царква Святых апосталаў Пятра й Паўла]
 msgid "Церковь Святых Апостолов Петра и Павла"
-msgstr ""
-
-# Objects : [n2859655268]
-# name:be: []
-msgid "Цифровой Фото Экспресс"
 msgstr ""
 
 # Objects : [r2096824]

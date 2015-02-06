@@ -1,20 +1,20 @@
 # Objects : [n306067110]
-# name:be: [АТМ Белінвестбанк]
-msgid "Белинвестбанк -"
-msgstr ""
-
-# Objects : [n306064836]
-# name:be: [АТМ БПББ]
-msgid "БПС-Сбербанк"
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n1676766310]
 # name:be: []
-msgid "Отделение "Белросбанк""
+msgid "Белросбанк"
+msgstr ""
+
+# Objects : [n306064836]
+# name:be: [БПС-Збербанк]
+msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n306067129]
-# name:be: [АТМ Прыёрбанк]
-msgid "Приорбанк+атм"
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
 msgstr ""
 

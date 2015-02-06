@@ -848,11 +848,6 @@ msgstr ""
 msgid "Холмы"
 msgstr ""
 
-# Objects : [n243046787, w25082256]
-# name:be: [Хутар]
-msgid "Хутор"
-msgstr ""
-
 # Objects : [n243046407, w25081260]
 # name:be: [Хутаранка]
 msgid "Хуторянка"

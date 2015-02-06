@@ -518,6 +518,11 @@ msgstr ""
 msgid "улица Ковалёва"
 msgstr ""
 
+# Objects : [w128027893]
+# name:be: []
+msgid "улица Козлова"
+msgstr ""
+
 # Objects : [w230239024]
 # name:be: []
 msgid "улица Космонавтов"

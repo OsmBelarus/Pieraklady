@@ -68,11 +68,6 @@ msgstr ""
 msgid "Детская музыкальная школа № 2"
 msgstr ""
 
-# Objects : [n625644584]
-# name:be: []
-msgid "Детская школа искусств №3"
-msgstr ""
-
 # Objects : [n2433476454]
 # name:be: []
 msgid "Ирининская гимназия"
@@ -183,11 +178,6 @@ msgstr ""
 msgid "СШ №12"
 msgstr ""
 
-# Objects : [n621359321]
-# name:be: []
-msgid "СШ № 19 с художественным уклоном"
-msgstr ""
-
 # Objects : [n621359326]
 # name:be: [СШ № 21]
 msgid "СШ № 21"
@@ -223,11 +213,6 @@ msgstr ""
 msgid "СШ№ 30"
 msgstr ""
 
-# Objects : [n2195497440]
-# name:be: []
-msgid "СШ № 33"
-msgstr ""
-
 # Objects : [n600743940]
 # name:be: []
 msgid "СШ № 38"
@@ -251,11 +236,6 @@ msgstr ""
 # Objects : [n479784445]
 # name:be: []
 msgid "СШ№ 45"
-msgstr ""
-
-# Objects : [n625644398]
-# name:be: []
-msgid "СШ №47"
 msgstr ""
 
 # Objects : [n3229286100]

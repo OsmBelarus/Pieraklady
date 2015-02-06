@@ -1,8 +1,3 @@
-# Objects : [w325126538]
-# name:be: []
-msgid "111"
-msgstr ""
-
 # Objects : [n306065855, n412851758]
 # name:be: [Балбасава]
 msgid "Балбасово"
@@ -98,7 +93,7 @@ msgstr ""
 msgid "Могила Томаша Зана"
 msgstr ""
 
-# Objects : [n27225493]
+# Objects : [n27225493, n3327244467, n3327244468]
 # name:be: [Мажэеўка]
 msgid "Можеевка"
 msgstr ""
@@ -173,7 +168,7 @@ msgstr ""
 msgid "Смольяны"
 msgstr ""
 
-# Objects : [n27225441]
+# Objects : [n27225441, n3327244469, n3327244470]
 # name:be: [Стайкі]
 msgid "Стайки"
 msgstr ""
@@ -261,5 +256,10 @@ msgstr ""
 # Objects : [w203013721]
 # name:be: []
 msgid "Юбилейный"
+msgstr ""
+
+# Objects : [n3327244471, n3327244472]
+# name:be: [Юрцава]
+msgid "Юрцево"
 msgstr ""
 

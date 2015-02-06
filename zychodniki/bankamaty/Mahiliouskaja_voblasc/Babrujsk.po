@@ -1,45 +1,40 @@
+# Objects : [n3033943833, n3034299741]
+# name:be: [ВТБ]
+msgid "Банк ВТБ"
+msgstr ""
+
+# Objects : [n306066927]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
 # Objects : [n306066850]
 # name:be: []
 msgid "Белагропромбанк, Обменник"
 msgstr ""
 
-# Objects : [n306066927]
-# name:be: []
-msgid "Белагропромбанк, РКЦ"
-msgstr ""
-
 # Objects : [n3229477200, n3229477203]
-# name:be: []
+# name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n2388037030, n3034241041]
-# name:be: []
-msgid "Белвнешэкономбанк"
+# name:be: [БелЗЭБ]
+msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n3034023033, n306065091, n3228003045, n3230551897, n3230551898]
-# name:be: []
+# name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n1852253858]
-# name:be: []
-msgid "БПС-сбербанк"
-msgstr ""
-
-# Objects : [n3034299741]
-# name:be: []
-msgid "ВТБ"
-msgstr ""
-
-# Objects : [n3033943833]
-# name:be: []
-msgid "ВТБ банк"
+# name:be: [БПС-Збербанк]
+msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n3031981533, n3230551896]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

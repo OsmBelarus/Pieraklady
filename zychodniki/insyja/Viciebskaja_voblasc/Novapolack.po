@@ -123,6 +123,16 @@ msgstr ""
 msgid "Гела-Вет"
 msgstr ""
 
+# Objects : [w326571943]
+# name:be: []
+msgid "ГК "Олимпиец""
+msgstr ""
+
+# Objects : [w326571944]
+# name:be: []
+msgid "ГК "Орбмита""
+msgstr ""
+
 # Objects : [n1430557271]
 # name:be: [Гаргаз]
 msgid "Горгаз"
@@ -166,6 +176,11 @@ msgstr ""
 # Objects : [w41104340]
 # name:be: []
 msgid "Дворец Культуры Нефтяников"
+msgstr ""
+
+# Objects : [w326284887, w326284888]
+# name:be: []
+msgid "детская игровая площадка"
 msgstr ""
 
 # Objects : [n306064818]
@@ -281,6 +296,11 @@ msgstr ""
 # Objects : [n1680492810]
 # name:be: [Пакой школьніка]
 msgid "Комната школьника"
+msgstr ""
+
+# Objects : [w220941819]
+# name:be: []
+msgid "Котельная и мазутонасосная"
 msgstr ""
 
 # Objects : [n2337220478]

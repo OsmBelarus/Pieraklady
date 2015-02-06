@@ -1,5 +1,10 @@
+# Objects : [n3282647370]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
+msgstr ""
+
 # Objects : [n3224903811]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
@@ -9,27 +14,22 @@ msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n3194797854]
-# name:be: []
-msgid "Белвнешэкономбанк"
+# name:be: [БелВЭБ]
+msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n3194602408]
-# name:be: []
+# name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n3195423689]
-# name:be: []
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
-# Objects : [n3282647370]
-# name:be: []
-msgid "Москва-Минск"
-msgstr ""
-
 # Objects : [n3195278900]
-# name:be: []
-msgid "приорбанк"
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
 msgstr ""
 

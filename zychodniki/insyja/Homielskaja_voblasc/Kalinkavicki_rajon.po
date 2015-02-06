@@ -98,6 +98,16 @@ msgstr ""
 msgid "Дружба-Авцюки"
 msgstr ""
 
+# Objects : [w326189212]
+# name:be: []
+msgid "Дудичская средняя школа"
+msgstr ""
+
+# Objects : [w326729952]
+# name:be: []
+msgid "Западный обход (вариант проекта)"
+msgstr ""
+
 # Objects : [w306992556]
 # name:be: []
 msgid "Звероферма"
@@ -116,6 +126,11 @@ msgstr ""
 # Objects : [n674417813]
 # name:be: [Клінск]
 msgid "Клинск"
+msgstr ""
+
+# Objects : [w326676843]
+# name:be: []
+msgid "Комплекс по производству свинины «Домановичи» ОАО «Калинковичихлебопродукт»"
 msgstr ""
 
 # Objects : [w311401340]
@@ -261,11 +276,6 @@ msgstr ""
 # Objects : [w284774186, w284774187]
 # name:be: []
 msgid "УЖД Хойники"
-msgstr ""
-
-# Objects : [w321988327]
-# name:be: []
-msgid "ФАП"
 msgstr ""
 
 # Objects : [n2496653638]

@@ -53,6 +53,11 @@ msgstr ""
 msgid "Автозапчасти"
 msgstr ""
 
+# Objects : [n3010334668]
+# name:be: []
+msgid "Автомасла"
+msgstr ""
+
 # Objects : [n674424656]
 # name:be: []
 msgid "Автоплюс"
@@ -138,7 +143,7 @@ msgstr ""
 msgid "Дом Быта"
 msgstr ""
 
-# Objects : [n3259700370, n3259700371, n613399261]
+# Objects : [n3259700371, n613399261]
 # name:be: [Еўраопт]
 msgid "Евроопт"
 msgstr ""
@@ -343,7 +348,7 @@ msgstr ""
 msgid "Промтовары"
 msgstr ""
 
-# Objects : [n2760137639, n3260037092, n3260037095, n3260037110]
+# Objects : [n2760137639, n3260037092, n3260037095, n3260037110, n3332193394]
 # name:be: []
 msgid "Ритуальные услуги"
 msgstr ""

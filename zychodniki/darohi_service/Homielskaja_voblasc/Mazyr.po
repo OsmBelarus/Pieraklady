@@ -73,6 +73,11 @@ msgstr ""
 msgid "улица Гора коммунаров"
 msgstr ""
 
+# Objects : [w242258523, w314826618, w315148003, w53310252, w53310679]
+# name:be: [вуліца Заслонава]
+msgid "улица Заслонова"
+msgstr ""
+
 # Objects : [w114545072]
 # name:be: [вуліца Калініна]
 msgid "улица Калинина"
@@ -116,6 +121,11 @@ msgstr ""
 # Objects : [w269914070]
 # name:be: []
 msgid "улица Цветочная"
+msgstr ""
+
+# Objects : [w53310847]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
 msgstr ""
 
 # Objects : [w53310673]

@@ -1,26 +1,21 @@
-# Objects : [n2164944745]
-# name:be: []
-msgid "Агропромбанк"
-msgstr ""
-
-# Objects : [n1501492724, n2683930612]
-# name:be: [Беларусбанк]
-msgid "Беларусбанк"
-msgstr ""
-
-# Objects : [n1413728915]
-# name:be: []
-msgid "Беларусьбанк"
-msgstr ""
-
 # Objects : [n3217602450]
-# name:be: []
-msgid "ВТБ"
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
 msgstr ""
 
 # Objects : [n3217589261]
-# name:be: []
-msgid "Москва-Минск"
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
+msgstr ""
+
+# Objects : [n2164944745]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1413728915, n1501492724, n2683930612]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [w86762473]

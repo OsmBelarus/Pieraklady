@@ -1,5 +1,10 @@
 # Objects : [n1121996674]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n3328308063]
 # name:be: []
-msgid "ОАО "АСБ Беларусбанк""
+msgid "почта"
 msgstr ""
 

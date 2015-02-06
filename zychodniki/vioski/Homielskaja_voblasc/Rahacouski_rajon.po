@@ -288,7 +288,7 @@ msgstr ""
 msgid "Журавичи"
 msgstr ""
 
-# Objects : [n243041646, w25103117]
+# Objects : [n243041646, w25103117, w326102741]
 # name:be: [Забалацце]
 msgid "Заболотье"
 msgstr ""
@@ -328,7 +328,7 @@ msgstr ""
 msgid "Заозерье"
 msgstr ""
 
-# Objects : [n243041513, w25103059]
+# Objects : [n243041513, w326226652]
 # name:be: [Заполле]
 msgid "Заполье"
 msgstr ""
@@ -1013,7 +1013,7 @@ msgstr ""
 msgid "Широкое"
 msgstr ""
 
-# Objects : [n243035363, w25096969]
+# Objects : [n243035363, w326099943]
 # name:be: [Шчыбрын]
 msgid "Щибрин"
 msgstr ""

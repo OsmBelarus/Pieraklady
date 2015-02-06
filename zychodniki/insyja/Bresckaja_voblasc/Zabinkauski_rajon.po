@@ -58,6 +58,11 @@ msgstr ""
 msgid "Мельники"
 msgstr ""
 
+# Objects : [w326213277]
+# name:be: []
+msgid "мох"
+msgstr ""
+
 # Objects : [n275459531, n275459534]
 # name:be: []
 msgid "ПВДС Федьковичи"

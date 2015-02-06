@@ -1,10 +1,10 @@
 # Objects : [n663172999]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [n663172725]
-# name:be: []
-msgid "Беларусьбанк"
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 

@@ -278,9 +278,19 @@ msgstr ""
 msgid "Александровская улица"
 msgstr ""
 
+# Objects : [w48096314]
+# name:be: []
+msgid "Алексеевская"
+msgstr ""
+
 # Objects : [w36525225]
 # name:be: []
 msgid "Андреевская улица"
+msgstr ""
+
+# Objects : [w154159049, w36525219]
+# name:be: []
+msgid "Антоновская"
 msgstr ""
 
 # Objects : [w181564048, w81551237]
@@ -598,7 +608,7 @@ msgstr ""
 msgid "Дружная улица"
 msgstr ""
 
-# Objects : [w123301304, w83691164]
+# Objects : [w123301304, w188156179, w83691164]
 # name:be: []
 msgid "Дубовая"
 msgstr ""
@@ -1283,6 +1293,11 @@ msgstr ""
 msgid "Передовая улица"
 msgstr ""
 
+# Objects : [w301696501]
+# name:be: []
+msgid "переулок Антоновский"
+msgstr ""
+
 # Objects : [w28363125]
 # name:be: []
 msgid "переулок Гастелло"
@@ -1693,7 +1708,7 @@ msgstr ""
 msgid "Слободская улица"
 msgstr ""
 
-# Objects : [w150950738, w158421403, w188323375, w222371211, w232979383]
+# Objects : [w150950738, w188323375, w222371211, w232979383, w256568777, w326514273, w326514277, w326514278, w326514280, w326514282, w326514283]
 # name:be: []
 msgid "Служебно-Хозяйственный проезд"
 msgstr ""
@@ -1948,7 +1963,7 @@ msgstr ""
 msgid "улица Большая цветочная"
 msgstr ""
 
-# Objects : [w190028336]
+# Objects : [w190028336, w61418674]
 # name:be: [вуліца Вялікае Сціклева]
 msgid "улица Большое Стиклево"
 msgstr ""
@@ -2346,6 +2361,11 @@ msgstr ""
 # Objects : [w25232072]
 # name:be: [Ураджайная]
 msgid "Урожайная"
+msgstr ""
+
+# Objects : [w326389497]
+# name:be: []
+msgid "Учительская"
 msgstr ""
 
 # Objects : [w149918521]

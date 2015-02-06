@@ -203,11 +203,6 @@ msgstr ""
 msgid "Октябрьская улица"
 msgstr ""
 
-# Objects : [w32804162]
-# name:be: []
-msgid "пер. 8 Марта"
-msgstr ""
-
 # Objects : [w103256508]
 # name:be: [Першамайская вуліца]
 msgid "Первомайская улица"
@@ -216,6 +211,11 @@ msgstr ""
 # Objects : [w32799096]
 # name:be: [Першамайскі завулак]
 msgid "Первомайский переулок"
+msgstr ""
+
+# Objects : [w32804162]
+# name:be: [завулак 8 Сакавіка]
+msgid "переулок 8 Марта"
 msgstr ""
 
 # Objects : [w200735714]
@@ -238,6 +238,11 @@ msgstr ""
 msgid "Песковская улица"
 msgstr ""
 
+# Objects : [w159464977]
+# name:be: []
+msgid "Песковский проезд"
+msgstr ""
+
 # Objects : [w101939641]
 # name:be: []
 msgid "Песочная улица"
@@ -249,8 +254,8 @@ msgid "Плодовая улица"
 msgstr ""
 
 # Objects : [w315724672]
-# name:be: []
-msgid "Площадь Ленина"
+# name:be: [плошча Леніна]
+msgid "площадь Ленина"
 msgstr ""
 
 # Objects : [w101965699]

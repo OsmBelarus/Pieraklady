@@ -8,29 +8,14 @@ msgstr ""
 msgid "Базовая школа-сад"
 msgstr ""
 
-# Objects : [w256680729]
-# name:be: []
-msgid "Баня"
-msgstr ""
-
 # Objects : [n2788679934]
 # name:be: [Вінакурня]
 msgid "Винодельня"
 msgstr ""
 
-# Objects : [w256700001]
-# name:be: []
-msgid "Винокурня с башней конец 19в"
-msgstr ""
-
 # Objects : [w25193986]
 # name:be: []
 msgid "Вирвиха"
-msgstr ""
-
-# Objects : [w288322589]
-# name:be: []
-msgid "Ворота усадьбы"
 msgstr ""
 
 # Objects : [w25195412]
@@ -48,19 +33,9 @@ msgstr ""
 msgid "ГУО «Стреличевская средняя школа им. В.Н. Марченко»"
 msgstr ""
 
-# Objects : [w288322584]
-# name:be: []
-msgid "Дом эконома 19в"
-msgstr ""
-
 # Objects : [w260411937]
 # name:be: []
 msgid "ДЭУ 155"
-msgstr ""
-
-# Objects : [w256702042]
-# name:be: []
-msgid "Кантора совхоза"
 msgstr ""
 
 # Objects : [w258885180, w258885181]
@@ -78,14 +53,14 @@ msgstr ""
 msgid "Кладбище"
 msgstr ""
 
+# Objects : [w256702042]
+# name:be: []
+msgid "Контора совхоза"
+msgstr ""
+
 # Objects : [n2914619271]
 # name:be: []
 msgid "Курганный могильник"
-msgstr ""
-
-# Objects : [w288322586]
-# name:be: []
-msgid "Ледник"
 msgstr ""
 
 # Objects : [w25196105]
@@ -158,6 +133,11 @@ msgstr ""
 msgid "Слобожанская средняя школа"
 msgstr ""
 
+# Objects : [w256703032]
+# name:be: []
+msgid "Слобожанский детский сад"
+msgstr ""
+
 # Objects : [w256833211]
 # name:be: []
 msgid "Спиртзавод"
@@ -188,16 +168,6 @@ msgstr ""
 msgid "Усадебный дом Ваньковичей 1909г"
 msgstr ""
 
-# Objects : [w256700002]
-# name:be: []
-msgid "Усадебный дом Ястржембских 19в"
-msgstr ""
-
-# Objects : [w256700000]
-# name:be: []
-msgid "Усадьба Ястржембских"
-msgstr ""
-
 # Objects : [w256685196, w256826528, w256829722]
 # name:be: []
 msgid "ферма"
@@ -216,11 +186,6 @@ msgstr ""
 # Objects : [w256698711]
 # name:be: []
 msgid "Ферма и мехдвор"
-msgstr ""
-
-# Objects : [w288322587]
-# name:be: []
-msgid "Хоздвор"
 msgstr ""
 
 # Objects : [w288325610]

@@ -23,6 +23,11 @@ msgstr ""
 msgid "Вокзал"
 msgstr ""
 
+# Objects : [w206229415]
+# name:be: []
+msgid "Главный корпус № 3"
+msgstr ""
+
 # Objects : [w314462044]
 # name:be: []
 msgid "Дом"
@@ -46,6 +51,16 @@ msgstr ""
 # Objects : [w31018458]
 # name:be: []
 msgid "корп. 3"
+msgstr ""
+
+# Objects : [w206229504]
+# name:be: []
+msgid "Корпус № 1"
+msgstr ""
+
+# Objects : [w206229501]
+# name:be: []
+msgid "Корпус № 2"
 msgstr ""
 
 # Objects : [w314465517]
@@ -86,6 +101,11 @@ msgstr ""
 # Objects : [w314465515]
 # name:be: []
 msgid "Парник"
+msgstr ""
+
+# Objects : [w326447572]
+# name:be: []
+msgid "Проходная"
 msgstr ""
 
 # Objects : [w239436305]

@@ -288,6 +288,11 @@ msgstr ""
 msgid "улица Дружбы"
 msgstr ""
 
+# Objects : [w235576935]
+# name:be: []
+msgid "улица Зелёная"
+msgstr ""
+
 # Objects : [w205176401, w313827322]
 # name:be: []
 msgid "улица Мира"

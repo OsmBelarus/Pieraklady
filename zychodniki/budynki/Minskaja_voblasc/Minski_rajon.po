@@ -113,6 +113,11 @@ msgstr ""
 msgid "Makarov"
 msgstr ""
 
+# Objects : [w233434923]
+# name:be: []
+msgid "MonChalet"
+msgstr ""
+
 # Objects : [w259246377]
 # name:be: []
 msgid "Old Hospital"
@@ -478,7 +483,7 @@ msgstr ""
 msgid "Котельняя"
 msgstr ""
 
-# Objects : [w121940860, w163007989, w199571108, w208466346, w222371206, w226059113, w247586261, w256568780, w286582875, w37751902]
+# Objects : [w121940860, w199571108, w208466346, w222371206, w226059113, w247586261, w256568780, w286582875, w326514279, w326514281, w37751902]
 # name:be: [КПП]
 msgid "КПП"
 msgstr ""
@@ -903,26 +908,6 @@ msgstr ""
 msgid "Склад "5 Элемент""
 msgstr ""
 
-# Objects : [w171700900]
-# name:be: []
-msgid "Склад №10"
-msgstr ""
-
-# Objects : [w171700898]
-# name:be: []
-msgid "Склад №11"
-msgstr ""
-
-# Objects : [w286582869]
-# name:be: []
-msgid "Склад №6"
-msgstr ""
-
-# Objects : [w163007977]
-# name:be: []
-msgid "Склад №9"
-msgstr ""
-
 # Objects : [w131714397]
 # name:be: []
 msgid "СООО "БЛТ - Логистик""
@@ -943,7 +928,7 @@ msgstr ""
 msgid "Старая мельница"
 msgstr ""
 
-# Objects : [w153941040, w255616097, w258697654, w302752000]
+# Objects : [w153941040, w255616097, w258697654, w302752000, w326447186]
 # name:be: []
 msgid "СТО"
 msgstr ""
@@ -1116,6 +1101,11 @@ msgstr ""
 # Objects : [w35745484]
 # name:be: []
 msgid "Экспобел"
+msgstr ""
+
+# Objects : [w97859484]
+# name:be: []
+msgid "Электроподстанция"
 msgstr ""
 
 # Objects : [w222371213]

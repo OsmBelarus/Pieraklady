@@ -143,6 +143,11 @@ msgstr ""
 msgid "Тракторная улица"
 msgstr ""
 
+# Objects : [w326518999]
+# name:be: []
+msgid "ул. Горького"
+msgstr ""
+
 # Objects : [w37930827]
 # name:be: [вуліца Асланава]
 msgid "улица Асланова"

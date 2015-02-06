@@ -3,6 +3,16 @@
 msgid ""Лосвидо""
 msgstr ""
 
+# Objects : [n3328858466, n3328941524]
+# name:be: [19 км]
+msgid "19 км"
+msgstr ""
+
+# Objects : [n3328858467]
+# name:be: [25 км]
+msgid "25 км"
+msgstr ""
+
 # Objects : [n1928899037]
 # name:be: []
 msgid "Автомойка"
@@ -203,7 +213,7 @@ msgstr ""
 msgid "Задебря"
 msgstr ""
 
-# Objects : [n306066267]
+# Objects : [n306066267, n3328939459, n3328939460]
 # name:be: [Замасточча]
 msgid "Замосточье"
 msgstr ""
@@ -306,6 +316,11 @@ msgstr ""
 # Objects : [n27239792]
 # name:be: [Лужасна]
 msgid "Лужесно"
+msgstr ""
+
+# Objects : [n3328857933, n3328857934]
+# name:be: [Лычкоўскага]
+msgid "Лычковского"
 msgstr ""
 
 # Objects : [w174739695]
@@ -566,6 +581,11 @@ msgstr ""
 # Objects : [n3097301135]
 # name:be: [савецкім войнам]
 msgid "советским войнам"
+msgstr ""
+
+# Objects : [n3329956418, n3329956419]
+# name:be: [Сасноўка]
+msgid "Сосновка"
 msgstr ""
 
 # Objects : [w176829498]

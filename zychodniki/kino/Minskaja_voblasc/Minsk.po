@@ -8,6 +8,11 @@ msgstr ""
 msgid "3D Кинозал"
 msgstr ""
 
+# Objects : [n3332483006]
+# name:be: []
+msgid "4D"
+msgstr ""
+
 # Objects : [n3213463783, n3286591814]
 # name:be: []
 msgid "Silver Screen"

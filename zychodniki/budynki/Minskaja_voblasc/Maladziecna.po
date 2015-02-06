@@ -138,11 +138,6 @@ msgstr ""
 msgid "Дом культуры железнодорожников"
 msgstr ""
 
-# Objects : [w168581455]
-# name:be: []
-msgid "ДРСУ-49"
-msgstr ""
-
 # Objects : [w228934484]
 # name:be: []
 msgid "ДЮСШ №3"
@@ -153,7 +148,7 @@ msgstr ""
 msgid "Евроопт"
 msgstr ""
 
-# Objects : [w168279735]
+# Objects : [w326539398]
 # name:be: []
 msgid "Жилой корпус"
 msgstr ""
@@ -196,6 +191,11 @@ msgstr ""
 # Objects : [w105475824]
 # name:be: []
 msgid "Лагуна"
+msgstr ""
+
+# Objects : [w243286149]
+# name:be: []
+msgid "Магазин"
 msgstr ""
 
 # Objects : [w106734955]

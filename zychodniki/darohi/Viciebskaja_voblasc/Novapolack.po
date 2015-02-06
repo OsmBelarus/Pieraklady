@@ -1,6 +1,16 @@
+# Objects : [w326080622]
+# name:be: []
+msgid "Аллея Льва Новожилова"
+msgstr ""
+
 # Objects : [w41440022]
 # name:be: [Вялікая Вясёлкавая вуліца]
 msgid "Большая Радужная улица"
+msgstr ""
+
+# Objects : [w326571942]
+# name:be: []
+msgid "Вербная улица"
 msgstr ""
 
 # Objects : [w41439375]
@@ -88,6 +98,11 @@ msgstr ""
 msgid "Малая Радужная улица"
 msgstr ""
 
+# Objects : [w317056893]
+# name:be: []
+msgid "Межавая"
+msgstr ""
+
 # Objects : [w209781622, w25261093, w25261155, w253295866, w311607053, w40716284, w41491509, w41491510, w41491513, w41491514, w85656160, w85656176]
 # name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"
@@ -143,6 +158,11 @@ msgstr ""
 msgid "площадь Строителей"
 msgstr ""
 
+# Objects : [w272242898]
+# name:be: []
+msgid "Подворная улица"
+msgstr ""
+
 # Objects : [w293829852]
 # name:be: [Палявая вуліца]
 msgid "Полевая улица"
@@ -173,6 +193,11 @@ msgstr ""
 msgid "Рижский переулок"
 msgstr ""
 
+# Objects : [w326571953]
+# name:be: []
+msgid "Славяская улица"
+msgstr ""
+
 # Objects : [w25261080]
 # name:be: [Слабадская вуліца]
 msgid "Слободская улица"
@@ -191,6 +216,11 @@ msgstr ""
 # Objects : [w209670285]
 # name:be: [Тэхнічная вуліца]
 msgid "Техническая улица"
+msgstr ""
+
+# Objects : [w326571957]
+# name:be: []
+msgid "Тихая"
 msgstr ""
 
 # Objects : [w293854948, w32554523]
@@ -368,9 +398,19 @@ msgstr ""
 msgid "улица Янки Купалы"
 msgstr ""
 
+# Objects : [w326571958]
+# name:be: []
+msgid "Хуторская"
+msgstr ""
+
 # Objects : [w32554503]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w272242897]
+# name:be: []
+msgid "Экиманская"
 msgstr ""
 
 # Objects : [w30303008]

@@ -33,6 +33,11 @@ msgstr ""
 msgid "Привокзальная улица"
 msgstr ""
 
+# Objects : [w179742700]
+# name:be: [вуліца Гогаля]
+msgid "улица Гоголя"
+msgstr ""
+
 # Objects : [w28254503]
 # name:be: [вуліца Ільінскага]
 msgid "улица Ильинского"

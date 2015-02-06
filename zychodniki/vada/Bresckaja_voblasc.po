@@ -288,7 +288,7 @@ msgstr ""
 msgid "Кривуля"
 msgstr ""
 
-# Objects : [w25168774, w25170013]
+# Objects : [w25168774, w25170013, w326242323]
 # name:be: []
 msgid "Лань"
 msgstr ""
@@ -756,6 +756,11 @@ msgstr ""
 # Objects : [w25170608, w25170609]
 # name:be: []
 msgid "Сырец"
+msgstr ""
+
+# Objects : [w326135786]
+# name:be: [Танцы беларускія]
+msgid "Танцы белорусские"
 msgstr ""
 
 # Objects : [w151632289]

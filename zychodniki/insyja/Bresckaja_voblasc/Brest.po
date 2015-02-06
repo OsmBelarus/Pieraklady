@@ -43,6 +43,11 @@ msgstr ""
 msgid "BKF CarWash"
 msgstr ""
 
+# Objects : [n3326725413]
+# name:be: []
+msgid "Brest Railway Museum"
+msgstr ""
+
 # Objects : [n1701035490]
 # name:be: []
 msgid "City Club"
@@ -196,6 +201,11 @@ msgstr ""
 # Objects : [w320400047]
 # name:be: []
 msgid "Артиллерия"
+msgstr ""
+
+# Objects : [n3327514801]
+# name:be: []
+msgid "АТС"
 msgstr ""
 
 # Objects : [n306061991]
@@ -463,6 +473,11 @@ msgstr ""
 msgid "Брестский областной родильный дом"
 msgstr ""
 
+# Objects : [n3327551252]
+# name:be: []
+msgid "Брестский областной центр здоровья"
+msgstr ""
+
 # Objects : [n3305069599]
 # name:be: []
 msgid "Брестский районный совет депутатов"
@@ -653,7 +668,7 @@ msgstr ""
 msgid "Волынское укрепление"
 msgstr ""
 
-# Objects : [w308362941]
+# Objects : [w308362941, w60807409]
 # name:be: []
 msgid "Воскресная школа"
 msgstr ""
@@ -983,6 +998,11 @@ msgstr ""
 msgid "Застройка в «Закопанским» стиле"
 msgstr ""
 
+# Objects : [n3327487175]
+# name:be: []
+msgid "Захоронения немецкой 45 пехотной дивизии"
+msgstr ""
+
 # Objects : [w308362107]
 # name:be: []
 msgid "ЗВН"
@@ -1031,11 +1051,6 @@ msgstr ""
 # Objects : [n306062450]
 # name:be: []
 msgid "Интенданский Городок"
-msgstr ""
-
-# Objects : [n306063177]
-# name:be: [Інтурыст]
-msgid "Интурист"
 msgstr ""
 
 # Objects : [n1201052412]
@@ -1208,11 +1223,6 @@ msgstr ""
 msgid "Компания Супертехно"
 msgstr ""
 
-# Objects : [n2766736764]
-# name:be: []
-msgid "Комплекс Интурист"
-msgstr ""
-
 # Objects : [n3294787793]
 # name:be: []
 msgid "Конференц-зал"
@@ -1336,6 +1346,11 @@ msgstr ""
 # Objects : [n306064097]
 # name:be: []
 msgid "Магеллан"
+msgstr ""
+
+# Objects : [n3326027961]
+# name:be: []
+msgid "Максвел-клуб"
 msgstr ""
 
 # Objects : [w60638217]

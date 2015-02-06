@@ -28,14 +28,9 @@ msgstr ""
 msgid "Городской парк"
 msgstr ""
 
-# Objects : [n2766736566]
+# Objects : [w257745573]
 # name:be: []
 msgid "Гостиница Дружба"
-msgstr ""
-
-# Objects : [n1237242412]
-# name:be: [Дзіцячая паліклініка]
-msgid "Детская поликлиника"
 msgstr ""
 
 # Objects : [w246992461]
@@ -133,6 +128,16 @@ msgstr ""
 msgid "Родны кут"
 msgstr ""
 
+# Objects : [w257745565]
+# name:be: []
+msgid "СОШ №1"
+msgstr ""
+
+# Objects : [w297732284]
+# name:be: []
+msgid "СОШ №3"
+msgstr ""
+
 # Objects : [w61751413]
 # name:be: []
 msgid "Торговые ряды "Магистраль""
@@ -156,11 +161,6 @@ msgstr ""
 # Objects : [w287280951]
 # name:be: []
 msgid "Школа №2"
-msgstr ""
-
-# Objects : [w297732284]
-# name:be: []
-msgid "№ 3"
 msgstr ""
 
 # Objects : [w262659542, w263199270]

@@ -413,7 +413,7 @@ msgstr ""
 msgid "улица К.Маркса"
 msgstr ""
 
-# Objects : [w255903331, w287821322, w289875518, w84593368, w84723264]
+# Objects : [w255903331, w287821322, w289875518, w84593368]
 # name:be: [вуліца Кірава]
 msgid "улица Кирова"
 msgstr ""
@@ -456,6 +456,11 @@ msgstr ""
 # Objects : [w253448052]
 # name:be: []
 msgid "улица Победы"
+msgstr ""
+
+# Objects : [w325215800]
+# name:be: []
+msgid "улица Почтовая"
 msgstr ""
 
 # Objects : [w263647504, w264269159]

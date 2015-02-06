@@ -453,6 +453,11 @@ msgstr ""
 msgid "Белшина склад"
 msgstr ""
 
+# Objects : [n3332355316]
+# name:be: []
+msgid "Белые дома"
+msgstr ""
+
 # Objects : [n1250437634]
 # name:be: [Белэксімгарант]
 msgid "Белэксимгарант"
@@ -483,9 +488,34 @@ msgstr ""
 msgid "Бизнес- центр «Капитал»"
 msgstr ""
 
+# Objects : [n2369004261]
+# name:be: [Білева]
+msgid "Билево"
+msgstr ""
+
+# Objects : [n3330403297]
+# name:be: []
+msgid "Билево-1"
+msgstr ""
+
+# Objects : [n3330402886]
+# name:be: []
+msgid "Билево-2"
+msgstr ""
+
+# Objects : [n1428261988]
+# name:be: [Білева-3]
+msgid "Билево-3"
+msgstr ""
+
 # Objects : [n1590396231]
 # name:be: []
 msgid "Бильярдный бар"
+msgstr ""
+
+# Objects : [n3330382052]
+# name:be: []
+msgid "Бителёво"
 msgstr ""
 
 # Objects : [n3017906083]
@@ -586,6 +616,16 @@ msgstr ""
 # Objects : [w174745596]
 # name:be: []
 msgid "Вагонное депо"
+msgstr ""
+
+# Objects : [n3330463027]
+# name:be: []
+msgid "Васьковичи"
+msgstr ""
+
+# Objects : [n3330403379]
+# name:be: []
+msgid "Васюты"
 msgstr ""
 
 # Objects : [n3207755554]
@@ -831,6 +871,11 @@ msgstr ""
 # Objects : [w27896678]
 # name:be: [Выхаваўчая калонія №1]
 msgid "Воспитательная колония №1"
+msgstr ""
+
+# Objects : [n2078995790]
+# name:be: [Усход]
+msgid "Восток"
 msgstr ""
 
 # Objects : [n2759314039, w27896576]
@@ -1398,8 +1443,8 @@ msgstr ""
 msgid "ЖРЭТ ЖЭУ №25"
 msgstr ""
 
-# Objects : [n2082794356, n922574383]
-# name:be: []
+# Objects : [n1015608199, n2082794356, n922574383]
+# name:be: [Журжава]
 msgid "Журжево"
 msgstr ""
 
@@ -1536,6 +1581,11 @@ msgstr ""
 # Objects : [n960602282]
 # name:be: [Зялёны Гарадок]
 msgid "Зелёный Городок"
+msgstr ""
+
+# Objects : [n3330544727]
+# name:be: []
+msgid "Золотая гора"
 msgstr ""
 
 # Objects : [n2869850411]
@@ -1713,14 +1763,19 @@ msgstr ""
 msgid "Каб. охраны труда"
 msgstr ""
 
-# Objects : [n243035493, w25090446]
-# name:be: [Казіміраўка, Казіміроўка]
+# Objects : [n243035493]
+# name:be: [Казіміроўка]
 msgid "Казимировка"
 msgstr ""
 
 # Objects : [n2473321847]
 # name:be: []
 msgid "казненным нацистами подпольщикам"
+msgstr ""
+
+# Objects : [n3332348359]
+# name:be: []
+msgid "Камчатка"
 msgstr ""
 
 # Objects : [w190381503]
@@ -1948,7 +2003,7 @@ msgstr ""
 msgid "Лицей № 5 приборостроения"
 msgstr ""
 
-# Objects : [w28256237]
+# Objects : [n960602249, w28256237]
 # name:be: [Лучоса]
 msgid "Лучёса"
 msgstr ""
@@ -2028,7 +2083,7 @@ msgstr ""
 msgid "Медсанчасть ОАО «Витязь»"
 msgstr ""
 
-# Objects : [n2934883163, n2934883164]
+# Objects : [n2934883163, n2934883164, n3330415130]
 # name:be: [Медцэнтр]
 msgid "Медцентр"
 msgstr ""
@@ -2083,129 +2138,9 @@ msgstr ""
 msgid "Меховой комбинат"
 msgstr ""
 
-# Objects : [n2369004261, w228257069]
-# name:be: [мікрараён Білева]
-msgid "микрорайон Билево"
-msgstr ""
-
-# Objects : [r4110006]
-# name:be: [мікрараён Білева-1]
-msgid "микрорайон Билево-1"
-msgstr ""
-
-# Objects : [r4136757]
-# name:be: [мікрараён Білева-2]
-msgid "микрорайон Билево-2"
-msgstr ""
-
-# Objects : [n1428261988]
-# name:be: [мікрараён Білева-3]
-msgid "микрорайон Билево-3"
-msgstr ""
-
-# Objects : [w25090507]
-# name:be: [мікрараён Біцялёва]
-msgid "микрорайон Бителёво"
-msgstr ""
-
-# Objects : [w25090474]
-# name:be: [мікрараён Васькавічы]
-msgid "микрорайон Васьковичи"
-msgstr ""
-
-# Objects : [w25088171]
-# name:be: [мікрараён Васюты]
-msgid "микрорайон Васюты"
-msgstr ""
-
-# Objects : [n2078995790]
-# name:be: [мікрараён Усход]
-msgid "микрорайон Восток"
-msgstr ""
-
-# Objects : [n1015608199]
-# name:be: [мікрараён Журжава]
-msgid "микрорайон Журжево"
-msgstr ""
-
-# Objects : [n960602249]
-# name:be: [мікрараён Лучоса]
-msgid "микрорайон Лучёса"
-msgstr ""
-
-# Objects : [w227038172]
-# name:be: [мікрараён Медцэнтр]
-msgid "микрорайон Медцентр"
-msgstr ""
-
-# Objects : [n960602291]
-# name:be: [мікрараён Мішкава]
-msgid "микрорайон Мишково"
-msgstr ""
-
-# Objects : [n243035603, w25090541]
-# name:be: [мікрараён Арэхава]
-msgid "микрорайон Орехово"
-msgstr ""
-
-# Objects : [n1003880224]
-# name:be: [мікрараён Себяхі]
-msgid "микрорайон Себяхи"
-msgstr ""
-
-# Objects : [n960602261]
-# name:be: [мікрараён Тарны]
-msgid "микрорайон Тарный"
-msgstr ""
-
-# Objects : [n959123350]
-# name:be: [мікрараён Ціраспаль]
-msgid "микрорайон Тирасполь"
-msgstr ""
-
-# Objects : [w307758864]
-# name:be: [мікрараён Тулава-1]
-msgid "микрорайон Тулово-1"
-msgstr ""
-
-# Objects : [n960602256]
-# name:be: [мікрараён Уланавічы]
-msgid "микрорайон Улановичи"
-msgstr ""
-
-# Objects : [n3048025580]
-# name:be: [мікрараён Фрунзэ]
-msgid "микрорайон Фрунзе"
-msgstr ""
-
 # Objects : [n2932271056, n2932271057]
 # name:be: []
 msgid "Микрорайон Фрунзе"
-msgstr ""
-
-# Objects : [w25088167]
-# name:be: [мікрараён Шпілі]
-msgid "микрорайон Шпили"
-msgstr ""
-
-# Objects : [w227028876]
-# name:be: [мікрараён Поўдзень-1]
-msgid "микрорайон Юг-1"
-msgstr ""
-
-# Objects : [w227030212]
-# name:be: [мікрараён Поўдзень-2]
-msgid "микрорайон Юг-2"
-msgstr ""
-
-# Objects : [w226938137]
-# name:be: [мікрараён Поўдзень-3]
-msgid "микрорайон Юг-3"
-msgstr ""
-
-# Objects : [w226938138]
-# name:be: [мікрараён Поўдзень-4]
-msgid "микрорайон Юг-4"
 msgstr ""
 
 # Objects : [w287416903, w287416906]
@@ -2213,29 +2148,14 @@ msgstr ""
 msgid "Микрорайон Юг-4"
 msgstr ""
 
-# Objects : [w227034574]
-# name:be: [мікрараён Поўдзень-5]
-msgid "микрорайон Юг-5"
-msgstr ""
-
-# Objects : [w227030211]
-# name:be: [мікрараён Поўдзень-6]
-msgid "микрорайон Юг-6"
-msgstr ""
-
-# Objects : [w293368131]
-# name:be: [мікрараён Поўдзень-7]
-msgid "микрорайон Юг-7"
-msgstr ""
-
-# Objects : [w227039931]
-# name:be: [мікрараён Поўдзень-7А]
-msgid "микрорайон Юг-7А"
-msgstr ""
-
 # Objects : [n453661607]
 # name:be: [Міліцыянерам]
 msgid "Милиционерам"
+msgstr ""
+
+# Objects : [n960602291]
+# name:be: [Мішкава]
+msgid "Мишково"
 msgstr ""
 
 # Objects : [w60023817]
@@ -2256,6 +2176,11 @@ msgstr ""
 # Objects : [n2788682792]
 # name:be: [Малельня стараверская]
 msgid "Молельный дом староверов"
+msgstr ""
+
+# Objects : [n3332357391]
+# name:be: []
+msgid "Москали"
 msgstr ""
 
 # Objects : [n2933873938, n2933873939, w124807141, w287412070]
@@ -2813,6 +2738,11 @@ msgstr ""
 msgid "Оптовая база"
 msgstr ""
 
+# Objects : [n3330382526]
+# name:be: []
+msgid "Орехово"
+msgstr ""
+
 # Objects : [w178152043]
 # name:be: [Арэхаўскiя могiлкi]
 msgid "Ореховское кладбище"
@@ -2876,6 +2806,11 @@ msgstr ""
 # Objects : [w236780267]
 # name:be: []
 msgid "очистные сооружения"
+msgstr ""
+
+# Objects : [n3332343154]
+# name:be: []
+msgid "Павловичи"
 msgstr ""
 
 # Objects : [w243370947]
@@ -3558,6 +3493,11 @@ msgstr ""
 msgid "Свято-Георгиевский источник"
 msgstr ""
 
+# Objects : [n1003880224]
+# name:be: [Себяхі]
+msgid "Себяхи"
+msgstr ""
+
 # Objects : [n243043821]
 # name:be: [Селівоўшчына]
 msgid "Селивовщина"
@@ -3863,6 +3803,11 @@ msgstr ""
 msgid "Суд Первомайского района"
 msgstr ""
 
+# Objects : [n3332335716]
+# name:be: []
+msgid "Суйково"
+msgstr ""
+
 # Objects : [w303941979]
 # name:be: [сцэна]
 msgid "сцена"
@@ -3896,6 +3841,11 @@ msgstr ""
 # Objects : [n2358092678]
 # name:be: []
 msgid "Танкетка"
+msgstr ""
+
+# Objects : [n960602261]
+# name:be: [Тарны]
+msgid "Тарный"
 msgstr ""
 
 # Objects : [n2141443269, n2141443270]
@@ -3951,6 +3901,11 @@ msgstr ""
 # Objects : [w27901845]
 # name:be: [Навукова-тэхналагiчны парк ВДТУ]
 msgid "Технопарк ВГТУ"
+msgstr ""
+
+# Objects : [n959123350]
+# name:be: [Ціраспаль]
+msgid "Тирасполь"
 msgstr ""
 
 # Objects : [n1772463759, n1772463761]
@@ -4123,9 +4078,9 @@ msgstr ""
 msgid "Труба"
 msgstr ""
 
-# Objects : [n2505732884]
-# name:be: [Тулава-2]
-msgid "Тулово-2"
+# Objects : [n3330392541]
+# name:be: []
+msgid "Тулово-1"
 msgstr ""
 
 # Objects : [n310294587, n310294592, n3187338845, n332389217]
@@ -4166,6 +4121,11 @@ msgstr ""
 # Objects : [n2358057020]
 # name:be: []
 msgid "Тюльпан"
+msgstr ""
+
+# Objects : [n960602256]
+# name:be: [Уланавічы]
+msgid "Улановичи"
 msgstr ""
 
 # Objects : [w239984177]
@@ -4463,6 +4423,11 @@ msgstr ""
 msgid "Фрукты"
 msgstr ""
 
+# Objects : [n3048025580]
+# name:be: [Фрунзэ]
+msgid "Фрунзе"
+msgstr ""
+
 # Objects : [r1662601]
 # name:be: []
 msgid "ХГФ"
@@ -4668,6 +4633,11 @@ msgstr ""
 msgid "Элект"
 msgstr ""
 
+# Objects : [n3328886803, w27902865]
+# name:be: []
+msgid "Электроволна"
+msgstr ""
+
 # Objects : [n1343793401]
 # name:be: [Электронсэрвіс]
 msgid "Электронсервис"
@@ -4693,19 +4663,44 @@ msgstr ""
 msgid "Юбилейный мост"
 msgstr ""
 
-# Objects : [n2933873960, n2933873961]
+# Objects : [n3330389679]
+# name:be: []
+msgid "Юг-1"
+msgstr ""
+
+# Objects : [n3330387663]
+# name:be: []
+msgid "Юг-2"
+msgstr ""
+
+# Objects : [n3330395819]
+# name:be: []
+msgid "Юг-3"
+msgstr ""
+
+# Objects : [n2933873960, n2933873961, n3330396214]
 # name:be: [Поўдзень-4]
 msgid "Юг-4"
 msgstr ""
 
-# Objects : [n2933873962, n2933873963]
+# Objects : [n2933873962, n2933873963, n3330379283]
 # name:be: [Поўдзень-5]
 msgid "Юг-5"
 msgstr ""
 
-# Objects : [n2933873965, n2933873966]
+# Objects : [n2933873965, n2933873966, n3330387657]
 # name:be: [Поўдзень-6]
 msgid "Юг-6"
+msgstr ""
+
+# Objects : [n3330385515]
+# name:be: []
+msgid "Юг-7"
+msgstr ""
+
+# Objects : [n3330379271]
+# name:be: []
+msgid "Юг-7А"
 msgstr ""
 
 # Objects : [w249385985]

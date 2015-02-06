@@ -3,87 +3,22 @@
 msgid "1"
 msgstr ""
 
-# Objects : [w312884087]
-# name:be: []
-msgid "11"
-msgstr ""
-
-# Objects : [w292116402]
-# name:be: []
-msgid "12"
-msgstr ""
-
-# Objects : [w292116339]
-# name:be: []
-msgid "13"
-msgstr ""
-
-# Objects : [w308696388, w312884088]
-# name:be: []
-msgid "14"
-msgstr ""
-
-# Objects : [w292116385]
-# name:be: []
-msgid "15"
-msgstr ""
-
-# Objects : [w276370111, w312884089]
-# name:be: []
-msgid "16"
-msgstr ""
-
-# Objects : [w276369152, w292116365, w292646699]
-# name:be: []
-msgid "17"
-msgstr ""
-
-# Objects : [w292116378]
-# name:be: []
-msgid "19"
-msgstr ""
-
-# Objects : [w277979694, w314677812]
+# Objects : [w277979694]
 # name:be: []
 msgid "2"
 msgstr ""
 
-# Objects : [w312185569]
-# name:be: []
-msgid "21 кв.1"
-msgstr ""
-
-# Objects : [w312185572]
-# name:be: []
-msgid "21 кв.2"
-msgstr ""
-
-# Objects : [w273123072, w311387532]
+# Objects : [w273123072]
 # name:be: []
 msgid "3"
 msgstr ""
 
-# Objects : [w292116376]
-# name:be: []
-msgid "4"
-msgstr ""
-
-# Objects : [w292116395]
-# name:be: []
-msgid "45"
-msgstr ""
-
-# Objects : [w277979685, w292116410]
+# Objects : [w277979685]
 # name:be: []
 msgid "5"
 msgstr ""
 
-# Objects : [w292116386, w314677813]
-# name:be: []
-msgid "6"
-msgstr ""
-
-# Objects : [w24946751, w277979696, w292116356]
+# Objects : [w24946751, w277979696]
 # name:be: []
 msgid "7"
 msgstr ""
@@ -176,6 +111,11 @@ msgstr ""
 # Objects : [n1365412417, n306068283]
 # name:be: [Гомель]
 msgid "Гомель"
+msgstr ""
+
+# Objects : [w286548054]
+# name:be: []
+msgid "Грибной цех"
 msgstr ""
 
 # Objects : [w25190214]
@@ -288,11 +228,6 @@ msgstr ""
 msgid "Коренёвка"
 msgstr ""
 
-# Objects : [w276674993]
-# name:be: []
-msgid "Котельная"
-msgstr ""
-
 # Objects : [w99591184]
 # name:be: []
 msgid "Котельная н.п.Прибор"
@@ -341,6 +276,21 @@ msgstr ""
 # Objects : [n306068027]
 # name:be: [Лісічкі]
 msgid "Лисички"
+msgstr ""
+
+# Objects : [w249530492]
+# name:be: []
+msgid "Лопатинская средняя школа"
+msgstr ""
+
+# Objects : [w249530493]
+# name:be: []
+msgid "Лопатинский детский сад"
+msgstr ""
+
+# Objects : [n3331454611]
+# name:be: []
+msgid "Лопатинский фельдшерско-акушерский пункт"
 msgstr ""
 
 # Objects : [w103401797]
@@ -403,6 +353,11 @@ msgstr ""
 msgid "Отчестные"
 msgstr ""
 
+# Objects : [w326332386]
+# name:be: []
+msgid "Очистные сооружения КПУП "ГомельВодоканал""
+msgstr ""
+
 # Objects : [n1704126394]
 # name:be: []
 msgid "Памятник"
@@ -416,6 +371,11 @@ msgstr ""
 # Objects : [w220260975]
 # name:be: []
 msgid "Пилорама"
+msgstr ""
+
+# Objects : [w25195847, w326332393]
+# name:be: []
+msgid "Полигон отходов"
 msgstr ""
 
 # Objects : [w240941256]
@@ -483,11 +443,6 @@ msgstr ""
 msgid "санаторий "Живица""
 msgstr ""
 
-# Objects : [w274104426]
-# name:be: []
-msgid "Санаторий Живица"
-msgstr ""
-
 # Objects : [n2766722508]
 # name:be: []
 msgid "Санаторий Золотые пески"
@@ -548,6 +503,11 @@ msgstr ""
 msgid "СОТ Скиток-4"
 msgstr ""
 
+# Objects : [w326491626]
+# name:be: []
+msgid "СПК Колхоз Лопатинское"
+msgstr ""
+
 # Objects : [n1705497716]
 # name:be: []
 msgid "Спортивная секция"
@@ -598,19 +558,19 @@ msgstr ""
 msgid "Уть"
 msgstr ""
 
-# Objects : [w312186550]
-# name:be: []
-msgid "уч. №105"
-msgstr ""
-
-# Objects : [w312186583]
-# name:be: []
-msgid "уч. №115"
-msgstr ""
-
 # Objects : [w183866178, w262494077]
 # name:be: []
 msgid "Ферма"
+msgstr ""
+
+# Objects : [w326332387]
+# name:be: []
+msgid "Хранилище сточных вод"
+msgstr ""
+
+# Objects : [n243046787]
+# name:be: [Хутар]
+msgid "Хутор"
 msgstr ""
 
 # Objects : [w310327170]

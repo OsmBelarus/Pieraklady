@@ -18,11 +18,6 @@ msgstr ""
 msgid "Гомельский мужской монастырь во имя святителя Николая Мирликийского Гомельской епархии"
 msgstr ""
 
-# Objects : [n621359320]
-# name:be: []
-msgid "Иконы Божьей Матери"
-msgstr ""
-
 # Objects : [w284578207]
 # name:be: []
 msgid "Ильинская церковь"
@@ -63,6 +58,11 @@ msgstr ""
 msgid "Терпение"
 msgstr ""
 
+# Objects : [w121815399]
+# name:be: []
+msgid "Храм Иконы Божьей Матери"
+msgstr ""
+
 # Objects : [w320481026, w320481245]
 # name:be: []
 msgid "Церковь"
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Церковь Иконы Божьей Матери"
 msgstr ""
 
-# Objects : [n419313502]
+# Objects : [w281556500]
 # name:be: []
 msgid "Церовь ЕХБ"
 msgstr ""

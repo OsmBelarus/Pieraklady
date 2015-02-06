@@ -253,7 +253,7 @@ msgstr ""
 msgid "Еврооопт"
 msgstr ""
 
-# Objects : [n3282668831, w230799742, w242824999]
+# Objects : [n3282668831, w242824999]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -371,11 +371,6 @@ msgstr ""
 # Objects : [n3282675763]
 # name:be: []
 msgid "Маникюрный салон У Юлии"
-msgstr ""
-
-# Objects : [w242855508]
-# name:be: []
-msgid "Мила"
 msgstr ""
 
 # Objects : [n3282659455]

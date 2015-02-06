@@ -3,6 +3,11 @@
 msgid "Дуб"
 msgstr ""
 
+# Objects : [w326190982]
+# name:be: []
+msgid "площадь Ленина"
+msgstr ""
+
 # Objects : [w288505239]
 # name:be: []
 msgid "Приусадебный парк"

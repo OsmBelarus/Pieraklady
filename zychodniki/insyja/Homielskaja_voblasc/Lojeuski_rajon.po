@@ -13,6 +13,11 @@ msgstr ""
 msgid "Днепро-Брагинское"
 msgstr ""
 
+# Objects : [w326493419]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [w25195646]
 # name:be: []
 msgid "Круговод"
@@ -21,6 +26,11 @@ msgstr ""
 # Objects : [w25197658]
 # name:be: []
 msgid "Лутовское"
+msgstr ""
+
+# Objects : [w326493412]
+# name:be: []
+msgid "Малиновский детский сад - базовая школа"
 msgstr ""
 
 # Objects : [n2704430542]

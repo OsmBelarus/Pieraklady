@@ -93,11 +93,6 @@ msgstr ""
 msgid "Лесная улица"
 msgstr ""
 
-# Objects : [w53310580]
-# name:be: [Лясны завулак]
-msgid "Лесной переулок"
-msgstr ""
-
 # Objects : [w40964623, w53310342]
 # name:be: [Лугавая вуліца]
 msgid "Луговая улица"
@@ -138,7 +133,7 @@ msgstr ""
 msgid "Октябрьский переулок"
 msgstr ""
 
-# Objects : [w40597598]
+# Objects : [w326190980, w40597598]
 # name:be: [Першамайская вуліца]
 msgid "Первомайская улица"
 msgstr ""
@@ -191,6 +186,11 @@ msgstr ""
 # Objects : [w275931124]
 # name:be: [завулак Кутузава]
 msgid "переулок Кутузова"
+msgstr ""
+
+# Objects : [w326214314]
+# name:be: []
+msgid "переулок Лесной"
 msgstr ""
 
 # Objects : [w40964626]
@@ -266,6 +266,11 @@ msgstr ""
 # Objects : [w41186219, w41186223]
 # name:be: [Піянерская вуліца]
 msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w326190981]
+# name:be: []
+msgid "площадь Ленина"
 msgstr ""
 
 # Objects : [w279394343, w41681716, w41682282, w67319929]
@@ -523,7 +528,7 @@ msgstr ""
 msgid "улица Куманева"
 msgstr ""
 
-# Objects : [w277013035, w277013036]
+# Objects : [w277013036, w326214315]
 # name:be: [вуліца Лазо]
 msgid "улица Лазо"
 msgstr ""

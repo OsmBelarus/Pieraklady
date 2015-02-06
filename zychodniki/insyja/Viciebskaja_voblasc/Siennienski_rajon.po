@@ -63,6 +63,11 @@ msgstr ""
 msgid "лодочный причал"
 msgstr ""
 
+# Objects : [n3327626029, n3327626030]
+# name:be: [Лужкі]
+msgid "Лужки"
+msgstr ""
+
 # Objects : [w25194551]
 # name:be: [Маеўскае воз.]
 msgid "Маевское"

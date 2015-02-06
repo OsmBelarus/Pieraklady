@@ -123,9 +123,14 @@ msgstr ""
 msgid "искусственная нора"
 msgstr ""
 
-# Objects : [w225327890, w37932099]
-# name:be: [Кар’ер]
+# Objects : [w225327890]
+# name:be: []
 msgid "Карьер"
+msgstr ""
+
+# Objects : [w37932099]
+# name:be: [Кар’ер]
+msgid "Карьер (кварцевого песка)"
 msgstr ""
 
 # Objects : [n2719827369, w266423942]

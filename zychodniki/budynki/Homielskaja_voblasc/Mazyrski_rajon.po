@@ -28,6 +28,11 @@ msgstr ""
 msgid "Евроопт"
 msgstr ""
 
+# Objects : [w326532950, w326532951]
+# name:be: []
+msgid "ж/д"
+msgstr ""
+
 # Objects : [w263260393]
 # name:be: []
 msgid "Магазин №62"
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [w113055731]
 # name:be: []
 msgid "Придорожный"
+msgstr ""
+
+# Objects : [w326532952]
+# name:be: []
+msgid "сарай"
 msgstr ""
 
 # Objects : [w263925925]

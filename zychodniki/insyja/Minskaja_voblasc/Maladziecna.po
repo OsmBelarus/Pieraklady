@@ -98,6 +98,11 @@ msgstr ""
 msgid "Вещевой рынок"
 msgstr ""
 
+# Objects : [n836937423]
+# name:be: []
+msgid "Вилейская"
+msgstr ""
+
 # Objects : [n1674193957, r2086033]
 # name:be: []
 msgid "Виленский Шлях"
@@ -253,6 +258,11 @@ msgstr ""
 msgid "Драматический театр"
 msgstr ""
 
+# Objects : [w168581455]
+# name:be: []
+msgid "ДРСУ-49"
+msgstr ""
+
 # Objects : [n3165032252, r2086835]
 # name:be: []
 msgid "ДЮСШ"
@@ -331,11 +341,6 @@ msgstr ""
 # Objects : [w209304615]
 # name:be: []
 msgid "ЛЭМ"
-msgstr ""
-
-# Objects : [w243286149]
-# name:be: []
-msgid "Магазин"
 msgstr ""
 
 # Objects : [r2086836]
@@ -461,6 +466,11 @@ msgstr ""
 # Objects : [n1674193965, r2086037]
 # name:be: []
 msgid "Музыкальное училище"
+msgstr ""
+
+# Objects : [w274711581]
+# name:be: []
+msgid "ОАО "Молодечненский станкостроительный завод""
 msgstr ""
 
 # Objects : [w210781881]

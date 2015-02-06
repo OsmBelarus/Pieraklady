@@ -1,6 +1,6 @@
 # Objects : [w204113577]
 # name:be: []
-msgid "14 Скользаевы"
+msgid "14"
 msgstr ""
 
 # Objects : [w204102059]
@@ -11,6 +11,11 @@ msgstr ""
 # Objects : [w313778851]
 # name:be: []
 msgid "40"
+msgstr ""
+
+# Objects : [w204113570]
+# name:be: []
+msgid "ларек"
 msgstr ""
 
 # Objects : [w204239050, w204239066, w204239067]

@@ -4,7 +4,7 @@ msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [n817766964]
-# name:be: []
-msgid "Беларусьбанк"
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 

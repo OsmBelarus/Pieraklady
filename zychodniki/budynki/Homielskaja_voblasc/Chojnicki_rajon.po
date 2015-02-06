@@ -3,9 +3,14 @@
 msgid "Банно-прачечный комбинат"
 msgstr ""
 
-# Objects : [w262329418]
+# Objects : [w256680729, w262329418]
 # name:be: []
 msgid "Баня"
+msgstr ""
+
+# Objects : [w256700001]
+# name:be: []
+msgid "Винокурня с башней конец 19в"
 msgstr ""
 
 # Objects : [w263306647]
@@ -36,6 +41,11 @@ msgstr ""
 # Objects : [w260242636]
 # name:be: []
 msgid "Котельная детсада"
+msgstr ""
+
+# Objects : [w288322586]
+# name:be: []
+msgid "Ледник"
 msgstr ""
 
 # Objects : [w262038588]
@@ -93,8 +103,18 @@ msgstr ""
 msgid "Управление Стреличевского СПК"
 msgstr ""
 
+# Objects : [w256700002]
+# name:be: []
+msgid "Усадебный дом Ястржембских 19в"
+msgstr ""
+
 # Objects : [w258730772]
 # name:be: []
 msgid "ФАП"
+msgstr ""
+
+# Objects : [w288322587]
+# name:be: []
+msgid "Хоздвор"
 msgstr ""
 

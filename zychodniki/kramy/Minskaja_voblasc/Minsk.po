@@ -153,9 +153,14 @@ msgstr ""
 msgid "5 элемент"
 msgstr ""
 
-# Objects : [n1107609445, n1562227553, n1645592788, n2612929730]
+# Objects : [n1107609445, n1645592788, n2612929730]
 # name:be: []
 msgid "5 Элемент"
+msgstr ""
+
+# Objects : [n1562227553]
+# name:be: []
+msgid "5 ЭЛЕМЕНТ"
 msgstr ""
 
 # Objects : [n2335018525]
@@ -408,7 +413,7 @@ msgstr ""
 msgid "Butterfly"
 msgstr ""
 
-# Objects : [n3233078509, n444380138, n984674369]
+# Objects : [n3327666340, n444380138, n984674369]
 # name:be: []
 msgid "C&D"
 msgstr ""
@@ -816,11 +821,6 @@ msgstr ""
 # Objects : [n1913648653]
 # name:be: []
 msgid "i-Store"
-msgstr ""
-
-# Objects : [n2591462159]
-# name:be: []
-msgid "ives rocher"
 msgstr ""
 
 # Objects : [n2335289606]
@@ -1816,6 +1816,11 @@ msgstr ""
 # Objects : [n1421260605]
 # name:be: []
 msgid "Автосалон Volvo"
+msgstr ""
+
+# Objects : [n3327384467]
+# name:be: []
+msgid "Автосервис"
 msgstr ""
 
 # Objects : [n2595021976]
@@ -2958,7 +2963,7 @@ msgstr ""
 msgid "ГАРСОН"
 msgstr ""
 
-# Objects : [n2394570511, n2454061176, n2553891207, n2553891209]
+# Objects : [n2394570511, n2454061176, n2553891207, n2553891209, n482748706]
 # name:be: []
 msgid "Гаспадар"
 msgstr ""
@@ -2993,8 +2998,8 @@ msgstr ""
 msgid "гипермаркет «Гиппо»"
 msgstr ""
 
-# Objects : [n305675175, n920083713]
-# name:be: [Гіпермаркет ProStore]
+# Objects : [n305675175, n3332417253, n920083713]
+# name:be: [Гіпермаркет ProStore, Гіпермаркет Prostore]
 msgid "Гипермаркет Prostore"
 msgstr ""
 
@@ -3478,7 +3483,7 @@ msgstr ""
 msgid "Заводской"
 msgstr ""
 
-# Objects : [n2620000096]
+# Objects : [n2620000096, n2620015757]
 # name:be: []
 msgid "Зазеркалье"
 msgstr ""
@@ -4043,11 +4048,6 @@ msgstr ""
 msgid "Корпорация развлечений"
 msgstr ""
 
-# Objects : [n2620015757]
-# name:be: []
-msgid "косметика Зазеркалье"
-msgstr ""
-
 # Objects : [n1554535434]
 # name:be: []
 msgid "Косметологический центр"
@@ -4126,6 +4126,11 @@ msgstr ""
 # Objects : [n2777518486]
 # name:be: []
 msgid "Крутильщик (мастерская)"
+msgstr ""
+
+# Objects : [n3247321865]
+# name:be: []
+msgid "Крышталь (фирменный магазин)"
 msgstr ""
 
 # Objects : [n1624526489, n2713543007, n3143682496]
@@ -5788,7 +5793,7 @@ msgstr ""
 msgid "Оптика Медтехника"
 msgstr ""
 
-# Objects : [n1123448507, n2619943791, n2620018433, n3203276017, n832708576]
+# Objects : [n1123448507, n2620018433, n3203276017, n832708576]
 # name:be: [Аранжавы верблюд]
 msgid "Оранжевый верблюд"
 msgstr ""
@@ -7283,6 +7288,11 @@ msgstr ""
 msgid "Соседи"
 msgstr ""
 
+# Objects : [n3332417251]
+# name:be: []
+msgid "Соседи (8-23)"
+msgstr ""
+
 # Objects : [n1624526484]
 # name:be: []
 msgid "Сотовик"
@@ -7873,9 +7883,9 @@ msgstr ""
 msgid "Тропинка"
 msgstr ""
 
-# Objects : [n2111015041]
+# Objects : [n3327384342]
 # name:be: []
-msgid "Трофей"
+msgid "Трофей "
 msgstr ""
 
 # Objects : [n3270519861]
@@ -8326,6 +8336,11 @@ msgstr ""
 # Objects : [n2593615072, n2593630751]
 # name:be: []
 msgid "Цифровик"
+msgstr ""
+
+# Objects : [n2859655268]
+# name:be: []
+msgid "Цифровой Фото Экспресс"
 msgstr ""
 
 # Objects : [n2549886175]

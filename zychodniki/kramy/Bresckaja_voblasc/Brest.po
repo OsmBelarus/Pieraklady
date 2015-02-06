@@ -853,11 +853,6 @@ msgstr ""
 msgid "Торг. Ряды Ника"
 msgstr ""
 
-# Objects : [n306063391, n306063395]
-# name:be: []
-msgid "Торговые ряды"
-msgstr ""
-
 # Objects : [n306063981]
 # name:be: []
 msgid "Торговые Ряды"
@@ -946,11 +941,6 @@ msgstr ""
 # Objects : [n306063152]
 # name:be: [Кветкі]
 msgid "Цветы"
-msgstr ""
-
-# Objects : [n306063333]
-# name:be: [Цэнтральная Ўнівэрсальная крама]
-msgid "Цум"
 msgstr ""
 
 # Objects : [n306061945]

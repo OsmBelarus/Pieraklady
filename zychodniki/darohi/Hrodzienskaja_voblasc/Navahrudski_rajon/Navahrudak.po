@@ -13,9 +13,29 @@ msgstr ""
 msgid "1-й переулок Волчецкого"
 msgstr ""
 
+# Objects : [w171380568]
+# name:be: [1-ы завулак Касманаўтаў]
+msgid "1-й переулок Космонавтов"
+msgstr ""
+
 # Objects : [w171380738]
 # name:be: [1-ы завулак Леніна]
 msgid "1-й переулок Ленина"
+msgstr ""
+
+# Objects : [w171380730]
+# name:be: [1-ы завулак Свярдлова]
+msgid "1-й переулок Свердлова"
+msgstr ""
+
+# Objects : [w171380566]
+# name:be: []
+msgid "1-й переулок Сечко"
+msgstr ""
+
+# Objects : [w301763582]
+# name:be: []
+msgid "1-й переулок Тургенева"
 msgstr ""
 
 # Objects : [w171380517]
@@ -43,6 +63,11 @@ msgstr ""
 msgid "2-й переулок Волчецкого"
 msgstr ""
 
+# Objects : [w171380524]
+# name:be: [2-і завулак Касманаўтаў]
+msgid "2-й переулок Космонавтов"
+msgstr ""
+
 # Objects : [w291729292]
 # name:be: [2-і завулак Леніна]
 msgid "2-й переулок Ленина"
@@ -56,6 +81,11 @@ msgstr ""
 # Objects : [w171380582]
 # name:be: [2-і завулак Свярдлова]
 msgid "2-й переулок Свердлова"
+msgstr ""
+
+# Objects : [w171380660]
+# name:be: []
+msgid "2-й переулок Тургенева"
 msgstr ""
 
 # Objects : [w171380710]
@@ -88,6 +118,11 @@ msgstr ""
 msgid "3-й переулок Волчецкого"
 msgstr ""
 
+# Objects : [w171380525]
+# name:be: [3-і завулак Касманаўтаў]
+msgid "3-й переулок Космонавтов"
+msgstr ""
+
 # Objects : [w291729293]
 # name:be: [3-і завулак Леніна]
 msgid "3-й переулок Ленина"
@@ -114,8 +149,13 @@ msgid "4-й переулок Ленина"
 msgstr ""
 
 # Objects : [w171380514]
-# name:be: [4-ы завулак Люсі Сечко]
+# name:be: [4-ы завулак Люсі Сячко]
 msgid "4-й переулок Люси Сечко"
+msgstr ""
+
+# Objects : [w171380545]
+# name:be: []
+msgid "4-й переулок Сведлова"
 msgstr ""
 
 # Objects : [w171380544]
@@ -124,8 +164,13 @@ msgid "4-й Спортовый переулок"
 msgstr ""
 
 # Objects : [w171380727, w265152167]
-# name:be: [5-ы завулак Люсі Сечко]
+# name:be: [5-ы завулак Люсі Сячко]
 msgid "5-й переулок Люси Сечко"
+msgstr ""
+
+# Objects : [w326482015]
+# name:be: []
+msgid "5-й переулок Сведлова"
 msgstr ""
 
 # Objects : [w171380537]
@@ -228,6 +273,11 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
+# Objects : [w326180321]
+# name:be: []
+msgid "Окольная улица"
+msgstr ""
+
 # Objects : [w38653210]
 # name:be: [Кастрычніцкая вуліца]
 msgid "Октябрьская улица"
@@ -256,6 +306,11 @@ msgstr ""
 # Objects : [w97940632]
 # name:be: [завулак Будзёнага]
 msgid "переулок Будённого"
+msgstr ""
+
+# Objects : [w326318177]
+# name:be: [завулак Гагарына]
+msgid "переулок Гагарина"
 msgstr ""
 
 # Objects : [w303588649]
@@ -301,6 +356,11 @@ msgstr ""
 # Objects : [w171380502]
 # name:be: [Садовы завулак]
 msgid "Садовый переулок"
+msgstr ""
+
+# Objects : [w326180322]
+# name:be: []
+msgid "Северная улица"
 msgstr ""
 
 # Objects : [w232853188, w265152166, w97940612]
@@ -453,6 +513,11 @@ msgstr ""
 msgid "улица Калиновского"
 msgstr ""
 
+# Objects : [w97941669]
+# name:be: []
+msgid "улица Карского"
+msgstr ""
+
 # Objects : [w171380553]
 # name:be: [вуліца Кірава]
 msgid "улица Кирова"
@@ -461,11 +526,6 @@ msgstr ""
 # Objects : [w97940615]
 # name:be: [вуліца Камарова]
 msgid "улица Комарова"
-msgstr ""
-
-# Objects : [w225207327]
-# name:be: [вуліца Касманаўтаў]
-msgid "улица Комонавтов"
 msgstr ""
 
 # Objects : [w171380610]
@@ -478,7 +538,7 @@ msgstr ""
 msgid "улица Коротынского"
 msgstr ""
 
-# Objects : [w171380729]
+# Objects : [w171380729, w225207327]
 # name:be: [вуліца Касманаўтаў]
 msgid "улица Космонавтов"
 msgstr ""
@@ -615,10 +675,10 @@ msgstr ""
 
 # Objects : [w236944323]
 # name:be: [вуліца Тургенева]
-msgid "улица Тургеньева"
+msgid "улица Тургенева"
 msgstr ""
 
-# Objects : [w114962436]
+# Objects : [w326318012]
 # name:be: [вуліца Францыска Скарыны]
 msgid "улица Франциска Скорины"
 msgstr ""
@@ -636,6 +696,11 @@ msgstr ""
 # Objects : [w297398496, w80260701]
 # name:be: [вуліца Чапаева]
 msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [w114962436]
+# name:be: []
+msgid "улица Чехова"
 msgstr ""
 
 # Objects : [w97940149]

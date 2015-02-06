@@ -48,11 +48,6 @@ msgstr ""
 msgid "База Рогачёвстроя"
 msgstr ""
 
-# Objects : [n622325698]
-# name:be: []
-msgid "Бар Стары Горaд"
-msgstr ""
-
 # Objects : [n3239405912]
 # name:be: []
 msgid "Бригантина"
@@ -193,6 +188,11 @@ msgstr ""
 msgid "Остановка Октябрьская"
 msgstr ""
 
+# Objects : [w209213830]
+# name:be: []
+msgid "Отделение скорой медицинской помощи"
+msgstr ""
+
 # Objects : [w320913771]
 # name:be: []
 msgid "Очистные сооружения"
@@ -261,11 +261,6 @@ msgstr ""
 # Objects : [n577626755]
 # name:be: []
 msgid "Серпантина"
-msgstr ""
-
-# Objects : [n3132629234]
-# name:be: []
-msgid "Скорая медицинская помощь"
 msgstr ""
 
 # Objects : [n3239405916]

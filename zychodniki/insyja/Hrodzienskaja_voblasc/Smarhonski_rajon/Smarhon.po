@@ -1,3 +1,8 @@
+# Objects : [w37876787]
+# name:be: []
+msgid "Вещевой рынок"
+msgstr ""
+
 # Objects : [n1247451201]
 # name:be: [Вілія]
 msgid "Вилия"
@@ -6,6 +11,11 @@ msgstr ""
 # Objects : [w170771918]
 # name:be: []
 msgid "Восточный"
+msgstr ""
+
+# Objects : [w40130628]
+# name:be: []
+msgid "Гаражи"
 msgstr ""
 
 # Objects : [n2766736692]

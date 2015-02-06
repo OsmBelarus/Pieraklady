@@ -68,6 +68,11 @@ msgstr ""
 msgid "переулок Ленина"
 msgstr ""
 
+# Objects : [w182526195]
+# name:be: [завулак Чапаева]
+msgid "переулок Чапаева"
+msgstr ""
+
 # Objects : [w145140972]
 # name:be: []
 msgid "Садовая улица"
@@ -89,7 +94,7 @@ msgid "улица 1 Мая"
 msgstr ""
 
 # Objects : [w122745920]
-# name:be: []
+# name:be: [вуліца 40 гадоў Перамогі]
 msgid "улица 40 лет Победы"
 msgstr ""
 
@@ -138,6 +143,11 @@ msgstr ""
 msgid "улица Нестерова"
 msgstr ""
 
+# Objects : [w183472797]
+# name:be: []
+msgid "улица Новиковой"
+msgstr ""
+
 # Objects : [w115831153]
 # name:be: [вуліца Прытыцкага]
 msgid "улица Притыцкого"
@@ -146,6 +156,11 @@ msgstr ""
 # Objects : [w118745402, w147049015]
 # name:be: [вуліца Прохарава]
 msgid "улица Прохорова"
+msgstr ""
+
+# Objects : [w182526196]
+# name:be: []
+msgid "улица Стольнякова"
 msgstr ""
 
 # Objects : [w118745398]

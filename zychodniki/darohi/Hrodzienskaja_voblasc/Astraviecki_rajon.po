@@ -48,17 +48,32 @@ msgstr ""
 msgid "Ленинская улица"
 msgstr ""
 
+# Objects : [w154222613]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w151849952]
+# name:be: []
+msgid "Лесной переулок"
+msgstr ""
+
 # Objects : [w113507769, w275463928]
 # name:be: []
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w113507710, w113507805, w116506834, w275252185, w276735894]
+# Objects : [w112605581, w113507710, w113507805, w116506834, w151849929, w275252185, w276735894, w316945823]
 # name:be: []
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w112605597, w135568506, w283411350]
+# Objects : [w154222611, w326270271]
+# name:be: []
+msgid "Молодёжный переулок"
+msgstr ""
+
+# Objects : [w112605576, w112605597, w135568506, w283411350]
 # name:be: [Набярэжная вуліца]
 msgid "Набережная улица"
 msgstr ""
@@ -73,19 +88,14 @@ msgstr ""
 msgid "Новоселки - Дубок"
 msgstr ""
 
+# Objects : [w112605577, w326270276]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
 # Objects : [w287233668]
 # name:be: []
 msgid "Октябрьский переулок"
-msgstr ""
-
-# Objects : [w151849952]
-# name:be: []
-msgid "пер.Лесной"
-msgstr ""
-
-# Objects : [w154222611]
-# name:be: []
-msgid "пер.Молодежный"
 msgstr ""
 
 # Objects : [w94114901]
@@ -138,6 +148,11 @@ msgstr ""
 msgid "Сосновая улица"
 msgstr ""
 
+# Objects : [w112605599]
+# name:be: []
+msgid "Спортивная улица"
+msgstr ""
+
 # Objects : [w276735895]
 # name:be: []
 msgid "Строительная улица"
@@ -163,24 +178,9 @@ msgstr ""
 msgid "ул.Костюшко"
 msgstr ""
 
-# Objects : [w154222613, w317330020]
+# Objects : [w317330020]
 # name:be: []
 msgid "ул.Лесная"
-msgstr ""
-
-# Objects : [w112605581, w151849929, w316945823]
-# name:be: []
-msgid "ул.Молодежная"
-msgstr ""
-
-# Objects : [w112605576]
-# name:be: []
-msgid "ул.Набережная"
-msgstr ""
-
-# Objects : [w112605577]
-# name:be: []
-msgid "ул.Озерная"
 msgstr ""
 
 # Objects : [w113507752, w113507818]
@@ -196,21 +196,6 @@ msgstr ""
 # Objects : [w151853489]
 # name:be: []
 msgid "ул.Постраша"
-msgstr ""
-
-# Objects : [w112605599]
-# name:be: []
-msgid "ул.Спортивная"
-msgstr ""
-
-# Objects : [w151849900, w151849919]
-# name:be: []
-msgid "ул.Центральная"
-msgstr ""
-
-# Objects : [w112605579]
-# name:be: []
-msgid "ул.Чернобыльская"
 msgstr ""
 
 # Objects : [w116506799]
@@ -243,9 +228,14 @@ msgstr ""
 msgid "Цветочная улица"
 msgstr ""
 
-# Objects : [w118082601, w275252190]
+# Objects : [w112605584, w118082601, w275252190]
 # name:be: []
 msgid "Центральная улица"
+msgstr ""
+
+# Objects : [w112605579]
+# name:be: []
+msgid "Чернобыльская улица"
 msgstr ""
 
 # Objects : [w276504057]

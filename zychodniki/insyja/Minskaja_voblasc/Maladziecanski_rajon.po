@@ -138,11 +138,6 @@ msgstr ""
 msgid "Здание бывшей часовни"
 msgstr ""
 
-# Objects : [n306065643]
-# name:be: []
-msgid "Инфекционная Больница"
-msgstr ""
-
 # Objects : [n1376526480, n2788680575]
 # name:be: [Каменны крыж]
 msgid "Каменный крест"
@@ -233,6 +228,11 @@ msgstr ""
 msgid "Молодечненский замок"
 msgstr ""
 
+# Objects : [w326452709]
+# name:be: []
+msgid "Молодечненский противотуберкулезный диспансер"
+msgstr ""
+
 # Objects : [n306065696, n414267350]
 # name:be: [Маладзечна]
 msgid "Молодечно"
@@ -286,6 +286,11 @@ msgstr ""
 # Objects : [n2774608150]
 # name:be: [Палачаны]
 msgid "Полочаны"
+msgstr ""
+
+# Objects : [n3330977231]
+# name:be: []
+msgid "Приемный покой"
 msgstr ""
 
 # Objects : [n2788683740]

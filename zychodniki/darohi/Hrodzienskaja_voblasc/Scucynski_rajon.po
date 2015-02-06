@@ -18,6 +18,11 @@ msgstr ""
 msgid "Восточная улица"
 msgstr ""
 
+# Objects : [w237040538]
+# name:be: []
+msgid "Горный переулок"
+msgstr ""
+
 # Objects : [w126036326]
 # name:be: [Дарожная вуліца]
 msgid "Дорожная улица"
@@ -36,6 +41,11 @@ msgstr ""
 # Objects : [w127875604]
 # name:be: [Заходняя вуліца]
 msgid "Западная улица"
+msgstr ""
+
+# Objects : [w326180499]
+# name:be: []
+msgid "Заречная улица"
 msgstr ""
 
 # Objects : [w200192153]
@@ -93,7 +103,7 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w181659010, w200667687]
+# Objects : [w181659010, w200667687, w204006699]
 # name:be: []
 msgid "Набережная улица"
 msgstr ""

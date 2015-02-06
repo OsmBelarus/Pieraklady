@@ -1,25 +1,20 @@
-# Objects : [w125450493]
-# name:be: [Беларусбанк]
-msgid "АСБ "Беларусбанк""
-msgstr ""
-
 # Objects : [n1138060735]
 # name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
-# Objects : [n1692870122, n2561117179, n525665531, n679722409]
+# Objects : [n1692870122, n2561117179, n525665531, n679722409, w125450493]
 # name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n1138060725]
-# name:be: [БПС-банк]
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n1706262499]
-# name:be: []
+# name:be: [Ідэя Банк]
 msgid "Идея Банк"
 msgstr ""
 
@@ -29,7 +24,7 @@ msgid "Приорбанк"
 msgstr ""
 
 # Objects : [n2561117186]
-# name:be: []
+# name:be: [Трастбанк]
 msgid "Трастбанк"
 msgstr ""
 

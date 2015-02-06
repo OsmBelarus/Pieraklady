@@ -1,15 +1,10 @@
-# Objects : [n2079487576]
-# name:be: []
-msgid "HomeCreditBank"
-msgstr ""
-
 # Objects : [n2524544961]
 # name:be: []
 msgid "Prior Bank"
 msgstr ""
 
 # Objects : [n2079487060]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
@@ -26,5 +21,10 @@ msgstr ""
 # Objects : [n1824108382]
 # name:be: []
 msgid "Сомбелбанк"
+msgstr ""
+
+# Objects : [n2079487576]
+# name:be: [Хоўм Крэдыт Банк]
+msgid "Хоум Кредит Банк"
 msgstr ""
 

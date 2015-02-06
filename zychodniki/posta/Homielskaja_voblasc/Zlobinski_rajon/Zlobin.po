@@ -3,6 +3,11 @@
 msgid ""Отделение связи""
 msgstr ""
 
+# Objects : [n3326827965]
+# name:be: []
+msgid "Почта"
+msgstr ""
+
 # Objects : [n982331862]
 # name:be: []
 msgid "Почта-10"

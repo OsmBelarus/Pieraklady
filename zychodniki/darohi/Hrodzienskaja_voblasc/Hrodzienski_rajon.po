@@ -593,7 +593,7 @@ msgstr ""
 msgid "Творческая улица"
 msgstr ""
 
-# Objects : [w298580045, w298580046, w298580047, w298580048]
+# Objects : [w298580045, w298580046, w298580048]
 # name:be: []
 msgid "титова"
 msgstr ""
@@ -883,7 +883,7 @@ msgstr ""
 msgid "улица Первомайская"
 msgstr ""
 
-# Objects : [w297359686, w297359688, w297359689, w325429402]
+# Objects : [w297359686, w297359688, w297359689, w325429402, w326265421]
 # name:be: []
 msgid "улица Пески"
 msgstr ""
@@ -913,12 +913,7 @@ msgstr ""
 msgid "улица Пушкина"
 msgstr ""
 
-# Objects : [w29157019, w89805226]
-# name:be: []
-msgid "улица Р.Люксембург"
-msgstr ""
-
-# Objects : [w89805206]
+# Objects : [w29157019, w89805206, w89805226]
 # name:be: []
 msgid "улица Р. Люксембург"
 msgstr ""
@@ -1008,9 +1003,14 @@ msgstr ""
 msgid "улица Тимирязева"
 msgstr ""
 
-# Objects : [w297330635]
+# Objects : [w297330635, w298580047]
 # name:be: []
 msgid "улица Титова"
+msgstr ""
+
+# Objects : [w297141104]
+# name:be: []
+msgid "улица Толстого"
 msgstr ""
 
 # Objects : [w199495093]

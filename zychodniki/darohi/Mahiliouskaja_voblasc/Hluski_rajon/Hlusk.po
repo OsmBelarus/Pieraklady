@@ -68,6 +68,16 @@ msgstr ""
 msgid "пер.Гагарина"
 msgstr ""
 
+# Objects : [w219752592, w326496545, w326496584]
+# name:be: []
+msgid "пер.Советский"
+msgstr ""
+
+# Objects : [w219752613, w326497057, w326497126]
+# name:be: []
+msgid "пер. Я.Коласа"
+msgstr ""
+
 # Objects : [w210709689]
 # name:be: [Першамайская вуліца]
 msgid "Первомайская улица"
@@ -111,6 +121,11 @@ msgstr ""
 # Objects : [w206073413]
 # name:be: [Пасялковая вуліца]
 msgid "Поселковая улица"
+msgstr ""
+
+# Objects : [w326496254]
+# name:be: []
+msgid "пре. Я.Коласа"
 msgstr ""
 
 # Objects : [w263172260, w263172261]
@@ -258,6 +273,11 @@ msgstr ""
 msgid "улица Примина"
 msgstr ""
 
+# Objects : [w326496255]
+# name:be: []
+msgid "улица Речная"
+msgstr ""
+
 # Objects : [w219752596]
 # name:be: [вуліца Рыбака]
 msgid "улица Рыбака"
@@ -283,7 +303,7 @@ msgstr ""
 msgid "улица Чапаева"
 msgstr ""
 
-# Objects : [w154611129]
+# Objects : [w154611129, w326208970]
 # name:be: [вуліца Швякава]
 msgid "улица Швякова"
 msgstr ""
@@ -296,6 +316,11 @@ msgstr ""
 # Objects : [w210176994]
 # name:be: [вуліца Энгельса]
 msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w219752608, w326497058]
+# name:be: []
+msgid "улица Я.Коласа"
 msgstr ""
 
 # Objects : [w218982548]

@@ -1,20 +1,15 @@
-# Objects : [n3218868070]
-# name:be: []
-msgid ""Беларусбанк""
+# Objects : [n1442715586]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
 msgstr ""
 
 # Objects : [n1442691467]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
-# Objects : [n663172726, n663173593]
-# name:be: []
-msgid "Беларусьбанк"
-msgstr ""
-
-# Objects : [n1442715586]
-# name:be: []
-msgid "ВТБ Банк"
+# Objects : [n3218868070, n663172726, n663173593]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 

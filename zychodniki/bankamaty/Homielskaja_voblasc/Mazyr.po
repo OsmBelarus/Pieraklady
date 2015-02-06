@@ -1,35 +1,35 @@
 # Objects : [n2874067281, n3259753522, n3259753523]
-# name:be: []
-msgid "Альфа-банк"
+# name:be: [Альфа-Банк]
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [n2941211948]
+# name:be: [ВТБ]
+msgid "Банк ВТБ"
 msgstr ""
 
 # Objects : [n3259848274, n3259848276, n3259848277]
-# name:be: []
+# name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n2874084102, n3259848284]
-# name:be: []
+# name:be: [БелЗЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n2938497438]
-# name:be: []
+# name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n1315457991, n2556852263, n2674890722, n2758938588, n2759467756, n3259848278, n3259848279, n3259848280, n3259848281]
-# name:be: []
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
-# Objects : [n2941211948]
-# name:be: []
-msgid "ВТБ"
-msgstr ""
-
 # Objects : [n2905320887]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

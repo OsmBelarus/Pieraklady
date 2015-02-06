@@ -8,6 +8,11 @@ msgstr ""
 msgid "201-1"
 msgstr ""
 
+# Objects : [w220941824]
+# name:be: []
+msgid "235"
+msgstr ""
+
 # Objects : [w310703559]
 # name:be: []
 msgid "Ctok-city"
@@ -218,11 +223,6 @@ msgstr ""
 msgid "Новополоцкий городской отдел по чрезвычайным ситуациям"
 msgstr ""
 
-# Objects : [w41088664]
-# name:be: []
-msgid "Новополоцкий городской отдел по чрезвычайным ситуациям 2"
-msgstr ""
-
 # Objects : [w41088680]
 # name:be: [Наваполацкі хлебазавод]
 msgid "Новополоцкий хлебозавод"
@@ -268,6 +268,11 @@ msgstr ""
 msgid "ПГУ, учебный корпус"
 msgstr ""
 
+# Objects : [w230214613]
+# name:be: []
+msgid "Пожарный аварийно-спасательный пост № 11"
+msgstr ""
+
 # Objects : [w41088659]
 # name:be: [Паліклініка №4]
 msgid "Поликлиника 4"
@@ -278,7 +283,7 @@ msgstr ""
 msgid "Полоцкий государственный университет"
 msgstr ""
 
-# Objects : [w41088675]
+# Objects : [w326571952, w41088675]
 # name:be: [Полацкі ЦСМС]
 msgid "Полоцкий ЦСМС"
 msgstr ""
@@ -296,6 +301,16 @@ msgstr ""
 # Objects : [w147139735]
 # name:be: [Пракуратура]
 msgid "Прокуратура г.Новополоцка"
+msgstr ""
+
+# Objects : [w255806174]
+# name:be: []
+msgid "РП-10"
+msgstr ""
+
+# Objects : [w230214611]
+# name:be: []
+msgid "РП-9"
 msgstr ""
 
 # Objects : [w41104337]
@@ -381,6 +396,26 @@ msgstr ""
 # Objects : [w41102143]
 # name:be: [Гандлёвае прадпрыемства Базіс]
 msgid "Торговое предприятие Базис"
+msgstr ""
+
+# Objects : [w230214610]
+# name:be: []
+msgid "ТП-115"
+msgstr ""
+
+# Objects : [w326571954]
+# name:be: []
+msgid "ТП-122"
+msgstr ""
+
+# Objects : [w255806175]
+# name:be: []
+msgid "ТП-132"
+msgstr ""
+
+# Objects : [w268272654]
+# name:be: []
+msgid "ТП №132"
 msgstr ""
 
 # Objects : [w168247794]

@@ -8,6 +8,11 @@ msgstr ""
 msgid "ГРП №1"
 msgstr ""
 
+# Objects : [w319514139]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
 # Objects : [w235740440, w235740552, w235878301]
 # name:be: []
 msgid "Магазин"

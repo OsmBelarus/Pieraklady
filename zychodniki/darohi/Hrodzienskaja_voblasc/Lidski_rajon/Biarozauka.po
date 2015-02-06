@@ -143,6 +143,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w98289140]
+# name:be: []
+msgid "Сосновая улица"
+msgstr ""
+
 # Objects : [w97406658]
 # name:be: [вуліца 8 Сакавіка]
 msgid "улица 8 Марта"
@@ -251,6 +256,11 @@ msgstr ""
 # Objects : [w97406670]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w97406669]
+# name:be: []
+msgid "Школьный переулок"
 msgstr ""
 
 # Objects : [w97406676]

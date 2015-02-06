@@ -4,13 +4,23 @@ msgid "Belinvestbank"
 msgstr ""
 
 # Objects : [n1244699444]
-# name:be: []
+# name:be: [Абсалютбанк]
 msgid "Абсолютбанк"
 msgstr ""
 
 # Objects : [w33554566]
-# name:be: [Альфабанк]
-msgid "Альфабанк"
+# name:be: [Альфа-Банк]
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [n1271382189, n717837618]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
+msgstr ""
+
+# Objects : [n1256877559, n320409613]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
 msgstr ""
 
 # Objects : [n1270824235, n383424283, w29125643]
@@ -49,7 +59,7 @@ msgid "Белвэб"
 msgstr ""
 
 # Objects : [w115912739]
-# name:be: [Белгазпрамбанк]
+# name:be: [Белгазпромбанк]
 msgid "Белгазпромбанк"
 msgstr ""
 
@@ -74,7 +84,7 @@ msgid "Белросбанк"
 msgstr ""
 
 # Objects : [n1249994752, n387411494]
-# name:be: [БПС-Сбербанк]
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
@@ -88,16 +98,6 @@ msgstr ""
 msgid "БПС-Сбербанк филиал по Гродненской области"
 msgstr ""
 
-# Objects : [n717837618]
-# name:be: []
-msgid "ВТБ"
-msgstr ""
-
-# Objects : [n1271382189]
-# name:be: []
-msgid "ВТБ-Банк"
-msgstr ""
-
 # Objects : [n1845889971]
 # name:be: []
 msgid "ИдеяБанк"
@@ -106,11 +106,6 @@ msgstr ""
 # Objects : [n1885022068]
 # name:be: []
 msgid "Кассы"
-msgstr ""
-
-# Objects : [n1256877559, n320409613]
-# name:be: [Масква-Мінск]
-msgid "Москва-Минск"
 msgstr ""
 
 # Objects : [n442980811]

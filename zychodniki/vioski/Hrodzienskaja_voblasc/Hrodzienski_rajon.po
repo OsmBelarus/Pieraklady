@@ -878,7 +878,7 @@ msgstr ""
 msgid "Локно"
 msgstr ""
 
-# Objects : [n629606189]
+# Objects : [n629606189, w326133653]
 # name:be: [Лосева]
 msgid "Лосево"
 msgstr ""
@@ -1218,7 +1218,7 @@ msgstr ""
 msgid "Понемунь"
 msgstr ""
 
-# Objects : [n629606170, n629606200, w30233762]
+# Objects : [n629606170, n629606200, w30233762, w326133656]
 # name:be: [Парэчча]
 msgid "Поречье"
 msgstr ""

@@ -2058,6 +2058,11 @@ msgstr ""
 msgid "Заболоть"
 msgstr ""
 
+# Objects : [w314529022]
+# name:be: [Забалаць–1]
+msgid "Заболоть–1"
+msgstr ""
+
 # Objects : [r3681598]
 # name:be: [Запаветная вуліца]
 msgid "Заветная улица"
@@ -5293,11 +5298,6 @@ msgstr ""
 msgid "улица Дубко"
 msgstr ""
 
-# Objects : [r2539321]
-# name:be: [вуліца Дуброва]
-msgid "улица Дуброва"
-msgstr ""
-
 # Objects : [r2595579]
 # name:be: [вуліца Духінскага]
 msgid "улица Духинского"
@@ -5336,6 +5336,11 @@ msgstr ""
 # Objects : [r2373498]
 # name:be: [вуліца Зана]
 msgid "улица Зана"
+msgstr ""
+
+# Objects : [r2539321]
+# name:be: [вуліца Дуброва]
+msgid "улица Зарицкая (Дуброва)"
 msgstr ""
 
 # Objects : [r135478]

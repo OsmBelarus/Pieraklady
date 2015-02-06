@@ -3,7 +3,7 @@
 msgid "Заводская улица"
 msgstr ""
 
-# Objects : [w69138686]
+# Objects : [w69137790, w69138686]
 # name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
 msgstr ""
@@ -61,11 +61,6 @@ msgstr ""
 # Objects : [w69138492]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
-msgstr ""
-
-# Objects : [w69137790]
-# name:be: []
-msgid "ул. Зелёная"
 msgstr ""
 
 # Objects : [w287685805]

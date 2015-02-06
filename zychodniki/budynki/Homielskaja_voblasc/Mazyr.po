@@ -8,6 +8,11 @@ msgstr ""
 msgid "Number one"
 msgstr ""
 
+# Objects : [w242265559]
+# name:be: []
+msgid "Автомойка КЖУП "Мозырский райжилкомхоз""
+msgstr ""
+
 # Objects : [w118133165]
 # name:be: []
 msgid "Автомотовело"
@@ -131,6 +136,11 @@ msgstr ""
 # Objects : [w205040532]
 # name:be: []
 msgid "Галерея"
+msgstr ""
+
+# Objects : [w276919235, w326350873, w326493390, w326493391, w326493392]
+# name:be: []
+msgid "гараж"
 msgstr ""
 
 # Objects : [w293107983]
@@ -263,7 +273,7 @@ msgstr ""
 msgid "ДЮСШ №1"
 msgstr ""
 
-# Objects : [w113413676, w120082113, w242254355, w242258559, w242270957, w260712421, w271457233, w276919223, w291963670, w291963671, w82228484]
+# Objects : [w113413676, w120082113, w242254355, w242258559, w242258561, w242270957, w260712421, w271457233, w276919223, w291963670, w291963671, w82228484]
 # name:be: [Еўраопт]
 msgid "Евроопт"
 msgstr ""
@@ -283,7 +293,7 @@ msgstr ""
 msgid "ЖЭУ-7"
 msgstr ""
 
-# Objects : [w242254601]
+# Objects : [w105258908, w242254601]
 # name:be: []
 msgid "ЗАО "Мозырьлес""
 msgstr ""
@@ -368,6 +378,11 @@ msgstr ""
 msgid "Лимон"
 msgstr ""
 
+# Objects : [w292094361]
+# name:be: []
+msgid "магазин"
+msgstr ""
+
 # Objects : [w105277523]
 # name:be: []
 msgid "Магазин «Продукты»"
@@ -418,6 +433,11 @@ msgstr ""
 msgid "МПУ "Мозырьмежрайгаз""
 msgstr ""
 
+# Objects : [w326219019]
+# name:be: []
+msgid "Музей-Мастерская Пушкаря"
+msgstr ""
+
 # Objects : [w292473678]
 # name:be: []
 msgid "Над Припятью"
@@ -431,6 +451,11 @@ msgstr ""
 # Objects : [w319561051]
 # name:be: []
 msgid "На семи ветрах"
+msgstr ""
+
+# Objects : [w326218988]
+# name:be: []
+msgid "Нижне-Припятский"
 msgstr ""
 
 # Objects : [w104670880]
@@ -708,6 +733,11 @@ msgstr ""
 msgid "Товарная контора Пхов"
 msgstr ""
 
+# Objects : [w326218994]
+# name:be: []
+msgid "Торговый дом Молодечномебель"
+msgstr ""
+
 # Objects : [w112889431]
 # name:be: []
 msgid "ТП 149"
@@ -731,6 +761,11 @@ msgstr ""
 # Objects : [w112928744]
 # name:be: []
 msgid "Управление  Фонда социальной защиты населения"
+msgstr ""
+
+# Objects : [w325861817]
+# name:be: []
+msgid "Уют"
 msgstr ""
 
 # Objects : [w316647808]

@@ -203,7 +203,7 @@ msgstr ""
 msgid "Автоплощадка"
 msgstr ""
 
-# Objects : [w39090434, w39090435]
+# Objects : [w39090434]
 # name:be: [Аўтарынак]
 msgid "Авторынок"
 msgstr ""
@@ -2148,6 +2148,31 @@ msgstr ""
 msgid "Складской комплекс «Северный»"
 msgstr ""
 
+# Objects : [w171700900]
+# name:be: []
+msgid "Склад №10"
+msgstr ""
+
+# Objects : [w171700898]
+# name:be: []
+msgid "Склад №11"
+msgstr ""
+
+# Objects : [w326514272]
+# name:be: []
+msgid "Склад №3"
+msgstr ""
+
+# Objects : [w286582869]
+# name:be: []
+msgid "Склад №6"
+msgstr ""
+
+# Objects : [w163007977]
+# name:be: []
+msgid "Склад №9"
+msgstr ""
+
 # Objects : [n1169402149]
 # name:be: [Слабодка]
 msgid "Слободка"
@@ -2386,6 +2411,11 @@ msgstr ""
 # Objects : [w104654872]
 # name:be: []
 msgid "Товарищество Армеец"
+msgstr ""
+
+# Objects : [w326514274, w326514275]
+# name:be: []
+msgid "Торгово-выставочный комплекс"
 msgstr ""
 
 # Objects : [w199621937]

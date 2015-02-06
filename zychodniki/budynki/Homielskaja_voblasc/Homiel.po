@@ -43,7 +43,7 @@ msgstr ""
 msgid "109"
 msgstr ""
 
-# Objects : [w172471674, w306080916, w306080917, w307008013, w307107973]
+# Objects : [w172471674, w306080916, w306080917, w307008013, w307107973, w326344596]
 # name:be: []
 msgid "11"
 msgstr ""
@@ -118,7 +118,7 @@ msgstr ""
 msgid "14 (уч.№9)"
 msgstr ""
 
-# Objects : [w306080925]
+# Objects : [w306080925, w326518933]
 # name:be: []
 msgid "15"
 msgstr ""
@@ -128,7 +128,7 @@ msgstr ""
 msgid "15a"
 msgstr ""
 
-# Objects : [w183768052, w306080926, w310222904]
+# Objects : [w306080926, w310222904]
 # name:be: []
 msgid "16"
 msgstr ""
@@ -458,7 +458,7 @@ msgstr ""
 msgid "29"
 msgstr ""
 
-# Objects : [w306080952]
+# Objects : [w181600104, w306080952]
 # name:be: []
 msgid "2А"
 msgstr ""
@@ -783,7 +783,7 @@ msgstr ""
 msgid "69"
 msgstr ""
 
-# Objects : [w183768056, w306080982, w307006698, w310218934, w310222867]
+# Objects : [w183394346, w183768056, w306080982, w307006698, w310218934, w310222867]
 # name:be: []
 msgid "7"
 msgstr ""
@@ -858,7 +858,7 @@ msgstr ""
 msgid "8А"
 msgstr ""
 
-# Objects : [w172471673, w306080985, w306080986, w307006699, w310206056, w310220792]
+# Objects : [w172471673, w183029285, w306080985, w306080986, w307006699, w310206056, w310220792]
 # name:be: []
 msgid "9"
 msgstr ""
@@ -1548,6 +1548,11 @@ msgstr ""
 msgid "МЕХАНИЗИРОВАННАЯ КОЛОННА № 87"
 msgstr ""
 
+# Objects : [w326494786]
+# name:be: []
+msgid "Минимаркет"
+msgstr ""
+
 # Objects : [w249553580]
 # name:be: []
 msgid "Мир Бильярда"
@@ -1763,7 +1768,7 @@ msgstr ""
 msgid "Перчик"
 msgstr ""
 
-# Objects : [w311361473]
+# Objects : [w311361473, w326494787]
 # name:be: []
 msgid "Пивная скважина"
 msgstr ""
@@ -1816,11 +1821,6 @@ msgstr ""
 # Objects : [w244009177]
 # name:be: []
 msgid "поликлиника № 9"
-msgstr ""
-
-# Objects : [w121815399]
-# name:be: []
-msgid "Православный Духовный учебный центр"
 msgstr ""
 
 # Objects : [w49269541]
@@ -4321,6 +4321,11 @@ msgstr ""
 # Objects : [w179244026]
 # name:be: []
 msgid "Фотоцентр"
+msgstr ""
+
+# Objects : [w326494788]
+# name:be: []
+msgid "Фрукты"
 msgstr ""
 
 # Objects : [w47123451]

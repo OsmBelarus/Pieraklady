@@ -1,10 +1,15 @@
 # Objects : [n2763760310]
-# name:be: []
+# name:be: [Альфа-Банк]
 msgid "Альфа-Банк"
 msgstr ""
 
+# Objects : [w264092406]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
+msgstr ""
+
 # Objects : [n3253246188, w205052480, w264092417, w271421385]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
@@ -14,12 +19,17 @@ msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [w115822468]
-# name:be: []
+# name:be: [БелВЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
+# Objects : [n3328394226]
+# name:be: [Белгазпромбанк]
+msgid "Белгазпромбанк"
+msgstr ""
+
 # Objects : [w242265562]
-# name:be: []
+# name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
 
@@ -29,22 +39,17 @@ msgid "Белросбанк"
 msgstr ""
 
 # Objects : [n3259700365, w264092413]
-# name:be: []
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
-# Objects : [w264092406]
-# name:be: []
-msgid "ВТБ"
-msgstr ""
-
 # Objects : [w293844480]
-# name:be: []
-msgid "Дельта-Банк"
+# name:be: [Дэльта Банк]
+msgid "Дельта Банк"
 msgstr ""
 
 # Objects : [n2763834862]
-# name:be: []
+# name:be: [Ідэя Банк]
 msgid "Идея Банк"
 msgstr ""
 
@@ -54,7 +59,7 @@ msgid "Москва-Минск Банк"
 msgstr ""
 
 # Objects : [n1285652860, n2760147840]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

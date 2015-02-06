@@ -3,11 +3,6 @@
 msgid "11а"
 msgstr ""
 
-# Objects : [w311240275]
-# name:be: []
-msgid "27"
-msgstr ""
-
 # Objects : [w310508240]
 # name:be: []
 msgid "5"
@@ -18,17 +13,17 @@ msgstr ""
 msgid "дом культуры"
 msgstr ""
 
-# Objects : [w311240262]
+# Objects : [w326493420]
 # name:be: []
-msgid "контора"
+msgid "Контора"
 msgstr ""
 
-# Objects : [w311240263]
+# Objects : [w326051722]
 # name:be: []
-msgid "котельная"
+msgid "Крахмалозавод"
 msgstr ""
 
-# Objects : [w310501456, w311240264]
+# Objects : [w310501456]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -38,8 +33,8 @@ msgstr ""
 msgid "Рыбацкое счастье"
 msgstr ""
 
-# Objects : [w311240265]
+# Objects : [w326493421]
 # name:be: []
-msgid "сельсовет"
+msgid "Сельсовет"
 msgstr ""
 

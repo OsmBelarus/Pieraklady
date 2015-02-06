@@ -1,8 +1,3 @@
-# Objects : [n3213841565]
-# name:be: []
-msgid ""Мозырьсельстройпроект""
-msgstr ""
-
 # Objects : [w264092418]
 # name:be: []
 msgid ""Полесьепроект""
@@ -116,6 +111,11 @@ msgstr ""
 # Objects : [n1282219096, w112923617]
 # name:be: [Брацкая магіла]
 msgid "Братская могила"
+msgstr ""
+
+# Objects : [n3328394225]
+# name:be: []
+msgid "Велобаза ДЮСШ №1"
 msgstr ""
 
 # Objects : [n2933953082]
@@ -373,6 +373,21 @@ msgstr ""
 msgid "Заречный"
 msgstr ""
 
+# Objects : [n3328394235]
+# name:be: []
+msgid "Издательский дом "Белый ветер""
+msgstr ""
+
+# Objects : [n3328394236]
+# name:be: []
+msgid "Инспекция по защите растений"
+msgstr ""
+
+# Objects : [w326219000]
+# name:be: []
+msgid "Институт "Мозырьсельстройпроект""
+msgstr ""
+
 # Objects : [w264092414]
 # name:be: []
 msgid "Интернат"
@@ -501,11 +516,6 @@ msgstr ""
 # Objects : [n3259601140, n890135750]
 # name:be: [Ленін]
 msgid "Ленин"
-msgstr ""
-
-# Objects : [w292094361]
-# name:be: []
-msgid "магазин"
 msgstr ""
 
 # Objects : [n674420151]
@@ -763,11 +773,6 @@ msgstr ""
 msgid "Пункт содержания животных "Верные друзья""
 msgstr ""
 
-# Objects : [n970036605]
-# name:be: []
-msgid "Пушкаря"
-msgstr ""
-
 # Objects : [n2805708708]
 # name:be: [Пхоў]
 msgid "Пхов"
@@ -823,11 +828,6 @@ msgstr ""
 msgid "Самолет"
 msgstr ""
 
-# Objects : [n3270045733]
-# name:be: []
-msgid "Своими глазами"
-msgstr ""
-
 # Objects : [n3270045710]
 # name:be: []
 msgid "СДЮШОР №1"
@@ -843,9 +843,19 @@ msgstr ""
 msgid "СДЮШОР №3"
 msgstr ""
 
+# Objects : [w326219003]
+# name:be: []
+msgid "Сказка"
+msgstr ""
+
 # Objects : [n3257797486]
 # name:be: []
 msgid "Совет ветеранов"
+msgstr ""
+
+# Objects : [w97779336]
+# name:be: []
+msgid "Средняя школа №14  "
 msgstr ""
 
 # Objects : [w112923616]
@@ -856,6 +866,11 @@ msgstr ""
 # Objects : [w242521132]
 # name:be: []
 msgid "Старый ПХОВ"
+msgstr ""
+
+# Objects : [w326552079]
+# name:be: []
+msgid "Столярный цех КЖУП "Мозырский райжилкомхоз""
 msgstr ""
 
 # Objects : [n3104125821]
@@ -933,11 +948,6 @@ msgstr ""
 msgid "УПК"
 msgstr ""
 
-# Objects : [w325861817]
-# name:be: []
-msgid "уют"
-msgstr ""
-
 # Objects : [n1282219144]
 # name:be: []
 msgid "Финансовая полиция"
@@ -946,6 +956,11 @@ msgstr ""
 # Objects : [n674422568]
 # name:be: [Фантан]
 msgid "Фонтан"
+msgstr ""
+
+# Objects : [n3332141672]
+# name:be: []
+msgid "Цент занятости"
 msgstr ""
 
 # Objects : [n614042616]
@@ -971,6 +986,11 @@ msgstr ""
 # Objects : [w112889535]
 # name:be: []
 msgid "ЧСУП Автюки"
+msgstr ""
+
+# Objects : [n3270045733]
+# name:be: []
+msgid "ЧУП "Своими Глазами""
 msgstr ""
 
 # Objects : [n3202904360]
@@ -1006,11 +1026,6 @@ msgstr ""
 # Objects : [w82213392]
 # name:be: []
 msgid "Школа №13"
-msgstr ""
-
-# Objects : [w97779336]
-# name:be: []
-msgid "Школа №14"
 msgstr ""
 
 # Objects : [w113413659]

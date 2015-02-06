@@ -1,5 +1,5 @@
 # Objects : [w52712921]
-# name:be: [1-і завулак Гастэлы]
+# name:be: [1-ы завулак Гастэлы]
 msgid "1-й переулок Гастелло"
 msgstr ""
 
@@ -46,6 +46,11 @@ msgstr ""
 # Objects : [w54515763]
 # name:be: [2-і завулак Дзяржынскага]
 msgid "2-й переулок Дзержинского"
+msgstr ""
+
+# Objects : [w66115734]
+# name:be: []
+msgid "2-й переулок Малахова"
 msgstr ""
 
 # Objects : [w133516186]
@@ -761,6 +766,11 @@ msgstr ""
 # Objects : [w25286937, w311100210, w60678915]
 # name:be: [вуліца Булата]
 msgid "улица Булата"
+msgstr ""
+
+# Objects : [w66115640]
+# name:be: []
+msgid "улица Веденина"
 msgstr ""
 
 # Objects : [w54515731]

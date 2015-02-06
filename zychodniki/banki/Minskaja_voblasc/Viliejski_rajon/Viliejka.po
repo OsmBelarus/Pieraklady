@@ -4,8 +4,8 @@ msgid "Банкомат"
 msgstr ""
 
 # Objects : [n1095201390]
-# name:be: []
-msgid "Беларусьбанк"
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n1769448582]

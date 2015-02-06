@@ -1,3 +1,8 @@
+# Objects : [w319980656]
+# name:be: []
+msgid "Алексеевская"
+msgstr ""
+
 # Objects : [w152376125]
 # name:be: []
 msgid "Андреевская улица"
@@ -371,6 +376,11 @@ msgstr ""
 # Objects : [w230076571]
 # name:be: []
 msgid "улица Школьная"
+msgstr ""
+
+# Objects : [w319980661]
+# name:be: []
+msgid "улица Шоссейная"
 msgstr ""
 
 # Objects : [w230076565]

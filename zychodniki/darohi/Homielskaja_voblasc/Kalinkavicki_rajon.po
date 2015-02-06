@@ -1,8 +1,3 @@
-# Objects : [w283743709]
-# name:be: []
-msgid "Дорожная"
-msgstr ""
-
 # Objects : [w285017851]
 # name:be: []
 msgid "Загородный переулок"
@@ -16,6 +11,11 @@ msgstr ""
 # Objects : [w234526789]
 # name:be: []
 msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w250207548]
+# name:be: []
+msgid "Краснооктябрьская"
 msgstr ""
 
 # Objects : [w285017852]
@@ -83,6 +83,11 @@ msgstr ""
 msgid "Привокзальная улица"
 msgstr ""
 
+# Objects : [w324435652]
+# name:be: []
+msgid "Пролетарская"
+msgstr ""
+
 # Objects : [w234168067, w300251075]
 # name:be: []
 msgid "Садовая улица"
@@ -128,7 +133,7 @@ msgstr ""
 msgid "улица Дзержинского"
 msgstr ""
 
-# Objects : [w250207543, w250207545]
+# Objects : [w250207543, w250207545, w283743709]
 # name:be: []
 msgid "улица Дорожная"
 msgstr ""
@@ -188,7 +193,7 @@ msgstr ""
 msgid "улица Сельская ?"
 msgstr ""
 
-# Objects : [w315849021]
+# Objects : [w131201844, w25252420, w315849021, w326187487]
 # name:be: []
 msgid "улица Советская"
 msgstr ""
@@ -213,7 +218,7 @@ msgstr ""
 msgid "Школьная улица"
 msgstr ""
 
-# Objects : [w250207539]
+# Objects : [w250207539, w250207546]
 # name:be: []
 msgid "Юбилейная улица"
 msgstr ""

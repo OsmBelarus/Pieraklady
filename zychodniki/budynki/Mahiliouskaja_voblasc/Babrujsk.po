@@ -18,6 +18,11 @@ msgstr ""
 msgid "eXtrime"
 msgstr ""
 
+# Objects : [w306351580]
+# name:be: []
+msgid "Martin"
+msgstr ""
+
 # Objects : [w283795906]
 # name:be: []
 msgid "MartInn"
@@ -351,6 +356,11 @@ msgstr ""
 # Objects : [w234988626]
 # name:be: []
 msgid "теплицы БШК"
+msgstr ""
+
+# Objects : [w306328452]
+# name:be: []
+msgid "ТЕХАС"
 msgstr ""
 
 # Objects : [w204353293]

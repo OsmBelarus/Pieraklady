@@ -1,11 +1,6 @@
-# Objects : [n2546854702]
-# name:be: []
-msgid "Belarusbank"
-msgstr ""
-
-# Objects : [n1456239696]
-# name:be: [Аграпрамбанк]
-msgid "Агропромбанк"
+# Objects : [n2532141897]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
 msgstr ""
 
 # Objects : [n1498684278]
@@ -13,12 +8,12 @@ msgstr ""
 msgid "Банк Москва-Минск"
 msgstr ""
 
-# Objects : [n2265515112]
-# name:be: []
+# Objects : [n1456239696, n2265515112]
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
-# Objects : [n1501795648, n2265513448, n2469062018, n2546867537, n3128212137]
+# Objects : [n1501795648, n2265513448, n2469062018, n2546854702, n2546867537, n3128212137]
 # name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
@@ -28,19 +23,29 @@ msgstr ""
 msgid "Белвест"
 msgstr ""
 
-# Objects : [n1123714097]
-# name:be: [БПС-банк]
-msgid "БПС-Сбербанк"
+# Objects : [n2836506196, w61538978]
+# name:be: [БелВЭБ]
+msgid "БелВЭБ"
 msgstr ""
 
-# Objects : [n2532141897]
-# name:be: []
-msgid "ВТБ"
+# Objects : [n2801193341]
+# name:be: [БелВЭБ, ЦРБ №680/1]
+msgid "БелВЭБ, ЦРБ №680/1"
 msgstr ""
 
 # Objects : [n3128238917]
-# name:be: []
-msgid "Газпромбанк"
+# name:be: [Белгазпромбанк]
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [w62071779]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n1123714097]
+# name:be: [БПС-Збербанк]
+msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n3318477136]
@@ -49,32 +54,12 @@ msgid "займы"
 msgstr ""
 
 # Objects : [n3128129872]
-# name:be: []
-msgid "Идея банк"
+# name:be: [Ідэя Банк]
+msgid "Идея Банк"
 msgstr ""
 
-# Objects : [n2836506196, w61538978]
-# name:be: []
-msgid "ОАО "Банк БелВЭБ""
-msgstr ""
-
-# Objects : [n2801193341]
-# name:be: []
-msgid "ОАО "Банк БелВЭБ" ЦРБ №680/1"
-msgstr ""
-
-# Objects : [w62071779]
-# name:be: []
-msgid "ОАО «Белинвестбанк»"
-msgstr ""
-
-# Objects : [n2836506193, w225999365]
-# name:be: []
+# Objects : [n2836506193, n3128130225, w225999365]
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
-msgstr ""
-
-# Objects : [n3128130225]
-# name:be: []
-msgid "Приор банк"
 msgstr ""
 

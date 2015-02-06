@@ -3,39 +3,34 @@
 msgid "Idea-Bank"
 msgstr ""
 
+# Objects : [n1537066493]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
+msgstr ""
+
 # Objects : [n823148609]
 # name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
-# Objects : [n1465777522, n1537088668, n2208025527]
+# Objects : [n1465777522, n1537088668, n2165308382, n2208025527]
 # name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
-# Objects : [n2165308382]
-# name:be: []
-msgid "БеларусБанк"
-msgstr ""
-
 # Objects : [n1190676422]
-# name:be: [Белзнешэканомбанк]
-msgid "Белвнешэкономбанк"
+# name:be: [БелВЭБ]
+msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n2181231775]
-# name:be: []
-msgid "БелИнвестБанк"
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n1061780491, n1465838167, n713173013]
-# name:be: [БПС-банк]
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
-msgstr ""
-
-# Objects : [n1537066493]
-# name:be: []
-msgid "ВТБ"
 msgstr ""
 
 # Objects : [n1061780495]

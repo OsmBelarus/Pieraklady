@@ -4,13 +4,13 @@ msgid "Банкомат"
 msgstr ""
 
 # Objects : [n2621932324, n2845369232]
-# name:be: []
+# name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n2860166327]
-# name:be: []
-msgid "БПС-сбербанк"
+# name:be: [БПС-Збербанк]
+msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n1325141864, n1325141866, n1325141867, n1325141868]
@@ -19,7 +19,7 @@ msgid "Инфокиоск"
 msgstr ""
 
 # Objects : [n1166379035]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

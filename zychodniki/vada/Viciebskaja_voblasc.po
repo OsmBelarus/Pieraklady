@@ -148,7 +148,7 @@ msgstr ""
 msgid "Бикложа"
 msgstr ""
 
-# Objects : [w113516524]
+# Objects : [w326561340]
 # name:be: []
 msgid "Бирвета"
 msgstr ""
@@ -578,7 +578,7 @@ msgstr ""
 msgid "Зарежанка"
 msgstr ""
 
-# Objects : [w25039218]
+# Objects : [w25039218, w326148601, w326148602]
 # name:be: []
 msgid "Заремнянка"
 msgstr ""

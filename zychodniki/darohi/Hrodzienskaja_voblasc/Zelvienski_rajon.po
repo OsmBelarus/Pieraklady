@@ -8,9 +8,19 @@ msgstr ""
 msgid "Бородичский переулок"
 msgstr ""
 
+# Objects : [w326061123]
+# name:be: []
+msgid "Вишневая улица"
+msgstr ""
+
 # Objects : [w274292608]
 # name:be: [Вакзальная вуліца]
 msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w326059678]
+# name:be: []
+msgid "Заклубная улица"
 msgstr ""
 
 # Objects : [w229050066]
@@ -28,12 +38,17 @@ msgstr ""
 msgid "Зелёная улица"
 msgstr ""
 
+# Objects : [w326061124]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
 # Objects : [w239756074]
 # name:be: []
 msgid "Майская улица"
 msgstr ""
 
-# Objects : [w120741134]
+# Objects : [w120741134, w326061125]
 # name:be: []
 msgid "Молодёжная улица"
 msgstr ""
@@ -58,7 +73,7 @@ msgstr ""
 msgid "Подболотье - Зельвянка"
 msgstr ""
 
-# Objects : [w239756079]
+# Objects : [w239756079, w326059680]
 # name:be: []
 msgid "Полевая улица"
 msgstr ""
@@ -73,12 +88,17 @@ msgstr ""
 msgid "Приозёрная улица"
 msgstr ""
 
+# Objects : [w326061126]
+# name:be: []
+msgid "Приречная улица"
+msgstr ""
+
 # Objects : [w325397924]
 # name:be: []
 msgid "Пролетарская улица"
 msgstr ""
 
-# Objects : [w120730665]
+# Objects : [w120730665, w326059675]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
 msgstr ""
@@ -96,6 +116,11 @@ msgstr ""
 # Objects : [w239756069]
 # name:be: []
 msgid "Северный переулок"
+msgstr ""
+
+# Objects : [w99911460]
+# name:be: []
+msgid "Слонимская улица"
 msgstr ""
 
 # Objects : [w229050072]
@@ -133,8 +158,13 @@ msgstr ""
 msgid "улица Мичурина"
 msgstr ""
 
-# Objects : [w230600878, w242827366, w273377194, w290476809, w290476810]
+# Objects : [w230600878, w242827366, w273377194, w290476809, w290476810, w326061127, w326061128]
 # name:be: []
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w326059672]
+# name:be: []
+msgid "Школьный переулок"
 msgstr ""
 

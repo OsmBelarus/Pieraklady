@@ -198,6 +198,11 @@ msgstr ""
 msgid "NaturLife.by"
 msgstr ""
 
+# Objects : [n3330603894]
+# name:be: []
+msgid "OGGI"
+msgstr ""
+
 # Objects : [n1831895898]
 # name:be: []
 msgid "Pro-trade"
@@ -1038,8 +1043,8 @@ msgstr ""
 msgid "Гламур"
 msgstr ""
 
-# Objects : [n1114696197]
-# name:be: [кнігарня "Глобус"]
+# Objects : [n3330615193]
+# name:be: []
 msgid "Глобус"
 msgstr ""
 
@@ -1218,7 +1223,7 @@ msgstr ""
 msgid "Евромода"
 msgstr ""
 
-# Objects : [n1393770721, n1524588379, n1762963588, n2778405155, n2782582544, n861311253]
+# Objects : [n1393770721, n1524588379, n1762963588, n2778405155, n2782582544, n3330610659, n861311253]
 # name:be: [Еўраопт]
 msgid "Евроопт"
 msgstr ""
@@ -2643,8 +2648,8 @@ msgstr ""
 msgid "Робинзон"
 msgstr ""
 
-# Objects : [n1109045614]
-# name:be: [Равеснік]
+# Objects : [n3330619105]
+# name:be: []
 msgid "Ровесник"
 msgstr ""
 
@@ -3421,6 +3426,11 @@ msgstr ""
 # Objects : [n2969538210]
 # name:be: []
 msgid "Эконом класс"
+msgstr ""
+
+# Objects : [n3328891169]
+# name:be: []
+msgid "Электроволна"
 msgstr ""
 
 # Objects : [n2517170703]

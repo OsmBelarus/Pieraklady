@@ -203,6 +203,11 @@ msgstr ""
 msgid "СТАРТ"
 msgstr ""
 
+# Objects : [w265363845]
+# name:be: []
+msgid "Стары Горaд"
+msgstr ""
+
 # Objects : [w209199618, w265898198]
 # name:be: []
 msgid "Трибуна"

@@ -68,6 +68,11 @@ msgstr ""
 msgid "Раздяловичи"
 msgstr ""
 
+# Objects : [w326181795, w326181796, w326182010]
+# name:be: []
+msgid "старица Лани"
+msgstr ""
+
 # Objects : [n2788684672]
 # name:be: [Сядзіба Апацкіх]
 msgid "Усадьба Апацкого"

@@ -4,7 +4,7 @@ msgid "Банкомат"
 msgstr ""
 
 # Objects : [n3126189180, n3127098670, n3127110108, n3127135759]
-# name:be: []
+# name:be: [Беларусбанк]
 msgid "Беларусбанк"
 msgstr ""
 
@@ -14,12 +14,12 @@ msgid "Белгосстрах"
 msgstr ""
 
 # Objects : [n3127099378, n3127111721, n3127131030, n3127162038]
-# name:be: []
+# name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n3127101561]
-# name:be: []
+# name:be: [Тэхнабанк]
 msgid "Технобанк"
 msgstr ""
 

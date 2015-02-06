@@ -103,6 +103,11 @@ msgstr ""
 msgid "96а"
 msgstr ""
 
+# Objects : [w321064866]
+# name:be: []
+msgid "Brest Railway Museum"
+msgstr ""
+
 # Objects : [w90836408]
 # name:be: []
 msgid "Fasion gallery"
@@ -186,6 +191,11 @@ msgstr ""
 # Objects : [w266390558]
 # name:be: []
 msgid "Асстор-Вест"
+msgstr ""
+
+# Objects : [w326135785]
+# name:be: []
+msgid "Баркас"
 msgstr ""
 
 # Objects : [w84189433]
@@ -441,6 +451,11 @@ msgstr ""
 # Objects : [w320744184]
 # name:be: []
 msgid "Изолятор"
+msgstr ""
+
+# Objects : [w60807446]
+# name:be: [Інтурыст]
+msgid "Интурист"
 msgstr ""
 
 # Objects : [w246456810]
@@ -918,6 +933,11 @@ msgstr ""
 msgid "Торгово-промышленная палата"
 msgstr ""
 
+# Objects : [w103115368, w70461374]
+# name:be: []
+msgid "Торговые ряды"
+msgstr ""
+
 # Objects : [w135929971]
 # name:be: [ТП]
 msgid "ТП"
@@ -1031,6 +1051,11 @@ msgstr ""
 # Objects : [w58695556]
 # name:be: [Цэнтр сац. абслугоўвання насельніцтва Маскоўскага раёну]
 msgid "Центр соц. обслуживания Московского района"
+msgstr ""
+
+# Objects : [w322977125]
+# name:be: []
+msgid "Центрум"
 msgstr ""
 
 # Objects : [w81818737]

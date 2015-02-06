@@ -9,12 +9,12 @@ msgid "Белагропром"
 msgstr ""
 
 # Objects : [n2582408203]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [n3129413950]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 

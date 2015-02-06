@@ -8,14 +8,14 @@ msgstr ""
 msgid "Белгазпромнефть"
 msgstr ""
 
-# Objects : [n3306260266]
-# name:be: [Беларуснафта №]
-msgid "Белоруснефть №"
-msgstr ""
-
 # Objects : [n3306548270, n3306548271]
 # name:be: [Беларуснафта №2]
 msgid "Белоруснефть №2"
+msgstr ""
+
+# Objects : [n3306260266]
+# name:be: [Беларуснафта №21]
+msgid "Белоруснефть №21"
 msgstr ""
 
 # Objects : [n306067368]

@@ -108,7 +108,7 @@ msgstr ""
 msgid "Дубово-спорт (хоккей на траве)"
 msgstr ""
 
-# Objects : [w242764522]
+# Objects : [w230799742, w242764522]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -161,6 +161,11 @@ msgstr ""
 # Objects : [w234303073]
 # name:be: []
 msgid "Медицинский центр "Линия Здоровья""
+msgstr ""
+
+# Objects : [w242855508]
+# name:be: []
+msgid "Мила"
 msgstr ""
 
 # Objects : [w138209769]

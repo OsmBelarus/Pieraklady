@@ -438,16 +438,6 @@ msgstr ""
 msgid "Средняя школа №158"
 msgstr ""
 
-# Objects : [n256315171]
-# name:be: [Сярэдняя школа №169]
-msgid "Средняя школа №169"
-msgstr ""
-
-# Objects : [n256315819]
-# name:be: [Сярэдняя школа №173]
-msgid "Средняя школа №173"
-msgstr ""
-
 # Objects : [w312493133]
 # name:be: []
 msgid "Средняя школа №175"
@@ -663,9 +653,9 @@ msgstr ""
 msgid "Сш№140"
 msgstr ""
 
-# Objects : [n305687288]
+# Objects : [w135423067]
 # name:be: []
-msgid "Сш№141"
+msgid "СШ №141"
 msgstr ""
 
 # Objects : [w260315322]
@@ -788,6 +778,11 @@ msgstr ""
 msgid "СШ№168"
 msgstr ""
 
+# Objects : [n256315171]
+# name:be: [CI №169]
+msgid "СШ №169"
+msgstr ""
+
 # Objects : [w168140955]
 # name:be: []
 msgid "СШ №17"
@@ -801,6 +796,11 @@ msgstr ""
 # Objects : [w303150839]
 # name:be: []
 msgid "Сш№172"
+msgstr ""
+
+# Objects : [w83986582]
+# name:be: [СШ №173]
+msgid "СШ №173"
 msgstr ""
 
 # Objects : [n305685270]

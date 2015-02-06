@@ -333,13 +333,13 @@ msgstr ""
 msgid "Луговая Слобода"
 msgstr ""
 
-# Objects : [n1317884044, n642264155, n767183472, n767183625]
+# Objects : [n1317884044, n767183472, n767183625]
 # name:be: [Магазін]
 msgid "магазин"
 msgstr ""
 
-# Objects : [n1692358230]
-# name:be: []
+# Objects : [n1692358230, n642264155]
+# name:be: [Магазін]
 msgid "Магазин"
 msgstr ""
 

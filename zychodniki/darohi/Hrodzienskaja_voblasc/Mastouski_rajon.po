@@ -13,7 +13,7 @@ msgstr ""
 msgid "Гродненская улица"
 msgstr ""
 
-# Objects : [w173367766]
+# Objects : [w134098276, w173367766, w98527455]
 # name:be: []
 msgid "Заводская улица"
 msgstr ""
@@ -58,7 +58,7 @@ msgstr ""
 msgid "Мелиоративная улица"
 msgstr ""
 
-# Objects : [w120325457, w173367780, w202447698, w227577925, w227577929, w243597877, w286837711, w306670837, w324909835]
+# Objects : [w120325457, w173367780, w202447698, w227577925, w227577929, w243597877, w286837711, w288238086, w306670837, w324909835]
 # name:be: []
 msgid "Молодёжная улица"
 msgstr ""
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Садовый переулок"
 msgstr ""
 
-# Objects : [w295044015, w295804534, w56278345]
+# Objects : [w295044015, w295804534, w304475854, w56278345]
 # name:be: []
 msgid "Советская улица"
 msgstr ""
@@ -156,6 +156,11 @@ msgstr ""
 # Objects : [w200707181]
 # name:be: []
 msgid "улица 40 БССР"
+msgstr ""
+
+# Objects : [w267889172]
+# name:be: []
+msgid "улица 50 лет БССР"
 msgstr ""
 
 # Objects : [w243631203]
@@ -188,7 +193,7 @@ msgstr ""
 msgid "улица Кравченко"
 msgstr ""
 
-# Objects : [w133344395, w175691802, w25288154]
+# Objects : [w175691802, w25288154]
 # name:be: []
 msgid "улица Ленина"
 msgstr ""
@@ -196,11 +201,6 @@ msgstr ""
 # Objects : [w121592593, w25288134, w25289146, w288238093, w324921511, w324922017, w324922018]
 # name:be: []
 msgid "улица Мира"
-msgstr ""
-
-# Objects : [w288238086]
-# name:be: []
-msgid "улица Молодежная"
 msgstr ""
 
 # Objects : [w131433750]
@@ -216,11 +216,6 @@ msgstr ""
 # Objects : [w288238088]
 # name:be: []
 msgid "улица Пролетарская"
-msgstr ""
-
-# Objects : [w304475854]
-# name:be: []
-msgid "улица Советская"
 msgstr ""
 
 # Objects : [w295044017]
@@ -241,6 +236,11 @@ msgstr ""
 # Objects : [w243631562]
 # name:be: []
 msgid "улица Энергетиков"
+msgstr ""
+
+# Objects : [w326058343]
+# name:be: []
+msgid "улица Явора"
 msgstr ""
 
 # Objects : [w243598302]

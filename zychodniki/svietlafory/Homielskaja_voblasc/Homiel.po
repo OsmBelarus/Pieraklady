@@ -53,6 +53,16 @@ msgstr ""
 msgid "Бакунина"
 msgstr ""
 
+# Objects : [n1129287208]
+# name:be: []
+msgid "Белгут"
+msgstr ""
+
+# Objects : [n2876928324]
+# name:be: []
+msgid "БелГУТ"
+msgstr ""
+
 # Objects : [n452529879]
 # name:be: [Бальніца]
 msgid "больница"
@@ -66,6 +76,16 @@ msgstr ""
 # Objects : [n795714419, n795714560]
 # name:be: [Ваенкамат]
 msgid "Военкомат"
+msgstr ""
+
+# Objects : [n456871058]
+# name:be: [Вакзал]
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n1129287211, n1334729467, n1770697397, n2710924302, n2876928325]
+# name:be: [Вакзал]
+msgid "Вокзал"
 msgstr ""
 
 # Objects : [n306068128]
@@ -748,7 +768,7 @@ msgstr ""
 msgid "Университет им. Ф. Скорины"
 msgstr ""
 
-# Objects : [n3300178163, n455929166, n455929168]
+# Objects : [n455929166, n455929168]
 # name:be: [фабрыка 8 Сакавіка]
 msgid "фабрика 8 Марта"
 msgstr ""
@@ -778,7 +798,7 @@ msgstr ""
 msgid "Центр радиационной медицины"
 msgstr ""
 
-# Objects : [n3300178165, n455929167, n795714558]
+# Objects : [n455929167, n795714558]
 # name:be: [Цырк]
 msgid "Цирк"
 msgstr ""

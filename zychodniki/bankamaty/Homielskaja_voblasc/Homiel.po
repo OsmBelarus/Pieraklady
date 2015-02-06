@@ -1,10 +1,15 @@
 # Objects : [n3304590074]
-# name:be: []
+# name:be: [ВТБ]
 msgid "Банк ВТБ"
 msgstr ""
 
+# Objects : [n2354862951]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
+msgstr ""
+
 # Objects : [n2675213001]
-# name:be: []
+# name:be: [БПС-Збербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 
@@ -13,18 +18,13 @@ msgstr ""
 msgid "магазин 'эконом Маркет'"
 msgstr ""
 
-# Objects : [n2354862951]
-# name:be: []
-msgid "Москва-Минск"
-msgstr ""
-
 # Objects : [n2589650714]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 
 # Objects : [n2354864109, n3284491389]
-# name:be: []
+# name:be: [Тэхнабанк]
 msgid "Технобанк"
 msgstr ""
 

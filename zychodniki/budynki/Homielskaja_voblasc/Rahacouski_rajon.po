@@ -3,6 +3,11 @@
 msgid "АВМ"
 msgstr ""
 
+# Objects : [w326535608]
+# name:be: []
+msgid "Арт.скв."
+msgstr ""
+
 # Objects : [w289975714]
 # name:be: []
 msgid "АТС"
@@ -26,11 +31,6 @@ msgstr ""
 # Objects : [w318069331]
 # name:be: []
 msgid "гаражи"
-msgstr ""
-
-# Objects : [w297376914]
-# name:be: []
-msgid "Детский сад"
 msgstr ""
 
 # Objects : [w289506833, w289528546, w289528547, w289973529]
@@ -91,6 +91,11 @@ msgstr ""
 # Objects : [w254106500, w287694223, w318078782, w325412518]
 # name:be: []
 msgid "котельная"
+msgstr ""
+
+# Objects : [w326186540]
+# name:be: []
+msgid "Котельная"
 msgstr ""
 
 # Objects : [w318069336]

@@ -108,6 +108,11 @@ msgstr ""
 msgid "Сан. "Свитязь" - Новосады - Валевка"
 msgstr ""
 
+# Objects : [w171380581]
+# name:be: []
+msgid "Свитязанская улица"
+msgstr ""
+
 # Objects : [w149594501, w149594502, w149594503]
 # name:be: []
 msgid "Свитязянская улица"
@@ -131,11 +136,6 @@ msgstr ""
 # Objects : [w303922225]
 # name:be: []
 msgid "ул. Оржаховского"
-msgstr ""
-
-# Objects : [w171380581]
-# name:be: []
-msgid "ул. Свитязянская"
 msgstr ""
 
 # Objects : [w124222077]

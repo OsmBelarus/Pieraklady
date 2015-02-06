@@ -1133,7 +1133,7 @@ msgstr ""
 msgid "Ежи Гедройца"
 msgstr ""
 
-# Objects : [n767088705]
+# Objects : [n275074611]
 # name:be: []
 msgid "Ермака"
 msgstr ""
@@ -2728,7 +2728,7 @@ msgstr ""
 msgid "Поликлиника №2"
 msgstr ""
 
-# Objects : [n320719655, n320719660, n320719663, n320719666]
+# Objects : [n275079756, n320719655, n320719660, n320719663]
 # name:be: []
 msgid "Поликлиника №25"
 msgstr ""

@@ -8,6 +8,11 @@ msgstr ""
 msgid "2-й Рощинский переулок"
 msgstr ""
 
+# Objects : [w304374137]
+# name:be: []
+msgid "3-я Авиационная улица"
+msgstr ""
+
 # Objects : [w25235615]
 # name:be: [8-я Іншагародняя вуліца]
 msgid "8-я Иногородняя улица"
@@ -91,6 +96,11 @@ msgstr ""
 # Objects : [w44174185]
 # name:be: [вуліца Карповіча]
 msgid "улица Карповича"
+msgstr ""
+
+# Objects : [w25236367]
+# name:be: []
+msgid "улица Первомайская"
 msgstr ""
 
 # Objects : [w313344442, w91885117]

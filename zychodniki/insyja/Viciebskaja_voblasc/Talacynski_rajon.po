@@ -83,6 +83,11 @@ msgstr ""
 msgid "Космачевское"
 msgstr ""
 
+# Objects : [n3328230058]
+# name:be: []
+msgid "котельня"
+msgstr ""
+
 # Objects : [n306066530]
 # name:be: [Коханава]
 msgid "Коханово"
@@ -131,6 +136,11 @@ msgstr ""
 # Objects : [w247003627]
 # name:be: []
 msgid "пилорама"
+msgstr ""
+
+# Objects : [n3328349150, w326201454]
+# name:be: []
+msgid "питомник"
 msgstr ""
 
 # Objects : [n2788684196]

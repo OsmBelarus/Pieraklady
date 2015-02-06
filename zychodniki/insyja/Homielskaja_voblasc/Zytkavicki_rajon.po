@@ -78,6 +78,11 @@ msgstr ""
 msgid "Национальный парк "Припятский""
 msgstr ""
 
+# Objects : [w25193820]
+# name:be: []
+msgid "отст."
+msgstr ""
+
 # Objects : [w293669134, w294789270]
 # name:be: []
 msgid "Первомайская улица"

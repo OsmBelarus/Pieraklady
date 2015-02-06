@@ -8,11 +8,6 @@ msgstr ""
 msgid "Ross Air Base"
 msgstr ""
 
-# Objects : [w197397324]
-# name:be: []
-msgid "АБК№1"
-msgstr ""
-
 # Objects : [w71957109]
 # name:be: []
 msgid "авиабаза Россь"
@@ -96,11 +91,6 @@ msgstr ""
 # Objects : [w267196633]
 # name:be: []
 msgid "Здание бывшей автобусной станции"
-msgstr ""
-
-# Objects : [w69139639]
-# name:be: []
-msgid "Зеньчики"
 msgstr ""
 
 # Objects : [n1147948746]

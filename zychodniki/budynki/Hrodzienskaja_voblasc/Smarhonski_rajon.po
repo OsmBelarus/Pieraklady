@@ -18,6 +18,11 @@ msgstr ""
 msgid "Кревский замок (руины)"
 msgstr ""
 
+# Objects : [w326528084]
+# name:be: []
+msgid "о.п.Белосельский"
+msgstr ""
+
 # Objects : [w109300215]
 # name:be: [Паліклініка]
 msgid "Поликлиника"

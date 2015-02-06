@@ -340,17 +340,12 @@ msgstr ""
 
 # Objects : [w294964521]
 # name:be: []
-msgid "Паровоз"
+msgid "Паравоз"
 msgstr ""
 
 # Objects : [n2869847332]
 # name:be: []
 msgid "Подкова"
-msgstr ""
-
-# Objects : [w252127580]
-# name:be: []
-msgid "Почта"
 msgstr ""
 
 # Objects : [w179901507]

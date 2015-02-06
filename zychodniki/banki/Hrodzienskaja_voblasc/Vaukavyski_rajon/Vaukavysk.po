@@ -33,19 +33,14 @@ msgstr ""
 msgid "Беларусбанк филиал №402"
 msgstr ""
 
-# Objects : [n2059096227]
-# name:be: []
-msgid "Белвнешэкономбанк"
-msgstr ""
-
-# Objects : [w98009428]
-# name:be: []
+# Objects : [n2059096227, w98009428]
+# name:be: [БелВЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n1776117551]
-# name:be: []
-msgid "БПС-Банк"
+# name:be: [БПС-Збербанк]
+msgid "БПС-Сбербанк"
 msgstr ""
 
 # Objects : [n2059096231]

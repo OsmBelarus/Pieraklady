@@ -4,7 +4,7 @@ msgid "АСБ "Беларусбанк" Филиал №714"
 msgstr ""
 
 # Objects : [w205433302]
-# name:be: []
+# name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
 
@@ -39,12 +39,12 @@ msgid "отделение №714/30 АСБ Беларусбанк"
 msgstr ""
 
 # Objects : [n2142290983]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 
 # Objects : [n2154061377]
-# name:be: []
-msgid "Хоум кредит банк"
+# name:be: [Хоўм Крэдыт Банк]
+msgid "Хоум Кредит Банк"
 msgstr ""
 

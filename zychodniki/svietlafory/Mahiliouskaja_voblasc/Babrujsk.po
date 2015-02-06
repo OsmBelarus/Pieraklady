@@ -88,11 +88,6 @@ msgstr ""
 msgid "Береговая"
 msgstr ""
 
-# Objects : [n3039847874]
-# name:be: []
-msgid "БУК ДЭП"
-msgstr ""
-
 # Objects : [n1855137632]
 # name:be: []
 msgid "Ванцетти"
@@ -138,9 +133,9 @@ msgstr ""
 msgid "Горгаз"
 msgstr ""
 
-# Objects : [n1855063117]
+# Objects : [n1855063117, n3039847874]
 # name:be: []
-msgid "Гордэп"
+msgid "ГорДЭП"
 msgstr ""
 
 # Objects : [n1855073781]
@@ -218,7 +213,7 @@ msgstr ""
 msgid "Дом связи"
 msgstr ""
 
-# Objects : [n1852220694]
+# Objects : [n1852220694, n3328460591]
 # name:be: []
 msgid "ДРСУ-171"
 msgstr ""
@@ -641,6 +636,11 @@ msgstr ""
 # Objects : [n1855132040, n1855132041]
 # name:be: []
 msgid "Спецавтотехника"
+msgstr ""
+
+# Objects : [n3328438727]
+# name:be: []
+msgid "Спецавтохозяйство"
 msgstr ""
 
 # Objects : [n539236619, n539236620]

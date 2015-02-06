@@ -1,3 +1,8 @@
+# Objects : [w257730785]
+# name:be: []
+msgid "Берёзка"
+msgstr ""
+
 # Objects : [w239169115]
 # name:be: []
 msgid "да"
@@ -6,6 +11,11 @@ msgstr ""
 # Objects : [w294293652]
 # name:be: []
 msgid "дет. сад"
+msgstr ""
+
+# Objects : [w257730790]
+# name:be: []
+msgid "Детская поликлиника"
 msgstr ""
 
 # Objects : [w131591748]
@@ -66,6 +76,11 @@ msgstr ""
 # Objects : [w287270306]
 # name:be: []
 msgid "морг"
+msgstr ""
+
+# Objects : [w257745597]
+# name:be: []
+msgid "Полесье"
 msgstr ""
 
 # Objects : [w239172489, w239182738]

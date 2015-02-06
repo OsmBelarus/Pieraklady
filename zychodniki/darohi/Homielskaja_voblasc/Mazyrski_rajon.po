@@ -138,6 +138,11 @@ msgstr ""
 msgid "переулок Ковпака"
 msgstr ""
 
+# Objects : [w41582690]
+# name:be: []
+msgid "переулок Ленина"
+msgstr ""
+
 # Objects : [w232585304, w232585315]
 # name:be: []
 msgid "переулок Садовый"

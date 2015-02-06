@@ -1,3 +1,8 @@
+# Objects : [n1958665416]
+# name:be: [Банк ВТБ]
+msgid "Банк ВТБ"
+msgstr ""
+
 # Objects : [n3283679746]
 # name:be: []
 msgid "Банкомат"
@@ -13,11 +18,6 @@ msgstr ""
 msgid "Беларусбанк"
 msgstr ""
 
-# Objects : [n1958665416]
-# name:be: []
-msgid "ВТБ"
-msgstr ""
-
 # Objects : [n487106458]
 # name:be: []
 msgid "ОАО "Беларусбанк", филиал №614, отд. №614/83"
@@ -29,7 +29,7 @@ msgid "Отделение Беларусбанк № 614/70"
 msgstr ""
 
 # Objects : [n2579675227]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 
@@ -39,7 +39,7 @@ msgid "Сберкасса"
 msgstr ""
 
 # Objects : [n2409599025]
-# name:be: []
+# name:be: [Тэхнабанк]
 msgid "Технобанк"
 msgstr ""
 

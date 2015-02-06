@@ -168,6 +168,11 @@ msgstr ""
 msgid "Усадьба "Над Неманом""
 msgstr ""
 
+# Objects : [w99369045]
+# name:be: []
+msgid "Храм Сошествия Святого Духа"
+msgstr ""
+
 # Objects : [w243099004]
 # name:be: []
 msgid "Цех для производства стекловаты"

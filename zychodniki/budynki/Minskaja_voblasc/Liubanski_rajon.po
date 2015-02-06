@@ -28,9 +28,24 @@ msgstr ""
 msgid "ГРУ-6"
 msgstr ""
 
+# Objects : [w326209567, w326214930]
+# name:be: []
+msgid "конюшня"
+msgstr ""
+
+# Objects : [w326209333]
+# name:be: []
+msgid "лесопилка"
+msgstr ""
+
 # Objects : [w157402172]
 # name:be: []
 msgid "Лесопилка"
+msgstr ""
+
+# Objects : [w326209173]
+# name:be: []
+msgid "магазин"
 msgstr ""
 
 # Objects : [w156330889]

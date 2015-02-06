@@ -203,7 +203,7 @@ msgstr ""
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w90654827, w97094789]
+# Objects : [w245679177, w90654827, w97094789]
 # name:be: [Межавая вуліца]
 msgid "Межевая улица"
 msgstr ""
@@ -314,7 +314,7 @@ msgid "переулок Кутузова"
 msgstr ""
 
 # Objects : [w195365083]
-# name:be: []
+# name:be: [завулак Перамогі]
 msgid "переулок Победы"
 msgstr ""
 
@@ -691,11 +691,6 @@ msgstr ""
 # Objects : [w95569163, w96581090, w96780348]
 # name:be: [вуліца Мядведзева]
 msgid "улица Медведева"
-msgstr ""
-
-# Objects : [w245679177]
-# name:be: []
-msgid "улица Межевая"
 msgstr ""
 
 # Objects : [w96834982]

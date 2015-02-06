@@ -338,16 +338,6 @@ msgstr ""
 msgid "Белгосстрах"
 msgstr ""
 
-# Objects : [n1129287208]
-# name:be: []
-msgid "Белгут"
-msgstr ""
-
-# Objects : [n2876928324]
-# name:be: []
-msgid "БелГУТ"
-msgstr ""
-
 # Objects : [w188051553]
 # name:be: []
 msgid "БелНИПИнефть"
@@ -463,16 +453,6 @@ msgstr ""
 msgid "Водолечебница"
 msgstr ""
 
-# Objects : [n456871058]
-# name:be: [Вакзал]
-msgid "вокзал"
-msgstr ""
-
-# Objects : [n1129287211, n1334729467, n1770697397, n2710924302, n2876928325]
-# name:be: [Вакзал]
-msgid "Вокзал"
-msgstr ""
-
 # Objects : [n625828388, n625828399, n625828409]
 # name:be: []
 msgid "ВТБ Беларусь"
@@ -486,11 +466,6 @@ msgstr ""
 # Objects : [w254994275]
 # name:be: []
 msgid "ВЧ 5525"
-msgstr ""
-
-# Objects : [w304447521]
-# name:be: []
-msgid "Газовая подстанция"
 msgstr ""
 
 # Objects : [n2669416327]
@@ -748,6 +723,11 @@ msgstr ""
 msgid "Детская поликлиника № 4"
 msgstr ""
 
+# Objects : [w256936956]
+# name:be: []
+msgid "Детская школа искусств №3"
+msgstr ""
+
 # Objects : [w130859473]
 # name:be: []
 msgid "Детские площадки"
@@ -901,6 +881,11 @@ msgstr ""
 # Objects : [n3051792971]
 # name:be: [Залінейны]
 msgid "Залинейный"
+msgstr ""
+
+# Objects : [n3328016329]
+# name:be: []
+msgid "Защитникам Бреста"
 msgstr ""
 
 # Objects : [w192662930]
@@ -1453,6 +1438,11 @@ msgstr ""
 msgid "ОАО "Гомельский завод пусковых двигателей имени П.К.Пономаренко"""
 msgstr ""
 
+# Objects : [w326182383]
+# name:be: []
+msgid "ОАО "Завод измерительных приборов""
+msgstr ""
+
 # Objects : [w238168589]
 # name:be: []
 msgid "ОАО «Белэлектромонтаж» ЭМУ-3"
@@ -1646,11 +1636,6 @@ msgstr ""
 # Objects : [w173060153]
 # name:be: [Пажарная частка]
 msgid "Пожарная часть"
-msgstr ""
-
-# Objects : [w304447506]
-# name:be: []
-msgid "Пожарная часть №1"
 msgstr ""
 
 # Objects : [n1069524652]
@@ -2008,6 +1993,11 @@ msgstr ""
 msgid "Суши-бар "Табу""
 msgstr ""
 
+# Objects : [w121284738]
+# name:be: []
+msgid "СШ № 19 с художественным уклоном"
+msgstr ""
+
 # Objects : [n633516440]
 # name:be: []
 msgid "Таверна"
@@ -2323,6 +2313,16 @@ msgstr ""
 msgid "Шиферный склад"
 msgstr ""
 
+# Objects : [w209326046]
+# name:be: []
+msgid "Школа №33"
+msgstr ""
+
+# Objects : [w263240930]
+# name:be: []
+msgid "Школа №47"
+msgstr ""
+
 # Objects : [w206642330]
 # name:be: []
 msgid "Школьный сад"
@@ -2351,5 +2351,10 @@ msgstr ""
 # Objects : [w38536242, w38536243, w38536244, w38565945, w39951156]
 # name:be: [Яблыневы сад]
 msgid "Яблоневый сад"
+msgstr ""
+
+# Objects : [w64946704]
+# name:be: []
+msgid "ясли-сад № 136 Искорка"
 msgstr ""
 

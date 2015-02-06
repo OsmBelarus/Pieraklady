@@ -133,9 +133,19 @@ msgstr ""
 msgid "Д/С №336"
 msgstr ""
 
+# Objects : [w135423486]
+# name:be: []
+msgid "д/с №338"
+msgstr ""
+
 # Objects : [w234896096]
 # name:be: []
 msgid "д/с №344"
+msgstr ""
+
+# Objects : [w135423085]
+# name:be: []
+msgid "д/с №348"
 msgstr ""
 
 # Objects : [w173158188]
@@ -193,6 +203,11 @@ msgstr ""
 msgid "д/с №388"
 msgstr ""
 
+# Objects : [w135423054]
+# name:be: []
+msgid "д/с №392"
+msgstr ""
+
 # Objects : [n281704005]
 # name:be: []
 msgid "д/с №393"
@@ -221,6 +236,11 @@ msgstr ""
 # Objects : [w168500959]
 # name:be: []
 msgid "д/с №403"
+msgstr ""
+
+# Objects : [w135423066]
+# name:be: []
+msgid "д/с №405"
 msgstr ""
 
 # Objects : [w147370202]
@@ -278,6 +298,11 @@ msgstr ""
 msgid "д/с №454"
 msgstr ""
 
+# Objects : [w83986665]
+# name:be: []
+msgid "д/с №459"
+msgstr ""
+
 # Objects : [w234867310]
 # name:be: [д/с №460]
 msgid "д/с №460"
@@ -293,6 +318,11 @@ msgstr ""
 msgid "д/с №473"
 msgstr ""
 
+# Objects : [w83986643]
+# name:be: []
+msgid "д/с №479"
+msgstr ""
+
 # Objects : [w172541389]
 # name:be: []
 msgid "д/с №480"
@@ -301,6 +331,11 @@ msgstr ""
 # Objects : [w76079734]
 # name:be: []
 msgid "д/с №486"
+msgstr ""
+
+# Objects : [w135436192]
+# name:be: []
+msgid "д/с №493"
 msgstr ""
 
 # Objects : [w36966472]
@@ -326,6 +361,11 @@ msgstr ""
 # Objects : [w76437610]
 # name:be: []
 msgid "д/с №508"
+msgstr ""
+
+# Objects : [w83986675]
+# name:be: []
+msgid "д/с №516"
 msgstr ""
 
 # Objects : [w76437667]
@@ -468,6 +508,11 @@ msgstr ""
 msgid "д/с №84"
 msgstr ""
 
+# Objects : [w135423055]
+# name:be: []
+msgid "д/с №91"
+msgstr ""
+
 # Objects : [w266832071]
 # name:be: [д/с №94]
 msgid "д/с №94"
@@ -521,11 +566,6 @@ msgstr ""
 # Objects : [w25318569]
 # name:be: [Дзіцячы сад 427]
 msgid "Детский сад 427"
-msgstr ""
-
-# Objects : [w25318541, w25537550]
-# name:be: []
-msgid "Детский сад 493"
 msgstr ""
 
 # Objects : [n2551866896]
@@ -1558,11 +1598,6 @@ msgstr ""
 msgid "№337"
 msgstr ""
 
-# Objects : [n305687286]
-# name:be: []
-msgid "№338"
-msgstr ""
-
 # Objects : [n305685312]
 # name:be: []
 msgid "№34"
@@ -1581,11 +1616,6 @@ msgstr ""
 # Objects : [n305685636]
 # name:be: []
 msgid "№347"
-msgstr ""
-
-# Objects : [n305687285]
-# name:be: []
-msgid "№348"
 msgstr ""
 
 # Objects : [n305675761]
@@ -1658,11 +1688,6 @@ msgstr ""
 msgid "№390"
 msgstr ""
 
-# Objects : [n1375734074]
-# name:be: []
-msgid "№392"
-msgstr ""
-
 # Objects : [n305685801]
 # name:be: []
 msgid "№395"
@@ -1681,11 +1706,6 @@ msgstr ""
 # Objects : [w25392937]
 # name:be: []
 msgid "№401"
-msgstr ""
-
-# Objects : [n305685869]
-# name:be: []
-msgid "№405"
 msgstr ""
 
 # Objects : [w102130292]
@@ -1753,11 +1773,6 @@ msgstr ""
 msgid "№458"
 msgstr ""
 
-# Objects : [n305685871]
-# name:be: []
-msgid "№459"
-msgstr ""
-
 # Objects : [n305676002]
 # name:be: [№462]
 msgid "№462"
@@ -1803,14 +1818,9 @@ msgstr ""
 msgid "№477"
 msgstr ""
 
-# Objects : [n305685833]
+# Objects : [w79363332]
 # name:be: []
 msgid "№478"
-msgstr ""
-
-# Objects : [n306069200]
-# name:be: []
-msgid "№479"
 msgstr ""
 
 # Objects : [n306069317]
@@ -1861,11 +1871,6 @@ msgstr ""
 # Objects : [n305675584]
 # name:be: []
 msgid "№514"
-msgstr ""
-
-# Objects : [n306069192]
-# name:be: []
-msgid "№516"
 msgstr ""
 
 # Objects : [n305675015]
@@ -1986,11 +1991,6 @@ msgstr ""
 # Objects : [n305683097]
 # name:be: []
 msgid "№86"
-msgstr ""
-
-# Objects : [n305686957]
-# name:be: []
-msgid "№91"
 msgstr ""
 
 # Objects : [n305683474]

@@ -1,15 +1,15 @@
 # Objects : [w260088671]
-# name:be: []
-msgid "Белагробанк"
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [w265763139]
-# name:be: []
-msgid "Беларусьбанк"
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [w265900056]
-# name:be: []
+# name:be: [Прыёрбанк]
 msgid "Приорбанк"
 msgstr ""
 
