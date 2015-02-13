@@ -23,6 +23,11 @@ msgstr ""
 msgid "улица Советская"
 msgstr ""
 
+# Objects : [w327284678]
+# name:be: []
+msgid "улица Центральная"
+msgstr ""
+
 # Objects : [w138669198]
 # name:be: []
 msgid "улица Школьная"

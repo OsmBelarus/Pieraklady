@@ -279,7 +279,7 @@ msgid "Кожзавод"
 msgstr ""
 
 # Objects : [n1098160581, n1098160582]
-# name:be: []
+# name:be: [Калодзішчы-2]
 msgid "Колодищи-2"
 msgstr ""
 
@@ -553,11 +553,6 @@ msgstr ""
 msgid "Поворот на Ляды"
 msgstr ""
 
-# Objects : [n439285472]
-# name:be: [Паварот на Малінаўку]
-msgid "поворот на Малиновку"
-msgstr ""
-
 # Objects : [n1947208812]
 # name:be: []
 msgid "поворот на Мачулищи"
@@ -634,7 +629,7 @@ msgid "Подсады"
 msgstr ""
 
 # Objects : [n2146882990]
-# name:be: []
+# name:be: [Палігон]
 msgid "Полигон"
 msgstr ""
 
@@ -849,12 +844,12 @@ msgid "Учхоз"
 msgstr ""
 
 # Objects : [n767183759, n767184085]
-# name:be: []
+# name:be: [Утульны]
 msgid "Уютный"
 msgstr ""
 
 # Objects : [n767183424, n767183624]
-# name:be: []
+# name:be: [Утульны-1]
 msgid "Уютный-1"
 msgstr ""
 

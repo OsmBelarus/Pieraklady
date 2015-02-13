@@ -4,7 +4,7 @@ msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n320409648]
-# name:be: [БелЗЭБ]
+# name:be: [БелВЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
@@ -14,7 +14,7 @@ msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n2058941523, n320409465, n320409792]
-# name:be: [БПС-Збербанк]
+# name:be: [БПС-Сбербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 

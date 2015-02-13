@@ -33,6 +33,11 @@ msgstr ""
 msgid "Кулинария"
 msgstr ""
 
+# Objects : [n1380782843]
+# name:be: []
+msgid "Магазин №4"
+msgstr ""
+
 # Objects : [n1380790920, n1380793126]
 # name:be: []
 msgid "Мясо"

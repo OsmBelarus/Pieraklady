@@ -413,7 +413,7 @@ msgstr ""
 msgid "Приборское кладбище"
 msgstr ""
 
-# Objects : [n2788683905, n2788683957]
+# Objects : [n2788683905]
 # name:be: [Прысядзібны парк]
 msgid "Приусадебный парк"
 msgstr ""
@@ -566,11 +566,6 @@ msgstr ""
 # Objects : [w326332387]
 # name:be: []
 msgid "Хранилище сточных вод"
-msgstr ""
-
-# Objects : [n243046787]
-# name:be: [Хутар]
-msgid "Хутор"
 msgstr ""
 
 # Objects : [w310327170]

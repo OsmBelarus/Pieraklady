@@ -33,7 +33,7 @@ msgstr ""
 msgid "Заречная улица"
 msgstr ""
 
-# Objects : [w239756087]
+# Objects : [w239756087, w326897566]
 # name:be: []
 msgid "Зелёная улица"
 msgstr ""
@@ -53,9 +53,29 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
+# Objects : [w327312396]
+# name:be: []
+msgid "Мост"
+msgstr ""
+
+# Objects : [w326897569]
+# name:be: []
+msgid "Озёрная улица"
+msgstr ""
+
+# Objects : [w326897570]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
 # Objects : [w237892971, w273377183]
 # name:be: []
 msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w327037603, w327039633]
+# name:be: []
+msgid "Пешеходный мост"
 msgstr ""
 
 # Objects : [w129798706]
@@ -88,7 +108,7 @@ msgstr ""
 msgid "Приозёрная улица"
 msgstr ""
 
-# Objects : [w326061126]
+# Objects : [w326061126, w326897571]
 # name:be: []
 msgid "Приречная улица"
 msgstr ""
@@ -96,6 +116,11 @@ msgstr ""
 # Objects : [w325397924]
 # name:be: []
 msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w327041637]
+# name:be: []
+msgid "Проход под железной дорогой"
 msgstr ""
 
 # Objects : [w120730665, w326059675]

@@ -28,12 +28,22 @@ msgstr ""
 msgid "Вышка сотовой связи"
 msgstr ""
 
+# Objects : [w263455719]
+# name:be: []
+msgid "Детская школа искусств"
+msgstr ""
+
 # Objects : [n2924566520]
 # name:be: []
 msgid "ДОТ"
 msgstr ""
 
-# Objects : [n2956965602]
+# Objects : [w263455714]
+# name:be: []
+msgid "Кочищанская средняя школа"
+msgstr ""
+
+# Objects : [w327926164]
 # name:be: []
 msgid "Курган славы"
 msgstr ""

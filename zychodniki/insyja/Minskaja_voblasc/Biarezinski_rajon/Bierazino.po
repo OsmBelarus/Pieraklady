@@ -8,13 +8,18 @@ msgstr ""
 msgid "АП-22"
 msgstr ""
 
+# Objects : [n2802209042]
+# name:be: [Басейн плавальны]
+msgid "Бассейн плавательный"
+msgstr ""
+
 # Objects : [n1365242971]
 # name:be: [Беразіно]
 msgid "Березино"
 msgstr ""
 
 # Objects : [n2788679976]
-# name:be: [Вінакурня]
+# name:be: [ВінаКурня]
 msgid "Винодельня"
 msgstr ""
 
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [n950591210]
 # name:be: []
 msgid "костел Матери Божьего Милосердия"
+msgstr ""
+
+# Objects : [w275593251]
+# name:be: [Рынак]
+msgid "Рынок"
 msgstr ""
 
 # Objects : [n2788684752]

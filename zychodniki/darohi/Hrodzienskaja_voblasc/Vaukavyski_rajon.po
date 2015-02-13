@@ -163,19 +163,9 @@ msgstr ""
 msgid "Строительная улица"
 msgstr ""
 
-# Objects : [w243625499]
-# name:be: []
-msgid "ул. Аграрная"
-msgstr ""
-
 # Objects : [w306657092, w306657093]
 # name:be: []
 msgid "ул. Восточная"
-msgstr ""
-
-# Objects : [w311389127]
-# name:be: []
-msgid "ул. Гродненская"
 msgstr ""
 
 # Objects : [w310071268]
@@ -203,7 +193,7 @@ msgstr ""
 msgid "ул. Полевая"
 msgstr ""
 
-# Objects : [w193285055, w243599362]
+# Objects : [w193285055]
 # name:be: []
 msgid "ул. Садовая"
 msgstr ""
@@ -226,6 +216,16 @@ msgstr ""
 # Objects : [w269533229]
 # name:be: []
 msgid "Улица 1Сентября"
+msgstr ""
+
+# Objects : [w243625499]
+# name:be: []
+msgid "улица Аграрная"
+msgstr ""
+
+# Objects : [w311389127]
+# name:be: []
+msgid "улица Гродненская"
 msgstr ""
 
 # Objects : [w306985913, w307295741, w307295742]

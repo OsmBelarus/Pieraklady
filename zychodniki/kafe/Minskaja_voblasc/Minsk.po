@@ -903,6 +903,11 @@ msgstr ""
 msgid "Бакинский бульвар"
 msgstr ""
 
+# Objects : [n3347204093]
+# name:be: []
+msgid "Балук"
+msgstr ""
+
 # Objects : [n2619929099]
 # name:be: []
 msgid "Бамбук"
@@ -1431,6 +1436,11 @@ msgstr ""
 # Objects : [n3282351241]
 # name:be: []
 msgid "Кафе ""орион"
+msgstr ""
+
+# Objects : [n3334784222]
+# name:be: []
+msgid "Кафе "Family Club""
 msgstr ""
 
 # Objects : [n2779137134]
@@ -2983,7 +2993,7 @@ msgstr ""
 msgid "Хутка-смачна"
 msgstr ""
 
-# Objects : [n278463217, n3141940104, w282034333]
+# Objects : [n278463217, n3141940104, n3336682538, w282034333]
 # name:be: []
 msgid "Хутка-Смачна"
 msgstr ""

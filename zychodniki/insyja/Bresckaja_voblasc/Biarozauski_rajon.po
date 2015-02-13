@@ -8,6 +8,11 @@ msgstr ""
 msgid "Osovtsy Air Base"
 msgstr ""
 
+# Objects : [w300638831]
+# name:be: []
+msgid "Radar"
+msgstr ""
+
 # Objects : [w239349476]
 # name:be: []
 msgid "Автопарк"
@@ -61,6 +66,11 @@ msgstr ""
 # Objects : [n1263755115]
 # name:be: []
 msgid "гостиница "Охотничья усадьба""
+msgstr ""
+
+# Objects : [w327118747]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [w170001603]
@@ -136,6 +146,11 @@ msgstr ""
 # Objects : [r71108]
 # name:be: []
 msgid "Споровское"
+msgstr ""
+
+# Objects : [w327118753]
+# name:be: []
+msgid "Станция перекачки"
 msgstr ""
 
 # Objects : [n2788684588]

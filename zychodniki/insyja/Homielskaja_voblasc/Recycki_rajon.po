@@ -263,6 +263,11 @@ msgstr ""
 msgid "Лицей"
 msgstr ""
 
+# Objects : [w327534732]
+# name:be: []
+msgid "Магистраль М10 проект"
+msgstr ""
+
 # Objects : [w302132355]
 # name:be: []
 msgid "Мехдвор"
@@ -316,6 +321,11 @@ msgstr ""
 # Objects : [n2681626466]
 # name:be: []
 msgid "Озерщина"
+msgstr ""
+
+# Objects : [n3341022935]
+# name:be: []
+msgid "остров Свидерский"
 msgstr ""
 
 # Objects : [n2710612921]
@@ -481,6 +491,21 @@ msgstr ""
 # Objects : [w269467412]
 # name:be: []
 msgid "УПН"
+msgstr ""
+
+# Objects : [n3335568285]
+# name:be: []
+msgid "ур. Жигальская речка"
+msgstr ""
+
+# Objects : [n3341035925]
+# name:be: []
+msgid "ур. Поперечное поле"
+msgstr ""
+
+# Objects : [n3335569341]
+# name:be: []
+msgid "ур. Тридцатое"
 msgstr ""
 
 # Objects : [n1738536359]

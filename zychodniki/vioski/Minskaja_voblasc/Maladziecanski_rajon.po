@@ -1273,12 +1273,7 @@ msgstr ""
 msgid "Талуи"
 msgstr ""
 
-# Objects : [w285854734, w285854735]
-# name:be: []
-msgid "Татарщизна"
-msgstr ""
-
-# Objects : [n243009284, n243009289, w25131501, w25131505]
+# Objects : [n243009284, n243009289, w25131501, w326937537]
 # name:be: [Татаршчына]
 msgid "Татарщина"
 msgstr ""

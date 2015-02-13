@@ -8,6 +8,11 @@ msgstr ""
 msgid "гидро мельница"
 msgstr ""
 
+# Objects : [r3293731]
+# name:be: []
+msgid "Дом Культуры"
+msgstr ""
+
 # Objects : [w69139855]
 # name:be: []
 msgid "ЖКХ"
@@ -58,6 +63,11 @@ msgstr ""
 msgid "Синагога"
 msgstr ""
 
+# Objects : [w69138706]
+# name:be: []
+msgid "ТЦ АЛЬТЕНБУРГ"
+msgstr ""
+
 # Objects : [n2788685307]
 # name:be: [Гаспадарчы двор Патоцкіх]
 msgid "Хозяйственный двор Потоцких"
@@ -66,5 +76,10 @@ msgstr ""
 # Objects : [n2788686636]
 # name:be: [Царква Святой Тройцы]
 msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n2788687467]
+# name:be: [Капліца могілкавая Святога Стафана]
+msgid "Часовня кладбищенская Св. Стефана"
 msgstr ""
 

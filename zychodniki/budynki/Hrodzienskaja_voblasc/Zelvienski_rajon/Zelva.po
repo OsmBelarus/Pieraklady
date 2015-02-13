@@ -3,6 +3,11 @@
 msgid ""Ромгиль плюс""
 msgstr ""
 
+# Objects : [w245790381]
+# name:be: []
+msgid "Алми"
+msgstr ""
+
 # Objects : [w262348858]
 # name:be: []
 msgid "Баня"
@@ -16,6 +21,11 @@ msgstr ""
 # Objects : [w262507023]
 # name:be: []
 msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w327054292, w327054297, w327054300]
+# name:be: []
+msgid "Весовая"
 msgstr ""
 
 # Objects : [w261532139]
@@ -43,6 +53,11 @@ msgstr ""
 msgid "Дом быта"
 msgstr ""
 
+# Objects : [w327054293, w327054298]
+# name:be: []
+msgid "Здание ПЧ"
+msgstr ""
+
 # Objects : [w239750652]
 # name:be: []
 msgid "Зельвенская центральная районная больница"
@@ -61,6 +76,11 @@ msgstr ""
 # Objects : [w261532152]
 # name:be: []
 msgid "Инспекция по семеноводству"
+msgstr ""
+
+# Objects : [w239745800]
+# name:be: []
+msgid "Котельная"
 msgstr ""
 
 # Objects : [w239745774]
@@ -86,6 +106,11 @@ msgstr ""
 # Objects : [w239750696]
 # name:be: []
 msgid "МЧС"
+msgstr ""
+
+# Objects : [w239750651]
+# name:be: []
+msgid "Недостроенная поликлинника"
 msgstr ""
 
 # Objects : [w239750681]
@@ -123,6 +148,11 @@ msgstr ""
 msgid "РУП "Гродноэнерго""
 msgstr ""
 
+# Objects : [w239745789]
+# name:be: []
+msgid "сараи"
+msgstr ""
+
 # Objects : [w239750666]
 # name:be: []
 msgid "Спортивная школа"
@@ -130,7 +160,7 @@ msgstr ""
 
 # Objects : [w290476922]
 # name:be: []
-msgid "Тепловой пункт"
+msgid "Трансформаторная подстанция"
 msgstr ""
 
 # Objects : [w239750679]

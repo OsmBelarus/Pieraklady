@@ -68,7 +68,7 @@ msgstr ""
 msgid "127"
 msgstr ""
 
-# Objects : [w306080921, w306080922]
+# Objects : [w306080921, w306080922, w310336864]
 # name:be: []
 msgid "13"
 msgstr ""
@@ -98,7 +98,7 @@ msgstr ""
 msgid "134"
 msgstr ""
 
-# Objects : [w306080923, w312881789]
+# Objects : [w306080923, w310336833, w312881789]
 # name:be: []
 msgid "14"
 msgstr ""
@@ -131,6 +131,11 @@ msgstr ""
 # Objects : [w306080926, w310222904]
 # name:be: []
 msgid "16"
+msgstr ""
+
+# Objects : [w310336854]
+# name:be: []
+msgid "16 (уч. 424)"
 msgstr ""
 
 # Objects : [w309215939]
@@ -238,7 +243,7 @@ msgstr ""
 msgid "20 (уч.№ 332)"
 msgstr ""
 
-# Objects : [w289325149, w306080940]
+# Objects : [w289325149, w306080940, w310336834]
 # name:be: []
 msgid "21"
 msgstr ""
@@ -393,7 +398,7 @@ msgstr ""
 msgid "24А"
 msgstr ""
 
-# Objects : [w306080944, w324650176]
+# Objects : [w306080944, w313357362, w324650176]
 # name:be: []
 msgid "25"
 msgstr ""
@@ -403,12 +408,17 @@ msgstr ""
 msgid "26"
 msgstr ""
 
+# Objects : [w310336846]
+# name:be: []
+msgid "26(уч. №429)"
+msgstr ""
+
 # Objects : [w306080947]
 # name:be: []
 msgid "26А"
 msgstr ""
 
-# Objects : [w306080948]
+# Objects : [w306080948, w310321915]
 # name:be: []
 msgid "27"
 msgstr ""
@@ -538,6 +548,11 @@ msgstr ""
 msgid "33А"
 msgstr ""
 
+# Objects : [w310211622]
+# name:be: []
+msgid "34"
+msgstr ""
+
 # Objects : [w306080960]
 # name:be: []
 msgid "35"
@@ -558,7 +573,7 @@ msgstr ""
 msgid "37а"
 msgstr ""
 
-# Objects : [w306080962]
+# Objects : [w306080962, w310195150]
 # name:be: []
 msgid "38"
 msgstr ""
@@ -2096,6 +2111,16 @@ msgstr ""
 # Objects : [w136531382]
 # name:be: []
 msgid "Управление коммунальной собственности"
+msgstr ""
+
+# Objects : [w310336836]
+# name:be: []
+msgid "уч. 26"
+msgstr ""
+
+# Objects : [w316341879]
+# name:be: []
+msgid "уч. 426"
 msgstr ""
 
 # Objects : [w306831339]

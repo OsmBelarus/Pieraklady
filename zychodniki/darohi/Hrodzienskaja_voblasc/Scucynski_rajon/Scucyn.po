@@ -98,6 +98,11 @@ msgstr ""
 msgid "Набережная улица"
 msgstr ""
 
+# Objects : [w327014519]
+# name:be: []
+msgid "Набережный переулок"
+msgstr ""
+
 # Objects : [w216024810]
 # name:be: [Азёрная вуліца]
 msgid "Озёрная улица"

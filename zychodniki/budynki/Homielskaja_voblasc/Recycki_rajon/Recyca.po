@@ -18,6 +18,11 @@ msgstr ""
 msgid "60а"
 msgstr ""
 
+# Objects : [w327954567]
+# name:be: []
+msgid "Chef"
+msgstr ""
+
 # Objects : [w238311277]
 # name:be: []
 msgid "Аграрный колледж"
@@ -128,6 +133,11 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
+# Objects : [w327954568]
+# name:be: []
+msgid "Магазин "Автозапчасти""
+msgstr ""
+
 # Objects : [w268852028]
 # name:be: []
 msgid "Мартин"
@@ -186,6 +196,11 @@ msgstr ""
 # Objects : [w238189657, w239546308, w279700345]
 # name:be: []
 msgid "Прима"
+msgstr ""
+
+# Objects : [w238176948]
+# name:be: []
+msgid "Продуктовый магазин"
 msgstr ""
 
 # Objects : [w174514521]

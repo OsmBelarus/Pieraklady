@@ -293,11 +293,6 @@ msgstr ""
 msgid "Представительство НОК Беларуси в г. Бобруйске"
 msgstr ""
 
-# Objects : [w175364738]
-# name:be: []
-msgid "Приберезинский"
-msgstr ""
-
 # Objects : [w204087288]
 # name:be: []
 msgid "Пятёрочка"
@@ -308,7 +303,7 @@ msgstr ""
 msgid "Роддом"
 msgstr ""
 
-# Objects : [w56724648, w56730744]
+# Objects : [w175364738, w56724648, w56730744]
 # name:be: []
 msgid "Родная Сторона"
 msgstr ""

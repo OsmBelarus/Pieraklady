@@ -3,6 +3,11 @@
 msgid "Кормянское ЦРБ"
 msgstr ""
 
+# Objects : [w327234288]
+# name:be: []
+msgid "остановка"
+msgstr ""
+
 # Objects : [w323967252]
 # name:be: []
 msgid "Садовый переулок"

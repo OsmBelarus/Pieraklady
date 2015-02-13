@@ -9,12 +9,12 @@ msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n306064324]
-# name:be: [БелЗЭБ]
+# name:be: [БелВЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
 # Objects : [n306064446, n3126163594]
-# name:be: [БПС-Збербанк]
+# name:be: [БПС-Сбербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 

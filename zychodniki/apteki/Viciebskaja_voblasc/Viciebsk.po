@@ -273,6 +273,11 @@ msgstr ""
 msgid "Витебское УП "Фармация""
 msgstr ""
 
+# Objects : [n3338487047]
+# name:be: []
+msgid "Зеленый лист Аптека N31"
+msgstr ""
+
 # Objects : [n1599889118]
 # name:be: []
 msgid "Интерфарм Аптека №2"

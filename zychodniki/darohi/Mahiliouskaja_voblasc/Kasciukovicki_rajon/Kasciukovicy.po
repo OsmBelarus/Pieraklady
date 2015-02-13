@@ -68,6 +68,16 @@ msgstr ""
 msgid "Интернациональная улица"
 msgstr ""
 
+# Objects : [w327411128]
+# name:be: []
+msgid "Кирова переулок"
+msgstr ""
+
+# Objects : [w327411129]
+# name:be: []
+msgid "Кирова улица"
+msgstr ""
+
 # Objects : [w232429731]
 # name:be: [Калгасная вуліца]
 msgid "Колхозная улица"

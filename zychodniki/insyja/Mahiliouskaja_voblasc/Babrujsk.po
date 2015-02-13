@@ -23,9 +23,9 @@ msgstr ""
 msgid "velcom"
 msgstr ""
 
-# Objects : [n1852220691]
+# Objects : [w326752140]
 # name:be: []
-msgid "Автопарк"
+msgid "Автобусный парк №2"
 msgstr ""
 
 # Objects : [n3034298848]
@@ -396,6 +396,11 @@ msgstr ""
 # Objects : [w174303459]
 # name:be: []
 msgid "ОАО «Белшина»"
+msgstr ""
+
+# Objects : [w284165280]
+# name:be: []
+msgid "ОАО «Бобруйский машиностроительный завод»"
 msgstr ""
 
 # Objects : [w269781998]

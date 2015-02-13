@@ -179,12 +179,12 @@ msgid "Жлобин-Западный"
 msgstr ""
 
 # Objects : [n306069649]
-# name:be: []
+# name:be: [Жлобін Пасажырскі]
 msgid "Жлобин-Пассажирский"
 msgstr ""
 
 # Objects : [n306069915]
-# name:be: []
+# name:be: [Жлобін Падольскі]
 msgid "Жлобин-Подольский"
 msgstr ""
 

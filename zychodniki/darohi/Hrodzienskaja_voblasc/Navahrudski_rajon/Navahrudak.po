@@ -183,6 +183,11 @@ msgstr ""
 msgid "6-й Спортовый переулок"
 msgstr ""
 
+# Objects : [w171380502]
+# name:be: []
+msgid "Всходняя улица"
+msgstr ""
+
 # Objects : [w122999971, w232853190]
 # name:be: [Гродзенская вуліца]
 msgid "Гродненская улица"
@@ -353,7 +358,7 @@ msgstr ""
 msgid "Садовая улица"
 msgstr ""
 
-# Objects : [w171380502]
+# Objects : [w326897140]
 # name:be: [Садовы завулак]
 msgid "Садовый переулок"
 msgstr ""
@@ -451,11 +456,6 @@ msgstr ""
 # Objects : [w171380668]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"
-msgstr ""
-
-# Objects : [w325875767]
-# name:be: [вуліца Гастэлы]
-msgid "улица Гастелло"
 msgstr ""
 
 # Objects : [w97940571]
@@ -646,11 +646,6 @@ msgstr ""
 # Objects : [w25285390]
 # name:be: [вуліца Свярдлова]
 msgid "улица Свердлова"
-msgstr ""
-
-# Objects : [w232853184]
-# name:be: []
-msgid "улица Суворова"
 msgstr ""
 
 # Objects : [w114962439]

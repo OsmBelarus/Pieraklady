@@ -38,6 +38,86 @@ msgstr ""
 msgid "Восточное"
 msgstr ""
 
+# Objects : [n3340016296]
+# name:be: []
+msgid "Галерея 1"
+msgstr ""
+
+# Objects : [w304443668]
+# name:be: []
+msgid "галерея 10"
+msgstr ""
+
+# Objects : [w304443672]
+# name:be: []
+msgid "галерея 11"
+msgstr ""
+
+# Objects : [w304443669]
+# name:be: []
+msgid "галерея 12"
+msgstr ""
+
+# Objects : [w304443664]
+# name:be: []
+msgid "галерея 13"
+msgstr ""
+
+# Objects : [w304443666]
+# name:be: []
+msgid "галерея 14"
+msgstr ""
+
+# Objects : [w304443670]
+# name:be: []
+msgid "галерея 15"
+msgstr ""
+
+# Objects : [w304443665]
+# name:be: []
+msgid "галерея 16"
+msgstr ""
+
+# Objects : [w304443663]
+# name:be: []
+msgid "галерея 2"
+msgstr ""
+
+# Objects : [w304443661]
+# name:be: []
+msgid "галерея 3"
+msgstr ""
+
+# Objects : [w304443676]
+# name:be: []
+msgid "галерея 4"
+msgstr ""
+
+# Objects : [w304443662]
+# name:be: []
+msgid "галерея 5"
+msgstr ""
+
+# Objects : [w304443673]
+# name:be: []
+msgid "галерея 6"
+msgstr ""
+
+# Objects : [w304443675]
+# name:be: []
+msgid "галерея 7"
+msgstr ""
+
+# Objects : [w304443674]
+# name:be: []
+msgid "галерея 8"
+msgstr ""
+
+# Objects : [w304443671]
+# name:be: []
+msgid "галерея 9"
+msgstr ""
+
 # Objects : [n3007590766, n3007590769]
 # name:be: []
 msgid "Громкоговоритель"

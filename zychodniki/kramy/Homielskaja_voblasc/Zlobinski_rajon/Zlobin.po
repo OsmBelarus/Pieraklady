@@ -93,11 +93,6 @@ msgstr ""
 msgid "Комфорт Агута"
 msgstr ""
 
-# Objects : [n1729691998]
-# name:be: []
-msgid "Копейка"
-msgstr ""
-
 # Objects : [n2706374315]
 # name:be: []
 msgid "Кулинария"
@@ -126,6 +121,11 @@ msgstr ""
 # Objects : [n1934326183]
 # name:be: []
 msgid "магазин "Данко""
+msgstr ""
+
+# Objects : [n1729691998]
+# name:be: []
+msgid "Магазин "Копейка""
 msgstr ""
 
 # Objects : [n1934040623]
@@ -211,6 +211,11 @@ msgstr ""
 # Objects : [n3222767047]
 # name:be: []
 msgid "Рыболовный Центр"
+msgstr ""
+
+# Objects : [n3347724406]
+# name:be: []
+msgid "Санта"
 msgstr ""
 
 # Objects : [n2708778293]

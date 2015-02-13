@@ -23,6 +23,11 @@ msgstr ""
 msgid "Водяная мельница"
 msgstr ""
 
+# Objects : [w327054307]
+# name:be: []
+msgid "Заброшенная погрузочная станция"
+msgstr ""
+
 # Objects : [n242986494, w25142843]
 # name:be: [Зялёная Рошча]
 msgid "Зелёная Роща"
@@ -41,6 +46,16 @@ msgstr ""
 # Objects : [n2788680588]
 # name:be: []
 msgid "Касцёл Божага Цела і Святога Юр'я"
+msgstr ""
+
+# Objects : [w327047941]
+# name:be: []
+msgid "Кладбище д.Бибики"
+msgstr ""
+
+# Objects : [n3337938316, w327081632]
+# name:be: []
+msgid "Кладбище д.Долгополичи"
 msgstr ""
 
 # Objects : [n2788680768, n2788680770]
@@ -78,6 +93,11 @@ msgstr ""
 msgid "Медухово"
 msgstr ""
 
+# Objects : [w327122166]
+# name:be: []
+msgid "Мини-ГЭС"
+msgstr ""
+
 # Objects : [n1280489860]
 # name:be: []
 msgid "монумент Северной войны"
@@ -86,6 +106,16 @@ msgstr ""
 # Objects : [n1291622783]
 # name:be: []
 msgid "Музей пчеловодства и насекомых"
+msgstr ""
+
+# Objects : [w327052657]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [n3337980129]
+# name:be: []
+msgid "Памятный камень в честь академика А.Р.Жебрака"
 msgstr ""
 
 # Objects : [n242987471, w25142825]
@@ -101,6 +131,16 @@ msgstr ""
 # Objects : [n2788683695]
 # name:be: [Прысядзібны парк пры былой сядзібе Журава]
 msgid "Приусадебный парк при бывшей усадьбе Журова"
+msgstr ""
+
+# Objects : [w327148787]
+# name:be: []
+msgid "Свалка"
+msgstr ""
+
+# Objects : [w327122161, w327122162, w327122163, w327122167, w327122169]
+# name:be: []
+msgid "Скважина"
 msgstr ""
 
 # Objects : [n2788684381]

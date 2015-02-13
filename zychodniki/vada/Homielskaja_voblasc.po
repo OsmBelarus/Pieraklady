@@ -313,7 +313,7 @@ msgstr ""
 msgid "Добрица"
 msgstr ""
 
-# Objects : [w25036127, w25037284, w25037290]
+# Objects : [w25036127, w25037284]
 # name:be: []
 msgid "Добрич"
 msgstr ""
@@ -1158,6 +1158,11 @@ msgstr ""
 msgid "Случь"
 msgstr ""
 
+# Objects : [w25186998]
+# name:be: []
+msgid "Смердин"
+msgstr ""
+
 # Objects : [w191434544, w25034812, w25035014, w25035101, w25080526, w25080735, w25180443, w25193675, w25201012, w34572544, w51161448, w95661147, w95661148]
 # name:be: [Сож]
 msgid "Сож"
@@ -1363,7 +1368,7 @@ msgstr ""
 msgid "Черемха"
 msgstr ""
 
-# Objects : [w25058766, w25060594]
+# Objects : [w25058766]
 # name:be: []
 msgid "Чертень"
 msgstr ""

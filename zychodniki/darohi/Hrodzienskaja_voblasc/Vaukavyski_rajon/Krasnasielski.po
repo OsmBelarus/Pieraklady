@@ -63,7 +63,7 @@ msgstr ""
 msgid "Солнечная улица"
 msgstr ""
 
-# Objects : [w287685805]
+# Objects : [w69139851]
 # name:be: [вуліца 17 Верасня]
 msgid "улица 17 Сентября"
 msgstr ""
@@ -71,11 +71,6 @@ msgstr ""
 # Objects : [w69138227]
 # name:be: [вуліца 8 Сакавіка]
 msgid "улица 8 Марта"
-msgstr ""
-
-# Objects : [w69139851]
-# name:be: [вуліца Карла Маркса]
-msgid "улица Карла Маркса"
 msgstr ""
 
 # Objects : [w69139110]

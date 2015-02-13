@@ -100,7 +100,7 @@ msgstr ""
 
 # Objects : [w317056893]
 # name:be: []
-msgid "Межавая"
+msgid "Межавая улица"
 msgstr ""
 
 # Objects : [w209781622, w25261093, w25261155, w253295866, w311607053, w40716284, w41491509, w41491510, w41491513, w41491514, w85656160, w85656176]
@@ -220,7 +220,7 @@ msgstr ""
 
 # Objects : [w326571957]
 # name:be: []
-msgid "Тихая"
+msgid "Тихая улица"
 msgstr ""
 
 # Objects : [w293854948, w32554523]
@@ -400,7 +400,7 @@ msgstr ""
 
 # Objects : [w326571958]
 # name:be: []
-msgid "Хуторская"
+msgid "Хуторская улица"
 msgstr ""
 
 # Objects : [w32554503]
@@ -410,7 +410,7 @@ msgstr ""
 
 # Objects : [w272242897]
 # name:be: []
-msgid "Экиманская"
+msgid "Экиманская улица"
 msgstr ""
 
 # Objects : [w30303008]

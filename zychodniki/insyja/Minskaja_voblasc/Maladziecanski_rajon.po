@@ -478,6 +478,11 @@ msgstr ""
 msgid "Чистинское кладбище"
 msgstr ""
 
+# Objects : [w245414952]
+# name:be: []
+msgid "ЧУП "Дойлид-С""
+msgstr ""
+
 # Objects : [n444323787]
 # name:be: [Янка Купала]
 msgid "Янка Купала"

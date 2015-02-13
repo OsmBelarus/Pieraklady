@@ -78,6 +78,11 @@ msgstr ""
 msgid "Белоруснефть"
 msgstr ""
 
+# Objects : [w97728387]
+# name:be: []
+msgid "БЕЛХОЛ"
+msgstr ""
+
 # Objects : [w196818487]
 # name:be: []
 msgid "Библиотека центральная районная филиал №6"
@@ -206,6 +211,11 @@ msgstr ""
 # Objects : [w168584081]
 # name:be: []
 msgid "Мемориальный комплекс «Шталаг 342»"
+msgstr ""
+
+# Objects : [w327625184, w97728297]
+# name:be: []
+msgid "МЗМК"
 msgstr ""
 
 # Objects : [w207328218]

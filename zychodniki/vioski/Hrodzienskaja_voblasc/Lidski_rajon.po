@@ -918,12 +918,17 @@ msgstr ""
 msgid "Пашунцы"
 msgstr ""
 
+# Objects : [w25140332]
+# name:be: [Першамайскі]
+msgid "Первомайский"
+msgstr ""
+
 # Objects : [n242989685, w25140342]
 # name:be: [Перапечыца]
 msgid "Перепечица"
 msgstr ""
 
-# Objects : [n242979024, w25140332]
+# Objects : [n242979024]
 # name:be: [Першамайскі]
 msgid "Першемайский"
 msgstr ""

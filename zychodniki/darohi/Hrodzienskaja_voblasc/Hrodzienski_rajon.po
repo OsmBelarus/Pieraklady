@@ -568,6 +568,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w199494868]
+# name:be: []
+msgid "Совхозная улица"
+msgstr ""
+
 # Objects : [w278627591, w29155275, w29156282]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
@@ -628,11 +633,6 @@ msgstr ""
 msgid "Тюльпановая улица"
 msgstr ""
 
-# Objects : [w205504056]
-# name:be: []
-msgid "ул. Аутко"
-msgstr ""
-
 # Objects : [w29156158]
 # name:be: []
 msgid "улица 1 мая"
@@ -656,6 +656,11 @@ msgstr ""
 # Objects : [w29156168]
 # name:be: []
 msgid "улица 70 лет Октября"
+msgstr ""
+
+# Objects : [w205504056]
+# name:be: []
+msgid "улица Аутко"
 msgstr ""
 
 # Objects : [w312754932]
@@ -803,7 +808,7 @@ msgstr ""
 msgid "улица Космонавтов"
 msgstr ""
 
-# Objects : [w312725035, w39765403]
+# Objects : [w327383050, w39765403]
 # name:be: []
 msgid "улица Красноармейская"
 msgstr ""

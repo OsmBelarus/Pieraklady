@@ -48,6 +48,11 @@ msgstr ""
 msgid "Волповская СШ"
 msgstr ""
 
+# Objects : [n3344652000]
+# name:be: []
+msgid "д.Шауличи"
+msgstr ""
+
 # Objects : [w263204794]
 # name:be: []
 msgid "д. №3"
@@ -361,11 +366,6 @@ msgstr ""
 # Objects : [n2788687491, n2788687494]
 # name:be: [Капліца могілкавая]
 msgid "Часовня кладбищенская"
-msgstr ""
-
-# Objects : [n2788687467]
-# name:be: [Капліца могілкавая Святога Стафана]
-msgid "Часовня кладбищенская Св. Стефана"
 msgstr ""
 
 # Objects : [n2788687558]

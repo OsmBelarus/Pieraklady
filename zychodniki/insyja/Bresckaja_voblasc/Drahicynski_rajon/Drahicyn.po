@@ -58,6 +58,11 @@ msgstr ""
 msgid "Райисполком"
 msgstr ""
 
+# Objects : [w245285601]
+# name:be: []
+msgid "Суд"
+msgstr ""
+
 # Objects : [n2788687064]
 # name:be: [Царква Стрэчання Гасподняга]
 msgid "Церковь Сретения Господня"

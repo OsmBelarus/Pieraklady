@@ -43,7 +43,7 @@ msgstr ""
 msgid "Васьковичи"
 msgstr ""
 
-# Objects : [n243042561, w25084839]
+# Objects : [w25084839]
 # name:be: [Вялікая Зімніца]
 msgid "Великая Зимница"
 msgstr ""
@@ -168,7 +168,7 @@ msgstr ""
 msgid "Красная Слобода"
 msgstr ""
 
-# Objects : [n243046667, w25083096]
+# Objects : [n243046667, n243046676, w25083096, w25083100]
 # name:be: [Красны Васход]
 msgid "Красный Восход"
 msgstr ""
@@ -304,7 +304,7 @@ msgid "Ректа-Михайловка"
 msgstr ""
 
 # Objects : [n243046084, w25083146]
-# name:be: [Ржаўка 1]
+# name:be: []
 msgid "Ржавка 1"
 msgstr ""
 
@@ -409,8 +409,8 @@ msgid "Улуки"
 msgstr ""
 
 # Objects : [n243046100, w250929484]
-# name:be: [Урэчча 1]
-msgid "Уречье 1"
+# name:be: [Урэчча-1]
+msgid "Уречье-1"
 msgstr ""
 
 # Objects : [n243046108, w25083114]
@@ -456,11 +456,6 @@ msgstr ""
 # Objects : [n243045926, w25083073]
 # name:be: [Чыкаўка]
 msgid "Чиковка"
-msgstr ""
-
-# Objects : [n243046676, w25083100]
-# name:be: [Шаламы]
-msgid "Шеломы"
 msgstr ""
 
 # Objects : [n243046679, w25081844]

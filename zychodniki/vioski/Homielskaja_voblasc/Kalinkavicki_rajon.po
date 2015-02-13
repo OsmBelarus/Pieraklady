@@ -3,7 +3,7 @@
 msgid "Авангард"
 msgstr ""
 
-# Objects : [n242979061, w25106410]
+# Objects : [n242979061]
 # name:be: [Азарычы]
 msgid "Азаричи"
 msgstr ""
@@ -396,6 +396,11 @@ msgstr ""
 # Objects : [n243038131, w25104866]
 # name:be: [Агароднікі]
 msgid "Огородники"
+msgstr ""
+
+# Objects : [w25106410]
+# name:be: [Азарычы]
+msgid "Озаричи"
 msgstr ""
 
 # Objects : [n243032772, w25105544]

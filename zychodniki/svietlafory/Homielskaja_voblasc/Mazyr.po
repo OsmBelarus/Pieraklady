@@ -173,6 +173,11 @@ msgstr ""
 msgid "Леспромхоз"
 msgstr ""
 
+# Objects : [n3339355983, n3339355984]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
 # Objects : [n2966300383]
 # name:be: []
 msgid "магазин Аметист"
@@ -408,6 +413,11 @@ msgstr ""
 msgid "Турбаза"
 msgstr ""
 
+# Objects : [n3339355981, n3339355982]
+# name:be: []
+msgid "улица 17 сентября"
+msgstr ""
+
 # Objects : [n3212404852]
 # name:be: []
 msgid "улица Бумажкова"
@@ -516,6 +526,11 @@ msgstr ""
 # Objects : [n3212307172, n3212307173]
 # name:be: []
 msgid "Школа №14"
+msgstr ""
+
+# Objects : [n3339239797, n3339239798, n3339239799]
+# name:be: []
+msgid "Школа №16"
 msgstr ""
 
 # Objects : [n2674931277, n2674931281]

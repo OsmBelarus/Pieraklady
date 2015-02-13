@@ -1033,6 +1033,11 @@ msgstr ""
 msgid "Плавня"
 msgstr ""
 
+# Objects : [w323009997]
+# name:be: [Пляснянка]
+msgid "Плеснянка"
+msgstr ""
+
 # Objects : [w25052164]
 # name:be: [р. Пліса]
 msgid "Плиса"
@@ -1041,21 +1046,6 @@ msgstr ""
 # Objects : [r29030, w25063055, w25064424, w25066781, w25066782, w39247151, w39247152, w39247153]
 # name:be: []
 msgid "Плисса"
-msgstr ""
-
-# Objects : [w323010002]
-# name:be: []
-msgid "Пляснянка -Плеснянка"
-msgstr ""
-
-# Objects : [w323009995, w323009997, w323010000, w323010005, w323010008]
-# name:be: []
-msgid "Пляснянка - Плеснянка"
-msgstr ""
-
-# Objects : [w25168215]
-# name:be: []
-msgid "Пляснянка рака - Плеснянка река"
 msgstr ""
 
 # Objects : [w25066687]

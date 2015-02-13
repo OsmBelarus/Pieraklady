@@ -203,7 +203,7 @@ msgstr ""
 msgid "Коровник"
 msgstr ""
 
-# Objects : [w290167400]
+# Objects : [w283586339, w290167400]
 # name:be: []
 msgid "Котельная"
 msgstr ""
@@ -213,7 +213,7 @@ msgstr ""
 msgid "Легмаш"
 msgstr ""
 
-# Objects : [w245979208, w272447319, w277679273, w281512086, w283111289, w284610238]
+# Objects : [w245979208, w272447319, w281512086, w283111289, w284610238]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -238,6 +238,11 @@ msgstr ""
 msgid "музей"
 msgstr ""
 
+# Objects : [w283586340]
+# name:be: []
+msgid "Насосная"
+msgstr ""
+
 # Objects : [w115739057]
 # name:be: []
 msgid "Нефтесборный пункт "Давыдовка""
@@ -253,9 +258,19 @@ msgstr ""
 msgid "ОАО "СветлогорскХимволокно""
 msgstr ""
 
+# Objects : [n3340273452, w327295741]
+# name:be: []
+msgid "ОАО  «Светлогорский машиностроительный завод»"
+msgstr ""
+
 # Objects : [w277679092]
 # name:be: []
 msgid "Овощьная фабрика"
+msgstr ""
+
+# Objects : [n3340273451]
+# name:be: []
+msgid "ООО «Сосновый Бор»"
 msgstr ""
 
 # Objects : [n1180692594]
@@ -331,6 +346,11 @@ msgstr ""
 # Objects : [n2686909026]
 # name:be: []
 msgid "РОВД"
+msgstr ""
+
+# Objects : [w316548955]
+# name:be: []
+msgid "Рогачёв-газстрой"
 msgstr ""
 
 # Objects : [w277653015]
@@ -468,9 +488,19 @@ msgstr ""
 msgid "центр досуга Тандем"
 msgstr ""
 
+# Objects : [w283588911]
+# name:be: []
+msgid "Цех окраски"
+msgstr ""
+
 # Objects : [w272785697]
 # name:be: []
 msgid "ЧПУП "Белая русь""
+msgstr ""
+
+# Objects : [w327369206]
+# name:be: []
+msgid "ЧПУП "Белая Русь""
 msgstr ""
 
 # Objects : [w272785698]

@@ -33,6 +33,11 @@ msgstr ""
 msgid "06.10.1968"
 msgstr ""
 
+# Objects : [w48096442]
+# name:be: []
+msgid "1"
+msgstr ""
+
 # Objects : [w60360232]
 # name:be: []
 msgid "1..."
@@ -929,27 +934,27 @@ msgid "Кафе Корсар"
 msgstr ""
 
 # Objects : [w203412146]
-# name:be: []
+# name:be: [Квартал 701]
 msgid "Квартал 701"
 msgstr ""
 
 # Objects : [w203412151]
-# name:be: []
+# name:be: [Квартал 702]
 msgid "Квартал 702"
 msgstr ""
 
 # Objects : [w152097222]
-# name:be: []
+# name:be: [Квартал 7124]
 msgid "Квартал 7124"
 msgstr ""
 
 # Objects : [w152097237]
-# name:be: []
+# name:be: [Квартал 785]
 msgid "Квартал 785"
 msgstr ""
 
 # Objects : [w152091554]
-# name:be: []
+# name:be: [Квартал 786]
 msgid "Квартал 786"
 msgstr ""
 
@@ -1196,6 +1201,11 @@ msgstr ""
 # Objects : [w219642322, w278117390]
 # name:be: []
 msgid "Лукойл"
+msgstr ""
+
+# Objects : [w327824908]
+# name:be: []
+msgid "Магазин"
 msgstr ""
 
 # Objects : [w168260891]
@@ -1818,6 +1828,11 @@ msgstr ""
 msgid "Республиканская туберкулезная больница "Волковичи""
 msgstr ""
 
+# Objects : [w327389793]
+# name:be: []
+msgid "Рождественская, 58"
+msgstr ""
+
 # Objects : [w25437212]
 # name:be: [Рошча, ПП]
 msgid "Роща, ОП"
@@ -2436,6 +2451,11 @@ msgstr ""
 # Objects : [w310781500, w310853003, w41056144]
 # name:be: []
 msgid "Трансформаторная подстанция"
+msgstr ""
+
+# Objects : [w48096581]
+# name:be: [Трансфарматарная падстанцыя 2]
+msgid "Трансформаторная подстанция 2"
 msgstr ""
 
 # Objects : [n423355704]

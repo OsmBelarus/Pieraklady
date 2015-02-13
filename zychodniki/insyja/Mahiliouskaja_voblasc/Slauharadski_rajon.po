@@ -23,6 +23,11 @@ msgstr ""
 msgid "Голубая криница"
 msgstr ""
 
+# Objects : [w327223763]
+# name:be: []
+msgid "дк"
+msgstr ""
+
 # Objects : [n243042573]
 # name:be: []
 msgid "Добрый Дуб"
@@ -131,6 +136,11 @@ msgstr ""
 # Objects : [n1657216393]
 # name:be: [Масцішча]
 msgid "Мостище"
+msgstr ""
+
+# Objects : [n3164138485]
+# name:be: []
+msgid "МТС"
 msgstr ""
 
 # Objects : [w240364002]

@@ -1,5 +1,5 @@
 # Objects : [n3304590074]
-# name:be: [ВТБ]
+# name:be: [Банк ВТБ]
 msgid "Банк ВТБ"
 msgstr ""
 
@@ -9,7 +9,7 @@ msgid "Банк Москва-Минск"
 msgstr ""
 
 # Objects : [n2675213001]
-# name:be: [БПС-Збербанк]
+# name:be: [БПС-Сбербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 

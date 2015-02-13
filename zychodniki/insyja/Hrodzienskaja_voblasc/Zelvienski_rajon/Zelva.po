@@ -83,6 +83,11 @@ msgstr ""
 msgid "МЧС"
 msgstr ""
 
+# Objects : [n1380760632]
+# name:be: []
+msgid "Памятник (танк Т-62)"
+msgstr ""
+
 # Objects : [n1380883058]
 # name:be: [Парк Перамогі]
 msgid "Парк Победы"
@@ -93,9 +98,19 @@ msgstr ""
 msgid "Рынок"
 msgstr ""
 
-# Objects : [n1380760632]
+# Objects : [w327054295]
 # name:be: []
-msgid "Самоходное орудие ИС-152(Танк) , Освободитель Зельвы"
+msgid "Свеклопункт"
+msgstr ""
+
+# Objects : [w327054301]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
+# Objects : [w239756082]
+# name:be: []
+msgid "Станция Зельва"
 msgstr ""
 
 # Objects : [n2788686631]

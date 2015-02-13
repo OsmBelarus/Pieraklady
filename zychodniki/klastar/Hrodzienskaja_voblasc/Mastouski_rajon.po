@@ -1,4 +1,4 @@
-# Objects : [n306067772, n306067800]
+# Objects : [n306067772]
 # name:be: []
 msgid "????"
 msgstr ""
@@ -6,6 +6,11 @@ msgstr ""
 # Objects : [w243631578]
 # name:be: []
 msgid "костел"
+msgstr ""
+
+# Objects : [n306067800]
+# name:be: []
+msgid "Костёл"
 msgstr ""
 
 # Objects : [n2788682163, w304475794]

@@ -568,6 +568,11 @@ msgstr ""
 msgid "Первомайская улица"
 msgstr ""
 
+# Objects : [w327915265]
+# name:be: []
+msgid "переулок Ручейный"
+msgstr ""
+
 # Objects : [w25241344]
 # name:be: []
 msgid "переулок Строителей"
@@ -638,7 +643,7 @@ msgstr ""
 msgid "Поселок Смолякова"
 msgstr ""
 
-# Objects : [w205315442, w25240533]
+# Objects : [w205315442, w25240533, w327722336]
 # name:be: []
 msgid "Почтовая улица"
 msgstr ""

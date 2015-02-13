@@ -308,7 +308,7 @@ msgstr ""
 msgid "Кочаново"
 msgstr ""
 
-# Objects : [w25188235, w25194712]
+# Objects : [w25194712, w327781101]
 # name:be: []
 msgid "Кривое"
 msgstr ""
@@ -446,6 +446,11 @@ msgstr ""
 # Objects : [w277498580]
 # name:be: []
 msgid "Птицеферма"
+msgstr ""
+
+# Objects : [w327781099]
+# name:be: []
+msgid "Пустенец"
 msgstr ""
 
 # Objects : [w25193730]

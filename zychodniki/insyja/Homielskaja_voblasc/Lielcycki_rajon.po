@@ -200,7 +200,7 @@ msgstr ""
 
 # Objects : [n2924833462]
 # name:be: []
-msgid "ДОТ 712"
+msgid "ДОТ 712 ?"
 msgstr ""
 
 # Objects : [n2924558575]
@@ -398,9 +398,14 @@ msgstr ""
 msgid "Симоновская средняя школа"
 msgstr ""
 
-# Objects : [w25186998]
+# Objects : [w327261611]
 # name:be: []
-msgid "Смердин"
+msgid "Синпольская базовая школа"
+msgstr ""
+
+# Objects : [w327246967]
+# name:be: []
+msgid "СПК "Стодоличи""
 msgstr ""
 
 # Objects : [w25195590]

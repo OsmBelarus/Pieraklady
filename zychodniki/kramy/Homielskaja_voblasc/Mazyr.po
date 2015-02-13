@@ -233,7 +233,7 @@ msgstr ""
 msgid "МастерОК"
 msgstr ""
 
-# Objects : [n3253244555]
+# Objects : [n3253244555, n3342094458]
 # name:be: []
 msgid "Мебель"
 msgstr ""
@@ -273,7 +273,7 @@ msgstr ""
 msgid "МТС"
 msgstr ""
 
-# Objects : [n3259863650, n3270045736]
+# Objects : [n3259863650]
 # name:be: []
 msgid "Мясная лавка"
 msgstr ""
@@ -348,7 +348,7 @@ msgstr ""
 msgid "Промтовары"
 msgstr ""
 
-# Objects : [n2760137639, n3260037092, n3260037095, n3260037110, n3332193394]
+# Objects : [n2760137639, n3260037092, n3260037095, n3332193394]
 # name:be: []
 msgid "Ритуальные услуги"
 msgstr ""
@@ -403,6 +403,11 @@ msgstr ""
 msgid "Склад АМИ Мебель"
 msgstr ""
 
+# Objects : [n3339355992]
+# name:be: []
+msgid "Славиа голд"
+msgstr ""
+
 # Objects : [n2145472665]
 # name:be: []
 msgid "Славия"
@@ -431,11 +436,6 @@ msgstr ""
 # Objects : [n1284595356]
 # name:be: [СТА]
 msgid "СТО"
-msgstr ""
-
-# Objects : [n3144527337]
-# name:be: []
-msgid "Сток европейских брендов"
 msgstr ""
 
 # Objects : [n3257797500]

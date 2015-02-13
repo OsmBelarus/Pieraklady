@@ -1183,6 +1183,11 @@ msgstr ""
 msgid "Савек"
 msgstr ""
 
+# Objects : [w29168217]
+# name:be: [Салаццеўскае]
+msgid "Салатьевское"
+msgstr ""
+
 # Objects : [w25177189]
 # name:be: []
 msgid "Самаровка"

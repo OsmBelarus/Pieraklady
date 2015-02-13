@@ -173,6 +173,11 @@ msgstr ""
 msgid "Мышанка"
 msgstr ""
 
+# Objects : [w295326482]
+# name:be: []
+msgid "Олимп"
+msgstr ""
+
 # Objects : [w295326483, w295775163]
 # name:be: []
 msgid "Охрана природы"

@@ -158,6 +158,11 @@ msgstr ""
 msgid "улица Веры Хоружей"
 msgstr ""
 
+# Objects : [w325875767]
+# name:be: [вуліца Гастэлы]
+msgid "улица Гастелло"
+msgstr ""
+
 # Objects : [w133899844]
 # name:be: []
 msgid "улица Глебко"
@@ -188,7 +193,7 @@ msgstr ""
 msgid "улица Строителей"
 msgstr ""
 
-# Objects : [w232853199]
+# Objects : [w232853184, w232853199]
 # name:be: [вуліца Суворава]
 msgid "улица Суворова"
 msgstr ""

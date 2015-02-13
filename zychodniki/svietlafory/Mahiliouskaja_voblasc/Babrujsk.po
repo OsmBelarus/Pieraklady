@@ -298,7 +298,7 @@ msgstr ""
 msgid "Кинотеатр Товарищ"
 msgstr ""
 
-# Objects : [n1852220697, n1855070605, n3036641983]
+# Objects : [n1852220697, n3036641983]
 # name:be: []
 msgid "Киселевичи"
 msgstr ""
@@ -306,6 +306,11 @@ msgstr ""
 # Objects : [n1855082849]
 # name:be: []
 msgid "Киселевичи-2"
+msgstr ""
+
+# Objects : [n1855070605]
+# name:be: []
+msgid "Киселевичская"
 msgstr ""
 
 # Objects : [n3048637707, n3048639807]
@@ -656,6 +661,11 @@ msgstr ""
 # Objects : [n1855129096]
 # name:be: []
 msgid "станция Березина"
+msgstr ""
+
+# Objects : [n3334378480]
+# name:be: []
+msgid "станция Киселевичи"
 msgstr ""
 
 # Objects : [n3048791399, n3048791400]

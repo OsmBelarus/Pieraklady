@@ -1,3 +1,8 @@
+# Objects : [n3344665334]
+# name:be: []
+msgid "GSM"
+msgstr ""
+
 # Objects : [w300173810]
 # name:be: []
 msgid "Административное здание"
@@ -21,6 +26,11 @@ msgstr ""
 # Objects : [n2163863503]
 # name:be: []
 msgid "Братская могила"
+msgstr ""
+
+# Objects : [w327091467]
+# name:be: []
+msgid "Бывшие хутора"
 msgstr ""
 
 # Objects : [n3043431954]
@@ -66,6 +76,11 @@ msgstr ""
 # Objects : [w165505554]
 # name:be: []
 msgid "Кантора"
+msgstr ""
+
+# Objects : [w327102575]
+# name:be: []
+msgid "Католическое кладбище"
 msgstr ""
 
 # Objects : [n2788680814]
@@ -156,6 +171,11 @@ msgstr ""
 # Objects : [w289719435]
 # name:be: []
 msgid "Помещение теплогенератора"
+msgstr ""
+
+# Objects : [w327102576]
+# name:be: []
+msgid "Православное кладбище"
 msgstr ""
 
 # Objects : [w165504337]

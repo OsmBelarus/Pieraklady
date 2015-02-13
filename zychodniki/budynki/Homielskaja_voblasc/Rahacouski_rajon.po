@@ -23,7 +23,7 @@ msgstr ""
 msgid "бытовое здание"
 msgstr ""
 
-# Objects : [w320483045, w320925073, w320925074]
+# Objects : [w320483045, w320925073, w320925074, w327565975]
 # name:be: []
 msgid "гараж"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr ""
 msgid "котельная"
 msgstr ""
 
-# Objects : [w326186540]
+# Objects : [w326186540, w327243341]
 # name:be: []
 msgid "Котельная"
 msgstr ""
@@ -113,6 +113,11 @@ msgstr ""
 msgid "крыльцо"
 msgstr ""
 
+# Objects : [w289876855]
+# name:be: []
+msgid "Мастерские"
+msgstr ""
+
 # Objects : [w318078772]
 # name:be: []
 msgid "МТФ"
@@ -128,11 +133,6 @@ msgstr ""
 msgid "остановка"
 msgstr ""
 
-# Objects : [w288909010]
-# name:be: []
-msgid "Почта"
-msgstr ""
-
 # Objects : [w259879041]
 # name:be: []
 msgid "проходная"
@@ -141,6 +141,11 @@ msgstr ""
 # Objects : [w251137555, w300809322]
 # name:be: []
 msgid "разр."
+msgstr ""
+
+# Objects : [w327243342, w327243343]
+# name:be: []
+msgid "Разр."
 msgstr ""
 
 # Objects : [w306956008]

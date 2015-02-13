@@ -438,11 +438,6 @@ msgstr ""
 msgid "Colorway"
 msgstr ""
 
-# Objects : [n2614505267]
-# name:be: []
-msgid "CONFIDENCE"
-msgstr ""
-
 # Objects : [n1582900935, n1585232866]
 # name:be: []
 msgid "CosmosTV"
@@ -1728,11 +1723,6 @@ msgstr ""
 msgid "БаМ"
 msgstr ""
 
-# Objects : [n2621041394]
-# name:be: []
-msgid "банкомат"
-msgstr ""
-
 # Objects : [n3260333513]
 # name:be: []
 msgid "Банкомат Беларусбанк"
@@ -2183,7 +2173,7 @@ msgstr ""
 msgid "Белсоюздрук"
 msgstr ""
 
-# Objects : [n2626500509, w300514886]
+# Objects : [w300514886]
 # name:be: []
 msgid "Белсоюзпечать"
 msgstr ""
@@ -3024,7 +3014,7 @@ msgid "Голубятня"
 msgstr ""
 
 # Objects : [w191715585]
-# name:be: []
+# name:be: [Гольф-клуб]
 msgid "Гольф-клуб"
 msgstr ""
 
@@ -3313,9 +3303,14 @@ msgstr ""
 msgid "ГУО «Институт непрерывного образования БГУ»"
 msgstr ""
 
-# Objects : [n3024862565]
+# Objects : [w25326025]
 # name:be: []
-msgid "Далида пар."
+msgid "Д/С №26"
+msgstr ""
+
+# Objects : [w25326046]
+# name:be: []
+msgid "Д/С №442"
 msgstr ""
 
 # Objects : [w25697645]
@@ -3331,6 +3326,11 @@ msgstr ""
 # Objects : [n2627179337]
 # name:be: []
 msgid "Дантист"
+msgstr ""
+
+# Objects : [n3334709666]
+# name:be: []
+msgid "Дауман А. Э., Флакс И. М."
 msgstr ""
 
 # Objects : [n2870355421, n2870355422]
@@ -3833,11 +3833,6 @@ msgstr ""
 msgid "ёлка"
 msgstr ""
 
-# Objects : [n2621042615]
-# name:be: []
-msgid "елочка"
-msgstr ""
-
 # Objects : [n2870356458, n2870356459]
 # name:be: []
 msgid "ж/д переход"
@@ -4266,6 +4261,11 @@ msgstr ""
 # Objects : [n3100301533]
 # name:be: []
 msgid "И.И.Якубовский"
+msgstr ""
+
+# Objects : [n3334709665]
+# name:be: []
+msgid "Иванков Г. А."
 msgstr ""
 
 # Objects : [n1309578058]
@@ -4903,11 +4903,6 @@ msgstr ""
 msgid "Консультационная лизинговая сеть. Сеть  CLN."
 msgstr ""
 
-# Objects : [n3024878644]
-# name:be: []
-msgid "Конфиденс мед центр"
-msgstr ""
-
 # Objects : [n2575690243]
 # name:be: []
 msgid "Конфискат"
@@ -5408,16 +5403,6 @@ msgstr ""
 msgid "Магазин Обои"
 msgstr ""
 
-# Objects : [w256977846, w257111824]
-# name:be: []
-msgid "Магазин обуви "Отико""
-msgstr ""
-
-# Objects : [w25431584]
-# name:be: []
-msgid "Магазин обуви «Отико»"
-msgstr ""
-
 # Objects : [n3143637366]
 # name:be: []
 msgid "Магазин рвзливного пива"
@@ -5541,11 +5526,6 @@ msgstr ""
 # Objects : [n1327195192]
 # name:be: []
 msgid "Мамонты"
-msgstr ""
-
-# Objects : [n2621102128]
-# name:be: []
-msgid "Маникюрный салон"
 msgstr ""
 
 # Objects : [n3207831440]
@@ -5676,6 +5656,11 @@ msgstr ""
 # Objects : [n1158968711]
 # name:be: []
 msgid "Медицинский центр "Горизонт""
+msgstr ""
+
+# Objects : [n3024878644]
+# name:be: []
+msgid "Медицинский центр «Конфиденс»"
 msgstr ""
 
 # Objects : [n2162340626]
@@ -5886,6 +5871,11 @@ msgstr ""
 # Objects : [n1740283346]
 # name:be: []
 msgid "Минский городской суд"
+msgstr ""
+
+# Objects : [w25319383]
+# name:be: []
+msgid "Минский государственный автомеханический колледж"
 msgstr ""
 
 # Objects : [n604715778]
@@ -8008,11 +7998,6 @@ msgstr ""
 msgid "ПИАР КВАДРАТ СТУДИЯ СПЕЦПРОЕКТОВ ООО"
 msgstr ""
 
-# Objects : [n3024938784]
-# name:be: []
-msgid "Пив&Ко"
-msgstr ""
-
 # Objects : [n2788683504]
 # name:be: [Бровар «Багемія»]
 msgid "Пивзавод «Богемия»"
@@ -8893,7 +8878,7 @@ msgstr ""
 msgid "ремонт одежды"
 msgstr ""
 
-# Objects : [n1203558193, n1737353212, n2444080564, n2509626533, n2509630301, n2528272823, n2566335281, n2591395909, n2591416055, n2599747636, n2618472420, n2619918701, n2619994544, n2620202425, n3011165607, n3129085729, n3268902803]
+# Objects : [n1203558193, n1737353212, n2444080564, n2509626533, n2509630301, n2528272823, n2566335281, n2591395909, n2591416055, n2599747636, n2618472420, n2619918701, n2619994544, n2620202425, n3011165607, n3129085729, n3268902803, n3336676082]
 # name:be: []
 msgid "Ремонт одежды"
 msgstr ""
@@ -10588,11 +10573,6 @@ msgstr ""
 msgid "Теплоузел"
 msgstr ""
 
-# Objects : [n3024836555]
-# name:be: []
-msgid "ТермоСтиль"
-msgstr ""
-
 # Objects : [n3203253561]
 # name:be: []
 msgid "Террамедика"
@@ -11023,6 +11003,11 @@ msgstr ""
 msgid "УП "Минский НИИ радиоматериалов""
 msgstr ""
 
+# Objects : [n3337386080]
+# name:be: []
+msgid "УП "ТехноСАПР" МНОО МАИТ"
+msgstr ""
+
 # Objects : [r3346215]
 # name:be: []
 msgid "УП "Экорес""
@@ -11333,14 +11318,9 @@ msgstr ""
 msgid "Фото ателье"
 msgstr ""
 
-# Objects : [n3205811614]
+# Objects : [n2614505268, n3205811614]
 # name:be: []
 msgid "Фотомастерская"
-msgstr ""
-
-# Objects : [n2614505268]
-# name:be: []
-msgid "ФОТО МАСТЕРСКАЯ"
 msgstr ""
 
 # Objects : [n2566335282]

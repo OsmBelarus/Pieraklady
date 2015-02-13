@@ -413,11 +413,6 @@ msgstr ""
 msgid "Слобода"
 msgstr ""
 
-# Objects : [w25110368]
-# name:be: [Сом]
-msgid "Сом"
-msgstr ""
-
 # Objects : [n1285660707, w113362342]
 # name:be: [Сасновы]
 msgid "Сосновый"

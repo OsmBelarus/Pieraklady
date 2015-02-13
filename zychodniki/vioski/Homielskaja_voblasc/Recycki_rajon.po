@@ -903,6 +903,11 @@ msgstr ""
 msgid "Шёлковичи"
 msgstr ""
 
+# Objects : [w25085301]
+# name:be: [Шчэрбаўка]
+msgid "Щербовка"
+msgstr ""
+
 # Objects : [n243042179, n2791948831, w25085322, w274480689]
 # name:be: [Якімаўка]
 msgid "Якимовка"

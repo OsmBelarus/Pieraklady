@@ -43,11 +43,6 @@ msgstr ""
 msgid "BKF CarWash"
 msgstr ""
 
-# Objects : [n3326725413]
-# name:be: []
-msgid "Brest Railway Museum"
-msgstr ""
-
 # Objects : [n1701035490]
 # name:be: []
 msgid "City Club"
@@ -423,8 +418,8 @@ msgstr ""
 msgid "Брестский Гребной Канал"
 msgstr ""
 
-# Objects : [r967343]
-# name:be: [Брэсцкі чыгуначны музей]
+# Objects : [n3326725413]
+# name:be: [Брэсцкі музей чыгуначнай тэхнікі]
 msgid "Брестский железнодорожный музей"
 msgstr ""
 
@@ -1676,6 +1671,11 @@ msgstr ""
 # Objects : [n306069127]
 # name:be: []
 msgid "Онкология"
+msgstr ""
+
+# Objects : [n3343858982, w327572468]
+# name:be: []
+msgid "ООО "БелИнтерМаркет""
 msgstr ""
 
 # Objects : [w289989188]

@@ -203,11 +203,6 @@ msgstr ""
 msgid "Кафе "ОК""
 msgstr ""
 
-# Objects : [n335777389]
-# name:be: [Кавярня «Славянская»]
-msgid "Кафе "Славянское""
-msgstr ""
-
 # Objects : [n1763616293]
 # name:be: []
 msgid "кафе «Ника»"
@@ -421,6 +416,11 @@ msgstr ""
 # Objects : [n1201957923]
 # name:be: [Славяначка]
 msgid "Славяночка"
+msgstr ""
+
+# Objects : [n3335947931]
+# name:be: []
+msgid "Славянское"
 msgstr ""
 
 # Objects : [n1103802339]

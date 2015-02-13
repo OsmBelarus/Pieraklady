@@ -18,6 +18,11 @@ msgstr ""
 msgid "Малятичи"
 msgstr ""
 
+# Objects : [n306068414]
+# name:be: [Міхеевічы]
+msgid "Михеевичи"
+msgstr ""
+
 # Objects : [n847296526]
 # name:be: []
 msgid "Факел"

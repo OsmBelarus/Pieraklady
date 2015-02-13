@@ -123,6 +123,11 @@ msgstr ""
 msgid "Охотничий Домик"
 msgstr ""
 
+# Objects : [n3338344311]
+# name:be: []
+msgid "Пожарная вышка"
+msgstr ""
+
 # Objects : [n2788683590, n2788683592]
 # name:be: [Паштовая станцыя]
 msgid "Почтовая станция"

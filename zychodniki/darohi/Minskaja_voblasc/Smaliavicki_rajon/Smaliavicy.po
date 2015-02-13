@@ -63,7 +63,7 @@ msgstr ""
 msgid "Белорусская улица"
 msgstr ""
 
-# Objects : [w25266609, w36244428]
+# Objects : [w36244428]
 # name:be: [Бранявы завулак]
 msgid "Броневой переулок"
 msgstr ""
@@ -501,6 +501,11 @@ msgstr ""
 # Objects : [w25266516, w25266539]
 # name:be: [вуліца Навасёлаў]
 msgid "улица Новосёлов"
+msgstr ""
+
+# Objects : [w25266609]
+# name:be: []
+msgid "улица Пионерская"
 msgstr ""
 
 # Objects : [w203466385, w25266506]

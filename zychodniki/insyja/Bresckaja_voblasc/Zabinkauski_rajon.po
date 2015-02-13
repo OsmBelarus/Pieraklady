@@ -18,6 +18,11 @@ msgstr ""
 msgid "Гидроэергетический комплекс №8, "Залузье""
 msgstr ""
 
+# Objects : [w326965342]
+# name:be: []
+msgid "Дягли"
+msgstr ""
+
 # Objects : [n565524902]
 # name:be: [Жабінка]
 msgid "Жабинка"
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [n573670549, n573670638]
 # name:be: []
 msgid "Залузье"
+msgstr ""
+
+# Objects : [w326965635]
+# name:be: []
+msgid "Замошаны"
 msgstr ""
 
 # Objects : [n2788681588]

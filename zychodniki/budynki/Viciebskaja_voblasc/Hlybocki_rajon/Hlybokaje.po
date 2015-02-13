@@ -73,7 +73,7 @@ msgstr ""
 msgid "129а"
 msgstr ""
 
-# Objects : [w152775988]
+# Objects : [w152325340, w152775988]
 # name:be: []
 msgid "13"
 msgstr ""
@@ -88,12 +88,12 @@ msgstr ""
 msgid "14"
 msgstr ""
 
-# Objects : [w158208346]
+# Objects : [w152816836, w158208346]
 # name:be: []
 msgid "14а"
 msgstr ""
 
-# Objects : [w148311686, w151469555, w152325527, w152775971]
+# Objects : [w148311686, w151469555, w152325369, w152325527, w152775971]
 # name:be: []
 msgid "15"
 msgstr ""
@@ -103,7 +103,7 @@ msgstr ""
 msgid "16"
 msgstr ""
 
-# Objects : [w148311701]
+# Objects : [w148311701, w152325370]
 # name:be: []
 msgid "17"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "188"
 msgstr ""
 
-# Objects : [w148311665]
+# Objects : [w148311665, w152325499]
 # name:be: []
 msgid "19"
 msgstr ""

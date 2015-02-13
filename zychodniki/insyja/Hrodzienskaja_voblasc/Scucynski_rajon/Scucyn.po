@@ -3,11 +3,6 @@
 msgid "Автопарк №12"
 msgstr ""
 
-# Objects : [r3174481]
-# name:be: [Акадэмічная вуліца]
-msgid "Академическая улица"
-msgstr ""
-
 # Objects : [n1868776356]
 # name:be: []
 msgid "Больница скорой помощи"
@@ -53,11 +48,6 @@ msgstr ""
 msgid "ЗАГС"
 msgstr ""
 
-# Objects : [r3176648]
-# name:be: [Заходняя вуліца]
-msgid "Западная улица"
-msgstr ""
-
 # Objects : [n2254109041]
 # name:be: []
 msgid "Зелёная"
@@ -68,19 +58,9 @@ msgstr ""
 msgid "Католическое кладбище"
 msgstr ""
 
-# Objects : [r3176984]
-# name:be: [Камсамольская вуліца]
-msgid "Комсомольская улица"
-msgstr ""
-
 # Objects : [n2788682182]
 # name:be: [Касцёл Святога Тэрэзы й кляштар піяраў]
 msgid "Костел Святой Терезы и кляштор пиаров"
-msgstr ""
-
-# Objects : [r3174482]
-# name:be: [Чырвонаармейская вуліца]
-msgid "Красноармейская улица"
 msgstr ""
 
 # Objects : [n2014761754]
@@ -96,11 +76,6 @@ msgstr ""
 # Objects : [n1935224008]
 # name:be: []
 msgid "Памятник Советским летчикам"
-msgstr ""
-
-# Objects : [r3176794]
-# name:be: [Першамайская вуліца]
-msgid "Первомайская улица"
 msgstr ""
 
 # Objects : [n2254105972]
@@ -123,69 +98,9 @@ msgstr ""
 msgid "Рынок"
 msgstr ""
 
-# Objects : [r3172339]
-# name:be: [Паўночна-Усходняя вуліца]
-msgid "Северо-Восточная улица"
-msgstr ""
-
-# Objects : [r3174483]
-# name:be: [Савецкая вуліца]
-msgid "Советская улица"
-msgstr ""
-
 # Objects : [r3172340]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
-msgstr ""
-
-# Objects : [r3174484]
-# name:be: [вуліца 17 Верасня]
-msgid "улица 17 Сентября"
-msgstr ""
-
-# Objects : [r3176985]
-# name:be: [вуліца Гастэлы]
-msgid "улица Гастелло"
-msgstr ""
-
-# Objects : [r3179479]
-# name:be: [вуліца Дружбы]
-msgid "улица Дружбы"
-msgstr ""
-
-# Objects : [r3176986]
-# name:be: [вуліца Крупскай]
-msgid "улица Крупской"
-msgstr ""
-
-# Objects : [r3174485]
-# name:be: [вуліца Леніна]
-msgid "улица Ленина"
-msgstr ""
-
-# Objects : [r3174486]
-# name:be: [вуліца Лермантава]
-msgid "улица Лермонтова"
-msgstr ""
-
-# Objects : [r3175970]
-# name:be: [вуліца Мічурына]
-msgid "улица Мичурина"
-msgstr ""
-
-# Objects : [r3176649]
-# name:be: [вуліца Будаўнікоў]
-msgid "улица Строителей"
-msgstr ""
-
-# Objects : [r3422365]
-# name:be: [вуліца Фрунзэ]
-msgid "улица Фрунзе"
-msgstr ""
-
-# Objects : [r3172514]
-# name:be: []
-msgid "улица Шупени"
 msgstr ""
 
 # Objects : [n2439795208]
@@ -201,11 +116,6 @@ msgstr ""
 # Objects : [n2788687508]
 # name:be: [Капліца могілкавая]
 msgid "Часовня кладбищенская"
-msgstr ""
-
-# Objects : [r3172533]
-# name:be: [Школьная вуліца]
-msgid "Школьная улица"
 msgstr ""
 
 # Objects : [r3176650]

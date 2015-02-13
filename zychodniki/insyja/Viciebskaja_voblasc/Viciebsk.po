@@ -298,6 +298,11 @@ msgstr ""
 msgid "Администрация"
 msgstr ""
 
+# Objects : [n3341983699]
+# name:be: []
+msgid "Аисты"
+msgstr ""
+
 # Objects : [w95402138]
 # name:be: [Акушэрскі корпус]
 msgid "Акушерский корп."
@@ -451,11 +456,6 @@ msgstr ""
 # Objects : [n3185274204]
 # name:be: []
 msgid "Белшина склад"
-msgstr ""
-
-# Objects : [n3332355316]
-# name:be: []
-msgid "Белые дома"
 msgstr ""
 
 # Objects : [n1250437634]
@@ -1641,11 +1641,6 @@ msgstr ""
 # Objects : [n1733719288]
 # name:be: []
 msgid "Интернет"
-msgstr ""
-
-# Objects : [n1114721420]
-# name:be: [Інтэрнэт-клуб]
-msgid "Интернет клуб"
 msgstr ""
 
 # Objects : [n2521019166, n2521019167]
@@ -3188,7 +3183,7 @@ msgstr ""
 msgid "Промтехмонтаж, ОАО ф-л МУ (г. Витебск)"
 msgstr ""
 
-# Objects : [n2820101574]
+# Objects : [n2820101574, n3343217184]
 # name:be: []
 msgid "Промтрансинвест"
 msgstr ""
@@ -4633,7 +4628,7 @@ msgstr ""
 msgid "Элект"
 msgstr ""
 
-# Objects : [n3328886803, w27902865]
+# Objects : [n3328886803]
 # name:be: []
 msgid "Электроволна"
 msgstr ""

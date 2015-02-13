@@ -1,8 +1,3 @@
-# Objects : [w221612282, w262535256, w299907309, w299907310, w299907311]
-# name:be: []
-msgid "P65"
-msgstr ""
-
 # Objects : [w204244320]
 # name:be: []
 msgid "Брестская улица"
@@ -173,9 +168,24 @@ msgstr ""
 msgid "Станичная улица"
 msgstr ""
 
+# Objects : [w301291158, w301291159, w327923660]
+# name:be: []
+msgid "ул.Молодёжная"
+msgstr ""
+
 # Objects : [w308845995]
 # name:be: []
 msgid "ул. Орла"
+msgstr ""
+
+# Objects : [w327923662]
+# name:be: []
+msgid "ул.Северная"
+msgstr ""
+
+# Objects : [w292401046]
+# name:be: []
+msgid "ул.Солнечная"
 msgstr ""
 
 # Objects : [w189436597]
@@ -186,6 +196,11 @@ msgstr ""
 # Objects : [w318179443]
 # name:be: []
 msgid "улица Максима Танка"
+msgstr ""
+
+# Objects : [w262535256]
+# name:be: []
+msgid "улица Марата Казея"
 msgstr ""
 
 # Objects : [w175022459]

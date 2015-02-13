@@ -143,6 +143,11 @@ msgstr ""
 msgid "улица Победы"
 msgstr ""
 
+# Objects : [w327284672]
+# name:be: []
+msgid "улица Советская"
+msgstr ""
+
 # Objects : [w262678555]
 # name:be: []
 msgid "Фабричная улица"

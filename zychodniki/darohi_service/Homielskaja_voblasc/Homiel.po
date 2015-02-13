@@ -18,6 +18,11 @@ msgstr ""
 msgid "8-я Иногородняя улица"
 msgstr ""
 
+# Objects : [w112693810, w283081949]
+# name:be: []
+msgid "бульвар газеты Гомельская Правда"
+msgstr ""
+
 # Objects : [w321628833]
 # name:be: []
 msgid "Канава 1"

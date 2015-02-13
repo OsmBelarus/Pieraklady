@@ -113,6 +113,11 @@ msgstr ""
 msgid "Микитичи"
 msgstr ""
 
+# Objects : [w327112948]
+# name:be: []
+msgid "Мини-ГЭС"
+msgstr ""
+
 # Objects : [n2788682709]
 # name:be: [Магіла Францішка Карпінскага]
 msgid "Могила Франтишка Карпинского"
@@ -206,6 +211,11 @@ msgstr ""
 # Objects : [n2766722610]
 # name:be: []
 msgid "Санаторий Ружанский"
+msgstr ""
+
+# Objects : [n3338308939]
+# name:be: []
+msgid "Танк Т34-85"
 msgstr ""
 
 # Objects : [n2788684593]

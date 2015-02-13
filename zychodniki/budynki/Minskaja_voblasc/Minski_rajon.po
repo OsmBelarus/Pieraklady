@@ -128,6 +128,16 @@ msgstr ""
 msgid "Robinson Club"
 msgstr ""
 
+# Objects : [w79304158]
+# name:be: []
+msgid "Roman Kamotsky House"
+msgstr ""
+
+# Objects : [w48096520]
+# name:be: [АўтаБізнэс ABW.BY]
+msgid "АвтоБизнес ABW.BY"
+msgstr ""
+
 # Objects : [w310824878]
 # name:be: []
 msgid "Автомагазин «СВИАТ»"
@@ -669,7 +679,7 @@ msgid "Онкологическое отделение"
 msgstr ""
 
 # Objects : [w79304153]
-# name:be: []
+# name:be: [ТАА "Сауза"]
 msgid "ООО "Сауза""
 msgstr ""
 
@@ -929,7 +939,7 @@ msgid "Старая мельница"
 msgstr ""
 
 # Objects : [w153941040, w255616097, w258697654, w302752000, w326447186]
-# name:be: []
+# name:be: [СТА]
 msgid "СТО"
 msgstr ""
 
@@ -1104,7 +1114,7 @@ msgid "Экспобел"
 msgstr ""
 
 # Objects : [w97859484]
-# name:be: []
+# name:be: [Электрападстанцыя]
 msgid "Электроподстанция"
 msgstr ""
 

@@ -3,11 +3,6 @@
 msgid "д/c №358"
 msgstr ""
 
-# Objects : [w67804774]
-# name:be: []
-msgid "д/с"
-msgstr ""
-
 # Objects : [w104175889]
 # name:be: []
 msgid "д/сад № 245"
@@ -53,6 +48,11 @@ msgstr ""
 msgid "д/с №194"
 msgstr ""
 
+# Objects : [w25322384]
+# name:be: []
+msgid "Д/С №226"
+msgstr ""
+
 # Objects : [w93265828]
 # name:be: []
 msgid "д/с №227"
@@ -61,21 +61,6 @@ msgstr ""
 # Objects : [w181064334]
 # name:be: []
 msgid "д/с №231"
-msgstr ""
-
-# Objects : [w67651612]
-# name:be: []
-msgid "д/с №239"
-msgstr ""
-
-# Objects : [w67804594]
-# name:be: []
-msgid "д/с №26"
-msgstr ""
-
-# Objects : [w67804763]
-# name:be: []
-msgid "д/с №260"
 msgstr ""
 
 # Objects : [w82624710]
@@ -946,11 +931,6 @@ msgstr ""
 # Objects : [w25321677]
 # name:be: []
 msgid "ДС№22"
-msgstr ""
-
-# Objects : [w25322384]
-# name:be: []
-msgid "ДС№226"
 msgstr ""
 
 # Objects : [w25322153]

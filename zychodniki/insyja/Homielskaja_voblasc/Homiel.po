@@ -2208,6 +2208,11 @@ msgstr ""
 msgid "Храм Преображения Господня"
 msgstr ""
 
+# Objects : [n243046787]
+# name:be: [Хутар]
+msgid "Хутор"
+msgstr ""
+
 # Objects : [w242912313]
 # name:be: []
 msgid "цветмет"

@@ -18,6 +18,11 @@ msgstr ""
 msgid "Баня (забр.)"
 msgstr ""
 
+# Objects : [w327247207]
+# name:be: []
+msgid "Баскетбольная площадка"
+msgstr ""
+
 # Objects : [w318477419]
 # name:be: []
 msgid "Бывший детский лагер отдыха"
@@ -26,6 +31,16 @@ msgstr ""
 # Objects : [n3291974977]
 # name:be: []
 msgid "Водонапорная башня"
+msgstr ""
+
+# Objects : [w265964009]
+# name:be: []
+msgid "Гадиловичская средняя школа"
+msgstr ""
+
+# Objects : [w265963908]
+# name:be: []
+msgid "Гадиловичский детский сад"
 msgstr ""
 
 # Objects : [n595227827]
@@ -138,6 +153,11 @@ msgstr ""
 msgid "Коммунистическая улица"
 msgstr ""
 
+# Objects : [w327243340]
+# name:be: []
+msgid "Коровник"
+msgstr ""
+
 # Objects : [w261970327]
 # name:be: []
 msgid "Котельная"
@@ -198,11 +218,6 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе Верман"
 msgstr ""
 
-# Objects : [n2788683759]
-# name:be: [Прысядзібны парк пры былой сядзібе Сянажэцкіх]
-msgid "Приусадебный парк при бывшей усадьбе Сеножецких"
-msgstr ""
-
 # Objects : [n2089874364]
 # name:be: []
 msgid "Ресторан"
@@ -243,6 +258,16 @@ msgstr ""
 msgid "Территория детсада"
 msgstr ""
 
+# Objects : [w327757994]
+# name:be: []
+msgid "Территория детского сада"
+msgstr ""
+
+# Objects : [w327757995]
+# name:be: []
+msgid "Территория средней школы"
+msgstr ""
+
 # Objects : [w262503603, w323626913]
 # name:be: []
 msgid "Территория школы"
@@ -251,6 +276,11 @@ msgstr ""
 # Objects : [n3047106230]
 # name:be: []
 msgid "ФАП"
+msgstr ""
+
+# Objects : [w327247209]
+# name:be: []
+msgid "Футбольное поле"
 msgstr ""
 
 # Objects : [n2788686032]
@@ -273,7 +303,7 @@ msgstr ""
 msgid "Юбилейная улица"
 msgstr ""
 
-# Objects : [w326362301, w326362359, w326362360, w326491748, w326730153]
+# Objects : [w326362301, w326362359, w326362360, w326491748, w326730153, w327243344, w327565974, w327566937]
 # name:be: []
 msgid "Яблочный сад"
 msgstr ""

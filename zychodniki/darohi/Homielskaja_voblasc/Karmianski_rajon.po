@@ -203,6 +203,11 @@ msgstr ""
 msgid "улица Володарского"
 msgstr ""
 
+# Objects : [w104427012]
+# name:be: []
+msgid "улица Колхозная"
+msgstr ""
+
 # Objects : [w269784325, w270898168]
 # name:be: []
 msgid "улица Космонавтов"
@@ -218,9 +223,19 @@ msgstr ""
 msgid "улица Мира"
 msgstr ""
 
+# Objects : [w327363505]
+# name:be: []
+msgid "улица Октябрьская"
+msgstr ""
+
 # Objects : [w199783581, w272728999]
 # name:be: []
 msgid "улица Победы"
+msgstr ""
+
+# Objects : [w104426988]
+# name:be: []
+msgid "улица Строительная"
 msgstr ""
 
 # Objects : [w271374287]

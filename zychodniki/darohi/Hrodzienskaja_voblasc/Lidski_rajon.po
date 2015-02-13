@@ -38,6 +38,11 @@ msgstr ""
 msgid "Красноармейская улица"
 msgstr ""
 
+# Objects : [w302442757]
+# name:be: []
+msgid "Лесная ул."
+msgstr ""
+
 # Objects : [w176770382, w229588871, w231960111, w231960113, w301837492, w303968659, w304459441]
 # name:be: []
 msgid "Лесная улица"
@@ -153,9 +158,9 @@ msgstr ""
 msgid "Солнечная улица"
 msgstr ""
 
-# Objects : [w231741533]
+# Objects : [w302442738]
 # name:be: []
-msgid "ул. Комарова"
+msgid "ул. Зеленая"
 msgstr ""
 
 # Objects : [w118083013]
@@ -166,6 +171,11 @@ msgstr ""
 # Objects : [w146908613, w97563075]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w231741533]
+# name:be: []
+msgid "улица Комарова"
 msgstr ""
 
 # Objects : [w124553030]

@@ -3,9 +3,19 @@
 msgid "Амбулатория"
 msgstr ""
 
+# Objects : [w270740227]
+# name:be: []
+msgid "Бывшая радиостанция"
+msgstr ""
+
 # Objects : [w262040628]
 # name:be: []
 msgid "Зельвенский цех природного и сжиженного газа"
+msgstr ""
+
+# Objects : [w327144579]
+# name:be: []
+msgid "Клуб"
 msgstr ""
 
 # Objects : [w308858285]
@@ -18,8 +28,58 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
+# Objects : [w327087142]
+# name:be: []
+msgid "Насосная станция"
+msgstr ""
+
+# Objects : [w327058514]
+# name:be: []
+msgid "о.п.Лебяды"
+msgstr ""
+
+# Objects : [w327057772]
+# name:be: []
+msgid "о.п.Старая Весь"
+msgstr ""
+
+# Objects : [w327055794]
+# name:be: []
+msgid "ОСВОД"
+msgstr ""
+
+# Objects : [w327052653]
+# name:be: []
+msgid "Очистные сооружения"
+msgstr ""
+
+# Objects : [w327144580]
+# name:be: []
+msgid "Развалины фермы"
+msgstr ""
+
+# Objects : [w327144561]
+# name:be: []
+msgid "Склад удобрений"
+msgstr ""
+
+# Objects : [w263500343]
+# name:be: []
+msgid "Станция обежжелезивания воды"
+msgstr ""
+
+# Objects : [w270740239]
+# name:be: []
+msgid "Трансформаторная подстанция"
+msgstr ""
+
 # Objects : [w190339674]
 # name:be: []
 msgid "Ф/Х Верес"
+msgstr ""
+
+# Objects : [w327148789]
+# name:be: []
+msgid "Химбаза"
 msgstr ""
 

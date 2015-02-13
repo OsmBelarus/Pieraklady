@@ -58,6 +58,11 @@ msgstr ""
 msgid "Спортивная улица"
 msgstr ""
 
+# Objects : [w292401046]
+# name:be: []
+msgid "ул.Солнечная"
+msgstr ""
+
 # Objects : [w232474301, w232474311]
 # name:be: []
 msgid "улица Сенкевича"

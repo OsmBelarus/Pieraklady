@@ -130,7 +130,7 @@ msgstr ""
 
 # Objects : [w180533641]
 # name:be: []
-msgid "Дом отдыха докомотивных бригад"
+msgid "Дом отдыха локомотивных бригад"
 msgstr ""
 
 # Objects : [w138443114, w84534285]
@@ -208,7 +208,7 @@ msgstr ""
 msgid "Линия"
 msgstr ""
 
-# Objects : [w226847245, w226857884, w309863061]
+# Objects : [w226847245, w226857884, w309863061, w327720603]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -431,6 +431,11 @@ msgstr ""
 # Objects : [w108722063]
 # name:be: []
 msgid "Центр олимпийского резерва"
+msgstr ""
+
+# Objects : [w327387379]
+# name:be: []
+msgid "ЦТП"
 msgstr ""
 
 # Objects : [w244931843]

@@ -968,11 +968,6 @@ msgstr ""
 msgid "улица Ровчакова"
 msgstr ""
 
-# Objects : [w25241215]
-# name:be: []
-msgid "улица Серова"
-msgstr ""
-
 # Objects : [r2022402]
 # name:be: [вуліца Сіманава]
 msgid "улица Симонова"

@@ -3,9 +3,19 @@
 msgid ""Дочки и сыночки" - магазин детских товаров и косметики"
 msgstr ""
 
-# Objects : [w281145147]
+# Objects : [w96381848]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w281145147, w326518722]
 # name:be: []
 msgid "20"
+msgstr ""
+
+# Objects : [w327918002]
+# name:be: []
+msgid "23a"
 msgstr ""
 
 # Objects : [w281178678]
@@ -21,6 +31,11 @@ msgstr ""
 # Objects : [w281178697]
 # name:be: []
 msgid "26"
+msgstr ""
+
+# Objects : [w60838018]
+# name:be: []
+msgid "7"
 msgstr ""
 
 # Objects : [w96837662]
@@ -100,7 +115,7 @@ msgstr ""
 
 # Objects : [w53454059]
 # name:be: [Кантынент]
-msgid "Бел маркет"
+msgid "Бел маркет ,8"
 msgstr ""
 
 # Objects : [w95550697]
@@ -641,11 +656,6 @@ msgstr ""
 # Objects : [w94397098]
 # name:be: [Кветкі]
 msgid "Цветы"
-msgstr ""
-
-# Objects : [w54277461]
-# name:be: [Цэнтр занятасці]
-msgid "Центр занятости"
 msgstr ""
 
 # Objects : [w189512620]

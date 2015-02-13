@@ -253,6 +253,11 @@ msgstr ""
 msgid "Пилорама"
 msgstr ""
 
+# Objects : [w327575751]
+# name:be: []
+msgid "ПООО "Профили ВОКС""
+msgstr ""
+
 # Objects : [n2788683579]
 # name:be: [Паштовая станцыя]
 msgid "Почтовая станция"
@@ -381,11 +386,6 @@ msgstr ""
 # Objects : [n2788684558]
 # name:be: [Сядзібна-паркавы комплекс Тукалаў]
 msgid "Усадебно-парковый комплекс Тукалло"
-msgstr ""
-
-# Objects : [w169181976]
-# name:be: []
-msgid "Усадьба Рынькавка"
 msgstr ""
 
 # Objects : [n2788685103]

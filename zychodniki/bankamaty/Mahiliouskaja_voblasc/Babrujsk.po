@@ -1,5 +1,5 @@
 # Objects : [n3033943833, n3034299741]
-# name:be: [ВТБ]
+# name:be: [Банк ВТБ]
 msgid "Банк ВТБ"
 msgstr ""
 
@@ -19,7 +19,7 @@ msgid "Беларусбанк"
 msgstr ""
 
 # Objects : [n2388037030, n3034241041]
-# name:be: [БелЗЭБ]
+# name:be: [БелВЭБ]
 msgid "БелВЭБ"
 msgstr ""
 
@@ -29,7 +29,7 @@ msgid "Белинвестбанк"
 msgstr ""
 
 # Objects : [n1852253858]
-# name:be: [БПС-Збербанк]
+# name:be: [БПС-Сбербанк]
 msgid "БПС-Сбербанк"
 msgstr ""
 

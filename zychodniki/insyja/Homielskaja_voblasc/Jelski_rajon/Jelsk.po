@@ -3,29 +3,19 @@
 msgid "Автобаза"
 msgstr ""
 
-# Objects : [n2766736571]
-# name:be: []
-msgid "Гостиница Ельск"
-msgstr ""
-
-# Objects : [n2652208225]
-# name:be: []
-msgid "Дом культуры"
-msgstr ""
-
-# Objects : [n306064666, n306064705]
+# Objects : [n306064705, w239113697]
 # name:be: [Ельск]
 msgid "Ельск"
+msgstr ""
+
+# Objects : [n3347613656]
+# name:be: []
+msgid "Ельский краеведчиский музей"
 msgstr ""
 
 # Objects : [n2652208227]
 # name:be: [Ельскі раённы выканаўчы камітэт]
 msgid "Ельский районный исполнительный комитет"
-msgstr ""
-
-# Objects : [n306064656]
-# name:be: [Ельскі раённы аддзел унутраных спраў]
-msgid "Ельский районный отдел внутренних дел"
 msgstr ""
 
 # Objects : [n2652208226]
@@ -68,19 +58,9 @@ msgstr ""
 msgid "СТО"
 msgstr ""
 
-# Objects : [n2652208228]
-# name:be: [Суд Ельскага раёна]
-msgid "Суд Ельского района"
-msgstr ""
-
 # Objects : [r2789928]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"
-msgstr ""
-
-# Objects : [n2788686605]
-# name:be: [Царква Святой Тройцы]
-msgid "Церковь Святой Троицы"
 msgstr ""
 
 # Objects : [n306064702]

@@ -693,8 +693,8 @@ msgstr ""
 msgid "5-й Свердловский проезд"
 msgstr ""
 
-# Objects : [w25236738]
-# name:be: []
+# Objects : [w25236738, w260448823]
+# name:be: [5-ы Транзітны завулак]
 msgid "5-й Транзитный переулок"
 msgstr ""
 
@@ -843,7 +843,7 @@ msgstr ""
 msgid "Безымянная улица"
 msgstr ""
 
-# Objects : [w266505071]
+# Objects : [w266505071, w310902627]
 # name:be: [Беліцкая вуліца]
 msgid "Белицкая улица"
 msgstr ""
@@ -1466,6 +1466,11 @@ msgstr ""
 # Objects : [w92107137]
 # name:be: [Лагуноўская вуліца]
 msgid "Логуновская улица"
+msgstr ""
+
+# Objects : [w278192566]
+# name:be: []
+msgid "Лозановская улица"
 msgstr ""
 
 # Objects : [w25236346]
@@ -2213,6 +2218,11 @@ msgstr ""
 msgid "Сиреневая улица"
 msgstr ""
 
+# Objects : [w25236614]
+# name:be: []
+msgid "Сиреневый переулок"
+msgstr ""
+
 # Objects : [w309183668]
 # name:be: []
 msgid "Слободская улица"
@@ -2431,11 +2441,6 @@ msgstr ""
 # Objects : [w25236315]
 # name:be: [вуліца 40 гадоў Кастрычніка]
 msgid "улица 40 лет Октября"
-msgstr ""
-
-# Objects : [w25235378]
-# name:be: [вуліца 50 гадоў БССР]
-msgid "улица 50 лет БССР"
 msgstr ""
 
 # Objects : [w25236242]
@@ -3478,7 +3483,7 @@ msgstr ""
 msgid "Хозяйственная улица"
 msgstr ""
 
-# Objects : [w271671449, w282078342]
+# Objects : [w271671449, w310321907]
 # name:be: [Хутарская вуліца]
 msgid "Хуторская улица"
 msgstr ""

@@ -33,6 +33,11 @@ msgstr ""
 msgid "Боровики"
 msgstr ""
 
+# Objects : [n3347299178]
+# name:be: []
+msgid "Брод"
+msgstr ""
+
 # Objects : [w25199069]
 # name:be: []
 msgid "Велижья"
@@ -76,6 +81,26 @@ msgstr ""
 # Objects : [w319673882]
 # name:be: []
 msgid "Детский Сад-Средняя Школа"
+msgstr ""
+
+# Objects : [n3345866947]
+# name:be: []
+msgid "ДОТ 515"
+msgstr ""
+
+# Objects : [n3345866948]
+# name:be: []
+msgid "ДОТ 524"
+msgstr ""
+
+# Objects : [n3345866951]
+# name:be: []
+msgid "ДОТ 534"
+msgstr ""
+
+# Objects : [n3345866952]
+# name:be: []
+msgid "ДОТ 542"
 msgstr ""
 
 # Objects : [w326729952]

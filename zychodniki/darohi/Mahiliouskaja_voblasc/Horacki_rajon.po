@@ -3,6 +3,11 @@
 msgid "Безымянная"
 msgstr ""
 
+# Objects : [w124420287]
+# name:be: []
+msgid "Восточная улица"
+msgstr ""
+
 # Objects : [w211412775, w213133713, w213139220]
 # name:be: []
 msgid "Горецкая улица"
@@ -38,7 +43,7 @@ msgstr ""
 msgid "Колхозная улица"
 msgstr ""
 
-# Objects : [w169161068, w75664319, w75664587]
+# Objects : [w169161068, w327203584, w75664319, w75664587]
 # name:be: []
 msgid "Комсомольская улица"
 msgstr ""
@@ -76,6 +81,11 @@ msgstr ""
 # Objects : [w75664569]
 # name:be: [вулiца Наберажная]
 msgid "Набережная улица"
+msgstr ""
+
+# Objects : [w327203585]
+# name:be: []
+msgid "Овражный переулок"
 msgstr ""
 
 # Objects : [w325148440]
@@ -118,6 +128,11 @@ msgstr ""
 msgid "Первомайская улица"
 msgstr ""
 
+# Objects : [w170192199]
+# name:be: []
+msgid "переулок Доморацкого"
+msgstr ""
+
 # Objects : [w213133712]
 # name:be: []
 msgid "переулок Ленина"
@@ -148,6 +163,11 @@ msgstr ""
 msgid "Рабочая улица"
 msgstr ""
 
+# Objects : [w327203586]
+# name:be: []
+msgid "Радужная улица"
+msgstr ""
+
 # Objects : [w213139240]
 # name:be: []
 msgid "Речная улица"
@@ -173,7 +193,7 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
-# Objects : [w169621831, w206511312]
+# Objects : [w169621831, w206511312, w327203587]
 # name:be: []
 msgid "Солнечная улица"
 msgstr ""
@@ -198,7 +218,7 @@ msgstr ""
 msgid "улица Гагарина"
 msgstr ""
 
-# Objects : [w170192199]
+# Objects : [w327722179]
 # name:be: []
 msgid "улица Доморацкого"
 msgstr ""

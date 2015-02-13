@@ -63,6 +63,11 @@ msgstr ""
 msgid "Братская могила"
 msgstr ""
 
+# Objects : [n3176283400]
+# name:be: []
+msgid "Брод"
+msgstr ""
+
 # Objects : [w25192327]
 # name:be: []
 msgid "Буцкое"
@@ -108,6 +113,11 @@ msgstr ""
 msgid "Гостиница при туристическом комплексе Торока"
 msgstr ""
 
+# Objects : [w276274596]
+# name:be: []
+msgid "Детский сад 1"
+msgstr ""
+
 # Objects : [w25196860]
 # name:be: []
 msgid "Дикое"
@@ -128,7 +138,7 @@ msgstr ""
 msgid "Дорошевичи"
 msgstr ""
 
-# Objects : [n2924833433, n2924833440, n2924833441, n2924833442, n2924833443, n2924833444, n2924833447, n2957076644, n2957107964]
+# Objects : [n2924833433, n2924833440, n2924833441, n2924833442, n2924833443, n2924833444, n2924833447, n2957076644]
 # name:be: []
 msgid "ДОТ"
 msgstr ""
@@ -171,6 +181,41 @@ msgstr ""
 # Objects : [n2924833459]
 # name:be: []
 msgid "ДОТ 331 Б2"
+msgstr ""
+
+# Objects : [n3345910909]
+# name:be: []
+msgid "ДОТ 501"
+msgstr ""
+
+# Objects : [n3345910915]
+# name:be: []
+msgid "ДОТ 502"
+msgstr ""
+
+# Objects : [n3345910916]
+# name:be: []
+msgid "ДОТ 504"
+msgstr ""
+
+# Objects : [n2957107964]
+# name:be: []
+msgid "ДОТ 505 Б КПОТ"
+msgstr ""
+
+# Objects : [n3345910917]
+# name:be: []
+msgid "ДОТ 512"
+msgstr ""
+
+# Objects : [n3345910921]
+# name:be: []
+msgid "ДОТ 522"
+msgstr ""
+
+# Objects : [n3345910922]
+# name:be: []
+msgid "ДОТ 532"
 msgstr ""
 
 # Objects : [w297492208]
@@ -253,11 +298,6 @@ msgstr ""
 msgid "огневая группа №302"
 msgstr ""
 
-# Objects : [w295326482]
-# name:be: []
-msgid "Олимп"
-msgstr ""
-
 # Objects : [w295326484, w295775165]
 # name:be: []
 msgid "Памятник Ленину"
@@ -336,6 +376,11 @@ msgstr ""
 # Objects : [r3968605]
 # name:be: []
 msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w242628598]
+# name:be: []
+msgid "Птичская средняя школа"
 msgstr ""
 
 # Objects : [n306068920]

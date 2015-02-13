@@ -3,17 +3,12 @@
 msgid "библиотека"
 msgstr ""
 
-# Objects : [w304077111]
-# name:be: []
-msgid "гараж"
-msgstr ""
-
 # Objects : [w242947681]
 # name:be: []
 msgid "Гараж Еремича"
 msgstr ""
 
-# Objects : [w304077112, w304077556, w304077557]
+# Objects : [w304077112]
 # name:be: []
 msgid "гаражи"
 msgstr ""
@@ -28,9 +23,34 @@ msgstr ""
 msgid "Дары от зари"
 msgstr ""
 
+# Objects : [w239113692]
+# name:be: []
+msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w239113580]
+# name:be: []
+msgid "Ельск"
+msgstr ""
+
+# Objects : [w239113712]
+# name:be: []
+msgid "Ельский районный отдел внутренних дел"
+msgstr ""
+
 # Objects : [w239159309]
 # name:be: []
 msgid "Ельский цех МПУ Мозырьмежрайгаз"
+msgstr ""
+
+# Objects : [w239113747]
+# name:be: []
+msgid "Кафетерий "Молодежный""
+msgstr ""
+
+# Objects : [w239113734]
+# name:be: []
+msgid "Кафетерий "Пралеска""
 msgstr ""
 
 # Objects : [w239115949]
@@ -51,5 +71,10 @@ msgstr ""
 # Objects : [w239134535]
 # name:be: []
 msgid "ПМС"
+msgstr ""
+
+# Objects : [w239113702]
+# name:be: []
+msgid "Суд Ельского района"
 msgstr ""
 

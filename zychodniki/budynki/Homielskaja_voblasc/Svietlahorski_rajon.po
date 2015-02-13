@@ -1,3 +1,8 @@
+# Objects : [w283586337]
+# name:be: []
+msgid "Dtcs"
+msgstr ""
+
 # Objects : [w91400601]
 # name:be: []
 msgid "KSART"
@@ -228,7 +233,7 @@ msgstr ""
 msgid "Крама"
 msgstr ""
 
-# Objects : [w281758138]
+# Objects : [w277679273, w281758138]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -271,6 +276,11 @@ msgstr ""
 # Objects : [w283577142]
 # name:be: []
 msgid "ПГРП 24"
+msgstr ""
+
+# Objects : [w283586341]
+# name:be: []
+msgid "Погреб"
 msgstr ""
 
 # Objects : [w285877075]
@@ -406,11 +416,6 @@ msgstr ""
 # Objects : [w287254771]
 # name:be: []
 msgid "церков"
-msgstr ""
-
-# Objects : [w283588911]
-# name:be: []
-msgid "Цех окраски"
 msgstr ""
 
 # Objects : [w246678149, w246678150, w68578674]

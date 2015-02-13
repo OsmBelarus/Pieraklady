@@ -138,6 +138,11 @@ msgstr ""
 msgid "улица Карла Маркса"
 msgstr ""
 
+# Objects : [w81543489]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
 # Objects : [w81543493]
 # name:be: [вуліца Красіна]
 msgid "улица Красина"
