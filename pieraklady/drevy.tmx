@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Городской парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150305Z" creationid="alex" creationdate="20150428T150305Z">
+        <seg>Гарадскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кальварийский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145400Z" creationid="alex" creationdate="20150428T145400Z">
@@ -222,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Парк Горького</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150218Z" creationid="alex" creationdate="20150428T150218Z">
+        <seg>Парк Горкага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Парк Грековой</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145654Z" creationid="alex" creationdate="20150428T145654Z">
@@ -302,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Привокзальная площадь</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150358Z" creationid="alex" creationdate="20150428T150358Z">
+        <seg>Прывакзальная плошча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Пушкинский парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145819Z" creationid="alex" creationdate="20150428T145819Z">
@@ -358,10 +382,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сквер Пограничников</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150238Z" creationid="alex" creationdate="20150428T150238Z">
+        <seg>Сквер Памежнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сквер Симона Боливара</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145905Z" creationid="alex" creationdate="20150428T145905Z">
         <seg>Сквер Сімона Балівара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Старинный парк "Гремяча"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150312Z" creationid="alex" creationdate="20150428T150312Z">
+        <seg>Старажытны парк "Грамяча"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Старый парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150239Z" creationid="alex" creationdate="20150428T150239Z">
+        <seg>Cтары парк</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Тугановичский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150300Z" creationid="alex" creationdate="20150428T150300Z">
+        <seg>Тугановіцкі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Тучинский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145950Z" creationid="alex" creationdate="20150428T145950Z">
         <seg>Тучынскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Шпитальный сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150220Z" creationid="alex" creationdate="20150428T150220Z">
+        <seg>Шпітальны сквер</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
