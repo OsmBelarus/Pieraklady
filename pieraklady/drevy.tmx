@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4_1" segtype="paragraph" srclang="RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="RU">
+        <seg>Александровский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T134857Z" creationid="alex" creationdate="20150428T134857Z">
+        <seg>Аляксандраўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аллея 940 летия Минска</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T134907Z" creationid="alex" creationdate="20150428T134907Z">
+        <seg>Алея 940 годдзя Мінска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аллея праведников мира</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T134916Z" creationid="alex" creationdate="20150428T134916Z">
+        <seg>Алея праведнікаў свету</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Антоновский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T134921Z" creationid="alex" creationdate="20150428T134921Z">
+        <seg>Антонаўскі парк</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
