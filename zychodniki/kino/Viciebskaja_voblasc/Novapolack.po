@@ -1,10 +1,10 @@
-# Objects : [n611860738]
-# name:be: [Мінск]
-msgid "Кинотеатр Минск"
-msgstr ""
-
 # Objects : [w41097183]
 # name:be: [Космас]
 msgid "Космос"
+msgstr ""
+
+# Objects : [n611860738]
+# name:be: [Мінск]
+msgid "Минск"
 msgstr ""
 

@@ -33,11 +33,6 @@ msgstr ""
 msgid "sauna / Лазьня"
 msgstr ""
 
-# Objects : [w304074702]
-# name:be: []
-msgid "schoolyard"
-msgstr ""
-
 # Objects : [w304074704]
 # name:be: []
 msgid "Transport parking for farmers"
@@ -93,6 +88,16 @@ msgstr ""
 msgid "Винодельня"
 msgstr ""
 
+# Objects : [n3379679956]
+# name:be: []
+msgid "Возрождение"
+msgstr ""
+
+# Objects : [w330889328]
+# name:be: []
+msgid "Вышелов-Снядин"
+msgstr ""
+
 # Objects : [w25195794]
 # name:be: []
 msgid "Глиницкое"
@@ -108,14 +113,14 @@ msgstr ""
 msgid "Госпиталь"
 msgstr ""
 
-# Objects : [n1307539974]
+# Objects : [n2766728227]
 # name:be: []
-msgid "Гостиница при туристическом комплексе Торока"
+msgid "Гостевой дом "Сосны""
 msgstr ""
 
-# Objects : [w276274596]
+# Objects : [n3379682928]
 # name:be: []
-msgid "Детский сад 1"
+msgid "ГриМаринка"
 msgstr ""
 
 # Objects : [w25196860]
@@ -128,14 +133,24 @@ msgstr ""
 msgid "довоенная ж/д линия СТАРУШКИ – БОБРУЙСК"
 msgstr ""
 
+# Objects : [n3386014684]
+# name:be: []
+msgid "Дом охотника "Лучицы""
+msgstr ""
+
 # Objects : [n1307532121]
 # name:be: []
 msgid "Дом рыбака и охотника Торока"
 msgstr ""
 
-# Objects : [n2766728068]
+# Objects : [w331023124]
 # name:be: []
 msgid "Дорошевичи"
+msgstr ""
+
+# Objects : [w302268527]
+# name:be: []
+msgid "Дорошевичи-Хлупин"
 msgstr ""
 
 # Objects : [n2924833433, n2924833440, n2924833441, n2924833442, n2924833443, n2924833444, n2924833447, n2957076644]
@@ -218,9 +233,24 @@ msgstr ""
 msgid "ДОТ 532"
 msgstr ""
 
+# Objects : [w276274579]
+# name:be: []
+msgid "Дошкольный центр развития ребенка"
+msgstr ""
+
+# Objects : [n3379682929]
+# name:be: []
+msgid "Жорына Хата"
+msgstr ""
+
 # Objects : [w297492208]
 # name:be: []
 msgid "Звездный"
+msgstr ""
+
+# Objects : [w321249094]
+# name:be: []
+msgid "Комаровичская средняя школа"
 msgstr ""
 
 # Objects : [n306068782]
@@ -233,14 +263,14 @@ msgstr ""
 msgid "Коржевка"
 msgstr ""
 
+# Objects : [n3379682945]
+# name:be: []
+msgid "Королев стан"
+msgstr ""
+
 # Objects : [w321089574]
 # name:be: []
 msgid "котельная"
-msgstr ""
-
-# Objects : [w306669536]
-# name:be: []
-msgid "Крама"
 msgstr ""
 
 # Objects : [n2952616754]
@@ -248,9 +278,14 @@ msgstr ""
 msgid "Криница"
 msgstr ""
 
-# Objects : [n3085933516]
+# Objects : [n3379682942]
 # name:be: []
-msgid "Мedical ambulance"
+msgid "Маёнтак"
+msgstr ""
+
+# Objects : [n3379682947]
+# name:be: []
+msgid "Матчына хата"
 msgstr ""
 
 # Objects : [n2845744488]
@@ -283,9 +318,9 @@ msgstr ""
 msgid "Мышанская средняя школа"
 msgstr ""
 
-# Objects : [n2766728146]
+# Objects : [w331023123]
 # name:be: []
-msgid "Над Припятью"
+msgid "Над припятью"
 msgstr ""
 
 # Objects : [r3875969, w291858805]
@@ -310,17 +345,17 @@ msgstr ""
 
 # Objects : [w75394833]
 # name:be: [Паром]
-msgid "Паром"
+msgid "Паром Петриков-Велавск"
+msgstr ""
+
+# Objects : [n243025483]
+# name:be: []
+msgid "Перебитая Гора (несущ.)"
 msgstr ""
 
 # Objects : [w25191277]
 # name:be: []
 msgid "Переново"
-msgstr ""
-
-# Objects : [w247377806, w322427286]
-# name:be: []
-msgid "переулок Коммунальный"
 msgstr ""
 
 # Objects : [n2766728191]
@@ -358,9 +393,19 @@ msgstr ""
 msgid "Пожарный водоем"
 msgstr ""
 
+# Objects : [n3379682930]
+# name:be: []
+msgid "Полесский рай"
+msgstr ""
+
 # Objects : [w295775167]
 # name:be: []
 msgid "Полесье"
+msgstr ""
+
+# Objects : [n3379682944]
+# name:be: []
+msgid "Припять"
 msgstr ""
 
 # Objects : [w25187886, w25189064]
@@ -393,9 +438,9 @@ msgstr ""
 msgid "Сметаничская средняя школа"
 msgstr ""
 
-# Objects : [n2766728227]
+# Objects : [n3379682932]
 # name:be: []
-msgid "Сосны"
+msgid "Спадчына"
 msgstr ""
 
 # Objects : [w25189971]
@@ -418,14 +463,69 @@ msgstr ""
 msgid "Стрельбище"
 msgstr ""
 
+# Objects : [w330327609]
+# name:be: []
+msgid "Сякерыцкая Базавая школа"
+msgstr ""
+
+# Objects : [n3379682943]
+# name:be: []
+msgid "Тадаси"
+msgstr ""
+
+# Objects : [n3390988545]
+# name:be: []
+msgid "Теребень"
+msgstr ""
+
 # Objects : [r3934030]
 # name:be: []
 msgid "Территория маслозавода"
 msgstr ""
 
+# Objects : [w244000194]
+# name:be: []
+msgid "Туристическая база Торока"
+msgstr ""
+
+# Objects : [w331028242]
+# name:be: []
+msgid "Туристический комплекс "Старушки""
+msgstr ""
+
+# Objects : [w331023125]
+# name:be: []
+msgid "Туристический комплекс Дорошевичи"
+msgstr ""
+
 # Objects : [r286709]
 # name:be: []
 msgid "Уборть"
+msgstr ""
+
+# Objects : [n243019310]
+# name:be: [Церабень]
+msgid "урочище Теребень"
+msgstr ""
+
+# Objects : [n3379679955]
+# name:be: []
+msgid "Фальварак"
+msgstr ""
+
+# Objects : [w326072193]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [n3379682931]
+# name:be: []
+msgid "Фруктовый сад"
+msgstr ""
+
+# Objects : [n3379682946]
+# name:be: []
+msgid "Хижина деда Рыгора"
 msgstr ""
 
 # Objects : [w25191839]
@@ -446,5 +546,15 @@ msgstr ""
 # Objects : [w25197092]
 # name:be: []
 msgid "Черноцкое"
+msgstr ""
+
+# Objects : [w276272519]
+# name:be: []
+msgid "Ясли-сад №5"
+msgstr ""
+
+# Objects : [w276277903]
+# name:be: []
+msgid "Ясли-сад №7"
 msgstr ""
 

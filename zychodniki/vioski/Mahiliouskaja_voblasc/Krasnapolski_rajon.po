@@ -48,6 +48,11 @@ msgstr ""
 msgid "Болин"
 msgstr ""
 
+# Objects : [n243044424, w25080009]
+# name:be: [Бальшыя Хутары]
+msgid "Большие Хуторы"
+msgstr ""
+
 # Objects : [n243044849, w25080960]
 # name:be: []
 msgid "Большой Осов"
@@ -73,11 +78,6 @@ msgstr ""
 msgid "Буходьково"
 msgstr ""
 
-# Objects : [n243044424, w25080009]
-# name:be: [Вялікія Хутары]
-msgid "Великие Хуторы"
-msgstr ""
-
 # Objects : [n243045583, w25079173]
 # name:be: [Вясёлы]
 msgid "Весёлый"
@@ -86,6 +86,11 @@ msgstr ""
 # Objects : [n243045488, w25079079]
 # name:be: []
 msgid "Ветухновка"
+msgstr ""
+
+# Objects : [n243044442, w25080112]
+# name:be: [Усход]
+msgid "Восход"
 msgstr ""
 
 # Objects : [n243044476, w25080215]
@@ -248,11 +253,6 @@ msgstr ""
 msgid "Заводок"
 msgstr ""
 
-# Objects : [n243045470, w25079119]
-# name:be: []
-msgid "Загоренье"
-msgstr ""
-
 # Objects : [n243044872, w25080934]
 # name:be: [Заазер’е]
 msgid "Заозерье"
@@ -266,11 +266,6 @@ msgstr ""
 # Objects : [n243045143, w25078623]
 # name:be: [Какойск]
 msgid "Какойск"
-msgstr ""
-
-# Objects : [n243045120, w25078636]
-# name:be: []
-msgid "Какойский"
 msgstr ""
 
 # Objects : [n243045138, w25078627]
@@ -293,11 +288,6 @@ msgstr ""
 msgid "Калиновый Бор"
 msgstr ""
 
-# Objects : [n243045582, w25079176]
-# name:be: [Кірава]
-msgid "Кирова"
-msgstr ""
-
 # Objects : [n243045467, w25079137]
 # name:be: [Клясіна]
 msgid "Клясино"
@@ -318,7 +308,7 @@ msgstr ""
 msgid "Кожемякино"
 msgstr ""
 
-# Objects : [n243044454, n243045122, n243045125, w25078638, w25078639, w25080145]
+# Objects : [n243044454, n243045125, w25078638, w25078639, w25080145]
 # name:be: [Казелле]
 msgid "Козелье"
 msgstr ""
@@ -391,11 +381,6 @@ msgstr ""
 # Objects : [n243045584, w25079205]
 # name:be: [Леніна]
 msgid "Ленино"
-msgstr ""
-
-# Objects : [n243045305, w25078652]
-# name:be: []
-msgid "Ленинский"
 msgstr ""
 
 # Objects : [n243045476, w25079124]
@@ -510,7 +495,7 @@ msgstr ""
 
 # Objects : [n243045473, w25079127]
 # name:be: [Непераможны]
-msgid "Непераможный"
+msgid "Непобедимый"
 msgstr ""
 
 # Objects : [n243044815, w25080908]
@@ -708,11 +693,6 @@ msgstr ""
 msgid "Старая Буда"
 msgstr ""
 
-# Objects : [n243045472, w25079115]
-# name:be: []
-msgid "Степаново"
-msgstr ""
-
 # Objects : [n243044901, w25080994]
 # name:be: [Струменск]
 msgid "Струменск"
@@ -758,11 +738,6 @@ msgstr ""
 msgid "Устиновичи"
 msgstr ""
 
-# Objects : [n243044442, w25080112]
-# name:be: [Усход]
-msgid "Усход"
-msgstr ""
-
 # Objects : [n243045490, w25079085]
 # name:be: [Фёдараўка]
 msgid "Фёдоровка"
@@ -801,11 +776,6 @@ msgstr ""
 # Objects : [n243045455, w25079144]
 # name:be: [Шырокі]
 msgid "Широкий"
-msgstr ""
-
-# Objects : [n243045119, w25079113]
-# name:be: []
-msgid "Широкоувелье"
 msgstr ""
 
 # Objects : [n243044857, w25081875]

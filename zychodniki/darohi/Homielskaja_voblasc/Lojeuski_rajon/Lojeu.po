@@ -9,7 +9,7 @@ msgid "Днепровская улица"
 msgstr ""
 
 # Objects : [w34575104]
-# name:be: []
+# name:be: [Інтэрнацыянальная вуліца]
 msgid "Интернациональная улица"
 msgstr ""
 
@@ -19,12 +19,12 @@ msgid "Комсомольская улица"
 msgstr ""
 
 # Objects : [w34575239]
-# name:be: []
+# name:be: [Кааператыўная вуліца]
 msgid "Кооперативная улица"
 msgstr ""
 
 # Objects : [w34575441]
-# name:be: []
+# name:be: [Лугавая вуліца]
 msgid "Луговая улица"
 msgstr ""
 
@@ -38,18 +38,23 @@ msgstr ""
 msgid "Октябрьская улица"
 msgstr ""
 
+# Objects : [w34575786]
+# name:be: [Партызанская вуліца]
+msgid "Партизанская улица"
+msgstr ""
+
 # Objects : [w34575553]
 # name:be: [Першамайская вуліца]
 msgid "Первомайская улица"
 msgstr ""
 
 # Objects : [w311368889, w34574759, w34574856]
-# name:be: []
+# name:be: [завулак Чапаева]
 msgid "переулок Чапаева"
 msgstr ""
 
 # Objects : [w34575584]
-# name:be: []
+# name:be: [завулак Шэвелёва]
 msgid "переулок Шевелёва"
 msgstr ""
 
@@ -79,7 +84,7 @@ msgid "Солнечная улица"
 msgstr ""
 
 # Objects : [w311368890, w34575185]
-# name:be: []
+# name:be: [вуліца 40 гадоў БССР]
 msgid "улица 40 лет БССР"
 msgstr ""
 
@@ -99,7 +104,7 @@ msgid "улица Волкова"
 msgstr ""
 
 # Objects : [w34575664]
-# name:be: []
+# name:be: [вуліца Варашылава]
 msgid "улица Ворошилова"
 msgstr ""
 
@@ -109,7 +114,7 @@ msgid "улица Гагарина"
 msgstr ""
 
 # Objects : [w34575252]
-# name:be: []
+# name:be: [вуліца Горкага]
 msgid "улица Горького"
 msgstr ""
 
@@ -154,13 +159,8 @@ msgid "улица Мележа"
 msgstr ""
 
 # Objects : [w34575790]
-# name:be: []
+# name:be: [вуліца Меліяратараў]
 msgid "улица Мелиораторов"
-msgstr ""
-
-# Objects : [w34575786]
-# name:be: []
-msgid "улица Партизанская"
 msgstr ""
 
 # Objects : [w34575248]
@@ -204,22 +204,22 @@ msgid "улица Шипилова"
 msgstr ""
 
 # Objects : [w34575245]
-# name:be: []
+# name:be: [вуліца Шчорса]
 msgid "улица Щорса"
 msgstr ""
 
-# Objects : [w34574976]
-# name:be: []
-msgid "улица Южная"
-msgstr ""
-
 # Objects : [w34575688]
-# name:be: []
+# name:be: [вуліца Янкі Купалы]
 msgid "улица Янки Купалы"
 msgstr ""
 
 # Objects : [w137929785]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w34574976]
+# name:be: [Паўднёвая вуліца]
+msgid "Южная улица"
 msgstr ""
 

@@ -1,8 +1,3 @@
-# Objects : [n2964025807, n2964025808, n2964025809, n2964025810]
-# name:be: []
-msgid "Авотаапчасти"
-msgstr ""
-
 # Objects : [w151197886]
 # name:be: []
 msgid "Агросервис"
@@ -128,11 +123,6 @@ msgstr ""
 msgid "Кладбище польское военное времен войны 1920 г."
 msgstr ""
 
-# Objects : [n2451451093]
-# name:be: []
-msgid "Колбасный цех"
-msgstr ""
-
 # Objects : [n2666641222]
 # name:be: [Аддзел унутранных спраў]
 msgid "Отдел внутренних дел"
@@ -186,11 +176,6 @@ msgstr ""
 # Objects : [n2667353913]
 # name:be: []
 msgid "Соцпиют инвалидов"
-msgstr ""
-
-# Objects : [n2964025811]
-# name:be: []
-msgid "СТО"
 msgstr ""
 
 # Objects : [n2666641241]

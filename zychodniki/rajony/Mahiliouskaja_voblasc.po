@@ -8,6 +8,11 @@ msgstr ""
 msgid "Березинский район"
 msgstr ""
 
+# Objects : [r167857]
+# name:be: [Бабруйск]
+msgid "Бобруйск"
+msgstr ""
+
 # Objects : [r59148]
 # name:be: [Бабруйскі раён]
 msgid "Бобруйский район"
@@ -90,7 +95,12 @@ msgstr ""
 
 # Objects : [r71140]
 # name:be: [Любанскі раён]
-msgid "Любаньский район"
+msgid "Любанский район"
+msgstr ""
+
+# Objects : [r62145]
+# name:be: [Магілёў]
+msgid "Могилёв"
 msgstr ""
 
 # Objects : [r62147]

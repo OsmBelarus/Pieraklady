@@ -3,11 +3,6 @@
 msgid "44 Меридиан"
 msgstr ""
 
-# Objects : [n796955751]
-# name:be: []
-msgid "5 Магазин"
-msgstr ""
-
 # Objects : [n1277038429]
 # name:be: [Ultratech]
 msgid "Ultratech"
@@ -198,11 +193,6 @@ msgstr ""
 msgid "Полымя"
 msgstr ""
 
-# Objects : [n2874371330]
-# name:be: []
-msgid "Престиж"
-msgstr ""
-
 # Objects : [n1463792471]
 # name:be: []
 msgid "Приём б/у АКБ, продажа новых АКБ, группа компаний ПАК."
@@ -228,7 +218,7 @@ msgstr ""
 msgid "Рымботехника"
 msgstr ""
 
-# Objects : [n541990774]
+# Objects : [n860043884]
 # name:be: []
 msgid "Санта-9"
 msgstr ""

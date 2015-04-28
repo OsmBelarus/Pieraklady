@@ -13,6 +13,21 @@ msgstr ""
 msgid "Белоруснефть №79"
 msgstr ""
 
+# Objects : [n3289925980]
+# name:be: []
+msgid "Лукойл №19"
+msgstr ""
+
+# Objects : [n3412137654, n746251496]
+# name:be: []
+msgid "Лукойл №25"
+msgstr ""
+
+# Objects : [n3412137648]
+# name:be: []
+msgid "Лукойл №81"
+msgstr ""
+
 # Objects : [n497154142, n497154145]
 # name:be: []
 msgid "Пинскрайгаз"

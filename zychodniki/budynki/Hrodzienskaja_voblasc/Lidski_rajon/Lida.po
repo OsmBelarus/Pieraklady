@@ -3,9 +3,39 @@
 msgid ""Дочки и сыночки" - магазин детских товаров и косметики"
 msgstr ""
 
+# Objects : [w59846397]
+# name:be: []
+msgid "1/19"
+msgstr ""
+
+# Objects : [w96833126]
+# name:be: []
+msgid "135/1"
+msgstr ""
+
+# Objects : [w96833107]
+# name:be: []
+msgid "137/2"
+msgstr ""
+
+# Objects : [w61318774, w61318796]
+# name:be: []
+msgid "13а"
+msgstr ""
+
+# Objects : [w94439348]
+# name:be: []
+msgid "171б"
+msgstr ""
+
 # Objects : [w96381848]
 # name:be: []
 msgid "2"
+msgstr ""
+
+# Objects : [w94595198]
+# name:be: []
+msgid "2/64"
 msgstr ""
 
 # Objects : [w281145147, w326518722]
@@ -33,9 +63,59 @@ msgstr ""
 msgid "26"
 msgstr ""
 
-# Objects : [w60838018]
+# Objects : [w281117843]
+# name:be: []
+msgid "30"
+msgstr ""
+
+# Objects : [w334278515]
+# name:be: []
+msgid "30а"
+msgstr ""
+
+# Objects : [w334278517]
+# name:be: []
+msgid "32"
+msgstr ""
+
+# Objects : [w96833112]
+# name:be: []
+msgid "32а"
+msgstr ""
+
+# Objects : [w281112801]
+# name:be: []
+msgid "35"
+msgstr ""
+
+# Objects : [w281112804]
+# name:be: []
+msgid "37"
+msgstr ""
+
+# Objects : [w281112795]
+# name:be: []
+msgid "39"
+msgstr ""
+
+# Objects : [w281074172]
+# name:be: []
+msgid "5"
+msgstr ""
+
+# Objects : [w60921685]
+# name:be: []
+msgid "66"
+msgstr ""
+
+# Objects : [w60924121]
 # name:be: []
 msgid "7"
+msgstr ""
+
+# Objects : [w94548512]
+# name:be: []
+msgid "73"
 msgstr ""
 
 # Objects : [w96837662]
@@ -103,29 +183,9 @@ msgstr ""
 msgid "Бассейн Дельфин"
 msgstr ""
 
-# Objects : [w126774989]
-# name:be: [Белаграпрамбанк]
-msgid "Белагропромбанк"
-msgstr ""
-
-# Objects : [w58516584]
-# name:be: [Белдзяржстрах]
-msgid "Белгосстрах"
-msgstr ""
-
-# Objects : [w53454059]
-# name:be: [Кантынент]
-msgid "Бел маркет ,8"
-msgstr ""
-
 # Objects : [w95550697]
 # name:be: []
 msgid "Белмедпрепараты"
-msgstr ""
-
-# Objects : [w53448045]
-# name:be: []
-msgid "Библиотека"
 msgstr ""
 
 # Objects : [w128869760]
@@ -183,11 +243,6 @@ msgstr ""
 msgid "Вираж"
 msgstr ""
 
-# Objects : [w121069082]
-# name:be: [Віталюр]
-msgid "Виталюр"
-msgstr ""
-
 # Objects : [w93212703]
 # name:be: []
 msgid "Гермес"
@@ -203,19 +258,9 @@ msgstr ""
 msgid "Детский корпус"
 msgstr ""
 
-# Objects : [w58118884]
-# name:be: []
-msgid "Дом поляка"
-msgstr ""
-
 # Objects : [w281160658]
 # name:be: []
 msgid "Дом скорби"
-msgstr ""
-
-# Objects : [w53448042]
-# name:be: [Дом гандлю]
-msgid "Дом торговли"
 msgstr ""
 
 # Objects : [w96833089]
@@ -226,16 +271,6 @@ msgstr ""
 # Objects : [w65676047]
 # name:be: []
 msgid "Дружба"
-msgstr ""
-
-# Objects : [w120718808]
-# name:be: [Еўраопт]
-msgid "Евроопт"
-msgstr ""
-
-# Objects : [w97230232]
-# name:be: [Еўраопт (Журавінка)]
-msgid "Евроопт (Журавинка)"
 msgstr ""
 
 # Objects : [w90135182]
@@ -258,11 +293,6 @@ msgstr ""
 msgid "ЖЭС №2"
 msgstr ""
 
-# Objects : [w66602210]
-# name:be: []
-msgid "Завод электроизделий"
-msgstr ""
-
 # Objects : [w120566455]
 # name:be: [ЗАГС]
 msgid "ЗАГС"
@@ -271,11 +301,6 @@ msgstr ""
 # Objects : [w289025617]
 # name:be: []
 msgid "Зал тяжелой атлетики"
-msgstr ""
-
-# Objects : [w281375526, w281375529]
-# name:be: []
-msgid "ЗАО "Каскад" г.Лида"
 msgstr ""
 
 # Objects : [w143813022]
@@ -298,29 +323,14 @@ msgstr ""
 msgid "Кожвендиспансер"
 msgstr ""
 
-# Objects : [w53448061]
-# name:be: []
-msgid "Колледж"
-msgstr ""
-
 # Objects : [w58404412]
 # name:be: [Космас]
 msgid "Космос"
 msgstr ""
 
-# Objects : [w143208022]
-# name:be: []
-msgid "ЛагунаМебель"
-msgstr ""
-
 # Objects : [w66593131]
 # name:be: []
 msgid "Ледовый дворец"
-msgstr ""
-
-# Objects : [w53473880, w76438813]
-# name:be: [Ліда]
-msgid "Лида"
 msgstr ""
 
 # Objects : [w111601605]
@@ -336,11 +346,6 @@ msgstr ""
 # Objects : [w93212706]
 # name:be: []
 msgid "Лидаспецавтотранс"
-msgstr ""
-
-# Objects : [w96098039]
-# name:be: []
-msgid "Лидсельмаш"
 msgstr ""
 
 # Objects : [w96381858]
@@ -366,11 +371,6 @@ msgstr ""
 # Objects : [r3733820]
 # name:be: []
 msgid "Лидский районный Дворец культуры"
-msgstr ""
-
-# Objects : [w59405928]
-# name:be: []
-msgid "Лидское пиво"
 msgstr ""
 
 # Objects : [w76236082]
@@ -413,19 +413,9 @@ msgstr ""
 msgid "МРЭО ГАИ"
 msgstr ""
 
-# Objects : [w96098036]
-# name:be: [Мясакамбінат]
-msgid "Мясокомбинат"
-msgstr ""
-
 # Objects : [w254330814]
 # name:be: []
 msgid "Наружная мойка автоцистерн"
-msgstr ""
-
-# Objects : [w53448064]
-# name:be: [Нацыянальны банк]
-msgid "Национальный Банк"
 msgstr ""
 
 # Objects : [w307527733]
@@ -436,16 +426,6 @@ msgstr ""
 # Objects : [w130038045]
 # name:be: []
 msgid "ОАО Лидский литейно-механический завод"
-msgstr ""
-
-# Objects : [w66602201]
-# name:be: [Абутковая фабрыка]
-msgid "Обувная фабрика"
-msgstr ""
-
-# Objects : [w61910717]
-# name:be: []
-msgid "обувной магазин "Мини-топ""
 msgstr ""
 
 # Objects : [w96967471]
@@ -518,11 +498,6 @@ msgstr ""
 msgid "Проходная пивзавода"
 msgstr ""
 
-# Objects : [w96611968]
-# name:be: []
-msgid "ПТУ №196"
-msgstr ""
-
 # Objects : [w60678918]
 # name:be: []
 msgid "ПТУ №235"
@@ -553,11 +528,6 @@ msgstr ""
 msgid "Санстанция"
 msgstr ""
 
-# Objects : [w53883971]
-# name:be: []
-msgid "Санта-29"
-msgstr ""
-
 # Objects : [w59622590]
 # name:be: []
 msgid "Спасательная станция"
@@ -573,17 +543,7 @@ msgstr ""
 msgid "Станция скорой медицинской помощи"
 msgstr ""
 
-# Objects : [w281040136]
-# name:be: []
-msgid "Старый универмаг"
-msgstr ""
-
-# Objects : [w61319324]
-# name:be: []
-msgid "СТО 2, Техосмотр."
-msgstr ""
-
-# Objects : [w122572056, w127668165]
+# Objects : [w127668165]
 # name:be: [Будматэрыялы]
 msgid "Стройматериалы"
 msgstr ""
@@ -591,11 +551,6 @@ msgstr ""
 # Objects : [w96611977]
 # name:be: []
 msgid "Сузорье"
-msgstr ""
-
-# Objects : [w126603055]
-# name:be: []
-msgid "Теплопункт"
 msgstr ""
 
 # Objects : [w138749962]
@@ -623,16 +578,6 @@ msgstr ""
 msgid "Травматологический корпус"
 msgstr ""
 
-# Objects : [r3734174]
-# name:be: []
-msgid "Универсам центральный (Алми)"
-msgstr ""
-
-# Objects : [w60677057]
-# name:be: []
-msgid "Училище №136"
-msgstr ""
-
 # Objects : [w61913819]
 # name:be: [ФАК]
 msgid "ФОК"
@@ -646,11 +591,6 @@ msgstr ""
 # Objects : [w138749961]
 # name:be: []
 msgid "Хирургический корпус"
-msgstr ""
-
-# Objects : [w139750797]
-# name:be: []
-msgid "ЦБУ №2 ф-ла №6 ОАО "Белгазпромбанк""
 msgstr ""
 
 # Objects : [w94397098]
@@ -678,11 +618,6 @@ msgstr ""
 msgid "Шиномонтаж "Автолюкс""
 msgstr ""
 
-# Objects : [w54277458]
-# name:be: []
-msgid "Экватор"
-msgstr ""
-
 # Objects : [w60975615]
 # name:be: []
 msgid "Электросети"
@@ -696,11 +631,6 @@ msgstr ""
 # Objects : [w54604570]
 # name:be: []
 msgid "Юность"
-msgstr ""
-
-# Objects : [w93320166]
-# name:be: []
-msgid "№146 Центральная районная Фармация"
 msgstr ""
 
 # Objects : [w60677058]

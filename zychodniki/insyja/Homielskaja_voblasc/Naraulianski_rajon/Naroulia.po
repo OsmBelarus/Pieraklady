@@ -1,16 +1,16 @@
-# Objects : [w251158383]
-# name:be: []
-msgid ""Соседи""
-msgstr ""
-
 # Objects : [w239867050]
 # name:be: []
 msgid "гимназия"
 msgstr ""
 
-# Objects : [n2766736627]
+# Objects : [w239867130]
 # name:be: []
 msgid "Гостиница Наровлянка"
+msgstr ""
+
+# Objects : [w331032517]
+# name:be: []
+msgid "ГСЛУ "Наровлянский спецлесхоз""
 msgstr ""
 
 # Objects : [n2788680285]
@@ -23,6 +23,11 @@ msgstr ""
 msgid "Детский сад №3"
 msgstr ""
 
+# Objects : [w273045672, w331032518]
+# name:be: []
+msgid "ЛДД-432"
+msgstr ""
+
 # Objects : [w242945142]
 # name:be: []
 msgid "молочные продукты"
@@ -33,9 +38,24 @@ msgstr ""
 msgid "Наровля"
 msgstr ""
 
-# Objects : [n1426961389]
+# Objects : [r3234831]
 # name:be: []
-msgid "ОАО КРАСНЫЙ МОЗЫРЯНИН"
+msgid "Наровлянская центральная районная больница"
+msgstr ""
+
+# Objects : [w331032516]
+# name:be: []
+msgid "Наровлянский спецлесхоз"
+msgstr ""
+
+# Objects : [w239922763]
+# name:be: []
+msgid "Наровлянский участок ДРСУ № 186"
+msgstr ""
+
+# Objects : [w239867120]
+# name:be: []
+msgid "ОАО "Красный мозырянин""
 msgstr ""
 
 # Objects : [w239867080]

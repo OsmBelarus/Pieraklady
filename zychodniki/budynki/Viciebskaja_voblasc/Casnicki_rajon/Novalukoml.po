@@ -13,6 +13,11 @@ msgstr ""
 msgid "Галинка"
 msgstr ""
 
+# Objects : [w155261137]
+# name:be: []
+msgid "Горпищепромторг"
+msgstr ""
+
 # Objects : [w155242591]
 # name:be: []
 msgid "гостиница "Лукомль""
@@ -33,6 +38,11 @@ msgstr ""
 msgid "Дом быта"
 msgstr ""
 
+# Objects : [w155261203]
+# name:be: []
+msgid "Инфекционное отделение"
+msgstr ""
+
 # Objects : [w236881116]
 # name:be: []
 msgid "Крама"
@@ -48,6 +58,11 @@ msgstr ""
 msgid "Мебельный магазин"
 msgstr ""
 
+# Objects : [w336745269]
+# name:be: []
+msgid "МИК"
+msgstr ""
+
 # Objects : [w155261129]
 # name:be: []
 msgid "Морг"
@@ -61,6 +76,16 @@ msgstr ""
 # Objects : [w238509832]
 # name:be: []
 msgid "Ника"
+msgstr ""
+
+# Objects : [w337674655]
+# name:be: []
+msgid "Новолукомль"
+msgstr ""
+
+# Objects : [w337249054]
+# name:be: []
+msgid "Оборотное депо"
 msgstr ""
 
 # Objects : [w236360308]
@@ -101,6 +126,26 @@ msgstr ""
 # Objects : [w320210753]
 # name:be: []
 msgid "Тир"
+msgstr ""
+
+# Objects : [w238103664]
+# name:be: []
+msgid "ТП-10"
+msgstr ""
+
+# Objects : [w241814087]
+# name:be: []
+msgid "ТП-13"
+msgstr ""
+
+# Objects : [w239004604]
+# name:be: []
+msgid "ТП-3"
+msgstr ""
+
+# Objects : [w155261223]
+# name:be: []
+msgid "ТП-4"
 msgstr ""
 
 # Objects : [w315427114]

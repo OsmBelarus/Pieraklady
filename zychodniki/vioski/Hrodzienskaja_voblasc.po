@@ -1,6 +1,6 @@
-# Objects : [n320409966, w314804060]
+# Objects : [w314804060]
 # name:be: [Вялікая Альшанка]
-msgid "Великая Ольшанка"
+msgid "Большая Ольшанка"
 msgstr ""
 
 # Objects : [w223306773]
@@ -11,5 +11,10 @@ msgstr ""
 # Objects : [n320409904]
 # name:be: [Новікі]
 msgid "Новики"
+msgstr ""
+
+# Objects : [w340579914]
+# name:be: [Хутар Ракiтна]
+msgid "Хутор Ракитно"
 msgstr ""
 

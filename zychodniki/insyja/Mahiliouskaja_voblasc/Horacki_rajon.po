@@ -58,6 +58,11 @@ msgstr ""
 msgid "зерносушыльный комплекс"
 msgstr ""
 
+# Objects : [w208217091]
+# name:be: []
+msgid "ЗТП"
+msgstr ""
+
 # Objects : [w170467064, w207135648, w207429624, w212650889]
 # name:be: []
 msgid "кладбище"
@@ -71,6 +76,31 @@ msgstr ""
 # Objects : [n3080642220]
 # name:be: []
 msgid "КСУП "Племзавод Ленино""
+msgstr ""
+
+# Objects : [n3386237474]
+# name:be: []
+msgid "КТП-138"
+msgstr ""
+
+# Objects : [n3386225923]
+# name:be: []
+msgid "КТП-141"
+msgstr ""
+
+# Objects : [n3386256908]
+# name:be: []
+msgid "КТП-265"
+msgstr ""
+
+# Objects : [n3386254319]
+# name:be: []
+msgid "КТП-266"
+msgstr ""
+
+# Objects : [n3386209185]
+# name:be: []
+msgid "КТП-60"
 msgstr ""
 
 # Objects : [w304193639]
@@ -103,6 +133,11 @@ msgstr ""
 msgid "МН "Дружба""
 msgstr ""
 
+# Objects : [n3386259084]
+# name:be: []
+msgid "МТП-258"
+msgstr ""
+
 # Objects : [n893284795]
 # name:be: []
 msgid "Музей Советско-Польского боевого содружества"
@@ -126,6 +161,11 @@ msgstr ""
 # Objects : [n2657278966]
 # name:be: []
 msgid "Памятник неизвестному воину"
+msgstr ""
+
+# Objects : [n3386237058]
+# name:be: []
+msgid "Памятник погибшим партизанам."
 msgstr ""
 
 # Objects : [n893293165]
@@ -153,7 +193,7 @@ msgstr ""
 msgid "Прометей"
 msgstr ""
 
-# Objects : [w325148449, w327203633, w327203634, w327724961]
+# Objects : [w325148449, w327203633, w327203634, w327724961, w338735351]
 # name:be: []
 msgid "пруд"
 msgstr ""
@@ -201,6 +241,11 @@ msgstr ""
 # Objects : [w76477915]
 # name:be: []
 msgid "Суровцово"
+msgstr ""
+
+# Objects : [w331552946]
+# name:be: []
+msgid "ТП-137"
 msgstr ""
 
 # Objects : [w204642358]

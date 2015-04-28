@@ -48,11 +48,6 @@ msgstr ""
 msgid "переулок Кирова"
 msgstr ""
 
-# Objects : [w97801081]
-# name:be: []
-msgid "Переулок Стадионный"
-msgstr ""
-
 # Objects : [w161938804]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
@@ -71,6 +66,11 @@ msgstr ""
 # Objects : [w97801076]
 # name:be: [Стадыённая вуліца]
 msgid "Стадионная улица"
+msgstr ""
+
+# Objects : [w97801081]
+# name:be: [Стадыённы завулак]
+msgid "Стадионный переулок"
 msgstr ""
 
 # Objects : [w97801073]

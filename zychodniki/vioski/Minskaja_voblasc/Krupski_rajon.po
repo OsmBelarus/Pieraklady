@@ -18,6 +18,11 @@ msgstr ""
 msgid "Белое"
 msgstr ""
 
+# Objects : [n243027227, w25106049]
+# name:be: [Белыя Баркі]
+msgid "Белые Борки"
+msgstr ""
+
 # Objects : [n243032042, w25105161]
 # name:be: [Бяляны]
 msgid "Беляны"
@@ -33,7 +38,7 @@ msgstr ""
 msgid "Берёзовка"
 msgstr ""
 
-# Objects : [n242979065, n2930535307, w25106085, w289494524]
+# Objects : [n242979065, r4785825]
 # name:be: [Бобр]
 msgid "Бобр"
 msgstr ""
@@ -43,12 +48,7 @@ msgstr ""
 msgid "Бобрик"
 msgstr ""
 
-# Objects : [n243029083, w25106851]
-# name:be: [Вялікі Каменец]
-msgid "Большой Каменец"
-msgstr ""
-
-# Objects : [n243027227, n243029092, w25106049, w25107661]
+# Objects : [n243029092, w25107661]
 # name:be: [Баркі]
 msgid "Борки"
 msgstr ""
@@ -101,6 +101,11 @@ msgstr ""
 # Objects : [n243027390, w25106111]
 # name:be: [Вялікі Вязок]
 msgid "Великий Вязок"
+msgstr ""
+
+# Objects : [n243029083, w25106851]
+# name:be: [Вялікі Каменец]
+msgid "Великий Каменец"
 msgstr ""
 
 # Objects : [n243027539, w25106102]
@@ -446,11 +451,6 @@ msgstr ""
 # Objects : [n243031673, w25105181]
 # name:be: [Кастрычнік]
 msgid "Костричник"
-msgstr ""
-
-# Objects : [n243024662, w25107705]
-# name:be: [Краўцова Ніва]
-msgid "Кравцова Нива"
 msgstr ""
 
 # Objects : [n243029759, w25105155]

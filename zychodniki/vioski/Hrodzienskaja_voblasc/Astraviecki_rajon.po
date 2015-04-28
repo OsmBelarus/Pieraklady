@@ -93,6 +93,46 @@ msgstr ""
 msgid "Больники"
 msgstr ""
 
+# Objects : [n242998773, w25135735]
+# name:be: [Вялікая Страча]
+msgid "Большая Страча"
+msgstr ""
+
+# Objects : [n242995490, w25137877]
+# name:be: [Вялікія Пушчавыя]
+msgid "Большие Пущевые"
+msgstr ""
+
+# Objects : [n242997337, w25136685]
+# name:be: [Вялікія Свіранкі]
+msgid "Большие Свирянки"
+msgstr ""
+
+# Objects : [n242998763, w25135727]
+# name:be: [Вялікія Стаўпяняты]
+msgid "Большие Столпеняты"
+msgstr ""
+
+# Objects : [n242996756, w25136809]
+# name:be: [Вялікія Якентаны]
+msgid "Большие Якентаны"
+msgstr ""
+
+# Objects : [n242997321, w25136699]
+# name:be: [Вялікія Яцыны]
+msgid "Большие Яцыны"
+msgstr ""
+
+# Objects : [n242997207, w25136642]
+# name:be: [Вялікае Сяло]
+msgid "Большое Село"
+msgstr ""
+
+# Objects : [n242997355, w25136658]
+# name:be: [Вялікае Туроўе]
+msgid "Большое Туровье"
+msgstr ""
+
 # Objects : [n242998735, w25135752]
 # name:be: [Баравыя]
 msgid "Боровые"
@@ -143,54 +183,9 @@ msgstr ""
 msgid "Вашкуны"
 msgstr ""
 
-# Objects : [n242998773, w25135735]
-# name:be: [Вялікая Страча]
-msgid "Великая Страча"
-msgstr ""
-
-# Objects : [n242995490, w25137877]
-# name:be: [Вялікія Пушчавыя]
-msgid "Великие Пущевые"
-msgstr ""
-
-# Objects : [n242997337, w25136685]
-# name:be: [Вялікія Свіранкі]
-msgid "Великие Свирянки"
-msgstr ""
-
 # Objects : [n242995675, w25137746]
 # name:be: [Вялікія Свіраны]
 msgid "Великие Свиряны"
-msgstr ""
-
-# Objects : [n242998763, w25135727]
-# name:be: [Вялікія Стаўпяняты]
-msgid "Великие Столпеняты"
-msgstr ""
-
-# Objects : [n242996756, w25136809]
-# name:be: [Вялікія Якентаны]
-msgid "Великие Якентаны"
-msgstr ""
-
-# Objects : [n242997321, w25136699]
-# name:be: [Вялікія Яцыны]
-msgid "Великие Яцыны"
-msgstr ""
-
-# Objects : [n242997207, w25136642]
-# name:be: [Вялікае Сяло]
-msgid "Великое Село"
-msgstr ""
-
-# Objects : [n242997355, w25136658]
-# name:be: [Вялікае Туроўе]
-msgid "Великое Туровье"
-msgstr ""
-
-# Objects : [n242998770, w25135742]
-# name:be: [Вераб’і]
-msgid "Веробьи"
 msgstr ""
 
 # Objects : [n242997340, w25136697]
@@ -216,6 +211,11 @@ msgstr ""
 # Objects : [n242995611, w25137794]
 # name:be: [Варняны]
 msgid "Ворняны"
+msgstr ""
+
+# Objects : [n242998770, w25135742]
+# name:be: [Вераб’і]
+msgid "Воробьи"
 msgstr ""
 
 # Objects : [n242995639, w25137775]
@@ -289,8 +289,8 @@ msgid "Горшевичи"
 msgstr ""
 
 # Objects : [n242993996, w25138863]
-# name:be: [Градаўшчына]
-msgid "Градовщина"
+# name:be: [Градаўшчызна]
+msgid "Градаўшчызна"
 msgstr ""
 
 # Objects : [n1994994074, n3049985280, w188863093, w25136753, w300897029, w300897030]
@@ -304,8 +304,8 @@ msgid "Гроди"
 msgstr ""
 
 # Objects : [n242995563, w25137858]
-# name:be: [Груздоўшчына]
-msgid "Груздовщина"
+# name:be: [Груздоўшчызна]
+msgid "Груздовщизна"
 msgstr ""
 
 # Objects : [n242998793, w25135704]
@@ -375,7 +375,7 @@ msgstr ""
 
 # Objects : [n242994105, w25138866]
 # name:be: [Дравянікі]
-msgid "Дровяники"
+msgid "Древеники"
 msgstr ""
 
 # Objects : [n1399573942, w25135800]
@@ -503,14 +503,9 @@ msgstr ""
 msgid "Каймина Дольная"
 msgstr ""
 
-# Objects : [n242995586, w25137806]
-# name:be: [Карвэлі]
-msgid "Карвели"
-msgstr ""
-
 # Objects : [n242997432, w25136756]
-# name:be: [Карлаўшчына]
-msgid "Карловщина"
+# name:be: [Карлаўшчызна]
+msgid "Карловщизна"
 msgstr ""
 
 # Objects : [n242997291, w25136723]
@@ -533,11 +528,6 @@ msgstr ""
 msgid "Кемелишки"
 msgstr ""
 
-# Objects : [n242998745, w25135767]
-# name:be: [Керэлі]
-msgid "Керели"
-msgstr ""
-
 # Objects : [n242995666, w25137791]
 # name:be: [Кярняны]
 msgid "Керняны"
@@ -546,6 +536,11 @@ msgstr ""
 # Objects : [n242998859, w25135809]
 # name:be: [Керплашына]
 msgid "Керплошина"
+msgstr ""
+
+# Objects : [n242998745, w25135767]
+# name:be: [Кірэлі]
+msgid "Кирели"
 msgstr ""
 
 # Objects : [n242997231, w25136634]
@@ -581,6 +576,11 @@ msgstr ""
 # Objects : [n242993620, w25138857]
 # name:be: [Кандраты]
 msgid "Кондраты"
+msgstr ""
+
+# Objects : [n242995586, w25137806]
+# name:be: [Карвэлі]
+msgid "Корвели"
 msgstr ""
 
 # Objects : [n242995741, w25137702]
@@ -918,6 +918,11 @@ msgstr ""
 msgid "Перевозники"
 msgstr ""
 
+# Objects : [n242993608, w25138851]
+# name:be: [Петраполь]
+msgid "Петраполь"
+msgstr ""
+
 # Objects : [n242997225, w25136645]
 # name:be: [Пятрашышкі]
 msgid "Петрашишки"
@@ -926,11 +931,6 @@ msgstr ""
 # Objects : [n242998864, w25135812]
 # name:be: [Петрыкі]
 msgid "Петрики"
-msgstr ""
-
-# Objects : [n242993608, w25138851]
-# name:be: [Петраполь]
-msgid "Петрополь"
 msgstr ""
 
 # Objects : [n242997245, w25136632]
@@ -1068,11 +1068,6 @@ msgstr ""
 msgid "Ракишки"
 msgstr ""
 
-# Objects : [n242994043, w25138867]
-# name:be: [Расолы]
-msgid "Расолы"
-msgstr ""
-
 # Objects : [n242997352, w25136687]
 # name:be: []
 msgid "Рауданишки"
@@ -1081,6 +1076,11 @@ msgstr ""
 # Objects : [n2724831443, w267001792]
 # name:be: []
 msgid "Рисово"
+msgstr ""
+
+# Objects : [n242994043, w25138867]
+# name:be: [Расолы]
+msgid "Росолы"
 msgstr ""
 
 # Objects : [n1996605275, n242995705, n3189620340, w25137714, w25137756, w25137758, w313040119]
@@ -1194,8 +1194,8 @@ msgid "Сокольники"
 msgstr ""
 
 # Objects : [n242997334, w25136691]
-# name:be: [Сароча]
-msgid "Сороче"
+# name:be: [Сарочча]
+msgid "Сорочье"
 msgstr ""
 
 # Objects : [n242998777, w25135703, w25135729]

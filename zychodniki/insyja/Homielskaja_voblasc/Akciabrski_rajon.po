@@ -1,6 +1,11 @@
-# Objects : [w310526495]
+# Objects : [r4764745]
 # name:be: []
-msgid "База отдыха"
+msgid "Биологический заказник "Октябрьский""
+msgstr ""
+
+# Objects : [r4702470]
+# name:be: []
+msgid "Биологический заказник Бабинец"
 msgstr ""
 
 # Objects : [n271043348]
@@ -13,14 +18,29 @@ msgstr ""
 msgid "довоенная ж/д линия СТАРУШКИ – БОБРУЙСК"
 msgstr ""
 
-# Objects : [w25183010, w25190626]
+# Objects : [w25190626]
 # name:be: [Заазерскае]
 msgid "Заозерское"
+msgstr ""
+
+# Objects : [n3386014683]
+# name:be: []
+msgid "Затишье"
+msgstr ""
+
+# Objects : [w310526495]
+# name:be: []
+msgid "Культурно–развлекательный комплекс «Бубновка»"
 msgstr ""
 
 # Objects : [w25190034]
 # name:be: []
 msgid "Овинское"
+msgstr ""
+
+# Objects : [n3390846474]
+# name:be: []
+msgid "Оземля"
 msgstr ""
 
 # Objects : [n1365667049]
@@ -41,6 +61,16 @@ msgstr ""
 # Objects : [n3170436114]
 # name:be: []
 msgid "Погибшим в ВОВ"
+msgstr ""
+
+# Objects : [n243027952]
+# name:be: [Параслішча]
+msgid "Порослище"
+msgstr ""
+
+# Objects : [n243024344]
+# name:be: []
+msgid "Пухичин (нежил.)"
 msgstr ""
 
 # Objects : [n306068937]

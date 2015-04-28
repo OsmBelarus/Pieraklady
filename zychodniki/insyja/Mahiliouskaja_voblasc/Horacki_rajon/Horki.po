@@ -69,8 +69,8 @@ msgid "Искусственная неровность ("лежащий поли
 msgstr ""
 
 # Objects : [w204092898]
-# name:be: []
-msgid "ИТК 9"
+# name:be: [Папраўчая калонія № 9]
+msgid "Исправительная колония № 9"
 msgstr ""
 
 # Objects : [w76476777]
@@ -123,6 +123,11 @@ msgstr ""
 msgid "Погодино"
 msgstr ""
 
+# Objects : [n3394530528]
+# name:be: []
+msgid "Приемный покой."
+msgstr ""
+
 # Objects : [w327567869]
 # name:be: []
 msgid "пруд"
@@ -156,11 +161,6 @@ msgstr ""
 # Objects : [w199800771]
 # name:be: []
 msgid "Строителей"
-msgstr ""
-
-# Objects : [w318958756]
-# name:be: []
-msgid "Строительство торгово-развлекательного центра"
 msgstr ""
 
 # Objects : [w203437277]

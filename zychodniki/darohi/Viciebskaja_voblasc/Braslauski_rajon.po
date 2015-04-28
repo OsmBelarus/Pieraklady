@@ -1,13 +1,3 @@
-# Objects : [w158821576]
-# name:be: [Гарыстая вуліца]
-msgid "Гористая улица"
-msgstr ""
-
-# Objects : [w158821575]
-# name:be: [Гарысты завулак]
-msgid "Гористый переулок"
-msgstr ""
-
 # Objects : [w252728177, w265433632, w265433633]
 # name:be: [Жвірблішкі]
 msgid "Жвирблишки"
@@ -16,11 +6,6 @@ msgstr ""
 # Objects : [w308335011]
 # name:be: []
 msgid "Заводская улица"
-msgstr ""
-
-# Objects : [w117577760]
-# name:be: [Цагляны завулак]
-msgid "Кирпичный переулок"
 msgstr ""
 
 # Objects : [w170407898]
@@ -66,11 +51,6 @@ msgstr ""
 # Objects : [w252783366]
 # name:be: [Стунжышкі]
 msgid "Стунжишки"
-msgstr ""
-
-# Objects : [w158820605]
-# name:be: [Цяністая вуліца]
-msgid "Тенистая улица"
 msgstr ""
 
 # Objects : [w25273900, w309028303, w309029699]
@@ -186,11 +166,6 @@ msgstr ""
 # Objects : [w307554324]
 # name:be: []
 msgid "улица Я. Коласа"
-msgstr ""
-
-# Objects : [w36005570]
-# name:be: [Фізкультурная вуліца]
-msgid "Физкультурная улица"
 msgstr ""
 
 # Objects : [w170407899]

@@ -53,6 +53,11 @@ msgstr ""
 msgid "Мануфактурный переулок"
 msgstr ""
 
+# Objects : [w59287649]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
 # Objects : [w29154360]
 # name:be: [завулак Мендзялеева]
 msgid "переулок Менделеева"
@@ -83,14 +88,14 @@ msgstr ""
 msgid "улица Будённого"
 msgstr ""
 
+# Objects : [w29154466]
+# name:be: [вуліца Ваўковіча]
+msgid "улица Волковича"
+msgstr ""
+
 # Objects : [w29162229]
 # name:be: [вуліца Гарнавых]
 msgid "улица Горновых"
-msgstr ""
-
-# Objects : [w59287649]
-# name:be: [Новая вуліца]
-msgid "улица Новая"
 msgstr ""
 
 # Objects : [w263591943]

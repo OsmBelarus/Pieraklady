@@ -43,6 +43,11 @@ msgstr ""
 msgid "Ночная аптека 22:00-08:00"
 msgstr ""
 
+# Objects : [n2601045048]
+# name:be: []
+msgid "ООО НПКФ Аптека N1"
+msgstr ""
+
 # Objects : [n615050929]
 # name:be: [Оптыка]
 msgid "Оптика"

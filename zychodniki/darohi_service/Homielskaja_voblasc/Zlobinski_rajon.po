@@ -3,6 +3,11 @@
 msgid "Алексеевская улица"
 msgstr ""
 
+# Objects : [w313648076]
+# name:be: []
+msgid "Исаева"
+msgstr ""
+
 # Objects : [w293536868]
 # name:be: []
 msgid "улица Ледцо"

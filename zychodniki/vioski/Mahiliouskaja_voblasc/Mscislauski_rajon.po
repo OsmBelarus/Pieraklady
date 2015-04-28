@@ -3,6 +3,11 @@
 msgid "Андраны"
 msgstr ""
 
+# Objects : [n243045236, w25078752]
+# name:be: [Асмолавічы]
+msgid "Асмоловичи"
+msgstr ""
+
 # Objects : [n243047232, w25078339]
 # name:be: [Банькаўшчына]
 msgid "Баньковщина"
@@ -68,6 +73,16 @@ msgstr ""
 msgid "Богатьковка"
 msgstr ""
 
+# Objects : [n243045050, w25078408]
+# name:be: [Бальшая Зяціца]
+msgid "Большая Зятица"
+msgstr ""
+
+# Objects : [n243047376, w25078364]
+# name:be: [Бальшая Лешчанка]
+msgid "Большая Лещенка"
+msgstr ""
+
 # Objects : [n243045084, w25078428]
 # name:be: [Барысаўка]
 msgid "Борисовка"
@@ -106,16 +121,6 @@ msgstr ""
 # Objects : [n243045690, w25079632]
 # name:be: [Васількова]
 msgid "Васильково"
-msgstr ""
-
-# Objects : [n243045050, w25078408]
-# name:be: [Вялікая Зяціца]
-msgid "Великая Зятица"
-msgstr ""
-
-# Objects : [n243047376, w25078364]
-# name:be: [Вялікая Лешчанка]
-msgid "Великая Лещенка"
 msgstr ""
 
 # Objects : [n243045294, w25078828]
@@ -390,7 +395,7 @@ msgstr ""
 
 # Objects : [n243045238, w25078761]
 # name:be: [Ксёндзаўшчына]
-msgid "Ксёндзовщина"
+msgid "Ксензовщина"
 msgstr ""
 
 # Objects : [n243047219, w25078362]
@@ -526,11 +531,6 @@ msgstr ""
 # Objects : [n243047362, w25078005]
 # name:be: [Аслянка]
 msgid "Ослянка"
-msgstr ""
-
-# Objects : [n243045236, w25078752]
-# name:be: [Асмолавічы]
-msgid "Осмоловичи"
 msgstr ""
 
 # Objects : [n243047374, w25078032]

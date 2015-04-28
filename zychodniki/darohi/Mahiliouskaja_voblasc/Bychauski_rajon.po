@@ -23,7 +23,7 @@ msgstr ""
 msgid "Аскаленко переулок"
 msgstr ""
 
-# Objects : [w112118741, w258862584]
+# Objects : [w258862584]
 # name:be: []
 msgid "Аскаленко улица"
 msgstr ""
@@ -183,11 +183,6 @@ msgstr ""
 msgid "Северная улица"
 msgstr ""
 
-# Objects : [w269139647]
-# name:be: []
-msgid "Серволюкс"
-msgstr ""
-
 # Objects : [w104185362, w258862596, w258862597]
 # name:be: []
 msgid "Советская улица"
@@ -201,6 +196,11 @@ msgstr ""
 # Objects : [w169303311, w217419209, w217419216]
 # name:be: []
 msgid "Тихая улица"
+msgstr ""
+
+# Objects : [w112118741]
+# name:be: []
+msgid "улица Аскаленко"
 msgstr ""
 
 # Objects : [w217419208, w265765726]

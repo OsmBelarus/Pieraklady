@@ -3,9 +3,34 @@
 msgid "VELCOM"
 msgstr ""
 
+# Objects : [n243040754, w25103406]
+# name:be: [Аравічы]
+msgid "Аровичи"
+msgstr ""
+
+# Objects : [n243033872, w25097290]
+# name:be: [Бабчын]
+msgid "Бабчин"
+msgstr ""
+
 # Objects : [w311071549]
 # name:be: []
 msgid "Базовая школа-сад"
+msgstr ""
+
+# Objects : [n243034175, w25097327]
+# name:be: []
+msgid "Боровица"
+msgstr ""
+
+# Objects : [n243040593, w25103409]
+# name:be: [Баршчоўка]
+msgid "Борщёвка"
+msgstr ""
+
+# Objects : [n243038077, w25104167]
+# name:be: [Буда]
+msgid "Буда"
 msgstr ""
 
 # Objects : [n2788679934]
@@ -18,9 +43,19 @@ msgstr ""
 msgid "Вирвиха"
 msgstr ""
 
+# Objects : [n243033884, w25097315]
+# name:be: [Варацец]
+msgid "Воротец"
+msgstr ""
+
 # Objects : [w25195412]
 # name:be: []
 msgid "Вьюры"
+msgstr ""
+
+# Objects : [n243040675, w25104173]
+# name:be: [Гнездзінка]
+msgid "Гнездинка"
 msgstr ""
 
 # Objects : [w25194975]
@@ -28,9 +63,34 @@ msgstr ""
 msgid "Гнездное"
 msgstr ""
 
+# Objects : [n243034020, n3386038003, w338615028]
+# name:be: [Гарошкаў]
+msgid "Горошков"
+msgstr ""
+
+# Objects : [n243040746, w25103402]
+# name:be: [Града]
+msgid "Града"
+msgstr ""
+
 # Objects : [w310953203]
 # name:be: []
 msgid "ГУО «Стреличевская средняя школа им. В.Н. Марченко»"
+msgstr ""
+
+# Objects : [n243040743, w25103403]
+# name:be: [Дронькі]
+msgid "Дроньки"
+msgstr ""
+
+# Objects : [n3390958364]
+# name:be: []
+msgid "Дубровица"
+msgstr ""
+
+# Objects : [n3386014730]
+# name:be: []
+msgid "Дубровица 2"
 msgstr ""
 
 # Objects : [w260411937]
@@ -38,7 +98,17 @@ msgstr ""
 msgid "ДЭУ 155"
 msgstr ""
 
-# Objects : [w258885180, w258885181]
+# Objects : [n243040665, w25103361]
+# name:be: [Іванаўка]
+msgid "Ивановка"
+msgstr ""
+
+# Objects : [n243033932, w25097297]
+# name:be: []
+msgid "Имени Ленина"
+msgstr ""
+
+# Objects : [w258885180]
 # name:be: []
 msgid "Карьер"
 msgstr ""
@@ -53,9 +123,29 @@ msgstr ""
 msgid "Кладбище"
 msgstr ""
 
+# Objects : [n243038084, w25104170]
+# name:be: [Кажушкі]
+msgid "Кожушки"
+msgstr ""
+
 # Objects : [w256702042]
 # name:be: []
 msgid "Контора совхоза"
+msgstr ""
+
+# Objects : [n243033914, w25103355]
+# name:be: [Краснае Возера]
+msgid "Красное Озеро"
+msgstr ""
+
+# Objects : [w25103417]
+# name:be: [Краснаселле]
+msgid "Красноселье"
+msgstr ""
+
+# Objects : [w25103356]
+# name:be: [Красны Рог]
+msgid "Красный Рог"
 msgstr ""
 
 # Objects : [n2914619271]
@@ -63,12 +153,37 @@ msgstr ""
 msgid "Курганный могильник"
 msgstr ""
 
-# Objects : [w25196105]
+# Objects : [w25103398]
+# name:be: [Лясок]
+msgid "Лесок"
+msgstr ""
+
+# Objects : [n3390958372]
 # name:be: []
+msgid "Летний домик"Великий бор""
+msgstr ""
+
+# Objects : [w25104171]
+# name:be: [Ламачы]
+msgid "Ломачи"
+msgstr ""
+
+# Objects : [w25104888, w25196105]
+# name:be: [Ломыш]
 msgid "Ломыш"
 msgstr ""
 
-# Objects : [w256685194, w256826524, w256830593, w256833209, w263306648]
+# Objects : [n243041474, w25103348]
+# name:be: [Людзвін]
+msgid "Людвин"
+msgstr ""
+
+# Objects : [n243034161, w273634050]
+# name:be: [Масаны]
+msgid "Масаны"
+msgstr ""
+
+# Objects : [w256685194, w256826524, w263306648]
 # name:be: []
 msgid "Мехдвор"
 msgstr ""
@@ -78,14 +193,34 @@ msgstr ""
 msgid "Мехдвор и зерносклад"
 msgstr ""
 
+# Objects : [n243040750, w25103407]
+# name:be: [Малочкі]
+msgid "Молочки"
+msgstr ""
+
 # Objects : [w25192569]
 # name:be: []
 msgid "Мостище"
 msgstr ""
 
+# Objects : [n243040669, w25103397]
+# name:be: [Навакухнаўшчына]
+msgid "Новокухновщина"
+msgstr ""
+
+# Objects : [n243038090, w25104169]
+# name:be: []
+msgid "Новопокровск"
+msgstr ""
+
 # Objects : [w288322588]
 # name:be: []
 msgid "Ограда усадьбы"
+msgstr ""
+
+# Objects : [n243034005, w25097258]
+# name:be: [Пальміра]
+msgid "Пальмира"
 msgstr ""
 
 # Objects : [n2788683891]
@@ -98,14 +233,14 @@ msgstr ""
 msgid "Персток"
 msgstr ""
 
-# Objects : [r3397849]
-# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
-msgid "Полесский государственный радиационно-экологический заповедник"
+# Objects : [n243033911, w25097301]
+# name:be: [Плоскае]
+msgid "Плоское"
 msgstr ""
 
-# Objects : [w253459232]
-# name:be: [Прыпяць]
-msgid "Припять"
+# Objects : [n243040739, w25103401]
+# name:be: [Пагоннае]
+msgid "Погонное"
 msgstr ""
 
 # Objects : [w288325614]
@@ -118,14 +253,44 @@ msgstr ""
 msgid "Продуктовый"
 msgstr ""
 
+# Objects : [n243034163, w25097331]
+# name:be: [Радзін]
+msgid "Радин"
+msgstr ""
+
 # Objects : [w288325612, w288325613]
 # name:be: []
 msgid "развалины школы"
 msgstr ""
 
+# Objects : [n243043104, n3386038035, w338614813]
+# name:be: [Рашаў]
+msgid "Рашев"
+msgstr ""
+
+# Objects : [n243033930, w25097296]
+# name:be: [Рудыя]
+msgid "Рудые"
+msgstr ""
+
 # Objects : [w25183725]
 # name:be: []
 msgid "Семеница"
+msgstr ""
+
+# Objects : [n243034162, w25097335]
+# name:be: [Сінцы]
+msgid "Синцы"
+msgstr ""
+
+# Objects : [n243038072, w25104172]
+# name:be: [Слабада]
+msgid "Слобода"
+msgstr ""
+
+# Objects : [n3390958373]
+# name:be: []
+msgid "Слобожанка"
 msgstr ""
 
 # Objects : [w256700868]
@@ -138,6 +303,11 @@ msgstr ""
 msgid "Слобожанский детский сад"
 msgstr ""
 
+# Objects : [n243041473, w25103339]
+# name:be: []
+msgid "Смирнов"
+msgstr ""
+
 # Objects : [w256833211]
 # name:be: []
 msgid "Спиртзавод"
@@ -146,6 +316,11 @@ msgstr ""
 # Objects : [w25197633]
 # name:be: []
 msgid "Староселье"
+msgstr ""
+
+# Objects : [n243038122, w25104146]
+# name:be: [Старч]
+msgid "Старч"
 msgstr ""
 
 # Objects : [w256830596]
@@ -158,9 +333,19 @@ msgstr ""
 msgid "Трагедии Чернобыля"
 msgstr ""
 
+# Objects : [n243038074, w25104168]
+# name:be: [Тульгавічы]
+msgid "Тульговичи"
+msgstr ""
+
 # Objects : [w24947270, w284774187]
 # name:be: []
 msgid "УЖД Хойники"
+msgstr ""
+
+# Objects : [n243034160, w25097337]
+# name:be: [Уласы]
+msgid "Уласы"
 msgstr ""
 
 # Objects : [w288325608]
@@ -173,7 +358,7 @@ msgstr ""
 msgid "ферма"
 msgstr ""
 
-# Objects : [w256703419, w256807205, w256828512, w256830597, w256833689, w258732668]
+# Objects : [w256703419, w256807205, w258732668]
 # name:be: []
 msgid "Ферма"
 msgstr ""
@@ -188,6 +373,11 @@ msgstr ""
 msgid "Ферма и мехдвор"
 msgstr ""
 
+# Objects : [n243038104, w25104174]
+# name:be: [Хвашчоўка]
+msgid "Хвощёвка"
+msgstr ""
+
 # Objects : [w288325610]
 # name:be: []
 msgid "Хозяйственный дом Ваньковичей"
@@ -198,8 +388,13 @@ msgstr ""
 msgid "Хойники"
 msgstr ""
 
-# Objects : [n2766728243]
-# name:be: []
-msgid "Хойникский"
+# Objects : [n243034167, w25097340]
+# name:be: [Чамкоў]
+msgid "Чемков"
+msgstr ""
+
+# Objects : [n243033926, w25097294]
+# name:be: [Чахі]
+msgid "Чехи"
 msgstr ""
 

@@ -1,11 +1,66 @@
+# Objects : [w41144337]
+# name:be: [Інтэрнацыянальная вуліца]
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w41144349]
+# name:be: [Камсамольская вуліца]
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w245282317]
+# name:be: [Лугавая вуліца]
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w240627983]
+# name:be: [Меліяратыўная вуліца]
+msgid "Мелиоративная улица"
+msgstr ""
+
+# Objects : [w41144351]
+# name:be: [Кастрычніцкая вуліца]
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w330957461, w330957465, w41144348]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w41144367]
+# name:be: [Паўночная вуліца]
+msgid "Северная улица"
+msgstr ""
+
 # Objects : [w239128443, w239906577]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
 msgstr ""
 
-# Objects : [w41144374]
+# Objects : [w41144320]
+# name:be: [Ціхая вуліца]
+msgid "Тихая улица"
+msgstr ""
+
+# Objects : [w330957458]
+# name:be: []
+msgid "улица Андриевича"
+msgstr ""
+
+# Objects : [w41144327]
+# name:be: [вуліца Гагарына]
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [w331112148, w331112149]
 # name:be: [вуліца Дзяржынскага]
 msgid "улица Дзержинского"
+msgstr ""
+
+# Objects : [w239128448]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
 msgstr ""
 
 # Objects : [w124658398]
@@ -13,8 +68,23 @@ msgstr ""
 msgid "улица Ленина"
 msgstr ""
 
+# Objects : [w330957470]
+# name:be: []
+msgid "улица Молодежная"
+msgstr ""
+
+# Objects : [w239128442, w331112151, w331112152]
+# name:be: [вуліца Свярдлова]
+msgid "улица Свердлова"
+msgstr ""
+
 # Objects : [w240627990]
 # name:be: [вуліца Тамілава]
 msgid "улица Томилова"
+msgstr ""
+
+# Objects : [w41144353]
+# name:be: [вуліца Чкалава]
+msgid "улица Чкалова"
 msgstr ""
 

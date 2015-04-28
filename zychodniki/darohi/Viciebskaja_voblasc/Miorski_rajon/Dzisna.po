@@ -3,6 +3,11 @@
 msgid "Малая улица"
 msgstr ""
 
+# Objects : [w35094130]
+# name:be: []
+msgid "Первойская улица"
+msgstr ""
+
 # Objects : [w223681834]
 # name:be: [завулак Грушына]
 msgid "переулок Грушина"
@@ -123,12 +128,12 @@ msgstr ""
 msgid "улица Фрунзе"
 msgstr ""
 
-# Objects : [w35093055]
+# Objects : [w332145212, w35093055]
 # name:be: [вуліца Чапаева]
 msgid "улица Чапаева"
 msgstr ""
 
-# Objects : [w35357031]
+# Objects : [w332145144, w332145145, w35357031]
 # name:be: [вуліца Чкалава]
 msgid "улица Чкалова"
 msgstr ""

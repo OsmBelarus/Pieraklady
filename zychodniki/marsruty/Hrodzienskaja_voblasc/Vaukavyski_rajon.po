@@ -18,6 +18,11 @@ msgstr ""
 msgid "Гнезно — Андреевичи"
 msgstr ""
 
+# Objects : [r4665378]
+# name:be: []
+msgid "Даниловцы - Карповцы"
+msgstr ""
+
 # Objects : [r4199602]
 # name:be: []
 msgid "Изабелин — Хоружанцы — Низяны — Ельцовщина — Павловщина"
@@ -46,6 +51,11 @@ msgstr ""
 # Objects : [r2694253]
 # name:be: []
 msgid "Матвеевцы — Низяны — Верусино — Дубровники"
+msgstr ""
+
+# Objects : [r4665456]
+# name:be: []
+msgid "Матвеевцы - Улезлы - Богди - Трунцы"
 msgstr ""
 
 # Objects : [r2688459]

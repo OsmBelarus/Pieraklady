@@ -18,14 +18,14 @@ msgstr ""
 msgid "Мартюхово"
 msgstr ""
 
+# Objects : [n3412602232]
+# name:be: [Нарцызава]
+msgid "Нарцизово"
+msgstr ""
+
 # Objects : [n306066537]
 # name:be: [Перавалачны]
 msgid "Перевалочный"
-msgstr ""
-
-# Objects : [n306066842]
-# name:be: [Слаўнае]
-msgid "Славное"
 msgstr ""
 
 # Objects : [n306066891]

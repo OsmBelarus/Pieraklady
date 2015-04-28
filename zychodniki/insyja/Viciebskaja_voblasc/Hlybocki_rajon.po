@@ -108,7 +108,7 @@ msgstr ""
 msgid "Велец"
 msgstr ""
 
-# Objects : [w25198882]
+# Objects : [r4652012]
 # name:be: [Вялікае]
 msgid "Великое"
 msgstr ""
@@ -116,6 +116,11 @@ msgstr ""
 # Objects : [n2788680158, n2788680159]
 # name:be: [Млын водны]
 msgid "Водяная мельница"
+msgstr ""
+
+# Objects : [w339792151]
+# name:be: []
+msgid "Вольер (Олени)"
 msgstr ""
 
 # Objects : [n1212741353, w25125099]
@@ -353,6 +358,21 @@ msgstr ""
 msgid "Марцебылинское"
 msgstr ""
 
+# Objects : [w25183775]
+# name:be: []
+msgid "Медведки-1"
+msgstr ""
+
+# Objects : [w275526329]
+# name:be: []
+msgid "Медведки-2"
+msgstr ""
+
+# Objects : [w25183457]
+# name:be: []
+msgid "Медведки-3"
+msgstr ""
+
 # Objects : [w241640082]
 # name:be: []
 msgid "мемориал "Голгофа""
@@ -413,7 +433,7 @@ msgstr ""
 msgid "питомник"
 msgstr ""
 
-# Objects : [r1492604, w25199608]
+# Objects : [r1492604, w25199608, w25201101]
 # name:be: []
 msgid "Плисса"
 msgstr ""
@@ -530,7 +550,7 @@ msgstr ""
 
 # Objects : [n243018665, w25126106]
 # name:be: [Субатава]
-msgid "Суботово"
+msgid "Субботово"
 msgstr ""
 
 # Objects : [w25184871]

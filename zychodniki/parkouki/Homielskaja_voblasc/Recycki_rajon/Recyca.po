@@ -1,3 +1,13 @@
+# Objects : [w331932280]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
+# Objects : [w331972642]
+# name:be: []
+msgid "Платная парковка"
+msgstr ""
+
 # Objects : [w309363058]
 # name:be: []
 msgid "Стоянка Метизного завода"
@@ -6,5 +16,10 @@ msgstr ""
 # Objects : [w268853425]
 # name:be: []
 msgid "Стоянка На Славянке"
+msgstr ""
+
+# Objects : [w335620696]
+# name:be: []
+msgid "Стоянка работников РУТТ"
 msgstr ""
 

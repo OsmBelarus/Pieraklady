@@ -38,6 +38,11 @@ msgstr ""
 msgid "Дачи"
 msgstr ""
 
+# Objects : [n3164355306, n3164355307]
+# name:be: []
+msgid "Дачи-1"
+msgstr ""
+
 # Objects : [n1784466048, n1784466052]
 # name:be: []
 msgid "Добрейка"
@@ -83,6 +88,11 @@ msgstr ""
 msgid "Кировский"
 msgstr ""
 
+# Objects : [n2841907185, n2841907186]
+# name:be: []
+msgid "Ковальки"
+msgstr ""
+
 # Objects : [n690275785, n690275787]
 # name:be: []
 msgid "Комары"
@@ -106,6 +116,11 @@ msgstr ""
 # Objects : [n1825039898, n1825039936]
 # name:be: []
 msgid "Куковячино"
+msgstr ""
+
+# Objects : [n3164355298, n3164355303]
+# name:be: []
+msgid "Липовцы"
 msgstr ""
 
 # Objects : [n2617760484, n2617760485]
@@ -146,6 +161,11 @@ msgstr ""
 # Objects : [n2926022689, n3079074080, n941285594]
 # name:be: [Асінаўка]
 msgid "Осиновка"
+msgstr ""
+
+# Objects : [n2841908885, n2841908886]
+# name:be: []
+msgid "Пестуница"
 msgstr ""
 
 # Objects : [n2821970843]

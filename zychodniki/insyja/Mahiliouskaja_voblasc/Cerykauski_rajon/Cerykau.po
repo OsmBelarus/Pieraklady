@@ -38,9 +38,9 @@ msgstr ""
 msgid "Еврейское"
 msgstr ""
 
-# Objects : [w217763784]
+# Objects : [w217625032, w330465882]
 # name:be: []
-msgid "Котельная РПО ЖКХ"
+msgid "КФХ "Марочкина""
 msgstr ""
 
 # Objects : [w217625022]
@@ -56,6 +56,11 @@ msgstr ""
 # Objects : [w208415652]
 # name:be: []
 msgid "Начальная школа №3"
+msgstr ""
+
+# Objects : [w153736522]
+# name:be: []
+msgid "озеро Молокозаводское"
 msgstr ""
 
 # Objects : [w208374610]
@@ -88,23 +93,33 @@ msgstr ""
 msgid "РАПТС"
 msgstr ""
 
-# Objects : [w217625031]
-# name:be: []
-msgid "РПО ЖКХ"
-msgstr ""
-
 # Objects : [w218696606]
 # name:be: []
 msgid "РЭС"
 msgstr ""
 
-# Objects : [w217625032]
+# Objects : [w217625031, w217763784]
 # name:be: []
-msgid "ФКХ Марочкина"
+msgid "УКПП "Жилкоммунхоз""
+msgstr ""
+
+# Objects : [w330465883]
+# name:be: []
+msgid "Учреждение редакции районная газета "Вестник Чериковщины""
+msgstr ""
+
+# Objects : [w330465884]
+# name:be: []
+msgid "Центральная районная больница"
 msgstr ""
 
 # Objects : [w217625034]
 # name:be: []
 msgid "Чериковский РГС"
+msgstr ""
+
+# Objects : [w330465885]
+# name:be: []
+msgid "ЧУПП "Универсал""
 msgstr ""
 

@@ -3,7 +3,12 @@
 msgid "2-й переулок Гастелло"
 msgstr ""
 
-# Objects : [w281145146]
+# Objects : [r4785422]
+# name:be: []
+msgid "ByFly: xPON"
+msgstr ""
+
+# Objects : [n3380916831]
 # name:be: []
 msgid "EGOIST paty bar"
 msgstr ""
@@ -11,11 +16,6 @@ msgstr ""
 # Objects : [n3104207187]
 # name:be: []
 msgid "For bitcoin:computer help,navigation maps,apartment for rent"
-msgstr ""
-
-# Objects : [n1765499030]
-# name:be: []
-msgid "Hotel Lida"
 msgstr ""
 
 # Objects : [n3127124386]
@@ -93,14 +93,19 @@ msgstr ""
 msgid "Автобус №9"
 msgstr ""
 
-# Objects : [w126603049]
-# name:be: []
-msgid "Автодром гродненского ГАУК"
-msgstr ""
-
 # Objects : [w254330807]
 # name:be: []
 msgid "Автотранспортный участок, РМУ, РСУ"
+msgstr ""
+
+# Objects : [r4646650]
+# name:be: []
+msgid "АЗС в Лиде"
+msgstr ""
+
+# Objects : [r4624709]
+# name:be: []
+msgid "Аптечные организации города Лида"
 msgstr ""
 
 # Objects : [n1429798804]
@@ -108,9 +113,24 @@ msgstr ""
 msgid "Архитектура"
 msgstr ""
 
+# Objects : [r4651559]
+# name:be: []
+msgid "Банки и банкоматы в городе Лида"
+msgstr ""
+
 # Objects : [n2655950615]
 # name:be: []
 msgid "Бар "Лидское пиво""
+msgstr ""
+
+# Objects : [n3455486804, n3455486805, n3455486806, n3455486807]
+# name:be: []
+msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n3455404828, n3455404829, n3455404830, n3455404831]
+# name:be: []
+msgid "Белкоопстрах"
 msgstr ""
 
 # Objects : [w95550706]
@@ -118,24 +138,44 @@ msgstr ""
 msgid "Белмедпрепараты"
 msgstr ""
 
+# Objects : [n3455424998, n3455424999]
+# name:be: []
+msgid "Белнефтестрах"
+msgstr ""
+
+# Objects : [n3455425000, n3455425001]
+# name:be: []
+msgid "Белнефтестрах. Пункт продаж"
+msgstr ""
+
 # Objects : [n3127126918]
 # name:be: []
 msgid "Белпочта"
 msgstr ""
 
-# Objects : [n1328649065]
+# Objects : [n3381010962]
 # name:be: [Белтэлекам]
 msgid "Белтелеком"
+msgstr ""
+
+# Objects : [n3455451505, n3455451506, n3455451507]
+# name:be: []
+msgid "Белэксимгарант"
+msgstr ""
+
+# Objects : [r4681581]
+# name:be: [Аўтобус Еўраопт]
+msgid "Бесплатный автобус Евроопт"
+msgstr ""
+
+# Objects : [r4785478]
+# name:be: []
+msgid "Библиотеки города Лида"
 msgstr ""
 
 # Objects : [n2607725245]
 # name:be: []
 msgid "Боулинг"
-msgstr ""
-
-# Objects : [n306067651]
-# name:be: []
-msgid "братское захаронение"
 msgstr ""
 
 # Objects : [n913507665]
@@ -153,6 +193,11 @@ msgstr ""
 msgid "Взвешивание автомобилей"
 msgstr ""
 
+# Objects : [n3455387244]
+# name:be: []
+msgid "Вокзал станции Лида"
+msgstr ""
+
 # Objects : [w53473871]
 # name:be: []
 msgid "Второе Лидское"
@@ -163,9 +208,24 @@ msgstr ""
 msgid "Гараж л/а"
 msgstr ""
 
-# Objects : [w60558149]
+# Objects : [r4721338]
 # name:be: []
-msgid "Городское кладбище "Зосино""
+msgid "Гарант: Базовый пакет"
+msgstr ""
+
+# Objects : [r4683712]
+# name:be: []
+msgid "Гарант: Интерактивные услуги передачи данных (DOCSIS)"
+msgstr ""
+
+# Objects : [r4704989]
+# name:be: []
+msgid "Гарант: Интерактивные услуги передачи данных (PON)"
+msgstr ""
+
+# Objects : [r4718202]
+# name:be: []
+msgid "Гарант: Расширенный пакет"
 msgstr ""
 
 # Objects : [n2607722322]
@@ -173,7 +233,7 @@ msgstr ""
 msgid "Гостиница Континент"
 msgstr ""
 
-# Objects : [n2766736605]
+# Objects : [n1765499030]
 # name:be: []
 msgid "Гостиница Лида"
 msgstr ""
@@ -201,11 +261,6 @@ msgstr ""
 # Objects : [n3238987529]
 # name:be: []
 msgid "Детский дом"
-msgstr ""
-
-# Objects : [w53448043]
-# name:be: []
-msgid "Дом быта"
 msgstr ""
 
 # Objects : [n1351596540]
@@ -248,6 +303,16 @@ msgstr ""
 msgid "Железнодорожный вокзал"
 msgstr ""
 
+# Objects : [w281375526, w281375529]
+# name:be: []
+msgid "ЗАО "Каскад" г.Лида"
+msgstr ""
+
+# Objects : [w336065851]
+# name:be: []
+msgid "ЗАО Агропромсельмаш"
+msgstr ""
+
 # Objects : [w59851716]
 # name:be: []
 msgid "Зеленхоз"
@@ -261,6 +326,11 @@ msgstr ""
 # Objects : [n2603239026]
 # name:be: []
 msgid "Игровой клуб Черри"
+msgstr ""
+
+# Objects : [w336061800]
+# name:be: []
+msgid "ИП Белтекс Оптик"
 msgstr ""
 
 # Objects : [n2788681381]
@@ -278,9 +348,9 @@ msgstr ""
 msgid "Котельная"
 msgstr ""
 
-# Objects : [w255607640]
+# Objects : [w281102886]
 # name:be: []
-msgid "Лагуна"
+msgid "КУП Лидская мебельная фабрика"
 msgstr ""
 
 # Objects : [w254505275]
@@ -298,9 +368,19 @@ msgstr ""
 msgid "Лидер FM 94.3"
 msgstr ""
 
-# Objects : [w96381849]
+# Objects : [n3395087989]
 # name:be: []
-msgid "Лидсельмаш"
+msgid "Лидская детская музыкальная школа искусств"
+msgstr ""
+
+# Objects : [n3395087990]
+# name:be: []
+msgid "Лидская детская художественная школа искусств"
+msgstr ""
+
+# Objects : [n3395087991]
+# name:be: []
+msgid "Лидская детская школа искусств"
 msgstr ""
 
 # Objects : [w255018425]
@@ -318,14 +398,24 @@ msgstr ""
 msgid "Лидская Центральная Районная Больница"
 msgstr ""
 
+# Objects : [n3395075230]
+# name:be: []
+msgid "Лидский государственный профессиональный лицей мелиоративного строительства"
+msgstr ""
+
+# Objects : [n3395075174]
+# name:be: []
+msgid "Лидский государственный профессиональный политехнический лицей"
+msgstr ""
+
 # Objects : [n2788682475, n3216490209]
 # name:be: [Лідскі замак]
 msgid "Лидский замок"
 msgstr ""
 
-# Objects : [n1350394591]
+# Objects : [n1350394591, n3395042039]
 # name:be: []
-msgid "Лидский педагогический колледж"
+msgid "Лидский колледж"
 msgstr ""
 
 # Objects : [n1112249066]
@@ -388,9 +478,9 @@ msgstr ""
 msgid "Маслокамера"
 msgstr ""
 
-# Objects : [w98285929]
+# Objects : [n3395075175]
 # name:be: []
-msgid "Мастерские ПТУ №136"
+msgid "Мастерские"
 msgstr ""
 
 # Objects : [w254330812]
@@ -408,19 +498,9 @@ msgstr ""
 msgid "Мед. услуги иглорефлексотерапия"
 msgstr ""
 
-# Objects : [w97727842]
-# name:be: []
-msgid "Меридиан"
-msgstr ""
-
 # Objects : [n306067690]
 # name:be: []
 msgid "Милиция"
-msgstr ""
-
-# Objects : [w54518479]
-# name:be: [Мінірынак]
-msgid "Минирынок"
 msgstr ""
 
 # Objects : [w98285912]
@@ -438,9 +518,9 @@ msgstr ""
 msgid "Мойка поддонов"
 msgstr ""
 
-# Objects : [w66602206]
+# Objects : [n3395044294]
 # name:be: []
-msgid "мясокомбинат"
+msgid "Музыкальный колледж"
 msgstr ""
 
 # Objects : [n913507667]
@@ -453,14 +533,54 @@ msgstr ""
 msgid "Насосная водоснабжения"
 msgstr ""
 
+# Objects : [w98285925]
+# name:be: []
+msgid "ОАО Завод Оптик"
+msgstr ""
+
 # Objects : [w61320422]
 # name:be: []
 msgid "ОАО Лакокраска"
 msgstr ""
 
+# Objects : [w332096970]
+# name:be: []
+msgid "ОАО Лидагропроммаш"
+msgstr ""
+
 # Objects : [w60924115]
 # name:be: []
 msgid "ОАО Лиданефтепродукт"
+msgstr ""
+
+# Objects : [w59405936]
+# name:be: []
+msgid "ОАО Лидапищеконцентраты"
+msgstr ""
+
+# Objects : [w243537318]
+# name:be: []
+msgid "ОАО Лидахлебопродукт"
+msgstr ""
+
+# Objects : [w96381849]
+# name:be: []
+msgid "ОАО Лидсельмаш"
+msgstr ""
+
+# Objects : [w66602209]
+# name:be: [Абутковая фабрыка]
+msgid "ОАО Лидская обувная фабрика"
+msgstr ""
+
+# Objects : [w60678910]
+# name:be: []
+msgid "ОАО Лидские автобусы Неман"
+msgstr ""
+
+# Objects : [w336051582]
+# name:be: []
+msgid "ОАО Лидский завод электроизделий"
 msgstr ""
 
 # Objects : [w60975617]
@@ -473,24 +593,29 @@ msgstr ""
 msgid "ОАО Лидский молочно-консервный комбинат"
 msgstr ""
 
-# Objects : [w66602209]
-# name:be: [Абутковая фабрыка]
-msgid "Обувная фабрика"
+# Objects : [w66602206]
+# name:be: []
+msgid "ОАО Лидский мясокомбинат"
 msgstr ""
 
-# Objects : [n1351596547]
+# Objects : [w332246701]
 # name:be: []
-msgid "Общежитие педколледжа"
+msgid "ОАО Лидское пиво"
+msgstr ""
+
+# Objects : [w335897813]
+# name:be: []
+msgid "ОАО Лидское ремонтно-строительное предприятие №17"
+msgstr ""
+
+# Objects : [n1351596547, n3395042040, n3395075231]
+# name:be: []
+msgid "Общежитие"
 msgstr ""
 
 # Objects : [w97734176]
 # name:be: []
 msgid "Огонек"
-msgstr ""
-
-# Objects : [w98285925]
-# name:be: [Оптыка]
-msgid "Оптика"
 msgstr ""
 
 # Objects : [n3126221545]
@@ -518,9 +643,19 @@ msgstr ""
 msgid "Поликлиника Детская"
 msgstr ""
 
+# Objects : [w336265010]
+# name:be: []
+msgid "ПООО Техмаш"
+msgstr ""
+
 # Objects : [w281178702]
 # name:be: []
 msgid "Производство окон"
+msgstr ""
+
+# Objects : [n3455471293, n3455471294, n3455471295, n3455471296, n3455471297, n3455471298]
+# name:be: []
+msgid "Промтрансинвест"
 msgstr ""
 
 # Objects : [n1566962183]
@@ -543,6 +678,11 @@ msgstr ""
 msgid "Редакция газеты "Принеманские вести""
 msgstr ""
 
+# Objects : [w333759850]
+# name:be: []
+msgid "Республиканская улица"
+msgstr ""
+
 # Objects : [w96704954]
 # name:be: []
 msgid "Родны кут"
@@ -558,9 +698,24 @@ msgstr ""
 msgid "Светлячок"
 msgstr ""
 
+# Objects : [r4643852]
+# name:be: []
+msgid "Связь города Лида"
+msgstr ""
+
 # Objects : [w97727831]
 # name:be: []
 msgid "Север"
+msgstr ""
+
+# Objects : [r4640598]
+# name:be: []
+msgid "Сетевые торговые объекты в городе Лида"
+msgstr ""
+
+# Objects : [w336030942]
+# name:be: []
+msgid "СЗАО Липласт-СПб"
 msgstr ""
 
 # Objects : [n2601181161, n2601181173, n2601181189]
@@ -586,6 +741,16 @@ msgstr ""
 # Objects : [w254330821]
 # name:be: []
 msgid "Склад хранения моющих стредств"
+msgstr ""
+
+# Objects : [w336030212]
+# name:be: []
+msgid "СООО Бел-Пласт Интернэшнл"
+msgstr ""
+
+# Objects : [r4800063]
+# name:be: []
+msgid "Сотовые вышки города Лида"
 msgstr ""
 
 # Objects : [n1236651443]
@@ -633,6 +798,16 @@ msgstr ""
 msgid "Стоматологическая поликлиника"
 msgstr ""
 
+# Objects : [n3455481836]
+# name:be: []
+msgid "Стравита"
+msgstr ""
+
+# Objects : [r4785804]
+# name:be: []
+msgid "Страховые услуги в Лиде"
+msgstr ""
+
 # Objects : [r4200344]
 # name:be: []
 msgid "Табак"
@@ -643,14 +818,19 @@ msgstr ""
 msgid "Такси 163"
 msgstr ""
 
+# Objects : [n3380916832]
+# name:be: []
+msgid "Талер"
+msgstr ""
+
+# Objects : [n3455441130]
+# name:be: []
+msgid "Таск"
+msgstr ""
+
 # Objects : [n1131251898]
 # name:be: []
 msgid "Твоя улыбка"
-msgstr ""
-
-# Objects : [n1406118587]
-# name:be: [Тэнісныя корты]
-msgid "Теннисные корты"
 msgstr ""
 
 # Objects : [w60973653]
@@ -678,6 +858,11 @@ msgstr ""
 msgid "У фонтана"
 msgstr ""
 
+# Objects : [r4666524]
+# name:be: []
+msgid "Учебный заведения города Лида"
+msgstr ""
+
 # Objects : [r4281661]
 # name:be: []
 msgid "Учреждения дополнительного образования"
@@ -691,11 +876,6 @@ msgstr ""
 # Objects : [r4279625]
 # name:be: []
 msgid "Учреждения общего среднего образования"
-msgstr ""
-
-# Objects : [w61910718]
-# name:be: []
-msgid "хлебозавод"
 msgstr ""
 
 # Objects : [n2788685731]

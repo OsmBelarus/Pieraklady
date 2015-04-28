@@ -3,63 +3,193 @@
 msgid "Аптека"
 msgstr ""
 
-# Objects : [n1039972114]
-# name:be: [Аптэка №14]
-msgid "Аптека №14"
-msgstr ""
-
-# Objects : [n2278250079]
-# name:be: [Арніка]
-msgid "Арника"
-msgstr ""
-
-# Objects : [n1081990225]
-# name:be: [Арніка-Люкс]
-msgid "Арника-Люкс"
-msgstr ""
-
-# Objects : [n1097008105]
+# Objects : [n3379210516]
 # name:be: []
-msgid "Для лидчан"
-msgstr ""
-
-# Objects : [n1426748493]
-# name:be: [ТДА Лідфарм]
-msgid "ОДО Лидафарм"
-msgstr ""
-
-# Objects : [n913507659]
-# name:be: [Панацэя]
-msgid "Панацея"
+msgid "Аптека 1 ЛедаФармМед"
 msgstr ""
 
 # Objects : [n306067675]
 # name:be: []
-msgid "Рябина красная"
+msgid "Аптека 2 ЛедаФармМед"
+msgstr ""
+
+# Objects : [n1857520419]
+# name:be: []
+msgid "Аптека 3 ЛедаФармМед"
+msgstr ""
+
+# Objects : [n1097008105]
+# name:be: []
+msgid "Аптека для лидчан"
+msgstr ""
+
+# Objects : [n3379210517]
+# name:be: []
+msgid "Аптека Лидской центральной районной больницы"
 msgstr ""
 
 # Objects : [n306067666]
 # name:be: []
-msgid "Тамавир"
+msgid "Аптека Тамавир"
+msgstr ""
+
+# Objects : [n3370017696]
+# name:be: []
+msgid "Аптека №115 Фармация"
 msgstr ""
 
 # Objects : [n1081990235]
-# name:be: [№139 Фармацыя]
-msgid "№139 Фармация"
+# name:be: []
+msgid "Аптека №130 Фармация"
 msgstr ""
 
-# Objects : [n2853192306]
-# name:be: [№146 Цэнтральная раённая Фармацыя]
-msgid "№146 Центральная районная Фармация"
+# Objects : [n3370017697]
+# name:be: []
+msgid "Аптека №139 Фармация"
+msgstr ""
+
+# Objects : [n3379354110]
+# name:be: []
+msgid "Аптека №14 Моя аптека"
+msgstr ""
+
+# Objects : [n3370017698]
+# name:be: []
+msgid "Аптека №155 Фармация"
+msgstr ""
+
+# Objects : [n3126206099]
+# name:be: []
+msgid "Аптека №15 КосмоФарма"
+msgstr ""
+
+# Objects : [n3370017699]
+# name:be: []
+msgid "Аптека №161 Фармация"
 msgstr ""
 
 # Objects : [n306067709]
-# name:be: [№163 Фармацыя]
-msgid "№163 Фармация"
+# name:be: []
+msgid "Аптека №163 Фармация"
+msgstr ""
+
+# Objects : [n3370017700]
+# name:be: []
+msgid "Аптека №166 Фармация"
+msgstr ""
+
+# Objects : [n3379210518]
+# name:be: []
+msgid "Аптека №172"
+msgstr ""
+
+# Objects : [n3370017701]
+# name:be: []
+msgid "Аптека №172 Фармация"
+msgstr ""
+
+# Objects : [n306067677]
+# name:be: []
+msgid "Аптека №187 Фармация"
+msgstr ""
+
+# Objects : [n3370017702]
+# name:be: []
+msgid "Аптека №196 Фармация"
+msgstr ""
+
+# Objects : [n2278250079]
+# name:be: []
+msgid "Аптека №1 Арника-люкс"
+msgstr ""
+
+# Objects : [n1426748493]
+# name:be: []
+msgid "Аптека №1 Лидафарм"
+msgstr ""
+
+# Objects : [n913507659]
+# name:be: []
+msgid "Аптека №1 Элитария"
 msgstr ""
 
 # Objects : [n1081990233]
-# name:be: [№2 Камфарм]
-msgid "№2 Комфарм"
+# name:be: []
+msgid "Аптека №2 КомФарм"
+msgstr ""
+
+# Objects : [n3126234596]
+# name:be: []
+msgid "Аптека №2 Лидафарм"
+msgstr ""
+
+# Objects : [n3379210519]
+# name:be: []
+msgid "Аптека №2 Элитария"
+msgstr ""
+
+# Objects : [n1081990225]
+# name:be: []
+msgid "Аптека №3 Арника-люкс"
+msgstr ""
+
+# Objects : [n3379354111]
+# name:be: []
+msgid "Аптека №3 Не Ска"
+msgstr ""
+
+# Objects : [n1039972114]
+# name:be: []
+msgid "Аптека №44 Фармация"
+msgstr ""
+
+# Objects : [n3379354112]
+# name:be: []
+msgid "Аптека №47 Доктор Время"
+msgstr ""
+
+# Objects : [n3219299278]
+# name:be: []
+msgid "Аптека №47 Фармация"
+msgstr ""
+
+# Objects : [n3369937926]
+# name:be: []
+msgid "Аптека №4 Фармация"
+msgstr ""
+
+# Objects : [n3369937927]
+# name:be: []
+msgid "Аптека №51 Фармация"
+msgstr ""
+
+# Objects : [n3379210520]
+# name:be: []
+msgid "Аптека №5 Арника-люкс"
+msgstr ""
+
+# Objects : [n3370017703]
+# name:be: []
+msgid "Аптека №74 Фармация"
+msgstr ""
+
+# Objects : [n3379354113]
+# name:be: []
+msgid "Аптека №9 Не Ска"
+msgstr ""
+
+# Objects : [n3379354114]
+# name:be: []
+msgid "Аптека №9 Фарм-продукт"
+msgstr ""
+
+# Objects : [n3379354115, n3379354116]
+# name:be: []
+msgid "РУПП "БелМедПрепараты""
+msgstr ""
+
+# Objects : [n3369772976]
+# name:be: []
+msgid "Центральная районная аптека №146 Фармация"
 msgstr ""
 

@@ -13,6 +13,21 @@ msgstr ""
 msgid "Бар "Юность""
 msgstr ""
 
+# Objects : [n3390630231]
+# name:be: []
+msgid "Ветка"
+msgstr ""
+
+# Objects : [r3220412]
+# name:be: []
+msgid "Ветковская районная больница"
+msgstr ""
+
+# Objects : [w238843970]
+# name:be: []
+msgid "Ветковская ЦРБ"
+msgstr ""
+
 # Objects : [n890341441]
 # name:be: [Веткаўскі музей народнай творчасці]
 msgid "Ветковский музей народного творчества"
@@ -53,9 +68,19 @@ msgstr ""
 msgid "котельная"Агросервис""
 msgstr ""
 
+# Objects : [w238844066]
+# name:be: []
+msgid "котельная ЦРБ"
+msgstr ""
+
 # Objects : [w238844083]
 # name:be: []
 msgid "ОАО   «Ветковская хлопкопрядильная фабрика»"
+msgstr ""
+
+# Objects : [w318066847]
+# name:be: []
+msgid "ТП"
 msgstr ""
 
 # Objects : [w249668104]

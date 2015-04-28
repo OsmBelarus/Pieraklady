@@ -93,9 +93,19 @@ msgstr ""
 msgid "Медухово"
 msgstr ""
 
+# Objects : [w335561715]
+# name:be: []
+msgid "Мехдвор д. Елка"
+msgstr ""
+
 # Objects : [w327122166]
 # name:be: []
 msgid "Мини-ГЭС"
+msgstr ""
+
+# Objects : [r4718436]
+# name:be: []
+msgid "Молодежная"
 msgstr ""
 
 # Objects : [n1280489860]
@@ -146,11 +156,6 @@ msgstr ""
 # Objects : [n2788684381]
 # name:be: [Слуп]
 msgid "Столб"
-msgstr ""
-
-# Objects : [n242984752, w25144149]
-# name:be: [Тадзіно]
-msgid "Тадино"
 msgstr ""
 
 # Objects : [n2788684596]

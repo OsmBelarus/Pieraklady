@@ -8,6 +8,11 @@ msgstr ""
 msgid ""ПРОТОН" топочная"
 msgstr ""
 
+# Objects : [w321775404]
+# name:be: []
+msgid "1/2"
+msgstr ""
+
 # Objects : [w206062680]
 # name:be: []
 msgid "10/3"
@@ -38,6 +43,26 @@ msgstr ""
 msgid "13А"
 msgstr ""
 
+# Objects : [w332400249]
+# name:be: []
+msgid "15"
+msgstr ""
+
+# Objects : [w332400250, w332400251]
+# name:be: []
+msgid "17"
+msgstr ""
+
+# Objects : [w332499760]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [w234513737]
+# name:be: []
+msgid "1А"
+msgstr ""
+
 # Objects : [w86762123]
 # name:be: []
 msgid "1б"
@@ -46,6 +71,26 @@ msgstr ""
 # Objects : [w295961735]
 # name:be: []
 msgid "1г"
+msgstr ""
+
+# Objects : [w86764720]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w86762275]
+# name:be: []
+msgid "2/6"
+msgstr ""
+
+# Objects : [w86762608]
+# name:be: []
+msgid "2/9"
+msgstr ""
+
+# Objects : [w332242702]
+# name:be: []
+msgid "21"
 msgstr ""
 
 # Objects : [w242559887]
@@ -58,6 +103,26 @@ msgstr ""
 msgid "22А"
 msgstr ""
 
+# Objects : [w332501995]
+# name:be: []
+msgid "255"
+msgstr ""
+
+# Objects : [w86763280]
+# name:be: []
+msgid "255 А"
+msgstr ""
+
+# Objects : [w332509560]
+# name:be: []
+msgid "26"
+msgstr ""
+
+# Objects : [w86762519]
+# name:be: []
+msgid "27"
+msgstr ""
+
 # Objects : [w242560134]
 # name:be: []
 msgid "28 a"
@@ -68,9 +133,24 @@ msgstr ""
 msgid "2А"
 msgstr ""
 
+# Objects : [w86758549]
+# name:be: []
+msgid "3"
+msgstr ""
+
+# Objects : [w336351724]
+# name:be: []
+msgid "31"
+msgstr ""
+
 # Objects : [w236370728]
 # name:be: []
 msgid "36/43"
+msgstr ""
+
+# Objects : [w86761145]
+# name:be: []
+msgid "38"
 msgstr ""
 
 # Objects : [w313789894]
@@ -78,9 +158,9 @@ msgstr ""
 msgid "3a"
 msgstr ""
 
-# Objects : [w233516174]
+# Objects : [w332400252, w86763362]
 # name:be: []
-msgid "54а"
+msgid "4"
 msgstr ""
 
 # Objects : [w86761044]
@@ -93,9 +173,29 @@ msgstr ""
 msgid "61"
 msgstr ""
 
+# Objects : [w233516174]
+# name:be: []
+msgid "62в"
+msgstr ""
+
+# Objects : [w333375784]
+# name:be: []
+msgid "63"
+msgstr ""
+
+# Objects : [w234513772]
+# name:be: []
+msgid "65"
+msgstr ""
+
 # Objects : [w234526493]
 # name:be: []
 msgid "8/9"
+msgstr ""
+
+# Objects : [w234282835]
+# name:be: []
+msgid "9"
 msgstr ""
 
 # Objects : [w281800368, w281800369]
@@ -143,6 +243,11 @@ msgstr ""
 msgid "Административный корпус"
 msgstr ""
 
+# Objects : [w86756138]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
 # Objects : [w136706129]
 # name:be: []
 msgid "Аптека №28"
@@ -166,6 +271,11 @@ msgstr ""
 # Objects : [w295187953]
 # name:be: []
 msgid "баня"
+msgstr ""
+
+# Objects : [w241068845, w242464241, w244831005, w334974979]
+# name:be: []
+msgid "Баня"
 msgstr ""
 
 # Objects : [w157682013]
@@ -270,7 +380,12 @@ msgstr ""
 
 # Objects : [w151530862]
 # name:be: []
-msgid "Государственная инспекция охраны животного и растительного мира"
+msgid "Государственная инспекция охраны животного и растительного мира, 2А"
+msgstr ""
+
+# Objects : [w339933743]
+# name:be: []
+msgid "ГРП-42"
 msgstr ""
 
 # Objects : [w86760894]
@@ -341,6 +456,11 @@ msgstr ""
 # Objects : [w86762070]
 # name:be: []
 msgid "ДК МОАЗ"
+msgstr ""
+
+# Objects : [w86764886]
+# name:be: []
+msgid "Дом быта"
 msgstr ""
 
 # Objects : [w86763365]
@@ -481,11 +601,6 @@ msgstr ""
 # Objects : [w86759155]
 # name:be: [Магілёў]
 msgid "Могилёв"
-msgstr ""
-
-# Objects : [w86764854]
-# name:be: []
-msgid "Могилёв-1"
 msgstr ""
 
 # Objects : [w86757393]
@@ -663,7 +778,7 @@ msgstr ""
 msgid "ООО Сервис"
 msgstr ""
 
-# Objects : [w235598883, w235598899, w309176915, w86757226, w86758459, w86758608, w86761120, w86762697, w86763259]
+# Objects : [w235598899]
 # name:be: []
 msgid "переулок 1-й Июньский"
 msgstr ""
@@ -768,6 +883,11 @@ msgstr ""
 msgid "ТД МОЛОДЕЧНОМЕБЕЛЬ"
 msgstr ""
 
+# Objects : [w332242720]
+# name:be: []
+msgid "теплица"
+msgstr ""
+
 # Objects : [w86759560]
 # name:be: []
 msgid "Технопарк"
@@ -781,6 +901,11 @@ msgstr ""
 # Objects : [w86766246]
 # name:be: []
 msgid "Торговый центр Транзит"
+msgstr ""
+
+# Objects : [w335538667]
+# name:be: []
+msgid "тп"
 msgstr ""
 
 # Objects : [w319890763]
@@ -881,6 +1006,16 @@ msgstr ""
 # Objects : [w147572361, w86759179]
 # name:be: []
 msgid "ЧПУП МЕТИЗ"
+msgstr ""
+
+# Objects : [w336961832]
+# name:be: []
+msgid "ШРП-11"
+msgstr ""
+
+# Objects : [w340061359]
+# name:be: []
+msgid "ШРП-33"
 msgstr ""
 
 # Objects : [w86761630]

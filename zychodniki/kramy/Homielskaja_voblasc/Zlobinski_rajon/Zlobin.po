@@ -1,3 +1,8 @@
+# Objects : [n3415448058]
+# name:be: []
+msgid ""Снежинка""
+msgstr ""
+
 # Objects : [n2708778291]
 # name:be: []
 msgid "Velcom"
@@ -68,11 +73,6 @@ msgstr ""
 msgid "Империя мебели"
 msgstr ""
 
-# Objects : [n2982912055]
-# name:be: []
-msgid "Ирина"
-msgstr ""
-
 # Objects : [n1719870344]
 # name:be: []
 msgid "Каприз"
@@ -113,7 +113,7 @@ msgstr ""
 msgid "Людмила"
 msgstr ""
 
-# Objects : [n3024525831, n3046800039]
+# Objects : [n3024525831, n3046800039, n3374429724]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -163,6 +163,11 @@ msgstr ""
 msgid "Магазин №49"
 msgstr ""
 
+# Objects : [n3419308323]
+# name:be: []
+msgid "Магазин №93"
+msgstr ""
+
 # Objects : [n1762791762]
 # name:be: []
 msgid "Марко"
@@ -196,6 +201,11 @@ msgstr ""
 # Objects : [n2869847331]
 # name:be: []
 msgid "Планета цветов"
+msgstr ""
+
+# Objects : [n3446525042]
+# name:be: []
+msgid "Продуктовый магазин"
 msgstr ""
 
 # Objects : [n1725606862, n1728359035, n982331791]

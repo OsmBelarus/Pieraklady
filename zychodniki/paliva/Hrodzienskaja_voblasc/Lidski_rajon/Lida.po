@@ -1,21 +1,16 @@
-# Objects : [n1776045991]
+# Objects : [n3384124210]
 # name:be: []
-msgid "Белнефтехим"
+msgid "АЗС №4 Белоруснефть"
 msgstr ""
 
-# Objects : [n1436117946, w95532196]
-# name:be: [Беларуснафта]
-msgid "Белоруснефть"
+# Objects : [n306067654]
+# name:be: []
+msgid "АЗС №50 Газпромнефть"
 msgstr ""
 
-# Objects : [n1471143902]
-# name:be: [Беларуснафта №1]
-msgid "Белоруснефть №1"
-msgstr ""
-
-# Objects : [n1425523505, n3306548272]
-# name:be: [Беларуснафта №7]
-msgid "Белоруснефть №7"
+# Objects : [n3384124211]
+# name:be: []
+msgid "АЗС №57 Белоруснефть"
 msgstr ""
 
 # Objects : [n1410525668]
@@ -23,13 +18,38 @@ msgstr ""
 msgid "Газ АЗС"
 msgstr ""
 
-# Objects : [n306067704, n3174641208]
-# name:be: [Лукоiл]
-msgid "Лукойл"
+# Objects : [n1471143902, n3384124212]
+# name:be: [МАЗС №1 Беларуснафта]
+msgid "МАЗС №1 Белоруснефть"
 msgstr ""
 
-# Objects : [n306067654]
+# Objects : [n3196925861, n3384124213]
 # name:be: []
-msgid "Славнефть"
+msgid "МАЗС №20 Белоруснефть"
+msgstr ""
+
+# Objects : [n3174641208]
+# name:be: []
+msgid "МАЗС №45 Лукойл"
+msgstr ""
+
+# Objects : [n306067704]
+# name:be: []
+msgid "МАЗС №48 Лукойл"
+msgstr ""
+
+# Objects : [n1436117946, n3384124214]
+# name:be: []
+msgid "МАЗС №5 Белоруснефть"
+msgstr ""
+
+# Objects : [n1425523505, n3306548272]
+# name:be: [МАЗС №7 Беларуснафта]
+msgid "МАЗС №7 Белоруснефть"
+msgstr ""
+
+# Objects : [n1776045991, n3384124215]
+# name:be: []
+msgid "МАЗС №8 Белоруснефть"
 msgstr ""
 

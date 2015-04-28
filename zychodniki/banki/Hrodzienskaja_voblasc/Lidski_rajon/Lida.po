@@ -1,25 +1,205 @@
-# Objects : [n1039972056, n1369285660, n1429798811, w53521412]
-# name:be: [Беларусбанк]
-msgid "Беларусбанк"
+# Objects : [n3393689000]
+# name:be: []
+msgid "Home Credit Bank. ЦБУ №406"
 msgstr ""
 
-# Objects : [w58516590]
-# name:be: [БПС-Сбербанк]
-msgid "БПС-Сбербанк"
+# Objects : [n3392408605]
+# name:be: []
+msgid "Idea Bank. ЦБУ №38"
+msgstr ""
+
+# Objects : [n3392408606]
+# name:be: []
+msgid "Idea Bank. ЦОБ №4"
+msgstr ""
+
+# Objects : [n3385779070]
+# name:be: []
+msgid "Альфа-банк. Отделение На Советской"
+msgstr ""
+
+# Objects : [n3390611513]
+# name:be: []
+msgid "Белагропромбанк. ОП №8"
+msgstr ""
+
+# Objects : [n3390611514]
+# name:be: []
+msgid "Белагропромбанк. ОП №9"
+msgstr ""
+
+# Objects : [n3390611515]
+# name:be: []
+msgid "Белагропромбанк. РКЦ №15"
+msgstr ""
+
+# Objects : [n3390611516]
+# name:be: []
+msgid "Белагропромбанк. РКЦ №17"
+msgstr ""
+
+# Objects : [n3390762643]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/1"
+msgstr ""
+
+# Objects : [n3390762644]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/2"
+msgstr ""
+
+# Objects : [n3390762645]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/3"
+msgstr ""
+
+# Objects : [n3390762646]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/4"
+msgstr ""
+
+# Objects : [n3390762647]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/5"
+msgstr ""
+
+# Objects : [n3390762648]
+# name:be: []
+msgid "Беларусбанк. Обменный пункт №413/6"
+msgstr ""
+
+# Objects : [n3390616147]
+# name:be: []
+msgid "Беларусбанк. Филиал №413"
+msgstr ""
+
+# Objects : [n1039972056]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/1"
+msgstr ""
+
+# Objects : [n3390762649]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/48"
+msgstr ""
+
+# Objects : [n1429798811]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/50"
+msgstr ""
+
+# Objects : [n1131427305]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/52"
+msgstr ""
+
+# Objects : [n1369285660]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/54"
+msgstr ""
+
+# Objects : [n3390762650]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/55"
+msgstr ""
+
+# Objects : [n3390762651]
+# name:be: []
+msgid "Беларусбанк. Филиал №413/7"
+msgstr ""
+
+# Objects : [n3385803170]
+# name:be: []
+msgid "БелВЭБ. Отделение в городе Лиде"
+msgstr ""
+
+# Objects : [n3385803171]
+# name:be: []
+msgid "БелВЭБ. Центр розничного бизнеса №760/1"
 msgstr ""
 
 # Objects : [n1531542441]
 # name:be: []
-msgid "ОАО "Белгазпромбанк""
+msgid "Белгазпромбанк. ЦБУ №402"
 msgstr ""
 
-# Objects : [w53883985]
+# Objects : [n3392152514, n3392152515, n3392152516, n3392152517, n3392152518]
 # name:be: []
-msgid "ОАО Белинвестбанк отд. №228"
+msgid "Белинвестбанк. УРМ ЦБУ №228"
 msgstr ""
 
-# Objects : [w58798813]
-# name:be: [Прыёрбанк]
-msgid "Приорбанк"
+# Objects : [n3392152519]
+# name:be: []
+msgid "Белинвестбанк. Центр банковских услуг №228"
+msgstr ""
+
+# Objects : [n3392331560]
+# name:be: []
+msgid "БПС-Сбербанк. Центр банковских услуг №401"
+msgstr ""
+
+# Objects : [n3392331561]
+# name:be: []
+msgid "БПС-Сбербанк. Центр банковских услуг №401/1"
+msgstr ""
+
+# Objects : [n3392331562]
+# name:be: []
+msgid "БПС-Сбербанк. Центр банковских услуг №401/2"
+msgstr ""
+
+# Objects : [n3390584136]
+# name:be: []
+msgid "ВТБ. Дополнительный офис №404"
+msgstr ""
+
+# Objects : [n3392405025]
+# name:be: []
+msgid "Дельта банк. Центр банковских услуг №0420"
+msgstr ""
+
+# Objects : [n3392405026]
+# name:be: []
+msgid "Евроторгинвестбанк. УРМ №410 Евроопт"
+msgstr ""
+
+# Objects : [n3392405027]
+# name:be: []
+msgid "Евроторгинвестбанк. ЦБУ №401"
+msgstr ""
+
+# Objects : [n3393409346]
+# name:be: []
+msgid "МТБанк. РКЦ-57"
+msgstr ""
+
+# Objects : [n3393422980]
+# name:be: []
+msgid "Паритетбанк. Центр банковских услуг №19"
+msgstr ""
+
+# Objects : [n3393573710]
+# name:be: []
+msgid "Приорбанк. ЦБУ 602"
+msgstr ""
+
+# Objects : [n3393580281]
+# name:be: []
+msgid "Трастбанк. Центр банковских услуг №04/02"
+msgstr ""
+
+# Objects : [n3393684844]
+# name:be: []
+msgid "Франсабанк. ПОВ №32"
+msgstr ""
+
+# Objects : [n3393684845]
+# name:be: []
+msgid "Франсабанк. ПОВ №37"
+msgstr ""
+
+# Objects : [n3393684846]
+# name:be: []
+msgid "Франсабанк. ЦБУ №1"
 msgstr ""
 

@@ -1,11 +1,31 @@
-# Objects : [n1020606081]
+# Objects : [r4767653]
 # name:be: []
-msgid "Глушкевичи"
+msgid "Биологический заказник "Букчанский""
+msgstr ""
+
+# Objects : [n3347850879]
+# name:be: []
+msgid "брод"
+msgstr ""
+
+# Objects : [n3386014164]
+# name:be: []
+msgid "Буда-Софиевка"
 msgstr ""
 
 # Objects : [n243023997]
 # name:be: []
 msgid "Долговское (несущ.)"
+msgstr ""
+
+# Objects : [n3386014640]
+# name:be: []
+msgid "Дом охотника "Марковское""
+msgstr ""
+
+# Objects : [n3386014641]
+# name:be: []
+msgid "Дом охотника "Милошевичи""
 msgstr ""
 
 # Objects : [n2924524702]
@@ -298,6 +318,11 @@ msgstr ""
 msgid "ДОТ 762 М-2"
 msgstr ""
 
+# Objects : [n3386014165]
+# name:be: []
+msgid "Дубровки"
+msgstr ""
+
 # Objects : [n3280122823]
 # name:be: []
 msgid "Женщина в печали"
@@ -353,6 +378,11 @@ msgstr ""
 msgid "Курганный могильник раннего феодализма"
 msgstr ""
 
+# Objects : [n3347895695]
+# name:be: []
+msgid "Курганы"
+msgstr ""
+
 # Objects : [n506255403]
 # name:be: []
 msgid "Майдан-Копищенський-Глушкевичі"
@@ -363,6 +393,11 @@ msgstr ""
 msgid "Мемориальный комплекс жертвам фашизма"
 msgstr ""
 
+# Objects : [n3386014642]
+# name:be: []
+msgid "Милошевичи"
+msgstr ""
+
 # Objects : [r3875969, w291858805]
 # name:be: [Нацыянальны парк "Прыпяцкі"]
 msgid "Национальный парк "Припятский""
@@ -371,6 +406,11 @@ msgstr ""
 # Objects : [w320784689]
 # name:be: []
 msgid "Плантация клюквы"
+msgstr ""
+
+# Objects : [n3386014674]
+# name:be: []
+msgid "Приболовичи"
 msgstr ""
 
 # Objects : [w321266839]

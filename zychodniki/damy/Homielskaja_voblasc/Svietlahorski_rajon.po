@@ -3,6 +3,11 @@
 msgid "Детский сад"
 msgstr ""
 
+# Objects : [w338650240]
+# name:be: []
+msgid "общежитие ЦКК"
+msgstr ""
+
 # Objects : [w285888418]
 # name:be: []
 msgid "почта"

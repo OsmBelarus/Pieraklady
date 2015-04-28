@@ -1,8 +1,3 @@
-# Objects : [w151591901]
-# name:be: []
-msgid "37а"
-msgstr ""
-
 # Objects : [n2964490275]
 # name:be: [алея знакамітых ураджэнцаў Глыбоччыны]
 msgid "аллея знаменитых уроженцев Глуботчины"
@@ -28,14 +23,59 @@ msgstr ""
 msgid "Глубокое"
 msgstr ""
 
+# Objects : [w328158415]
+# name:be: []
+msgid "Глубокская райагропромтехника"
+msgstr ""
+
+# Objects : [w328326984]
+# name:be: []
+msgid "Глубокская СПМК-26"
+msgstr ""
+
 # Objects : [w275510034]
 # name:be: []
 msgid "Глубокская ЦРБ"
 msgstr ""
 
+# Objects : [w148303142]
+# name:be: []
+msgid "Глубокские электрические сети"
+msgstr ""
+
 # Objects : [n2866824938, w282746409]
 # name:be: []
 msgid "Глубокский лесхоз"
+msgstr ""
+
+# Objects : [w328326982]
+# name:be: []
+msgid "Глубокский общепит"
+msgstr ""
+
+# Objects : [w329864769]
+# name:be: []
+msgid "Глубокский райгаз"
+msgstr ""
+
+# Objects : [w329864513]
+# name:be: []
+msgid "Глубокский районный узел электросвязи"
+msgstr ""
+
+# Objects : [w287142062]
+# name:be: []
+msgid "Глубокский РОЧС"
+msgstr ""
+
+# Objects : [w328333455]
+# name:be: []
+msgid "Глубокский РЭС"
+msgstr ""
+
+# Objects : [w328335826]
+# name:be: []
+msgid "Глубокское ЖКХ"
 msgstr ""
 
 # Objects : [w287141553]
@@ -58,9 +98,24 @@ msgstr ""
 msgid "Гостиница Очаг"
 msgstr ""
 
+# Objects : [w328326986]
+# name:be: []
+msgid "ДОСААФ"
+msgstr ""
+
 # Objects : [w275516453]
 # name:be: []
 msgid "ДЭУ-35"
+msgstr ""
+
+# Objects : [w275515741]
+# name:be: []
+msgid "ДЭУ-35 Белавтодор"
+msgstr ""
+
+# Objects : [w287142652]
+# name:be: []
+msgid "Ж/Д вокзал"
 msgstr ""
 
 # Objects : [w148294800]
@@ -113,11 +168,6 @@ msgstr ""
 msgid "Костел Святой Троицы"
 msgstr ""
 
-# Objects : [r2871403]
-# name:be: []
-msgid "Машерова"
-msgstr ""
-
 # Objects : [n243018676]
 # name:be: [Міхайлаўка]
 msgid "Михайловка"
@@ -138,9 +188,19 @@ msgstr ""
 msgid "Монастырь базилиан Березвецкий"
 msgstr ""
 
-# Objects : [w287142062]
+# Objects : [w152304543]
 # name:be: []
-msgid "МЧС"
+msgid "Музыкальная школа"
+msgstr ""
+
+# Objects : [w328160763]
+# name:be: []
+msgid "ОАО "Купцов""
+msgstr ""
+
+# Objects : [w328331275]
+# name:be: []
+msgid "ОАО "Плещеницлес""
 msgstr ""
 
 # Objects : [w277418287]
@@ -173,12 +233,27 @@ msgstr ""
 msgid "Старое еврейское кладбище"
 msgstr ""
 
+# Objects : [w329243833]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
+# Objects : [w151711564]
+# name:be: []
+msgid "ТЦ "Орбита""
+msgstr ""
+
+# Objects : [w152776010]
+# name:be: []
+msgid "Фирменный магазин №1 ОАО "Глубокский мясокомбинат""
+msgstr ""
+
 # Objects : [n2964463842]
 # name:be: []
 msgid "фонтан"
 msgstr ""
 
-# Objects : [w277418871, w277418872]
+# Objects : [w277418871]
 # name:be: []
 msgid "Хлебозавод"
 msgstr ""
@@ -191,6 +266,11 @@ msgstr ""
 # Objects : [w173561236]
 # name:be: []
 msgid "ЧТУП Холтранс"
+msgstr ""
+
+# Objects : [w328326983]
+# name:be: []
+msgid "ЧУП "Глубокская ПМК""
 msgstr ""
 
 # Objects : [w148314793]

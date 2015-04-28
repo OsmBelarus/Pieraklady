@@ -8,9 +8,9 @@ msgstr ""
 msgid "Детсад № 152"
 msgstr ""
 
-# Objects : [w49260169, w49260171]
+# Objects : [w248442171]
 # name:be: []
-msgid "Детский сад"
+msgid "Детский садик"
 msgstr ""
 
 # Objects : [n306068247]
@@ -58,24 +58,9 @@ msgstr ""
 msgid "ДУ ясли-сад № 119 "Богатырь""
 msgstr ""
 
-# Objects : [n471530363]
-# name:be: []
-msgid "Приют"
-msgstr ""
-
 # Objects : [n1096345900]
 # name:be: []
 msgid "Проектируемый Детский сад"
-msgstr ""
-
-# Objects : [n471530362]
-# name:be: []
-msgid "Я/С № 161"
-msgstr ""
-
-# Objects : [n460382928]
-# name:be: []
-msgid "Я/С № 2"
 msgstr ""
 
 # Objects : [w206628482]
@@ -133,11 +118,6 @@ msgstr ""
 msgid "ясли-сад №140 Улыбка"
 msgstr ""
 
-# Objects : [n625831591]
-# name:be: []
-msgid "ясли-сад №141"
-msgstr ""
-
 # Objects : [n306068147]
 # name:be: []
 msgid "ясли-сад №143"
@@ -166,16 +146,6 @@ msgstr ""
 # Objects : [n452521585]
 # name:be: []
 msgid "ясли-сад № 156 Ленок"
-msgstr ""
-
-# Objects : [n787301746]
-# name:be: []
-msgid "ясли-сад № 166"
-msgstr ""
-
-# Objects : [n625831592]
-# name:be: []
-msgid "ясли-сад №17"
 msgstr ""
 
 # Objects : [n1449693300]

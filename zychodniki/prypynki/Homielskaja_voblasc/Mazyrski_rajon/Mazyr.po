@@ -1,0 +1,45 @@
+# Objects : [n1436607165, n1436607166]
+# name:be: []
+msgid "Бассейн"
+msgstr ""
+
+# Objects : [n1436672051, n1436672059]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n1436607115, n1436607116]
+# name:be: []
+msgid "Микрорайон Молодёжный"
+msgstr ""
+
+# Objects : [n306064575]
+# name:be: []
+msgid "Примостовая"
+msgstr ""
+
+# Objects : [n1436607117, n1436607118]
+# name:be: []
+msgid "Торговый центр"
+msgstr ""
+
+# Objects : [n1436607119, n674421528]
+# name:be: [Трамвайнае дэпо]
+msgid "Трамвайное депо"
+msgstr ""
+
+# Objects : [n3202868163, n3202868164]
+# name:be: []
+msgid "улица Интернациональная"
+msgstr ""
+
+# Objects : [n1436607183]
+# name:be: [Школа]
+msgid "Школа"
+msgstr ""
+
+# Objects : [n1436607184]
+# name:be: [Школа №11]
+msgid "Школа №11"
+msgstr ""
+

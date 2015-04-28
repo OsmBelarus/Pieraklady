@@ -33,6 +33,11 @@ msgstr ""
 msgid "Гродненский район"
 msgstr ""
 
+# Objects : [r130921]
+# name:be: [Гродна]
+msgid "Гродно"
+msgstr ""
+
 # Objects : [r70768]
 # name:be: [Дзятлаўскі раён]
 msgid "Дятловский район"

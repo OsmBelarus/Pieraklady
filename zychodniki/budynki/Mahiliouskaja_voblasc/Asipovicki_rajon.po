@@ -13,6 +13,16 @@ msgstr ""
 msgid "АЗС"
 msgstr ""
 
+# Objects : [w340384061]
+# name:be: []
+msgid "банк"
+msgstr ""
+
+# Objects : [w215184022]
+# name:be: []
+msgid "Банк"
+msgstr ""
+
 # Objects : [w213785381, w236716080, w273003319]
 # name:be: []
 msgid "Баня"
@@ -48,7 +58,7 @@ msgstr ""
 msgid "клуб"
 msgstr ""
 
-# Objects : [w215370014]
+# Objects : [w212721076, w215370014]
 # name:be: []
 msgid "контора"
 msgstr ""
@@ -68,7 +78,7 @@ msgstr ""
 msgid "Котельная №12 УКП ЖКХ"
 msgstr ""
 
-# Objects : [w213362064, w213793265, w213811134, w215353788, w215372601, w276927151]
+# Objects : [w213362064, w213793265, w213811134, w215185356, w215193045, w215198198, w215353788, w215372601, w276927151]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -81,6 +91,11 @@ msgstr ""
 # Objects : [w213796236]
 # name:be: []
 msgid "Общежитие"
+msgstr ""
+
+# Objects : [w215193044]
+# name:be: []
+msgid "Почта"
 msgstr ""
 
 # Objects : [w215250322]
@@ -123,7 +138,7 @@ msgstr ""
 msgid "Стеклозавод"
 msgstr ""
 
-# Objects : [w213818683, w215372726]
+# Objects : [w213818683, w215188875, w215372726]
 # name:be: []
 msgid "столовая"
 msgstr ""
@@ -131,6 +146,11 @@ msgstr ""
 # Objects : [w215404978]
 # name:be: []
 msgid "Столовая"
+msgstr ""
+
+# Objects : [w341148149]
+# name:be: []
+msgid "туалет"
 msgstr ""
 
 # Objects : [w276926576]

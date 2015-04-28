@@ -3,6 +3,16 @@
 msgid "Курасовщина"
 msgstr ""
 
+# Objects : [n3147289273]
+# name:be: [Лябяжы]
+msgid "Лебяжий"
+msgstr ""
+
+# Objects : [n288115428]
+# name:be: [Лошыца]
+msgid "Лошица"
+msgstr ""
+
 # Objects : [n288101905]
 # name:be: [Масюкоўшчына]
 msgid "Масюковщина"
@@ -16,6 +26,11 @@ msgstr ""
 # Objects : [n2706005389]
 # name:be: [Сталічны]
 msgid "Столичный"
+msgstr ""
+
+# Objects : [n3412381821]
+# name:be: [Таварны Двор]
+msgid "Товарный двор"
 msgstr ""
 
 # Objects : [n282159779]

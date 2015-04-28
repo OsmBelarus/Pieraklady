@@ -1,13 +1,3 @@
-# Objects : [w256461334]
-# name:be: []
-msgid "10-й переулок"
-msgstr ""
-
-# Objects : [w256492179]
-# name:be: []
-msgid "8-ой переулок"
-msgstr ""
-
 # Objects : [n1314516764]
 # name:be: []
 msgid "Aksamit"
@@ -58,12 +48,7 @@ msgstr ""
 msgid "вдхр. Михайловское"
 msgstr ""
 
-# Objects : [n306063822]
-# name:be: [Веленскі]
-msgid "Веленский"
-msgstr ""
-
-# Objects : [n1102936837]
+# Objects : [n3396850091, n3396850092]
 # name:be: [Весялоўскі]
 msgid "Веселовский"
 msgstr ""
@@ -218,11 +203,6 @@ msgstr ""
 msgid "Леоновка-11"
 msgstr ""
 
-# Objects : [n306063730]
-# name:be: [Майскі]
-msgid "Майский"
-msgstr ""
-
 # Objects : [w175896743]
 # name:be: []
 msgid "Мастерские"
@@ -276,11 +256,6 @@ msgstr ""
 # Objects : [w279543213]
 # name:be: []
 msgid "Несанкционированная свалка"
-msgstr ""
-
-# Objects : [n271040767]
-# name:be: [Новае Сяло]
-msgid "Новое Село"
 msgstr ""
 
 # Objects : [n1754964408]
@@ -358,11 +333,6 @@ msgstr ""
 msgid "Пуховичский сельсовет"
 msgstr ""
 
-# Objects : [n306062995]
-# name:be: [Раўнаполле]
-msgid "Равнополье"
-msgstr ""
-
 # Objects : [w256489145]
 # name:be: []
 msgid "с/т "Автозавод""
@@ -395,47 +365,82 @@ msgstr ""
 
 # Objects : [n1878298902]
 # name:be: []
-msgid "С/Т Голубика"
-msgstr ""
-
-# Objects : [r3894284]
-# name:be: []
-msgid "с/т Здоровье"
+msgid "с/т Голубика"
 msgstr ""
 
 # Objects : [n1890122868]
 # name:be: []
-msgid "С/Т Здоровье"
+msgid "с/т Здоровье"
 msgstr ""
 
-# Objects : [r3894285]
+# Objects : [n3479858918]
 # name:be: []
-msgid "с/т Магистраль-5"
+msgid "с/т Кардиолог"
+msgstr ""
+
+# Objects : [n3479858919]
+# name:be: []
+msgid "с/т Колос"
 msgstr ""
 
 # Objects : [n1890122867]
 # name:be: []
-msgid "С/Т Магистраль-5"
+msgid "с/т Магистраль-5"
 msgstr ""
 
-# Objects : [r3894286]
+# Objects : [n3479858916]
 # name:be: []
-msgid "с/т Радуга"
+msgid "с/т Мара"
+msgstr ""
+
+# Objects : [n3479858921]
+# name:be: []
+msgid "с/т Метрострой"
+msgstr ""
+
+# Objects : [n3479858911]
+# name:be: []
+msgid "с/т Молодость"
+msgstr ""
+
+# Objects : [n3479858915]
+# name:be: []
+msgid "с/т Птич"
 msgstr ""
 
 # Objects : [n1890125208]
 # name:be: []
-msgid "С/Т Радуга"
-msgstr ""
-
-# Objects : [r3894287]
-# name:be: []
-msgid "с/т Снайпер"
+msgid "с/т Радуга"
 msgstr ""
 
 # Objects : [n1890125207]
 # name:be: []
-msgid "С/Т Снайпер"
+msgid "с/т Снайпер"
+msgstr ""
+
+# Objects : [n3479858920]
+# name:be: []
+msgid "с/т Спутник"
+msgstr ""
+
+# Objects : [n3479858913]
+# name:be: []
+msgid "с/т Стрелок"
+msgstr ""
+
+# Objects : [n3479858917]
+# name:be: []
+msgid "с/т Строитель"
+msgstr ""
+
+# Objects : [n3479858914]
+# name:be: []
+msgid "с/т Строймаш"
+msgstr ""
+
+# Objects : [n3479858912]
+# name:be: []
+msgid "с/т Хозяюшка"
 msgstr ""
 
 # Objects : [n1493195133]
@@ -488,7 +493,7 @@ msgstr ""
 msgid "Сябрынь"
 msgstr ""
 
-# Objects : [n271042480, n3076609540]
+# Objects : [n271042480, w303190911]
 # name:be: [Талька]
 msgid "Талька"
 msgstr ""

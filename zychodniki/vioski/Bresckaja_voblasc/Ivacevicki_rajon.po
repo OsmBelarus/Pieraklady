@@ -30,7 +30,7 @@ msgstr ""
 
 # Objects : [n242988209, w25141344]
 # name:be: [Була]
-msgid "Була"
+msgid "Булла"
 msgstr ""
 
 # Objects : [n242988211, w25142111]
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Гоща"
 msgstr ""
 
-# Objects : [n242988349, w25141382, w25141387]
+# Objects : [n242988349, r4718644]
 # name:be: [Гошчава]
 msgid "Гощево"
 msgstr ""
@@ -163,19 +163,14 @@ msgstr ""
 msgid "Гутка"
 msgstr ""
 
-# Objects : [n242991791, w25139545, w25139548]
-# name:be: [Дабромысль]
-msgid "Добромысль"
-msgstr ""
-
-# Objects : [w25140617]
-# name:be: [Добры Бор]
-msgid "Добрый Бор"
-msgstr ""
-
 # Objects : [n242990294, w25140629]
 # name:be: [Дабрынева]
-msgid "Добрынево"
+msgid "Добринево"
+msgstr ""
+
+# Objects : [n242991791, w25139548]
+# name:be: [Дабромысль]
+msgid "Добромысль"
 msgstr ""
 
 # Objects : [n242991756, w25139559]
@@ -206,11 +201,6 @@ msgstr ""
 # Objects : [n242988238, w25141352]
 # name:be: [Дубітава]
 msgid "Дубитово"
-msgstr ""
-
-# Objects : [n242987287, w25142156]
-# name:be: [Ёдчыкі]
-msgid "Ёдчики"
 msgstr ""
 
 # Objects : [n242990629, w25140693]
@@ -268,8 +258,8 @@ msgstr ""
 msgid "Зыбайлы"
 msgstr ""
 
-# Objects : [w25142149]
-# name:be: []
+# Objects : [n242987287, r4718645]
+# name:be: [Ёдчыкі]
 msgid "Иодчики"
 msgstr ""
 
@@ -338,7 +328,7 @@ msgstr ""
 msgid "Любищицы"
 msgstr ""
 
-# Objects : [n1700254823, n1700254830, w157769914, w25140687, w25140688]
+# Objects : [n1700254823, r4718648]
 # name:be: [Майск]
 msgid "Майск"
 msgstr ""
@@ -440,7 +430,7 @@ msgstr ""
 
 # Objects : [n242988230, w25142146]
 # name:be: [Рацкавічы]
-msgid "Рацковичи"
+msgid "Рацкевичи"
 msgstr ""
 
 # Objects : [n242994293, w25138748]
@@ -508,7 +498,7 @@ msgstr ""
 msgid "Сторожовщина"
 msgstr ""
 
-# Objects : [n242979013, w25138733, w25139554]
+# Objects : [n242979013, w25139554]
 # name:be: [Целяханы]
 msgid "Телеханы"
 msgstr ""
@@ -568,7 +558,7 @@ msgstr ""
 msgid "Яблонка"
 msgstr ""
 
-# Objects : [n242990563, w25140691, w25140694, w25140699]
+# Objects : [n242990563, r4677335]
 # name:be: [Яглевічы]
 msgid "Яглевичи"
 msgstr ""

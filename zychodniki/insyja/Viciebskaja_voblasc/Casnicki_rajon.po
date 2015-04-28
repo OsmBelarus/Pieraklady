@@ -1,3 +1,8 @@
+# Objects : [w335629074]
+# name:be: []
+msgid "Антопольская базовая школа-сад"
+msgstr ""
+
 # Objects : [w25197150]
 # name:be: [Белае]
 msgid "Белое"
@@ -63,7 +68,7 @@ msgstr ""
 msgid "Кветино"
 msgstr ""
 
-# Objects : [n2134901867]
+# Objects : [w340793463]
 # name:be: []
 msgid "Кладбище"
 msgstr ""
@@ -81,6 +86,11 @@ msgstr ""
 # Objects : [w237479473, w242442545]
 # name:be: []
 msgid "Луг-Ухле"
+msgstr ""
+
+# Objects : [r4680037]
+# name:be: []
+msgid "Лукомльский сельский Совет"
 msgstr ""
 
 # Objects : [w186637031]
@@ -103,14 +113,19 @@ msgstr ""
 msgid "ОАО "Завод керамзитового гравия""
 msgstr ""
 
-# Objects : [w25195173]
-# name:be: [Павулле]
-msgid "Паулье"
+# Objects : [w332305748]
+# name:be: []
+msgid "ПМК-58"
 msgstr ""
 
 # Objects : [n1343065232]
 # name:be: [Руіны Траецкай царквы]
 msgid "Развалины церкви"
+msgstr ""
+
+# Objects : [w340723478]
+# name:be: []
+msgid "Садовое товарищество "Мичуринец-2""
 msgstr ""
 
 # Objects : [n2766722628]
@@ -140,7 +155,7 @@ msgstr ""
 
 # Objects : [w315499515]
 # name:be: []
-msgid "Спасительная станция"
+msgid "Спасательная станция"
 msgstr ""
 
 # Objects : [w25197944]
@@ -161,6 +176,11 @@ msgstr ""
 # Objects : [n2788684947]
 # name:be: [Сядзіба]
 msgid "Усадьба"
+msgstr ""
+
+# Objects : [n243027038, w25105937]
+# name:be: [Федзькі]
+msgid "Федьки"
 msgstr ""
 
 # Objects : [w198307681]

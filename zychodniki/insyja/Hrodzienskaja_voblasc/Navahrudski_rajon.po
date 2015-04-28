@@ -28,19 +28,19 @@ msgstr ""
 msgid "Винодельня"
 msgstr ""
 
-# Objects : [w300183370]
-# name:be: []
-msgid "Водоём"
-msgstr ""
-
 # Objects : [n2788680026, n2788680034, n2788680036, n2788680039, n2788680040]
 # name:be: [Млын водны]
 msgid "Водяная мельница"
 msgstr ""
 
-# Objects : [w224713372]
+# Objects : [n2335070008]
 # name:be: []
-msgid "ВЭС "Грабники""
+msgid "ВЭС «Грабники»"
+msgstr ""
+
+# Objects : [n242993127]
+# name:be: [Грабнікі]
+msgid "Грабники"
 msgstr ""
 
 # Objects : [n1551977411]
@@ -113,6 +113,11 @@ msgstr ""
 msgid "Кромань"
 msgstr ""
 
+# Objects : [n242993115]
+# name:be: [Куборка]
+msgid "Куборка"
+msgstr ""
+
 # Objects : [n1579894765]
 # name:be: []
 msgid "Лечебно-трудовой профилакторий № 5"
@@ -141,6 +146,11 @@ msgstr ""
 # Objects : [n2788682614]
 # name:be: [Мячэць]
 msgid "Мечеть"
+msgstr ""
+
+# Objects : [n242993121]
+# name:be: [Мітраполь]
+msgid "Митрополь"
 msgstr ""
 
 # Objects : [n2788682669]
@@ -341,10 +351,5 @@ msgstr ""
 # Objects : [n2788687406]
 # name:be: [Капліца Святога Антонія Падуанскага]
 msgid "Часовня Св. Антония Падуанского"
-msgstr ""
-
-# Objects : [n242993130]
-# name:be: [Эканомія]
-msgid "Экономия"
 msgstr ""
 

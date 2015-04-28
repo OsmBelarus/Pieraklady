@@ -1,3 +1,8 @@
+# Objects : [n971684230]
+# name:be: []
+msgid "А-100 №33"
+msgstr ""
+
 # Objects : [n332308169]
 # name:be: []
 msgid "АГЗС"
@@ -13,12 +18,12 @@ msgstr ""
 msgid "Белоруснефть № 1"
 msgstr ""
 
-# Objects : [n306066602, n898726434]
+# Objects : [n898726434, w76168106]
 # name:be: []
 msgid "Белоруснефть №14"
 msgstr ""
 
-# Objects : [n1791286525]
+# Objects : [w74486814]
 # name:be: []
 msgid "Белоруснефть №2"
 msgstr ""
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [w90844100, w90844102]
 # name:be: [Беларуснафта №3]
 msgid "Белоруснефть №3"
+msgstr ""
+
+# Objects : [n2077911509, n2077911515]
+# name:be: []
+msgid "Белоруснефть № 68"
 msgstr ""
 
 # Objects : [n1159627939, n1251041811]
@@ -83,12 +93,12 @@ msgstr ""
 msgid "Лукoйл №43"
 msgstr ""
 
-# Objects : [n306066651, n898726441]
+# Objects : [n898726441, w76168103]
 # name:be: []
 msgid "Лукойл №33"
 msgstr ""
 
-# Objects : [n340016348]
+# Objects : [w74659015]
 # name:be: []
 msgid "Лукойл № 34"
 msgstr ""

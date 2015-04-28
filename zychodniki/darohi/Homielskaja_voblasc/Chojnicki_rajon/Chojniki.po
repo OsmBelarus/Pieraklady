@@ -88,7 +88,7 @@ msgstr ""
 msgid "Настольский переулок"
 msgstr ""
 
-# Objects : [w260886060]
+# Objects : [w25248964, w260886060, w272735604]
 # name:be: [Новая вуліца]
 msgid "Новая улица"
 msgstr ""
@@ -154,7 +154,7 @@ msgid "Пионерская улица"
 msgstr ""
 
 # Objects : [w51259480]
-# name:be: []
+# name:be: [плошча Танкістаў]
 msgid "площадь Танкистов"
 msgstr ""
 

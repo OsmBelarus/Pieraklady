@@ -68,6 +68,11 @@ msgstr ""
 msgid "Средняя школа д.Тельмы"
 msgstr ""
 
+# Objects : [w332383393]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
 # Objects : [w107578471]
 # name:be: []
 msgid "СШ д.Черни"

@@ -33,6 +33,11 @@ msgstr ""
 msgid "Боровики"
 msgstr ""
 
+# Objects : [n3347895711]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
 # Objects : [n3347299178]
 # name:be: []
 msgid "Брод"
@@ -83,6 +88,16 @@ msgstr ""
 msgid "Детский Сад-Средняя Школа"
 msgstr ""
 
+# Objects : [n3390846456]
+# name:be: []
+msgid "Дом охотника "Казимировка""
+msgstr ""
+
+# Objects : [n3386014682]
+# name:be: []
+msgid "Дом охотника "Лешня""
+msgstr ""
+
 # Objects : [n3345866947]
 # name:be: []
 msgid "ДОТ 515"
@@ -119,8 +134,8 @@ msgid "Иваненко"
 msgstr ""
 
 # Objects : [w230273027]
-# name:be: []
-msgid "Исправительная колония №20"
+# name:be: [Папраўчая калонія № 20]
+msgid "Исправительная колония № 20"
 msgstr ""
 
 # Objects : [n3279922814]
@@ -131,11 +146,6 @@ msgstr ""
 # Objects : [w283467120]
 # name:be: []
 msgid "Каменская средняя школа"
-msgstr ""
-
-# Objects : [n616104291]
-# name:be: [Козенкі]
-msgid "Козенки"
 msgstr ""
 
 # Objects : [n2923622667]
@@ -248,16 +258,6 @@ msgstr ""
 msgid "Переново"
 msgstr ""
 
-# Objects : [r3397849]
-# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
-msgid "Полесский государственный радиационно-экологический заповедник"
-msgstr ""
-
-# Objects : [w253459232]
-# name:be: [Прыпяць]
-msgid "Припять"
-msgstr ""
-
 # Objects : [w25183334, w25536903, w25536904]
 # name:be: []
 msgid "ПРИПЯТЬ"
@@ -336,6 +336,11 @@ msgstr ""
 # Objects : [w112899151]
 # name:be: []
 msgid "Старый Аэропорт"
+msgstr ""
+
+# Objects : [w269914087, w269914088]
+# name:be: []
+msgid "СТ Дружба-2"
 msgstr ""
 
 # Objects : [n3320607942]

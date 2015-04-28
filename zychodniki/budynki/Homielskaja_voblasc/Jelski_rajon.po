@@ -8,6 +8,11 @@ msgstr ""
 msgid "Дом культуры"
 msgstr ""
 
+# Objects : [w331515634]
+# name:be: []
+msgid "Дом охотника"
+msgstr ""
+
 # Objects : [w262669413]
 # name:be: []
 msgid "Здание котельной"

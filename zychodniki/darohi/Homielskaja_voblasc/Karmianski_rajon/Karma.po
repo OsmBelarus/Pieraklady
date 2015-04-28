@@ -4,7 +4,7 @@ msgid "Вишнёвый переулок"
 msgstr ""
 
 # Objects : [w80243933]
-# name:be: []
+# name:be: [Гомельская вуліца]
 msgid "Гомельская улица"
 msgstr ""
 
@@ -149,7 +149,7 @@ msgid "Пионерская улица"
 msgstr ""
 
 # Objects : [w115977874]
-# name:be: []
+# name:be: [плошча Свабоды]
 msgid "площадь Свободы"
 msgstr ""
 

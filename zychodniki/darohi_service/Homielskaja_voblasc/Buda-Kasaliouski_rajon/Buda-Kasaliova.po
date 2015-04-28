@@ -1,10 +1,10 @@
+# Objects : [w326180791]
+# name:be: [Тэхнічная вуліца]
+msgid "Техническая улица"
+msgstr ""
+
 # Objects : [w142429531]
 # name:be: [вуліца Міру]
 msgid "улица Мира"
-msgstr ""
-
-# Objects : [w326180791]
-# name:be: []
-msgid "улица Техническая"
 msgstr ""
 

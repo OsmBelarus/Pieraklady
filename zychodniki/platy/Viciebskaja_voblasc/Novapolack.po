@@ -8,6 +8,16 @@ msgstr ""
 msgid "Городской парк"
 msgstr ""
 
+# Objects : [w207696672]
+# name:be: []
+msgid "Канализационно-насосная станция №1"
+msgstr ""
+
+# Objects : [w183345663]
+# name:be: []
+msgid "Мемориальный комплекс «Звезда»"
+msgstr ""
+
 # Objects : [w168548544]
 # name:be: []
 msgid "Подстанция"
@@ -16,11 +26,6 @@ msgstr ""
 # Objects : [w163234206]
 # name:be: [Стадыён «Атлант»]
 msgid "Стадион Атлант"
-msgstr ""
-
-# Objects : [w179162843]
-# name:be: []
-msgid "Строительство ясли - сада - начальной школы"
 msgstr ""
 
 # Objects : [w120586660]

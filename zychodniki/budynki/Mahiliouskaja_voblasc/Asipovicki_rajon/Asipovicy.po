@@ -63,6 +63,11 @@ msgstr ""
 msgid "Гараж"
 msgstr ""
 
+# Objects : [w117913461]
+# name:be: []
+msgid "Дельфин"
+msgstr ""
+
 # Objects : [w203700990]
 # name:be: []
 msgid "Детский сад"
@@ -156,6 +161,11 @@ msgstr ""
 # Objects : [w203725963]
 # name:be: []
 msgid "РИК"
+msgstr ""
+
+# Objects : [w117913464]
+# name:be: []
+msgid "СШ №1"
 msgstr ""
 
 # Objects : [w204506608]

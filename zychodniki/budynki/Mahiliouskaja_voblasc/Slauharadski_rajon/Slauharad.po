@@ -23,6 +23,16 @@ msgstr ""
 msgid "Ветеринарная станция"
 msgstr ""
 
+# Objects : [w244831193]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w330333990]
+# name:be: []
+msgid "гаражи"
+msgstr ""
+
 # Objects : [w203343446]
 # name:be: []
 msgid "Гостинница"
@@ -31,6 +41,11 @@ msgstr ""
 # Objects : [w204113515]
 # name:be: []
 msgid "Департамент охраны МВД"
+msgstr ""
+
+# Objects : [w204198587]
+# name:be: []
+msgid "Детская библиотека"
 msgstr ""
 
 # Objects : [w204207468]
@@ -48,14 +63,29 @@ msgstr ""
 msgid "ДРСУ № 129"
 msgstr ""
 
+# Objects : [w221962456]
+# name:be: []
+msgid "Дунай"
+msgstr ""
+
 # Objects : [w204207469]
 # name:be: []
 msgid "Кабиногорский сельский совет"
 msgstr ""
 
+# Objects : [w330187774, w330193392, w330333277, w331361136, w331484488, w331484489, w331484609]
+# name:be: []
+msgid "кн"
+msgstr ""
+
 # Objects : [w254330153, w327920911]
 # name:be: []
 msgid "кнс"
+msgstr ""
+
+# Objects : [w331365678]
+# name:be: []
+msgid "котельная"
 msgstr ""
 
 # Objects : [w204239004]
@@ -68,9 +98,19 @@ msgstr ""
 msgid "Метеостанция"
 msgstr ""
 
+# Objects : [w329248358, w329257459, w330001866, w330047822, w330185275, w330201296, w330317189, w330323432, w330325896, w330467148, w330469363, w330471091, w330477991, w331024661, w331030518, w331033137, w331055819, w331056063, w331060560, w331063520]
+# name:be: []
+msgid "н"
+msgstr ""
+
 # Objects : [w204198590]
 # name:be: []
 msgid "Налоговая инспекция"
+msgstr ""
+
+# Objects : [w330033125, w330033126, w330033127, w330033128]
+# name:be: []
+msgid "п"
 msgstr ""
 
 # Objects : [w236694270]
@@ -101,5 +141,20 @@ msgstr ""
 # Objects : [w204116656]
 # name:be: []
 msgid "РСУП "Радон""
+msgstr ""
+
+# Objects : [w331358966]
+# name:be: []
+msgid "склад"
+msgstr ""
+
+# Objects : [w329244740]
+# name:be: []
+msgid "тп"
+msgstr ""
+
+# Objects : [w331358967]
+# name:be: []
+msgid "холодильник Райпо"
 msgstr ""
 

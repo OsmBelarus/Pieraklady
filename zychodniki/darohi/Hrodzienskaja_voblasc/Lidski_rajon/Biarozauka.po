@@ -144,7 +144,7 @@ msgid "Советская улица"
 msgstr ""
 
 # Objects : [w98289140]
-# name:be: []
+# name:be: [Сасновая вуліца]
 msgid "Сосновая улица"
 msgstr ""
 
@@ -153,7 +153,7 @@ msgstr ""
 msgid "улица 8 Марта"
 msgstr ""
 
-# Objects : [w203010200]
+# Objects : [w97406638]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"
 msgstr ""
@@ -218,6 +218,11 @@ msgstr ""
 msgid "улица Маяковского"
 msgstr ""
 
+# Objects : [w332503115]
+# name:be: [вуліца Навагрудская]
+msgid "улица Новогрудская"
+msgstr ""
+
 # Objects : [w98431372]
 # name:be: [вуліца Перамогі]
 msgid "улица Победы"
@@ -253,13 +258,13 @@ msgstr ""
 msgid "Цветочная улица"
 msgstr ""
 
-# Objects : [w97406670]
+# Objects : [w332507145, w97406670]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
 msgstr ""
 
 # Objects : [w97406669]
-# name:be: []
+# name:be: [Школьны завулак]
 msgid "Школьный переулок"
 msgstr ""
 

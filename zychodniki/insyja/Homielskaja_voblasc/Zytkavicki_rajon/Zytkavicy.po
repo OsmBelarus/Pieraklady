@@ -1,3 +1,8 @@
+# Objects : [n3392176903]
+# name:be: []
+msgid ""Дом охотника и рыболова" Межеевского"
+msgstr ""
+
 # Objects : [n621163477]
 # name:be: []
 msgid "Беларусьбанк"
@@ -76,5 +81,10 @@ msgstr ""
 # Objects : [n907669954]
 # name:be: [РАУС]
 msgid "РОВД"
+msgstr ""
+
+# Objects : [w238981529]
+# name:be: []
+msgid "Школа №3"
 msgstr ""
 

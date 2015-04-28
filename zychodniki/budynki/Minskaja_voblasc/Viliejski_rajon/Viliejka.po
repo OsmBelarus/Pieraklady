@@ -48,11 +48,6 @@ msgstr ""
 msgid "Дом Быта"
 msgstr ""
 
-# Objects : [w54570354]
-# name:be: [Чыгуначны вакзал]
-msgid "Железнодорожный вокзал"
-msgstr ""
-
 # Objects : [w314976012]
 # name:be: []
 msgid "ЖКХ"

@@ -1,6 +1,6 @@
-# Objects : [r183639]
-# name:be: [Гімназія №4]
-msgid "Гимназия №4"
+# Objects : [r4829703]
+# name:be: [Гімназія № 4]
+msgid "Гимназия № 4"
 msgstr ""
 
 # Objects : [w38318339]
@@ -8,23 +8,23 @@ msgstr ""
 msgid "Средняя школа №1"
 msgstr ""
 
-# Objects : [w38237729]
-# name:be: []
-msgid "Средняя школа №2"
+# Objects : [w340375284]
+# name:be: [Школа № 2]
+msgid "Школа № 2"
 msgstr ""
 
-# Objects : [w38318005]
-# name:be: [Сярэдняя школа №3]
-msgid "Средняя школа №3"
+# Objects : [w340370346]
+# name:be: [Школа № 3]
+msgid "Школа № 3"
 msgstr ""
 
-# Objects : [r176496]
-# name:be: []
-msgid "Средняя школа №5"
+# Objects : [w340213585]
+# name:be: [Школа № 5]
+msgid "Школа № 5"
 msgstr ""
 
-# Objects : [n2507541901]
-# name:be: []
-msgid "СШ-7"
+# Objects : [w340213586]
+# name:be: [Школа № 7]
+msgid "Школа № 7"
 msgstr ""
 

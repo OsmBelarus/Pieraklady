@@ -1,4 +1,4 @@
-# Objects : [w263783501]
+# Objects : [n3444348111, n3444348112, w263783501]
 # name:be: []
 msgid "Детский сад"
 msgstr ""
@@ -16,11 +16,6 @@ msgstr ""
 # Objects : [n2354921560]
 # name:be: []
 msgid "Детский сад д.Проскурни"
-msgstr ""
-
-# Objects : [n3004580853]
-# name:be: []
-msgid "Детский сад д.Ректа"
 msgstr ""
 
 # Objects : [n2715271865]

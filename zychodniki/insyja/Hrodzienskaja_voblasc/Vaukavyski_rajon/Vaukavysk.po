@@ -254,8 +254,8 @@ msgid "Замчище"
 msgstr ""
 
 # Objects : [w160958767]
-# name:be: []
-msgid "Исправительная колония №11"
+# name:be: [Папраўчая калонія № 11]
+msgid "Исправительная колония № 11"
 msgstr ""
 
 # Objects : [n2076131870]
@@ -658,11 +658,6 @@ msgstr ""
 msgid "Хлебозавод"
 msgstr ""
 
-# Objects : [n2059096236]
-# name:be: []
-msgid "Центральная районная больница"
-msgstr ""
-
 # Objects : [n1792391768, n2087420849]
 # name:be: []
 msgid "Центральный рынок"
@@ -678,18 +673,8 @@ msgstr ""
 msgid "Цех керамики"
 msgstr ""
 
-# Objects : [w192253206]
-# name:be: []
-msgid "ЦТП"
-msgstr ""
-
 # Objects : [w193513579]
 # name:be: [Шведская гара]
 msgid "Шведская гора"
-msgstr ""
-
-# Objects : [w264723977]
-# name:be: []
-msgid "ШРП"
 msgstr ""
 

@@ -63,12 +63,12 @@ msgstr ""
 msgid "Аэропорт-6"
 msgstr ""
 
-# Objects : [n306067023, n306067304]
+# Objects : [n306067304]
 # name:be: [Бальніца]
 msgid "Больница"
 msgstr ""
 
-# Objects : [n3114538253]
+# Objects : [n3114538253, n3404343529]
 # name:be: [Барысаў камень]
 msgid "Борисов камень"
 msgstr ""
@@ -418,6 +418,11 @@ msgstr ""
 msgid "Общежитие"
 msgstr ""
 
+# Objects : [w42065977]
+# name:be: []
+msgid "Общежитие №5"
+msgstr ""
+
 # Objects : [n3133892057]
 # name:be: []
 msgid "Онкологический диспансер"
@@ -496,6 +501,11 @@ msgstr ""
 # Objects : [n119298123, n1366339029]
 # name:be: [Полацк]
 msgid "Полоцк"
+msgstr ""
+
+# Objects : [w334184022]
+# name:be: []
+msgid "Полоцкая городская больница №1"
 msgstr ""
 
 # Objects : [w164049478]
@@ -614,7 +624,7 @@ msgid "Связной"
 msgstr ""
 
 # Objects : [n3155946675]
-# name:be: []
+# name:be: [Сімяон Полацкі]
 msgid "Симеон Полоцкий"
 msgstr ""
 
@@ -631,6 +641,11 @@ msgstr ""
 # Objects : [n2188345660]
 # name:be: [Спартзала]
 msgid "Спортзал"
+msgstr ""
+
+# Objects : [n3400289750]
+# name:be: []
+msgid "Столовая Славянская"
 msgstr ""
 
 # Objects : [n1706262506]
@@ -651,6 +666,11 @@ msgstr ""
 # Objects : [w294601795]
 # name:be: []
 msgid "Строительство кладбища "Восточное" и комплекса оказания ритуальных услуг"
+msgstr ""
+
+# Objects : [w338104381]
+# name:be: []
+msgid "Строительство сервиса автообслуживания"
 msgstr ""
 
 # Objects : [w245467942]
@@ -783,6 +803,11 @@ msgstr ""
 msgid "Часовня"
 msgstr ""
 
+# Objects : [w25180787]
+# name:be: []
+msgid "Черепки"
+msgstr ""
+
 # Objects : [n3155875101]
 # name:be: []
 msgid "школяр с часами"
@@ -798,8 +823,8 @@ msgstr ""
 msgid "Ю. В. Тарич"
 msgstr ""
 
-# Objects : [n3103381881]
-# name:be: [Южная]
-msgid "Южная"
+# Objects : [w42065991]
+# name:be: []
+msgid "Ясли-сад №30"
 msgstr ""
 

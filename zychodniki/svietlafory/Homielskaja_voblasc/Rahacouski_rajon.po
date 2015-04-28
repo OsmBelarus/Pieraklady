@@ -8,6 +8,11 @@ msgstr ""
 msgid "Заболотье"
 msgstr ""
 
+# Objects : [n2386805163, n2386805171]
+# name:be: []
+msgid "Звонец"
+msgstr ""
+
 # Objects : [n2760097455]
 # name:be: []
 msgid "Остановка Лучин"

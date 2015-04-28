@@ -43,6 +43,11 @@ msgstr ""
 msgid "Дачные участки"
 msgstr ""
 
+# Objects : [w192978293, w98590943]
+# name:be: []
+msgid "Детсад №2"
+msgstr ""
+
 # Objects : [n3083303028]
 # name:be: []
 msgid "ДИСКО-БАР"
@@ -51,6 +56,11 @@ msgstr ""
 # Objects : [w188678599]
 # name:be: []
 msgid "Здание гаражей"
+msgstr ""
+
+# Objects : [w98590948]
+# name:be: []
+msgid "Исполком"
 msgstr ""
 
 # Objects : [w188622588]

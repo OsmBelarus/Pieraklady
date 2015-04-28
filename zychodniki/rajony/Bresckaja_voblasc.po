@@ -1,3 +1,8 @@
+# Objects : [r3629362]
+# name:be: [Баранавічы]
+msgid "Барановичи"
+msgstr ""
+
 # Objects : [r71116]
 # name:be: [Баранавіцкі раён]
 msgid "Барановичский район"
@@ -6,6 +11,11 @@ msgstr ""
 # Objects : [r71107]
 # name:be: [Бярозаўскі раён]
 msgid "Берёзовский район"
+msgstr ""
+
+# Objects : [r72615]
+# name:be: [Брэст]
+msgid "Брест"
 msgstr ""
 
 # Objects : [r59188]
@@ -106,6 +116,11 @@ msgstr ""
 # Objects : [r70749]
 # name:be: [Навагрудскі раён]
 msgid "Новогрудский район"
+msgstr ""
+
+# Objects : [r1749248]
+# name:be: [Пінск]
+msgid "Пинск"
 msgstr ""
 
 # Objects : [r71119]

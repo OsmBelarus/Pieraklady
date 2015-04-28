@@ -33,6 +33,11 @@ msgstr ""
 msgid "дом механизатора"
 msgstr ""
 
+# Objects : [w213443238]
+# name:be: []
+msgid "КЗСК-30Г"
+msgstr ""
+
 # Objects : [w210966461]
 # name:be: []
 msgid "ККП"
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [w211585230]
 # name:be: []
 msgid "МЧС"
+msgstr ""
+
+# Objects : [w328970292]
+# name:be: []
+msgid "н/ж"
 msgstr ""
 
 # Objects : [w217636750]

@@ -8,9 +8,19 @@ msgstr ""
 msgid "Белпочта"
 msgstr ""
 
+# Objects : [w272996586]
+# name:be: []
+msgid "Белтелеком"
+msgstr ""
+
 # Objects : [n455936313]
 # name:be: [Паштамт]
 msgid "Главпочтампт"
+msgstr ""
+
+# Objects : [w158839879]
+# name:be: []
+msgid "Городское отделение связи №37"
 msgstr ""
 
 # Objects : [n455929264]

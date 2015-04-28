@@ -78,6 +78,11 @@ msgstr ""
 msgid "дачи 'керамин'"
 msgstr ""
 
+# Objects : [w335772807]
+# name:be: []
+msgid "Дашава-Минск"
+msgstr ""
+
 # Objects : [w295689304]
 # name:be: []
 msgid "Еврейское кладбище"
@@ -91,6 +96,11 @@ msgstr ""
 # Objects : [n612431532]
 # name:be: []
 msgid "ЗАХОРОНЕНИЕ ЕВРЕЕВ"
+msgstr ""
+
+# Objects : [w340286925]
+# name:be: []
+msgid "Импульс-Садовод"
 msgstr ""
 
 # Objects : [n2788680810, n2788680878]
@@ -113,7 +123,7 @@ msgstr ""
 msgid "Колесная"
 msgstr ""
 
-# Objects : [n2111908925]
+# Objects : [n2111908925, n3441061202, n3441061203]
 # name:be: [Коласава]
 msgid "Колосово"
 msgstr ""
@@ -141,6 +151,11 @@ msgstr ""
 # Objects : [n242996546, n2766728126, w25136088, w25198867]
 # name:be: [Кромань]
 msgid "Кромань"
+msgstr ""
+
+# Objects : [n3441063240, n3441063241]
+# name:be: [Кучкуны]
+msgid "Кучкуны"
 msgstr ""
 
 # Objects : [n1918879343]
@@ -203,6 +218,11 @@ msgstr ""
 msgid "Носали"
 msgstr ""
 
+# Objects : [n3441026029, n3441026030, w221136633]
+# name:be: [Атцэда]
+msgid "Отцеда"
+msgstr ""
+
 # Objects : [n1467397748]
 # name:be: []
 msgid "Панскi маёнтак Сула"
@@ -261,6 +281,11 @@ msgstr ""
 # Objects : [w48183322]
 # name:be: []
 msgid "Синяво"
+msgstr ""
+
+# Objects : [w201229911]
+# name:be: []
+msgid "станция "Колосово""
 msgstr ""
 
 # Objects : [w48183288]

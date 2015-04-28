@@ -38,7 +38,12 @@ msgstr ""
 msgid "Клуб"
 msgstr ""
 
-# Objects : [w243086838]
+# Objects : [w337766421]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w243086838, w337766431]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [n1559039309, n1560639973]
 # name:be: []
 msgid "Усадебный дом"
+msgstr ""
+
+# Objects : [w337767215]
+# name:be: []
+msgid "ФАП"
 msgstr ""
 
 # Objects : [n1551977540]

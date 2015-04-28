@@ -8,9 +8,9 @@ msgstr ""
 msgid "św. Jana Chrzciciela"
 msgstr ""
 
-# Objects : [n306065067]
-# name:be: []
-msgid "Костел"
+# Objects : [n2788681726]
+# name:be: [Касцёл Провіду Божага]
+msgid "Костел Божьего Провидения"
 msgstr ""
 
 # Objects : [n746920958]
@@ -31,6 +31,11 @@ msgstr ""
 # Objects : [n1866875301]
 # name:be: []
 msgid "Церковь Благовещения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306065067]
+# name:be: [Касцёл Божага Цела]
+msgid "Церковь Божьего Тела"
 msgstr ""
 
 # Objects : [w96741279, w96741563, w96741710]

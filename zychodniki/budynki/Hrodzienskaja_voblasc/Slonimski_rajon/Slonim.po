@@ -1,3 +1,8 @@
+# Objects : [w277865302]
+# name:be: []
+msgid "АБК "Зодчий""
+msgstr ""
+
 # Objects : [w252100468]
 # name:be: []
 msgid "Алми"
@@ -11,6 +16,11 @@ msgstr ""
 # Objects : [w98708358]
 # name:be: []
 msgid "Базар м-н"
+msgstr ""
+
+# Objects : [w332262655]
+# name:be: []
+msgid "баня"
 msgstr ""
 
 # Objects : [w308755933]
@@ -143,6 +153,11 @@ msgstr ""
 msgid "Слонимский райисполком"
 msgstr ""
 
+# Objects : [w332257244]
+# name:be: []
+msgid "СПМК-64"
+msgstr ""
+
 # Objects : [w98990076]
 # name:be: []
 msgid "Суд Слонимского района"
@@ -161,5 +176,10 @@ msgstr ""
 # Objects : [w297865365, w297865366, w297893989, w297893990]
 # name:be: []
 msgid "ЦТП"
+msgstr ""
+
+# Objects : [w277865301]
+# name:be: []
+msgid "Южная улица"
 msgstr ""
 

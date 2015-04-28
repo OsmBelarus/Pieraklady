@@ -28,6 +28,11 @@ msgstr ""
 msgid "Брама-колокольня церкви св. Николая"
 msgstr ""
 
+# Objects : [w329615497]
+# name:be: []
+msgid "бывший "колхозный сад""
+msgstr ""
+
 # Objects : [w287216849]
 # name:be: []
 msgid "Быстрицкая школа"
@@ -96,6 +101,11 @@ msgstr ""
 # Objects : [w297506254]
 # name:be: []
 msgid "Калдыбаны"
+msgstr ""
+
+# Objects : [w251883874]
+# name:be: []
+msgid "Кладбище (д.Перевоз)"
 msgstr ""
 
 # Objects : [n2788680766]
@@ -233,6 +243,11 @@ msgstr ""
 msgid "Пивоварня"
 msgstr ""
 
+# Objects : [w332543202]
+# name:be: []
+msgid "Пляж"
+msgstr ""
+
 # Objects : [w25193556]
 # name:be: []
 msgid "Поля Фильтрации"
@@ -251,6 +266,11 @@ msgstr ""
 # Objects : [n2788683625]
 # name:be: [Прысядзібны парк (рэшткі)]
 msgid "Приусадебный парк (остатки)"
+msgstr ""
+
+# Objects : [w332392291]
+# name:be: []
+msgid "Развалины усадьбы Наднеман"
 msgstr ""
 
 # Objects : [w273456963]

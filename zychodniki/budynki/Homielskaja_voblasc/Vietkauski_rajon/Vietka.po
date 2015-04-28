@@ -83,6 +83,11 @@ msgstr ""
 msgid "Киновидеосеть"
 msgstr ""
 
+# Objects : [w327964293]
+# name:be: []
+msgid "КТП"
+msgstr ""
+
 # Objects : [w249883430]
 # name:be: []
 msgid "магазин"

@@ -48,7 +48,7 @@ msgstr ""
 msgid "Базыли"
 msgstr ""
 
-# Objects : [n2092485780, w199231695, w199231696]
+# Objects : [n2092485780, r4816777]
 # name:be: [Бакалярышкі]
 msgid "Бакаляришки"
 msgstr ""
@@ -138,9 +138,14 @@ msgstr ""
 msgid "Больтиники"
 msgstr ""
 
-# Objects : [n2092753447, w25141653, w25141672]
+# Objects : [n2092753447, r4816778]
 # name:be: [Больцішкі]
 msgid "Больтишки"
+msgstr ""
+
+# Objects : [n242991243, w25140121]
+# name:be: [Вялікія Лепі]
+msgid "Большие Лепи"
 msgstr ""
 
 # Objects : [n242988926, n242988995, w25140808, w25140873]
@@ -148,7 +153,7 @@ msgstr ""
 msgid "Бояры"
 msgstr ""
 
-# Objects : [n2088206842, w25140129, w25140790]
+# Objects : [n2088206842, r4816779]
 # name:be: [Бражэльцы]
 msgid "Бражельцы"
 msgstr ""
@@ -183,12 +188,7 @@ msgstr ""
 msgid "Вашкели"
 msgstr ""
 
-# Objects : [n242991243, w25140121]
-# name:be: [Вялікія Лепі]
-msgid "Великие Лепи"
-msgstr ""
-
-# Objects : [n2730226572, w203968629, w203968633, w203968645, w203968647, w267588663]
+# Objects : [n2730226572, r4816781]
 # name:be: [Верхняя Ваверка]
 msgid "Верхняя Ваверка"
 msgstr ""
@@ -243,11 +243,6 @@ msgstr ""
 msgid "Вороновка"
 msgstr ""
 
-# Objects : [n2271196832]
-# name:be: [Воранава]
-msgid "Вороново"
-msgstr ""
-
 # Objects : [n242991227, w25140128]
 # name:be: [Гайцюнішкі]
 msgid "Гайтюнишки"
@@ -273,7 +268,7 @@ msgstr ""
 msgid "Гирки"
 msgstr ""
 
-# Objects : [n242988147, w25140840, w25141572]
+# Objects : [n242988147, r4816782]
 # name:be: [Гольманцішкі]
 msgid "Гольмантишки"
 msgstr ""

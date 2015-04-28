@@ -13,11 +13,6 @@ msgstr ""
 msgid "АВМ"
 msgstr ""
 
-# Objects : [n1537088695]
-# name:be: [Аўтамыйня]
-msgid "Автомойка"
-msgstr ""
-
 # Objects : [w102277248]
 # name:be: []
 msgid "Автосервис у Маевского"
@@ -43,7 +38,7 @@ msgstr ""
 msgid "Банно-прачечный комбинат"
 msgstr ""
 
-# Objects : [w285878506, w68389845]
+# Objects : [w285878506, w288142167, w68389845]
 # name:be: [Лазня]
 msgid "Баня"
 msgstr ""
@@ -51,11 +46,6 @@ msgstr ""
 # Objects : [w285189073]
 # name:be: []
 msgid "баня котельная"
-msgstr ""
-
-# Objects : [w207874820]
-# name:be: []
-msgid "Бассейн"
 msgstr ""
 
 # Objects : [w126521279]
@@ -83,9 +73,19 @@ msgstr ""
 msgid "Бытовые помещения"
 msgstr ""
 
+# Objects : [w208866100]
+# name:be: []
+msgid "Выканкам"
+msgstr ""
+
 # Objects : [w103106830]
 # name:be: [ДАІ]
 msgid "ГАИ"
+msgstr ""
+
+# Objects : [w74355324]
+# name:be: []
+msgid "Гандлёвы центр"
 msgstr ""
 
 # Objects : [w68389941]
@@ -98,29 +98,34 @@ msgstr ""
 msgid "ДДЮиТ"
 msgstr ""
 
+# Objects : [w338650242]
+# name:be: []
+msgid "Дельфин"
+msgstr ""
+
 # Objects : [w285189074]
 # name:be: []
 msgid "дет.сад"
 msgstr ""
 
-# Objects : [w248858478]
+# Objects : [w338806287]
 # name:be: []
-msgid "Детская"
+msgid "Детская библиотека"
+msgstr ""
+
+# Objects : [w68578689]
+# name:be: []
+msgid "детская поликлиника"
+msgstr ""
+
+# Objects : [w129401422]
+# name:be: []
+msgid "Детский мир"
 msgstr ""
 
 # Objects : [w285873703, w32049125]
 # name:be: []
 msgid "детский сад"
-msgstr ""
-
-# Objects : [w129401423, w293278856]
-# name:be: []
-msgid "Детский сад"
-msgstr ""
-
-# Objects : [w192688465]
-# name:be: []
-msgid "Детский сад №13"
 msgstr ""
 
 # Objects : [w68578670]
@@ -133,6 +138,11 @@ msgstr ""
 msgid "Детский сад №25"
 msgstr ""
 
+# Objects : [w333970529, w333970530]
+# name:be: []
+msgid "Дзіцячы садок №"
+msgstr ""
+
 # Objects : [w290571405]
 # name:be: []
 msgid "Дзіцячы садок № 22"
@@ -141,11 +151,6 @@ msgstr ""
 # Objects : [w68578631]
 # name:be: []
 msgid "Дом быта"
-msgstr ""
-
-# Objects : [w103108173]
-# name:be: []
-msgid "Дом Быта на М-Оне №2"
 msgstr ""
 
 # Objects : [w290154331]
@@ -188,14 +193,19 @@ msgstr ""
 msgid "Камелия"
 msgstr ""
 
-# Objects : [w103132236]
+# Objects : [w336047550]
 # name:be: []
-msgid "кинотеатр Юность"
+msgid "КЖУП Светочь"
 msgstr ""
 
 # Objects : [w282047296, w284610237]
 # name:be: []
 msgid "клуб"
+msgstr ""
+
+# Objects : [w338317264]
+# name:be: []
+msgid "КН"
 msgstr ""
 
 # Objects : [w288207006]
@@ -233,7 +243,7 @@ msgstr ""
 msgid "Крама"
 msgstr ""
 
-# Objects : [w277679273, w281758138]
+# Objects : [w277679273, w281512086, w281758138]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -246,6 +256,11 @@ msgstr ""
 # Objects : [w126521249, w207879400]
 # name:be: []
 msgid "Мебель"
+msgstr ""
+
+# Objects : [w303952976]
+# name:be: []
+msgid "Меридиан"
 msgstr ""
 
 # Objects : [w207886325]
@@ -261,11 +276,6 @@ msgstr ""
 # Objects : [w208866034]
 # name:be: []
 msgid "Отдел внутренних дел"
-msgstr ""
-
-# Objects : [w137835340]
-# name:be: []
-msgid "Пассаж"
 msgstr ""
 
 # Objects : [w209164446]
@@ -313,6 +323,21 @@ msgstr ""
 msgid "Родная сторона"
 msgstr ""
 
+# Objects : [w206682888]
+# name:be: []
+msgid "Рунь"
+msgstr ""
+
+# Objects : [w192698513]
+# name:be: []
+msgid "Светлогорск"
+msgstr ""
+
+# Objects : [w303952980]
+# name:be: []
+msgid "Светлогорск-на-березине"
+msgstr ""
+
 # Objects : [w206515695]
 # name:be: []
 msgid "Светлогорское РАЙПО"
@@ -328,9 +353,9 @@ msgstr ""
 msgid "Серебряные ключи"
 msgstr ""
 
-# Objects : [w209731045]
+# Objects : [w206415744]
 # name:be: []
-msgid "Склад полиэфирной нити"
+msgid "Силан"
 msgstr ""
 
 # Objects : [w248857986]
@@ -363,11 +388,6 @@ msgstr ""
 msgid "Сундучок"
 msgstr ""
 
-# Objects : [w74355324]
-# name:be: []
-msgid "Тарговы цэнтр"
-msgstr ""
-
 # Objects : [w290154339]
 # name:be: []
 msgid "Телятник"
@@ -378,7 +398,7 @@ msgstr ""
 msgid "Тенисный корт"
 msgstr ""
 
-# Objects : [w246678151, w246678152]
+# Objects : [w246678152]
 # name:be: []
 msgid "ТП; ЦТП"
 msgstr ""
@@ -423,7 +443,7 @@ msgstr ""
 msgid "ЦТП"
 msgstr ""
 
-# Objects : [w289611347]
+# Objects : [w289611347, w338851013]
 # name:be: []
 msgid "ШРП"
 msgstr ""

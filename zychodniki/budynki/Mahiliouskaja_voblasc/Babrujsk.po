@@ -25,7 +25,7 @@ msgstr ""
 
 # Objects : [w283795906]
 # name:be: []
-msgid "MartInn"
+msgid "Mart Inn"
 msgstr ""
 
 # Objects : [w210007133]
@@ -68,14 +68,14 @@ msgstr ""
 msgid "БГМТК"
 msgstr ""
 
+# Objects : [w306369375]
+# name:be: []
+msgid "БелНефтеСтрах"
+msgstr ""
+
 # Objects : [w316668344]
 # name:be: []
 msgid "Белсоюзпечать"
-msgstr ""
-
-# Objects : [w59533591]
-# name:be: []
-msgid "Березина"
 msgstr ""
 
 # Objects : [w223756250]
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Бобруйские теплосети"
 msgstr ""
 
-# Objects : [w206481227]
+# Objects : [w330167942]
 # name:be: []
 msgid "Бобруйское Троллейбусное Управление"
 msgstr ""
@@ -110,7 +110,12 @@ msgstr ""
 
 # Objects : [w205312457]
 # name:be: []
-msgid "городская детская больница"
+msgid "Городская детская больница"
+msgstr ""
+
+# Objects : [w283910833]
+# name:be: []
+msgid "Городской Исполнительный Комитет"
 msgstr ""
 
 # Objects : [w59533574]
@@ -143,12 +148,17 @@ msgstr ""
 msgid "диагностика"
 msgstr ""
 
+# Objects : [w280699165]
+# name:be: []
+msgid "Дом обуви"
+msgstr ""
+
 # Objects : [w43142233]
 # name:be: []
 msgid "Драмтеатр им. В.Дунина-Мартинкевича"
 msgstr ""
 
-# Objects : [w174787954]
+# Objects : [w174787954, w331341357]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -188,7 +198,17 @@ msgstr ""
 msgid "Кольцо"
 msgstr ""
 
-# Objects : [w205312355, w206226941, w88675319]
+# Objects : [w330540867]
+# name:be: []
+msgid "Лазурит"
+msgstr ""
+
+# Objects : [w205312355]
+# name:be: []
+msgid "Ларьки"
+msgstr ""
+
+# Objects : [w206226941, w88675319]
 # name:be: [Магазін]
 msgid "Магазин"
 msgstr ""
@@ -248,6 +268,11 @@ msgstr ""
 msgid "Общежитие №15 ОАО "Белшина""
 msgstr ""
 
+# Objects : [w205601668]
+# name:be: []
+msgid "ОМА"
+msgstr ""
+
 # Objects : [w204353236]
 # name:be: []
 msgid "ООО "Спецформация""
@@ -293,9 +318,9 @@ msgstr ""
 msgid "Представительство НОК Беларуси в г. Бобруйске"
 msgstr ""
 
-# Objects : [w204087288]
+# Objects : [w174391806]
 # name:be: []
-msgid "Пятёрочка"
+msgid "Прокуратура"
 msgstr ""
 
 # Objects : [w87502918]
@@ -303,9 +328,14 @@ msgstr ""
 msgid "Роддом"
 msgstr ""
 
-# Objects : [w175364738, w56724648, w56730744]
+# Objects : [w175364738, w330526419, w56724648, w56730744]
 # name:be: []
 msgid "Родная Сторона"
+msgstr ""
+
+# Objects : [w331486693]
+# name:be: []
+msgid "Рублевский"
 msgstr ""
 
 # Objects : [w205043426]
@@ -358,6 +388,11 @@ msgstr ""
 msgid "ТЕХАС"
 msgstr ""
 
+# Objects : [w204087288]
+# name:be: []
+msgid "Трёшка"
+msgstr ""
+
 # Objects : [w204353293]
 # name:be: []
 msgid "ТЦ "БАС""
@@ -376,6 +411,11 @@ msgstr ""
 # Objects : [w175359698]
 # name:be: []
 msgid "УКС, Архитектура"
+msgstr ""
+
+# Objects : [n2129405753]
+# name:be: []
+msgid "ФанДОК"
 msgstr ""
 
 # Objects : [w210205276]
@@ -408,9 +448,19 @@ msgstr ""
 msgid "Чайная лавка"
 msgstr ""
 
+# Objects : [w330119436]
+# name:be: [Шынамантаж]
+msgid "Шиномонтаж"
+msgstr ""
+
 # Objects : [w307529206]
 # name:be: []
 msgid "Эдан"
+msgstr ""
+
+# Objects : [w174570307]
+# name:be: []
+msgid "Элмаркет"
 msgstr ""
 
 # Objects : [w203584561]

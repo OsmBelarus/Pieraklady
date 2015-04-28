@@ -263,11 +263,6 @@ msgstr ""
 msgid "Поречье"
 msgstr ""
 
-# Objects : [n243027952, w25106394]
-# name:be: [Параслішча]
-msgid "Порослище"
-msgstr ""
-
 # Objects : [n243024388, w25107126]
 # name:be: [Пратасы]
 msgid "Протасы"
@@ -276,11 +271,6 @@ msgstr ""
 # Objects : [n243032753, w25106392]
 # name:be: [Пружынішчы]
 msgid "Пружинищи"
-msgstr ""
-
-# Objects : [n243024344, w25107138]
-# name:be: []
-msgid "Пухичин"
 msgstr ""
 
 # Objects : [n2783721552, w25108833, w273532097]

@@ -68,6 +68,11 @@ msgstr ""
 msgid "Железнодорожный переулок"
 msgstr ""
 
+# Objects : [w105322581, w222584436, w240730738]
+# name:be: []
+msgid "Заводская улица"
+msgstr ""
+
 # Objects : [w241553346, w74577305]
 # name:be: [Загарадная вуліца]
 msgid "Загородная улица"
@@ -148,6 +153,11 @@ msgstr ""
 msgid "Мелиоративная улица"
 msgstr ""
 
+# Objects : [w240726077]
+# name:be: []
+msgid "Молодёжная улица"
+msgstr ""
+
 # Objects : [w241136256, w241187507]
 # name:be: [Маставая вуліца]
 msgid "Мостовая улица"
@@ -176,6 +186,11 @@ msgstr ""
 # Objects : [w74619008, w74619009]
 # name:be: [Новы завулак]
 msgid "Новый переулок"
+msgstr ""
+
+# Objects : [w240732675]
+# name:be: []
+msgid "Овражный переулок"
 msgstr ""
 
 # Objects : [w74618988, w74618989]

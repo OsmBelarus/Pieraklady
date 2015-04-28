@@ -3,9 +3,29 @@
 msgid "АБК"
 msgstr ""
 
+# Objects : [w167862138]
+# name:be: []
+msgid "АПТЕКА"
+msgstr ""
+
+# Objects : [w338797393]
+# name:be: []
+msgid "ветряк"
+msgstr ""
+
 # Objects : [w160225142]
 # name:be: []
 msgid "ГРП №1"
+msgstr ""
+
+# Objects : [w338789713]
+# name:be: []
+msgid "диз-барьер"
+msgstr ""
+
+# Objects : [w331355984, w331355985, w331355986, w331355987]
+# name:be: []
+msgid "Дом милосердия"
 msgstr ""
 
 # Objects : [w158031116]
@@ -18,12 +38,17 @@ msgstr ""
 msgid "животноводческая ферма"
 msgstr ""
 
+# Objects : [w168806749]
+# name:be: []
+msgid "контора"
+msgstr ""
+
 # Objects : [w160225414]
 # name:be: []
 msgid "котельная "Пальминка""
 msgstr ""
 
-# Objects : [w161443269]
+# Objects : [w338770062]
 # name:be: []
 msgid "котельная КУСПХ "Северный""
 msgstr ""
@@ -31,6 +56,16 @@ msgstr ""
 # Objects : [w164673081]
 # name:be: []
 msgid "Сушилка "Лидарай" ОАО "Городокский РАПС""
+msgstr ""
+
+# Objects : [w338770160]
+# name:be: []
+msgid "сушилка КУСПХ "Северный""
+msgstr ""
+
+# Objects : [w305666506]
+# name:be: []
+msgid "ЦЕРКОВЬ"
 msgstr ""
 
 # Objects : [w164673082]

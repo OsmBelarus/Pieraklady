@@ -68,6 +68,11 @@ msgstr ""
 msgid "Болотники"
 msgstr ""
 
+# Objects : [n243038600, w25104287]
+# name:be: [Вялікія Ляжні]
+msgid "Большие Лежни"
+msgstr ""
+
 # Objects : [n243038481, w25104342]
 # name:be: [Бондарава]
 msgid "Бондарево"
@@ -121,11 +126,6 @@ msgstr ""
 # Objects : [n243038684, w25104247]
 # name:be: [Бываліна]
 msgid "Бывалино"
-msgstr ""
-
-# Objects : [n243038600, w25104287]
-# name:be: [Вялікія Ляжні]
-msgid "Великие Лежни"
 msgstr ""
 
 # Objects : [n243031525, w25104964]
@@ -329,13 +329,13 @@ msgid "Жмакино"
 msgstr ""
 
 # Objects : [n243026977, n243031646, n243038590, w25104285, w25105002, w25105787]
-# name:be: [Забар’е, Забор'е, Забор’е]
+# name:be: [Забор'е, Забор’е]
 msgid "Заборье"
 msgstr ""
 
 # Objects : [n2987142967, w295042346]
-# name:be: [Заводскі]
-msgid "Заводский"
+# name:be: [Завадскі]
+msgid "Заводской"
 msgstr ""
 
 # Objects : [n243040383, w25103522]
@@ -403,7 +403,7 @@ msgstr ""
 msgid "Заручевье"
 msgstr ""
 
-# Objects : [n243039786, w25103520]
+# Objects : [n243039786, w25103512]
 # name:be: [Засіннікі]
 msgid "Засинники"
 msgstr ""
@@ -603,6 +603,11 @@ msgstr ""
 msgid "Лобейки"
 msgstr ""
 
+# Objects : [n3359280608, w25104262]
+# name:be: []
+msgid "Ловша"
+msgstr ""
+
 # Objects : [n243040497, w25103531]
 # name:be: [Лажок]
 msgid "Ложок"
@@ -673,11 +678,6 @@ msgstr ""
 msgid "Мехи"
 msgstr ""
 
-# Objects : [n243026855, w25105807]
-# name:be: [Мікалаева]
-msgid "Миколаево"
-msgstr ""
-
 # Objects : [n243031649, w25104995]
 # name:be: [Міхалова]
 msgid "Михалово"
@@ -743,14 +743,19 @@ msgstr ""
 msgid "Никитиха"
 msgstr ""
 
-# Objects : [n243038765, w25104217]
-# name:be: [Новая Барсучына]
-msgid "Новая Барсучина"
+# Objects : [n243026855, w25105807]
+# name:be: [Мікалаева]
+msgid "Николаево"
 msgstr ""
 
 # Objects : [n243038496, w25104325]
 # name:be: [Навікі]
 msgid "Новики"
+msgstr ""
+
+# Objects : [n243038765, w25104217]
+# name:be: [Новая Барсучына]
+msgid "Новое Барсучино"
 msgstr ""
 
 # Objects : [n243038520, w25104315]
@@ -773,7 +778,7 @@ msgstr ""
 msgid "Оболонье"
 msgstr ""
 
-# Objects : [n126300072, w25105764]
+# Objects : [n3430745677, w25105764]
 # name:be: [Обаль]
 msgid "Оболь"
 msgstr ""
@@ -810,7 +815,7 @@ msgstr ""
 
 # Objects : [n243026573, w25105751]
 # name:be: [Пагіршчына]
-msgid "Погирщина"
+msgid "Погирщино"
 msgstr ""
 
 # Objects : [n1437220651, w130512544]
@@ -900,7 +905,7 @@ msgstr ""
 
 # Objects : [n243031522, w25104963]
 # name:be: [Расалай]
-msgid "Расолай"
+msgid "Рассолай"
 msgstr ""
 
 # Objects : [n243031508, w25104972]
@@ -915,7 +920,7 @@ msgstr ""
 
 # Objects : [n243039854, w25103536]
 # name:be: [Рускі]
-msgid "Руски"
+msgid "Русски"
 msgstr ""
 
 # Objects : [n243038754, w25104221]
@@ -953,9 +958,9 @@ msgstr ""
 msgid "Свердлы"
 msgstr ""
 
-# Objects : [n243039781, w238544577, w25103512]
-# name:be: [Светласельская, Светлосельская]
-msgid "Светлосельская"
+# Objects : [n243039781, w238544577]
+# name:be: []
+msgid "Светлосельский"
 msgstr ""
 
 # Objects : [n243034215, w25103505]
@@ -1028,7 +1033,7 @@ msgstr ""
 msgid "Спасское"
 msgstr ""
 
-# Objects : [n243038775, w25104202, w25104209]
+# Objects : [n243038775, r4677881]
 # name:be: [Ставіца]
 msgid "Ставица"
 msgstr ""
@@ -1130,7 +1135,7 @@ msgstr ""
 
 # Objects : [n243039789, w25103510]
 # name:be: [Філіпенкі]
-msgid "Филипенки"
+msgid "Филиппенки"
 msgstr ""
 
 # Objects : [n243031356, w25105031]
@@ -1141,6 +1146,11 @@ msgstr ""
 # Objects : [n243031358, w25105032]
 # name:be: [Харакова]
 msgid "Хароково"
+msgstr ""
+
+# Objects : [n243040427, w25103523]
+# name:be: [Хацілава]
+msgid "Хатилово"
 msgstr ""
 
 # Objects : [n2985688007, w294925029]
@@ -1156,11 +1166,6 @@ msgstr ""
 # Objects : [n243031538, w25104968]
 # name:be: [Ходараўка]
 msgid "Ходоровка"
-msgstr ""
-
-# Objects : [n243040427, w25103523]
-# name:be: [Хацілава]
-msgid "Хотилово"
 msgstr ""
 
 # Objects : [n243038783, w25104200]
@@ -1231,11 +1236,6 @@ msgstr ""
 # Objects : [n2987149064, w25105776]
 # name:be: [Шодзікі]
 msgid "Шодики"
-msgstr ""
-
-# Objects : [n132174058, w25104253]
-# name:be: [Шуміліна]
-msgid "Шумилино"
 msgstr ""
 
 # Objects : [n243038746, w25104224]

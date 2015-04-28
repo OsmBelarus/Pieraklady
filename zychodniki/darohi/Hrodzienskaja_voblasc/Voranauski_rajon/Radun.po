@@ -4,7 +4,7 @@ msgid "Вишнёвая улица"
 msgstr ""
 
 # Objects : [w324986942]
-# name:be: []
+# name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
 msgstr ""
 
@@ -29,7 +29,7 @@ msgid "Молодежная улица"
 msgstr ""
 
 # Objects : [w183472784]
-# name:be: []
+# name:be: [Моладзевы завулак]
 msgid "Молодежный переулок"
 msgstr ""
 
@@ -59,7 +59,7 @@ msgid "переулок 40 лет Победы"
 msgstr ""
 
 # Objects : [w147049017]
-# name:be: []
+# name:be: [завулак Яфрэмава]
 msgid "переулок Ефремова"
 msgstr ""
 
@@ -74,7 +74,7 @@ msgid "переулок Чапаева"
 msgstr ""
 
 # Objects : [w145140972]
-# name:be: []
+# name:be: [Садовая вуліца]
 msgid "Садовая улица"
 msgstr ""
 
@@ -104,7 +104,7 @@ msgid "улица Гагарина"
 msgstr ""
 
 # Objects : [w183472793]
-# name:be: []
+# name:be: [вуліца Дзяржынскага]
 msgid "улица Держинского"
 msgstr ""
 
@@ -139,7 +139,7 @@ msgid "улица Лозового"
 msgstr ""
 
 # Objects : [w182529123]
-# name:be: []
+# name:be: [вуліца Несцерава]
 msgid "улица Нестерова"
 msgstr ""
 

@@ -8,12 +8,17 @@ msgstr ""
 msgid "10"
 msgstr ""
 
+# Objects : [w241071739]
+# name:be: []
+msgid "1000 мелочкй"
+msgstr ""
+
 # Objects : [w304629882, w304646366, w308884990]
 # name:be: []
 msgid "10А"
 msgstr ""
 
-# Objects : [w171710433, w292803819, w304625211, w304629885, w304632275, w304634148, w304635067, w304646367, w307254729, w312884087]
+# Objects : [w171710433, w292803819, w304625211, w304629885, w304632275, w304634148, w304635067, w304646367, w307107973, w307254729, w312884087]
 # name:be: []
 msgid "11"
 msgstr ""
@@ -83,7 +88,12 @@ msgstr ""
 msgid "18"
 msgstr ""
 
-# Objects : [w292116378, w304625215, w304629893, w304632284, w304634156, w304635072, w304646371, w304650280]
+# Objects : [w304627162]
+# name:be: []
+msgid "18а"
+msgstr ""
+
+# Objects : [w292116352, w292116378, w304625215, w304629893, w304632284, w304634156, w304635072, w304646371, w304650280]
 # name:be: []
 msgid "19"
 msgstr ""
@@ -143,7 +153,7 @@ msgstr ""
 msgid "21 кв.2"
 msgstr ""
 
-# Objects : [w304627162, w304629901, w304632291, w304634159, w304646383]
+# Objects : [w304629901, w304632291, w304634159, w304646383, w306795167]
 # name:be: []
 msgid "22"
 msgstr ""
@@ -158,7 +168,7 @@ msgstr ""
 msgid "22А"
 msgstr ""
 
-# Objects : [w304625217, w304629903, w304632290, w304635082, w304646385]
+# Objects : [w292033296, w304625217, w304629903, w304632290, w304635082, w304646385]
 # name:be: []
 msgid "23"
 msgstr ""
@@ -198,11 +208,6 @@ msgstr ""
 msgid "27А"
 msgstr ""
 
-# Objects : [w248421572]
-# name:be: []
-msgid "27 а"
-msgstr ""
-
 # Objects : [w304627165, w304629908, w304632270, w304634162, w304646392]
 # name:be: []
 msgid "28"
@@ -211,6 +216,11 @@ msgstr ""
 # Objects : [w304625220, w304629909, w304632297, w304646393, w312178947]
 # name:be: []
 msgid "29"
+msgstr ""
+
+# Objects : [w337146696]
+# name:be: []
+msgid "29 Б"
 msgstr ""
 
 # Objects : [w304627160, w304634163]
@@ -421,6 +431,11 @@ msgstr ""
 # Objects : [w304625233, w304646418, w312178951]
 # name:be: []
 msgid "55"
+msgstr ""
+
+# Objects : [w320480145]
+# name:be: []
+msgid "55А"
 msgstr ""
 
 # Objects : [w304649215, w312178943]
@@ -688,14 +703,9 @@ msgstr ""
 msgid "Вечный огонь"
 msgstr ""
 
-# Objects : [w126135291]
+# Objects : [w339971397]
 # name:be: []
-msgid "Виталина"
-msgstr ""
-
-# Objects : [w238659150, w253776921]
-# name:be: []
-msgid "Водолей"
+msgid "Водозабор"
 msgstr ""
 
 # Objects : [w307847420]
@@ -718,11 +728,6 @@ msgstr ""
 msgid "ГРП №81"
 msgstr ""
 
-# Objects : [w128935099]
-# name:be: []
-msgid "ГРС-3"
-msgstr ""
-
 # Objects : [w125084857]
 # name:be: []
 msgid "Два тополя"
@@ -741,6 +746,11 @@ msgstr ""
 # Objects : [w128333710]
 # name:be: []
 msgid "Домовичек"
+msgstr ""
+
+# Objects : [w171236725]
+# name:be: []
+msgid "Дом офицеров"
 msgstr ""
 
 # Objects : [w124652878]
@@ -773,11 +783,6 @@ msgstr ""
 msgid "Ереминское ЖКХ"
 msgstr ""
 
-# Objects : [w275903919]
-# name:be: []
-msgid "Ипуть"
-msgstr ""
-
 # Objects : [w125084865]
 # name:be: []
 msgid "Каштан"
@@ -796,6 +801,11 @@ msgstr ""
 # Objects : [w263169017]
 # name:be: []
 msgid "кн"
+msgstr ""
+
+# Objects : [w238647837]
+# name:be: []
+msgid "КН мех.мастерская"
 msgstr ""
 
 # Objects : [w244919179]
@@ -818,11 +828,6 @@ msgstr ""
 msgid "контора наливного пункта"
 msgstr ""
 
-# Objects : [w125679052]
-# name:be: []
-msgid "Костюковка"
-msgstr ""
-
 # Objects : [w276674993, w301896904, w308007390]
 # name:be: []
 msgid "Котельная"
@@ -843,7 +848,7 @@ msgstr ""
 msgid "Котельня"
 msgstr ""
 
-# Objects : [w246296487]
+# Objects : [w246296487, w339971395]
 # name:be: []
 msgid "КПП"
 msgstr ""
@@ -893,11 +898,6 @@ msgstr ""
 msgid "Овощехранилище"
 msgstr ""
 
-# Objects : [w253564515, w253564516]
-# name:be: []
-msgid "очистные сооружения"
-msgstr ""
-
 # Objects : [w246755545]
 # name:be: []
 msgid "Покалюбичский водозабор"
@@ -908,7 +908,7 @@ msgstr ""
 msgid "Полевая"
 msgstr ""
 
-# Objects : [w246296490, w248443396]
+# Objects : [w246296490]
 # name:be: []
 msgid "Поликлиника"
 msgstr ""
@@ -916,11 +916,6 @@ msgstr ""
 # Objects : [w159194866]
 # name:be: []
 msgid "Поликлиника(амбулатория)"
-msgstr ""
-
-# Objects : [w313785697, w313785698, w313785699, w313785700, w313785701, w313785702, w313785703, w313785704]
-# name:be: []
-msgid "посёлок Янтарный"
 msgstr ""
 
 # Objects : [w95618095]
@@ -933,11 +928,6 @@ msgstr ""
 msgid "Приборское лесничество"
 msgstr ""
 
-# Objects : [w125679053]
-# name:be: []
-msgid "Продтовары"
-msgstr ""
-
 # Objects : [w95619274]
 # name:be: [Прадукты]
 msgid "Продукты"
@@ -946,6 +936,11 @@ msgstr ""
 # Objects : [w95618723]
 # name:be: []
 msgid "ПТУ-185"
+msgstr ""
+
+# Objects : [w241071738]
+# name:be: []
+msgid "Радар"
 msgstr ""
 
 # Objects : [w274104426]
@@ -1071,11 +1066,6 @@ msgstr ""
 # Objects : [w242202023]
 # name:be: []
 msgid "ШРП №118"
-msgstr ""
-
-# Objects : [w202844710]
-# name:be: []
-msgid "Щербовка"
 msgstr ""
 
 # Objects : [w125084877]

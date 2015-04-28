@@ -3,9 +3,9 @@
 msgid "3ТП-35"
 msgstr ""
 
-# Objects : [w278273012]
+# Objects : [w289718807]
 # name:be: []
-msgid "Автостанция"
+msgid "Аптека № 60"
 msgstr ""
 
 # Objects : [w289715366]
@@ -23,14 +23,19 @@ msgstr ""
 msgid "Библеотека"
 msgstr ""
 
-# Objects : [w288893531]
+# Objects : [w288893531, w289715368]
 # name:be: []
-msgid "БОЛЬНИЦА"
+msgid "Больница"
 msgstr ""
 
 # Objects : [w289715370]
 # name:be: []
 msgid "Больничная Столовая"
+msgstr ""
+
+# Objects : [w289715362]
+# name:be: []
+msgid "Валерия"
 msgstr ""
 
 # Objects : [w289715371]
@@ -88,12 +93,17 @@ msgstr ""
 msgid "Дворец Бракосочетаний"
 msgstr ""
 
+# Objects : [w289715375]
+# name:be: []
+msgid "Детская поликлиника"
+msgstr ""
+
 # Objects : [w273270440]
 # name:be: []
 msgid "Дом быта"
 msgstr ""
 
-# Objects : [n1575472901]
+# Objects : [w341126291]
 # name:be: [Дом-музей Адама Міцкевіча]
 msgid "Дом-музей Адама Мицкевича"
 msgstr ""
@@ -108,17 +118,27 @@ msgstr ""
 msgid "Интернат"
 msgstr ""
 
+# Objects : [w289715436]
+# name:be: []
+msgid "Инфекционное отделение"
+msgstr ""
+
 # Objects : [w289865469]
 # name:be: []
 msgid "Католический монастырь"
 msgstr ""
 
-# Objects : [w289991139]
+# Objects : [w289715437]
 # name:be: []
-msgid "Клуб"Октябрь""
+msgid "Кафе Молодёжное"
 msgstr ""
 
-# Objects : [w289519567, w289550740, w289715439, w297174061, w298784455, w299973655, w300197804]
+# Objects : [w289991139]
+# name:be: []
+msgid "Клуб «Октябрь»"
+msgstr ""
+
+# Objects : [w289519567, w289550740, w289715439, w297174061, w298784455, w299221127, w299973655, w300197804]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -126,11 +146,6 @@ msgstr ""
 # Objects : [w289694162]
 # name:be: []
 msgid "Магазин "Свитанок""
-msgstr ""
-
-# Objects : [w289550742]
-# name:be: []
-msgid "Муз.школа"
 msgstr ""
 
 # Objects : [w298794109]
@@ -143,7 +158,7 @@ msgstr ""
 msgid "Нота"
 msgstr ""
 
-# Objects : [w289718824, w297143748, w297747210]
+# Objects : [w297747210]
 # name:be: []
 msgid "Общежитие"
 msgstr ""
@@ -158,6 +173,16 @@ msgstr ""
 msgid "ПКП Косммерческое предприятие"Купалинка""
 msgstr ""
 
+# Objects : [w289715444]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w341126294]
+# name:be: [Райвыканкам]
+msgid "Райисполком"
+msgstr ""
+
 # Objects : [w297747211]
 # name:be: []
 msgid "Редакция"
@@ -165,17 +190,12 @@ msgstr ""
 
 # Objects : [w288893622]
 # name:be: []
-msgid "РОДДОМ"
+msgid "Роддом"
 msgstr ""
 
 # Objects : [w278273033]
 # name:be: []
 msgid "Родный кут"
-msgstr ""
-
-# Objects : [w289715445]
-# name:be: []
-msgid "Рынок"
 msgstr ""
 
 # Objects : [w297143749]

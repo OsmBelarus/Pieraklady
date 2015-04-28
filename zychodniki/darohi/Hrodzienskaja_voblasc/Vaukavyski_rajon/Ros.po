@@ -19,7 +19,7 @@ msgid "Западная улица"
 msgstr ""
 
 # Objects : [w69139646]
-# name:be: []
+# name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
 msgstr ""
 
@@ -34,33 +34,38 @@ msgid "Красноармейская улица"
 msgstr ""
 
 # Objects : [w69138547]
-# name:be: []
+# name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
 
 # Objects : [w313550762]
-# name:be: []
+# name:be: [Ліпавая вуліца]
 msgid "Липовая улица"
 msgstr ""
 
 # Objects : [w313683789]
-# name:be: []
+# name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"
 msgstr ""
 
 # Objects : [w69138411]
-# name:be: []
+# name:be: [Новая вуліца]
 msgid "Новая улица"
 msgstr ""
 
 # Objects : [w313524340, w313524341]
-# name:be: []
+# name:be: [Прывакзальная вуліца]
 msgid "Привокзальная улица"
 msgstr ""
 
 # Objects : [w327421852]
-# name:be: []
+# name:be: [Пралетарская вуліца]
 msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w243599362]
+# name:be: [Садовая вуліца]
+msgid "Садовая улица"
 msgstr ""
 
 # Objects : [w69139761]
@@ -69,18 +74,13 @@ msgid "Советская улица"
 msgstr ""
 
 # Objects : [w201735893, w69138907]
-# name:be: []
+# name:be: [Саўгасная вуліца]
 msgid "Совхозная улица"
 msgstr ""
 
 # Objects : [w69137745]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
-msgstr ""
-
-# Objects : [w243599362]
-# name:be: []
-msgid "ул. Садовая"
 msgstr ""
 
 # Objects : [w243599360]
@@ -114,12 +114,12 @@ msgid "улица Махонько"
 msgstr ""
 
 # Objects : [w69139177]
-# name:be: []
+# name:be: [вуліца Міру]
 msgid "улица Мира"
 msgstr ""
 
 # Objects : [w69138733]
-# name:be: []
+# name:be: [вуліца Суворава]
 msgid "улица Суворова"
 msgstr ""
 
@@ -129,7 +129,7 @@ msgid "улица Тиделя"
 msgstr ""
 
 # Objects : [w243625229]
-# name:be: []
+# name:be: [вуліца Цітова]
 msgid "улица Титова"
 msgstr ""
 

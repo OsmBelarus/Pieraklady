@@ -18,6 +18,11 @@ msgstr ""
 msgid "Ctok-city"
 msgstr ""
 
+# Objects : [w301571983]
+# name:be: []
+msgid "Mart Inn"
+msgstr ""
+
 # Objects : [w41160676]
 # name:be: [Аўтасэрвіс]
 msgid "Автосервис"
@@ -48,7 +53,12 @@ msgstr ""
 msgid "Базис № 7"
 msgstr ""
 
-# Objects : [w293818006, w41160670]
+# Objects : [w244903254]
+# name:be: []
+msgid "баня"
+msgstr ""
+
+# Objects : [w223516324, w293818006, w41160670]
 # name:be: [Лазня]
 msgid "Баня"
 msgstr ""
@@ -56,6 +66,11 @@ msgstr ""
 # Objects : [w152626043]
 # name:be: [Лазня]
 msgid "Баня 2-го разряда"
+msgstr ""
+
+# Objects : [w244858868]
+# name:be: []
+msgid "Бассейн"
 msgstr ""
 
 # Objects : [w41102189]
@@ -73,6 +88,11 @@ msgstr ""
 msgid "бассейн СШ № 4"
 msgstr ""
 
+# Objects : [w223513162]
+# name:be: []
+msgid "Библиотека"
+msgstr ""
+
 # Objects : [w172124104]
 # name:be: []
 msgid "Бизнес - центр"
@@ -81,6 +101,11 @@ msgstr ""
 # Objects : [w122421552]
 # name:be: [Бізнес-цэнтр «Любава»]
 msgid "Бизнес-центр "Любава""
+msgstr ""
+
+# Objects : [w211223938]
+# name:be: []
+msgid "Вокзал"
 msgstr ""
 
 # Objects : [w41088681]
@@ -123,9 +148,19 @@ msgstr ""
 msgid "Дворец детей и молодежи"
 msgstr ""
 
+# Objects : [w223516327]
+# name:be: []
+msgid "Дворец культуры"
+msgstr ""
+
 # Objects : [r301544]
 # name:be: [Палац культуры нафтавікоў]
 msgid "Дворец культуры нефтяников"
+msgstr ""
+
+# Objects : [w223516329]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [w174929355, w301571984, w38059903]
@@ -148,8 +183,8 @@ msgstr ""
 msgid "Дом торговли"
 msgstr ""
 
-# Objects : [w38076050]
-# name:be: []
+# Objects : [w243917713, w38076050]
+# name:be: [Еураопт]
 msgid "Евроопт"
 msgstr ""
 
@@ -186,6 +221,11 @@ msgstr ""
 # Objects : [w93376343]
 # name:be: [Калабок]
 msgid "Колобок"
+msgstr ""
+
+# Objects : [w254045150, w254588245]
+# name:be: []
+msgid "КПП"
 msgstr ""
 
 # Objects : [w38076009]
@@ -488,8 +528,8 @@ msgstr ""
 msgid "Шиномонтаж"
 msgstr ""
 
-# Objects : [w243917713]
-# name:be: [Эканом]
-msgid "Эконом"
+# Objects : [w223510988]
+# name:be: []
+msgid "Эконом №13"
 msgstr ""
 

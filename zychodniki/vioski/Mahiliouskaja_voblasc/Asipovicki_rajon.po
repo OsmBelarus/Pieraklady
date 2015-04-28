@@ -23,6 +23,11 @@ msgstr ""
 msgid "Бозок"
 msgstr ""
 
+# Objects : [n243025529, w25108058]
+# name:be: [Вялікая Гарожа]
+msgid "Большая Горожа"
+msgstr ""
+
 # Objects : [n243025589, w25108072]
 # name:be: [Барок]
 msgid "Борок"
@@ -51,11 +56,6 @@ msgstr ""
 # Objects : [n243025532, w25108055]
 # name:be: [Булгары]
 msgid "Булгары"
-msgstr ""
-
-# Objects : [n243025529, w25108058]
-# name:be: [Вялікая Гарожа]
-msgid "Великая Горожа"
 msgstr ""
 
 # Objects : [n243022377, w25110111]
@@ -135,7 +135,7 @@ msgstr ""
 
 # Objects : [n243025809, w25108009]
 # name:be: [Градзянец]
-msgid "Гроденец"
+msgid "Гродзянец"
 msgstr ""
 
 # Objects : [n242979070, w25108014]
@@ -385,7 +385,7 @@ msgstr ""
 
 # Objects : [n243022387, w25110124]
 # name:be: [Леніна]
-msgid "Ленино"
+msgid "Ленина"
 msgstr ""
 
 # Objects : [n243025552, w270172468]

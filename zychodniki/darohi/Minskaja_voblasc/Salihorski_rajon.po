@@ -50,7 +50,7 @@ msgstr ""
 
 # Objects : [w39476685]
 # name:be: []
-msgid "Майская"
+msgid "Майская улица"
 msgstr ""
 
 # Objects : [w39476855]
@@ -213,7 +213,7 @@ msgstr ""
 msgid "Чуклая"
 msgstr ""
 
-# Objects : [w274268989]
+# Objects : [w274268989, w333205352, w333205356]
 # name:be: []
 msgid "Шашлычная"
 msgstr ""

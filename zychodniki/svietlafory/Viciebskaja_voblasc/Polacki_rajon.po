@@ -3,16 +3,6 @@
 msgid "Вишнево"
 msgstr ""
 
-# Objects : [n2324087160, n2324087164]
-# name:be: []
-msgid "Городок"
-msgstr ""
-
-# Objects : [n2521292872, n2823444870]
-# name:be: []
-msgid "Дом офицеров"
-msgstr ""
-
 # Objects : [n2213082957, n502703231]
 # name:be: [Залессе]
 msgid "Залесье"
@@ -31,11 +21,6 @@ msgstr ""
 # Objects : [n1780252984]
 # name:be: []
 msgid "Святица"
-msgstr ""
-
-# Objects : [n2521292878, n2521292883]
-# name:be: []
-msgid "Сельпо"
 msgstr ""
 
 # Objects : [n1215294967, n1215294977]

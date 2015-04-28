@@ -13,7 +13,7 @@ msgstr ""
 msgid ""У фонтана""
 msgstr ""
 
-# Objects : [n2338651553]
+# Objects : [n2338651553, n2622427284]
 # name:be: []
 msgid "Жираф"
 msgstr ""
@@ -21,6 +21,16 @@ msgstr ""
 # Objects : [n2650602730]
 # name:be: []
 msgid "калибри"
+msgstr ""
+
+# Objects : [n3103680231]
+# name:be: []
+msgid "Лованда"
+msgstr ""
+
+# Objects : [w312734392]
+# name:be: []
+msgid "ПитСтоп"
 msgstr ""
 
 # Objects : [n2622424272]

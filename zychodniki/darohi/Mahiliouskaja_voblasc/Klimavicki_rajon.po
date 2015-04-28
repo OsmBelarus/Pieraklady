@@ -138,11 +138,6 @@ msgstr ""
 msgid "Трудовой переулок"
 msgstr ""
 
-# Objects : [w210930443]
-# name:be: []
-msgid "ул.Переселенцев"
-msgstr ""
-
 # Objects : [w208683303]
 # name:be: [вуліца Волкава]
 msgid "улица Волкова"
@@ -156,6 +151,11 @@ msgstr ""
 # Objects : [w218422898]
 # name:be: []
 msgid "улица Магона"
+msgstr ""
+
+# Objects : [w210930443]
+# name:be: []
+msgid "улица Переселенцев"
 msgstr ""
 
 # Objects : [w206068917]

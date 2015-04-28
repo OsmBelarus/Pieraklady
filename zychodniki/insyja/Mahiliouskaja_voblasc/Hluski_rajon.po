@@ -1,3 +1,8 @@
+# Objects : [r4764745]
+# name:be: []
+msgid "Биологический заказник "Октябрьский""
+msgstr ""
+
 # Objects : [n306066654]
 # name:be: []
 msgid "Богуславка"
@@ -6,11 +11,6 @@ msgstr ""
 # Objects : [w25192822]
 # name:be: [Баравое]
 msgid "Боровое"
-msgstr ""
-
-# Objects : [w253331086]
-# name:be: []
-msgid "Бутербродная"
 msgstr ""
 
 # Objects : [n2788679953]

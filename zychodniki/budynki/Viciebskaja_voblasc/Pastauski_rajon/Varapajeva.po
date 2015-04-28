@@ -18,6 +18,11 @@ msgstr ""
 msgid "Воропаевская районная больница"
 msgstr ""
 
+# Objects : [w300294630]
+# name:be: []
+msgid "Воропаевская участковая ветлечебница"
+msgstr ""
+
 # Objects : [w180704271]
 # name:be: []
 msgid "Все для дома"

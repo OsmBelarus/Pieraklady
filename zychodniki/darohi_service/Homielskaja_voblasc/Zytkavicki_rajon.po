@@ -13,6 +13,16 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
+# Objects : [w293669134]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w293668687]
+# name:be: []
+msgid "Победа улица"
+msgstr ""
+
 # Objects : [w293137802]
 # name:be: []
 msgid "Советский переулок"

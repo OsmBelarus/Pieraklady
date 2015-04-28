@@ -24,7 +24,7 @@ msgid "2-й переулок Строителей"
 msgstr ""
 
 # Objects : [w158822573]
-# name:be: [2-і Слабадскі завулак]
+# name:be: [2-і Слабодзкі завулак]
 msgid "2-й Слободский переулок"
 msgstr ""
 
@@ -39,7 +39,7 @@ msgid "3-й Кирпичный переулок"
 msgstr ""
 
 # Objects : [w309917736]
-# name:be: []
+# name:be: [3-я Муражская вуліца]
 msgid "3-я Муражская улица"
 msgstr ""
 
@@ -66,6 +66,16 @@ msgstr ""
 # Objects : [w156182236]
 # name:be: [Газетны завулак]
 msgid "Газетный переулок"
+msgstr ""
+
+# Objects : [w158821576]
+# name:be: [Гарыстая вуліца]
+msgid "Гористая улица"
+msgstr ""
+
+# Objects : [w158821575]
+# name:be: [Гарысты завулак]
+msgid "Гористый переулок"
 msgstr ""
 
 # Objects : [w158824731]
@@ -116,6 +126,16 @@ msgstr ""
 # Objects : [w79606224]
 # name:be: [Цагляная вуліца]
 msgid "Кирпичная улица"
+msgstr ""
+
+# Objects : [w117577760]
+# name:be: [Цагляны завулак]
+msgid "Кирпичный переулок"
+msgstr ""
+
+# Objects : [w158831750]
+# name:be: [Калгасная вуліца]
+msgid "Колхозная улица"
 msgstr ""
 
 # Objects : [w37877501, w79606259]
@@ -174,7 +194,7 @@ msgid "Молодёжная улица"
 msgstr ""
 
 # Objects : [w158831753]
-# name:be: [1-я Муражская вуліца]
+# name:be: [Муражская вуліца]
 msgid "Муражская улица"
 msgstr ""
 
@@ -293,13 +313,18 @@ msgstr ""
 msgid "Садовый переулок"
 msgstr ""
 
+# Objects : [w309917383]
+# name:be: [Вясковая вуліца]
+msgid "Сельская улица"
+msgstr ""
+
 # Objects : [w79606219]
 # name:be: [Слабадская вуліца]
 msgid "Слободская улица"
 msgstr ""
 
 # Objects : [w308563056]
-# name:be: [Слабадскі завулак]
+# name:be: [Слабодзкі завулак]
 msgid "Слободский переулок"
 msgstr ""
 
@@ -333,19 +358,14 @@ msgstr ""
 msgid "Стадионный переулок"
 msgstr ""
 
+# Objects : [w158820605]
+# name:be: [Цяністая вуліца]
+msgid "Тенистая улица"
+msgstr ""
+
 # Objects : [w158996335]
 # name:be: [Турыстычны завулак]
 msgid "Туристический переулок"
-msgstr ""
-
-# Objects : [w158831750]
-# name:be: []
-msgid "ул. Колхозная"
-msgstr ""
-
-# Objects : [w309917383]
-# name:be: []
-msgid "ул. Сельская"
 msgstr ""
 
 # Objects : [w156428277]
@@ -631,6 +651,11 @@ msgstr ""
 # Objects : [w156324074]
 # name:be: [вуліца Янкі Купалы]
 msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w36005570]
+# name:be: [Фізкультурная вуліца]
+msgid "Физкультурная улица"
 msgstr ""
 
 # Objects : [w156324068]

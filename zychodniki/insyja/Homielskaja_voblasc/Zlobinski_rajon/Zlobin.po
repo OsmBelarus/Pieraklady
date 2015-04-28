@@ -248,12 +248,7 @@ msgstr ""
 msgid "Лислада ОДО"
 msgstr ""
 
-# Objects : [w244680963]
-# name:be: []
-msgid "магазин"
-msgstr ""
-
-# Objects : [w182775132, w291138455]
+# Objects : [w182775132, w244680963, w254302383, w291138455]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -340,7 +335,7 @@ msgstr ""
 
 # Objects : [w294964521]
 # name:be: []
-msgid "Паравоз"
+msgid "Паровоз"
 msgstr ""
 
 # Objects : [n2869847332]
@@ -351,11 +346,6 @@ msgstr ""
 # Objects : [w179901507]
 # name:be: []
 msgid "Продовольственный"
-msgstr ""
-
-# Objects : [w243136982]
-# name:be: []
-msgid "Продуктовый магазин"
 msgstr ""
 
 # Objects : [n3222767046]
@@ -401,6 +391,11 @@ msgstr ""
 # Objects : [w294838651]
 # name:be: []
 msgid "Спорплощадка"
+msgstr ""
+
+# Objects : [n3442780064]
+# name:be: []
+msgid "Спорт Бар"
 msgstr ""
 
 # Objects : [w107058148, w183043058, w294840336]

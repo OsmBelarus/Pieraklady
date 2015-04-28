@@ -3,7 +3,7 @@
 msgid "АЗС"
 msgstr ""
 
-# Objects : [n1383265223, n1383265224]
+# Objects : [n1383265223]
 # name:be: []
 msgid "Вокзальная"
 msgstr ""
@@ -18,11 +18,6 @@ msgstr ""
 msgid "Каштан"
 msgstr ""
 
-# Objects : [n1323256251, n1323256264]
-# name:be: []
-msgid "Костюковка"
-msgstr ""
-
 # Objects : [n1383265230]
 # name:be: []
 msgid "Махово"
@@ -31,6 +26,16 @@ msgstr ""
 # Objects : [n800140542]
 # name:be: []
 msgid "микрорайон Энергетиков"
+msgstr ""
+
+# Objects : [n3457460509]
+# name:be: []
+msgid "Нефтебаза"
+msgstr ""
+
+# Objects : [n2386583243, n2386583244]
+# name:be: []
+msgid "пов. Студеная Гута"
 msgstr ""
 
 # Objects : [n2788882107]

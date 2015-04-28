@@ -25,7 +25,7 @@ msgstr ""
 
 # Objects : [n242991741, w25139573]
 # name:be: [Буса]
-msgid "Буса"
+msgid "Бусса"
 msgstr ""
 
 # Objects : [n242990520, w25140721]
@@ -48,7 +48,7 @@ msgstr ""
 msgid "Вилы"
 msgstr ""
 
-# Objects : [n242988975, n242991181, w25140112, w25140771]
+# Objects : [n242988975, r4733791]
 # name:be: [Уласаўцы]
 msgid "Власовцы"
 msgstr ""
@@ -80,7 +80,7 @@ msgstr ""
 
 # Objects : [n242988992, w25140766]
 # name:be: [Глінна]
-msgid "Глинна"
+msgid "Глинно"
 msgstr ""
 
 # Objects : [n242991100, w25140097]
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Загута"
 msgstr ""
 
-# Objects : [n1421731751, n242988969, w25140777, w25140784]
+# Objects : [n242988969, r4733790]
 # name:be: [Залядынне]
 msgid "Залядынье"
 msgstr ""
@@ -188,7 +188,7 @@ msgstr ""
 msgid "Конотоп"
 msgstr ""
 
-# Objects : [n242988040, w25141557, w25141560]
+# Objects : [n242988040, r4718574]
 # name:be: [Карсынь]
 msgid "Корсынь"
 msgstr ""
@@ -318,7 +318,7 @@ msgstr ""
 msgid "Одрижин"
 msgstr ""
 
-# Objects : [n242988962, w25140778, w25140781]
+# Objects : [n242988962, r4718631]
 # name:be: [Ападышча]
 msgid "Опадыще"
 msgstr ""
@@ -336,11 +336,6 @@ msgstr ""
 # Objects : [n242992320, w25139578]
 # name:be: [Атолчыцы]
 msgid "Отолчицы"
-msgstr ""
-
-# Objects : [n242988993, w25140780]
-# name:be: [Падышча]
-msgid "Падыще"
 msgstr ""
 
 # Objects : [n242991113, w25140093]
@@ -363,8 +358,8 @@ msgstr ""
 msgid "Пешково"
 msgstr ""
 
-# Objects : [w25140783]
-# name:be: []
+# Objects : [n242988993, r4718632]
+# name:be: [Падышча]
 msgid "Подыще"
 msgstr ""
 
@@ -458,7 +453,7 @@ msgstr ""
 msgid "Суловы"
 msgstr ""
 
-# Objects : [n242991103, w25140069, w25140098]
+# Objects : [n242991103, r4718634]
 # name:be: [Сухое]
 msgid "Сухое"
 msgstr ""
@@ -475,7 +470,7 @@ msgstr ""
 
 # Objects : [n242991023, w25140056]
 # name:be: [Трыліскі]
-msgid "Трилиски"
+msgid "Трилисски"
 msgstr ""
 
 # Objects : [n242990449, w25140744]

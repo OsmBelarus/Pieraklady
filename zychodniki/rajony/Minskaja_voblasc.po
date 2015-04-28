@@ -53,6 +53,11 @@ msgstr ""
 msgid "Житковичский район"
 msgstr ""
 
+# Objects : [r79911]
+# name:be: [Жодзіна]
+msgid "Жодино"
+msgstr ""
+
 # Objects : [r70732]
 # name:be: [Іўеўскі раён]
 msgid "Ивьевский район"
@@ -105,7 +110,7 @@ msgstr ""
 
 # Objects : [r71140]
 # name:be: [Любанскі раён]
-msgid "Любаньский район"
+msgid "Любанский район"
 msgstr ""
 
 # Objects : [r71117]

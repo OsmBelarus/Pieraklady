@@ -25,12 +25,12 @@ msgstr ""
 
 # Objects : [n320409920]
 # name:be: []
-msgid "АЗС №52 Лукоил"
+msgid "АЗС № 52"
 msgstr ""
 
 # Objects : [n320409666]
 # name:be: []
-msgid "АЗС №55"
+msgid "АЗС № 55"
 msgstr ""
 
 # Objects : [n320409429]
@@ -68,11 +68,6 @@ msgstr ""
 msgid "Белоруснефть №50"
 msgstr ""
 
-# Objects : [n2836134000, n320409408]
-# name:be: []
-msgid "Лукойл №51"
-msgstr ""
-
 # Objects : [n1125070658]
 # name:be: []
 msgid "МАЗС №46"
@@ -80,12 +75,17 @@ msgstr ""
 
 # Objects : [n506553601]
 # name:be: []
-msgid "МАЗС №49"
+msgid "МАЗС № 49"
+msgstr ""
+
+# Objects : [n320409408]
+# name:be: []
+msgid "МАЗС № 51"
 msgstr ""
 
 # Objects : [n320409794]
 # name:be: []
-msgid "МАЗС №53"
+msgid "МАЗС № 53"
 msgstr ""
 
 # Objects : [n571686065]

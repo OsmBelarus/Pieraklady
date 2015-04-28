@@ -1,3 +1,18 @@
+# Objects : [w25285073]
+# name:be: []
+msgid "1-й Богановский проезд"
+msgstr ""
+
+# Objects : [w25285155]
+# name:be: []
+msgid "1-й Добрынский проезд"
+msgstr ""
+
+# Objects : [w25285130]
+# name:be: []
+msgid "1-й Долинский проезд"
+msgstr ""
+
 # Objects : [w25285098]
 # name:be: [1-ы Плёсавы праезд]
 msgid "1-й Плесовый проезд"
@@ -6,6 +21,41 @@ msgstr ""
 # Objects : [w25283308]
 # name:be: [1-ы Ракетны праезд]
 msgid "1-й Ракетный проезд"
+msgstr ""
+
+# Objects : [w25285160]
+# name:be: []
+msgid "1-й Торгошицкий проезд"
+msgstr ""
+
+# Objects : [w25285153]
+# name:be: []
+msgid "1-я Добрынская"
+msgstr ""
+
+# Objects : [w25285162]
+# name:be: []
+msgid "1-я Долинская"
+msgstr ""
+
+# Objects : [w25285131]
+# name:be: []
+msgid "1-я Новосадская"
+msgstr ""
+
+# Objects : [w25285072]
+# name:be: []
+msgid "2-й Богановский проезд"
+msgstr ""
+
+# Objects : [w25285152]
+# name:be: []
+msgid "2-й Добрынский проезд"
+msgstr ""
+
+# Objects : [w25285070]
+# name:be: []
+msgid "2-й Долинский проезд"
 msgstr ""
 
 # Objects : [w25285029]
@@ -28,9 +78,24 @@ msgstr ""
 msgid "2-й Северный проезд"
 msgstr ""
 
+# Objects : [w25285159]
+# name:be: []
+msgid "2-й Торгошицкий проезд"
+msgstr ""
+
 # Objects : [w25285015]
 # name:be: [2-і Школьны завулак]
 msgid "2-й Школьный переулок"
+msgstr ""
+
+# Objects : [w25285069]
+# name:be: []
+msgid "2-я Богановская"
+msgstr ""
+
+# Objects : [w25285135]
+# name:be: []
+msgid "2-я Долинская"
 msgstr ""
 
 # Objects : [w25285032]
@@ -48,6 +113,11 @@ msgstr ""
 msgid "2-я Новая улица"
 msgstr ""
 
+# Objects : [w25285120]
+# name:be: []
+msgid "2-я Новосадская"
+msgstr ""
+
 # Objects : [w25285008, w25285036, w25285037]
 # name:be: [2-я Паўночная вуліца]
 msgid "2-я Северная улица"
@@ -61,6 +131,16 @@ msgstr ""
 # Objects : [w25283324]
 # name:be: [3-і Ракетны праезд]
 msgid "3-й Ракетный проезд"
+msgstr ""
+
+# Objects : [w25285158]
+# name:be: []
+msgid "3-й Торгошицкий проезд"
+msgstr ""
+
+# Objects : [w79271152]
+# name:be: []
+msgid "3-я Новосадская"
 msgstr ""
 
 # Objects : [w25283178]
@@ -203,6 +283,11 @@ msgstr ""
 msgid "Добрая улица"
 msgstr ""
 
+# Objects : [w25285119]
+# name:be: []
+msgid "Добрынская"
+msgstr ""
+
 # Objects : [w25283628]
 # name:be: [Дарожная вуліца]
 msgid "Дорожная улица"
@@ -211,6 +296,11 @@ msgstr ""
 # Objects : [w25283613]
 # name:be: [Дарожны завулак]
 msgid "Дорожный переулок"
+msgstr ""
+
+# Objects : [w25285071]
+# name:be: []
+msgid "Достоевского"
 msgstr ""
 
 # Objects : [w25285056]
@@ -278,7 +368,7 @@ msgstr ""
 msgid "Индустриальная улица"
 msgstr ""
 
-# Objects : [w25283285]
+# Objects : [w25283285, w328305779]
 # name:be: [Інтэрнацыянальная вуліца]
 msgid "Интернациональная улица"
 msgstr ""
@@ -551,6 +641,11 @@ msgstr ""
 # Objects : [w25283742]
 # name:be: [Охаўская вуліца]
 msgid "Оховская улица"
+msgstr ""
+
+# Objects : [w325513153]
+# name:be: []
+msgid "Оховский переулок"
 msgstr ""
 
 # Objects : [w25283320, w47988400]
@@ -858,6 +953,11 @@ msgstr ""
 msgid "Топольная улица"
 msgstr ""
 
+# Objects : [w25285128]
+# name:be: []
+msgid "Торгошицкая"
+msgstr ""
+
 # Objects : [w25283629]
 # name:be: [Транспартная вуліца]
 msgid "Транспортная улица"
@@ -883,7 +983,7 @@ msgstr ""
 msgid "улица 8 Марта"
 msgstr ""
 
-# Objects : [w25283812, w305444608]
+# Objects : [w305444608]
 # name:be: [вуліца Бялова]
 msgid "улица Белова"
 msgstr ""
@@ -933,7 +1033,7 @@ msgstr ""
 msgid "улица Гоголя"
 msgstr ""
 
-# Objects : [w25283786, w39907945]
+# Objects : [w25283786, w328248972, w39907945]
 # name:be: [вуліца Горкага]
 msgid "улица Горького"
 msgstr ""
@@ -983,7 +1083,7 @@ msgstr ""
 msgid "улица Згоды"
 msgstr ""
 
-# Objects : [w41469099]
+# Objects : [w340244395, w41469099]
 # name:be: [вуліца Зоі Касмадзям’янскай]
 msgid "улица Зои Космодемьянской"
 msgstr ""
@@ -1263,6 +1363,11 @@ msgstr ""
 msgid "улица Фрунзе"
 msgstr ""
 
+# Objects : [w25283744]
+# name:be: [вуліца Чапаева]
+msgid "улица Чапаева"
+msgstr ""
+
 # Objects : [w25283759]
 # name:be: [вуліца Чалюскіна]
 msgid "улица Челюскина"
@@ -1318,6 +1423,11 @@ msgstr ""
 msgid "улица Янки Мавра"
 msgstr ""
 
+# Objects : [w25283753]
+# name:be: [Фабрычная вуліца]
+msgid "Фабричная улица"
+msgstr ""
+
 # Objects : [w25283839]
 # name:be: [Фруктовая вуліца]
 msgid "Фруктовая улица"
@@ -1368,7 +1478,7 @@ msgstr ""
 msgid "Яновская улица"
 msgstr ""
 
-# Objects : [w25283831]
+# Objects : [w25283831, w340237488]
 # name:be: [Ясельдаўская вуліца]
 msgid "Ясельдовская улица"
 msgstr ""

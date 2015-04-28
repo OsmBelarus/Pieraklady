@@ -3,6 +3,16 @@
 msgid "Гараж.Бытовое помещение"
 msgstr ""
 
+# Objects : [w336353882]
+# name:be: []
+msgid "ГРП"
+msgstr ""
+
+# Objects : [w251585154]
+# name:be: []
+msgid "Дворец культуры"
+msgstr ""
+
 # Objects : [w321978105]
 # name:be: []
 msgid "Детсад"
@@ -13,7 +23,7 @@ msgstr ""
 msgid "Детский сад"
 msgstr ""
 
-# Objects : [w245152959, w249899849, w312738554]
+# Objects : [w245152959, w249899849, w312738554, w330469417]
 # name:be: []
 msgid "Дом культуры"
 msgstr ""
@@ -21,6 +31,11 @@ msgstr ""
 # Objects : [w245152960]
 # name:be: []
 msgid "Заправка СПК"
+msgstr ""
+
+# Objects : [w336353884]
+# name:be: []
+msgid "Кательная"
 msgstr ""
 
 # Objects : [w235888660]
@@ -33,6 +48,11 @@ msgstr ""
 msgid "КБО"
 msgstr ""
 
+# Objects : [w336362159]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
 # Objects : [w249899851]
 # name:be: []
 msgid "Контора ПМС"
@@ -43,9 +63,24 @@ msgstr ""
 msgid "Контора СПК"
 msgstr ""
 
+# Objects : [w283101970, w334470260, w336353885, w336353886]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w336353883, w336362157]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
 # Objects : [w249899850]
 # name:be: []
 msgid "КПП ПМС"
+msgstr ""
+
+# Objects : [w336362158]
+# name:be: []
+msgid "КХП"
 msgstr ""
 
 # Objects : [w259694514, w283740052, w283740053]
@@ -53,19 +88,24 @@ msgstr ""
 msgid "магазин"
 msgstr ""
 
-# Objects : [w244919020, w244941483, w245159546, w249901431, w249901432, w249901433, w263796944, w312738571, w321978118]
+# Objects : [w244919020, w244941483, w245159546, w249901431, w249901432, w249901433, w312738571, w321978118, w330469420]
 # name:be: []
 msgid "Магазин"
 msgstr ""
 
-# Objects : [w245152962]
+# Objects : [w245152962, w334819015]
 # name:be: []
 msgid "Мастерские"
 msgstr ""
 
-# Objects : [w321978117]
+# Objects : [w321978117, w334282119, w334282120, w334282121, w334282122, w334282123, w334819014]
 # name:be: []
 msgid "МТФ"
+msgstr ""
+
+# Objects : [w336353887]
+# name:be: []
+msgid "Пожарная"
 msgstr ""
 
 # Objects : [w273226779]
@@ -83,7 +123,27 @@ msgstr ""
 msgid "Промышленное здание"
 msgstr ""
 
-# Objects : [w255994014]
+# Objects : [w334819016]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
+# Objects : [w336353888, w336353889, w336353890, w336353891, w336353892, w336353893, w336353894, w336353896, w336353897, w336353898]
+# name:be: []
+msgid "Птичник"
+msgstr ""
+
+# Objects : [w330469421]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [w334281263, w334819017, w334819018]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
+# Objects : [w255994014, w334819019]
 # name:be: []
 msgid "Столовая"
 msgstr ""
@@ -91,6 +151,16 @@ msgstr ""
 # Objects : [w283740056]
 # name:be: []
 msgid "сушилка"
+msgstr ""
+
+# Objects : [w336353899]
+# name:be: []
+msgid "Сушилка"
+msgstr ""
+
+# Objects : [w336353900]
+# name:be: []
+msgid "Убойный цех"
 msgstr ""
 
 # Objects : [w273226781]

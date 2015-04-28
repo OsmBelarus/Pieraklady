@@ -138,9 +138,14 @@ msgstr ""
 msgid "Школа № 14"
 msgstr ""
 
-# Objects : [w27896675]
-# name:be: [Школа №16]
-msgid "Школа №16"
+# Objects : [w280222643]
+# name:be: [Школа № 15]
+msgid "Школа № 15"
+msgstr ""
+
+# Objects : [w339814431]
+# name:be: [Школа № 16]
+msgid "Школа № 16"
 msgstr ""
 
 # Objects : [w286353250]
@@ -173,9 +178,9 @@ msgstr ""
 msgid "Школа №22"
 msgstr ""
 
-# Objects : [w27896697]
-# name:be: [Школа №23]
-msgid "Школа №23"
+# Objects : [w339585851]
+# name:be: [Школа № 23]
+msgid "Школа № 23"
 msgstr ""
 
 # Objects : [w245913391]
@@ -254,8 +259,8 @@ msgid "Школа № 42"
 msgstr ""
 
 # Objects : [w277932256]
-# name:be: [Школа № 43]
-msgid "Школа № 43 им. М.Ф.Шмырёва"
+# name:be: [Школа № 43 імя Шмырова М. П.]
+msgid "Школа № 43 им. Шмырёва М. Ф."
 msgstr ""
 
 # Objects : [w135510032]

@@ -118,11 +118,6 @@ msgstr ""
 msgid "Витебск"
 msgstr ""
 
-# Objects : [w35809827]
-# name:be: []
-msgid "Витебская газонаполнительная станция"
-msgstr ""
-
 # Objects : [w77229680]
 # name:be: []
 msgid "Витебская областная клиническая психиатрическая больница"
@@ -183,6 +178,11 @@ msgstr ""
 msgid "Д/сад"
 msgstr ""
 
+# Objects : [n3450126996, n3450126997]
+# name:be: []
+msgid "Дачи"
+msgstr ""
+
 # Objects : [n243042795, w25083976]
 # name:be: [Дзеснянінава]
 msgid "Десняниново"
@@ -196,11 +196,6 @@ msgstr ""
 # Objects : [w171587250]
 # name:be: []
 msgid "Доломитовый карьер "Гралёво""
-msgstr ""
-
-# Objects : [w73609370]
-# name:be: [Дом культуры]
-msgid "Дом культуры"
 msgstr ""
 
 # Objects : [w37730092]
@@ -249,8 +244,8 @@ msgid "Интернет WiFi"
 msgstr ""
 
 # Objects : [w77229686]
-# name:be: [Выпраўленчая калонія №3]
-msgid "Исправительная колония №3"
+# name:be: [Папраўчая калонія № 3]
+msgid "Исправительная колония № 3"
 msgstr ""
 
 # Objects : [w25195072, w25196881, w29984382]
@@ -298,6 +293,11 @@ msgstr ""
 msgid "Котлован подземных газопроводов"
 msgstr ""
 
+# Objects : [n3450540134]
+# name:be: []
+msgid "Крест"
+msgstr ""
+
 # Objects : [n2766728142]
 # name:be: []
 msgid "Лётцы"
@@ -318,7 +318,7 @@ msgstr ""
 msgid "Лосвидо"
 msgstr ""
 
-# Objects : [n27239792]
+# Objects : [n2357543363, n27239792, w25090461]
 # name:be: [Лужасна]
 msgid "Лужесно"
 msgstr ""
@@ -438,6 +438,11 @@ msgstr ""
 msgid "офисное здание"
 msgstr ""
 
+# Objects : [n1054723518]
+# name:be: []
+msgid "памятник М. Сильницкому"
+msgstr ""
+
 # Objects : [n243042818, w25084075]
 # name:be: [Панкі]
 msgid "Панки"
@@ -471,6 +476,11 @@ msgstr ""
 # Objects : [w210922863]
 # name:be: []
 msgid "Пожарное депо"
+msgstr ""
+
+# Objects : [n3450126998, n3450126999]
+# name:be: []
+msgid "Приозёрная"
 msgstr ""
 
 # Objects : [n2788684224, n2788684228]
@@ -528,7 +538,7 @@ msgstr ""
 msgid "садовые участки"
 msgstr ""
 
-# Objects : [w220746297, w227024139, w25090402, w25090455, w28256232]
+# Objects : [w220746297, w227024139, w25090402, w25090455, w28256232, w337935181]
 # name:be: [Садовыя ўчасткі]
 msgid "Садовые участки"
 msgstr ""
@@ -578,14 +588,14 @@ msgstr ""
 msgid "Скробово"
 msgstr ""
 
+# Objects : [n3097301135]
+# name:be: [савецкім воінам]
+msgid "советским воинам"
+msgstr ""
+
 # Objects : [n1202746703]
 # name:be: [Савецкім воінам]
 msgid "Советским воинам"
-msgstr ""
-
-# Objects : [n3097301135]
-# name:be: [савецкім войнам]
-msgid "советским войнам"
 msgstr ""
 
 # Objects : [n3329956418, n3329956419]
@@ -618,6 +628,11 @@ msgstr ""
 msgid "СТ «Криница»"
 msgstr ""
 
+# Objects : [w337893252]
+# name:be: [СТ «Лясное»]
+msgid "СТ «Лесное»"
+msgstr ""
+
 # Objects : [w304159974]
 # name:be: []
 msgid "СТ «Лесоустроитель»"
@@ -646,6 +661,11 @@ msgstr ""
 # Objects : [w192727494]
 # name:be: []
 msgid "СТ «Полёт»"
+msgstr ""
+
+# Objects : [w310313957]
+# name:be: [СТ «Прыбярэжнае»]
+msgid "СТ «Прибрежное»"
 msgstr ""
 
 # Objects : [w141054758]
@@ -763,7 +783,7 @@ msgstr ""
 msgid "Цех изоляции"
 msgstr ""
 
-# Objects : [n243034210, w25097522]
+# Objects : [n243034210, n243043691, w25088235, w25097522]
 # name:be: [Шаркі]
 msgid "Шарки"
 msgstr ""

@@ -1,4 +1,4 @@
-# Objects : [n243019919, w25121816]
+# Objects : [n243019919]
 # name:be: [Алесіна]
 msgid "Алесино"
 msgstr ""
@@ -78,7 +78,7 @@ msgstr ""
 msgid "Великое Залужье"
 msgstr ""
 
-# Objects : [n243019913, w25121820]
+# Objects : [n243019913]
 # name:be: [Верхмень]
 msgid "Верхмень"
 msgstr ""
@@ -151,6 +151,11 @@ msgstr ""
 # Objects : [n243019807, w25121692]
 # name:be: [Градкі]
 msgid "Грядки"
+msgstr ""
+
+# Objects : [n243019980]
+# name:be: [Пліса]
+msgid "д.Плиса"
 msgstr ""
 
 # Objects : [n243019987, w25121754]
@@ -444,7 +449,7 @@ msgid "Мглё"
 msgstr ""
 
 # Objects : [n243022058, w25124677]
-# name:be: [Мікалаевічы]
+# name:be: [Нікалаевічы]
 msgid "Миколаевичи"
 msgstr ""
 
@@ -473,7 +478,7 @@ msgstr ""
 msgid "Новые Грядки"
 msgstr ""
 
-# Objects : [n243019947, w25124658]
+# Objects : [n243019947, w25124658, w334668964]
 # name:be: [Акцябрскі]
 msgid "Октябрьский"
 msgstr ""
@@ -538,7 +543,7 @@ msgstr ""
 msgid "Петровичи"
 msgstr ""
 
-# Objects : [n243019980, w25124640]
+# Objects : [w25124640]
 # name:be: [Пліса]
 msgid "Плиса"
 msgstr ""
@@ -635,12 +640,12 @@ msgstr ""
 
 # Objects : [n1764211013, w164816360]
 # name:be: []
-msgid "с/т Дубрава"
+msgid "с/т "Дубрава""
 msgstr ""
 
 # Objects : [n1278656502, w112518050]
 # name:be: []
-msgid "с/т Огонёк"
+msgid "с/т "Огонёк""
 msgstr ""
 
 # Objects : [n1764210982, w164816357]
@@ -838,7 +843,7 @@ msgstr ""
 msgid "Шеметово"
 msgstr ""
 
-# Objects : [n243019916, w25121802]
+# Objects : [n243019916]
 # name:be: [Шыпяны]
 msgid "Шипяны"
 msgstr ""

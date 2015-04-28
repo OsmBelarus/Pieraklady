@@ -1,10 +1,20 @@
-# Objects : [w172282962]
+# Objects : [w337258597]
 # name:be: []
-msgid "Гимназия №1"
+msgid "Средняя школа № 1"
 msgstr ""
 
-# Objects : [n1762096688]
+# Objects : [w188608538]
 # name:be: []
-msgid "Средняя школа №1"
+msgid "Средняя школа №4"
+msgstr ""
+
+# Objects : [w337258598]
+# name:be: []
+msgid "Средняя школа № 4"
+msgstr ""
+
+# Objects : [w338049016]
+# name:be: []
+msgid "Чашникская гимназия"
 msgstr ""
 

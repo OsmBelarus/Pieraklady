@@ -1,6 +1,26 @@
+# Objects : [w293719740]
+# name:be: []
+msgid "2-я Лесная улица"
+msgstr ""
+
+# Objects : [w296181642]
+# name:be: []
+msgid "2-я Школьная улица"
+msgstr ""
+
 # Objects : [w326080622]
 # name:be: []
 msgid "Аллея Льва Новожилова"
+msgstr ""
+
+# Objects : [w223513161, w223516313, w277903792]
+# name:be: []
+msgid "Армейская улица"
+msgstr ""
+
+# Objects : [w211223946, w211223948]
+# name:be: []
+msgid "Базарная улица"
 msgstr ""
 
 # Objects : [w41440022]
@@ -9,7 +29,7 @@ msgid "Большая Радужная улица"
 msgstr ""
 
 # Objects : [w326571942]
-# name:be: []
+# name:be: [Вербная вуліца]
 msgid "Вербная улица"
 msgstr ""
 
@@ -38,6 +58,11 @@ msgstr ""
 msgid "Дручанская улица"
 msgstr ""
 
+# Objects : [w211223953, w246593649, w249208757]
+# name:be: []
+msgid "Железнодорожная улица"
+msgstr ""
+
 # Objects : [w118427375]
 # name:be: [Заводскі праезд]
 msgid "Заводской проезд"
@@ -46,6 +71,11 @@ msgstr ""
 # Objects : [w32558392]
 # name:be: [Залюхаўская вуліца]
 msgid "Залюховская улица"
+msgstr ""
+
+# Objects : [w263482040]
+# name:be: []
+msgid "Земляничная улица"
 msgstr ""
 
 # Objects : [w40696825]
@@ -83,7 +113,7 @@ msgstr ""
 msgid "Ларинская улица"
 msgstr ""
 
-# Objects : [w178017322]
+# Objects : [w178017322, w211223943, w246593668, w247017141]
 # name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
@@ -108,12 +138,12 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w118427369, w30197548, w310703587]
+# Objects : [w118427369, w244858878, w301075274, w30197548, w310703587]
 # name:be: [Набярэжная вуліца]
 msgid "Набережная улица"
 msgstr ""
 
-# Objects : [w178017325]
+# Objects : [w178017325, w274411760]
 # name:be: [Азёрная вуліца]
 msgid "Озёрная улица"
 msgstr ""
@@ -136,6 +166,11 @@ msgstr ""
 # Objects : [w146693482, w147543475, w40707010, w41457378, w53827504, w61538712]
 # name:be: [Паркавая вуліца]
 msgid "Парковая улица"
+msgstr ""
+
+# Objects : [w244858877]
+# name:be: []
+msgid "переулок Почтовый"
 msgstr ""
 
 # Objects : [w220941802]
@@ -178,7 +213,12 @@ msgstr ""
 msgid "Прибрежная улица"
 msgstr ""
 
-# Objects : [w25261168, w38596141, w38596220, w38596241, w41462447, w41462448, w41491490]
+# Objects : [w234321731, w234321732]
+# name:be: []
+msgid "Привокзальная улица"
+msgstr ""
+
+# Objects : [w25261168, w82824300]
 # name:be: [Прамысловая вуліца]
 msgid "Промышленная улица"
 msgstr ""
@@ -191,6 +231,16 @@ msgstr ""
 # Objects : [w171862057]
 # name:be: [Рыжскі завулак]
 msgid "Рижский переулок"
+msgstr ""
+
+# Objects : [w234321733, w244858870, w244858892, w249208459, w317650193]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w286896761]
+# name:be: []
+msgid "Северная улица"
 msgstr ""
 
 # Objects : [w326571953]
@@ -219,7 +269,7 @@ msgid "Техническая улица"
 msgstr ""
 
 # Objects : [w326571957]
-# name:be: []
+# name:be: [Ціхая вуліца]
 msgid "Тихая улица"
 msgstr ""
 
@@ -278,7 +328,12 @@ msgstr ""
 msgid "улица 9-я Линия"
 msgstr ""
 
-# Objects : [w190307997, w190307998, w207548334, w32659950, w40707011, w41457163]
+# Objects : [w244858894]
+# name:be: []
+msgid "улица Базарная"
+msgstr ""
+
+# Objects : [w190307997, w190307998, w207548334, w32659950, w38596141, w41457163]
 # name:be: [вуліца Блахіна]
 msgid "улица Блохина"
 msgstr ""
@@ -328,7 +383,7 @@ msgstr ""
 msgid "улица Кирова"
 msgstr ""
 
-# Objects : [w31231648, w40706997]
+# Objects : [w31231648, w38596220, w38596241, w40706997, w41462447, w41462448, w41491490]
 # name:be: [вуліца Ктатарава]
 msgid "улица Ктаторова"
 msgstr ""
@@ -345,7 +400,7 @@ msgstr ""
 
 # Objects : [w30641212]
 # name:be: []
-msgid "Улица монтажников"
+msgid "Улица Монтажников"
 msgstr ""
 
 # Objects : [w32659930]
@@ -359,7 +414,7 @@ msgid "улица Нахимова"
 msgstr ""
 
 # Objects : [w306098728, w322758276]
-# name:be: []
+# name:be: [вуліца Нафтавікоў]
 msgid "улица Нефтяников"
 msgstr ""
 
@@ -388,6 +443,11 @@ msgstr ""
 msgid "улица Химиков"
 msgstr ""
 
+# Objects : [w183345667]
+# name:be: []
+msgid "улица Шнитки"
+msgstr ""
+
 # Objects : [w258251372, w316015461, w40711821]
 # name:be: [вуліца Якуба Коласа]
 msgid "улица Якуба Коласа"
@@ -399,11 +459,16 @@ msgid "улица Янки Купалы"
 msgstr ""
 
 # Objects : [w326571958]
-# name:be: []
+# name:be: [Хутарская вуліца]
 msgid "Хуторская улица"
 msgstr ""
 
-# Objects : [w32554503]
+# Objects : [w211223941, w211223951]
+# name:be: []
+msgid "Цветочная улица"
+msgstr ""
+
+# Objects : [w32554503, w45070318]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
 msgstr ""

@@ -1,10 +1,10 @@
-# Objects : [n306068375]
-# name:be: []
-msgid "????"
-msgstr ""
-
 # Objects : [n306068408]
 # name:be: []
 msgid "Храм в честь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w336598548]
+# name:be: [Царква Святой Тройцы]
+msgid "Церковь Святой Троицы"
 msgstr ""
 

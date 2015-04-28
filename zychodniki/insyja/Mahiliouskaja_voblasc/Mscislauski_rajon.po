@@ -18,6 +18,11 @@ msgstr ""
 msgid "ГРС    ХОДОСЫ"
 msgstr ""
 
+# Objects : [w334282289]
+# name:be: []
+msgid "ДРСУ 174 "Могилевоблдорстрой""
+msgstr ""
+
 # Objects : [n243045689, w25079621]
 # name:be: [Забалацце]
 msgid "Жолоб"
@@ -36,6 +41,26 @@ msgstr ""
 # Objects : [w212723134]
 # name:be: []
 msgid "КЗС, ферма"
+msgstr ""
+
+# Objects : [w334283420]
+# name:be: []
+msgid "КЗСК - 30 д. Капачи Вихра"
+msgstr ""
+
+# Objects : [w334283417]
+# name:be: []
+msgid "КЗСК - 30 Капачи"
+msgstr ""
+
+# Objects : [w334283418]
+# name:be: []
+msgid "КЗСК - 30 Мишни "Знамя труда""
+msgstr ""
+
+# Objects : [w334283419]
+# name:be: []
+msgid "КЗСК - 30 ХОДОСЫ Вихра"
 msgstr ""
 
 # Objects : [w213350074]
@@ -58,19 +83,24 @@ msgstr ""
 msgid "котельная"
 msgstr ""
 
-# Objects : [w210195036]
-# name:be: []
-msgid "Котельная"
-msgstr ""
-
 # Objects : [w215388439, w215519463]
 # name:be: []
 msgid "котельная ЖКХ"
 msgstr ""
 
-# Objects : [w217124688, w232518125]
+# Objects : [w217124688]
 # name:be: []
 msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w210195036]
+# name:be: []
+msgid "Котельная ЖКХ МАЗОЛОВО"
+msgstr ""
+
+# Objects : [w232518125]
+# name:be: []
+msgid "Котельная ЖКХ Школа Ходосы"
 msgstr ""
 
 # Objects : [w230178017]

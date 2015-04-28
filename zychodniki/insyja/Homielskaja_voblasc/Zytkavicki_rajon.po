@@ -8,7 +8,7 @@ msgstr ""
 msgid "Антонов"
 msgstr ""
 
-# Objects : [w25200656]
+# Objects : [n3386014136, w25200656]
 # name:be: [Белае]
 msgid "Белое"
 msgstr ""
@@ -23,9 +23,29 @@ msgstr ""
 msgid "Ветлечебница"
 msgstr ""
 
+# Objects : [w332227861]
+# name:be: []
+msgid "Городской пляж"
+msgstr ""
+
 # Objects : [w81554197]
 # name:be: []
 msgid "Дачный поселок"
+msgstr ""
+
+# Objects : [w289049487]
+# name:be: []
+msgid "довоенная ж/д линия СТАРУШКИ – БОБРУЙСК"
+msgstr ""
+
+# Objects : [n3386014156]
+# name:be: []
+msgid "Дом охотника "Червоное""
+msgstr ""
+
+# Objects : [n2766728246]
+# name:be: []
+msgid "Дом охотника "Черетянка""
 msgstr ""
 
 # Objects : [w48864184]
@@ -33,9 +53,19 @@ msgstr ""
 msgid "Житковичский моторостроительный завод"
 msgstr ""
 
+# Objects : [n3390705042]
+# name:be: []
+msgid "Забродье"
+msgstr ""
+
 # Objects : [w292988994]
 # name:be: []
 msgid "заправка ГСМ"
+msgstr ""
+
+# Objects : [n3392202030]
+# name:be: []
+msgid "Затерянный рай"
 msgstr ""
 
 # Objects : [n2788680612]
@@ -83,7 +113,7 @@ msgstr ""
 msgid "отст."
 msgstr ""
 
-# Objects : [w293669134, w294789270]
+# Objects : [w294789270]
 # name:be: []
 msgid "Первомайская улица"
 msgstr ""
@@ -98,7 +128,7 @@ msgstr ""
 msgid "Плищин"
 msgstr ""
 
-# Objects : [n2965938321, w293668687]
+# Objects : [n2965938321]
 # name:be: []
 msgid "Победа улица"
 msgstr ""
@@ -106,6 +136,21 @@ msgstr ""
 # Objects : [n306068845]
 # name:be: []
 msgid "Полесский"
+msgstr ""
+
+# Objects : [n3392202029]
+# name:be: []
+msgid "Полесье"
+msgstr ""
+
+# Objects : [n3392176938]
+# name:be: []
+msgid "Полюшка"
+msgstr ""
+
+# Objects : [n3392198073]
+# name:be: []
+msgid "Селiца"
 msgstr ""
 
 # Objects : [w25193314, w25193921]
@@ -118,6 +163,16 @@ msgstr ""
 msgid "Случанка"
 msgstr ""
 
+# Objects : [n3392197283]
+# name:be: []
+msgid "Случь"
+msgstr ""
+
+# Objects : [n3392197285]
+# name:be: []
+msgid "Сосновый бор"
+msgstr ""
+
 # Objects : [w25189971]
 # name:be: []
 msgid "Ст.Река"
@@ -128,7 +183,7 @@ msgstr ""
 msgid "Старуха"
 msgstr ""
 
-# Objects : [n2766728231, n306068790]
+# Objects : [n306068790, w331028241, w331028248]
 # name:be: [Старушкі]
 msgid "Старушки"
 msgstr ""
@@ -143,14 +198,29 @@ msgstr ""
 msgid "Торфопредприятие"
 msgstr ""
 
+# Objects : [w331531048]
+# name:be: []
+msgid "Туристический комплекс "Белое""
+msgstr ""
+
+# Objects : [w331028242]
+# name:be: []
+msgid "Туристический комплекс "Старушки""
+msgstr ""
+
+# Objects : [w331028256]
+# name:be: []
+msgid "Туристический комплекс "Хлупинская Буда""
+msgstr ""
+
 # Objects : [n1147415615]
 # name:be: []
 msgid "Учебный городок"
 msgstr ""
 
-# Objects : [n2766728241]
+# Objects : [n3392198000]
 # name:be: []
-msgid "Хлупинская Буда"
+msgid "Хутор у Скрипицы"
 msgstr ""
 
 # Objects : [n2788687477]
@@ -161,11 +231,6 @@ msgstr ""
 # Objects : [r540963]
 # name:be: [Чырвоная]
 msgid "Червоное"
-msgstr ""
-
-# Objects : [n2766728246]
-# name:be: []
-msgid "Черетянка"
 msgstr ""
 
 # Objects : [w25198061]

@@ -3,6 +3,11 @@
 msgid "амбулатория"
 msgstr ""
 
+# Objects : [n243044551, w25080378]
+# name:be: [Беразнякі]
+msgid "Березняки"
+msgstr ""
+
 # Objects : [w279547073]
 # name:be: []
 msgid "Братская могила"
@@ -16,6 +21,16 @@ msgstr ""
 # Objects : [n275085485]
 # name:be: []
 msgid "Веселовка-Сеньковка-Новые Юрковичи"
+msgstr ""
+
+# Objects : [n243045534, w25079329]
+# name:be: []
+msgid "Волна"
+msgstr ""
+
+# Objects : [n243045530, w25079342]
+# name:be: []
+msgid "Вылево"
 msgstr ""
 
 # Objects : [w257895806]
@@ -48,6 +63,11 @@ msgstr ""
 msgid "Зерносушилка и склады ЧУП "Тереховка-Агро""
 msgstr ""
 
+# Objects : [n3390705030]
+# name:be: []
+msgid "Иговка"
+msgstr ""
+
 # Objects : [w273216093]
 # name:be: []
 msgid "Канава"
@@ -63,14 +83,34 @@ msgstr ""
 msgid "контора ОАО "Утевское""
 msgstr ""
 
+# Objects : [n243045531, w25079340]
+# name:be: []
+msgid "Красная Знамя"
+msgstr ""
+
+# Objects : [n243045544, w25079293]
+# name:be: []
+msgid "Красный Лог"
+msgstr ""
+
 # Objects : [n306067987]
 # name:be: [Кругавец]
 msgid "Круговец"
 msgstr ""
 
+# Objects : [n243045536, w25079315]
+# name:be: [Кругоўка]
+msgid "Круговка"
+msgstr ""
+
 # Objects : [w255034191]
 # name:be: []
 msgid "Крупецкое кладбище"
+msgstr ""
+
+# Objects : [n243044545, w25080339]
+# name:be: [Лявонцьева]
+msgid "Леонтьево"
 msgstr ""
 
 # Objects : [w25187834]
@@ -103,6 +143,11 @@ msgstr ""
 msgid "Мехдвор ЧУП "Тереховка-АГРО""
 msgstr ""
 
+# Objects : [n243044530, w25080334]
+# name:be: [Млынок]
+msgid "Млынок"
+msgstr ""
+
 # Objects : [w314286194, w314287482]
 # name:be: []
 msgid "МН "Дружба""
@@ -111,6 +156,11 @@ msgstr ""
 # Objects : [w243914289]
 # name:be: []
 msgid "молочный комплекс ЧУП "Тереховка-Агро""
+msgstr ""
+
+# Objects : [n243045535, w25079318]
+# name:be: [Марозаўка]
+msgid "Морозовка"
 msgstr ""
 
 # Objects : [w169492251]
@@ -128,6 +178,11 @@ msgstr ""
 msgid "Нивская библиотека"
 msgstr ""
 
+# Objects : [n243044559, w25080388]
+# name:be: [Новы Крупец]
+msgid "Новый Крупец"
+msgstr ""
+
 # Objects : [w259015759, w259015760]
 # name:be: []
 msgid "ОАО "Утевское" п. Степь"
@@ -138,9 +193,24 @@ msgstr ""
 msgid "окопы"
 msgstr ""
 
+# Objects : [n243045543, w25079303]
+# name:be: []
+msgid "Очесо-Рудня"
+msgstr ""
+
 # Objects : [w259015900, w259015901, w259015919]
 # name:be: []
 msgid "п. Степь"
+msgstr ""
+
+# Objects : [n243045541, w25079295]
+# name:be: []
+msgid "Пенное"
+msgstr ""
+
+# Objects : [n243045526, w25079350]
+# name:be: []
+msgid "Плоское"
 msgstr ""
 
 # Objects : [w257897601]
@@ -151,6 +221,11 @@ msgstr ""
 # Objects : [w25190365, w25198568]
 # name:be: []
 msgid "Ревучее"
+msgstr ""
+
+# Objects : [n3390705031]
+# name:be: []
+msgid "Селище"
 msgstr ""
 
 # Objects : [n275086320]
@@ -181,6 +256,16 @@ msgstr ""
 # Objects : [w279684917]
 # name:be: []
 msgid "СПК "Борщёвский" мехдвор"
+msgstr ""
+
+# Objects : [n243044562, w25080401]
+# name:be: [Стары Крупец]
+msgid "Старый Крупец"
+msgstr ""
+
+# Objects : [n243045314, w25078679]
+# name:be: []
+msgid "Торф. Стахановец"
 msgstr ""
 
 # Objects : [n243059058]
@@ -216,5 +301,10 @@ msgstr ""
 # Objects : [w261539528]
 # name:be: []
 msgid "Южная"
+msgstr ""
+
+# Objects : [n243045540, w25079304]
+# name:be: []
+msgid "Ясная Долина"
 msgstr ""
 

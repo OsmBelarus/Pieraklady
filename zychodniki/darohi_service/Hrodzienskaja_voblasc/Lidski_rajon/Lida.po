@@ -1,4 +1,4 @@
-# Objects : [w77018689, w88231791]
+# Objects : [w77018689]
 # name:be: [1-ы завулак Неўскага]
 msgid "1-й переулок Невского"
 msgstr ""
@@ -8,14 +8,14 @@ msgstr ""
 msgid "2-й переулок Шубина"
 msgstr ""
 
-# Objects : [w128979831]
-# name:be: [Маскоўскі завулак]
-msgid "Московский переулок"
+# Objects : [w25286950]
+# name:be: []
+msgid "переулок Шубина"
 msgstr ""
 
-# Objects : [w96611956]
+# Objects : [w255214073]
 # name:be: []
-msgid "полигон Автошколы"
+msgid "Транспортный переулок"
 msgstr ""
 
 # Objects : [w61320434]

@@ -103,11 +103,6 @@ msgstr ""
 msgid "Дуб Патриарх"
 msgstr ""
 
-# Objects : [n567153516]
-# name:be: [Завершша]
-msgid "Завершье"
-msgstr ""
-
 # Objects : [n2788680568]
 # name:be: [Кальвінскі збор]
 msgid "Кальвинский сбор"
@@ -123,11 +118,6 @@ msgstr ""
 msgid "Каменюки, корпус №2"
 msgstr ""
 
-# Objects : [n567153515]
-# name:be: []
-msgid "Киватичи"
-msgstr ""
-
 # Objects : [n2788680723]
 # name:be: [Могілкі габрэйскія]
 msgid "Кладбище еврейское"
@@ -141,11 +131,6 @@ msgstr ""
 # Objects : [n2788681545]
 # name:be: [Могілкі хрысціянскія]
 msgid "Кладбище христианское"
-msgstr ""
-
-# Objects : [n2788681674]
-# name:be: [Званіца]
-msgid "Колокольня"
 msgstr ""
 
 # Objects : [w299011001]
@@ -186,11 +171,6 @@ msgstr ""
 # Objects : [n306062212]
 # name:be: []
 msgid "Музей Природы"
-msgstr ""
-
-# Objects : [n1867119617]
-# name:be: [Пясчатка]
-msgid "Песчатка"
 msgstr ""
 
 # Objects : [n2788683519]

@@ -1,8 +1,3 @@
-# Objects : [w157658598]
-# name:be: []
-msgid "Автотранспортное предприятие № 9"
-msgstr ""
-
 # Objects : [w231835645]
 # name:be: []
 msgid "Администрация БФ"Красная звезда""
@@ -13,14 +8,9 @@ msgstr ""
 msgid "Баня"
 msgstr ""
 
-# Objects : [w229989453]
+# Objects : [w338049010]
 # name:be: []
-msgid "Белагропромбанк"
-msgstr ""
-
-# Objects : [w157658662]
-# name:be: []
-msgid "горгаз"
+msgid "Гостиница Чашники"
 msgstr ""
 
 # Objects : [w194461925]
@@ -48,11 +38,6 @@ msgstr ""
 msgid "ИП Левенкова О.И."
 msgstr ""
 
-# Objects : [w198253623]
-# name:be: []
-msgid "ИП Мухина"
-msgstr ""
-
 # Objects : [w157658640]
 # name:be: []
 msgid "ИП Смоляк Ю.А."
@@ -63,14 +48,14 @@ msgstr ""
 msgid "Кондитерский цех"
 msgstr ""
 
-# Objects : [w236407042]
+# Objects : [w338049012]
 # name:be: []
-msgid "Культовары"
+msgid "Краеведческий музей"
 msgstr ""
 
-# Objects : [w187182913, w188608538]
+# Objects : [w236407042]
 # name:be: []
-msgid "магазин"
+msgid "Культтовары"
 msgstr ""
 
 # Objects : [w236406741]
@@ -80,7 +65,12 @@ msgstr ""
 
 # Objects : [w236405911]
 # name:be: []
-msgid "Магазин " Все Для дома""
+msgid "Магазин «Всё для дома»"
+msgstr ""
+
+# Objects : [w198253623]
+# name:be: []
+msgid "Мебель"
 msgstr ""
 
 # Objects : [w157658677]
@@ -98,6 +88,11 @@ msgstr ""
 msgid "пмк-26"
 msgstr ""
 
+# Objects : [w157658662]
+# name:be: []
+msgid "РПУ «Лукомльрайгаз»"
+msgstr ""
+
 # Objects : [w188332603]
 # name:be: []
 msgid "сараи"
@@ -108,23 +103,23 @@ msgstr ""
 msgid "Сорткомплекс"
 msgstr ""
 
-# Objects : [w229989451]
-# name:be: []
-msgid "Спасо-Преораженская церковь"
-msgstr ""
-
 # Objects : [w188330472]
-# name:be: []
+# name:be: [Універсам]
 msgid "Универсам"
 msgstr ""
 
 # Objects : [w165593080]
 # name:be: []
-msgid "УП "ЖКХ" котельня №2"
+msgid "УП "ЖКХ" котельная №2"
 msgstr ""
 
 # Objects : [w164591166]
 # name:be: []
 msgid "Центральная районная аптека №27"
+msgstr ""
+
+# Objects : [w231835106]
+# name:be: [Чашніцкі райвыканкам]
+msgid "Чашникский райисполком"
 msgstr ""
 

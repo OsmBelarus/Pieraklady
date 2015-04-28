@@ -99,7 +99,7 @@ msgid "Набережная улица"
 msgstr ""
 
 # Objects : [w327014519]
-# name:be: []
+# name:be: [Набярэжны завулак]
 msgid "Набережный переулок"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgid "Озёрная улица"
 msgstr ""
 
 # Objects : [w235899615]
-# name:be: []
+# name:be: [Азёрны завулак]
 msgid "Озёрный переулок"
 msgstr ""
 

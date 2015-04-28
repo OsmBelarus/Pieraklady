@@ -1,11 +1,16 @@
+# Objects : [w334491269]
+# name:be: []
+msgid ""Днепр""
+msgstr ""
+
 # Objects : [w295103881]
 # name:be: []
 msgid "1000 мелочей"
 msgstr ""
 
-# Objects : [w109586699]
+# Objects : [w338446902]
 # name:be: []
-msgid "5 Элемент"
+msgid "Martin"
 msgstr ""
 
 # Objects : [w274275803]
@@ -21,6 +26,11 @@ msgstr ""
 # Objects : [w226590360]
 # name:be: []
 msgid "Алми"
+msgstr ""
+
+# Objects : [w334491271]
+# name:be: []
+msgid "Аптека"
 msgstr ""
 
 # Objects : [w108490704]
@@ -68,29 +78,9 @@ msgstr ""
 msgid "Ветлечебница"
 msgstr ""
 
-# Objects : [w243905085]
-# name:be: []
-msgid "ГК 22/1"
-msgstr ""
-
-# Objects : [w242210846]
-# name:be: []
-msgid "ГК42/5-2/5"
-msgstr ""
-
 # Objects : [w226857865]
 # name:be: []
 msgid "Городской Дом Культуры"
-msgstr ""
-
-# Objects : [w243040061]
-# name:be: []
-msgid "ГРП"
-msgstr ""
-
-# Objects : [w285848380]
-# name:be: []
-msgid "ГРП-9"
 msgstr ""
 
 # Objects : [w179224259]
@@ -168,14 +158,19 @@ msgstr ""
 msgid "Жлобинский металлургический коледж"
 msgstr ""
 
-# Objects : [w108600167]
-# name:be: []
-msgid "Заводской"
-msgstr ""
-
 # Objects : [w169123543]
 # name:be: []
 msgid "ЗАГС"
+msgstr ""
+
+# Objects : [w334282611]
+# name:be: []
+msgid "Игорвые автоматы"
+msgstr ""
+
+# Objects : [w338995832]
+# name:be: []
+msgid "Ирина"
 msgstr ""
 
 # Objects : [w108600120]
@@ -193,6 +188,11 @@ msgstr ""
 msgid "Колизей"
 msgstr ""
 
+# Objects : [w180580310]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [w160208050]
 # name:be: []
 msgid "Крытый рынок"
@@ -206,6 +206,11 @@ msgstr ""
 # Objects : [w165742419]
 # name:be: []
 msgid "Линия"
+msgstr ""
+
+# Objects : [w226847678]
+# name:be: []
+msgid "Локомотивное депо"
 msgstr ""
 
 # Objects : [w226847245, w226857884, w309863061, w327720603]
@@ -378,7 +383,7 @@ msgstr ""
 msgid "Стадион"
 msgstr ""
 
-# Objects : [w226844636, w294846612]
+# Objects : [w226844636, w265929563, w294846612]
 # name:be: []
 msgid "СТО"
 msgstr ""
@@ -396,6 +401,11 @@ msgstr ""
 # Objects : [w84534373]
 # name:be: []
 msgid "Торговый центр"
+msgstr ""
+
+# Objects : [w243916052, w244950600, w334816866, w334816867, w334817201, w340068513]
+# name:be: []
+msgid "ТП"
 msgstr ""
 
 # Objects : [w226857877, w263198393]
@@ -466,6 +476,11 @@ msgstr ""
 # Objects : [w263479984]
 # name:be: []
 msgid "Штофф"
+msgstr ""
+
+# Objects : [w109586699]
+# name:be: []
+msgid "Электросила"
 msgstr ""
 
 # Objects : [w109586666]

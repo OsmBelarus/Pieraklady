@@ -23,6 +23,11 @@ msgstr ""
 msgid "Гостиница Дзержинск"
 msgstr ""
 
+# Objects : [n3440903577, n3440903578]
+# name:be: [Дзяржынск]
+msgid "Дзержинск"
+msgstr ""
+
 # Objects : [w208406224]
 # name:be: []
 msgid "Дзержинский опытный механический завод"
@@ -38,11 +43,6 @@ msgstr ""
 msgid "Дзержинский экспериментально-механический завод"
 msgstr ""
 
-# Objects : [n1111706175]
-# name:be: []
-msgid "Дот"
-msgstr ""
-
 # Objects : [n2788680403]
 # name:be: [Замчышча]
 msgid "Замчища"
@@ -53,7 +53,7 @@ msgstr ""
 msgid "Исполком"
 msgstr ""
 
-# Objects : [n2706005379]
+# Objects : [n2706005379, n3440903579, n3440903580]
 # name:be: [Койданава]
 msgid "Койданово"
 msgstr ""
@@ -66,6 +66,11 @@ msgstr ""
 # Objects : [w208230341]
 # name:be: []
 msgid "ОАО «Амкодор-Дзержинск»"
+msgstr ""
+
+# Objects : [n1111706175]
+# name:be: []
+msgid "Оборонительное сооружение 1930-х гг."
 msgstr ""
 
 # Objects : [w281924949]

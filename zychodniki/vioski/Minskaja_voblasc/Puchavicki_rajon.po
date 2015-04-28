@@ -608,6 +608,11 @@ msgstr ""
 msgid "Красная Нива"
 msgstr ""
 
+# Objects : [w25121974]
+# name:be: [Чырвоны Бераг]
+msgid "Красный Берег"
+msgstr ""
+
 # Objects : [n243023381, w25111200]
 # name:be: [Красны Акцябр]
 msgid "Красный Октябрь"
@@ -1448,7 +1453,7 @@ msgstr ""
 msgid "Чароты"
 msgstr ""
 
-# Objects : [n2965472873, w25121974, w95775169]
+# Objects : [n2965472873, w95775169]
 # name:be: [Чырвоны Бераг]
 msgid "Чирвоный Берег"
 msgstr ""

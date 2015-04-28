@@ -43,6 +43,11 @@ msgstr ""
 msgid "Долгий"
 msgstr ""
 
+# Objects : [n3390958496]
+# name:be: []
+msgid "Дом охотника и рыболова "Смычёк""
+msgstr ""
+
 # Objects : [n243042387, w25085135]
 # name:be: []
 msgid "Застенный"
@@ -58,9 +63,19 @@ msgstr ""
 msgid "Колотин"
 msgstr ""
 
+# Objects : [r4700421]
+# name:be: []
+msgid "Ландшафтный заказник "Смычок""
+msgstr ""
+
 # Objects : [n243046227, w25083502]
 # name:be: [Ліпа]
 msgid "Липа"
+msgstr ""
+
+# Objects : [n3390630230]
+# name:be: []
+msgid "Лозов"
 msgstr ""
 
 # Objects : [n243046226, w25083499]
@@ -68,9 +83,19 @@ msgstr ""
 msgid "Лугиничи"
 msgstr ""
 
+# Objects : [n3390958385]
+# name:be: []
+msgid "Луговый"
+msgstr ""
+
 # Objects : [n243046249, w25083457]
 # name:be: []
 msgid "Лукьянов"
+msgstr ""
+
+# Objects : [n243042424, w25085191]
+# name:be: [Макаўе]
+msgid "Маковье"
 msgstr ""
 
 # Objects : [w143472556, w143472559]
@@ -136,5 +161,10 @@ msgstr ""
 # Objects : [n243046236, w25085134]
 # name:be: [Харошаўка]
 msgid "Хорошевка"
+msgstr ""
+
+# Objects : [n243043168, w337165247]
+# name:be: [Ясмень]
+msgid "Ясмень"
 msgstr ""
 

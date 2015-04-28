@@ -148,6 +148,11 @@ msgstr ""
 msgid "Детсад №99"
 msgstr ""
 
+# Objects : [w235254860, w235586966, w235586968]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
 # Objects : [w206289704]
 # name:be: []
 msgid "Дошкольный центр развития № 4"

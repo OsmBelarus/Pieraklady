@@ -3,11 +3,6 @@
 msgid "Дуб"
 msgstr ""
 
-# Objects : [n1670673866]
-# name:be: []
-msgid "Листопадовичское лесничество"
-msgstr ""
-
 # Objects : [w284637915]
 # name:be: []
 msgid "Панский парк и аллея"
@@ -15,7 +10,7 @@ msgstr ""
 
 # Objects : [w40991399]
 # name:be: []
-msgid "Парк четырех стихий"
+msgid "Парк четырёх стихий"
 msgstr ""
 
 # Objects : [w280307960]

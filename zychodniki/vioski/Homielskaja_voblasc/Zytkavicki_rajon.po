@@ -43,6 +43,16 @@ msgstr ""
 msgid "Боклань"
 msgstr ""
 
+# Objects : [n243009639, w25129378]
+# name:be: [Вялікія Сцяблевічы]
+msgid "Большие Стеблевичи"
+msgstr ""
+
+# Objects : [w25128154]
+# name:be: [Вялікае Малешава]
+msgid "Большое Малешево"
+msgstr ""
+
 # Objects : [n243013829, w25127022]
 # name:be: [Боркі]
 msgid "Борки"
@@ -80,17 +90,7 @@ msgstr ""
 
 # Objects : [n243013845, w25127024]
 # name:be: [Буразь]
-msgid "Бурязь"
-msgstr ""
-
-# Objects : [n243009639, w25129378]
-# name:be: [Вялікія Сцяблевічы]
-msgid "Великие Стеблевичи"
-msgstr ""
-
-# Objects : [w25128154]
-# name:be: [Вялікае Малешава]
-msgid "Великое Малешево"
+msgid "Бурезь"
 msgstr ""
 
 # Objects : [n243014731, w25128150]
@@ -229,8 +229,8 @@ msgid "Знаменка"
 msgstr ""
 
 # Objects : [n243014768, w25128120]
-# name:be: [Іёвічы]
-msgid "Иёвичи"
+# name:be: [Іовічы]
+msgid "Иовичи"
 msgstr ""
 
 # Objects : [n243016250, w25125785]
@@ -263,19 +263,24 @@ msgstr ""
 msgid "Корчеватка"
 msgstr ""
 
+# Objects : [n243016260, w25125807]
+# name:be: [Красная Зорка]
+msgid "Красная Зорька"
+msgstr ""
+
 # Objects : [n243013842, w25127023]
 # name:be: [Крэмнае]
 msgid "Кремное"
 msgstr ""
 
+# Objects : [n243014755, w25128135]
+# name:be: [Лагвошчы]
+msgid "Лагвощи"
+msgstr ""
+
 # Objects : [n243014744, w25129372]
 # name:be: [Ленін]
 msgid "Ленин"
-msgstr ""
-
-# Objects : [n243014755, w25128135]
-# name:be: [Лагвошчы]
-msgid "Логвощи"
 msgstr ""
 
 # Objects : [n243020890, w25125741]
@@ -335,7 +340,7 @@ msgstr ""
 
 # Objects : [n243014780, w25128126]
 # name:be: [Наваленін]
-msgid "Новоленин"
+msgid "Ново-Ленин"
 msgstr ""
 
 # Objects : [n243014783, w25128123]
@@ -433,19 +438,19 @@ msgstr ""
 msgid "Пуховичи"
 msgstr ""
 
-# Objects : [n243016319, w25125813]
-# name:be: [Рудня]
-msgid "Рудня"
-msgstr ""
-
 # Objects : [n243013839, w25127030]
 # name:be: [Рыдча]
-msgid "Рыдча"
+msgid "Ридча"
 msgstr ""
 
 # Objects : [n243013499, w25127043]
 # name:be: [Рычоў]
-msgid "Рычёв"
+msgid "Ричёв"
+msgstr ""
+
+# Objects : [n243016319, w25125813]
+# name:be: [Рудня]
+msgid "Рудня"
 msgstr ""
 
 # Objects : [n243013862, w25127015]
@@ -528,6 +533,11 @@ msgstr ""
 msgid "Хочень"
 msgstr ""
 
+# Objects : [n2778929306, w246121336]
+# name:be: [Чырвонае]
+msgid "Червоное"
+msgstr ""
+
 # Objects : [n243013865, w25127016]
 # name:be: [Чарацянка]
 msgid "Черетянка"
@@ -536,16 +546,6 @@ msgstr ""
 # Objects : [n243013826, w25127021]
 # name:be: [Чэрнічы]
 msgid "Черничи"
-msgstr ""
-
-# Objects : [n243016260, w25125807]
-# name:be: [Чырвоная Зорка]
-msgid "Чирвоная Зорька"
-msgstr ""
-
-# Objects : [n2778929306, w246121336]
-# name:be: [Чырвонае]
-msgid "Чирвоное"
 msgstr ""
 
 # Objects : [n243014749, w25128127]

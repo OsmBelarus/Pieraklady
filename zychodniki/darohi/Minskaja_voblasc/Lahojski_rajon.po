@@ -38,6 +38,11 @@ msgstr ""
 msgid "Колхозная улица"
 msgstr ""
 
+# Objects : [w234040592]
+# name:be: []
+msgid "Логоза - Селище"
+msgstr ""
+
 # Objects : [w122755540, w152676066]
 # name:be: [Маладзёжная вуліца]
 msgid "Молодёжная улица"

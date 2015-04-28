@@ -203,6 +203,11 @@ msgstr ""
 msgid "улица Почтовая"
 msgstr ""
 
+# Objects : [w217305575]
+# name:be: []
+msgid "улица Социалистическая"
+msgstr ""
+
 # Objects : [w253047946]
 # name:be: []
 msgid "улица Суслова"

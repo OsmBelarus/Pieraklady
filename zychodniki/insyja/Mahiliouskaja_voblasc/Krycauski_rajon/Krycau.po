@@ -43,6 +43,11 @@ msgstr ""
 msgid "Бюро технической инветаризации"
 msgstr ""
 
+# Objects : [n3414905855]
+# name:be: []
+msgid "В.И. Ленин"
+msgstr ""
+
 # Objects : [n2194128781]
 # name:be: []
 msgid "Ветврач"
@@ -51,11 +56,6 @@ msgstr ""
 # Objects : [w209182015]
 # name:be: []
 msgid "Ветлечебница"
-msgstr ""
-
-# Objects : [w82148614]
-# name:be: []
-msgid "Воскресенская"
 msgstr ""
 
 # Objects : [w245159550]
@@ -78,16 +78,6 @@ msgstr ""
 msgid "Госстрах"
 msgstr ""
 
-# Objects : [n956545036]
-# name:be: []
-msgid "Гостиница "Сож""
-msgstr ""
-
-# Objects : [n2766736696]
-# name:be: []
-msgid "Гостиница Сож"
-msgstr ""
-
 # Objects : [n2788680227]
 # name:be: [Палац Галынскіх]
 msgid "Дворец Голынских"
@@ -106,6 +96,11 @@ msgstr ""
 # Objects : [w226831882]
 # name:be: []
 msgid "детские горки"
+msgstr ""
+
+# Objects : [w203435862]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [w208564840]
@@ -173,6 +168,11 @@ msgstr ""
 msgid "контора ОРСа"
 msgstr ""
 
+# Objects : [w242699389]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [n2145344455]
 # name:be: []
 msgid "Краеведческий музей"
@@ -223,11 +223,6 @@ msgstr ""
 msgid "Магазин деской одежды"
 msgstr ""
 
-# Objects : [w209033202]
-# name:be: []
-msgid "магазин ритуальные услуги"
-msgstr ""
-
 # Objects : [w209162982]
 # name:be: []
 msgid "молодежный"
@@ -251,6 +246,11 @@ msgstr ""
 # Objects : [n2155870618]
 # name:be: []
 msgid "Народный суд"
+msgstr ""
+
+# Objects : [w340059217]
+# name:be: []
+msgid "Насосная"
 msgstr ""
 
 # Objects : [w216980690]
@@ -313,6 +313,11 @@ msgstr ""
 msgid "Спортивная площадка"
 msgstr ""
 
+# Objects : [w207705075]
+# name:be: []
+msgid "Средняя школа №1"
+msgstr ""
+
 # Objects : [n2142308237]
 # name:be: []
 msgid "Стоматолическое отделение ЦРБ"
@@ -343,14 +348,14 @@ msgstr ""
 msgid "Хлебзавод"
 msgstr ""
 
-# Objects : [w204210413]
-# name:be: []
-msgid "хокейная коробка"
-msgstr ""
-
 # Objects : [w209199836]
 # name:be: []
 msgid "Хокейная коробка"
+msgstr ""
+
+# Objects : [w204210413]
+# name:be: []
+msgid "хоккейная коробка"
 msgstr ""
 
 # Objects : [w208656682]
@@ -371,11 +376,6 @@ msgstr ""
 # Objects : [n2788686495]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
-msgstr ""
-
-# Objects : [n2788686592]
-# name:be: [Царква Святой Параскевы Пятніцы]
-msgid "Церковь Святой Параскевы Пятницы"
 msgstr ""
 
 # Objects : [w209183894]

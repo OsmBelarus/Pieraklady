@@ -123,7 +123,7 @@ msgstr ""
 msgid "Мемориал Буйничское Поле"
 msgstr ""
 
-# Objects : [n1365666930, n303748456, n306068635]
+# Objects : [n1365666930, n303748456]
 # name:be: [Магілёў]
 msgid "Могилёв"
 msgstr ""
@@ -158,6 +158,11 @@ msgstr ""
 msgid "Пашковское"
 msgstr ""
 
+# Objects : [n3414558209]
+# name:be: []
+msgid "Плохая почва, дальше не ехать!!!"
+msgstr ""
+
 # Objects : [n2788683601]
 # name:be: [Паштовая станцыя]
 msgid "Почтовая станция"
@@ -166,6 +171,16 @@ msgstr ""
 # Objects : [r3164537]
 # name:be: []
 msgid "Приозерная улица"
+msgstr ""
+
+# Objects : [w338634302]
+# name:be: []
+msgid "пруд"
+msgstr ""
+
+# Objects : [w330005021]
+# name:be: []
+msgid "ПРУД"
 msgstr ""
 
 # Objects : [w314159451]
@@ -198,6 +213,11 @@ msgstr ""
 msgid "С/т "Колосок""
 msgstr ""
 
+# Objects : [n3413149243]
+# name:be: []
+msgid "садовое товарищество "Лужки""
+msgstr ""
+
 # Objects : [n2766722493]
 # name:be: []
 msgid "Санаторий Дубровенка"
@@ -216,6 +236,11 @@ msgstr ""
 # Objects : [w299637414, w299798945, w299799322]
 # name:be: []
 msgid "СерволюксАгро"
+msgstr ""
+
+# Objects : [n3442789063]
+# name:be: []
+msgid "СКП Аэродром Ново-Пашково АСК ДОСААФ им. Кулагина"
 msgstr ""
 
 # Objects : [r3164538]

@@ -1,6 +1,16 @@
+# Objects : [n2964025807, n2964025808, n2964025809, n2964025810]
+# name:be: []
+msgid "Автозапчасти"
+msgstr ""
+
 # Objects : [n3219401555]
 # name:be: []
 msgid "Доброном"
+msgstr ""
+
+# Objects : [n2451451093]
+# name:be: []
+msgid "Колбасный цех"
 msgstr ""
 
 # Objects : [n2666655160]
@@ -11,5 +21,10 @@ msgstr ""
 # Objects : [n2666655163]
 # name:be: []
 msgid "Родны кут"
+msgstr ""
+
+# Objects : [n2964025811]
+# name:be: []
+msgid "СТО"
 msgstr ""
 

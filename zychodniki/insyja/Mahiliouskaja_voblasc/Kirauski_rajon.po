@@ -68,6 +68,11 @@ msgstr ""
 msgid "регулятор"
 msgstr ""
 
+# Objects : [w340907664]
+# name:be: []
+msgid "ферма"
+msgstr ""
+
 # Objects : [n2788685346]
 # name:be: [Гаспадарчы двор]
 msgid "Хозяйственный двор"
@@ -76,5 +81,10 @@ msgstr ""
 # Objects : [r538654]
 # name:be: []
 msgid "Чигиринское"
+msgstr ""
+
+# Objects : [w340906282]
+# name:be: []
+msgid "яблони"
 msgstr ""
 

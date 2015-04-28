@@ -18,6 +18,26 @@ msgstr ""
 msgid "Воинам-интернационалистам"
 msgstr ""
 
+# Objects : [w339223825]
+# name:be: []
+msgid "Гаражные кооперативы №№3, 3А, 4"
+msgstr ""
+
+# Objects : [w339215349]
+# name:be: []
+msgid "Гаражный кооператив №1"
+msgstr ""
+
+# Objects : [w339215066]
+# name:be: []
+msgid "Гаражный кооператив №2"
+msgstr ""
+
+# Objects : [w339228722]
+# name:be: []
+msgid "Гаражный кооператив №5"
+msgstr ""
+
 # Objects : [w155267562]
 # name:be: []
 msgid "Голубая мечта"
@@ -63,16 +83,6 @@ msgstr ""
 msgid "Лукомльская ГРЭС"
 msgstr ""
 
-# Objects : [n2463372729]
-# name:be: []
-msgid "Лукомльской ГРЭС"
-msgstr ""
-
-# Objects : [n3214158166]
-# name:be: []
-msgid "Магазин"
-msgstr ""
-
 # Objects : [n1137585554]
 # name:be: [Міліцыя]
 msgid "Милиция"
@@ -81,11 +91,6 @@ msgstr ""
 # Objects : [w155261077, w289088611]
 # name:be: []
 msgid "Молоко ОАО Новолукомльский филиал"
-msgstr ""
-
-# Objects : [n3216099882]
-# name:be: []
-msgid "Музыкальная школа искусств"
 msgstr ""
 
 # Objects : [n1137584070]
@@ -106,6 +111,16 @@ msgstr ""
 # Objects : [w241522416]
 # name:be: []
 msgid "ОАО "Завод Этон""
+msgstr ""
+
+# Objects : [w337654316]
+# name:be: []
+msgid "ОАО "Лукомльэнергомонтаж""
+msgstr ""
+
+# Objects : [w337654313]
+# name:be: []
+msgid "ОАО "ЛЭМ""
 msgstr ""
 
 # Objects : [w155267614]
@@ -133,14 +148,14 @@ msgstr ""
 msgid "Парапеты"
 msgstr ""
 
-# Objects : [w301638469]
-# name:be: []
-msgid "ПГУ-400 Лукомльской ГРЭС"
-msgstr ""
-
 # Objects : [w315303428]
 # name:be: []
 msgid "площадка с тренажерами"
+msgstr ""
+
+# Objects : [w32046135]
+# name:be: []
+msgid "Райгаз"
 msgstr ""
 
 # Objects : [w165587175]
@@ -148,9 +163,24 @@ msgstr ""
 msgid "РУПП "Витебскхлебпром" филиал "Новолукомльский хлебозавод""
 msgstr ""
 
-# Objects : [n1676690795]
+# Objects : [r4832460]
 # name:be: []
-msgid "садик"
+msgid "Садовое товарищество "Мичуринец""
+msgstr ""
+
+# Objects : [w339230007]
+# name:be: []
+msgid "Садовое товарищество "Энергетик""
+msgstr ""
+
+# Objects : [w155261082]
+# name:be: []
+msgid "Средняя школа №1"
+msgstr ""
+
+# Objects : [w155261105]
+# name:be: []
+msgid "Средняя школа №2"
 msgstr ""
 
 # Objects : [n3216099881]
@@ -163,24 +193,14 @@ msgstr ""
 msgid "тогровый рынок"
 msgstr ""
 
-# Objects : [w238103664]
+# Objects : [w336728170]
 # name:be: []
-msgid "ТП-10"
+msgid "УНП ЖКХ "Коммунальник""
 msgstr ""
 
-# Objects : [w241814087]
+# Objects : [w340690022]
 # name:be: []
-msgid "ТП-13"
-msgstr ""
-
-# Objects : [w239004604]
-# name:be: []
-msgid "ТП-3"
-msgstr ""
-
-# Objects : [w155261223]
-# name:be: []
-msgid "ТП-4"
+msgid "УС ЛГРЭС"
 msgstr ""
 
 # Objects : [n2443482473]
@@ -205,6 +225,6 @@ msgstr ""
 
 # Objects : [w320210279]
 # name:be: []
-msgid "яблочный сад"
+msgid "яблоневый сад"
 msgstr ""
 

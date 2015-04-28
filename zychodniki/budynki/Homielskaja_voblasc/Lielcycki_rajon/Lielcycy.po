@@ -1,3 +1,8 @@
+# Objects : [w335554412]
+# name:be: []
+msgid ""Дары от Зари""
+msgstr ""
+
 # Objects : [w320956113]
 # name:be: []
 msgid ""Игрушка""
@@ -11,6 +16,16 @@ msgstr ""
 # Objects : [w320956112]
 # name:be: []
 msgid ""Мебель - техника""
+msgstr ""
+
+# Objects : [w335554661]
+# name:be: []
+msgid ""Мечта""
+msgstr ""
+
+# Objects : [w333037312]
+# name:be: []
+msgid ""Радуга""
 msgstr ""
 
 # Objects : [w240520739]
@@ -33,6 +48,11 @@ msgstr ""
 msgid "Евроопт"
 msgstr ""
 
+# Objects : [w320956114]
+# name:be: []
+msgid "Журавинка"
+msgstr ""
+
 # Objects : [w240110972]
 # name:be: []
 msgid "Лельчицкий цех газового хозяйства"
@@ -53,8 +73,28 @@ msgstr ""
 msgid "Райисполком"
 msgstr ""
 
-# Objects : [w323231975, w323767251]
+# Objects : [w315882081, w323231975, w323767251]
 # name:be: []
 msgid "Родны кут"
+msgstr ""
+
+# Objects : [w333044423]
+# name:be: []
+msgid "тир"
+msgstr ""
+
+# Objects : [w333042844]
+# name:be: []
+msgid "ТП"
+msgstr ""
+
+# Objects : [w333809378]
+# name:be: []
+msgid "ТП КН"
+msgstr ""
+
+# Objects : [w333035337]
+# name:be: []
+msgid "ЦТП"
 msgstr ""
 

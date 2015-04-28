@@ -33,6 +33,11 @@ msgstr ""
 msgid "Баня"
 msgstr ""
 
+# Objects : [n3386014685]
+# name:be: []
+msgid "Белое болото"
+msgstr ""
+
 # Objects : [n2794024482]
 # name:be: []
 msgid "Белое Болото"
@@ -63,6 +68,11 @@ msgstr ""
 msgid "Братская могила ВОВ"
 msgstr ""
 
+# Objects : [w333226679]
+# name:be: []
+msgid "Ведричская средняя школа"
+msgstr ""
+
 # Objects : [n2782813120]
 # name:be: []
 msgid "Ветхинь"
@@ -86,6 +96,11 @@ msgstr ""
 # Objects : [n2794024486]
 # name:be: []
 msgid "Гиров"
+msgstr ""
+
+# Objects : [n3390958301]
+# name:be: []
+msgid "Глыбов"
 msgstr ""
 
 # Objects : [w262963664]
@@ -163,6 +178,21 @@ msgstr ""
 msgid "Дом культуры"
 msgstr ""
 
+# Objects : [n3390956687]
+# name:be: []
+msgid "Дом охотника и рыбака "Гагали""
+msgstr ""
+
+# Objects : [n3385871192]
+# name:be: []
+msgid "Дуброва"
+msgstr ""
+
+# Objects : [n3385876693]
+# name:be: []
+msgid "Елизаровичи"
+msgstr ""
+
 # Objects : [n2705167263]
 # name:be: []
 msgid "Жмуровка"
@@ -186,6 +216,11 @@ msgstr ""
 # Objects : [n1577824935]
 # name:be: []
 msgid "Золотой ручей"
+msgstr ""
+
+# Objects : [w301439753]
+# name:be: [Папраўчая калонія № 4]
+msgid "Исправительная колония № 4"
 msgstr ""
 
 # Objects : [w302120175]
@@ -233,6 +268,11 @@ msgstr ""
 msgid "Копань"
 msgstr ""
 
+# Objects : [n3390958302]
+# name:be: []
+msgid "Короватичи"
+msgstr ""
+
 # Objects : [w321952247]
 # name:be: []
 msgid "Короватичская средняя школа"
@@ -241,6 +281,11 @@ msgstr ""
 # Objects : [n2782807436]
 # name:be: []
 msgid "Краснополье"
+msgstr ""
+
+# Objects : [r4700421]
+# name:be: []
+msgid "Ландшафтный заказник "Смычок""
 msgstr ""
 
 # Objects : [w311403498]
@@ -318,7 +363,7 @@ msgstr ""
 msgid "озеро Ляхово"
 msgstr ""
 
-# Objects : [n2681626466]
+# Objects : [n2681626466, n3390958303]
 # name:be: []
 msgid "Озерщина"
 msgstr ""
@@ -418,9 +463,19 @@ msgstr ""
 msgid "Покровский источник"
 msgstr ""
 
+# Objects : [w174265847]
+# name:be: []
+msgid "Пост ЭЦ"
+msgstr ""
+
 # Objects : [n243043137]
 # name:be: [Прудзіща]
 msgid "Прудище (нежил)"
+msgstr ""
+
+# Objects : [n3385876697]
+# name:be: []
+msgid "Рассвет"
 msgstr ""
 
 # Objects : [n306064197]
@@ -431,6 +486,21 @@ msgstr ""
 # Objects : [n3331316249]
 # name:be: []
 msgid "Речица"
+msgstr ""
+
+# Objects : [w264255210]
+# name:be: []
+msgid "Ровенскослободская средняя школа"
+msgstr ""
+
+# Objects : [n3415515949]
+# name:be: []
+msgid "Ровенско-Слободский историко-культурный мемориальный музей «Память»"
+msgstr ""
+
+# Objects : [w323398249]
+# name:be: []
+msgid "Ровенскослободский ясли - сад"
 msgstr ""
 
 # Objects : [w263099433]
@@ -476,6 +546,11 @@ msgstr ""
 # Objects : [w323005252]
 # name:be: []
 msgid "Солтановская средняя школа"
+msgstr ""
+
+# Objects : [w270561534]
+# name:be: []
+msgid "станция Бабичи"
 msgstr ""
 
 # Objects : [n2713471950]
@@ -541,11 +616,6 @@ msgstr ""
 # Objects : [n2794024742]
 # name:be: []
 msgid "Чёрное"
-msgstr ""
-
-# Objects : [w264255210]
-# name:be: []
-msgid "школа"
 msgstr ""
 
 # Objects : [n2684760896, r3549357]

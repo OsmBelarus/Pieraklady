@@ -18,11 +18,6 @@ msgstr ""
 msgid "Берёзки"
 msgstr ""
 
-# Objects : [n243044551, w25080378]
-# name:be: [Беразнякі]
-msgid "Березняки"
-msgstr ""
-
 # Objects : [n243045539, w25079309]
 # name:be: []
 msgid "Большой Лес"
@@ -51,16 +46,6 @@ msgstr ""
 # Objects : [n243045313, w25078669]
 # name:be: [Весялоўка]
 msgid "Веселовка"
-msgstr ""
-
-# Objects : [n243045534, w25079329]
-# name:be: []
-msgid "Волна"
-msgstr ""
-
-# Objects : [n243045530, w25079342]
-# name:be: []
-msgid "Вылево"
 msgstr ""
 
 # Objects : [n243044569, w25080422]
@@ -100,7 +85,7 @@ msgstr ""
 
 # Objects : [n243045622, w25079427]
 # name:be: [Дзімітраўка]
-msgid "Димитровка"
+msgid "Дмитриевка"
 msgstr ""
 
 # Objects : [n243045522, w25079357]
@@ -130,7 +115,7 @@ msgstr ""
 
 # Objects : [n243044556, w25081214]
 # name:be: [Жгуна-Буда]
-msgid "Жгуна-Буда"
+msgid "Жгуно-Буда"
 msgstr ""
 
 # Objects : [n243044561, w25080403]
@@ -213,19 +198,39 @@ msgstr ""
 msgid "Красная Буда"
 msgstr ""
 
-# Objects : [n243045531, w25079340]
-# name:be: []
-msgid "Красная Знамя"
+# Objects : [n243046398, w25081240]
+# name:be: [Чырвоная Гара]
+msgid "Красная Гора"
 msgstr ""
 
-# Objects : [n243045544, w25079293]
-# name:be: []
-msgid "Красный Лог"
+# Objects : [n243045617, w25079414]
+# name:be: [Чырвоны Алёс]
+msgid "Красный Алёс"
+msgstr ""
+
+# Objects : [n243045645, w25079405]
+# name:be: [Красны Камень]
+msgid "Красный Камень"
+msgstr ""
+
+# Objects : [n243044552, w25080407]
+# name:be: [Чырвоны Курган]
+msgid "Красный Курган"
+msgstr ""
+
+# Objects : [n243044570, w25080427]
+# name:be: [Красны Акцябр]
+msgid "Красный Октябрь"
 msgstr ""
 
 # Objects : [n243045650, w25079407]
 # name:be: []
 msgid "Красный Орел"
+msgstr ""
+
+# Objects : [n243045307, w25078662]
+# name:be: [Чырвоны Партызан]
+msgid "Красный Партизан"
 msgstr ""
 
 # Objects : [n243045649, w25079410]
@@ -238,9 +243,9 @@ msgstr ""
 msgid "Круговец-Калинино"
 msgstr ""
 
-# Objects : [n243045536, w25079315]
-# name:be: [Кругоўка]
-msgid "Круговка"
+# Objects : [n3453945821, r4784005]
+# name:be: [Крупец]
+msgid "Крупец"
 msgstr ""
 
 # Objects : [n243045306, w25079404]
@@ -268,11 +273,6 @@ msgstr ""
 msgid "Ленино"
 msgstr ""
 
-# Objects : [n243044545, w25080339]
-# name:be: [Лявонцьева]
-msgid "Леонтьево"
-msgstr ""
-
 # Objects : [n243044560, w25080385]
 # name:be: [Лагуны]
 msgid "Логуны"
@@ -293,21 +293,6 @@ msgstr ""
 msgid "Марьино"
 msgstr ""
 
-# Objects : [n243045626, w25079438]
-# name:be: [Мікалаеўка]
-msgid "Миколаевка"
-msgstr ""
-
-# Objects : [n243044530, w25080334]
-# name:be: [Млынок]
-msgid "Млынок"
-msgstr ""
-
-# Objects : [n243045535, w25079318]
-# name:be: [Марозаўка]
-msgid "Морозовка"
-msgstr ""
-
 # Objects : [n243044548, w25080384]
 # name:be: []
 msgid "Мостище"
@@ -323,6 +308,11 @@ msgstr ""
 msgid "Нивки"
 msgstr ""
 
+# Objects : [n243045626, w25079438]
+# name:be: [Нікалаеўка]
+msgid "Николаевка"
+msgstr ""
+
 # Objects : [n243044546, w25080405]
 # name:be: [Навадружаскі]
 msgid "Новодружеский"
@@ -331,11 +321,6 @@ msgstr ""
 # Objects : [n243045648, w25079406]
 # name:be: [Новае Жыццё]
 msgid "Новое Житьё"
-msgstr ""
-
-# Objects : [n243044559, w25080388]
-# name:be: [Новы Крупец]
-msgid "Новый Крупец"
 msgstr ""
 
 # Objects : [n243045647, w25080418]
@@ -363,29 +348,14 @@ msgstr ""
 msgid "Ольховое"
 msgstr ""
 
-# Objects : [n243045543, w25079303]
-# name:be: []
-msgid "Очесо-Рудня"
-msgstr ""
-
-# Objects : [n243045541, w25079295]
-# name:be: []
-msgid "Пенное"
+# Objects : [n243044550, w25080383]
+# name:be: [Первамайскі]
+msgid "Первомайский"
 msgstr ""
 
 # Objects : [n243045641, w25079392]
 # name:be: [Перарост]
 msgid "Перерост"
-msgstr ""
-
-# Objects : [n243044550, w25080383]
-# name:be: [Першамайскі]
-msgid "Першемайский"
-msgstr ""
-
-# Objects : [n243045526, w25079350]
-# name:be: []
-msgid "Плоское"
 msgstr ""
 
 # Objects : [n243044540, w25080347]
@@ -443,11 +413,6 @@ msgstr ""
 msgid "Староселье"
 msgstr ""
 
-# Objects : [n243044562, w25080401]
-# name:be: [Стары Крупец]
-msgid "Старый Крупец"
-msgstr ""
-
 # Objects : [n243045520, w25079366]
 # name:be: [Сцяпанаў]
 msgid "Степанов"
@@ -461,11 +426,6 @@ msgstr ""
 # Objects : [n242979098, n243045619, w25079420, w25080420]
 # name:be: [Церахоўка]
 msgid "Тереховка"
-msgstr ""
-
-# Objects : [n243045314, w25078679]
-# name:be: []
-msgid "Торф. Стахановец"
 msgstr ""
 
 # Objects : [n243045527, w25079347]
@@ -498,43 +458,8 @@ msgstr ""
 msgid "Хутор"
 msgstr ""
 
-# Objects : [n243046398, w25081240]
-# name:be: [Чырвоная Гара]
-msgid "Чирвоная Гора"
-msgstr ""
-
-# Objects : [n243045617, w25079414]
-# name:be: [Чырвоны Алёс]
-msgid "Чирвоный Алёс"
-msgstr ""
-
-# Objects : [n243045645, w25079405]
-# name:be: [Чырвоны Камень]
-msgid "Чирвоный Камень"
-msgstr ""
-
-# Objects : [n243044570, w25080427]
-# name:be: [Чырвоны Кастрычнік]
-msgid "Чирвоный Костричник"
-msgstr ""
-
-# Objects : [n243044552, w25080407]
-# name:be: [Чырвоны Курган]
-msgid "Чирвоный Курган"
-msgstr ""
-
-# Objects : [n243045307, w25078662]
-# name:be: [Чырвоны Партызан]
-msgid "Чирвоный Партизан"
-msgstr ""
-
 # Objects : [n243045637, w25079378]
 # name:be: [Ясенкі]
 msgid "Ясенки"
-msgstr ""
-
-# Objects : [n243045540, w25079304]
-# name:be: []
-msgid "Ясная Долина"
 msgstr ""
 

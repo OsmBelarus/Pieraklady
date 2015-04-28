@@ -98,7 +98,7 @@ msgstr ""
 msgid "КЗСК-30"
 msgstr ""
 
-# Objects : [w208554620, w210180174, w210191502, w210711020, w210729422, w210924431]
+# Objects : [w208554620, w210180174, w210191502, w210711020, w210924431, w325872545]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -216,11 +216,6 @@ msgstr ""
 # Objects : [w326728074]
 # name:be: []
 msgid "ШРП-5"
-msgstr ""
-
-# Objects : [w215232797]
-# name:be: []
-msgid "ШРП-9"
 msgstr ""
 
 # Objects : [w256018105]

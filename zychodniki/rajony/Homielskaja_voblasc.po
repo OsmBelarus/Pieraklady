@@ -28,6 +28,11 @@ msgstr ""
 msgid "Глусский район"
 msgstr ""
 
+# Objects : [r163244]
+# name:be: [Гомель]
+msgid "Гомель"
+msgstr ""
+
 # Objects : [r1469691]
 # name:be: [Гомельскі раён]
 msgid "Гомельский район"
@@ -90,7 +95,7 @@ msgstr ""
 
 # Objects : [r71140]
 # name:be: [Любанскі раён]
-msgid "Любаньский район"
+msgid "Любанский район"
 msgstr ""
 
 # Objects : [r70815]

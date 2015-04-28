@@ -13,7 +13,7 @@ msgstr ""
 msgid "Минская улица"
 msgstr ""
 
-# Objects : [w80219160]
+# Objects : [w337647644, w80219160]
 # name:be: [Маскоўская вуліца]
 msgid "Московская улица"
 msgstr ""
@@ -38,6 +38,11 @@ msgstr ""
 msgid "Пролетарская улица"
 msgstr ""
 
+# Objects : [w164379810]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
 # Objects : [w164471534]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
@@ -51,6 +56,11 @@ msgstr ""
 # Objects : [w164372999, w164664487, w164664488]
 # name:be: [вуліца 8 Сакавіка]
 msgid "улица 8 Марта"
+msgstr ""
+
+# Objects : [w134415937, w238756774]
+# name:be: []
+msgid "улица Гагарина"
 msgstr ""
 
 # Objects : [w164379809]
@@ -126,5 +136,10 @@ msgstr ""
 # Objects : [w238756726]
 # name:be: [вуліца Энгельса]
 msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w238756752]
+# name:be: []
+msgid "Школьная улица"
 msgstr ""
 

@@ -48,7 +48,12 @@ msgstr ""
 msgid "Ленинская улица"
 msgstr ""
 
-# Objects : [w154222613]
+# Objects : [w329670333]
+# name:be: []
+msgid "Лесная"
+msgstr ""
+
+# Objects : [w154222613, w331988285]
 # name:be: []
 msgid "Лесная улица"
 msgstr ""
@@ -63,7 +68,7 @@ msgstr ""
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w112605581, w113507710, w113507805, w116506834, w151849929, w275252185, w276735894, w316945823]
+# Objects : [w112605581, w113507710, w113507805, w116506834, w151849929, w275252185, w316945823]
 # name:be: []
 msgid "Молодёжная улица"
 msgstr ""
@@ -133,7 +138,7 @@ msgstr ""
 msgid "Садовая улица"
 msgstr ""
 
-# Objects : [w112571129, w114324301, w276504054, w287460930, w317764203]
+# Objects : [w112571129, w114324301, w276504054, w287460930, w317764203, w331037103]
 # name:be: []
 msgid "Советская улица"
 msgstr ""
@@ -153,14 +158,9 @@ msgstr ""
 msgid "Спортивная улица"
 msgstr ""
 
-# Objects : [w276735895]
+# Objects : [w276735895, w331037104]
 # name:be: []
 msgid "Строительная улица"
-msgstr ""
-
-# Objects : [w274909368]
-# name:be: []
-msgid "ул. Абрамовичей"
 msgstr ""
 
 # Objects : [w316777637]
@@ -178,7 +178,12 @@ msgstr ""
 msgid "ул.Костюшко"
 msgstr ""
 
-# Objects : [w317330020]
+# Objects : [w331328012]
+# name:be: []
+msgid "ул.Ленинская"
+msgstr ""
+
+# Objects : [w113507815, w317330020, w331988286]
 # name:be: []
 msgid "ул.Лесная"
 msgstr ""
@@ -193,9 +198,14 @@ msgstr ""
 msgid "ул.Октябрьская"
 msgstr ""
 
-# Objects : [w151853489]
+# Objects : [w113507780]
 # name:be: []
-msgid "ул.Постраша"
+msgid "ул.Пролетарская"
+msgstr ""
+
+# Objects : [w274909368]
+# name:be: []
+msgid "улица Абрамовичей"
 msgstr ""
 
 # Objects : [w116506799]
@@ -211,6 +221,11 @@ msgstr ""
 # Objects : [w116506807]
 # name:be: []
 msgid "улица Набережная"
+msgstr ""
+
+# Objects : [w151853489]
+# name:be: []
+msgid "улица Постраша"
 msgstr ""
 
 # Objects : [w25282139]
@@ -238,7 +253,7 @@ msgstr ""
 msgid "Чернобыльская улица"
 msgstr ""
 
-# Objects : [w276504057]
+# Objects : [w112566322, w330810572]
 # name:be: []
 msgid "Школьная улица"
 msgstr ""

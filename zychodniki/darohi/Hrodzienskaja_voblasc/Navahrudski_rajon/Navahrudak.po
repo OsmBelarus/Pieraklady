@@ -34,7 +34,7 @@ msgid "1-й переулок Сечко"
 msgstr ""
 
 # Objects : [w301763582]
-# name:be: []
+# name:be: [1-ы завулак Тургенева]
 msgid "1-й переулок Тургенева"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgid "2-й переулок Свердлова"
 msgstr ""
 
 # Objects : [w171380660]
-# name:be: []
+# name:be: [2-і завулак Тургенева]
 msgid "2-й переулок Тургенева"
 msgstr ""
 
@@ -348,7 +348,7 @@ msgstr ""
 msgid "Полевой переулок"
 msgstr ""
 
-# Objects : [w57863106]
+# Objects : [w341126293, w57863106]
 # name:be: [Паштовая вуліца]
 msgid "Почтовая улица"
 msgstr ""
@@ -364,7 +364,7 @@ msgid "Садовый переулок"
 msgstr ""
 
 # Objects : [w326180322]
-# name:be: []
+# name:be: [Паўночная вуліца]
 msgid "Северная улица"
 msgstr ""
 
@@ -514,7 +514,7 @@ msgid "улица Калиновского"
 msgstr ""
 
 # Objects : [w97941669]
-# name:be: []
+# name:be: [вуліца Карскага]
 msgid "улица Карского"
 msgstr ""
 
@@ -694,7 +694,7 @@ msgid "улица Чапаева"
 msgstr ""
 
 # Objects : [w114962436]
-# name:be: []
+# name:be: [вуліца Чэхава]
 msgid "улица Чехова"
 msgstr ""
 

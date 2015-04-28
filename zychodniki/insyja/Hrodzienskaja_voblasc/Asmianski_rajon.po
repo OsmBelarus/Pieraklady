@@ -43,6 +43,11 @@ msgstr ""
 msgid "Бартели"
 msgstr ""
 
+# Objects : [n3453862516]
+# name:be: [Беларуснафта №38]
+msgid "Белоруснефть №38"
+msgstr ""
+
 # Objects : [n2724868207, w267006140]
 # name:be: [Бялянішкі]
 msgid "Белянишки"
@@ -270,7 +275,7 @@ msgstr ""
 
 # Objects : [n242995272, w198491656]
 # name:be: [Лакуцеўшчына]
-msgid "Лакутевщина"
+msgid "Лакутиевщина"
 msgstr ""
 
 # Objects : [n242996886, w25136894]
@@ -308,7 +313,7 @@ msgstr ""
 msgid "Лужи"
 msgstr ""
 
-# Objects : [n2355910736, n2355910737, n242995394, w115849957]
+# Objects : [n2355910736, n2355910737]
 # name:be: [Людзвінова]
 msgid "Людвиново"
 msgstr ""
@@ -321,11 +326,6 @@ msgstr ""
 # Objects : [n2101922175, w200195115]
 # name:be: [Малышкаўшчына]
 msgid "Малышковщина"
-msgstr ""
-
-# Objects : [n3051491871, w301037472]
-# name:be: [Маргі]
-msgid "Марги"
 msgstr ""
 
 # Objects : [n2101991088, w200203094]
@@ -366,6 +366,11 @@ msgstr ""
 # Objects : [n2102240598, w200232009]
 # name:be: [Мажэйкі]
 msgid "Можейки"
+msgstr ""
+
+# Objects : [n3051491871, w301037472]
+# name:be: [Маргі]
+msgid "Морги"
 msgstr ""
 
 # Objects : [n2702141340, w264547467]
@@ -443,11 +448,6 @@ msgstr ""
 msgid "Руденишки"
 msgstr ""
 
-# Objects : [n2788687760]
-# name:be: [руіны]
-msgid "руины"
-msgstr ""
-
 # Objects : [n2362006187, n2362006192]
 # name:be: []
 msgid "Садовый участок"
@@ -466,6 +466,11 @@ msgstr ""
 # Objects : [w129440769]
 # name:be: []
 msgid "Старое еврейское кладбище"
+msgstr ""
+
+# Objects : [w332258132]
+# name:be: [Стары Гальшанскі замак]
+msgid "Старый Гольшанский замок"
 msgstr ""
 
 # Objects : [n2101991091, w200203102]

@@ -18,6 +18,11 @@ msgstr ""
 msgid "парикмахерская "у Ларисы""
 msgstr ""
 
+# Objects : [n3441620833]
+# name:be: []
+msgid "Продуктовый"
+msgstr ""
+
 # Objects : [n1402476532]
 # name:be: [Сосны]
 msgid "Сосны"

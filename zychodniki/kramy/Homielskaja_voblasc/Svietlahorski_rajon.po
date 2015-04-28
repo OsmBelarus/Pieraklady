@@ -58,11 +58,6 @@ msgstr ""
 msgid "Березина"
 msgstr ""
 
-# Objects : [n2189578247]
-# name:be: []
-msgid "Березки"
-msgstr ""
-
 # Objects : [n2940862010]
 # name:be: []
 msgid "БУтик"
@@ -118,11 +113,6 @@ msgstr ""
 msgid "Камелия"
 msgstr ""
 
-# Objects : [n1537088637]
-# name:be: []
-msgid "Книжный"
-msgstr ""
-
 # Objects : [n823149585]
 # name:be: []
 msgid "Колосок"
@@ -166,11 +156,6 @@ msgstr ""
 # Objects : [n2358245070]
 # name:be: []
 msgid "Мастер"
-msgstr ""
-
-# Objects : [n1180678137]
-# name:be: []
-msgid "Меридиан"
 msgstr ""
 
 # Objects : [n2212790257]
@@ -246,11 +231,6 @@ msgstr ""
 # Objects : [n978647745]
 # name:be: []
 msgid "Техносервис плюс"
-msgstr ""
-
-# Objects : [n878885497]
-# name:be: []
-msgid "Торговый центр"
 msgstr ""
 
 # Objects : [n1511530905]

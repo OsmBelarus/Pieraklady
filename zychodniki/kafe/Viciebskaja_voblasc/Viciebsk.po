@@ -1,3 +1,8 @@
+# Objects : [n3404989773]
+# name:be: []
+msgid "7 комнат"
+msgstr ""
+
 # Objects : [n1158125009]
 # name:be: [Arena Deserto]
 msgid "Arena Deserto"
@@ -94,7 +99,7 @@ msgid "Бульбяная"
 msgstr ""
 
 # Objects : [n1124825589]
-# name:be: []
+# name:be: [Васількі]
 msgid "Васильки"
 msgstr ""
 
@@ -118,6 +123,11 @@ msgstr ""
 msgid "Витебский трактир"
 msgstr ""
 
+# Objects : [n1157361808]
+# name:be: [Чараўнік]
+msgid "Волшебник"
+msgstr ""
+
 # Objects : [n1537013062]
 # name:be: [Гермес]
 msgid "Гермес"
@@ -126,11 +136,6 @@ msgstr ""
 # Objects : [n1109040492]
 # name:be: [Горад]
 msgid "Город"
-msgstr ""
-
-# Objects : [n1157361808]
-# name:be: [Гранд-кафэ]
-msgid "Гранд Кафе"
 msgstr ""
 
 # Objects : [n1902072542]
@@ -193,11 +198,6 @@ msgstr ""
 msgid "Катюша"
 msgstr ""
 
-# Objects : [n1106651755]
-# name:be: []
-msgid "Кафе "Гоа""
-msgstr ""
-
 # Objects : [n861267354]
 # name:be: [Кавярня «ОК»]
 msgid "Кафе "ОК""
@@ -208,7 +208,7 @@ msgstr ""
 msgid "кафе «Ника»"
 msgstr ""
 
-# Objects : [n1606610370, n2480869569]
+# Objects : [n1606610370, n2480869569, n3097243848]
 # name:be: []
 msgid "Кафетерий"
 msgstr ""
@@ -283,11 +283,6 @@ msgstr ""
 msgid "Мега"
 msgstr ""
 
-# Objects : [n1305904624]
-# name:be: [Метан+]
-msgid "Метан+"
-msgstr ""
-
 # Objects : [n2874246250]
 # name:be: []
 msgid "Мини-кафе"
@@ -350,7 +345,7 @@ msgstr ""
 
 # Objects : [n2473369592]
 # name:be: []
-msgid "Пиццерия "Presto Pizza ". Фастфуд "Funny Chicken".  "Уноси-ка суши""
+msgid "Пиццерия "Presto Pizza ". Фастфуд "Funny Chicken". "Уноси-ка суши""
 msgstr ""
 
 # Objects : [n2589603360]
@@ -403,7 +398,7 @@ msgstr ""
 msgid "Рудаково"
 msgstr ""
 
-# Objects : [n3097158999, n3097243848, n3097245823]
+# Objects : [n3097158999, n3097245823]
 # name:be: []
 msgid "рюмочная"
 msgstr ""
@@ -443,7 +438,7 @@ msgstr ""
 msgid "столовая"
 msgstr ""
 
-# Objects : [n1250896039, n1255604843, n1398220515, n1398264251, n1411586410, n2361961160, n2551902121, n2905121413, n2967829351, n3133367436, w172024234, w27904344]
+# Objects : [n1250896039, n1255604843, n1398220515, n1398264251, n1411586410, n2361961160, n2551902121, n2905121413, n2967829351, n3133367436, n3306326602, w172024234, w27904344]
 # name:be: [Сталовая]
 msgid "Столовая"
 msgstr ""
@@ -483,6 +478,11 @@ msgstr ""
 msgid "Талыш"
 msgstr ""
 
+# Objects : [n1106651755]
+# name:be: []
+msgid "Тифлис"
+msgstr ""
+
 # Objects : [n1820607793, n442951340]
 # name:be: [У Ганны]
 msgid "У Ганны"
@@ -506,6 +506,11 @@ msgstr ""
 # Objects : [w172610775, w172610776, w172610777, w172610778, w172610779, w172610780, w96629779]
 # name:be: [Хутка-Смачна]
 msgid "Хутка-Смачна"
+msgstr ""
+
+# Objects : [n3133367466]
+# name:be: []
+msgid "Чайхана"
 msgstr ""
 
 # Objects : [n3097248152]

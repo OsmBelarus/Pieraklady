@@ -3,6 +3,11 @@
 msgid "Барсуки"
 msgstr ""
 
+# Objects : [n3040982844]
+# name:be: [Дамашаны]
+msgid "Домашаны"
+msgstr ""
+
 # Objects : [n1270159514]
 # name:be: [Загор'е]
 msgid "Загорье"

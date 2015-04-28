@@ -1,8 +1,3 @@
-# Objects : [n638539119]
-# name:be: [Асарці]
-msgid "Ассорти"
-msgstr ""
-
 # Objects : [n1705590639]
 # name:be: []
 msgid "Булочная "Сдобушка""
@@ -21,11 +16,6 @@ msgstr ""
 # Objects : [n1704109361, n1704109457]
 # name:be: []
 msgid "Ларёк"
-msgstr ""
-
-# Objects : [n1359823255]
-# name:be: []
-msgid "Любимый"
 msgstr ""
 
 # Objects : [n1794354939]
@@ -126,6 +116,11 @@ msgstr ""
 # Objects : [n1837181318]
 # name:be: []
 msgid "Салон-парикмахерская "Радость красоты""
+msgstr ""
+
+# Objects : [n3457460510]
+# name:be: []
+msgid "Торговый павильён "Янтарный""
 msgstr ""
 
 # Objects : [n919499819]

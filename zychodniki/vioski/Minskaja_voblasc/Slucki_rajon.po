@@ -843,9 +843,14 @@ msgstr ""
 msgid "Славино"
 msgstr ""
 
-# Objects : [n243007944, w25130733]
+# Objects : [w25130733]
 # name:be: [Славінск]
 msgid "Славинск"
+msgstr ""
+
+# Objects : [n243007944]
+# name:be: [Славінск]
+msgid "Славинск (Путята стар.назв.)"
 msgstr ""
 
 # Objects : [n243015991, w25125637]

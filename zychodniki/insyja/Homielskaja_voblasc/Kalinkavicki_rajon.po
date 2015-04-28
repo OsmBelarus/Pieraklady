@@ -93,6 +93,11 @@ msgstr ""
 msgid "дом культуры"
 msgstr ""
 
+# Objects : [n3386014161]
+# name:be: []
+msgid "Дом охотника "Гулевичи""
+msgstr ""
+
 # Objects : [w291098783]
 # name:be: []
 msgid "Дружба-Авцюки"
@@ -123,7 +128,7 @@ msgstr ""
 msgid "Кацуры"
 msgstr ""
 
-# Objects : [n674417813]
+# Objects : [n3386014162, n674417813]
 # name:be: [Клінск]
 msgid "Клинск"
 msgstr ""
@@ -183,6 +188,11 @@ msgstr ""
 msgid "Мемориальный комплекс узникам Озаричского лагеря смерти"
 msgstr ""
 
+# Objects : [n3390758136]
+# name:be: []
+msgid "Миронеки"
+msgstr ""
+
 # Objects : [w25184823, w25185919]
 # name:be: []
 msgid "Мох"
@@ -216,6 +226,11 @@ msgstr ""
 # Objects : [n674422379]
 # name:be: []
 msgid "Обелиск экипажу бомбардировщика"
+msgstr ""
+
+# Objects : [n3386014163]
+# name:be: []
+msgid "Огородники"
 msgstr ""
 
 # Objects : [w25196229]
@@ -253,11 +268,6 @@ msgstr ""
 msgid "Полевая база"
 msgstr ""
 
-# Objects : [r3397849]
-# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
-msgid "Полесский государственный радиационно-экологический заповедник"
-msgstr ""
-
 # Objects : [n2788683615]
 # name:be: [Прысядзібны парк (рэшткі)]
 msgid "Приусадебный парк (остатки)"
@@ -268,9 +278,19 @@ msgstr ""
 msgid "Свято-Рождество-Богородичный мужской монастырь"
 msgstr ""
 
+# Objects : [w324696413]
+# name:be: []
+msgid "станция Кацуры"
+msgstr ""
+
 # Objects : [w25191370]
 # name:be: []
 msgid "Стар.Забок"
+msgstr ""
+
+# Objects : [w25104146]
+# name:be: [Старч]
+msgid "Старч"
 msgstr ""
 
 # Objects : [w25193747]
@@ -341,5 +361,10 @@ msgstr ""
 # Objects : [n306064717]
 # name:be: [Юшкі]
 msgid "Юшки"
+msgstr ""
+
+# Objects : [n3390846430]
+# name:be: []
+msgid "Ямное"
 msgstr ""
 

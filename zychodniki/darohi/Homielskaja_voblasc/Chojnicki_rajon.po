@@ -38,9 +38,19 @@ msgstr ""
 msgid "Краснонивская улица"
 msgstr ""
 
+# Objects : [n243040601]
+# name:be: [Краснаселле]
+msgid "Красноселье"
+msgstr ""
+
 # Objects : [w259898123, w51261015]
 # name:be: []
 msgid "Красносельская улица"
+msgstr ""
+
+# Objects : [n243040652]
+# name:be: [Красны Рог]
+msgid "Красный Рог"
 msgstr ""
 
 # Objects : [w25248965]
@@ -51,6 +61,21 @@ msgstr ""
 # Objects : [w256690496, w256691123, w256691124, w257216555, w257245432, w259894179, w60200757]
 # name:be: []
 msgid "Лесная улица"
+msgstr ""
+
+# Objects : [n243034174]
+# name:be: [Лясок]
+msgid "Лесок"
+msgstr ""
+
+# Objects : [n243038093]
+# name:be: [Ламачы]
+msgid "Ломачи"
+msgstr ""
+
+# Objects : [n243031034]
+# name:be: [Ломыш]
+msgid "Ломыш"
 msgstr ""
 
 # Objects : [w256676444, w274473489]
@@ -258,7 +283,7 @@ msgstr ""
 msgid "Шоссейный переулок"
 msgstr ""
 
-# Objects : [w234153607, w240231953, w240301576, w51261017]
+# Objects : [w234153607, w240231953, w240301576, w332460694, w51261017]
 # name:be: []
 msgid "Юбилейная улица"
 msgstr ""

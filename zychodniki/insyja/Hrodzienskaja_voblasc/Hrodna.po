@@ -3,6 +3,11 @@
 msgid "«ФИРМА МОКА» ООО"
 msgstr ""
 
+# Objects : [w29129405]
+# name:be: []
+msgid "12"
+msgstr ""
+
 # Objects : [r2453286]
 # name:be: [1-ы Дальні завулак]
 msgid "1-й Дальний переулок"
@@ -33,6 +38,11 @@ msgstr ""
 msgid "1-й переулок Карского"
 msgstr ""
 
+# Objects : [r4630059]
+# name:be: [1-ы завулак Куйбышава]
+msgid "1-й переулок Куйбышева"
+msgstr ""
+
 # Objects : [r2540870]
 # name:be: [1-ы завулак Серафімовіча]
 msgid "1-й переулок Серафимовича"
@@ -51,6 +61,16 @@ msgstr ""
 # Objects : [r2534410]
 # name:be: [1-я Працоўная вуліца]
 msgid "1-я Трудовая улица"
+msgstr ""
+
+# Objects : [w29125799]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w29129435]
+# name:be: []
+msgid "2А"
 msgstr ""
 
 # Objects : [n1325456655]
@@ -83,6 +103,11 @@ msgstr ""
 msgid "2-й переулок Калинина"
 msgstr ""
 
+# Objects : [r4627421]
+# name:be: [2-і завулак Куйбышава]
+msgid "2-й переулок Куйбышева"
+msgstr ""
+
 # Objects : [r1307632]
 # name:be: [2-і завулак Скрынніка]
 msgid "2-й переулок Скрынника"
@@ -98,6 +123,26 @@ msgstr ""
 msgid "2-я Трудовая улица"
 msgstr ""
 
+# Objects : [w29128823]
+# name:be: []
+msgid "3"
+msgstr ""
+
+# Objects : [w29128590]
+# name:be: []
+msgid "32"
+msgstr ""
+
+# Objects : [w29124907]
+# name:be: []
+msgid "34"
+msgstr ""
+
+# Objects : [w29125797]
+# name:be: []
+msgid "39А"
+msgstr ""
+
 # Objects : [r2453290]
 # name:be: [3-і Дальні завулак]
 msgid "3-й Дальний переулок"
@@ -111,6 +156,11 @@ msgstr ""
 # Objects : [r2453291]
 # name:be: [3-і завулак Калініна]
 msgid "3-й переулок Калинина"
+msgstr ""
+
+# Objects : [r4627422]
+# name:be: [3-і завулак Куйбышава]
+msgid "3-й переулок Куйбышева"
 msgstr ""
 
 # Objects : [r135486]
@@ -143,6 +193,11 @@ msgstr ""
 msgid "4-й переулок Калинина"
 msgstr ""
 
+# Objects : [r4627423]
+# name:be: [4-ы завулак Куйбышава]
+msgid "4-й переулок Куйбышева"
+msgstr ""
+
 # Objects : [r326095]
 # name:be: [4-ы Падольны завулак]
 msgid "4-й Подольный переулок"
@@ -166,6 +221,11 @@ msgstr ""
 # Objects : [r2453295]
 # name:be: [5-ы завулак Калініна]
 msgid "5-й переулок Калинина"
+msgstr ""
+
+# Objects : [r4627424]
+# name:be: [5-ы завулак Куйбышава]
+msgid "5-й переулок Куйбышева"
 msgstr ""
 
 # Objects : [w42135137]
@@ -963,6 +1023,21 @@ msgstr ""
 msgid "Вежливая улица"
 msgstr ""
 
+# Objects : [n320409966]
+# name:be: [Вялікая Альшанка]
+msgid "Великая Ольшанка"
+msgstr ""
+
+# Objects : [n3477232899]
+# name:be: []
+msgid "веломастерская Dr.Bike"
+msgstr ""
+
+# Objects : [n3477253355]
+# name:be: []
+msgid "Веломастерская Игуана"
+msgstr ""
+
 # Objects : [n2437799409, n2437799412, n2437799418]
 # name:be: []
 msgid "Вело трамплины"
@@ -1216,11 +1291,6 @@ msgstr ""
 # Objects : [w29125951]
 # name:be: [Гiмназiя №7]
 msgid "Гимназия №7"
-msgstr ""
-
-# Objects : [w158852458]
-# name:be: []
-msgid "Гипермаркет Евроопт"
 msgstr ""
 
 # Objects : [w320163097]
@@ -1538,6 +1608,11 @@ msgstr ""
 msgid "Гродненский гуманитарный колледж"
 msgstr ""
 
+# Objects : [w29126527]
+# name:be: []
+msgid "Гродненский завод торгового машиностроения"
+msgstr ""
+
 # Objects : [n1856337572, n2913453286]
 # name:be: []
 msgid "Гродненский зональный центр гигиены и эпидемиологии"
@@ -1656,6 +1731,11 @@ msgstr ""
 # Objects : [n1871632806]
 # name:be: []
 msgid "Гроднооблгаз"
+msgstr ""
+
+# Objects : [n3401358249]
+# name:be: []
+msgid "ГродноОптТорг"
 msgstr ""
 
 # Objects : [n2090886204]
@@ -2013,6 +2093,11 @@ msgstr ""
 msgid "Железнодорожная улица"
 msgstr ""
 
+# Objects : [r4627425]
+# name:be: [Чыгуначны завулак]
+msgid "Железнодорожный переулок"
+msgstr ""
+
 # Objects : [n3178670091]
 # name:be: []
 msgid "Жемчужина"
@@ -2206,11 +2291,6 @@ msgstr ""
 # Objects : [r3110046]
 # name:be: [Залацістая вуліца]
 msgid "Золотистая улица"
-msgstr ""
-
-# Objects : [n3271136344]
-# name:be: []
-msgid "Игровая комната"
 msgstr ""
 
 # Objects : [r197898]
@@ -3208,6 +3288,11 @@ msgstr ""
 msgid "На Телеграфной"
 msgstr ""
 
+# Objects : [w29126195]
+# name:be: []
+msgid "Национальный исторический архив Беларуси в г. Гродно"
+msgstr ""
+
 # Objects : [r916809]
 # name:be: []
 msgid "Нектар"
@@ -3473,11 +3558,6 @@ msgstr ""
 msgid "Олимпийская улица"
 msgstr ""
 
-# Objects : [n1853647644]
-# name:be: [Альшанка]
-msgid "Ольшанка"
-msgstr ""
-
 # Objects : [r4258396]
 # name:be: [Альшанская вуліца]
 msgid "Ольшанская улица"
@@ -3658,6 +3738,11 @@ msgstr ""
 msgid "Первоцветная улица"
 msgstr ""
 
+# Objects : [r4627426]
+# name:be: [Першы завулак]
+msgid "Первый переулок"
+msgstr ""
+
 # Objects : [n462217474]
 # name:be: [Пярэселка]
 msgid "Переселка"
@@ -3686,6 +3771,16 @@ msgstr ""
 # Objects : [r2447620]
 # name:be: [завулак Даватара]
 msgid "переулок Доватора"
+msgstr ""
+
+# Objects : [r4630060]
+# name:be: [завулак Жукоўскага]
+msgid "переулок Жуковского"
+msgstr ""
+
+# Objects : [r4630061]
+# name:be: [завулак Заслонава]
+msgid "переулок Заслонова"
 msgstr ""
 
 # Objects : [r4078513]
@@ -3726,6 +3821,21 @@ msgstr ""
 # Objects : [r2373494]
 # name:be: [завулак Суворава]
 msgid "переулок Суворова"
+msgstr ""
+
+# Objects : [r4791016]
+# name:be: [завулак Ціміразева]
+msgid "переулок Тимирязева"
+msgstr ""
+
+# Objects : [r4630062]
+# name:be: [завулак Шышкіна]
+msgid "переулок Шишкина"
+msgstr ""
+
+# Objects : [r4627428]
+# name:be: [завулак Якуба Коласа]
+msgid "переулок Якуба Коласа"
 msgstr ""
 
 # Objects : [r2538972]
@@ -4093,11 +4203,6 @@ msgstr ""
 msgid "ПТОР"
 msgstr ""
 
-# Objects : [w29124729]
-# name:be: []
-msgid "Пункт приёма вторичного сырья"
-msgstr ""
-
 # Objects : [n2222553093]
 # name:be: [Пышкі]
 msgid "Пышки"
@@ -4173,7 +4278,7 @@ msgstr ""
 msgid "Ритуальные принадлежности"
 msgstr ""
 
-# Objects : [n2267117925, w46735872, w61939951]
+# Objects : [w46735872, w61939951]
 # name:be: [Рытуальныя паслугі]
 msgid "Ритуальные услуги"
 msgstr ""
@@ -4193,7 +4298,7 @@ msgstr ""
 msgid "Родны кут"
 msgstr ""
 
-# Objects : [w121714041, w225425920, w234106058, w238698526]
+# Objects : [w121714041, w234106058, w238698526]
 # name:be: []
 msgid "Родны Кут"
 msgstr ""
@@ -4286,6 +4391,11 @@ msgstr ""
 # Objects : [r2373492]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w229832791]
+# name:be: []
+msgid "Садовое товарищество "Загороднее""
 msgstr ""
 
 # Objects : [n2766722499, w237463767]
@@ -4828,6 +4938,11 @@ msgstr ""
 msgid "Транспортный цех"
 msgstr ""
 
+# Objects : [w242729971]
+# name:be: []
+msgid "Трасса с трамплинами"
+msgstr ""
+
 # Objects : [r2904296]
 # name:be: []
 msgid "Троллейбус № 1"
@@ -4943,14 +5058,14 @@ msgstr ""
 msgid "тц.Ника"
 msgstr ""
 
-# Objects : [w33279743]
-# name:be: [турма]
-msgid "Тюрьма"
-msgstr ""
-
 # Objects : [w29126126]
 # name:be: [Турма-1]
 msgid "Тюрьма-1"
+msgstr ""
+
+# Objects : [w33279743]
+# name:be: [Турма № 1]
+msgid "Тюрьма №1"
 msgstr ""
 
 # Objects : [w29126112]
@@ -5313,6 +5428,11 @@ msgstr ""
 msgid "улица Желковского"
 msgstr ""
 
+# Objects : [r4630063]
+# name:be: [вуліца Жукоўскага]
+msgid "улица Жуковского"
+msgstr ""
+
 # Objects : [r3506046]
 # name:be: [вуліца Забалаць]
 msgid "улица Заболоть"
@@ -5346,6 +5466,11 @@ msgstr ""
 # Objects : [r135478]
 # name:be: [вуліца Заслаўскага]
 msgid "улица Заславского"
+msgstr ""
+
+# Objects : [r4627429]
+# name:be: [вуліца Заслонава]
+msgid "улица Заслонова"
 msgstr ""
 
 # Objects : [r123023]
@@ -6013,6 +6138,11 @@ msgstr ""
 msgid "улица Шидловского"
 msgstr ""
 
+# Objects : [r4630064]
+# name:be: [вуліца Шышкіна]
+msgid "улица Шишкина"
+msgstr ""
+
 # Objects : [r1102190]
 # name:be: [вуліца Шчадрына]
 msgid "улица Щедрина"
@@ -6308,11 +6438,6 @@ msgstr ""
 msgid "Цветы"
 msgstr ""
 
-# Objects : [n3283404266]
-# name:be: [Цэнтральная падстанцыя]
-msgid "Центральная подстанция"
-msgstr ""
-
 # Objects : [r2522786]
 # name:be: [Цэнтральная вуліца]
 msgid "Центральная улица"
@@ -6391,6 +6516,11 @@ msgstr ""
 # Objects : [n320409374]
 # name:be: [Чашчаўляны]
 msgid "Чещавляны"
+msgstr ""
+
+# Objects : [n3476026013]
+# name:be: []
+msgid "ЧУП "ДипБит". Системы высококачественного видеонаблюдения."
 msgstr ""
 
 # Objects : [n2690057479]
@@ -6478,7 +6608,7 @@ msgstr ""
 msgid "Южный–3"
 msgstr ""
 
-# Objects : [n2818062360]
+# Objects : [n1853647644, n2818062360]
 # name:be: [Паўднёвы–4]
 msgid "Южный–4"
 msgstr ""

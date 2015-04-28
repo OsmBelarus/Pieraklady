@@ -23,11 +23,6 @@ msgstr ""
 msgid "Детский сад"
 msgstr ""
 
-# Objects : [w226847681]
-# name:be: []
-msgid "ясли"
-msgstr ""
-
 # Objects : [w226849190]
 # name:be: []
 msgid "Ясли-сад № 19"
@@ -41,5 +36,10 @@ msgstr ""
 # Objects : [w180580303]
 # name:be: []
 msgid "Ясли-сад № 43"
+msgstr ""
+
+# Objects : [n3419308324]
+# name:be: []
+msgid "Ясли-сад №9"
 msgstr ""
 

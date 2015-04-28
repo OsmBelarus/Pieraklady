@@ -3,6 +3,11 @@
 msgid ""Лесной огонек"; Белкоммунмаш"
 msgstr ""
 
+# Objects : [w310774800]
+# name:be: [д/с №1]
+msgid "д/с №1"
+msgstr ""
+
 # Objects : [n1293212898]
 # name:be: []
 msgid "ДДУ п.Привольный"
@@ -14,18 +19,13 @@ msgid "Детский сад"
 msgstr ""
 
 # Objects : [w101373766]
-# name:be: []
+# name:be: [Дзіцячы сад-школа]
 msgid "Детский сад-школа"
 msgstr ""
 
 # Objects : [w29500161]
-# name:be: []
+# name:be: [Дзіцячы сад-яслі №2]
 msgid "Детский сад-ясли №2"
-msgstr ""
-
-# Objects : [w310774800]
-# name:be: []
-msgid "Детский сад №1"
 msgstr ""
 
 # Objects : [w37439295]

@@ -168,6 +168,11 @@ msgstr ""
 msgid "памятник"
 msgstr ""
 
+# Objects : [w338967134]
+# name:be: []
+msgid "Площадка обучения вождению"
+msgstr ""
+
 # Objects : [n661194083]
 # name:be: []
 msgid "Привокзальная площадь"

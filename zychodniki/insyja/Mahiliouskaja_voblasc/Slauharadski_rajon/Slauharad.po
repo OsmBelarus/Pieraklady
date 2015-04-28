@@ -118,11 +118,6 @@ msgstr ""
 msgid "деревня Кургановка"
 msgstr ""
 
-# Objects : [w204198587]
-# name:be: []
-msgid "Детская библиотека"
-msgstr ""
-
 # Objects : [w204198588]
 # name:be: []
 msgid "Дом бытовых услуг"
@@ -131,11 +126,6 @@ msgstr ""
 # Objects : [w203573801]
 # name:be: []
 msgid "Дом детского творчества"
-msgstr ""
-
-# Objects : [w221962456]
-# name:be: []
-msgid "Дунай"
 msgstr ""
 
 # Objects : [w204198589]
@@ -151,11 +141,6 @@ msgstr ""
 # Objects : [w205612375]
 # name:be: []
 msgid "колокольня"
-msgstr ""
-
-# Objects : [n2739379126]
-# name:be: []
-msgid "колонка"
 msgstr ""
 
 # Objects : [r3084535]

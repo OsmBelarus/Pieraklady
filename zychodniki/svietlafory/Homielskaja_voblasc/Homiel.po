@@ -88,6 +88,11 @@ msgstr ""
 msgid "Вокзал"
 msgstr ""
 
+# Objects : [n1383265224]
+# name:be: []
+msgid "Вокзальная"
+msgstr ""
+
 # Objects : [n306068128]
 # name:be: [Валатава]
 msgid "Волотова"
@@ -251,6 +256,11 @@ msgstr ""
 # Objects : [n1326072602]
 # name:be: []
 msgid "Косарева"
+msgstr ""
+
+# Objects : [n1323256251, n1323256264]
+# name:be: []
+msgid "Костюковка"
 msgstr ""
 
 # Objects : [n940980364, n940980366]
@@ -781,6 +791,11 @@ msgstr ""
 # Objects : [n1334663373]
 # name:be: []
 msgid "Храм Преображения Господня"
+msgstr ""
+
+# Objects : [n3401843773]
+# name:be: []
+msgid "Хутор"
 msgstr ""
 
 # Objects : [n1129287228]

@@ -1,8 +1,3 @@
-# Objects : [w98590955]
-# name:be: []
-msgid "Sofina"
-msgstr ""
-
 # Objects : [w192613915]
 # name:be: []
 msgid "Автошкола"
@@ -28,24 +23,24 @@ msgstr ""
 msgid "Баня"
 msgstr ""
 
+# Objects : [w330764091]
+# name:be: []
+msgid "Белнефтестрах"
+msgstr ""
+
 # Objects : [n2992101632, w99369020]
 # name:be: [Бальніца]
 msgid "Больница"
 msgstr ""
 
-# Objects : [w188622589]
+# Objects : [w121901878]
 # name:be: []
-msgid "Василёк"
+msgid "Виктория"
 msgstr ""
 
 # Objects : [w193701193]
 # name:be: []
 msgid "Водозабор"
-msgstr ""
-
-# Objects : [w192978293, w98590943]
-# name:be: []
-msgid "Детсад №2"
 msgstr ""
 
 # Objects : [w98590964]
@@ -73,11 +68,6 @@ msgstr ""
 msgid "Здание стеклозавода"
 msgstr ""
 
-# Objects : [w98590948]
-# name:be: []
-msgid "Исполком"
-msgstr ""
-
 # Objects : [w188679409]
 # name:be: []
 msgid "Калi ласка"
@@ -96,11 +86,6 @@ msgstr ""
 # Objects : [w192541266]
 # name:be: []
 msgid "Люкс"
-msgstr ""
-
-# Objects : [w188606642, w98455484]
-# name:be: [Магазін]
-msgid "Магазин"
 msgstr ""
 
 # Objects : [w192613911]
@@ -148,6 +133,11 @@ msgstr ""
 msgid "Почта"
 msgstr ""
 
+# Objects : [w188622589, w98455484]
+# name:be: [Магазін]
+msgid "Продуктовый"
+msgstr ""
+
 # Objects : [w243099016]
 # name:be: []
 msgid "Склад готовой продукции"
@@ -156,6 +146,11 @@ msgstr ""
 # Objects : [w188678600]
 # name:be: []
 msgid "Склад стройматериалов"
+msgstr ""
+
+# Objects : [w98590955]
+# name:be: []
+msgid "Софина"
 msgstr ""
 
 # Objects : [w243099043]
@@ -186,5 +181,10 @@ msgstr ""
 # Objects : [w243099027]
 # name:be: []
 msgid "цех №5"
+msgstr ""
+
+# Objects : [w188606642]
+# name:be: []
+msgid "Шанс"
 msgstr ""
 

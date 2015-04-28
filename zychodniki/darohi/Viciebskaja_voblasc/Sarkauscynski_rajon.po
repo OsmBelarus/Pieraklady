@@ -23,6 +23,11 @@ msgstr ""
 msgid "Зелёная улица"
 msgstr ""
 
+# Objects : [w339704400]
+# name:be: []
+msgid "Речная улица"
+msgstr ""
+
 # Objects : [w219768844]
 # name:be: []
 msgid "Свалка Пилаты"

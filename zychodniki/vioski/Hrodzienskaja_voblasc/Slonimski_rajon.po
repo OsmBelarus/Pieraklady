@@ -8,6 +8,11 @@ msgstr ""
 msgid "Акачи"
 msgstr ""
 
+# Objects : [n242989534, w25141220]
+# name:be: [Амельнікі]
+msgid "Амельники"
+msgstr ""
+
 # Objects : [n242989598, w25141236]
 # name:be: [Бабынічы]
 msgid "Бабыничи"
@@ -63,11 +68,6 @@ msgstr ""
 msgid "Верболоты"
 msgstr ""
 
-# Objects : [n242989407, w25141265]
-# name:be: [Вераб’евічы]
-msgid "Веробьевичи"
-msgstr ""
-
 # Objects : [n242987582, w25142062]
 # name:be: [Вецявічы]
 msgid "Ветевичи"
@@ -91,6 +91,11 @@ msgstr ""
 # Objects : [n242990361, w25140548]
 # name:be: [Ваўчуны]
 msgid "Волчуны"
+msgstr ""
+
+# Objects : [n242989407, w25141265]
+# name:be: [Вераб’евічы]
+msgid "Воробьевичи"
 msgstr ""
 
 # Objects : [n242987579, w25142077]
@@ -179,8 +184,8 @@ msgid "Ермоловщина"
 msgstr ""
 
 # Objects : [n242989979, w25140613]
-# name:be: [Жыровіцы]
-msgid "Жировицы"
+# name:be: [Жыровічы]
+msgid "Жировичи"
 msgstr ""
 
 # Objects : [n242989484, w25141310, w25141318]
@@ -348,11 +353,6 @@ msgstr ""
 msgid "Мизгири"
 msgstr ""
 
-# Objects : [n242987610, w25142093]
-# name:be: [Мікалаеўшчына]
-msgid "Миколаевщина"
-msgstr ""
-
 # Objects : [n242987483, w25141972]
 # name:be: [Мілаванне]
 msgid "Милованье"
@@ -398,7 +398,12 @@ msgstr ""
 msgid "Низ"
 msgstr ""
 
-# Objects : [n242987591, w25142105, w25142109]
+# Objects : [n242987610, w25142093]
+# name:be: [Нікалаеўшчына]
+msgid "Николаевщина"
+msgstr ""
+
+# Objects : [n242987591, r4730178]
 # name:be: [Новая Перавалока]
 msgid "Новая Переволока"
 msgstr ""
@@ -441,11 +446,6 @@ msgstr ""
 # Objects : [n242989501, w25141306]
 # name:be: [Акунінава]
 msgid "Окуниново"
-msgstr ""
-
-# Objects : [n242989534, w25141220]
-# name:be: [Амельнікі]
-msgid "Омельники"
 msgstr ""
 
 # Objects : [n242989437, w25141290]
@@ -560,7 +560,7 @@ msgstr ""
 
 # Objects : [n242989425, w25141252]
 # name:be: [Разанаўшчына]
-msgid "Резановщина"
+msgid "Розановщина"
 msgstr ""
 
 # Objects : [n242987212, w25142874]

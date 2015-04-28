@@ -63,6 +63,11 @@ msgstr ""
 msgid "Храм Иконы Божьей Матери"
 msgstr ""
 
+# Objects : [w337344660]
+# name:be: []
+msgid "Царква Серафіма Сароўскага"
+msgstr ""
+
 # Objects : [w320481026, w320481245]
 # name:be: []
 msgid "Церковь"

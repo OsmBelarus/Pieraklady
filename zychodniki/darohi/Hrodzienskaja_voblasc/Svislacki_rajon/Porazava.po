@@ -13,11 +13,6 @@ msgstr ""
 msgid "Новый переулок"
 msgstr ""
 
-# Objects : [w304665114]
-# name:be: []
-msgid "переулок Физкультурный"
-msgstr ""
-
 # Objects : [w265570330]
 # name:be: [Палявы завулак]
 msgid "Полевой переулок"
@@ -49,7 +44,7 @@ msgid "улица Ленина"
 msgstr ""
 
 # Objects : [w265419893]
-# name:be: [вуліца Політаева]
+# name:be: [вуліца Палятаева]
 msgid "улица Политаева"
 msgstr ""
 
@@ -61,5 +56,10 @@ msgstr ""
 # Objects : [w265570334]
 # name:be: [Фабрычная вуліца]
 msgid "Фабричная улица"
+msgstr ""
+
+# Objects : [w304665114]
+# name:be: [Фізкультурны завулак]
+msgid "Физкультурный переулок"
 msgstr ""
 

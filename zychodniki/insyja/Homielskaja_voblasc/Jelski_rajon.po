@@ -18,6 +18,11 @@ msgstr ""
 msgid "Братская могила партизан"
 msgstr ""
 
+# Objects : [n3390705041]
+# name:be: []
+msgid "Будки"
+msgstr ""
+
 # Objects : [n508758491]
 # name:be: []
 msgid "Виступовичі-Н.Рудня"
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [n2839522188]
 # name:be: []
 msgid "Вышка сотовой связи"
+msgstr ""
+
+# Objects : [n3385876698]
+# name:be: []
+msgid "Глазки"
 msgstr ""
 
 # Objects : [w263455719]
@@ -41,6 +51,11 @@ msgstr ""
 # Objects : [w263455714]
 # name:be: []
 msgid "Кочищанская средняя школа"
+msgstr ""
+
+# Objects : [n3385876733]
+# name:be: []
+msgid "Кочищи"
 msgstr ""
 
 # Objects : [w327926164]
@@ -81,5 +96,15 @@ msgstr ""
 # Objects : [n243024273]
 # name:be: [Шышкі]
 msgid "Шишки"
+msgstr ""
+
+# Objects : [n3385876734]
+# name:be: []
+msgid "Ястребли"
+msgstr ""
+
+# Objects : [n243024327]
+# name:be: []
+msgid "Ястребли (нежил.)"
 msgstr ""
 

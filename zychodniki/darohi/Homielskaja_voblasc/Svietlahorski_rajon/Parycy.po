@@ -1,6 +1,136 @@
-# Objects : [w273899485]
-# name:be: [Бабруйская вуліца]
+# Objects : [w273899455]
+# name:be: []
+msgid "75-ая Гвардейская улица"
+msgstr ""
+
+# Objects : [w273899468]
+# name:be: []
+msgid "9-го Мая улица"
+msgstr ""
+
+# Objects : [w337136563]
+# name:be: []
 msgid "Бобруйская улица"
+msgstr ""
+
+# Objects : [w276388454]
+# name:be: []
+msgid "Больничная улица"
+msgstr ""
+
+# Objects : [w273899453]
+# name:be: []
+msgid "Гордиенко улица"
+msgstr ""
+
+# Objects : [w273899460]
+# name:be: []
+msgid "Днепровской флотилии улица"
+msgstr ""
+
+# Objects : [w273899454]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w273899450, w273899476]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w273899469]
+# name:be: []
+msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w336385684, w336678592, w336719969]
+# name:be: []
+msgid "Майская улица"
+msgstr ""
+
+# Objects : [w336678585]
+# name:be: []
+msgid "Маяковского улица"
+msgstr ""
+
+# Objects : [w336678587]
+# name:be: []
+msgid "Мигая улица"
+msgstr ""
+
+# Objects : [w337136567]
+# name:be: []
+msgid "Мозырьская улица"
+msgstr ""
+
+# Objects : [w273899472]
+# name:be: []
+msgid "Октябрьская улица"
+msgstr ""
+
+# Objects : [w273899482]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
+# Objects : [w273899451, w295292464]
+# name:be: []
+msgid "Площадь майская улица"
+msgstr ""
+
+# Objects : [w273899473]
+# name:be: []
+msgid "Пролетарская улица"
+msgstr ""
+
+# Objects : [w273899457]
+# name:be: []
+msgid "Пущина улица"
+msgstr ""
+
+# Objects : [w336678594]
+# name:be: []
+msgid "Рогинского улица"
+msgstr ""
+
+# Objects : [w273899464]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w276388455]
+# name:be: []
+msgid "Северная улица"
+msgstr ""
+
+# Objects : [w273899466]
+# name:be: []
+msgid "Сенная улица"
+msgstr ""
+
+# Objects : [w339536943]
+# name:be: []
+msgid "Сенной переулок"
+msgstr ""
+
+# Objects : [w273899452, w273899478]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w336678595]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
+# Objects : [w336404471]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w273899456]
+# name:be: []
+msgid "Социалистическая улица"
 msgstr ""
 
 # Objects : [w287493867]
@@ -8,12 +138,22 @@ msgstr ""
 msgid "Спортивная улица"
 msgstr ""
 
+# Objects : [w25252268]
+# name:be: []
+msgid "Тризны улица"
+msgstr ""
+
 # Objects : [w273899487]
-# name:be: [вуліца Ляўхіна]
+# name:be: []
 msgid "улица Леухина"
 msgstr ""
 
-# Objects : [w271753070]
+# Objects : [w336678583]
+# name:be: []
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [w271753070, w336678638]
 # name:be: [вуліца Фраленкова]
 msgid "улица Фроленкова"
 msgstr ""

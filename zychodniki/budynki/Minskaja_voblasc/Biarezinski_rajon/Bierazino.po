@@ -1,3 +1,13 @@
+# Objects : [w275314713]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
+# Objects : [w275126876]
+# name:be: []
+msgid "Березина"
+msgstr ""
+
 # Objects : [w275120999]
 # name:be: []
 msgid "Гимназия (СШ№1)"
@@ -6,5 +16,15 @@ msgstr ""
 # Objects : [w275126836]
 # name:be: [Дом культуры]
 msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w275126839]
+# name:be: [Дом гандлю]
+msgid "Дом торговли"
+msgstr ""
+
+# Objects : [w275126870]
+# name:be: [Камбiнат бытавога абслугоўвання]
+msgid "Комбинат бытового обслуживания"
 msgstr ""
 

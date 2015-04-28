@@ -38,14 +38,14 @@ msgstr ""
 msgid "Благодать"
 msgstr ""
 
+# Objects : [w25084839]
+# name:be: []
+msgid "Большая Зимница"
+msgstr ""
+
 # Objects : [n243046649, w25081857]
 # name:be: [Васькавічы]
 msgid "Васьковичи"
-msgstr ""
-
-# Objects : [w25084839]
-# name:be: [Вялікая Зімніца]
-msgid "Великая Зимница"
 msgstr ""
 
 # Objects : [n243042569, w25084831]

@@ -33,7 +33,7 @@ msgstr ""
 msgid "ГП "Крынки Агро""
 msgstr ""
 
-# Objects : [w174265847, w174265849]
+# Objects : [w174265849]
 # name:be: []
 msgid "Демехи"
 msgstr ""
@@ -131,11 +131,6 @@ msgstr ""
 # Objects : [w268980294]
 # name:be: []
 msgid "Сергея Милоградского"
-msgstr ""
-
-# Objects : [w270561534]
-# name:be: []
-msgid "станция Бабичи"
 msgstr ""
 
 # Objects : [w323588158]

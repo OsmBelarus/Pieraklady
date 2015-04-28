@@ -38,6 +38,11 @@ msgstr ""
 msgid "Водяная мельница"
 msgstr ""
 
+# Objects : [w248781353]
+# name:be: []
+msgid "Вокзал"
+msgstr ""
+
 # Objects : [w25195869]
 # name:be: [Глыбокае]
 msgid "Глубокое"
@@ -123,6 +128,11 @@ msgstr ""
 msgid "МТФ "Новинка""
 msgstr ""
 
+# Objects : [n2556647891, n271085191]
+# name:be: [Нарцызава]
+msgid "Нарцизово"
+msgstr ""
+
 # Objects : [w247568992]
 # name:be: []
 msgid "Насосная"
@@ -166,6 +176,11 @@ msgstr ""
 # Objects : [w247580514]
 # name:be: []
 msgid "Свинокомплекс"
+msgstr ""
+
+# Objects : [n306066842]
+# name:be: [Слаўнае]
+msgid "Славное"
 msgstr ""
 
 # Objects : [w247003785]

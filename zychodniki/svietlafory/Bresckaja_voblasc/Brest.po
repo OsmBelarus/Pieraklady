@@ -158,7 +158,7 @@ msgstr ""
 msgid "Завод"
 msgstr ""
 
-# Objects : [n1196095698, n1196095699, n1196095700]
+# Objects : [n1196095699, n1196095700, n840050795]
 # name:be: [Зарэчная]
 msgid "Заречная"
 msgstr ""
@@ -278,7 +278,7 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
-# Objects : [n1459292443, n1459292445]
+# Objects : [n1175625518, n1459292443]
 # name:be: [Махновiча]
 msgid "Махновича"
 msgstr ""

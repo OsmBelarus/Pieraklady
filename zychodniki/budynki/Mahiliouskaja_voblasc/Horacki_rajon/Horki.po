@@ -73,11 +73,6 @@ msgstr ""
 msgid "Горецкий РГС"
 msgstr ""
 
-# Objects : [w210921075]
-# name:be: []
-msgid "Горецкий РЭС"
-msgstr ""
-
 # Objects : [w203347529]
 # name:be: []
 msgid "Горецкий филиал землеустройства"
@@ -298,6 +293,11 @@ msgstr ""
 msgid "РИК"
 msgstr ""
 
+# Objects : [w210921075]
+# name:be: []
+msgid "РЭС"
+msgstr ""
+
 # Objects : [w204092539]
 # name:be: []
 msgid "Сортоиспытательная станция"
@@ -411,6 +411,11 @@ msgstr ""
 # Objects : [w205060136]
 # name:be: []
 msgid "ф-л АСБ Беларусбанк"
+msgstr ""
+
+# Objects : [w332330824]
+# name:be: []
+msgid "Шиномонтаж, балансировка"
 msgstr ""
 
 # Objects : [w203322101]

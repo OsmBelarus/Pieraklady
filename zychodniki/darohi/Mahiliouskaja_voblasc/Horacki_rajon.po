@@ -218,6 +218,11 @@ msgstr ""
 msgid "улица Гагарина"
 msgstr ""
 
+# Objects : [w211412767]
+# name:be: []
+msgid "улица Горецкая"
+msgstr ""
+
 # Objects : [w327722179]
 # name:be: []
 msgid "улица Доморацкого"
@@ -273,9 +278,29 @@ msgstr ""
 msgid "улица Мичурина"
 msgstr ""
 
+# Objects : [w254798948]
+# name:be: []
+msgid "улица Набережная"
+msgstr ""
+
+# Objects : [w254798947]
+# name:be: []
+msgid "улица Озерная"
+msgstr ""
+
+# Objects : [w254798951]
+# name:be: []
+msgid "улица Партизанская"
+msgstr ""
+
 # Objects : [w75664410]
 # name:be: []
 msgid "улица Петрова"
+msgstr ""
+
+# Objects : [w338613932]
+# name:be: []
+msgid "улица Пролетарская"
 msgstr ""
 
 # Objects : [w270398684]
@@ -296,6 +321,11 @@ msgstr ""
 # Objects : [w213139241]
 # name:be: []
 msgid "улица Чернышёва"
+msgstr ""
+
+# Objects : [w254798949]
+# name:be: []
+msgid "улица Школьная"
 msgstr ""
 
 # Objects : [w75664606]

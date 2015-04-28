@@ -243,7 +243,7 @@ msgstr ""
 msgid "Рича"
 msgstr ""
 
-# Objects : [n706146845]
+# Objects : [n706146845, w236481645]
 # name:be: [Ражанка]
 msgid "Рожанка"
 msgstr ""
@@ -251,6 +251,11 @@ msgstr ""
 # Objects : [r3170528]
 # name:be: [Рыча]
 msgid "Рыча"
+msgstr ""
+
+# Objects : [n242985952, w25143276]
+# name:be: [Савічы]
+msgid "Савичи"
 msgstr ""
 
 # Objects : [n1398914602]
@@ -406,11 +411,6 @@ msgstr ""
 # Objects : [n2788687468]
 # name:be: [Капліца могілкавая Святога прарока Іллі]
 msgid "Часовня кладбищенская Святого пророка Илии"
-msgstr ""
-
-# Objects : [w200325299]
-# name:be: [Шамякі]
-msgid "Шемяки"
 msgstr ""
 
 # Objects : [n1366339037]

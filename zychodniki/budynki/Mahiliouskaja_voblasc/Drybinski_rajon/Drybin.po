@@ -8,6 +8,11 @@ msgstr ""
 msgid "административное здание РАЙПО"
 msgstr ""
 
+# Objects : [w210189738]
+# name:be: []
+msgid "Администрация СПК "Дрибин""
+msgstr ""
+
 # Objects : [w210204162]
 # name:be: []
 msgid "Аптека"
@@ -33,7 +38,7 @@ msgstr ""
 msgid "гаражи"
 msgstr ""
 
-# Objects : [w309186972, w310327398, w310327399, w310327400, w310327401, w310327402, w310327403, w310327404, w315568634]
+# Objects : [w309186972, w310327398, w310327399, w310327400, w310327401, w310327402, w310327403, w310327404, w315568634, w338578090]
 # name:be: []
 msgid "Гаражи"
 msgstr ""
@@ -48,9 +53,14 @@ msgstr ""
 msgid "Гостинница"
 msgstr ""
 
-# Objects : [w210182766]
+# Objects : [w210188102]
 # name:be: []
-msgid "детская школа искусств"
+msgid "Детский Сад"
+msgstr ""
+
+# Objects : [w210188103]
+# name:be: []
+msgid "Дом Культуры; Кафе; Бар"
 msgstr ""
 
 # Objects : [w210175616]
@@ -93,6 +103,16 @@ msgstr ""
 msgid "Клуб"
 msgstr ""
 
+# Objects : [w231304609]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w331015463]
+# name:be: []
+msgid "КПП"
+msgstr ""
+
 # Objects : [w210007591, w210188105]
 # name:be: []
 msgid "магазин"
@@ -108,9 +128,19 @@ msgstr ""
 msgid "магазин-ресторан"
 msgstr ""
 
+# Objects : [w330916887]
+# name:be: []
+msgid "Молоко-завод"
+msgstr ""
+
 # Objects : [w233364822]
 # name:be: []
 msgid "Мясо разделочный цех"
+msgstr ""
+
+# Objects : [w210184993]
+# name:be: []
+msgid "Налоговая инспекция"
 msgstr ""
 
 # Objects : [w210184994]
@@ -171,6 +201,11 @@ msgstr ""
 # Objects : [w210189787]
 # name:be: []
 msgid "Храм"
+msgstr ""
+
+# Objects : [w210184995]
+# name:be: []
+msgid "центр гигиены и эпидимиологии"
 msgstr ""
 
 # Objects : [w274235761]

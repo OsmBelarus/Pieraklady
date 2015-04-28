@@ -68,6 +68,21 @@ msgstr ""
 msgid "Богдановщина"
 msgstr ""
 
+# Objects : [n243009842, w25129073]
+# name:be: [Вялікае Гарохавішча]
+msgid "Большие Гороховищи"
+msgstr ""
+
+# Objects : [n243004982, w25131738]
+# name:be: [Вялікія Навасёлкі]
+msgid "Большие Новоселки"
+msgstr ""
+
+# Objects : [n243010841, w25130351]
+# name:be: [Вялікае Белякова]
+msgid "Большое Беляково"
+msgstr ""
+
 # Objects : [n243009924, w25129115]
 # name:be: [Баркі]
 msgid "Борки"
@@ -121,21 +136,6 @@ msgstr ""
 # Objects : [n243011103, w25130524]
 # name:be: [Вялікая Шатаноўшчына]
 msgid "Великая Шатановщина"
-msgstr ""
-
-# Objects : [n243004982, w25131738]
-# name:be: [Вялікія Навасёлкі]
-msgid "Великие Новосёлки"
-msgstr ""
-
-# Objects : [n243010841, w25130351]
-# name:be: [Вялікае Белякова]
-msgid "Великое Беляково"
-msgstr ""
-
-# Objects : [n243009842, w25129073]
-# name:be: [Вялікае Гарохавішча]
-msgid "Великое Гороховище"
 msgstr ""
 
 # Objects : [n243003814, w25132949]
@@ -353,11 +353,6 @@ msgstr ""
 msgid "Дягильно"
 msgstr ""
 
-# Objects : [n243011160, w25130395]
-# name:be: [Ярашоўка]
-msgid "Ерошовка"
-msgstr ""
-
 # Objects : [n243009706, w25129067]
 # name:be: [Жакі]
 msgid "Жаки"
@@ -550,7 +545,7 @@ msgstr ""
 
 # Objects : [n243010838, w25130354]
 # name:be: [Крыштафова]
-msgid "Крыштофово"
+msgid "Крыштафово"
 msgstr ""
 
 # Objects : [n243011064, w25130538]
@@ -689,8 +684,8 @@ msgid "Малое Беляково"
 msgstr ""
 
 # Objects : [n243009703, w25129066]
-# name:be: [Малое Гарохавішча]
-msgid "Малое Гороховище"
+# name:be: [Малыя Гарохавішчы]
+msgid "Малые Гороховищи"
 msgstr ""
 
 # Objects : [n243011148, w25130447]
@@ -718,7 +713,7 @@ msgstr ""
 msgid "Мельковичи"
 msgstr ""
 
-# Objects : [n243004900, w25131688]
+# Objects : [n243004900]
 # name:be: [Мянькі]
 msgid "Меньки"
 msgstr ""
@@ -753,7 +748,7 @@ msgstr ""
 msgid "Моровщина"
 msgstr ""
 
-# Objects : [n243005066, w25131787]
+# Objects : [n243005066]
 # name:be: [Масцішча]
 msgid "Мостище"
 msgstr ""
@@ -816,11 +811,6 @@ msgstr ""
 # Objects : [n243011098, w25130534]
 # name:be: [Арэхаўка]
 msgid "Ореховка"
-msgstr ""
-
-# Objects : [w132925142]
-# name:be: [Энергетыкаў]
-msgid "п. Энергетиков"
 msgstr ""
 
 # Objects : [n243009759, w25129022]
@@ -938,7 +928,7 @@ msgstr ""
 msgid "Попки"
 msgstr ""
 
-# Objects : [n708844047]
+# Objects : [n708844047, w132925142]
 # name:be: [пасёлак Энергетыкаў]
 msgid "посёлок Энергетиков"
 msgstr ""
@@ -1208,7 +1198,12 @@ msgstr ""
 msgid "Цветково"
 msgstr ""
 
-# Objects : [n243009689, n3245735092, w152094709, w152094717]
+# Objects : [n3245735092, w152094709, w152094717]
+# name:be: [Чаркасы]
+msgid "Черкассы"
+msgstr ""
+
+# Objects : [n243009689]
 # name:be: [Чаркасы]
 msgid "Черкасы"
 msgstr ""
@@ -1326,6 +1321,11 @@ msgstr ""
 # Objects : [n243004976, w25131745]
 # name:be: [Янава]
 msgid "Яново"
+msgstr ""
+
+# Objects : [n243011160, w25130395]
+# name:be: [Ярашоўка]
+msgid "Ярошовка"
 msgstr ""
 
 # Objects : [n243005155, w25131750]

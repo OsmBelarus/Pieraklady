@@ -3,6 +3,11 @@
 msgid "АПТЕКА"
 msgstr ""
 
+# Objects : [w330347426]
+# name:be: []
+msgid "Гаражи"
+msgstr ""
+
 # Objects : [w226953097]
 # name:be: []
 msgid "Депортамент охраны"
@@ -11,6 +16,11 @@ msgstr ""
 # Objects : [w144921515]
 # name:be: []
 msgid "Дет. приют"
+msgstr ""
+
+# Objects : [w330347427]
+# name:be: []
+msgid "Детсад"
 msgstr ""
 
 # Objects : [w288743310]
@@ -28,9 +38,54 @@ msgstr ""
 msgid "Ж/д вокзал"
 msgstr ""
 
+# Objects : [w330347430]
+# name:be: []
+msgid "Колледж"
+msgstr ""
+
+# Objects : [w329822145]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w330347431]
+# name:be: []
+msgid "Корпус 1"
+msgstr ""
+
+# Objects : [w330347432]
+# name:be: []
+msgid "Корпус 2"
+msgstr ""
+
+# Objects : [w333377827, w334296032]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
+# Objects : [w330347433]
+# name:be: []
+msgid "Ктольная"
+msgstr ""
+
+# Objects : [w330347434, w330347435, w330347436, w330347437, w330347438, w330347439, w330347440]
+# name:be: []
+msgid "Лаборатория"
+msgstr ""
+
+# Objects : [w330347441]
+# name:be: []
+msgid "Лесхоз"
+msgstr ""
+
 # Objects : [w291753253]
 # name:be: []
 msgid "магазин"
+msgstr ""
+
+# Objects : [w330347442, w330347443, w334296033]
+# name:be: []
+msgid "Магазин"
 msgstr ""
 
 # Objects : [w144568584]
@@ -63,6 +118,31 @@ msgstr ""
 msgid "Налоговая, УКС, БТИ"
 msgstr ""
 
+# Objects : [w330347444]
+# name:be: []
+msgid "Общежитие 1"
+msgstr ""
+
+# Objects : [w330347445]
+# name:be: []
+msgid "Общежитие 2"
+msgstr ""
+
+# Objects : [w330347446]
+# name:be: []
+msgid "Общежитие 3"
+msgstr ""
+
+# Objects : [w330347447]
+# name:be: []
+msgid "Общежитие 4"
+msgstr ""
+
+# Objects : [w330347448]
+# name:be: []
+msgid "Поиск"
+msgstr ""
+
 # Objects : [w144921394]
 # name:be: []
 msgid "Продукты"
@@ -71,6 +151,16 @@ msgstr ""
 # Objects : [w144568594]
 # name:be: []
 msgid "Прокуратура"
+msgstr ""
+
+# Objects : [w329822146]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
+# Objects : [w329822147, w329822148, w329822149, w329822150, w329822151, w329822152, w329822153, w329822154]
+# name:be: []
+msgid "Птичник"
 msgstr ""
 
 # Objects : [w288899801]
@@ -86,6 +176,26 @@ msgstr ""
 # Objects : [w152255582]
 # name:be: []
 msgid "РОЧС"
+msgstr ""
+
+# Objects : [w330347449]
+# name:be: []
+msgid "Спортзал"
+msgstr ""
+
+# Objects : [w330347450]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
+# Objects : [w333377828]
+# name:be: []
+msgid "Центральная котельная"
+msgstr ""
+
+# Objects : [w226955045]
+# name:be: []
+msgid "Цех"
 msgstr ""
 
 # Objects : [w265191400]

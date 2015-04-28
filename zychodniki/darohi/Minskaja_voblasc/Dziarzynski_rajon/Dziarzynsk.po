@@ -204,7 +204,7 @@ msgid "Первомайская улица"
 msgstr ""
 
 # Objects : [w318749484]
-# name:be: []
+# name:be: [Вішнёвы завулак]
 msgid "Переулок Вишнёвый"
 msgstr ""
 
@@ -214,7 +214,7 @@ msgid "переулок Островского"
 msgstr ""
 
 # Objects : [w25543437]
-# name:be: [завулак Садовы]
+# name:be: [Садовы завулак]
 msgid "переулок Садовый"
 msgstr ""
 
@@ -428,8 +428,13 @@ msgstr ""
 msgid "улица Островского"
 msgstr ""
 
+# Objects : [w208226979]
+# name:be: [вуліца Пераможцаў]
+msgid "улица Победителей"
+msgstr ""
+
 # Objects : [w208375761]
-# name:be: []
+# name:be: [Памежная вуліца]
 msgid "улица Пограничная"
 msgstr ""
 

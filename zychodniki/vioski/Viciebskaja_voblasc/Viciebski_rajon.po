@@ -33,6 +33,16 @@ msgstr ""
 msgid "Антоновка"
 msgstr ""
 
+# Objects : [n243046726, w25082391]
+# name:be: [Арэхі]
+msgid "Арехи"
+msgstr ""
+
+# Objects : [n2142168835, w182365253]
+# name:be: [Асёткі]
+msgid "Асётки"
+msgstr ""
+
 # Objects : [n243042813, w25084110]
 # name:be: [Астрэйкава]
 msgid "Астрейково"
@@ -100,7 +110,7 @@ msgstr ""
 
 # Objects : [n243035483, w25090441]
 # name:be: [Бібіраўка]
-msgid "Бибировка"
+msgid "Бибиревка"
 msgstr ""
 
 # Objects : [n243034222, w25097524]
@@ -108,9 +118,24 @@ msgstr ""
 msgid "Блины"
 msgstr ""
 
+# Objects : [n243042786, w25083989]
+# name:be: [Вялікая Любшчына]
+msgid "Большая Любщина"
+msgstr ""
+
+# Objects : [n243036445, w25090689]
+# name:be: [Вялікая Чэрніца]
+msgid "Большая Черница"
+msgstr ""
+
 # Objects : [n243034413, w25097549]
 # name:be: [Вялікія Лётцы]
 msgid "Большие Лётцы"
+msgstr ""
+
+# Objects : [n243034425, w25097547]
+# name:be: [Вялікія Трубачы]
+msgid "Большие Трубочи"
 msgstr ""
 
 # Objects : [n243042817, w25084098]
@@ -180,7 +205,7 @@ msgstr ""
 
 # Objects : [n243035661, w25090654]
 # name:be: [Буцяжы]
-msgid "Бутежи"
+msgid "Бутяжи"
 msgstr ""
 
 # Objects : [n243035504, w25090408]
@@ -196,21 +221,6 @@ msgstr ""
 # Objects : [n243034476, w25097585]
 # name:be: [Васількі]
 msgid "Васильки"
-msgstr ""
-
-# Objects : [n243042786, w25083989]
-# name:be: [Вялікая Любшчына]
-msgid "Великая Любщина"
-msgstr ""
-
-# Objects : [n243036445, w25090689]
-# name:be: [Вялікая Чэрніца]
-msgid "Великая Черница"
-msgstr ""
-
-# Objects : [n243034425, w25097547]
-# name:be: [Вялікія Трубачы]
-msgid "Великие Трубачи"
 msgstr ""
 
 # Objects : [n343152046, w25088077]
@@ -323,11 +333,6 @@ msgstr ""
 msgid "Гора"
 msgstr ""
 
-# Objects : [n243042737, w25083948]
-# name:be: [Гаркава]
-msgid "Горкава"
-msgstr ""
-
 # Objects : [n243043728, w25088247]
 # name:be: [Гараватка]
 msgid "Гороватка"
@@ -346,6 +351,11 @@ msgstr ""
 # Objects : [n243035618, w25090620]
 # name:be: [Гарадняны]
 msgid "Городняны"
+msgstr ""
+
+# Objects : [n243042737, w25083948]
+# name:be: [Гаркава]
+msgid "Горькаво"
 msgstr ""
 
 # Objects : [n243043776, w25088046]
@@ -385,7 +395,7 @@ msgstr ""
 
 # Objects : [n243046740, w25082374]
 # name:be: [Дземяхі]
-msgid "Демехи"
+msgid "Демяхи"
 msgstr ""
 
 # Objects : [n243035593, w25090607]
@@ -401,16 +411,6 @@ msgstr ""
 # Objects : [n243042987, w25090376]
 # name:be: [Доўжа]
 msgid "Должа"
-msgstr ""
-
-# Objects : [w25097595]
-# name:be: [Дарагакупава]
-msgid "Дорогокупово"
-msgstr ""
-
-# Objects : [n243042023, w25085678]
-# name:be: [Дражна]
-msgid "Дражно"
 msgstr ""
 
 # Objects : [n243035520, w25090418]
@@ -433,9 +433,14 @@ msgstr ""
 msgid "Дрюково"
 msgstr ""
 
+# Objects : [n243042023, w25085678]
+# name:be: [Дражна]
+msgid "Дряжно"
+msgstr ""
+
 # Objects : [n675486108, w25090429]
 # name:be: [Дудчына]
-msgid "Дудчино"
+msgid "Дутчино"
 msgstr ""
 
 # Objects : [n243043698, w25088200]
@@ -858,17 +863,17 @@ msgstr ""
 msgid "Лемница"
 msgstr ""
 
-# Objects : [n243046700, w25082437]
-# name:be: [Лёпіна]
-msgid "Лёпино"
-msgstr ""
-
 # Objects : [n243035474, w25090451]
 # name:be: [Лесавыя]
 msgid "Лесовые"
 msgstr ""
 
-# Objects : [n2139981664, n243043686, w25088223]
+# Objects : [n243046700, w25082437]
+# name:be: [Ліопіна]
+msgid "Лиопино"
+msgstr ""
+
+# Objects : [n2139981664, w25088223]
 # name:be: [Ліпаўцы]
 msgid "Липовцы"
 msgstr ""
@@ -895,7 +900,7 @@ msgstr ""
 
 # Objects : [n243042112, w25085826]
 # name:be: [Ласасіна]
-msgid "Лососина"
+msgid "Лососино"
 msgstr ""
 
 # Objects : [n243035607, w25090611]
@@ -903,14 +908,14 @@ msgstr ""
 msgid "Луговые"
 msgstr ""
 
-# Objects : [n2357543363, n675486094, w25090461, w35984445]
+# Objects : [n675486094, w35984445]
 # name:be: [Лужасна]
 msgid "Лужесно"
 msgstr ""
 
 # Objects : [n243042146, w25085798]
 # name:be: [Лужына]
-msgid "Лужина"
+msgid "Лужино"
 msgstr ""
 
 # Objects : [n1437207406, w25088048]
@@ -978,7 +983,7 @@ msgstr ""
 msgid "Мазолово"
 msgstr ""
 
-# Objects : [n243043706, w25088219]
+# Objects : [n243043706, r4716564]
 # name:be: [Макарава]
 msgid "Макарово"
 msgstr ""
@@ -1005,7 +1010,7 @@ msgstr ""
 
 # Objects : [n243034427, w25097550]
 # name:be: [Малыя Трубачы]
-msgid "Малые Трубачи"
+msgid "Малые Трубочи"
 msgstr ""
 
 # Objects : [n243042816, w25084099]
@@ -1033,7 +1038,7 @@ msgstr ""
 msgid "Машкино"
 msgstr ""
 
-# Objects : [n2975319520, n3208792508, n3208855808, w293954495, w314836831, w314842360]
+# Objects : [n2975319520, n3208855808, w293954495, w314836831]
 # name:be: [Мядзвёдка]
 msgid "Медвёдка"
 msgstr ""
@@ -1128,11 +1133,6 @@ msgstr ""
 msgid "Ольгово"
 msgstr ""
 
-# Objects : [n243046726, w25082391]
-# name:be: [Арэхі]
-msgid "Орехи"
-msgstr ""
-
 # Objects : [n243046715, w25082408]
 # name:be: [Арэшанкі]
 msgid "Орешенки"
@@ -1141,11 +1141,6 @@ msgstr ""
 # Objects : [n243043825, w54153444]
 # name:be: [Арлова]
 msgid "Орлово"
-msgstr ""
-
-# Objects : [n2142168835, w182365253]
-# name:be: [Асёткі]
-msgid "Осётки"
 msgstr ""
 
 # Objects : [n243036037, n243043723, w25088259, w25090629]
@@ -1273,7 +1268,7 @@ msgstr ""
 msgid "Привольная"
 msgstr ""
 
-# Objects : [n2815363911, w276982913]
+# Objects : [n2815363911, w25097595, w276982913]
 # name:be: [Прыдзвінне]
 msgid "Придвинье"
 msgstr ""
@@ -1438,7 +1433,7 @@ msgstr ""
 msgid "Слобода"
 msgstr ""
 
-# Objects : [n3207127461]
+# Objects : [n3207127461, w333578074]
 # name:be: [Слабада Жукаўская]
 msgid "Слобода Жуковская"
 msgstr ""
@@ -1658,11 +1653,6 @@ msgstr ""
 msgid "Храпольно"
 msgstr ""
 
-# Objects : [n243035555, w25090457]
-# name:be: [Чопіна]
-msgid "Чёпино"
-msgstr ""
-
 # Objects : [n243035646, w25090696]
 # name:be: [Чарнецкі Мох]
 msgid "Чернецкий Мох"
@@ -1676,6 +1666,11 @@ msgstr ""
 # Objects : [n243034449, w25097570]
 # name:be: [Чырына]
 msgid "Чирино"
+msgstr ""
+
+# Objects : [n243035555, w25090457]
+# name:be: [Чопіна]
+msgid "Чопино"
 msgstr ""
 
 # Objects : [n1437196322, w25085728]
@@ -1708,7 +1703,7 @@ msgstr ""
 msgid "Шапуры"
 msgstr ""
 
-# Objects : [n243043691, n243043729, w25088235, w25088255]
+# Objects : [n243043729, w25088255]
 # name:be: [Шаркі]
 msgid "Шарки"
 msgstr ""

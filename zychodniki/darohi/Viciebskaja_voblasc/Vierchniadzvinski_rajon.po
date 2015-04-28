@@ -8,9 +8,19 @@ msgstr ""
 msgid "Армейская улица"
 msgstr ""
 
+# Objects : [w111411018]
+# name:be: []
+msgid "Веселая улица"
+msgstr ""
+
 # Objects : [w111411027]
 # name:be: []
 msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w338467760]
+# name:be: []
+msgid "Дачная Улица"
 msgstr ""
 
 # Objects : [w199605828, w199605829]
@@ -26,6 +36,11 @@ msgstr ""
 # Objects : [w198408088, w198408090, w198408091, w198409720, w198409722, w198414763, w198430399]
 # name:be: []
 msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w338446433]
+# name:be: []
+msgid "Зеленый переулок"
 msgstr ""
 
 # Objects : [w279034701, w279034702, w279059598]
@@ -73,7 +88,12 @@ msgstr ""
 msgid "Пограничная улица"
 msgstr ""
 
-# Objects : [w111411008]
+# Objects : [w330884190]
+# name:be: [падвесны мост]
+msgid "подвесной мост"
+msgstr ""
+
+# Objects : [w111411008, w309808128]
 # name:be: [Руч'явая вуліца]
 msgid "Ручьевая улица"
 msgstr ""
@@ -86,6 +106,11 @@ msgstr ""
 # Objects : [w161947902, w198409718, w198430397, w278769008, w278769009, w278775608, w279087839]
 # name:be: []
 msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w340112402]
+# name:be: []
+msgid "Степная улица"
 msgstr ""
 
 # Objects : [w278769007]
@@ -128,7 +153,7 @@ msgstr ""
 msgid "улица Строителей"
 msgstr ""
 
-# Objects : [w161947904]
+# Objects : [w161947904, w338442211]
 # name:be: []
 msgid "Центральная улица"
 msgstr ""

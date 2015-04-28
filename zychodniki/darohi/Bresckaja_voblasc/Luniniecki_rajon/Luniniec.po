@@ -88,6 +88,11 @@ msgstr ""
 msgid "Линейная улица"
 msgstr ""
 
+# Objects : [w313147111]
+# name:be: []
+msgid "Лунинец - Припять"
+msgstr ""
+
 # Objects : [w173502199]
 # name:be: [Меліяратыўная вуліца]
 msgid "Мелиоративная улица"

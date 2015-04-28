@@ -33,6 +33,11 @@ msgstr ""
 msgid "Багратиона"
 msgstr ""
 
+# Objects : [n3168297693, n3168297694]
+# name:be: []
+msgid "Банк"
+msgstr ""
+
 # Objects : [n1425114590, n1425114591]
 # name:be: [Баўмана]
 msgid "Баумана"
@@ -138,6 +143,11 @@ msgstr ""
 msgid "Донского"
 msgstr ""
 
+# Objects : [n3405146218]
+# name:be: []
+msgid "Евроопт"
+msgstr ""
+
 # Objects : [n2097991594, n2097991702]
 # name:be: []
 msgid "Завод Неман"
@@ -165,7 +175,7 @@ msgstr ""
 
 # Objects : [n1427831917]
 # name:be: []
-msgid "кинотеатр Юбилейный"
+msgid "Кинотеатр Юбилейный"
 msgstr ""
 
 # Objects : [n2098014424, n2098014425]
@@ -280,7 +290,7 @@ msgstr ""
 
 # Objects : [n2098004848]
 # name:be: []
-msgid "Магазин Огонек"
+msgid "Магазин Огонёк"
 msgstr ""
 
 # Objects : [n2098003504, n2098003969]
@@ -383,7 +393,7 @@ msgstr ""
 msgid "Парковая"
 msgstr ""
 
-# Objects : [n2098021333]
+# Objects : [n2098021277, n2098021333]
 # name:be: []
 msgid "Поворот ДРСУ 157"
 msgstr ""
@@ -448,7 +458,7 @@ msgstr ""
 msgid "Строителей"
 msgstr ""
 
-# Objects : [n3168297693, n3168297694]
+# Objects : [n2097995117, n3168297697]
 # name:be: []
 msgid "Тавлая"
 msgstr ""
@@ -478,7 +488,7 @@ msgstr ""
 msgid "ФОК"
 msgstr ""
 
-# Objects : [n3166462665, n3166462666]
+# Objects : [n3166462666]
 # name:be: []
 msgid "Фомичёва"
 msgstr ""
@@ -501,11 +511,6 @@ msgstr ""
 # Objects : [n2098010224]
 # name:be: []
 msgid "Шевченко"
-msgstr ""
-
-# Objects : [n1427783919]
-# name:be: [Шайбакі]
-msgid "Шейбаки"
 msgstr ""
 
 # Objects : [n1561171267]

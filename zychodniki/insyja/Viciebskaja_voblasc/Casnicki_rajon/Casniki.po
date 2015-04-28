@@ -1,3 +1,8 @@
+# Objects : [w338049009]
+# name:be: []
+msgid "Автотранспортное предприятие № 9"
+msgstr ""
+
 # Objects : [w231836357]
 # name:be: []
 msgid "Агросервис"
@@ -23,39 +28,9 @@ msgstr ""
 msgid "Гостиница "Уют""
 msgstr ""
 
-# Objects : [n2766736713]
-# name:be: []
-msgid "Гостиница Уют"
-msgstr ""
-
-# Objects : [n2766736719]
-# name:be: []
-msgid "Гостиница Чашники"
-msgstr ""
-
 # Objects : [w236404479]
 # name:be: []
 msgid "Дом Быта"
-msgstr ""
-
-# Objects : [w188340222]
-# name:be: []
-msgid "ИП Гончаренко м-н "Новосел""
-msgstr ""
-
-# Objects : [w319544435]
-# name:be: []
-msgid "ИП Гончаренко м-н "Смак""
-msgstr ""
-
-# Objects : [n2385258229]
-# name:be: []
-msgid "Краеведческий музей"
-msgstr ""
-
-# Objects : [w165593077]
-# name:be: []
-msgid "КУПП "Полоцкий винодельческий завод" филиал "Чашникский спиртзавод""
 msgstr ""
 
 # Objects : [n914479835]
@@ -63,24 +38,34 @@ msgstr ""
 msgid "Мемориал освободителям города"
 msgstr ""
 
+# Objects : [w188340222]
+# name:be: []
+msgid "Новосёл"
+msgstr ""
+
 # Objects : [w165593078]
 # name:be: []
 msgid "ОАО "Светлогорский ЦКК" филиал "Бумажная фабрика Красная Звезда""
 msgstr ""
 
-# Objects : [w188301369]
+# Objects : [w157658598]
 # name:be: []
-msgid "ОАО ПМК-26"
+msgid "общежитие АТП № 9"
 msgstr ""
 
-# Objects : [n2385249713]
+# Objects : [w236405912]
 # name:be: []
-msgid "Пиццерия"
+msgid "Общежитие ПМК-71"
+msgstr ""
+
+# Objects : [r4789703]
+# name:be: []
+msgid "Подстанция"
 msgstr ""
 
 # Objects : [w176352306]
 # name:be: []
-msgid "рынок"
+msgid "Рынок"
 msgstr ""
 
 # Objects : [w231836358]
@@ -88,34 +73,14 @@ msgstr ""
 msgid "Северо-западный завод"
 msgstr ""
 
-# Objects : [w176340292]
-# name:be: []
-msgid "Стадион СШ№4"
-msgstr ""
-
 # Objects : [w165593079]
 # name:be: []
-msgid "УП "ЖКХ" котельня №1"
+msgid "УП "ЖКХ" котельная №1"
 msgstr ""
 
 # Objects : [w165593081]
 # name:be: []
-msgid "УП "ЖКХ" котельня №3"
-msgstr ""
-
-# Objects : [n2788686155]
-# name:be: [Царква Праабражэння Гасподняга]
-msgid "Церковь Преображения Господня"
-msgstr ""
-
-# Objects : [n913381599]
-# name:be: [Чашніцкая раённая бальніца]
-msgid "Чашникская районная больница"
-msgstr ""
-
-# Objects : [n914654778]
-# name:be: [Чашніцкі райвыканкам]
-msgid "Чашникский районный исполнительный комитет"
+msgid "УП "ЖКХ" котельная № 3"
 msgstr ""
 
 # Objects : [w231836359]
@@ -123,9 +88,9 @@ msgstr ""
 msgid "Чашникский район Полоцких электросетей"
 msgstr ""
 
-# Objects : [w231835106]
+# Objects : [w165593077]
 # name:be: []
-msgid "Чашникский РИК"
+msgid "Чашникский спиртзавод"
 msgstr ""
 
 # Objects : [w165593082]

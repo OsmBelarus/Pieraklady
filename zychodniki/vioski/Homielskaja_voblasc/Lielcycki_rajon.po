@@ -163,11 +163,6 @@ msgstr ""
 msgid "Лазнище"
 msgstr ""
 
-# Objects : [n242978944, w243942022]
-# name:be: [Лельчыцы]
-msgid "Лельчицы"
-msgstr ""
-
 # Objects : [n243024000, w25122504]
 # name:be: [Ліпляны]
 msgid "Липляны"
@@ -268,19 +263,9 @@ msgstr ""
 msgid "Ручное"
 msgstr ""
 
-# Objects : [n243016308, n2791943066, w25125834, w274480265]
-# name:be: [Салагубаў]
-msgid "Салогубов"
-msgstr ""
-
 # Objects : [n243024041, w25119331]
 # name:be: [Свіднае]
 msgid "Свидное"
-msgstr ""
-
-# Objects : [n243019330, w25124935]
-# name:be: [Сярэднія Печы]
-msgid "Середние Печи"
 msgstr ""
 
 # Objects : [n243020818, w25124939]
@@ -313,9 +298,19 @@ msgstr ""
 msgid "Слободка"
 msgstr ""
 
+# Objects : [n243016308, n2791943066, w25125834, w274480265]
+# name:be: [Салагубаў]
+msgid "Сологубов"
+msgstr ""
+
 # Objects : [n243023292, w25110368]
 # name:be: [Сом]
 msgid "Сом"
+msgstr ""
+
+# Objects : [n243019330, w25124935]
+# name:be: [Сярэднія Печы]
+msgid "Средние Печи"
 msgstr ""
 
 # Objects : [n243024014, w25119709]
@@ -370,7 +365,7 @@ msgstr ""
 
 # Objects : [n243019320, w25122514]
 # name:be: [Чыянне]
-msgid "Чиянье"
+msgid "Чияне"
 msgstr ""
 
 # Objects : [n243020813, w25124941]

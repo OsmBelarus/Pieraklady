@@ -13,6 +13,11 @@ msgstr ""
 msgid "библиотека"
 msgstr ""
 
+# Objects : [w279771129]
+# name:be: []
+msgid "больница"
+msgstr ""
+
 # Objects : [w273429097]
 # name:be: []
 msgid "ГРП №1"
@@ -101,11 +106,6 @@ msgstr ""
 # Objects : [w135568505]
 # name:be: []
 msgid "Пожарная аварийно-спасательная часть"
-msgstr ""
-
-# Objects : [w276504053]
-# name:be: []
-msgid "почта"
 msgstr ""
 
 # Objects : [w135894501]

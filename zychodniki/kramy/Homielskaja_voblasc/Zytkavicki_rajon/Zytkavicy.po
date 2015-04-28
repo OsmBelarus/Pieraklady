@@ -63,19 +63,9 @@ msgstr ""
 msgid "Молочный"
 msgstr ""
 
-# Objects : [n621163449]
-# name:be: [Азёрны]
-msgid "Озерный"
-msgstr ""
-
 # Objects : [n621163452, n621183156]
 # name:be: [Прадукты]
 msgid "Продукты"
-msgstr ""
-
-# Objects : [n1280151851]
-# name:be: []
-msgid "Промтовары"
 msgstr ""
 
 # Objects : [n2957114379]

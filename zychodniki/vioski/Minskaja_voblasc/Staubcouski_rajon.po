@@ -803,6 +803,11 @@ msgstr ""
 msgid "Стецки"
 msgstr ""
 
+# Objects : [n3476392045]
+# name:be: []
+msgid "ст Импульс-Садовод"
+msgstr ""
+
 # Objects : [n243002088, w25134071]
 # name:be: [Судзевічы]
 msgid "Судевичи"

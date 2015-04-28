@@ -10,7 +10,7 @@ msgstr ""
 
 # Objects : [n243044115, w25087717]
 # name:be: [Белы Калодзеж]
-msgid "Белый Колодеж"
+msgid "Белый Колодец"
 msgstr ""
 
 # Objects : [w25087770]
@@ -203,11 +203,6 @@ msgstr ""
 msgid "Марс"
 msgstr ""
 
-# Objects : [n243042258, w25085507]
-# name:be: [Мікалаеўка]
-msgid "Миколаевка"
-msgstr ""
-
 # Objects : [n243042268, w25085488]
 # name:be: [Міхалёўка]
 msgid "Михалёвка"
@@ -218,9 +213,9 @@ msgstr ""
 msgid "Мохов"
 msgstr ""
 
-# Objects : [n243044159, w25087767]
-# name:be: [Новая Алешкаўка]
-msgid "Новая Алешковка"
+# Objects : [n243042258, w25085507]
+# name:be: [Нікалаеўка]
+msgid "Николаевка"
 msgstr ""
 
 # Objects : [n243044104, w25087734]
@@ -236,6 +231,11 @@ msgstr ""
 # Objects : [n243042237, w25085530]
 # name:be: [Новая Лутава]
 msgid "Новая Лутава"
+msgstr ""
+
+# Objects : [n243044159, w25087767]
+# name:be: [Новая Алешкаўка]
+msgid "Новая Олешковка"
 msgstr ""
 
 # Objects : [n243044102, w25087753]
@@ -343,11 +343,6 @@ msgstr ""
 msgid "Смелый"
 msgstr ""
 
-# Objects : [n243044097, w25087773]
-# name:be: [Старая Алешкаўка]
-msgid "Старая Алешковка"
-msgstr ""
-
 # Objects : [n243042239, w25085532]
 # name:be: [Старая Лутава]
 msgid "Старая Лутава"
@@ -361,11 +356,6 @@ msgstr ""
 # Objects : [n243046189, w25085444]
 # name:be: [Суткова]
 msgid "Сутково"
-msgstr ""
-
-# Objects : [w25085437]
-# name:be: [Церабееўка]
-msgid "Теребеевка"
 msgstr ""
 
 # Objects : [n243042250, w25085520]

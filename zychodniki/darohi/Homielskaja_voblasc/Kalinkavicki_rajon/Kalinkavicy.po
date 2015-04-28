@@ -179,7 +179,7 @@ msgid "переулок Заслонова"
 msgstr ""
 
 # Objects : [w53310802]
-# name:be: []
+# name:be: [завулак Куйбышава]
 msgid "переулок Куйбышева"
 msgstr ""
 
@@ -189,7 +189,7 @@ msgid "переулок Кутузова"
 msgstr ""
 
 # Objects : [w326214314]
-# name:be: []
+# name:be: [Лясны завулак]
 msgid "переулок Лесной"
 msgstr ""
 
@@ -259,7 +259,7 @@ msgid "переулок Энгельса"
 msgstr ""
 
 # Objects : [w310244323]
-# name:be: []
+# name:be: [завулак Энергетыкаў]
 msgid "переулок Энергетиков"
 msgstr ""
 
@@ -269,7 +269,7 @@ msgid "Пионерская улица"
 msgstr ""
 
 # Objects : [w326190981]
-# name:be: []
+# name:be: [плошча Леніна]
 msgid "площадь Ленина"
 msgstr ""
 
@@ -724,7 +724,7 @@ msgid "улица Энгельса"
 msgstr ""
 
 # Objects : [w276436847]
-# name:be: []
+# name:be: [вуліца Энергетыкаў]
 msgid "улица Энергетиков"
 msgstr ""
 

@@ -138,7 +138,7 @@ msgstr ""
 msgid "улица Комарова"
 msgstr ""
 
-# Objects : [w116790417, w120344115, w225395858, w268261891]
+# Objects : [w116790417, w120344115, w182631184, w225395858, w268261891]
 # name:be: []
 msgid "улица Ленина"
 msgstr ""
@@ -148,7 +148,7 @@ msgstr ""
 msgid "улица Машерова"
 msgstr ""
 
-# Objects : [w25289829]
+# Objects : [w182631179, w25289829]
 # name:be: []
 msgid "улица Мира"
 msgstr ""
@@ -176,6 +176,11 @@ msgstr ""
 # Objects : [w148960687]
 # name:be: []
 msgid "улица Циташвили"
+msgstr ""
+
+# Objects : [w105601332]
+# name:be: []
+msgid "улица Юбилейная"
 msgstr ""
 
 # Objects : [w268692874]

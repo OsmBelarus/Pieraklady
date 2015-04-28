@@ -73,6 +73,11 @@ msgstr ""
 msgid "Зелёная улица"
 msgstr ""
 
+# Objects : [w330747041]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
 # Objects : [w114693549]
 # name:be: [Камунальная вуліца]
 msgid "Коммунальная улица"

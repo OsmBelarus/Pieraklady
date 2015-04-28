@@ -38,6 +38,11 @@ msgstr ""
 msgid "Залучье-Прудники"
 msgstr ""
 
+# Objects : [w167862010]
+# name:be: []
+msgid "Ленинградское шоссе"
+msgstr ""
+
 # Objects : [w100690255, w160202995]
 # name:be: []
 msgid "Лесная улица"
@@ -83,14 +88,14 @@ msgstr ""
 msgid "Озёрный переулок"
 msgstr ""
 
+# Objects : [w310355733]
+# name:be: []
+msgid "пер.Полевой"
+msgstr ""
+
 # Objects : [w130878021]
 # name:be: []
 msgid "Полевая улица"
-msgstr ""
-
-# Objects : [w310355733]
-# name:be: []
-msgid "Полевой переулок"
 msgstr ""
 
 # Objects : [w31278335]

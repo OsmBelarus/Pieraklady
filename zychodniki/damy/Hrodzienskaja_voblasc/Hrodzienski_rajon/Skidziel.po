@@ -1,5 +1,250 @@
-# Objects : [w308705311]
+# Objects : [w338440191]
 # name:be: []
-msgid "Жилой дом"
+msgid "1"
+msgstr ""
+
+# Objects : [w289693994, w289693995, w299002297]
+# name:be: []
+msgid "10"
+msgstr ""
+
+# Objects : [w299002298]
+# name:be: []
+msgid "108"
+msgstr ""
+
+# Objects : [w299002291, w331331847, w338442644]
+# name:be: []
+msgid "11"
+msgstr ""
+
+# Objects : [w299002315]
+# name:be: []
+msgid "110"
+msgstr ""
+
+# Objects : [w289693993, w299002306, w338459845]
+# name:be: []
+msgid "12"
+msgstr ""
+
+# Objects : [w299002310, w331331846]
+# name:be: []
+msgid "13"
+msgstr ""
+
+# Objects : [w289693992, w299002302, w308705311, w338466805]
+# name:be: []
+msgid "14"
+msgstr ""
+
+# Objects : [w299002292, w338481667, w338642315]
+# name:be: []
+msgid "15"
+msgstr ""
+
+# Objects : [w289693991, w299002309, w338586287]
+# name:be: []
+msgid "16"
+msgstr ""
+
+# Objects : [w299002289, w338466806, w338758114]
+# name:be: []
+msgid "17"
+msgstr ""
+
+# Objects : [w289693990, w338440190]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [w299002316, w338322072]
+# name:be: []
+msgid "19"
+msgstr ""
+
+# Objects : [w338466807]
+# name:be: []
+msgid "1А"
+msgstr ""
+
+# Objects : [w338474535]
+# name:be: []
+msgid "1В"
+msgstr ""
+
+# Objects : [w289693987, w338594811]
+# name:be: []
+msgid "2"
+msgstr ""
+
+# Objects : [w289693986]
+# name:be: []
+msgid "20"
+msgstr ""
+
+# Objects : [w331331845, w338322073]
+# name:be: []
+msgid "21"
+msgstr ""
+
+# Objects : [w338459848]
+# name:be: []
+msgid "22"
+msgstr ""
+
+# Objects : [w338459847]
+# name:be: []
+msgid "24"
+msgstr ""
+
+# Objects : [w331331844, w338449198]
+# name:be: []
+msgid "25"
+msgstr ""
+
+# Objects : [w338466808, w338586288]
+# name:be: []
+msgid "29"
+msgstr ""
+
+# Objects : [w299002314, w338322075, w338449199]
+# name:be: []
+msgid "3"
+msgstr ""
+
+# Objects : [w338440192, w338466809]
+# name:be: []
+msgid "32"
+msgstr ""
+
+# Objects : [w338585372]
+# name:be: []
+msgid "36"
+msgstr ""
+
+# Objects : [w338322074]
+# name:be: []
+msgid "36А"
+msgstr ""
+
+# Objects : [w289693998, w299002294, w338628029]
+# name:be: []
+msgid "4"
+msgstr ""
+
+# Objects : [w338440193, w338440194, w338466810]
+# name:be: []
+msgid "41"
+msgstr ""
+
+# Objects : [w306348482]
+# name:be: []
+msgid "42"
+msgstr ""
+
+# Objects : [w299002312]
+# name:be: []
+msgid "45"
+msgstr ""
+
+# Objects : [w338801794]
+# name:be: []
+msgid "46"
+msgstr ""
+
+# Objects : [w289693988, w338322076]
+# name:be: []
+msgid "5"
+msgstr ""
+
+# Objects : [w338449200]
+# name:be: []
+msgid "50"
+msgstr ""
+
+# Objects : [w338440195]
+# name:be: []
+msgid "53"
+msgstr ""
+
+# Objects : [w338451952]
+# name:be: []
+msgid "55"
+msgstr ""
+
+# Objects : [w299002295]
+# name:be: []
+msgid "56"
+msgstr ""
+
+# Objects : [w299002313, w338440196, w338440197]
+# name:be: []
+msgid "57"
+msgstr ""
+
+# Objects : [w299002305, w338449201]
+# name:be: []
+msgid "58"
+msgstr ""
+
+# Objects : [w299002308]
+# name:be: []
+msgid "59"
+msgstr ""
+
+# Objects : [w289693997, w299002300, w338628030]
+# name:be: []
+msgid "6"
+msgstr ""
+
+# Objects : [w299002301]
+# name:be: []
+msgid "60"
+msgstr ""
+
+# Objects : [w299002304, w338440198]
+# name:be: []
+msgid "61"
+msgstr ""
+
+# Objects : [w299002307]
+# name:be: []
+msgid "62"
+msgstr ""
+
+# Objects : [w299002311, w338481668]
+# name:be: []
+msgid "63"
+msgstr ""
+
+# Objects : [w338322078]
+# name:be: []
+msgid "64"
+msgstr ""
+
+# Objects : [w338440199]
+# name:be: []
+msgid "67"
+msgstr ""
+
+# Objects : [w338459846]
+# name:be: []
+msgid "6А"
+msgstr ""
+
+# Objects : [w289693989, w331331848, w338322082, w338767514]
+# name:be: []
+msgid "7"
+msgstr ""
+
+# Objects : [w289693996, w338322084, w338466811, w338594812]
+# name:be: []
+msgid "8"
+msgstr ""
+
+# Objects : [w299002290, w338322086, w338466812]
+# name:be: []
+msgid "9"
 msgstr ""
 

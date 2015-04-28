@@ -1,0 +1,825 @@
+# Objects : [n3105219421]
+# name:be: ["Дзьверы Пакутнікаў"]
+msgid ""Двери мученников""
+msgstr ""
+
+# Objects : [n944865810]
+# name:be: [22 гвардзейцам]
+msgid "23 Гвардейцам"
+msgstr ""
+
+# Objects : [w172568421]
+# name:be: []
+msgid "MP-1"
+msgstr ""
+
+# Objects : [w172568422]
+# name:be: []
+msgid "MP-2"
+msgstr ""
+
+# Objects : [w172568423]
+# name:be: []
+msgid "MP-3"
+msgstr ""
+
+# Objects : [w245467859]
+# name:be: []
+msgid "MP-4"
+msgstr ""
+
+# Objects : [w313090016]
+# name:be: []
+msgid "OAO "Полоцкий комбинат хлебопродуктов""
+msgstr ""
+
+# Objects : [w130362463]
+# name:be: [Аўтаразборка]
+msgid "Авторазборка"
+msgstr ""
+
+# Objects : [w311785396]
+# name:be: []
+msgid "Асфальто-битумный завод"
+msgstr ""
+
+# Objects : [n2498780907]
+# name:be: []
+msgid "Аэропорт"
+msgstr ""
+
+# Objects : [w261279880]
+# name:be: []
+msgid "Аэропорт-2"
+msgstr ""
+
+# Objects : [w261279881]
+# name:be: []
+msgid "Аэропорт-3"
+msgstr ""
+
+# Objects : [w261279882]
+# name:be: []
+msgid "Аэропорт-6"
+msgstr ""
+
+# Objects : [n306067304]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
+# Objects : [n3114538253, n3404343529]
+# name:be: [Барысаў камень]
+msgid "Борисов камень"
+msgstr ""
+
+# Objects : [n306067044]
+# name:be: [Баравуха]
+msgid "Боровуха"
+msgstr ""
+
+# Objects : [n243024221]
+# name:be: [Баравуха 2]
+msgid "Боровуха 2"
+msgstr ""
+
+# Objects : [n306067040]
+# name:be: [Баравуха 2]
+msgid "Боровуха-2"
+msgstr ""
+
+# Objects : [w25107298]
+# name:be: [Баравуха 2]
+msgid "Боровуха 2-я"
+msgstr ""
+
+# Objects : [w56310129]
+# name:be: [Баравуха 3]
+msgid "Боровуха 3"
+msgstr ""
+
+# Objects : [w182522535]
+# name:be: []
+msgid "В/Ч 5530"
+msgstr ""
+
+# Objects : [n3155946674]
+# name:be: []
+msgid "В. И. Ленин"
+msgstr ""
+
+# Objects : [n3273391919]
+# name:be: []
+msgid "Верхний замок"
+msgstr ""
+
+# Objects : [w172568425]
+# name:be: []
+msgid "Водогрейная котельная"
+msgstr ""
+
+# Objects : [w181497001]
+# name:be: []
+msgid "Водоканал"
+msgstr ""
+
+# Objects : [w181497002]
+# name:be: []
+msgid "Войсковая часть №32404 радио - электронной борьбы"
+msgstr ""
+
+# Objects : [w23078170]
+# name:be: [Валова]
+msgid "Волово"
+msgstr ""
+
+# Objects : [n1436640444]
+# name:be: [Усяславу Чарадзею]
+msgid "Всеслав Чародей"
+msgstr ""
+
+# Objects : [w277589295]
+# name:be: []
+msgid "Вторчермет"
+msgstr ""
+
+# Objects : [n3133892056]
+# name:be: []
+msgid "Гинекологическое отделение"
+msgstr ""
+
+# Objects : [w293283747]
+# name:be: []
+msgid "ГК "Двина""
+msgstr ""
+
+# Objects : [w172568427]
+# name:be: []
+msgid "Главный корпус"
+msgstr ""
+
+# Objects : [n306066988]
+# name:be: [ГАУС]
+msgid "ГОВД"
+msgstr ""
+
+# Objects : [n306066998]
+# name:be: [Гарадская паліклініка]
+msgid "Городская поликлиника"
+msgstr ""
+
+# Objects : [n3108297655]
+# name:be: []
+msgid "Городская поликлиника №1"
+msgstr ""
+
+# Objects : [n2766736756]
+# name:be: []
+msgid "Гостиничный комплекс Славянский"
+msgstr ""
+
+# Objects : [n2498780908]
+# name:be: []
+msgid "Громы"
+msgstr ""
+
+# Objects : [n252153541]
+# name:be: [Дзвіна]
+msgid "Двина"
+msgstr ""
+
+# Objects : [n3155875100]
+# name:be: []
+msgid "девочка с солнечными часами"
+msgstr ""
+
+# Objects : [n522479443]
+# name:be: [Дзіцячая паліклініка]
+msgid "Детская Поликлиника"
+msgstr ""
+
+# Objects : [n459101860]
+# name:be: [Дзіцячы музей]
+msgid "Детский музей"
+msgstr ""
+
+# Objects : [n944865805]
+# name:be: [Ефрасінні Полацкай]
+msgid "Евфросинье Полоцкой"
+msgstr ""
+
+# Objects : [n1175667856]
+# name:be: [ЖРЭА-1]
+msgid "ЖРЭО-1"
+msgstr ""
+
+# Objects : [w293283753]
+# name:be: []
+msgid "Завод ЖБИ"
+msgstr ""
+
+# Objects : [n525676675]
+# name:be: [ЗАГС]
+msgid "ЗАГС"
+msgstr ""
+
+# Objects : [n2498780909]
+# name:be: []
+msgid "Задвинье"
+msgstr ""
+
+# Objects : [n2498780910]
+# name:be: []
+msgid "Заполотье"
+msgstr ""
+
+# Objects : [n3124674623]
+# name:be: []
+msgid "Ивану Алексееву"
+msgstr ""
+
+# Objects : [n1436382814]
+# name:be: [Кіламетровы слуп]
+msgid "Километровый столб"
+msgstr ""
+
+# Objects : [n2788681198]
+# name:be: [Могілкі лютэранскія]
+msgid "Кладбище лютеранское"
+msgstr ""
+
+# Objects : [w307929886]
+# name:be: [Могілкі стараверскія]
+msgid "Кладбище старообрядческие"
+msgstr ""
+
+# Objects : [n2788681648]
+# name:be: [Кляштар францысканаў]
+msgid "Кляштор францисканцев"
+msgstr ""
+
+# Objects : [n2788681661]
+# name:be: [Калегіум езуітаў]
+msgid "Коллегиум иезуитов"
+msgstr ""
+
+# Objects : [n507011853]
+# name:be: [Кандраценка Раман Ісідравіч]
+msgid "Кондратенко Роман Исидорович"
+msgstr ""
+
+# Objects : [n2498780911]
+# name:be: []
+msgid "Коровники"
+msgstr ""
+
+# Objects : [w81111437]
+# name:be: [Красныя могілкі]
+msgid "Красное кладбище"
+msgstr ""
+
+# Objects : [w310187348]
+# name:be: [Чырвоны мост]
+msgid "Красный мост"
+msgstr ""
+
+# Objects : [w39950842]
+# name:be: []
+msgid "Ксаверьевское кладбище"
+msgstr ""
+
+# Objects : [n525651066]
+# name:be: [«Рытуал»]
+msgid "КУП СКГО Ритуал"
+msgstr ""
+
+# Objects : [n945268720]
+# name:be: [Курган]
+msgid "Курган"
+msgstr ""
+
+# Objects : [w305837121]
+# name:be: []
+msgid "Курган Бессмертия"
+msgstr ""
+
+# Objects : [n2526582777]
+# name:be: []
+msgid "Ленин"
+msgstr ""
+
+# Objects : [w294601794]
+# name:be: []
+msgid "Лесопилка"
+msgstr ""
+
+# Objects : [n2498780912]
+# name:be: []
+msgid "Лозовка"
+msgstr ""
+
+# Objects : [n306067051]
+# name:be: [Стадыён «Лакаматыў»]
+msgid "Локомотив Стадион"
+msgstr ""
+
+# Objects : [r3688408]
+# name:be: []
+msgid "Мазутка"
+msgstr ""
+
+# Objects : [w172568428]
+# name:be: []
+msgid "Мазутонасосная"
+msgstr ""
+
+# Objects : [n2981931602]
+# name:be: [Марыненка]
+msgid "Мариненко"
+msgstr ""
+
+# Objects : [n2788682844]
+# name:be: [Малельня стараверская]
+msgid "Молельный дом староверов"
+msgstr ""
+
+# Objects : [n2788683013]
+# name:be: [Кляштар бэрнардынаў]
+msgid "Монастырь бернардинцев"
+msgstr ""
+
+# Objects : [n2788682956]
+# name:be: [Манастыр Спаса-Эўфрасіньнеўскі]
+msgid "Монастырь Спасо-Ефросиньевский"
+msgstr ""
+
+# Objects : [n306067048]
+# name:be: [Музей-кватэраТусналобавай]
+msgid "Музей"
+msgstr ""
+
+# Objects : [n306067318]
+# name:be: [Музей воінскай славы]
+msgid "Музей Воинской Славы"
+msgstr ""
+
+# Objects : [n3114535115]
+# name:be: [Музей гісторыі архітэктуры Сафійскага сабора]
+msgid "Музей истории архитектуры Софийского собора"
+msgstr ""
+
+# Objects : [n2783960481]
+# name:be: []
+msgid "Музей книгопечатанья"
+msgstr ""
+
+# Objects : [n1785865112]
+# name:be: []
+msgid "Музей средневекового рыцарства"
+msgstr ""
+
+# Objects : [n3273391921]
+# name:be: []
+msgid "Нижний замок"
+msgstr ""
+
+# Objects : [n2530287249]
+# name:be: []
+msgid "Николай Чудотворец"
+msgstr ""
+
+# Objects : [n2498780913]
+# name:be: []
+msgid "Новка"
+msgstr ""
+
+# Objects : [w234763252]
+# name:be: []
+msgid "ОАО "Полоцкое пиво""
+msgstr ""
+
+# Objects : [w30291614]
+# name:be: []
+msgid "ОАО «Полоцк-Стекловолокно»"
+msgstr ""
+
+# Objects : [w313090019]
+# name:be: []
+msgid "ОАО Полоцкий завод "Проммашремонт""
+msgstr ""
+
+# Objects : [w42066618]
+# name:be: [ААТ Тэхналіт Полацк]
+msgid "ОАО Технолит Полоцк"
+msgstr ""
+
+# Objects : [w130437043]
+# name:be: [Інтэрнат]
+msgid "Общежитие"
+msgstr ""
+
+# Objects : [w42065977]
+# name:be: []
+msgid "Общежитие №5"
+msgstr ""
+
+# Objects : [n3133892057]
+# name:be: []
+msgid "Онкологический диспансер"
+msgstr ""
+
+# Objects : [w315881414]
+# name:be: []
+msgid "ООО "АпАТэК-Полоцк""
+msgstr ""
+
+# Objects : [n3114535116]
+# name:be: [Арганная зала]
+msgid "Органный зал"
+msgstr ""
+
+# Objects : [n3155825141]
+# name:be: []
+msgid "памятник Андрею Ольгердовичу"
+msgstr ""
+
+# Objects : [n765964817]
+# name:be: [Помнік літары «Ў»]
+msgid "Памятник букве "Ў""
+msgstr ""
+
+# Objects : [n2788683384]
+# name:be: [Помнік вайне 1812 г.]
+msgid "Памятник войне 1812 г."
+msgstr ""
+
+# Objects : [n2561149119]
+# name:be: []
+msgid "Памятник Иоанну Зодчему"
+msgstr ""
+
+# Objects : [n3155863323]
+# name:be: []
+msgid "памятник кривичам"
+msgstr ""
+
+# Objects : [n3155936023]
+# name:be: []
+msgid "памятник купцу"
+msgstr ""
+
+# Objects : [n2127476716]
+# name:be: []
+msgid "Памятник освободителям Полоцка"
+msgstr ""
+
+# Objects : [n3175847339]
+# name:be: []
+msgid "памятник средневековому студенту"
+msgstr ""
+
+# Objects : [n1332295463]
+# name:be: [Пяскі]
+msgid "Пески"
+msgstr ""
+
+# Objects : [w243606384]
+# name:be: []
+msgid "площадка для сдачи вождения"
+msgstr ""
+
+# Objects : [n3155840965]
+# name:be: []
+msgid "пожарная каланча"
+msgstr ""
+
+# Objects : [n1172156301, n306067295]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
+msgstr ""
+
+# Objects : [n119298123, n1366339029]
+# name:be: [Полацк]
+msgid "Полоцк"
+msgstr ""
+
+# Objects : [w334184022]
+# name:be: []
+msgid "Полоцкая городская больница №1"
+msgstr ""
+
+# Objects : [w164049478]
+# name:be: [Полацкая ЦЭЦ]
+msgid "Полоцкая ТЭЦ"
+msgstr ""
+
+# Objects : [w234763253]
+# name:be: []
+msgid "Полоцкая универсальная база №2"
+msgstr ""
+
+# Objects : [w243600667]
+# name:be: []
+msgid "Полоцкая центральная городская больница"
+msgstr ""
+
+# Objects : [w130568499]
+# name:be: [Полацкія электрасеткі]
+msgid "Полоцкие электрические сети"
+msgstr ""
+
+# Objects : [w273550982]
+# name:be: [Полацкі дзяржаўны ўніверсітэт]
+msgid "Полоцкий государственный университет"
+msgstr ""
+
+# Objects : [w42065992]
+# name:be: [Полацкі калгасны рынак]
+msgid "Полоцкий колхозный рынок"
+msgstr ""
+
+# Objects : [w181497004]
+# name:be: []
+msgid "Полоцкий молочный комбинат"
+msgstr ""
+
+# Objects : [w181497003]
+# name:be: []
+msgid "Полоцкий мясокомбинат"
+msgstr ""
+
+# Objects : [w313090020]
+# name:be: []
+msgid "Полоцкпласт"
+msgstr ""
+
+# Objects : [r4114745]
+# name:be: []
+msgid "Профессиональный лицей строителей"
+msgstr ""
+
+# Objects : [r4114746]
+# name:be: []
+msgid "Профессиональный лицей химиков"
+msgstr ""
+
+# Objects : [n306066996]
+# name:be: [Псіхбальніца]
+msgid "Психбольница"
+msgstr ""
+
+# Objects : [w291795371]
+# name:be: []
+msgid "ПТО 07242 Полоцк-Стекловолокно"
+msgstr ""
+
+# Objects : [w30291590]
+# name:be: []
+msgid "ПУ "Полоцкгаз""
+msgstr ""
+
+# Objects : [n3133892058]
+# name:be: []
+msgid "Ремонт мобильных телефонов"
+msgstr ""
+
+# Objects : [w223870179]
+# name:be: []
+msgid "Ритуальный зал"
+msgstr ""
+
+# Objects : [w101449024]
+# name:be: [Рынак]
+msgid "рынок"
+msgstr ""
+
+# Objects : [n1436607856]
+# name:be: [Стралецкі рынак]
+msgid "Рынок Стрелецкий"
+msgstr ""
+
+# Objects : [w126123872]
+# name:be: [Паўночны рынак]
+msgid "Рынок строительных материалов и автозапчастей «Северный»"
+msgstr ""
+
+# Objects : [w311785397]
+# name:be: []
+msgid "С/Т "Суничка""
+msgstr ""
+
+# Objects : [w317056861]
+# name:be: []
+msgid "С/Т "Яблонька""
+msgstr ""
+
+# Objects : [w226061697]
+# name:be: []
+msgid "Связной"
+msgstr ""
+
+# Objects : [n3155946675]
+# name:be: [Сімяон Полацкі]
+msgid "Симеон Полоцкий"
+msgstr ""
+
+# Objects : [n1565450566]
+# name:be: [Сосніца]
+msgid "Сосница"
+msgstr ""
+
+# Objects : [n2498780914]
+# name:be: []
+msgid "Спасская Слобода"
+msgstr ""
+
+# Objects : [n2188345660]
+# name:be: [Спартзала]
+msgid "Спортзал"
+msgstr ""
+
+# Objects : [n3400289750]
+# name:be: []
+msgid "Столовая Славянская"
+msgstr ""
+
+# Objects : [n1706262506]
+# name:be: [Стаматалогія]
+msgid "Стоматология"
+msgstr ""
+
+# Objects : [w42066637]
+# name:be: [Стралецкі рынак]
+msgid "Стрелецкий Рынок"
+msgstr ""
+
+# Objects : [w295932745]
+# name:be: []
+msgid "Строительство гостиницы"
+msgstr ""
+
+# Objects : [w294601795]
+# name:be: []
+msgid "Строительство кладбища "Восточное" и комплекса оказания ритуальных услуг"
+msgstr ""
+
+# Objects : [w338104381]
+# name:be: []
+msgid "Строительство сервиса автообслуживания"
+msgstr ""
+
+# Objects : [w245467942]
+# name:be: []
+msgid "Строительство суперстора "Родная Сторона""
+msgstr ""
+
+# Objects : [w295932747]
+# name:be: []
+msgid "Строительство ТРЦ "Манеж""
+msgstr ""
+
+# Objects : [n525675087]
+# name:be: [Судова-медычны морг]
+msgid "Судебно-медицинский морг"
+msgstr ""
+
+# Objects : [w226325072]
+# name:be: []
+msgid "Сузорье"
+msgstr ""
+
+# Objects : [n3258014889]
+# name:be: []
+msgid "Сфера"
+msgstr ""
+
+# Objects : [n1432201898]
+# name:be: [Таксі]
+msgid "Такси"
+msgstr ""
+
+# Objects : [w292203515]
+# name:be: []
+msgid "Таможня 07242"
+msgstr ""
+
+# Objects : [n306067306]
+# name:be: [Танк Т-34]
+msgid "Танк Т-34"
+msgstr ""
+
+# Objects : [n3134255145]
+# name:be: []
+msgid "Теплогион"
+msgstr ""
+
+# Objects : [w130436341]
+# name:be: [Цір]
+msgid "Тир для стрельбы"
+msgstr ""
+
+# Objects : [n3175847338]
+# name:be: [Універсітэцкі гадзіннік]
+msgid "Университетские часы"
+msgstr ""
+
+# Objects : [w314683622]
+# name:be: []
+msgid "УП "Полоцкводоканал""
+msgstr ""
+
+# Objects : [w314684567, w314684568]
+# name:be: []
+msgid "УП "Полоцкводоканал" Гараж"
+msgstr ""
+
+# Objects : [w307357704]
+# name:be: []
+msgid "Устройство мемориального комплекса "Урочище Пески""
+msgstr ""
+
+# Objects : [w234763254]
+# name:be: []
+msgid "участок погрузочно-разгрузочных работ"
+msgstr ""
+
+# Objects : [w279340664]
+# name:be: [Фатынаўскія могілкі]
+msgid "Фатыновское кладбище"
+msgstr ""
+
+# Objects : [w164047559]
+# name:be: [Полацкі хлебазавод]
+msgid "Филиал Полоцкий хлебозавод"
+msgstr ""
+
+# Objects : [w130146057]
+# name:be: [Філіял Полацкі хлебахавод, цэх №1]
+msgid "Филиал Полоцкий хлебозавод цех №1"
+msgstr ""
+
+# Objects : [n507005113]
+# name:be: [Францыску Скарыну]
+msgid "Франциску Скорине"
+msgstr ""
+
+# Objects : [n3114295174]
+# name:be: [Фрэскі касцёла св. Андрэя Баболі]
+msgid "Фрески костела св. Андрея  Боболи"
+msgstr ""
+
+# Objects : [w172568430]
+# name:be: []
+msgid "Химический цех"
+msgstr ""
+
+# Objects : [n507007075]
+# name:be: [Цэнтр Еўропы]
+msgid "Центр Европы"
+msgstr ""
+
+# Objects : [n2788685770]
+# name:be: [Царква Ўзвышэння Святога Крыжа]
+msgid "Церковь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n2788686090]
+# name:be: [Царква Покрыва Прасвятой Багародзіцы]
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2788686551]
+# name:be: [Царква Святого Спаса]
+msgid "Церковь Святого Спаса"
+msgstr ""
+
+# Objects : [n2968620517]
+# name:be: []
+msgid "Часовня"
+msgstr ""
+
+# Objects : [w25180787]
+# name:be: []
+msgid "Черепки"
+msgstr ""
+
+# Objects : [n3155875101]
+# name:be: []
+msgid "школяр с часами"
+msgstr ""
+
+# Objects : [n3134255146]
+# name:be: []
+msgid "Эрготрейд"
+msgstr ""
+
+# Objects : [n3155946676]
+# name:be: []
+msgid "Ю. В. Тарич"
+msgstr ""
+
+# Objects : [w42065991]
+# name:be: []
+msgid "Ясли-сад №30"
+msgstr ""
+

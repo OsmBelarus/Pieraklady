@@ -28,6 +28,11 @@ msgstr ""
 msgid "СОЛДАТ"
 msgstr ""
 
+# Objects : [w337535324]
+# name:be: [СШ №2]
+msgid "СШ №2"
+msgstr ""
+
 # Objects : [n243046130]
 # name:be: [Сырск]
 msgid "Сырск"

@@ -78,6 +78,11 @@ msgstr ""
 msgid "улица Будённого"
 msgstr ""
 
+# Objects : [w169007575]
+# name:be: []
+msgid "улица Калинина"
+msgstr ""
+
 # Objects : [w274239460]
 # name:be: []
 msgid "улица Мелиораторов"

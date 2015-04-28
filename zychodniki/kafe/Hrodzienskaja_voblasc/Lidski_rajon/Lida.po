@@ -3,6 +3,11 @@
 msgid "Coffee Time"
 msgstr ""
 
+# Objects : [n3126206141]
+# name:be: []
+msgid "Pizza Smile"
+msgstr ""
+
 # Objects : [n1131427241]
 # name:be: []
 msgid "Айвенго"
@@ -51,11 +56,6 @@ msgstr ""
 # Objects : [n3127124417]
 # name:be: []
 msgid "Облизуха"
-msgstr ""
-
-# Objects : [n3126206141]
-# name:be: []
-msgid "Пицца смайл"
 msgstr ""
 
 # Objects : [n2853211101]

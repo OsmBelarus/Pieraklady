@@ -3,8 +3,23 @@
 msgid "Ленинградский переулок"
 msgstr ""
 
-# Objects : [w167862179, w237647778, w30736454, w31538114]
+# Objects : [w321600000]
 # name:be: []
-msgid "ул.Ленинградское шоссе"
+msgid "ул.Прибрежная"
+msgstr ""
+
+# Objects : [w101370757]
+# name:be: []
+msgid "ул.Садовая"
+msgstr ""
+
+# Objects : [w317768358]
+# name:be: []
+msgid "ул.Цветочная"
+msgstr ""
+
+# Objects : [w101370756]
+# name:be: []
+msgid "ул.Центральная"
 msgstr ""
 

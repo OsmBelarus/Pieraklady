@@ -28,7 +28,7 @@ msgstr ""
 msgid "Зелёная улица"
 msgstr ""
 
-# Objects : [w157659256, w176307174]
+# Objects : [w157659256]
 # name:be: [Зялёны завулак]
 msgid "Зелёный переулок"
 msgstr ""
@@ -108,7 +108,7 @@ msgstr ""
 msgid "Минская улица"
 msgstr ""
 
-# Objects : [w164587088, w164590967, w188301374]
+# Objects : [w188301374]
 # name:be: [Моладзевы завулак]
 msgid "Молодёжный переулок"
 msgstr ""
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Набережная улица"
 msgstr ""
 
-# Objects : [w157659316, w187161804]
+# Objects : [w157659316]
 # name:be: [Новая вуліца]
 msgid "Новая улица"
 msgstr ""
@@ -208,7 +208,7 @@ msgstr ""
 msgid "Садовая улица"
 msgstr ""
 
-# Objects : [w172282941, w176294457, w176324329, w25253074]
+# Objects : [w172282941, w176294457, w176324329, w337178498]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
 msgstr ""
@@ -233,7 +233,7 @@ msgstr ""
 msgid "Строительная улица"
 msgstr ""
 
-# Objects : [w172282972]
+# Objects : [w337258599]
 # name:be: [Будаўнічы завулак]
 msgid "Строительный переулок"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Тихая улица"
 msgstr ""
 
-# Objects : [w157659301, w157659318]
+# Objects : [w157659318]
 # name:be: [Таполевая вуліца]
 msgid "Тополиная улица"
 msgstr ""
@@ -258,7 +258,7 @@ msgstr ""
 msgid "улица Володарского"
 msgstr ""
 
-# Objects : [w157659310, w25253073]
+# Objects : [w157659310, w25253073, w338049149, w338049150]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"
 msgstr ""
@@ -293,7 +293,7 @@ msgstr ""
 msgid "улица Заслонова"
 msgstr ""
 
-# Objects : [w157659263]
+# Objects : [w157659263, w272477441]
 # name:be: [вуліца Касманаўтаў]
 msgid "улица Космонавтов"
 msgstr ""
@@ -328,7 +328,7 @@ msgstr ""
 msgid "улица Фрунзе"
 msgstr ""
 
-# Objects : [w164588459, w192902247, w40558391]
+# Objects : [w40558391]
 # name:be: [вуліца Чэпіка]
 msgid "улица Чепика"
 msgstr ""

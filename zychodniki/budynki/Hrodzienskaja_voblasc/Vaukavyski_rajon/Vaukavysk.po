@@ -113,11 +113,6 @@ msgstr ""
 msgid "Гаспадар"
 msgstr ""
 
-# Objects : [w149938116]
-# name:be: []
-msgid "Главный лечебный корпус; Приёмное отделение"
-msgstr ""
-
 # Objects : [w198636224, w198636225]
 # name:be: []
 msgid "Гроднооблсоюзпечать"
@@ -443,13 +438,28 @@ msgstr ""
 msgid "Цветы"
 msgstr ""
 
+# Objects : [w149938116]
+# name:be: []
+msgid "Центральная районная больница"
+msgstr ""
+
 # Objects : [w198341845]
 # name:be: []
 msgid "Цитолаборатория"
 msgstr ""
 
+# Objects : [w192253206]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
 # Objects : [w97556963]
 # name:be: [Шынамантаж]
 msgid "Шиномонтаж"
+msgstr ""
+
+# Objects : [w264723977]
+# name:be: []
+msgid "ШРП"
 msgstr ""
 

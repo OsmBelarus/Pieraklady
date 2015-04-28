@@ -113,11 +113,6 @@ msgstr ""
 msgid "Гостиничный комплекс Энергия"
 msgstr ""
 
-# Objects : [n275538890]
-# name:be: [Дамачава]
-msgid "Домачево"
-msgstr ""
-
 # Objects : [n242979273, w25147302]
 # name:be: [Дамброўка]
 msgid "Домбровка"
@@ -136,11 +131,6 @@ msgstr ""
 # Objects : [n306069518]
 # name:be: [Забалацце]
 msgid "Заболотье"
-msgstr ""
-
-# Objects : [n306064447]
-# name:be: [Збунін]
-msgid "Збунин"
 msgstr ""
 
 # Objects : [n2788680628]
@@ -176,11 +166,6 @@ msgstr ""
 # Objects : [n306062178]
 # name:be: []
 msgid "Курница"
-msgstr ""
-
-# Objects : [n306064452]
-# name:be: [Ляплёўка]
-msgid "Липленка"
 msgstr ""
 
 # Objects : [w132986012, w132986013]
@@ -236,11 +221,6 @@ msgstr ""
 # Objects : [n242979368, n306064466, w25147223]
 # name:be: [Матыкалы]
 msgid "Мотыкалы"
-msgstr ""
-
-# Objects : [n242979282, w25147292]
-# name:be: [Альха]
-msgid "Ольха"
 msgstr ""
 
 # Objects : [n2766736767]
@@ -446,11 +426,6 @@ msgstr ""
 # Objects : [n2788686583]
 # name:be: [Царква Святой Параскевы Пятніцы]
 msgid "Церковь Святой Параскевы Пятницы"
-msgstr ""
-
-# Objects : [n2788687116]
-# name:be: [Царква Успення Прасвятой Багародзіцы]
-msgid "Церковь Успения Пресвятой Богородицы"
 msgstr ""
 
 # Objects : [n2788687551]

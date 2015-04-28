@@ -58,6 +58,11 @@ msgstr ""
 msgid "Заполье"
 msgstr ""
 
+# Objects : [w329818728]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [w207578987, w213800988]
 # name:be: []
 msgid "Магазин"

@@ -53,7 +53,7 @@ msgstr ""
 msgid "Зона"
 msgstr ""
 
-# Objects : [w254986515]
+# Objects : [w254986515, w274005736, w332095798]
 # name:be: []
 msgid "КЗС"
 msgstr ""
@@ -73,19 +73,9 @@ msgstr ""
 msgid "Коровник"
 msgstr ""
 
-# Objects : [w241507893]
-# name:be: []
-msgid "Котельная ЖКХ"
-msgstr ""
-
-# Objects : [w214802081, w238299215, w240435297, w241507894]
+# Objects : [w214802081, w238299215, w240435297]
 # name:be: []
 msgid "Магазин"
-msgstr ""
-
-# Objects : [w241506196, w241506198]
-# name:be: []
-msgid "МН"
 msgstr ""
 
 # Objects : [w308734183]
@@ -96,11 +86,6 @@ msgstr ""
 # Objects : [w238233629]
 # name:be: []
 msgid "Опер."
-msgstr ""
-
-# Objects : [w240633703]
-# name:be: []
-msgid "Свинарник"
 msgstr ""
 
 # Objects : [w261044782]

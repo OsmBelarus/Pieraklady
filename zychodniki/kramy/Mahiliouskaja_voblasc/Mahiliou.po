@@ -23,6 +23,11 @@ msgstr ""
 msgid "5 Элемент"
 msgstr ""
 
+# Objects : [n3398652021]
+# name:be: []
+msgid "Bravo"
+msgstr ""
+
 # Objects : [n1413605186]
 # name:be: [Ultratech]
 msgid "Ultratech"
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [n1413537018]
 # name:be: []
 msgid "Золото"
+msgstr ""
+
+# Objects : [n3413137419, n3413137420]
+# name:be: []
+msgid "Канцтовары "М4""
 msgstr ""
 
 # Objects : [n1635599177]
@@ -118,6 +128,11 @@ msgstr ""
 msgid "Перекресток"
 msgstr ""
 
+# Objects : [n3385762224]
+# name:be: []
+msgid "Плюс"
+msgstr ""
+
 # Objects : [n3183355182]
 # name:be: []
 msgid "Приветливый"
@@ -166,6 +181,11 @@ msgstr ""
 # Objects : [n2281736741]
 # name:be: []
 msgid "Спортландия"
+msgstr ""
+
+# Objects : [n3413124701]
+# name:be: []
+msgid "т.ц. "Проспект""
 msgstr ""
 
 # Objects : [n1489663565]

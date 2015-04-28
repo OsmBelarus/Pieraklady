@@ -3,6 +3,11 @@
 msgid "Бобовище"
 msgstr ""
 
+# Objects : [n243002661, w25134473]
+# name:be: [Вялікія Круговічы]
+msgid "Большие Круговичи"
+msgstr ""
+
 # Objects : [n242996221, w25136476]
 # name:be: [Боркі]
 msgid "Борки"
@@ -11,11 +16,6 @@ msgstr ""
 # Objects : [n243004219, w25133199]
 # name:be: [Будча]
 msgid "Будча"
-msgstr ""
-
-# Objects : [n243002661, w25134473]
-# name:be: [Вялікія Круговічы]
-msgid "Великие Круговичи"
 msgstr ""
 
 # Objects : [n242999528, w25135471]
@@ -58,7 +58,7 @@ msgstr ""
 msgid "Колония"
 msgstr ""
 
-# Objects : [n242998942, w25135460, w25135472]
+# Objects : [n242998942, r4718525]
 # name:be: [Красынічы]
 msgid "Красыничи"
 msgstr ""
@@ -148,17 +148,17 @@ msgstr ""
 msgid "Пасеки"
 msgstr ""
 
-# Objects : [n243005545, n243005547, w25131984, w25131985]
+# Objects : [n243005547, r4728914]
 # name:be: [Пярэвалакі]
 msgid "Переволоки"
 msgstr ""
 
-# Objects : [n242998946, w25135453, w25135456]
+# Objects : [n242998946, r4680258]
 # name:be: [Перадзел]
 msgid "Передел"
 msgstr ""
 
-# Objects : [n242999531, n242999534, w25135473, w25135474]
+# Objects : [n242999534, r4728915]
 # name:be: [Палонь]
 msgid "Полонь"
 msgstr ""
@@ -173,13 +173,8 @@ msgstr ""
 msgid "Сукач"
 msgstr ""
 
-# Objects : [n1295673655, w114369019]
+# Objects : [n1295673655, r4718526]
 # name:be: [Хатынічы]
-msgid "Хатыничи"
-msgstr ""
-
-# Objects : [w25136477]
-# name:be: []
 msgid "Хотыничи"
 msgstr ""
 

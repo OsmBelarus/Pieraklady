@@ -28,7 +28,7 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
-# Objects : [w124825141]
+# Objects : [w340793464]
 # name:be: []
 msgid "Солнечная улица"
 msgstr ""
@@ -43,7 +43,7 @@ msgstr ""
 msgid "улица Гагарина"
 msgstr ""
 
-# Objects : [w124825138, w309413003]
+# Objects : [w124825138, w309413002, w330788919]
 # name:be: []
 msgid "улица Горького"
 msgstr ""

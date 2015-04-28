@@ -63,9 +63,9 @@ msgstr ""
 msgid "Вишеньки"
 msgstr ""
 
-# Objects : [n243023276, w25110412]
+# Objects : [n243023276]
 # name:be: []
-msgid "Глазки"
+msgid "Глазки (нежил.)"
 msgstr ""
 
 # Objects : [n243023273, w25110426]
@@ -386,10 +386,5 @@ msgstr ""
 # Objects : [n243025332, w25108992]
 # name:be: [Якімы]
 msgid "Якимы"
-msgstr ""
-
-# Objects : [n243024327, w25107208]
-# name:be: []
-msgid "Ястребли"
 msgstr ""
 

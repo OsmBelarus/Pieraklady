@@ -13,14 +13,24 @@ msgstr ""
 msgid "АЗС Гомельского РПУ"
 msgstr ""
 
-# Objects : [n637615411]
-# name:be: [Беларуснафта]
+# Objects : [w330910481]
+# name:be: []
 msgid "Белоруснефть"
 msgstr ""
 
 # Objects : [n306068223, n306068229, n306068278, n306068289, n306068291, n306068323]
 # name:be: []
 msgid "Белоруснефть-гомельоблнефтепродукт"
+msgstr ""
+
+# Objects : [n306068285]
+# name:be: []
+msgid "Белоруснефть №18"
+msgstr ""
+
+# Objects : [n1103242421, n3456150706]
+# name:be: []
+msgid "Белоруснефть №39"
 msgstr ""
 
 # Objects : [n306068079, n306068099]

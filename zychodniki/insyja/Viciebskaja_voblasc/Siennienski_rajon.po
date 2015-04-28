@@ -13,11 +13,6 @@ msgstr ""
 msgid "База биатлона"
 msgstr ""
 
-# Objects : [r3716613]
-# name:be: [Бярозаўскае]
-msgid "Берёзовское"
-msgstr ""
-
 # Objects : [w275514019]
 # name:be: []
 msgid "Богушевский рыбопитомник"
@@ -31,6 +26,11 @@ msgstr ""
 # Objects : [w25198563]
 # name:be: [Вялікае Святое воз.]
 msgid "Большое Святое"
+msgstr ""
+
+# Objects : [n243032952, w25097869]
+# name:be: [Вялікія Межнікі]
+msgid "Большой Межник"
 msgstr ""
 
 # Objects : [n919480730]
@@ -53,9 +53,19 @@ msgstr ""
 msgid "детский оздоровительный лагерь «Витязь»"
 msgstr ""
 
-# Objects : [w25194230]
-# name:be: [воз. Леванова]
-msgid "Леваново"
+# Objects : [w334572851, w339635340, w339642013]
+# name:be: [Могілкі]
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n243032914, w25097883]
+# name:be: [Кузьміно]
+msgid "Кузьмино"
+msgstr ""
+
+# Objects : [n243043756, w25088347]
+# name:be: [Ліпна]
+msgid "Липно"
 msgstr ""
 
 # Objects : [n2948342154]
@@ -78,6 +88,11 @@ msgstr ""
 msgid "Малое Святое"
 msgstr ""
 
+# Objects : [n243032948, w25097870]
+# name:be: [Малыя Межнікі]
+msgid "Малый Межник"
+msgstr ""
+
 # Objects : [w274735370]
 # name:be: []
 msgid "нефтепровод"
@@ -96,6 +111,11 @@ msgstr ""
 # Objects : [w123520331]
 # name:be: [падстанцыя «Машканы»]
 msgid "подстанция "Мошканы""
+msgstr ""
+
+# Objects : [n1444881707, w131239470]
+# name:be: [Прыхабы]
+msgid "Прихабы"
 msgstr ""
 
 # Objects : [w25193284]
@@ -141,5 +161,10 @@ msgstr ""
 # Objects : [n2788686074]
 # name:be: [Царква Покрыва Прасвятой Багародзіцы]
 msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n243033062, w25097808]
+# name:be: [Шэбіна]
+msgid "Шебино"
 msgstr ""
 

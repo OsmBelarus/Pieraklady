@@ -8,6 +8,106 @@ msgstr ""
 msgid "1000 мелочей (Мебельный)"
 msgstr ""
 
+# Objects : [w232278714]
+# name:be: []
+msgid "18А"
+msgstr ""
+
+# Objects : [w232278721]
+# name:be: []
+msgid "20"
+msgstr ""
+
+# Objects : [w232278708]
+# name:be: []
+msgid "21"
+msgstr ""
+
+# Objects : [w147354792, w55346315]
+# name:be: []
+msgid "23"
+msgstr ""
+
+# Objects : [w232278797]
+# name:be: []
+msgid "24"
+msgstr ""
+
+# Objects : [w232278801]
+# name:be: []
+msgid "25"
+msgstr ""
+
+# Objects : [w232278703]
+# name:be: []
+msgid "29"
+msgstr ""
+
+# Objects : [w147354780]
+# name:be: []
+msgid "31"
+msgstr ""
+
+# Objects : [w232278722]
+# name:be: []
+msgid "33"
+msgstr ""
+
+# Objects : [w147354784]
+# name:be: []
+msgid "37"
+msgstr ""
+
+# Objects : [w147354779]
+# name:be: []
+msgid "39"
+msgstr ""
+
+# Objects : [w232278792]
+# name:be: []
+msgid "40"
+msgstr ""
+
+# Objects : [w232278727]
+# name:be: []
+msgid "41"
+msgstr ""
+
+# Objects : [w232278702]
+# name:be: []
+msgid "43"
+msgstr ""
+
+# Objects : [w232278729]
+# name:be: []
+msgid "45"
+msgstr ""
+
+# Objects : [w232278724]
+# name:be: []
+msgid "47"
+msgstr ""
+
+# Objects : [w232278709]
+# name:be: []
+msgid "49"
+msgstr ""
+
+# Objects : [w232278740]
+# name:be: []
+msgid "51"
+msgstr ""
+
+# Objects : [w232278734]
+# name:be: []
+msgid "6"
+msgstr ""
+
+# Objects : [w232278763]
+# name:be: []
+msgid "61"
+msgstr ""
+
 # Objects : [w29130397]
 # name:be: []
 msgid "GPS Repair Ремонт навигаторов"
@@ -203,9 +303,14 @@ msgstr ""
 msgid "ДОТ"
 msgstr ""
 
-# Objects : [w159473857, w29158443]
+# Objects : [w159473857]
 # name:be: []
 msgid "Евроопт"
+msgstr ""
+
+# Objects : [w29158443]
+# name:be: []
+msgid "Евроопт+"
 msgstr ""
 
 # Objects : [w117878555]
@@ -271,6 +376,11 @@ msgstr ""
 # Objects : [n3245269907]
 # name:be: []
 msgid "Книжный магазин"
+msgstr ""
+
+# Objects : [w333939659]
+# name:be: []
+msgid "КНС"
 msgstr ""
 
 # Objects : [w118139167]
@@ -383,6 +493,11 @@ msgstr ""
 msgid "Полесский парк"
 msgstr ""
 
+# Objects : [w310783680]
+# name:be: []
+msgid "Приют для бездомных животных"
+msgstr ""
+
 # Objects : [w309030089, w309030091]
 # name:be: []
 msgid "Проходная"
@@ -396,6 +511,11 @@ msgstr ""
 # Objects : [w301895633]
 # name:be: []
 msgid "Пункт заготовки вторсырья"
+msgstr ""
+
+# Objects : [w29124729]
+# name:be: []
+msgid "Пункт приёма вторичного сырья"
 msgstr ""
 
 # Objects : [w29128567]
@@ -416,6 +536,11 @@ msgstr ""
 # Objects : [w121660764]
 # name:be: []
 msgid "Родны кут"
+msgstr ""
+
+# Objects : [w225425920]
+# name:be: []
+msgid "Родны Кут"
 msgstr ""
 
 # Objects : [n3245269943, n3245269944]
@@ -476,6 +601,16 @@ msgstr ""
 # Objects : [w118139674]
 # name:be: []
 msgid "ст. Обезжелезивания"
+msgstr ""
+
+# Objects : [n3358879675]
+# name:be: []
+msgid "Станция переливания крови"
+msgstr ""
+
+# Objects : [n3358879676]
+# name:be: []
+msgid "Станция скорой помощи №2"
 msgstr ""
 
 # Objects : [w142411549]

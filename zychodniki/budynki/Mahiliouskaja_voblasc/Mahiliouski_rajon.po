@@ -43,6 +43,11 @@ msgstr ""
 msgid "Баня"
 msgstr ""
 
+# Objects : [w283544186]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
 # Objects : [w236560338]
 # name:be: []
 msgid "грп"
@@ -73,7 +78,7 @@ msgstr ""
 msgid "Летняя кухня"
 msgstr ""
 
-# Objects : [w262044792]
+# Objects : [w262044792, w334680014]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -81,6 +86,11 @@ msgstr ""
 # Objects : [w270784708]
 # name:be: []
 msgid "Магазин"
+msgstr ""
+
+# Objects : [w339154820]
+# name:be: [Магілёў]
+msgid "Могилёв"
 msgstr ""
 
 # Objects : [w157449988]

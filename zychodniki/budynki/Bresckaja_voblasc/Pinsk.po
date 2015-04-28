@@ -1,3 +1,8 @@
+# Objects : [w316020752]
+# name:be: []
+msgid "5 Магазин"
+msgstr ""
+
 # Objects : [w72518314]
 # name:be: [АЛМІ]
 msgid "АЛМИ"
@@ -36,11 +41,6 @@ msgstr ""
 # Objects : [w72427230]
 # name:be: [Дзіцячая паліклініка]
 msgid "Детская поликлиника"
-msgstr ""
-
-# Objects : [w310835590]
-# name:be: []
-msgid "Детский сад"
 msgstr ""
 
 # Objects : [w310813191]
@@ -163,6 +163,11 @@ msgstr ""
 msgid "Припять"
 msgstr ""
 
+# Objects : [w326054517]
+# name:be: []
+msgid "Пункт охраны правопорядка"
+msgstr ""
+
 # Objects : [w72518309]
 # name:be: []
 msgid "Реал"
@@ -171,6 +176,11 @@ msgstr ""
 # Objects : [w72673997]
 # name:be: []
 msgid "РемБытТехника"
+msgstr ""
+
+# Objects : [w340617918]
+# name:be: []
+msgid "Санта-"
 msgstr ""
 
 # Objects : [w94696281]
@@ -183,9 +193,24 @@ msgstr ""
 msgid "Свитанок"
 msgstr ""
 
+# Objects : [w316020742]
+# name:be: []
+msgid "Средняя школа №14"
+msgstr ""
+
+# Objects : [w316020741]
+# name:be: []
+msgid "Средняя школа №18"
+msgstr ""
+
 # Objects : [w253248695]
 # name:be: []
 msgid "Суд Пинского района и г. Пинска"
+msgstr ""
+
+# Objects : [w316376770]
+# name:be: []
+msgid "Трансформаторная подстанция"
 msgstr ""
 
 # Objects : [w322900261]

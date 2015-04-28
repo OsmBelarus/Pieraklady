@@ -213,6 +213,11 @@ msgstr ""
 msgid "Литва"
 msgstr ""
 
+# Objects : [w337402816]
+# name:be: []
+msgid "Логистический центр "Евроопт""
+msgstr ""
+
 # Objects : [n2297942043]
 # name:be: []
 msgid "Лохозвинская ГЭС"
@@ -405,7 +410,7 @@ msgstr ""
 
 # Objects : [n242994645, w25137319]
 # name:be: [Росаш]
-msgid "Росошь"
+msgid "Россошь"
 msgstr ""
 
 # Objects : [n306069418, w200750353, w257433836]
@@ -563,7 +568,7 @@ msgstr ""
 msgid "Церковь Святой Параскевы Пятницы"
 msgstr ""
 
-# Objects : [n2788686638, n2788686640]
+# Objects : [n2788686640]
 # name:be: [Царква Святой Тройцы]
 msgid "Церковь Святой Троицы"
 msgstr ""

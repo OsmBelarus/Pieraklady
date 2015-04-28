@@ -33,9 +33,14 @@ msgstr ""
 msgid "Котельн."
 msgstr ""
 
-# Objects : [w159801472, w225215202]
+# Objects : [w225215202]
 # name:be: []
 msgid "магазин"
+msgstr ""
+
+# Objects : [w159801472]
+# name:be: []
+msgid "Магазин"
 msgstr ""
 
 # Objects : [w181409690]

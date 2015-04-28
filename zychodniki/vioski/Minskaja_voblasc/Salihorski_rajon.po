@@ -1,3 +1,8 @@
+# Objects : [n243009533, w25129345]
+# name:be: [Авіны]
+msgid "Авины"
+msgstr ""
+
 # Objects : [n243014804, w25128114]
 # name:be: [Ананчыцы]
 msgid "Ананчицы"
@@ -23,6 +28,11 @@ msgstr ""
 msgid "Болотчицы"
 msgstr ""
 
+# Objects : [n243009562, w25129316]
+# name:be: [Вялікія Заўшыцы]
+msgid "Большие Завшицы"
+msgstr ""
+
 # Objects : [n243005509, w275053319]
 # name:be: [Баравая]
 msgid "Боровая"
@@ -41,11 +51,6 @@ msgstr ""
 # Objects : [n243007911, w25130759]
 # name:be: [Вялікая Альшанка]
 msgid "Великая Ольшанка"
-msgstr ""
-
-# Objects : [n243009562, w25129316]
-# name:be: [Вялікія Заўшыцы]
-msgid "Великие Завшицы"
 msgstr ""
 
 # Objects : [n243014808, w25129358]
@@ -533,11 +538,6 @@ msgstr ""
 msgid "Обидемля"
 msgstr ""
 
-# Objects : [n243009533, w25129345]
-# name:be: [Авіны]
-msgid "Овины"
-msgstr ""
-
 # Objects : [n243008260, w25130792]
 # name:be: [Акцябр]
 msgid "Октябрь"
@@ -558,14 +558,14 @@ msgstr ""
 msgid "Отрубы"
 msgstr ""
 
+# Objects : [n243008229, w25130777]
+# name:be: [Першамайск]
+msgid "Первомайск"
+msgstr ""
+
 # Objects : [n243014998, w25129299]
 # name:be: [Ператок]
 msgid "Переток"
-msgstr ""
-
-# Objects : [n243008229, w25130777]
-# name:be: [Першамайск]
-msgid "Першемайск"
 msgstr ""
 
 # Objects : [n243008194, w25130828]
@@ -650,17 +650,12 @@ msgstr ""
 
 # Objects : [n243009567, w25129314]
 # name:be: [Прусы]
-msgid "Прусы"
+msgid "Пруссы"
 msgstr ""
 
 # Objects : [n243008132, w25130851]
 # name:be: [Пузічы]
 msgid "Пузичи"
-msgstr ""
-
-# Objects : [n243016229, w25125743]
-# name:be: [Рагі]
-msgid "Раги"
 msgstr ""
 
 # Objects : [n243009577, w25129301]
@@ -691,6 +686,11 @@ msgstr ""
 # Objects : [n243013812, w25127001]
 # name:be: [Рог]
 msgid "Рог"
+msgstr ""
+
+# Objects : [n243016229, w25125743]
+# name:be: [Рагі]
+msgid "Роги"
 msgstr ""
 
 # Objects : [n243014874, w25128086]

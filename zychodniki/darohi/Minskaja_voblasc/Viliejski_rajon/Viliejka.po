@@ -43,7 +43,7 @@ msgstr ""
 msgid "Долгиновская улица"
 msgstr ""
 
-# Objects : [w73339071]
+# Objects : [w328567935, w73339071]
 # name:be: [Зарэчная вуліца]
 msgid "Заречная улица"
 msgstr ""
@@ -93,6 +93,11 @@ msgstr ""
 msgid "Лестница"
 msgstr ""
 
+# Objects : [w199307811]
+# name:be: [Любанская вуліца]
+msgid "Любанская улица"
+msgstr ""
+
 # Objects : [w199307783]
 # name:be: [Мірная вуліца]
 msgid "Мирная улица"
@@ -103,7 +108,7 @@ msgstr ""
 msgid "Набережная улица"
 msgstr ""
 
-# Objects : [w73339060]
+# Objects : [w241927731, w73339060]
 # name:be: [Новая вуліца]
 msgid "Новая улица"
 msgstr ""
@@ -166,6 +171,11 @@ msgstr ""
 # Objects : [w73339045]
 # name:be: [Прывакзальная вуліца]
 msgid "Привокзальная улица"
+msgstr ""
+
+# Objects : [w73339052]
+# name:be: [Крынічная вуліца]
+msgid "Родниковая улица"
 msgstr ""
 
 # Objects : [w179045117]
@@ -328,11 +338,6 @@ msgstr ""
 msgid "улица Лавриновича"
 msgstr ""
 
-# Objects : [w199307811]
-# name:be: []
-msgid "улица Любанская"
-msgstr ""
-
 # Objects : [w52077349]
 # name:be: [вуліца Маркава]
 msgid "улица Маркова"
@@ -368,11 +373,6 @@ msgstr ""
 msgid "улица Николаева"
 msgstr ""
 
-# Objects : [w241927731]
-# name:be: []
-msgid "улица Новая"
-msgstr ""
-
 # Objects : [w199307856]
 # name:be: [вуліца Навасёлаў]
 msgid "улица Новосёлов"
@@ -396,11 +396,6 @@ msgstr ""
 # Objects : [w58765291, w61694713, w61694715]
 # name:be: [вуліца Пушкіна]
 msgid "улица Пушкина"
-msgstr ""
-
-# Objects : [w73339052]
-# name:be: []
-msgid "улица Родниковая"
 msgstr ""
 
 # Objects : [w179045062]
@@ -458,11 +453,6 @@ msgstr ""
 msgid "улица Шубина"
 msgstr ""
 
-# Objects : [w224898586]
-# name:be: [вуліца Яблыневая]
-msgid "улица Яблоневая"
-msgstr ""
-
 # Objects : [w74185067]
 # name:be: [Фрунзенскі завулак]
 msgid "Фрунзенский переулок"
@@ -471,6 +461,11 @@ msgstr ""
 # Objects : [w205330323, w205330327]
 # name:be: [Школьны завулак]
 msgid "Школьный переулок"
+msgstr ""
+
+# Objects : [w224898586]
+# name:be: [Яблыневая вуліца]
+msgid "Яблоневая улица"
 msgstr ""
 
 # Objects : [w323475623, w323475624]

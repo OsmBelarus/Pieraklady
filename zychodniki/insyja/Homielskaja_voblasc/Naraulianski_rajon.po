@@ -3,14 +3,84 @@
 msgid "Александровка"
 msgstr ""
 
-# Objects : [n275186368]
+# Objects : [n243040605, n275186368, w25103419]
 # name:be: []
 msgid "Белая Сорока"
 msgstr ""
 
-# Objects : [n2788680284]
-# name:be: [Палацава-паркавы комплекс Горватаў]
-msgid "Дворцово-парковый комплекс Горваттов"
+# Objects : [n243031059, w25104903]
+# name:be: []
+msgid "Белобережская Рудня"
+msgstr ""
+
+# Objects : [n243031043, w25104901]
+# name:be: [Белы Бераг]
+msgid "Белый Берег"
+msgstr ""
+
+# Objects : [n243038014, w25104182]
+# name:be: [Бярозаўка]
+msgid "Березовка"
+msgstr ""
+
+# Objects : [n243030900, w25104918]
+# name:be: []
+msgid "Боровичи"
+msgstr ""
+
+# Objects : [n243038100, w25104175]
+# name:be: [Вяжышча]
+msgid "Вяжище"
+msgstr ""
+
+# Objects : [n243031040, w25104904]
+# name:be: []
+msgid "Гамарня"
+msgstr ""
+
+# Objects : [n243031062, w25104905]
+# name:be: []
+msgid "Данилеевка"
+msgstr ""
+
+# Objects : [n243031028, w25104902]
+# name:be: [Дворышча]
+msgid "Дворище"
+msgstr ""
+
+# Objects : [n3390846457]
+# name:be: []
+msgid "Демидов"
+msgstr ""
+
+# Objects : [n243038096, w25104176]
+# name:be: []
+msgid "Дерновичи"
+msgstr ""
+
+# Objects : [n243040598, r4768120]
+# name:be: []
+msgid "Довляды"
+msgstr ""
+
+# Objects : [n3380819409]
+# name:be: []
+msgid "Дуб+Сосна"
+msgstr ""
+
+# Objects : [n243038032, w25104184]
+# name:be: [Дуброва]
+msgid "Дуброва"
+msgstr ""
+
+# Objects : [n3380819410]
+# name:be: []
+msgid "Землянки"
+msgstr ""
+
+# Objects : [n243038087, w25104896]
+# name:be: [Карпавічы]
+msgid "Карповичи"
 msgstr ""
 
 # Objects : [w25195144]
@@ -23,19 +93,74 @@ msgstr ""
 msgid "Ландшафтный заказник Стрельский"
 msgstr ""
 
+# Objects : [n243031077, w25104910]
+# name:be: []
+msgid "Ленинский Поселок"
+msgstr ""
+
+# Objects : [n243031085, w25104912]
+# name:be: []
+msgid "Лисова"
+msgstr ""
+
+# Objects : [n243031056, w25104907]
+# name:be: []
+msgid "Лиховня"
+msgstr ""
+
+# Objects : [n3390846459]
+# name:be: []
+msgid "Лубень"
+msgstr ""
+
+# Objects : [n3390846458]
+# name:be: []
+msgid "Лубень 2"
+msgstr ""
+
+# Objects : [n243031072, w25104908]
+# name:be: [Міхайлаўка]
+msgid "Михайловка"
+msgstr ""
+
+# Objects : [n243038017, w25104178]
+# name:be: []
+msgid "Надточаевка"
+msgstr ""
+
 # Objects : [w25195054]
 # name:be: []
 msgid "Немецкое"
 msgstr ""
 
-# Objects : [r3397849]
-# name:be: [Палескі дзяржаўны радыяцыйна-экалагічны запаведнік]
-msgid "Полесский государственный радиационно-экологический заповедник"
+# Objects : [n243038011, w25104180, w25104181]
+# name:be: []
+msgid "Новый Майдан"
 msgstr ""
 
-# Objects : [w253459232]
-# name:be: [Прыпяць]
-msgid "Припять"
+# Objects : [n243031069, w25104917]
+# name:be: []
+msgid "Окопы"
+msgstr ""
+
+# Objects : [n243038028, w25104183]
+# name:be: []
+msgid "Осиповка"
+msgstr ""
+
+# Objects : [n243031088, w25104913]
+# name:be: []
+msgid "Радомля"
+msgstr ""
+
+# Objects : [n243040596, w25103413]
+# name:be: []
+msgid "Рожава"
+msgstr ""
+
+# Objects : [n3380819411]
+# name:be: []
+msgid "Руины крепости 16в"
 msgstr ""
 
 # Objects : [w25197856]
@@ -53,8 +178,48 @@ msgstr ""
 msgid "Старуха"
 msgstr ""
 
+# Objects : [n243038111, w25104897]
+# name:be: [Цешкаў]
+msgid "Тешков"
+msgstr ""
+
+# Objects : [n243031065, w25104911]
+# name:be: []
+msgid "Тихин"
+msgstr ""
+
+# Objects : [n243031080, w25104915]
+# name:be: [Вуглы]
+msgid "Углы"
+msgstr ""
+
+# Objects : [n243038022, w25104185]
+# name:be: []
+msgid "Хатки"
+msgstr ""
+
+# Objects : [n243040608, w25103420]
+# name:be: []
+msgid "Хутор Лес"
+msgstr ""
+
+# Objects : [n243030895, w25104919]
+# name:be: [Хутар Сяргееў]
+msgid "Хутор Сергеев"
+msgstr ""
+
 # Objects : [n2788686574]
 # name:be: [Царква Святой Параскевы Пятницы]
 msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [n243031053, w25104906]
+# name:be: []
+msgid "Чапаевка"
+msgstr ""
+
+# Objects : [n243030898, w25104916]
+# name:be: []
+msgid "Ясенок"
 msgstr ""
 

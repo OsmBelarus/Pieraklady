@@ -268,7 +268,7 @@ msgstr ""
 msgid "Долгое"
 msgstr ""
 
-# Objects : [n2588131797]
+# Objects : [n2588131797, w252783348]
 # name:be: [Дамброўскія]
 msgid "Домбровские"
 msgstr ""
@@ -358,6 +358,11 @@ msgstr ""
 msgid "Ержишки"
 msgstr ""
 
+# Objects : [n1646615466, w151815834]
+# name:be: [Ярканцы]
+msgid "Ерканцы"
+msgstr ""
+
 # Objects : [r3567035]
 # name:be: []
 msgid "Жвирблишки"
@@ -390,7 +395,7 @@ msgstr ""
 
 # Objects : [n243008104, w25130922]
 # name:be: [Заплюшчына]
-msgid "Заплющина"
+msgid "Заплющино"
 msgstr ""
 
 # Objects : [w25196028]
@@ -446,11 +451,6 @@ msgstr ""
 # Objects : [n1138086796, w25134571]
 # name:be: [Карклінскія]
 msgid "Карклинские"
-msgstr ""
-
-# Objects : [n1646569795, w25133405]
-# name:be: [Карпішкі]
-msgid "Карпишки"
 msgstr ""
 
 # Objects : [n2405177501]
@@ -513,11 +513,6 @@ msgstr ""
 msgid "Костел"
 msgstr ""
 
-# Objects : [n2788681726]
-# name:be: [Касцёл Провіду Божага]
-msgid "Костел Божьего Провидения"
-msgstr ""
-
 # Objects : [n2788681735]
 # name:be: [Касцёл Маці Божай Анёльскай]
 msgid "Костел Девы Марии Ангельской"
@@ -571,6 +566,11 @@ msgstr ""
 # Objects : [w25195061]
 # name:be: []
 msgid "Кривец"
+msgstr ""
+
+# Objects : [n3403277126]
+# name:be: [Кузьмішкі]
+msgid "Кузьмишки"
 msgstr ""
 
 # Objects : [n2405177505]
@@ -833,6 +833,11 @@ msgstr ""
 msgid "Павловка"
 msgstr ""
 
+# Objects : [n3381186056]
+# name:be: []
+msgid "памятник Евфросинье Полоцкой"
+msgstr ""
+
 # Objects : [n306065184]
 # name:be: []
 msgid "Пантелеевский Рог"
@@ -853,11 +858,6 @@ msgstr ""
 msgid "Пещная"
 msgstr ""
 
-# Objects : [n243008640, w25131063]
-# name:be: [Плетарова]
-msgid "Плетарово"
-msgstr ""
-
 # Objects : [r1281910]
 # name:be: []
 msgid "Плюсы"
@@ -866,6 +866,11 @@ msgstr ""
 # Objects : [n2405177510]
 # name:be: []
 msgid "Пляж"
+msgstr ""
+
+# Objects : [n243008640, w25131063]
+# name:be: [Плетарова]
+msgid "Плятарово"
 msgstr ""
 
 # Objects : [n1866897393]
@@ -958,14 +963,14 @@ msgstr ""
 msgid "Савонар"
 msgstr ""
 
-# Objects : [n243013554, w25127071]
-# name:be: [Савуці]
-msgid "Савути"
-msgstr ""
-
 # Objects : [n306065098]
 # name:be: []
 msgid "Сад"
+msgstr ""
+
+# Objects : [n243013554, w25127071]
+# name:be: [Савуці]
+msgid "Саути"
 msgstr ""
 
 # Objects : [n1645163085, w151675405]
@@ -1128,11 +1133,6 @@ msgstr ""
 msgid "УЖД Браславского торфобрикетного завода"
 msgstr ""
 
-# Objects : [n1867166211]
-# name:be: [Урбаны]
-msgid "Урбаны"
-msgstr ""
-
 # Objects : [n2788684430]
 # name:be: [Сядзібна-паркавы комплекс Ваўжэцкіх]
 msgid "Усадебно-парковый комплекс Вовжецких"
@@ -1251,10 +1251,5 @@ msgstr ""
 # Objects : [w25194239]
 # name:be: []
 msgid "Янка"
-msgstr ""
-
-# Objects : [n1646615466, w151815834]
-# name:be: [Ярканцы]
-msgid "Ярканцы"
 msgstr ""
 

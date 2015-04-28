@@ -108,11 +108,6 @@ msgstr ""
 msgid "Веретейское"
 msgstr ""
 
-# Objects : [n1482487413, n1482487414]
-# name:be: []
-msgid "Ветряной электрогенератор"
-msgstr ""
-
 # Objects : [n2788679992, n2788679994, n2788679996]
 # name:be: [Вінакурня]
 msgid "Винодельня"
@@ -256,6 +251,11 @@ msgstr ""
 # Objects : [n306065959]
 # name:be: [Княгінін]
 msgid "Княгинин"
+msgstr ""
+
+# Objects : [w336921942]
+# name:be: []
+msgid "конюшня"
 msgstr ""
 
 # Objects : [n2788682395]
@@ -601,6 +601,11 @@ msgstr ""
 # Objects : [n2788687536]
 # name:be: [Капліца могілкавая]
 msgid "Часовня кладбищенская"
+msgstr ""
+
+# Objects : [n3440080357]
+# name:be: []
+msgid "Частная конюшня "Лунная долина"  (прокат, прогулки на лошадях)"
 msgstr ""
 
 # Objects : [n2967128432, w293140566]

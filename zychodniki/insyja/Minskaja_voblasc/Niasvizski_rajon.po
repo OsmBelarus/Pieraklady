@@ -58,6 +58,11 @@ msgstr ""
 msgid "Гараж ЗМП"
 msgstr ""
 
+# Objects : [w291501084]
+# name:be: []
+msgid "Городейский сахарный комбинат"
+msgstr ""
+
 # Objects : [n2766736547]
 # name:be: []
 msgid "Гостиница Городейский фальварок"
@@ -241,11 +246,6 @@ msgstr ""
 # Objects : [w95789505]
 # name:be: []
 msgid "Сажалка №5"
-msgstr ""
-
-# Objects : [w291501084]
-# name:be: []
-msgid "Сахарный завод"
 msgstr ""
 
 # Objects : [w284079271, w284079272]

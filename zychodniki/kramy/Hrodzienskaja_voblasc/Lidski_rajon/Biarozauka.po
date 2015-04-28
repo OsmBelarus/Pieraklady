@@ -8,6 +8,11 @@ msgstr ""
 msgid "1000 мелочей"
 msgstr ""
 
+# Objects : [n2031948281]
+# name:be: []
+msgid "AMI"
+msgstr ""
+
 # Objects : [n2031617611]
 # name:be: []
 msgid "Second Hand"
@@ -21,11 +26,6 @@ msgstr ""
 # Objects : [n2619097173]
 # name:be: []
 msgid "Алеся"
-msgstr ""
-
-# Objects : [n1992429414]
-# name:be: []
-msgid "Василёк"
 msgstr ""
 
 # Objects : [n1363469975]
@@ -63,9 +63,9 @@ msgstr ""
 msgid "Люкс"
 msgstr ""
 
-# Objects : [n2031948281]
+# Objects : [n3083303032]
 # name:be: []
-msgid "Умная техника"
+msgid "Продуктовый"
 msgstr ""
 
 # Objects : [n3083303029]

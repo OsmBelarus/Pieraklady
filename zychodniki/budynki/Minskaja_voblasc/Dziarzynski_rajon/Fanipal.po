@@ -98,11 +98,6 @@ msgstr ""
 msgid "Мини-Кафе"
 msgstr ""
 
-# Objects : [w128459159]
-# name:be: [На завадской]
-msgid "На заводской"
-msgstr ""
-
 # Objects : [w60478172]
 # name:be: []
 msgid "ОАО Агрокомбинат "Дзержинский" АЗС"
@@ -121,11 +116,6 @@ msgstr ""
 # Objects : [w60486425]
 # name:be: []
 msgid "ОАО Агрокомбинат "Дзержинский" Цех санитарного убоя птицы"
-msgstr ""
-
-# Objects : [w131653986]
-# name:be: [Паліклініка]
-msgid "Поликлиника"
 msgstr ""
 
 # Objects : [w137145037]

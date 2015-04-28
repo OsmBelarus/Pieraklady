@@ -18,6 +18,11 @@ msgstr ""
 msgid "7 Карат"
 msgstr ""
 
+# Objects : [n3431663275]
+# name:be: []
+msgid "8 марта"
+msgstr ""
+
 # Objects : [n306063296]
 # name:be: []
 msgid "Adidas"
@@ -168,11 +173,6 @@ msgstr ""
 msgid "АсСорти-6"
 msgstr ""
 
-# Objects : [n306069263]
-# name:be: []
-msgid "АССТОР-ВЕСТ"
-msgstr ""
-
 # Objects : [n770136015]
 # name:be: [Астор-Вэст (крама №1)]
 msgid "Асстор-Вест (магазин №1)"
@@ -253,7 +253,12 @@ msgstr ""
 msgid "Велком"
 msgstr ""
 
-# Objects : [n306063867]
+# Objects : [n3439709786]
+# name:be: []
+msgid "Велозвезда"
+msgstr ""
+
+# Objects : [n1495822896]
 # name:be: []
 msgid "Ветер странствий"
 msgstr ""

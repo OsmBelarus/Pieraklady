@@ -1,3 +1,8 @@
+# Objects : [n2917930725, w288237149]
+# name:be: [Пятая Гадавіна]
+msgid "5-я Годовщина"
+msgstr ""
+
 # Objects : [n243039112, w25103812]
 # name:be: [Александрова]
 msgid "Александрово"
@@ -568,11 +573,6 @@ msgstr ""
 msgid "Прудки"
 msgstr ""
 
-# Objects : [n2917930725, w288237149]
-# name:be: [Пятая Гадавіна]
-msgid "Пятая Годовина"
-msgstr ""
-
 # Objects : [n243038904, w25103828]
 # name:be: [Ракушава]
 msgid "Ракушево"
@@ -581,11 +581,6 @@ msgstr ""
 # Objects : [n243033723, w25098282]
 # name:be: [Рэчкі]
 msgid "Речки"
-msgstr ""
-
-# Objects : [w25098244]
-# name:be: [Рагозна]
-msgid "Рогозно"
 msgstr ""
 
 # Objects : [n243039146, w25103818]

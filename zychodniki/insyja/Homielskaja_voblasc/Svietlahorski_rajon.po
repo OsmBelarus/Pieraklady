@@ -18,6 +18,11 @@ msgstr ""
 msgid ""Ягуар""
 msgstr ""
 
+# Objects : [w288459646]
+# name:be: []
+msgid "Cанаторий серебряные ключи"
+msgstr ""
+
 # Objects : [w191118791]
 # name:be: []
 msgid "Автобусный парк №2"
@@ -38,24 +43,14 @@ msgstr ""
 msgid "баня"
 msgstr ""
 
-# Objects : [w288142167]
-# name:be: []
-msgid "Баня"
-msgstr ""
-
-# Objects : [n2181178048]
-# name:be: []
-msgid "Бассейн"
-msgstr ""
-
-# Objects : [w25194365]
-# name:be: []
-msgid "Белогорское"
-msgstr ""
-
 # Objects : [w287414842]
 # name:be: []
 msgid "Берёзки [хоздвор]"
+msgstr ""
+
+# Objects : [r4701245]
+# name:be: []
+msgid "Биологический заказник Чирковичский"
 msgstr ""
 
 # Objects : [w25194296]
@@ -88,7 +83,7 @@ msgstr ""
 msgid "Глушец"
 msgstr ""
 
-# Objects : [n2766736609]
+# Objects : [w102276255]
 # name:be: []
 msgid "Гостиница Маёнтак"
 msgstr ""
@@ -96,11 +91,6 @@ msgstr ""
 # Objects : [n2766736634]
 # name:be: []
 msgid "Гостиница ОАО Светлогорск Химволокно"
-msgstr ""
-
-# Objects : [n2766736674]
-# name:be: []
-msgid "Гостиница Светочь"
 msgstr ""
 
 # Objects : [w288205792]
@@ -133,24 +123,19 @@ msgstr ""
 msgid "ГРП-21"
 msgstr ""
 
-# Objects : [n2297445592]
-# name:be: []
-msgid "ГУЗ "Светлогорская ЦРБ""
-msgstr ""
-
-# Objects : [n1180689430]
-# name:be: []
-msgid "детская районная поликлиника"
-msgstr ""
-
-# Objects : [w285974896]
+# Objects : [w129401423, w285974896, w293278856]
 # name:be: []
 msgid "Детский сад"
 msgstr ""
 
-# Objects : [n2912439116]
+# Objects : [w192688465]
 # name:be: []
-msgid "Дом быта"
+msgid "Детский сад №13"
+msgstr ""
+
+# Objects : [w103108173]
+# name:be: []
+msgid "Дом Быта"
 msgstr ""
 
 # Objects : [w137835296]
@@ -158,9 +143,29 @@ msgstr ""
 msgid "Домостроительный комбинат"
 msgstr ""
 
+# Objects : [n3386014724]
+# name:be: []
+msgid "Дом охотника "Здудичи""
+msgstr ""
+
 # Objects : [n2194059716]
 # name:be: []
 msgid "Дом ремесел"
+msgstr ""
+
+# Objects : [n3390988548]
+# name:be: []
+msgid "Дом рыбака "Сосновый бор""
+msgstr ""
+
+# Objects : [n271085432]
+# name:be: [Жэрдзь]
+msgid "Жердь"
+msgstr ""
+
+# Objects : [w30057294]
+# name:be: []
+msgid "завод беленой целлюлозы"
 msgstr ""
 
 # Objects : [w207880113]
@@ -181,6 +186,21 @@ msgstr ""
 # Objects : [w25193713]
 # name:be: []
 msgid "Затонское"
+msgstr ""
+
+# Objects : [n3386014725]
+# name:be: []
+msgid "Искра"
+msgstr ""
+
+# Objects : [w331531060]
+# name:be: []
+msgid "Искровское Лесничество ГЛХУ Светлогорский Лесхоз"
+msgstr ""
+
+# Objects : [w303952972]
+# name:be: []
+msgid "індустрыяльны каледж"
 msgstr ""
 
 # Objects : [w289679156]
@@ -208,12 +228,27 @@ msgstr ""
 msgid "Котельная"
 msgstr ""
 
+# Objects : [w339283765]
+# name:be: [Красноўская школа]
+msgid "Красновская школа"
+msgstr ""
+
+# Objects : [r4756726]
+# name:be: []
+msgid "Ландшафтный заказник "Выдрица""
+msgstr ""
+
 # Objects : [w207917683]
 # name:be: []
 msgid "Легмаш"
 msgstr ""
 
-# Objects : [w245979208, w272447319, w281512086, w283111289, w284610238]
+# Objects : [n3390958363]
+# name:be: []
+msgid "Летний домик "Великий бор""
+msgstr ""
+
+# Objects : [w245979208, w272447319, w283111289, w284610238]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -233,9 +268,19 @@ msgstr ""
 msgid "Миколин остров"
 msgstr ""
 
+# Objects : [n3457144132, w338608047]
+# name:be: []
+msgid "Миколин Остров"
+msgstr ""
+
 # Objects : [w281512090]
 # name:be: []
 msgid "музей"
+msgstr ""
+
+# Objects : [w68578677]
+# name:be: []
+msgid "Музыкальная школа"
 msgstr ""
 
 # Objects : [w283586340]
@@ -253,11 +298,6 @@ msgstr ""
 msgid "ОАО "Светлогорский молочный завод""
 msgstr ""
 
-# Objects : [w137835298]
-# name:be: []
-msgid "ОАО "СветлогорскХимволокно""
-msgstr ""
-
 # Objects : [n3340273452, w327295741]
 # name:be: []
 msgid "ОАО  «Светлогорский машиностроительный завод»"
@@ -265,7 +305,12 @@ msgstr ""
 
 # Objects : [w277679092]
 # name:be: []
-msgid "Овощьная фабрика"
+msgid "Овощная фабрика"
+msgstr ""
+
+# Objects : [w336294202]
+# name:be: []
+msgid "Оздоровительный лагерь"
 msgstr ""
 
 # Objects : [n3340273451]
@@ -276,6 +321,11 @@ msgstr ""
 # Objects : [n1180692594]
 # name:be: []
 msgid "ОПОП-3"
+msgstr ""
+
+# Objects : [w273373825]
+# name:be: []
+msgid "ОСВОД"
 msgstr ""
 
 # Objects : [n306068905]
@@ -293,9 +343,9 @@ msgstr ""
 msgid "Паліклініка"
 msgstr ""
 
-# Objects : [n1061780488]
+# Objects : [w137835340]
 # name:be: []
-msgid "Памятный знак основателю города Р. Шатиле"
+msgid "Пассаж"
 msgstr ""
 
 # Objects : [n2193992873]
@@ -306,6 +356,11 @@ msgstr ""
 # Objects : [w314235450]
 # name:be: []
 msgid "Пицерия"
+msgstr ""
+
+# Objects : [w137835298]
+# name:be: []
+msgid "ПО "СветлогорскХимволокно""
 msgstr ""
 
 # Objects : [n1061780474]
@@ -338,6 +393,11 @@ msgstr ""
 msgid "Птицефабрика"
 msgstr ""
 
+# Objects : [n1061780488]
+# name:be: [Раман Шаціла]
+msgid "Раман Шаціла"
+msgstr ""
+
 # Objects : [w283586342]
 # name:be: []
 msgid "Резервуар"
@@ -353,17 +413,17 @@ msgstr ""
 msgid "Рогачёв-газстрой"
 msgstr ""
 
+# Objects : [w68389945]
+# name:be: []
+msgid "Роддом"
+msgstr ""
+
 # Objects : [w277653015]
 # name:be: []
 msgid "РПУ "Светлогорскрайгаз""
 msgstr ""
 
-# Objects : [w206682888]
-# name:be: []
-msgid "Рунь"
-msgstr ""
-
-# Objects : [w290571415, w290571416, w290571426, w68389906]
+# Objects : [w290571426]
 # name:be: []
 msgid "РУП "Белтелеком""
 msgstr ""
@@ -376,16 +436,6 @@ msgstr ""
 # Objects : [w129401427]
 # name:be: []
 msgid "Рынок центральный"
-msgstr ""
-
-# Objects : [w288459646]
-# name:be: []
-msgid "санаторий серебряные ключи"
-msgstr ""
-
-# Objects : [n705973403]
-# name:be: [Светлагорск]
-msgid "Светлогорск"
 msgstr ""
 
 # Objects : [w209325778]
@@ -408,6 +458,11 @@ msgstr ""
 msgid "Светлогорское"
 msgstr ""
 
+# Objects : [w273376919]
+# name:be: []
+msgid "Светочь"
+msgstr ""
+
 # Objects : [w315857840]
 # name:be: []
 msgid "скважина"
@@ -418,14 +473,24 @@ msgstr ""
 msgid "Скважина"
 msgstr ""
 
+# Objects : [w209731045]
+# name:be: []
+msgid "Склад полиэфирной нити"
+msgstr ""
+
 # Objects : [w286060208]
 # name:be: []
 msgid "Слоновник"
 msgstr ""
 
-# Objects : [w126521416]
+# Objects : [w330198910]
 # name:be: []
 msgid "Стадион "Химик""
+msgstr ""
+
+# Objects : [n243032208, w25105500]
+# name:be: [Старая Беліца]
+msgid "Старая Белица"
 msgstr ""
 
 # Objects : [w25191376]
@@ -458,6 +523,21 @@ msgstr ""
 msgid "Сушка"
 msgstr ""
 
+# Objects : [w68578650]
+# name:be: []
+msgid "СШ №10"
+msgstr ""
+
+# Objects : [w129401440]
+# name:be: []
+msgid "СШ №5"
+msgstr ""
+
+# Objects : [w129401438]
+# name:be: []
+msgid "СШ №6"
+msgstr ""
+
 # Objects : [w208261735]
 # name:be: []
 msgid "СШ №8"
@@ -468,9 +548,29 @@ msgstr ""
 msgid "телятник"
 msgstr ""
 
+# Objects : [w68389866]
+# name:be: [Тэрапеўтычны корпус]
+msgid "Терапевтический корпус"
+msgstr ""
+
 # Objects : [w314235453]
 # name:be: []
 msgid "Торговый рынок"
+msgstr ""
+
+# Objects : [w246678151]
+# name:be: []
+msgid "ТП; ЦТП"
+msgstr ""
+
+# Objects : [w336047558]
+# name:be: []
+msgid "ФАП"
+msgstr ""
+
+# Objects : [w68389896]
+# name:be: [Хірургічны корпус]
+msgid "Хирургический корпус"
 msgstr ""
 
 # Objects : [w316545467]
@@ -511,6 +611,21 @@ msgstr ""
 # Objects : [w205894838]
 # name:be: []
 msgid "Шатилинский"
+msgstr ""
+
+# Objects : [w303952974]
+# name:be: []
+msgid "Школа № 11"
+msgstr ""
+
+# Objects : [w338650419]
+# name:be: []
+msgid "школа № 12"
+msgstr ""
+
+# Objects : [w129401444]
+# name:be: []
+msgid "Школа № 9"
 msgstr ""
 
 # Objects : [r3858817]

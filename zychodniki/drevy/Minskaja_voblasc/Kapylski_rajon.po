@@ -13,6 +13,16 @@ msgstr ""
 msgid "Глинище"
 msgstr ""
 
+# Objects : [w53862596]
+# name:be: []
+msgid "Гусеускi"
+msgstr ""
+
+# Objects : [w125111531]
+# name:be: []
+msgid "Дубник (лес)"
+msgstr ""
+
 # Objects : [w273538099]
 # name:be: []
 msgid "Заказник гидрологический "Волка""
@@ -23,9 +33,24 @@ msgstr ""
 msgid "Застава"
 msgstr ""
 
+# Objects : [w334815046]
+# name:be: []
+msgid "Кiсялеускi"
+msgstr ""
+
+# Objects : [w125111534]
+# name:be: []
+msgid "Лечаиха (лес)"
+msgstr ""
+
 # Objects : [w274646451]
 # name:be: []
 msgid "Лубяны"
+msgstr ""
+
+# Objects : [w251883860]
+# name:be: []
+msgid "Могильник (лес)"
 msgstr ""
 
 # Objects : [w273456768]
@@ -46,6 +71,11 @@ msgstr ""
 # Objects : [w288652856]
 # name:be: []
 msgid "Сысун"
+msgstr ""
+
+# Objects : [w53862541]
+# name:be: []
+msgid "Чижевитский лес"
 msgstr ""
 
 # Objects : [w288652695]

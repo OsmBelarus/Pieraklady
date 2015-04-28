@@ -48,11 +48,6 @@ msgstr ""
 msgid "Амбар"
 msgstr ""
 
-# Objects : [n2332137888]
-# name:be: []
-msgid "Амбулатория"
-msgstr ""
-
 # Objects : [w25191604]
 # name:be: [воз. Ашуркава]
 msgid "Ашурково"
@@ -61,16 +56,6 @@ msgstr ""
 # Objects : [w25197165]
 # name:be: [Бабына воз.]
 msgid "Бабыно"
-msgstr ""
-
-# Objects : [n119298101]
-# name:be: [Баравуха]
-msgid "Баравуха"
-msgstr ""
-
-# Objects : [w254262719]
-# name:be: []
-msgid "Бездонка"
 msgstr ""
 
 # Objects : [w25196041, w25197285, w25199294, w25199459]
@@ -98,11 +83,6 @@ msgstr ""
 msgid "Бецкое"
 msgstr ""
 
-# Objects : [w311499059]
-# name:be: []
-msgid "Биатлонное стрельбище"
-msgstr ""
-
 # Objects : [w25194896]
 # name:be: []
 msgid "Близница"
@@ -121,11 +101,6 @@ msgstr ""
 # Objects : [w25188635]
 # name:be: [воз. Бор]
 msgid "Бор"
-msgstr ""
-
-# Objects : [n2536122239]
-# name:be: []
-msgid "Боровуха"
 msgstr ""
 
 # Objects : [w191030045]
@@ -163,12 +138,7 @@ msgstr ""
 msgid "Великий Киловец"
 msgstr ""
 
-# Objects : [w25198487]
-# name:be: [воз. Велле]
-msgid "Велье"
-msgstr ""
-
-# Objects : [w39949969]
+# Objects : [n3423583216, w39949969]
 # name:be: []
 msgid "Весна"
 msgstr ""
@@ -263,7 +233,7 @@ msgstr ""
 msgid "Девички"
 msgstr ""
 
-# Objects : [n243023311]
+# Objects : [n243023311, w25110621]
 # name:be: [Дзягодкі]
 msgid "Дегодки"
 msgstr ""
@@ -398,36 +368,6 @@ msgstr ""
 msgid "Карьер"
 msgstr ""
 
-# Objects : [w174909148]
-# name:be: []
-msgid "Квартал I"
-msgstr ""
-
-# Objects : [w174909149]
-# name:be: []
-msgid "Квартал II"
-msgstr ""
-
-# Objects : [w174909150]
-# name:be: []
-msgid "Квартал III"
-msgstr ""
-
-# Objects : [w174909151]
-# name:be: []
-msgid "Квартал IV"
-msgstr ""
-
-# Objects : [w174909152]
-# name:be: []
-msgid "Квартал V"
-msgstr ""
-
-# Objects : [w174909153]
-# name:be: []
-msgid "Квартал VI"
-msgstr ""
-
 # Objects : [n2425751278]
 # name:be: []
 msgid "Кладбище"
@@ -466,11 +406,6 @@ msgstr ""
 # Objects : [w25188583, w25194441]
 # name:be: [Колпіна, воз. Колпіна]
 msgid "Колпино"
-msgstr ""
-
-# Objects : [w183345705]
-# name:be: []
-msgid "Кооператив "Полёт""
 msgstr ""
 
 # Objects : [w25191007]
@@ -588,7 +523,7 @@ msgstr ""
 msgid "Малый Беленок"
 msgstr ""
 
-# Objects : [n243023355]
+# Objects : [n243023355, w25110596]
 # name:be: [Маскі]
 msgid "Маски"
 msgstr ""
@@ -983,11 +918,6 @@ msgstr ""
 msgid "Солнечный"
 msgstr ""
 
-# Objects : [w254265958]
-# name:be: []
-msgid "Соло"
-msgstr ""
-
 # Objects : [w25196547]
 # name:be: [воз. Саланец]
 msgid "Солонец"
@@ -1206,11 +1136,6 @@ msgstr ""
 # Objects : [w25193740]
 # name:be: [воз. Шылава]
 msgid "Шилово"
-msgstr ""
-
-# Objects : [w254307432]
-# name:be: []
-msgid "Школа Искуств №2"
 msgstr ""
 
 # Objects : [w81057373]

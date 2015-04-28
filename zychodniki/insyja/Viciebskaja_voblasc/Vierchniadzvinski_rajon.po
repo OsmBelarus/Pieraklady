@@ -13,6 +13,11 @@ msgstr ""
 msgid "АБЗ"
 msgstr ""
 
+# Objects : [n3396725382, w294126184]
+# name:be: [Бігосава]
+msgid "Бигосово"
+msgstr ""
+
 # Objects : [n1632682372]
 # name:be: [Боркавічы]
 msgid "Борковичи"
@@ -23,7 +28,7 @@ msgstr ""
 msgid "Вархамеево"
 msgstr ""
 
-# Objects : [n1365314961, n306064913]
+# Objects : [n1365314961, n306064913, w284684597]
 # name:be: [Верхнядзвінск]
 msgid "Верхнедвинск"
 msgstr ""
@@ -36,6 +41,11 @@ msgstr ""
 # Objects : [n2766728045]
 # name:be: []
 msgid "Верхнедвинский"
+msgstr ""
+
+# Objects : [n3379168435]
+# name:be: [ў памяць спаленых жыхароў  16/02/1943]
+msgid "в память сожженых жителей 16.02.1943"
 msgstr ""
 
 # Objects : [n2788680300]
@@ -73,6 +83,11 @@ msgstr ""
 msgid "Западная Двина"
 msgstr ""
 
+# Objects : [n3379216027]
+# name:be: [магила роду Лапацінскіх]
+msgid "захоронение рода Лопатинских"
+msgstr ""
+
 # Objects : [w25199923]
 # name:be: []
 msgid "Изубрица"
@@ -83,14 +98,14 @@ msgstr ""
 msgid "Кобылинское"
 msgstr ""
 
-# Objects : [n2788682414]
-# name:be: [Касцёл]
-msgid "Костел"
-msgstr ""
-
 # Objects : [n275294225]
 # name:be: []
 msgid "Кострово-Байдаково"
+msgstr ""
+
+# Objects : [n3374800520, n3379233514]
+# name:be: [крыж]
+msgid "крест"
 msgstr ""
 
 # Objects : [w25193373]
@@ -101,6 +116,16 @@ msgstr ""
 # Objects : [w38137781]
 # name:be: []
 msgid "Максимово"
+msgstr ""
+
+# Objects : [n3374825346]
+# name:be: [мемарыял загінуўшым савецкім жаўнерам]
+msgid "мемориал павшим советским войнам"
+msgstr ""
+
+# Objects : [n3379208517]
+# name:be: []
+msgid "неоготический костёл"
 msgstr ""
 
 # Objects : [n306064975]
@@ -123,7 +148,12 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе щит"
 msgstr ""
 
-# Objects : [n306064872, n746916783]
+# Objects : [n3379226949]
+# name:be: [свв. Пятру і Фяўронні]
+msgid "свв. Петру и Февронии"
+msgstr ""
+
+# Objects : [n3407424294]
 # name:be: [Свольна]
 msgid "Свольно"
 msgstr ""
@@ -136,6 +166,11 @@ msgstr ""
 # Objects : [w25195167]
 # name:be: []
 msgid "Селедцово"
+msgstr ""
+
+# Objects : [n3374800510]
+# name:be: [фігура Дзевы Марыі]
+msgid "статуя девы Марии"
 msgstr ""
 
 # Objects : [w25198992]
@@ -171,10 +206,5 @@ msgstr ""
 # Objects : [n2788686572]
 # name:be: [Царква Святой Эўфрасіні Полацкай]
 msgid "Церковь Святой Ефросинии Полоцкой"
-msgstr ""
-
-# Objects : [n2788687287]
-# name:be: [Царква Успення Прасвятой Багародзіцы]
-msgid "Церковь Успения Пресвятой Богородицы"
 msgstr ""
 

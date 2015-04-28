@@ -3,14 +3,19 @@
 msgid "Lida Air Base"
 msgstr ""
 
-# Objects : [r3798425]
+# Objects : [n306067651]
 # name:be: []
-msgid "Гераненский сельский совет"
+msgid "братское захаронение"
 msgstr ""
 
 # Objects : [n3012744853, n3012744854]
 # name:be: [Ганчары]
 msgid "Гончары"
+msgstr ""
+
+# Objects : [w60558149]
+# name:be: []
+msgid "Городское кладбище "Зосино""
 msgstr ""
 
 # Objects : [n513125713]
@@ -105,7 +110,7 @@ msgstr ""
 
 # Objects : [r3798390]
 # name:be: []
-msgid "Липнишковский сельский совет"
+msgid "Липнишковский сельский Совет"
 msgstr ""
 
 # Objects : [w323211565]
@@ -173,6 +178,11 @@ msgstr ""
 msgid "Санаторий Радуга"
 msgstr ""
 
+# Objects : [n1406118587]
+# name:be: [Тэнісныя корты]
+msgid "Теннисные корты"
+msgstr ""
+
 # Objects : [w145670995]
 # name:be: []
 msgid "Торфобрикетный завод"
@@ -216,6 +226,11 @@ msgstr ""
 # Objects : [n2788684693, n2788684695]
 # name:be: [Сядзіба Грабоўскіх]
 msgid "Усадьба Гробовских"
+msgstr ""
+
+# Objects : [n3452139764]
+# name:be: []
+msgid "усадьба Радзивиллов"
 msgstr ""
 
 # Objects : [n1282823890]

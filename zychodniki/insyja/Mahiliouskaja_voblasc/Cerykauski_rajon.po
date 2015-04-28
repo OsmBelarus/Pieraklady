@@ -38,6 +38,11 @@ msgstr ""
 msgid "о.Сосновое"
 msgstr ""
 
+# Objects : [w330463750]
+# name:be: []
+msgid "ОАО "Агропромтехснаб""
+msgstr ""
+
 # Objects : [n2788684093, n2788684149]
 # name:be: [Прысядзібны парк]
 msgid "Приусадебный парк"

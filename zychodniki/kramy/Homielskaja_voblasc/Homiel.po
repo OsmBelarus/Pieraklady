@@ -15,7 +15,7 @@ msgstr ""
 
 # Objects : [n2985830718]
 # name:be: []
-msgid "3 Гуся"
+msgid "2 Гуся"
 msgstr ""
 
 # Objects : [n306068180]
@@ -93,11 +93,6 @@ msgstr ""
 msgid "АвтоРио"
 msgstr ""
 
-# Objects : [n540986742]
-# name:be: []
-msgid "Авторынок Осовцы"
-msgstr ""
-
 # Objects : [n3170198999]
 # name:be: []
 msgid "Автосалон Škoda"
@@ -138,7 +133,7 @@ msgstr ""
 msgid "Асобино"
 msgstr ""
 
-# Objects : [n452504148]
+# Objects : [n452504148, n638539119]
 # name:be: [Асарці]
 msgid "Ассорти"
 msgstr ""
@@ -186,11 +181,6 @@ msgstr ""
 # Objects : [n625828389]
 # name:be: [Буслік]
 msgid "Буслик"
-msgstr ""
-
-# Objects : [n673984437]
-# name:be: []
-msgid "Быховский"
 msgstr ""
 
 # Objects : [n677683482]
@@ -258,11 +248,6 @@ msgstr ""
 msgid "Гомельдрев"
 msgstr ""
 
-# Objects : [n1042569563]
-# name:be: []
-msgid "Гомельский"
-msgstr ""
-
 # Objects : [n1395895296]
 # name:be: []
 msgid "Гомельский мясокомбинат"
@@ -318,12 +303,7 @@ msgstr ""
 msgid "Дионис"
 msgstr ""
 
-# Objects : [n586312287]
-# name:be: []
-msgid "Дискаунтер"
-msgstr ""
-
-# Objects : [n1696107643, n1696111777]
+# Objects : [n1696111777]
 # name:be: []
 msgid "Дискаунтер "Евроопт""
 msgstr ""
@@ -396,6 +376,11 @@ msgstr ""
 # Objects : [n1343518029]
 # name:be: []
 msgid "Каффа"
+msgstr ""
+
+# Objects : [n3391145694]
+# name:be: []
+msgid "Керамин"
 msgstr ""
 
 # Objects : [n1373859000]
@@ -503,12 +488,22 @@ msgstr ""
 msgid "Ломбард"
 msgstr ""
 
+# Objects : [n3432002031]
+# name:be: []
+msgid "Луговой"
+msgstr ""
+
 # Objects : [n600743952]
 # name:be: [Любава]
 msgid "Любава"
 msgstr ""
 
-# Objects : [n2588769803, n2588970218, n2589431805, n2589443698, n306068168, n306068248, n306068273]
+# Objects : [n1359823255]
+# name:be: []
+msgid "Любимый"
+msgstr ""
+
+# Objects : [n2588970218, n2589431805, n2589443698, n306068168, n306068248, n306068273]
 # name:be: [Магазін]
 msgid "Магазин"
 msgstr ""
@@ -626,6 +621,11 @@ msgstr ""
 # Objects : [n1129287180]
 # name:be: []
 msgid "Мебельный шик"
+msgstr ""
+
+# Objects : [n3473130514]
+# name:be: []
+msgid "Медея"
 msgstr ""
 
 # Objects : [n1096118330]
@@ -823,7 +823,7 @@ msgstr ""
 msgid "Ремонт Телефонов, Фотоаппаратов, Спутникого об."
 msgstr ""
 
-# Objects : [n1334767977, n1334767979, n1343531512, n1347502300, n1440291421, n306068113, n455936310, n566111007, n982331753]
+# Objects : [n1334767977, n1334767979, n1343531512, n1347502300, n1440291421, n306068113, n455936310, n566111007]
 # name:be: []
 msgid "Родная сторона"
 msgstr ""
@@ -841,11 +841,6 @@ msgstr ""
 # Objects : [n565688075]
 # name:be: []
 msgid "Ромашка"
-msgstr ""
-
-# Objects : [n621359338]
-# name:be: [Рублёўскі]
-msgid "Рублевский"
 msgstr ""
 
 # Objects : [n1373859002]
@@ -1033,14 +1028,14 @@ msgstr ""
 msgid "универсам Облторгсоюза"
 msgstr ""
 
-# Objects : [n794364316]
-# name:be: [універсам Паўночны]
-msgid "универсам Северный"
-msgstr ""
-
 # Objects : [n621251780]
 # name:be: []
 msgid "Фаворит"
+msgstr ""
+
+# Objects : [n3431989674]
+# name:be: []
+msgid "Фиджи"
 msgstr ""
 
 # Objects : [n623034374]
@@ -1081,6 +1076,11 @@ msgstr ""
 # Objects : [n1395895305]
 # name:be: []
 msgid "Фрукты и овощи"
+msgstr ""
+
+# Objects : [n3457460511]
+# name:be: []
+msgid "ХимХауз - Дом Профессиональной Химии"
 msgstr ""
 
 # Objects : [n1343517988]

@@ -3,8 +3,28 @@
 msgid "_"
 msgstr ""
 
-# Objects : [n2334769344]
+# Objects : [n3417263311]
 # name:be: []
+msgid "17"
+msgstr ""
+
+# Objects : [n3417263312]
+# name:be: []
+msgid "18"
+msgstr ""
+
+# Objects : [w179254812]
+# name:be: [с/т "Нейтрон"]
+msgid "c/т "Нейтрон""
+msgstr ""
+
+# Objects : [w25121816]
+# name:be: [Алесіна]
+msgid "Алесино"
+msgstr ""
+
+# Objects : [n2334769344]
+# name:be: [Амбулаторыя]
 msgid "Амбулатория"
 msgstr ""
 
@@ -23,6 +43,11 @@ msgstr ""
 msgid "Березовая Гора"
 msgstr ""
 
+# Objects : [n2788683544]
+# name:be: [Бровар]
+msgid "Бровар  усадьбы Ваньковичей"
+msgstr ""
+
 # Objects : [n2942253177]
 # name:be: []
 msgid "Буфет"
@@ -31,6 +56,11 @@ msgstr ""
 # Objects : [w25200540]
 # name:be: [Вялікае]
 msgid "Великое"
+msgstr ""
+
+# Objects : [w25121820]
+# name:be: [Верхмень]
+msgid "Верхмень"
 msgstr ""
 
 # Objects : [w111706899]
@@ -118,13 +148,18 @@ msgstr ""
 msgid "галерея 9"
 msgstr ""
 
-# Objects : [n3007590766, n3007590769]
+# Objects : [n3417286128]
 # name:be: []
+msgid "Гаражи"
+msgstr ""
+
+# Objects : [n3007590766, n3007590769]
+# name:be: [Гучнагаварыцель]
 msgid "Громкоговоритель"
 msgstr ""
 
 # Objects : [n1879190069]
-# name:be: []
+# name:be: [Д-44]
 msgid "Д-44"
 msgstr ""
 
@@ -139,41 +174,121 @@ msgid "Дачи"
 msgstr ""
 
 # Objects : [w296944122]
-# name:be: []
-msgid "Дет. дача"
+# name:be: [Дзіцячая дача]
+msgid "Детская дача"
 msgstr ""
 
 # Objects : [n306065954]
-# name:be: []
-msgid "Детский оздоровительный лагерь «Волна»"
-msgstr ""
-
-# Objects : [n306065965]
-# name:be: []
-msgid "Детский оздоровительный лагерь «Искра»"
-msgstr ""
-
-# Objects : [n306065948]
-# name:be: []
-msgid "Детский оздоровительный лагерь «Огонёк»"
+# name:be: [Дзіцячы аздараўленчы лагер "Хваля"]
+msgid "Детский оздоровительный лагерь "Волна""
 msgstr ""
 
 # Objects : [n306065980]
-# name:be: []
-msgid "ДОЛ «Заря» Мчз"
+# name:be: [Дзіцячы аздараўленчы лагер "Зара" МГЗ]
+msgid "Детский оздоровительный лагерь "Заря" МЧЗ"
 msgstr ""
 
 # Objects : [n1352734794]
-# name:be: []
-msgid "ДОЛ «Зубрёнок» МАЗ"
+# name:be: [Дзіцячы аздараўленчы лагер "Зубраня" МАЗ]
+msgid "Детский оздоровительный лагерь "Зубрёнок" МАЗ"
+msgstr ""
+
+# Objects : [n306065965]
+# name:be: [Дзіцячы аздараўленчы лагер "Іскра"]
+msgid "Детский оздоровительный лагерь "Искра""
+msgstr ""
+
+# Objects : [n306065948]
+# name:be: [Дзіцячы аздараўленчы лагер "Агеньчык"]
+msgid "Детский оздоровительный лагерь "Огонёк""
 msgstr ""
 
 # Objects : [n306065957]
-# name:be: []
-msgid "ДОЛ «Смена»"
+# name:be: [Дзіцячы аздараўленчы лагер "Змена"]
+msgid "Детский оздоровительный лагерь "Смена""
 msgstr ""
 
-# Objects : [n3040982844]
+# Objects : [n3417263295]
+# name:be: []
+msgid "дом 1"
+msgstr ""
+
+# Objects : [n3417263304]
+# name:be: []
+msgid "дом 10"
+msgstr ""
+
+# Objects : [n3417263305]
+# name:be: []
+msgid "дом 11"
+msgstr ""
+
+# Objects : [n3417263306]
+# name:be: []
+msgid "дом 12"
+msgstr ""
+
+# Objects : [n3417263307]
+# name:be: []
+msgid "дом 13"
+msgstr ""
+
+# Objects : [n3417263308]
+# name:be: []
+msgid "дом 14"
+msgstr ""
+
+# Objects : [n3417263309]
+# name:be: []
+msgid "дом 15"
+msgstr ""
+
+# Objects : [n3417263310]
+# name:be: []
+msgid "дом 16"
+msgstr ""
+
+# Objects : [n3417263296]
+# name:be: []
+msgid "дом 2"
+msgstr ""
+
+# Objects : [n3417263297]
+# name:be: []
+msgid "дом 3"
+msgstr ""
+
+# Objects : [n3417263298]
+# name:be: []
+msgid "дом 4"
+msgstr ""
+
+# Objects : [n3417263299]
+# name:be: []
+msgid "дом 5"
+msgstr ""
+
+# Objects : [n3417263300]
+# name:be: []
+msgid "дом 6"
+msgstr ""
+
+# Objects : [n3417263301]
+# name:be: []
+msgid "дом 7"
+msgstr ""
+
+# Objects : [n3417263302]
+# name:be: []
+msgid "дом 8"
+msgstr ""
+
+# Objects : [n3417263303]
+# name:be: []
+msgid "дом 9"
+msgstr ""
+
+# Objects : [w222708451]
 # name:be: [Дамашаны]
 msgid "Домашаны"
 msgstr ""
@@ -188,23 +303,33 @@ msgstr ""
 msgid "Дубровское вдхр."
 msgstr ""
 
-# Objects : [n1879190064]
+# Objects : [w332366069]
 # name:be: []
+msgid "Жилой участок"
+msgstr ""
+
+# Objects : [w334669357]
+# name:be: []
+msgid "Завод мебельной фурнитуры "ГеосИдеал""
+msgstr ""
+
+# Objects : [n1879190064]
+# name:be: [ЗІС-2]
 msgid "ЗИС-2"
 msgstr ""
 
 # Objects : [n1879190066]
-# name:be: []
+# name:be: [ЗІС-3]
 msgid "ЗИС-3"
 msgstr ""
 
 # Objects : [n1879190057]
-# name:be: []
+# name:be: [ІС-2]
 msgid "ИС-2"
 msgstr ""
 
 # Objects : [n1879190054]
-# name:be: []
+# name:be: [ІС-3]
 msgid "ИС-3"
 msgstr ""
 
@@ -214,7 +339,7 @@ msgid "Источник Рождества Пресвятой Богородиц
 msgstr ""
 
 # Objects : [n1879190059]
-# name:be: []
+# name:be: [ІСУ-152]
 msgid "ИСУ-152"
 msgstr ""
 
@@ -254,13 +379,13 @@ msgid "Курган Белорусский"
 msgstr ""
 
 # Objects : [n288127441, w39246694]
-# name:be: []
+# name:be: [Курган Славы]
 msgid "Курган Славы"
 msgstr ""
 
 # Objects : [n2985889206]
-# name:be: []
-msgid "Лагерь актёрского мастерства «Acting Camp» Минской школы кино"
+# name:be: [Лагер акцёрскага майстэрства "Acting Camp" Мінскай школы кіно]
+msgid "Лагерь актёрского мастерства "Acting Camp" Минской школы кино"
 msgstr ""
 
 # Objects : [w260888225]
@@ -274,7 +399,7 @@ msgid "Малое"
 msgstr ""
 
 # Objects : [n3007626103]
-# name:be: []
+# name:be: [Медычны блок]
 msgid "Медицинский блок"
 msgstr ""
 
@@ -304,12 +429,12 @@ msgid "ОАО "Смолевичи Бройлер""
 msgstr ""
 
 # Objects : [w296944123]
-# name:be: []
+# name:be: [Інтэрнат]
 msgid "Общежитие"
 msgstr ""
 
 # Objects : [n2766728158]
-# name:be: []
+# name:be: [Агеньчык]
 msgid "Огонёк"
 msgstr ""
 
@@ -326,11 +451,6 @@ msgstr ""
 # Objects : [w25201387]
 # name:be: [Пятровіцкае вдсх.]
 msgid "Петровичское вдхр."
-msgstr ""
-
-# Objects : [n2788683544]
-# name:be: [Бровар]
-msgid "Пивоварня"
 msgstr ""
 
 # Objects : [n2960486411, w292497479]
@@ -363,19 +483,19 @@ msgstr ""
 msgid "Россошное"
 msgstr ""
 
-# Objects : [w211293570]
-# name:be: []
-msgid "С/т "Газ-Магистраль""
-msgstr ""
-
 # Objects : [w128224013]
-# name:be: []
-msgid "С/т Быкачено"
+# name:be: [с/т "Быкачына"]
+msgid "с/т "Быкачено""
 msgstr ""
 
-# Objects : [w179254812]
-# name:be: []
-msgid "С/т Нейтрон"
+# Objects : [w211293570]
+# name:be: [с/т "Газ-Магістраль"]
+msgid "с/т "Газ-Магистраль""
+msgstr ""
+
+# Objects : [w288089154]
+# name:be: [с/т "Цэментава-1"]
+msgid "с/т "Цементово-1""
 msgstr ""
 
 # Objects : [w257733223]
@@ -383,14 +503,14 @@ msgstr ""
 msgid "С/т Росинка-1"
 msgstr ""
 
-# Objects : [w288089154]
-# name:be: []
-msgid "с/т Цементово-1"
-msgstr ""
-
 # Objects : [n2794274772]
 # name:be: []
 msgid "Садоводческое товарищество "ВЕЖА 89""
+msgstr ""
+
+# Objects : [n3417286129]
+# name:be: []
+msgid "Садовые участки"
 msgstr ""
 
 # Objects : [w203588633]
@@ -419,12 +539,12 @@ msgid "Стоянка и подход к воде."
 msgstr ""
 
 # Objects : [w230192559]
-# name:be: []
+# name:be: [Будаўніцтва гасцініцы]
 msgid "Строительство гостиницы"
 msgstr ""
 
 # Objects : [n2387229134]
-# name:be: []
+# name:be: [Будуемы гатэль]
 msgid "Строящийся отель"
 msgstr ""
 
@@ -434,12 +554,12 @@ msgid "Судоболье"
 msgstr ""
 
 # Objects : [n1879190047]
-# name:be: []
+# name:be: [Т10]
 msgid "Т10"
 msgstr ""
 
 # Objects : [n1879190061]
-# name:be: []
+# name:be: [Т34-85]
 msgid "Т34-85"
 msgstr ""
 
@@ -456,6 +576,11 @@ msgstr ""
 # Objects : [n2788684427]
 # name:be: [Сядзібна-паркавы комплекс Ваньковічаў]
 msgid "Усадебно-парковый комплекс Ваньковичей"
+msgstr ""
+
+# Objects : [w224151557]
+# name:be: []
+msgid "филиал Водоканала"
 msgstr ""
 
 # Objects : [w179340098, w203560531]
@@ -514,8 +639,13 @@ msgid "Черница"
 msgstr ""
 
 # Objects : [w224369880]
-# name:be: []
+# name:be: [Чорнае]
 msgid "Чёрное"
+msgstr ""
+
+# Objects : [w25121802]
+# name:be: [Шыпяны]
+msgid "Шипяны"
 msgstr ""
 
 # Objects : [n243023578, w25111038]

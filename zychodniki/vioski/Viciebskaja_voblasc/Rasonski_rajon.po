@@ -38,6 +38,11 @@ msgstr ""
 msgid "Болбечино"
 msgstr ""
 
+# Objects : [n243026689, w25105711]
+# name:be: [Вялікія Асёткі]
+msgid "Большие Осётки"
+msgstr ""
+
 # Objects : [n243024243, w25107247]
 # name:be: [Барыскава]
 msgid "Борисково"
@@ -56,11 +61,6 @@ msgstr ""
 # Objects : [n243030962, w25104943]
 # name:be: [Бухава]
 msgid "Бухово"
-msgstr ""
-
-# Objects : [n243026689, w25105711]
-# name:be: [Вялікія Асёткі]
-msgid "Великие Осётки"
 msgstr ""
 
 # Objects : [n243026475, w25109065]
@@ -253,14 +253,14 @@ msgstr ""
 msgid "Зелёная Роща"
 msgstr ""
 
-# Objects : [n243023359, w25110545]
-# name:be: [Ізабыліна]
-msgid "Изабылино"
-msgstr ""
-
 # Objects : [n243024298, w25107227]
 # name:be: [Ізбішча]
 msgid "Избище"
+msgstr ""
+
+# Objects : [n243023359, w25110545]
+# name:be: [Ізабыліна]
+msgid "Изобылино"
 msgstr ""
 
 # Objects : [n243026465, w25109082]
@@ -348,14 +348,14 @@ msgstr ""
 msgid "Лапещино"
 msgstr ""
 
+# Objects : [n243026414, w25109126]
+# name:be: [Латышова]
+msgid "Латышево"
+msgstr ""
+
 # Objects : [n243026722, w25105690]
 # name:be: [Латышы]
 msgid "Латыши"
-msgstr ""
-
-# Objects : [n243026414, w25109126]
-# name:be: [Латышова]
-msgid "Латышово"
 msgstr ""
 
 # Objects : [w25119880]
@@ -403,6 +403,11 @@ msgstr ""
 msgid "Марково"
 msgstr ""
 
+# Objects : [n243030959, w25104942]
+# name:be: [Мачулішча]
+msgid "Мачулище"
+msgstr ""
+
 # Objects : [n243024278, w25107224]
 # name:be: [Межава]
 msgid "Межево"
@@ -433,11 +438,6 @@ msgstr ""
 msgid "Моторино"
 msgstr ""
 
-# Objects : [n243030959, w25104942]
-# name:be: [Мачулішча]
-msgid "Мочулище"
-msgstr ""
-
 # Objects : [n243026425, w25109125]
 # name:be: [Машніца]
 msgid "Мошница"
@@ -445,7 +445,7 @@ msgstr ""
 
 # Objects : [n243032609, w25105685]
 # name:be: [Мурагі]
-msgid "Муроги"
+msgid "Мураги"
 msgstr ""
 
 # Objects : [n243030907, w25104923]
@@ -543,7 +543,7 @@ msgstr ""
 msgid "Ровное Поле"
 msgstr ""
 
-# Objects : [n242978959, r1180579]
+# Objects : [n242978959, w337531994]
 # name:be: [Расоны]
 msgid "Россоны"
 msgstr ""

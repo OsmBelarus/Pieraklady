@@ -8,6 +8,11 @@ msgstr ""
 msgid "Ботанический сад"
 msgstr ""
 
+# Objects : [w189528345]
+# name:be: [плошча Замкавая]
+msgid "Замковая площадь"
+msgstr ""
+
 # Objects : [r3903197]
 # name:be: [лесапарк Юр'ева горка]
 msgid "лесопарк Юрьева Горка"
@@ -61,11 +66,6 @@ msgstr ""
 # Objects : [w28256243]
 # name:be: [Гадавальнік]
 msgid "Питомник"
-msgstr ""
-
-# Objects : [w189528345]
-# name:be: [плошча Замкавая]
-msgid "площадь Замковая"
 msgstr ""
 
 # Objects : [w28256250]

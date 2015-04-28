@@ -43,6 +43,11 @@ msgstr ""
 msgid "СШ №1"
 msgstr ""
 
+# Objects : [n243047331]
+# name:be: [Фёдараўка]
+msgid "Фёдоровка"
+msgstr ""
+
 # Objects : [w204204634]
 # name:be: []
 msgid "Школа №4"

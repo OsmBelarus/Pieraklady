@@ -38,6 +38,11 @@ msgstr ""
 msgid "Гостинец"
 msgstr ""
 
+# Objects : [w119602291]
+# name:be: []
+msgid "Гостиница"
+msgstr ""
+
 # Objects : [n1642932961]
 # name:be: [палац Тызенгаўза]
 msgid "Дворец Тызенгауза"
@@ -91,6 +96,16 @@ msgstr ""
 # Objects : [w102794928]
 # name:be: []
 msgid "Мита"
+msgstr ""
+
+# Objects : [w245886925]
+# name:be: []
+msgid "Мобильная застава"
+msgstr ""
+
+# Objects : [w245886926]
+# name:be: []
+msgid "опк "Мольдевичи""
 msgstr ""
 
 # Objects : [w136483449]
@@ -166,6 +181,11 @@ msgstr ""
 # Objects : [w102794786]
 # name:be: []
 msgid "центр "Юность""
+msgstr ""
+
+# Objects : [w136484134]
+# name:be: []
+msgid "Штаб"
 msgstr ""
 
 # Objects : [w204357322]

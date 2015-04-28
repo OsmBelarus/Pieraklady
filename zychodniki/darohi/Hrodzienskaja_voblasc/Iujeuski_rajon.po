@@ -13,6 +13,11 @@ msgstr ""
 msgid "Замковая улица"
 msgstr ""
 
+# Objects : [w275864268]
+# name:be: []
+msgid "Замковый переулок"
+msgstr ""
+
 # Objects : [w144867554]
 # name:be: []
 msgid "Западная улица"
@@ -293,7 +298,7 @@ msgstr ""
 msgid "Хуторская улица"
 msgstr ""
 
-# Objects : [w112691578, w290822708]
+# Objects : [w112691578, w290822708, w331577287]
 # name:be: []
 msgid "Центральная улица"
 msgstr ""

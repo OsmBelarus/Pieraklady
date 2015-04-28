@@ -13,6 +13,16 @@ msgstr ""
 msgid "Белоруснефть"
 msgstr ""
 
+# Objects : [w333264814, w333264817, w333264819, w333380278, w337354573, w337360286]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
+# Objects : [w113056704]
+# name:be: []
+msgid "гаражи"
+msgstr ""
+
 # Objects : [w317776169]
 # name:be: []
 msgid "ГРП ПУП "ГЖК Припять""
@@ -36,6 +46,11 @@ msgstr ""
 # Objects : [w263260393]
 # name:be: []
 msgid "Магазин №62"
+msgstr ""
+
+# Objects : [w340089988]
+# name:be: []
+msgid "Межрайгаз"
 msgstr ""
 
 # Objects : [w283484232]
@@ -63,7 +78,7 @@ msgstr ""
 msgid "Придорожный"
 msgstr ""
 
-# Objects : [w326532952]
+# Objects : [w326532952, w334452585]
 # name:be: []
 msgid "сарай"
 msgstr ""
@@ -81,6 +96,11 @@ msgstr ""
 # Objects : [w283484352]
 # name:be: []
 msgid "Столовая"
+msgstr ""
+
+# Objects : [w334468432, w334468433, w334468434]
+# name:be: []
+msgid "теплопункт"
 msgstr ""
 
 # Objects : [w263925986]

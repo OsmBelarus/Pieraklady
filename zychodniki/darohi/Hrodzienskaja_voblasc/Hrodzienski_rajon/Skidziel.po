@@ -1,9 +1,19 @@
+# Objects : [w199494872]
+# name:be: []
+msgid "Весенняя улица"
+msgstr ""
+
+# Objects : [w199494884]
+# name:be: []
+msgid "жолобова улица"
+msgstr ""
+
 # Objects : [w42560645]
 # name:be: [Зарэчная вуліца]
 msgid "Заречная улица"
 msgstr ""
 
-# Objects : [w199494937]
+# Objects : [w199494937, w243587534]
 # name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
 msgstr ""
@@ -11,6 +21,16 @@ msgstr ""
 # Objects : [w67546741]
 # name:be: [Інтэрнацыянальная вуліца]
 msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w199494869]
+# name:be: [Камунальная вуліца]
+msgid "Коммунальная улица"
+msgstr ""
+
+# Objects : [w199494865]
+# name:be: [Камунальны завулак]
+msgid "Коммунальный переулок"
 msgstr ""
 
 # Objects : [w199494938]
@@ -23,9 +43,19 @@ msgstr ""
 msgid "Красноармейская улица"
 msgstr ""
 
-# Objects : [w199494940]
+# Objects : [w199494880]
+# name:be: []
+msgid "Летняя улица"
+msgstr ""
+
+# Objects : [w199494940, w312776214]
 # name:be: [Лугавая вуліца]
 msgid "Луговая улица"
+msgstr ""
+
+# Objects : [w289528644]
+# name:be: [Лугавы завулак]
+msgid "Луговой переулок"
 msgstr ""
 
 # Objects : [w199494982, w306692482, w36261624]
@@ -43,19 +73,29 @@ msgstr ""
 msgid "Партизанская улица"
 msgstr ""
 
-# Objects : [w199494865]
-# name:be: []
-msgid "переулок Коммунальный"
+# Objects : [w199494873]
+# name:be: [Піянерская вуліца]
+msgid "Пионерская улица"
 msgstr ""
 
-# Objects : [w289528644]
-# name:be: []
-msgid "переулок Луговой"
+# Objects : [w312776215]
+# name:be: [Пралетарская вуліца]
+msgid "Пролетарская улица"
 msgstr ""
 
 # Objects : [w199494898]
+# name:be: [Пралетарскі завулак]
+msgid "Пролетарский переулок"
+msgstr ""
+
+# Objects : [w199494863]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
+msgstr ""
+
+# Objects : [w199494853]
 # name:be: []
-msgid "переулок Пролетарский"
+msgid "Тихий переулок"
 msgstr ""
 
 # Objects : [w199495032]
@@ -63,8 +103,23 @@ msgstr ""
 msgid "улица 17 Сентября"
 msgstr ""
 
-# Objects : [w277929014]
+# Objects : [w199494874]
 # name:be: []
+msgid "улица Богушевича"
+msgstr ""
+
+# Objects : [w277929004]
+# name:be: []
+msgid "улица вишнёвая"
+msgstr ""
+
+# Objects : [w199494885]
+# name:be: []
+msgid "улица Волынова"
+msgstr ""
+
+# Objects : [w277929014]
+# name:be: [вуліца Варашылава]
 msgid "улица Ворошилова"
 msgstr ""
 
@@ -93,11 +148,6 @@ msgstr ""
 msgid "улица Заслонова"
 msgstr ""
 
-# Objects : [w243587534]
-# name:be: []
-msgid "улица Зеленая"
-msgstr ""
-
 # Objects : [w289528643]
 # name:be: []
 msgid "улица Зеленковского"
@@ -114,13 +164,8 @@ msgid "улица Карла Маркса"
 msgstr ""
 
 # Objects : [w277929013]
-# name:be: []
+# name:be: [вуліца Клімука]
 msgid "улица Климука"
-msgstr ""
-
-# Objects : [w199494869]
-# name:be: []
-msgid "улица Коммунальная"
 msgstr ""
 
 # Objects : [w199495071]
@@ -129,13 +174,8 @@ msgid "улица Ленина"
 msgstr ""
 
 # Objects : [w29156272]
-# name:be: []
+# name:be: [вуліца Лермантава]
 msgid "улица Лермонтова"
-msgstr ""
-
-# Objects : [w312776214]
-# name:be: [Лугавая вуліца]
-msgid "улица Луговая"
 msgstr ""
 
 # Objects : [w277929011]
@@ -149,23 +189,13 @@ msgid "улица Некрасова"
 msgstr ""
 
 # Objects : [w289107285]
-# name:be: []
+# name:be: [вуліца Ажэшкі]
 msgid "улица Ожешко"
 msgstr ""
 
 # Objects : [w289107867]
 # name:be: [вуліца Вольгі Саломавай]
 msgid "улица Ольги Соломовой"
-msgstr ""
-
-# Objects : [w199494873]
-# name:be: []
-msgid "улица Пионерская"
-msgstr ""
-
-# Objects : [w312776215]
-# name:be: []
-msgid "улица Пролетарская"
 msgstr ""
 
 # Objects : [w199495089]
@@ -178,13 +208,8 @@ msgstr ""
 msgid "улица Севрука"
 msgstr ""
 
-# Objects : [w199494863]
-# name:be: []
-msgid "улица Советская"
-msgstr ""
-
 # Objects : [w199494876]
-# name:be: []
+# name:be: [вуліца Счаснага]
 msgid "улица Счастного"
 msgstr ""
 
@@ -194,13 +219,8 @@ msgid "улица Танкистов"
 msgstr ""
 
 # Objects : [w199494847, w199494855]
-# name:be: []
+# name:be: [вуліца Чапаева]
 msgid "улица Чапаева"
-msgstr ""
-
-# Objects : [w199494862]
-# name:be: []
-msgid "улица Школьная"
 msgstr ""
 
 # Objects : [w199494870]
@@ -221,5 +241,10 @@ msgstr ""
 # Objects : [w199495096]
 # name:be: [вуліца Янкі Купалы]
 msgid "улица Янки Купалы"
+msgstr ""
+
+# Objects : [w199494862]
+# name:be: [Школьная вуліца]
+msgid "Школьная улица"
 msgstr ""
 

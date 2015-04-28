@@ -28,11 +28,6 @@ msgstr ""
 msgid "Аптека №2 (ОДО "Медфармснаб")"
 msgstr ""
 
-# Objects : [n794364674]
-# name:be: [Аптэка №29 ООО Іскамед]
-msgid "Аптека №29 ООО Искамед"
-msgstr ""
-
 # Objects : [n1452327455]
 # name:be: [Аптэка №36]
 msgid "Аптека №36"
@@ -43,17 +38,12 @@ msgstr ""
 msgid "Аптека №59"
 msgstr ""
 
-# Objects : [n1233411020, n452534413]
+# Objects : [n452534413]
 # name:be: [Біатэст-Гомель]
 msgid "Биотест-Гомель"
 msgstr ""
 
-# Objects : [n2195552745]
-# name:be: [Дзяжурная аптэка]
-msgid "Дежурная аптека"
-msgstr ""
-
-# Objects : [n1444968023]
+# Objects : [n1444968023, n3473130515]
 # name:be: [Мэдэя]
 msgid "Медея"
 msgstr ""

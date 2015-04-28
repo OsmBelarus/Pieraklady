@@ -3,12 +3,17 @@
 msgid "АВМ"
 msgstr ""
 
+# Objects : [w202316294]
+# name:be: []
+msgid "Александрия"
+msgstr ""
+
 # Objects : [w326535608]
 # name:be: []
 msgid "Арт.скв."
 msgstr ""
 
-# Objects : [w289975714]
+# Objects : [w289975714, w338793160]
 # name:be: []
 msgid "АТС"
 msgstr ""
@@ -18,9 +23,19 @@ msgstr ""
 msgid "баня"
 msgstr ""
 
+# Objects : [w329264008, w338801817]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
 # Objects : [w259879035, w259879036]
 # name:be: []
 msgid "бытовое здание"
+msgstr ""
+
+# Objects : [w327967516]
+# name:be: []
+msgid "Ветеринарная аптека"
 msgstr ""
 
 # Objects : [w320483045, w320925073, w320925074, w327565975]
@@ -28,14 +43,39 @@ msgstr ""
 msgid "гараж"
 msgstr ""
 
+# Objects : [w327967421, w327967422, w327967423, w327967459]
+# name:be: []
+msgid "Гараж"
+msgstr ""
+
 # Objects : [w318069331]
 # name:be: []
 msgid "гаражи"
 msgstr ""
 
+# Objects : [w251334222]
+# name:be: []
+msgid "Довск"
+msgstr ""
+
+# Objects : [w230125843]
+# name:be: []
+msgid "Довская поликлиника"
+msgstr ""
+
+# Objects : [w328762390, w328762391]
+# name:be: []
+msgid "жб плиты"
+msgstr ""
+
 # Objects : [w289506833, w289528546, w289528547, w289973529]
 # name:be: []
 msgid "забр"
+msgstr ""
+
+# Objects : [w251324133, w251452310, w253152779, w253156257, w253169244, w328741026, w328741027, w335539822, w335742257]
+# name:be: []
+msgid "Забр."
 msgstr ""
 
 # Objects : [w261526189]
@@ -58,17 +98,27 @@ msgstr ""
 msgid "Кательная"
 msgstr ""
 
+# Objects : [w253141227]
+# name:be: []
+msgid "КБО"
+msgstr ""
+
+# Objects : [w327967425]
+# name:be: []
+msgid "КЖЭУП"
+msgstr ""
+
 # Objects : [w289346506]
 # name:be: []
 msgid "КЗС"
 msgstr ""
 
-# Objects : [w323397587]
+# Objects : [w323397587, w327967426, w334995723, w335866602, w340258130]
 # name:be: []
 msgid "КНС"
 msgstr ""
 
-# Objects : [w287670795]
+# Objects : [w252127815, w287670795]
 # name:be: []
 msgid "Контора"
 msgstr ""
@@ -93,7 +143,7 @@ msgstr ""
 msgid "котельная"
 msgstr ""
 
-# Objects : [w326186540, w327243341]
+# Objects : [w238865650, w238865656, w326186540, w327243341]
 # name:be: []
 msgid "Котельная"
 msgstr ""
@@ -123,9 +173,19 @@ msgstr ""
 msgid "МТФ"
 msgstr ""
 
-# Objects : [w289853701, w289853702, w289853703, w289853704, w289853705, w289853706, w289853707, w289853708, w289853709, w289853710, w289853711, w289853712, w289853713, w289853714, w300809320, w300809321]
+# Objects : [w289853701, w289853702, w289853703, w289853704, w289853705, w289853706, w289853707, w289853708, w289853709, w289853710, w289853711, w289853712, w289853713, w289853714, w300809320, w300809321, w334995750, w335866634]
 # name:be: []
 msgid "навес"
+msgstr ""
+
+# Objects : [w335018232, w335018233, w335018234, w335866603]
+# name:be: []
+msgid "Навес"
+msgstr ""
+
+# Objects : [w327967529]
+# name:be: []
+msgid "На ростанях"
 msgstr ""
 
 # Objects : [w301790869]
@@ -133,9 +193,29 @@ msgstr ""
 msgid "остановка"
 msgstr ""
 
+# Objects : [w328569357, w329109497, w335018235, w335018236, w335539824, w335566303, w335866604, w335866605, w337601089, w341138964]
+# name:be: []
+msgid "Погреб"
+msgstr ""
+
+# Objects : [w251157670]
+# name:be: []
+msgid "Протестанская каплица"
+msgstr ""
+
 # Objects : [w259879041]
 # name:be: []
 msgid "проходная"
+msgstr ""
+
+# Objects : [w251334220]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
+# Objects : [w327967427]
+# name:be: []
+msgid "Пункт приёма стеклотары"
 msgstr ""
 
 # Objects : [w251137555, w300809322]
@@ -143,9 +223,14 @@ msgstr ""
 msgid "разр."
 msgstr ""
 
-# Objects : [w327243342, w327243343]
+# Objects : [w253169242, w327243342, w327243343, w335742267, w335866621]
 # name:be: []
 msgid "Разр."
+msgstr ""
+
+# Objects : [w255186049]
+# name:be: []
+msgid "РЭС"
 msgstr ""
 
 # Objects : [w306956008]
@@ -163,6 +248,16 @@ msgstr ""
 msgid "свинарник"
 msgstr ""
 
+# Objects : [w338793167]
+# name:be: []
+msgid "Сельский музей"
+msgstr ""
+
+# Objects : [w202316226, w230125848, w253170579, w327967514]
+# name:be: []
+msgid "Сельский совет"
+msgstr ""
+
 # Objects : [w303039881]
 # name:be: []
 msgid "Скважина"
@@ -176,6 +271,16 @@ msgstr ""
 # Objects : [w287662844, w287662845]
 # name:be: []
 msgid "ФАП"
+msgstr ""
+
+# Objects : [w329842969]
+# name:be: []
+msgid "Фундамент"
+msgstr ""
+
+# Objects : [w238865636]
+# name:be: []
+msgid "Хозтовары"
 msgstr ""
 
 # Objects : [w259879043]

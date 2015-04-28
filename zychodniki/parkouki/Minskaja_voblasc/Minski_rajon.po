@@ -8,14 +8,9 @@ msgstr ""
 msgid "Гостевая парковка"
 msgstr ""
 
-# Objects : [w119103160, w119103161, w256312080, w256813944]
+# Objects : [w119103160, w119103161, w256312080, w256813944, w256813945]
 # name:be: [Гасцявая стаянка]
 msgid "Гостевая стоянка"
-msgstr ""
-
-# Objects : [w256813945]
-# name:be: []
-msgid "гоятевая стоянка"
 msgstr ""
 
 # Objects : [w119103171]
@@ -29,7 +24,7 @@ msgid "парковка"
 msgstr ""
 
 # Objects : [w309448563]
-# name:be: []
+# name:be: [Паркоўка]
 msgid "Парковка"
 msgstr ""
 

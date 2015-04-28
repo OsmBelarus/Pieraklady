@@ -8,9 +8,14 @@ msgstr ""
 msgid "БУМ"
 msgstr ""
 
-# Objects : [n987988722]
-# name:be: []
-msgid "почтовое отделение"
+# Objects : [w128459159]
+# name:be: [На завадской]
+msgid "На заводской"
+msgstr ""
+
+# Objects : [w131653986]
+# name:be: [Паліклініка]
+msgid "Поликлиника"
 msgstr ""
 
 # Objects : [w127222367]
@@ -54,11 +59,11 @@ msgid "Стоянка столовой "Белнефтехим""
 msgstr ""
 
 # Objects : [n987989623]
-# name:be: [тэлеграф]
+# name:be: [Тэлеграф]
 msgid "Телеграф"
 msgstr ""
 
-# Objects : [n271040381, n3316899410, w200672217]
+# Objects : [n2696855165, n271040381, n3316899410, n3379770493, w200672217]
 # name:be: [Фаніпаль]
 msgid "Фаниполь"
 msgstr ""

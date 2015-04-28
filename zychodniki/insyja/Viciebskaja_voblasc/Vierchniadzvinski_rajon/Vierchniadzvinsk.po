@@ -58,6 +58,11 @@ msgstr ""
 msgid "Костел Рождества Пресвятой Девы Марии"
 msgstr ""
 
+# Objects : [n3481511637]
+# name:be: []
+msgid "магазин Цифровой"
+msgstr ""
+
 # Objects : [n2665548562]
 # name:be: [Аддзел унутранных спраў]
 msgid "Отдел внутренних дел"
@@ -68,9 +73,19 @@ msgstr ""
 msgid "Прокуратура Верхнедвинского района"
 msgstr ""
 
+# Objects : [w157326577]
+# name:be: []
+msgid "Радуга"
+msgstr ""
+
 # Objects : [n3272579882, w186262026]
 # name:be: []
 msgid "РПУ Верхнедвинскрайгаз"
+msgstr ""
+
+# Objects : [n3407010605]
+# name:be: []
+msgid "Рынок"
 msgstr ""
 
 # Objects : [n2665548578]
@@ -81,5 +96,10 @@ msgstr ""
 # Objects : [n2788686544]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w333584332]
+# name:be: []
+msgid "Юбилейный"
 msgstr ""
 

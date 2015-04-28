@@ -3,6 +3,11 @@
 msgid "Белоруснефть"
 msgstr ""
 
+# Objects : [w170162582]
+# name:be: []
+msgid "Вокзал"
+msgstr ""
+
 # Objects : [w169900154]
 # name:be: []
 msgid "ДРСУ"

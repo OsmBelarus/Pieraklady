@@ -4,7 +4,7 @@ msgid "Kaffe"
 msgstr ""
 
 # Objects : [n595701734]
-# name:be: []
+# name:be: [SunCafe]
 msgid "SunCafe"
 msgstr ""
 
@@ -50,7 +50,7 @@ msgstr ""
 
 # Objects : [n833390249]
 # name:be: [Кавярня Sky House]
-msgid "кафе Sky House"
+msgid "Кафе Sky House"
 msgstr ""
 
 # Objects : [n3243169115]
@@ -59,7 +59,7 @@ msgid "Кафе Куб"
 msgstr ""
 
 # Objects : [n1958665413]
-# name:be: []
+# name:be: [Каўчэг]
 msgid "Ковчег"
 msgstr ""
 
@@ -119,12 +119,12 @@ msgid "Рыболовный магазин"
 msgstr ""
 
 # Objects : [n2025383840]
-# name:be: []
+# name:be: [Сантарын]
 msgid "Санторини"
 msgstr ""
 
 # Objects : [n1958664121]
-# name:be: []
+# name:be: [Сава]
 msgid "Сова"
 msgstr ""
 

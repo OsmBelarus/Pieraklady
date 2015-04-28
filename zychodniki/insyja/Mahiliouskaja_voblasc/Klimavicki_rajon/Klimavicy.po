@@ -43,6 +43,21 @@ msgstr ""
 msgid "Известковый завод"
 msgstr ""
 
+# Objects : [w330903701]
+# name:be: []
+msgid "квартал № 1"
+msgstr ""
+
+# Objects : [w330903702]
+# name:be: []
+msgid "квартал № 2"
+msgstr ""
+
+# Objects : [w330903703]
+# name:be: []
+msgid "квартал № 3"
+msgstr ""
+
 # Objects : [n882188218]
 # name:be: [Клімавічы]
 msgid "Климовичи"

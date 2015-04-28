@@ -13,6 +13,11 @@ msgstr ""
 msgid "ГРП - 4"
 msgstr ""
 
+# Objects : [w334282288]
+# name:be: []
+msgid "ГРП ДРСУ 174"
+msgstr ""
+
 # Objects : [w232625045]
 # name:be: []
 msgid "ГРС  КАПАЧИ"
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [w210190669]
 # name:be: []
 msgid "Дом Культуры"
+msgstr ""
+
+# Objects : [w257582018]
+# name:be: []
+msgid "КЗСК - 30 МАЗОЛОВО"
 msgstr ""
 
 # Objects : [w256574051]
@@ -45,7 +55,12 @@ msgstr ""
 
 # Objects : [w256574052]
 # name:be: []
-msgid "Котельная ЖКХ"
+msgid "Котельная ЖКХ К.З."
+msgstr ""
+
+# Objects : [w230177656]
+# name:be: []
+msgid "котельная ЖКХ МИШНИ"
 msgstr ""
 
 # Objects : [w287280302]

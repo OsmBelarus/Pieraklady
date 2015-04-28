@@ -13,6 +13,11 @@ msgstr ""
 msgid "Должанская средняя школа"
 msgstr ""
 
+# Objects : [w340183050]
+# name:be: [Ноўкінская школа]
+msgid "Новкинская школа"
+msgstr ""
+
 # Objects : [w274928482]
 # name:be: []
 msgid "Октябрьская школа"
@@ -26,10 +31,5 @@ msgstr ""
 # Objects : [w312612005, w56042556]
 # name:be: []
 msgid "Школа"
-msgstr ""
-
-# Objects : [w60351999]
-# name:be: [Ноўкінская школа]
-msgid "Школа д.Новка"
 msgstr ""
 

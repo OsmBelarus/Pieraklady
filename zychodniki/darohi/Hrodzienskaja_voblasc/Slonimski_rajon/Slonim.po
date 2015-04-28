@@ -1,16 +1,21 @@
+# Objects : [w122085515]
+# name:be: []
+msgid "1-й Барановичский переулок"
+msgstr ""
+
 # Objects : [w261499093]
 # name:be: [1-ы Віленскі завулак]
 msgid "1-й Виленский переулок"
 msgstr ""
 
+# Objects : [w123693277]
+# name:be: [1-ы Лясны завулак]
+msgid "1-й Лесной переулок"
+msgstr ""
+
 # Objects : [w121541132]
 # name:be: [1-ы Нагорны завулак]
 msgid "1-й Нагорный переулок"
-msgstr ""
-
-# Objects : [w96560499]
-# name:be: [1-ы Прырэчны завулак]
-msgid "1-й Приречный переулок"
 msgstr ""
 
 # Objects : [w101220949]
@@ -28,6 +33,11 @@ msgstr ""
 msgid "1-я Западная улица"
 msgstr ""
 
+# Objects : [w96560499]
+# name:be: []
+msgid "1-я Приречная улица"
+msgstr ""
+
 # Objects : [w118460429, w48386793]
 # name:be: [1-я вуліца Сямігодкі]
 msgid "1-я улица Семилетки"
@@ -41,6 +51,11 @@ msgstr ""
 # Objects : [w108355390]
 # name:be: [2-і Зэльвенскі завулак]
 msgid "2-й Зельвенский переулок"
+msgstr ""
+
+# Objects : [w331813616]
+# name:be: [2-і Лясны завулак]
+msgid "2-й Лесной переулок"
 msgstr ""
 
 # Objects : [w121541133]
@@ -66,6 +81,11 @@ msgstr ""
 # Objects : [w96560467]
 # name:be: [2-я Заходняя вуліца]
 msgid "2-я Западная улица"
+msgstr ""
+
+# Objects : [w332393495]
+# name:be: []
+msgid "2-я Приречная улица"
 msgstr ""
 
 # Objects : [w121541134]
@@ -98,9 +118,14 @@ msgstr ""
 msgid "Аптечный переулок"
 msgstr ""
 
-# Objects : [w127224958, w25286695]
+# Objects : [w127224958, w25286695, w329526287]
 # name:be: [Баранавіцкая вуліца]
 msgid "Барановичская улица"
+msgstr ""
+
+# Objects : [w122085516]
+# name:be: []
+msgid "Барановичский переулок"
 msgstr ""
 
 # Objects : [w189738624]
@@ -158,9 +183,19 @@ msgstr ""
 msgid "Вокзальная улица"
 msgstr ""
 
+# Objects : [w142236523]
+# name:be: []
+msgid "Волгоградская улица"
+msgstr ""
+
 # Objects : [w326203093]
 # name:be: []
 msgid "Волковысский переулок"
+msgstr ""
+
+# Objects : [w142237033]
+# name:be: []
+msgid "Вольный переулок"
 msgstr ""
 
 # Objects : [w101223045]
@@ -354,7 +389,7 @@ msgid "Минский тракт"
 msgstr ""
 
 # Objects : [w120880606]
-# name:be: []
+# name:be: [Мокры завулак]
 msgid "Мокрый переулок"
 msgstr ""
 
@@ -413,6 +448,11 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
+# Objects : [w336970243]
+# name:be: []
+msgid "пер. Восточный"
+msgstr ""
+
 # Objects : [w143245103, w25286683, w96150749, w96949357]
 # name:be: [Першамайская вуліца]
 msgid "Первомайская улица"
@@ -423,6 +463,11 @@ msgstr ""
 msgid "переулок Анищика"
 msgstr ""
 
+# Objects : [w125880062]
+# name:be: []
+msgid "переулок Анны Король"
+msgstr ""
+
 # Objects : [w101220946, w101220950]
 # name:be: [завулак Баграціёна]
 msgid "переулок Багратиона"
@@ -431,6 +476,11 @@ msgstr ""
 # Objects : [w103978224, w261506091]
 # name:be: [завулак Багдановіча]
 msgid "переулок Богдановича"
+msgstr ""
+
+# Objects : [w308791532]
+# name:be: []
+msgid "переулок Волгоградский"
 msgstr ""
 
 # Objects : [w109440164, w109440166]
@@ -463,7 +513,7 @@ msgstr ""
 msgid "переулок Красных Партизан"
 msgstr ""
 
-# Objects : [w105506412, w105506413, w125880062]
+# Objects : [w105506412, w105506413]
 # name:be: [завулак Куйбышава]
 msgid "переулок Куйбышева"
 msgstr ""
@@ -488,9 +538,19 @@ msgstr ""
 msgid "переулок Мирошника"
 msgstr ""
 
+# Objects : [w336991837]
+# name:be: []
+msgid "переулок Нижний"
+msgstr ""
+
 # Objects : [w122507187]
 # name:be: [завулак Астроўскага]
 msgid "переулок Островского"
+msgstr ""
+
+# Objects : [w308771720]
+# name:be: []
+msgid "переулок Парковый"
 msgstr ""
 
 # Objects : [w96615241]
@@ -523,17 +583,27 @@ msgstr ""
 msgid "переулок Служащих"
 msgstr ""
 
+# Objects : [w336991838]
+# name:be: []
+msgid "переулок Советский Пограничников"
+msgstr ""
+
 # Objects : [w105539986]
 # name:be: [завулак Таўлая]
 msgid "переулок Тавлая"
 msgstr ""
 
 # Objects : [w115861899]
-# name:be: []
+# name:be: [завулак Талстога]
 msgid "переулок Толстого"
 msgstr ""
 
-# Objects : [w115861896]
+# Objects : [w336970244]
+# name:be: []
+msgid "переулок Циолковского"
+msgstr ""
+
+# Objects : [w115861896, w143735779]
 # name:be: [завулак Шчорса]
 msgid "переулок Щорса"
 msgstr ""
@@ -683,6 +753,11 @@ msgstr ""
 msgid "Советский переулок"
 msgstr ""
 
+# Objects : [w122085514]
+# name:be: []
+msgid "Солнечная переулок"
+msgstr ""
+
 # Objects : [w122085390]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
@@ -798,7 +873,7 @@ msgstr ""
 msgid "улица Адама Мицкевича"
 msgstr ""
 
-# Objects : [w105502753, w105506411]
+# Objects : [w105502753, w105506411, w331035423]
 # name:be: [вуліца Анішчыка]
 msgid "улица Анищика"
 msgstr ""
@@ -823,7 +898,7 @@ msgstr ""
 msgid "улица Васи Крайнего"
 msgstr ""
 
-# Objects : [w115861900]
+# Objects : [w333223336]
 # name:be: [вуліца Вінаградова]
 msgid "улица Виноградова"
 msgstr ""
@@ -874,7 +949,7 @@ msgid "улица Декабристов"
 msgstr ""
 
 # Objects : [w326049826, w326049827]
-# name:be: []
+# name:be: [вуліца Дзяржынскага]
 msgid "улица Дзержинского"
 msgstr ""
 
@@ -928,9 +1003,9 @@ msgstr ""
 msgid "улица Клары Давыдюк"
 msgstr ""
 
-# Objects : [w118020396]
-# name:be: [вуліца Кавалеўскага]
-msgid "улица Ковалевского"
+# Objects : [w122085384]
+# name:be: []
+msgid "улица Королева"
 msgstr ""
 
 # Objects : [w105506410]
@@ -1028,7 +1103,7 @@ msgstr ""
 msgid "улица Новосёлов"
 msgstr ""
 
-# Objects : [w102576869, w103866933, w103866935, w72489203, w96150737, w96150740]
+# Objects : [w102576869, w103866935, w329540166, w72489203, w96150737, w96150740]
 # name:be: [вуліца Агінскага]
 msgid "улица Огинского"
 msgstr ""
@@ -1156,6 +1231,11 @@ msgstr ""
 # Objects : [w101220944]
 # name:be: [вуліца Энтузіястаў]
 msgid "улица Энтузиастов"
+msgstr ""
+
+# Objects : [w118020396]
+# name:be: [вуліца Кавалеўскага]
+msgid "улица Юрия Ковалевского"
 msgstr ""
 
 # Objects : [w103978221]

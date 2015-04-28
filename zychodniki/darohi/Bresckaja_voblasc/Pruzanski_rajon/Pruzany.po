@@ -9,8 +9,8 @@ msgid "1-й переулок Янки Купалы"
 msgstr ""
 
 # Objects : [w320348141]
-# name:be: []
-msgid "2-й пер. Гастелло"
+# name:be: [2-і завулак Гастэлы]
+msgid "2-й переулок Гастелло"
 msgstr ""
 
 # Objects : [w126496752]
@@ -25,7 +25,7 @@ msgstr ""
 
 # Objects : [w320702902]
 # name:be: []
-msgid "аптекарский пер."
+msgid "Аптекарский пер."
 msgstr ""
 
 # Objects : [w127168626]
@@ -370,7 +370,7 @@ msgstr ""
 
 # Objects : [w320938254]
 # name:be: []
-msgid "улица вишневецкого"
+msgid "улица Вишневецкого"
 msgstr ""
 
 # Objects : [w125135707]

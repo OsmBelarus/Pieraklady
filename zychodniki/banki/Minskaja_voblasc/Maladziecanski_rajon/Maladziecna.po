@@ -1,0 +1,55 @@
+# Objects : [n1130450053, n2717807189]
+# name:be: []
+msgid "Ideabank"
+msgstr ""
+
+# Objects : [n3174338391]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
+msgstr ""
+
+# Objects : [w109200619, w168579710]
+# name:be: [Белаграпрамбанк]
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n1130450055, n1213245754, n1213245756, n2056645156, w109200788, w308290690]
+# name:be: [Беларусбанк]
+msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w109200710]
+# name:be: [БелВЭБ]
+msgid "БелВЭБ"
+msgstr ""
+
+# Objects : [n1870274707, w109200706]
+# name:be: [Белінвестбанк]
+msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [w106992786]
+# name:be: []
+msgid "Белинвестбанк РКЦ"
+msgstr ""
+
+# Objects : [w109200756]
+# name:be: [БПС-банк]
+msgid "БПС-Cбербанк"
+msgstr ""
+
+# Objects : [n2717807266]
+# name:be: [МТБанк]
+msgid "МТБанк"
+msgstr ""
+
+# Objects : [n1911631175]
+# name:be: [Прыёрбанк]
+msgid "Приорбанк"
+msgstr ""
+
+# Objects : [n3174338390]
+# name:be: [Хоўм Крэдыт Банк]
+msgid "Хоум Кредит Банк"
+msgstr ""
+

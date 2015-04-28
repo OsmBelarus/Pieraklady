@@ -114,7 +114,7 @@ msgid "Волма"
 msgstr ""
 
 # Objects : [n1359186738]
-# name:be: []
+# name:be: [Валмянскі шлях]
 msgid "Волмянский шлях"
 msgstr ""
 
@@ -124,7 +124,7 @@ msgid "Вяча"
 msgstr ""
 
 # Objects : [n1272926862]
-# name:be: []
+# name:be: [Глебкаўка]
 msgid "Глебковка"
 msgstr ""
 
@@ -204,7 +204,7 @@ msgid "Дроздово"
 msgstr ""
 
 # Objects : [n2434961725]
-# name:be: []
+# name:be: [Дружба Аздараўленчы лагер]
 msgid "Дружба Оздоровительный лагерь"
 msgstr ""
 
@@ -218,14 +218,14 @@ msgstr ""
 msgid "Ельница"
 msgstr ""
 
-# Objects : [n817806227, n817806264]
+# Objects : [n2999108296, n3378433772]
 # name:be: []
 msgid "Ефимово"
 msgstr ""
 
 # Objects : [n275320176]
-# name:be: []
-msgid "ж/д ст. Колодищи"
+# name:be: [Чыгуначная станцыя "Калодзішчы"]
+msgid "Железнодорожная станция "Колодищи""
 msgstr ""
 
 # Objects : [n2011156260]
@@ -269,7 +269,7 @@ msgid "Карьер"
 msgstr ""
 
 # Objects : [n1264039043]
-# name:be: []
+# name:be: [Кашынскага]
 msgid "Кашинского"
 msgstr ""
 
@@ -338,7 +338,7 @@ msgstr ""
 msgid "магазин"
 msgstr ""
 
-# Objects : [n1692358230, n642264155]
+# Objects : [n1692358230, n3382959143, n642264155]
 # name:be: [Магазін]
 msgid "Магазин"
 msgstr ""
@@ -439,7 +439,7 @@ msgid "Околица"
 msgstr ""
 
 # Objects : [n1367053815, n1367053819]
-# name:be: []
+# name:be: [Кастрычніцкая вуліца]
 msgid "Октябрьская улица"
 msgstr ""
 
@@ -499,7 +499,7 @@ msgid "Перекресток"
 msgstr ""
 
 # Objects : [n499482690, n499482691]
-# name:be: []
+# name:be: [Пятроўскі завулак]
 msgid "Петровский переулок"
 msgstr ""
 
@@ -633,6 +633,11 @@ msgstr ""
 msgid "Полигон"
 msgstr ""
 
+# Objects : [n3382959144]
+# name:be: []
+msgid "пос. Атолино"
+msgstr ""
+
 # Objects : [n767183466, n767183825, n767184066]
 # name:be: []
 msgid "пос. Гатово"
@@ -663,6 +668,11 @@ msgstr ""
 msgid "Пост ГАИ"
 msgstr ""
 
+# Objects : [n489465400]
+# name:be: []
+msgid "Предприятие Экорес"
+msgstr ""
+
 # Objects : [n1449885932, n1449885944]
 # name:be: [Прывакзальная вуліца]
 msgid "Привокзальная улица"
@@ -674,12 +684,12 @@ msgid "Привольный"
 msgstr ""
 
 # Objects : [n1359186739, n275320174, n814012858]
-# name:be: []
+# name:be: [Пуцейская вуліца]
 msgid "Путейская улица"
 msgstr ""
 
 # Objects : [n1402513554, n612218713, n767183439, n767184087]
-# name:be: []
+# name:be: [Пуцеправод]
 msgid "Путепровод"
 msgstr ""
 
@@ -713,7 +723,7 @@ msgstr ""
 msgid "С/т Зелёный Бор"
 msgstr ""
 
-# Objects : [n476263404]
+# Objects : [n3397102835, n476263404]
 # name:be: []
 msgid "Садовая"
 msgstr ""
@@ -738,14 +748,14 @@ msgstr ""
 msgid "Сенница (Церковь)"
 msgstr ""
 
-# Objects : [n489465400]
-# name:be: []
-msgid "Сосновый"
-msgstr ""
-
 # Objects : [n767183508, n767183741]
 # name:be: []
 msgid "спорткомплекс"
+msgstr ""
+
+# Objects : [n2894975319]
+# name:be: []
+msgid "ст.Ждановичи"
 msgstr ""
 
 # Objects : [n2894386611, n767088367]
@@ -824,7 +834,7 @@ msgid "улица Мира"
 msgstr ""
 
 # Objects : [n803817102, n803817103]
-# name:be: [вуліца К. Астрожскага]
+# name:be: [вуліца Астрожскага]
 msgid "улица Острожского"
 msgstr ""
 
@@ -846,11 +856,6 @@ msgstr ""
 # Objects : [n767183759, n767184085]
 # name:be: [Утульны]
 msgid "Уютный"
-msgstr ""
-
-# Objects : [n767183424, n767183624]
-# name:be: [Утульны-1]
-msgid "Уютный-1"
 msgstr ""
 
 # Objects : [n523137023]
@@ -903,6 +908,11 @@ msgstr ""
 msgid "школа"
 msgstr ""
 
+# Objects : [n3382959142]
+# name:be: []
+msgid "Школа"
+msgstr ""
+
 # Objects : [n1956793157, n1956793222]
 # name:be: []
 msgid "Щитомиричи"
@@ -926,6 +936,11 @@ msgstr ""
 # Objects : [n1272926840, n1272926883]
 # name:be: [Юхнаўка]
 msgid "Юхновка"
+msgstr ""
+
+# Objects : [n767183424, n767183624]
+# name:be: [Ягадная]
+msgid "Ягодная"
 msgstr ""
 
 # Objects : [n767183550, n767183835]

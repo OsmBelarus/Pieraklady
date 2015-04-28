@@ -48,6 +48,11 @@ msgstr ""
 msgid "Геологическое обнажение"
 msgstr ""
 
+# Objects : [n3474968014]
+# name:be: []
+msgid "Городище"
+msgstr ""
+
 # Objects : [w262012363]
 # name:be: []
 msgid "деревообработка"
@@ -58,24 +63,14 @@ msgstr ""
 msgid "Детский сад"
 msgstr ""
 
-# Objects : [n2089850491]
+# Objects : [w230125835]
 # name:be: []
 msgid "Довская больница"
-msgstr ""
-
-# Objects : [n2089852065]
-# name:be: []
-msgid "Довская поликлиника"
 msgstr ""
 
 # Objects : [w25189456]
 # name:be: []
 msgid "Друт"
-msgstr ""
-
-# Objects : [w25186648]
-# name:be: []
-msgid "Друт,Друть"
 msgstr ""
 
 # Objects : [r286708]
@@ -103,6 +98,11 @@ msgstr ""
 msgid "загон"
 msgstr ""
 
+# Objects : [w340282813]
+# name:be: []
+msgid "Загон для скота"
+msgstr ""
+
 # Objects : [w297376913]
 # name:be: []
 msgid "Запольская средняя школа"
@@ -113,6 +113,11 @@ msgstr ""
 msgid "Запольский СДК"
 msgstr ""
 
+# Objects : [w330899473]
+# name:be: []
+msgid "Запруда"
+msgstr ""
+
 # Objects : [n243042308]
 # name:be: []
 msgid "Зеленая Роща"
@@ -121,6 +126,11 @@ msgstr ""
 # Objects : [r3392909]
 # name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w333380136]
+# name:be: []
+msgid "Ильичевская средняя школа"
 msgstr ""
 
 # Objects : [n3285460967]
@@ -151,6 +161,16 @@ msgstr ""
 # Objects : [r3392910]
 # name:be: [Камуністычная вуліца]
 msgid "Коммунистическая улица"
+msgstr ""
+
+# Objects : [w230151205]
+# name:be: []
+msgid "Контора"
+msgstr ""
+
+# Objects : [w330056492, w330494170, w330494171, w335539823, w335742261, w335742264]
+# name:be: []
+msgid "Копань"
 msgstr ""
 
 # Objects : [w327243340]
@@ -193,19 +213,29 @@ msgstr ""
 msgid "навозохранилище"
 msgstr ""
 
+# Objects : [w25189461, w25193985]
+# name:be: [воз. Камарын]
+msgid "оз. Комарин"
+msgstr ""
+
+# Objects : [n3390958314]
+# name:be: []
+msgid "Озераны"
+msgstr ""
+
 # Objects : [n3320744902]
 # name:be: []
 msgid "Ортозианская скважина"
 msgstr ""
 
-# Objects : [n2089866414]
+# Objects : [w320913771]
 # name:be: []
-msgid "Памятник ВОВ"
+msgid "Очистные сооружения"
 msgstr ""
 
-# Objects : [n2089868435]
+# Objects : [n2089866414, n3361699398]
 # name:be: []
-msgid "Почта, телефон."
+msgid "Памятник ВОВ"
 msgstr ""
 
 # Objects : [n2788683600]
@@ -218,14 +248,19 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе Верман"
 msgstr ""
 
-# Objects : [n2089874364]
-# name:be: []
-msgid "Ресторан"
+# Objects : [r3551849]
+# name:be: [Рагачоў]
+msgid "Рогачёв"
 msgstr ""
 
 # Objects : [r3392911]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
+msgstr ""
+
+# Objects : [n306069869]
+# name:be: [Сверкава]
+msgid "Сверково"
 msgstr ""
 
 # Objects : [w325412414]
@@ -236,6 +271,11 @@ msgstr ""
 # Objects : [w25195342]
 # name:be: [Святое]
 msgid "Святое"
+msgstr ""
+
+# Objects : [n3390958329]
+# name:be: []
+msgid "Селец"
 msgstr ""
 
 # Objects : [w318078783, w318078784]
@@ -253,22 +293,12 @@ msgstr ""
 msgid "Столнянская средняя школа"
 msgstr ""
 
-# Objects : [w262503602]
+# Objects : [w262503602, w338793168]
 # name:be: []
 msgid "Территория детсада"
 msgstr ""
 
-# Objects : [w327757994]
-# name:be: []
-msgid "Территория детского сада"
-msgstr ""
-
-# Objects : [w327757995]
-# name:be: []
-msgid "Территория средней школы"
-msgstr ""
-
-# Objects : [w262503603, w323626913]
+# Objects : [w262503603, w323626913, w338793169, w340408114]
 # name:be: []
 msgid "Территория школы"
 msgstr ""
@@ -278,14 +308,29 @@ msgstr ""
 msgid "ФАП"
 msgstr ""
 
-# Objects : [w327247209]
+# Objects : [w340287618, w340287619]
+# name:be: []
+msgid "Фруктовый сад"
+msgstr ""
+
+# Objects : [w327247209, w338793170]
 # name:be: []
 msgid "Футбольное поле"
 msgstr ""
 
-# Objects : [n2788686032]
-# name:be: [Царква Покрыва Прасвятой Багародзіцы]
-msgid "Церковь Покрова Пресвятой Богородицы"
+# Objects : [w289328884]
+# name:be: []
+msgid "Хатовнянская средняя школа"
+msgstr ""
+
+# Objects : [w289328882]
+# name:be: []
+msgid "Хатовнянский детсад"
+msgstr ""
+
+# Objects : [n3390958339]
+# name:be: []
+msgid "Ходосевичи"
 msgstr ""
 
 # Objects : [n2788686409]
@@ -303,7 +348,12 @@ msgstr ""
 msgid "Юбилейная улица"
 msgstr ""
 
-# Objects : [w326362301, w326362359, w326362360, w326491748, w326730153, w327243344, w327565974, w327566937]
+# Objects : [w340258131]
+# name:be: []
+msgid "Яблоневый сад"
+msgstr ""
+
+# Objects : [w326362301, w326362359, w326362360, w326491748, w326730153, w327243344, w327565974, w327566937, w330903488]
 # name:be: []
 msgid "Яблочный сад"
 msgstr ""

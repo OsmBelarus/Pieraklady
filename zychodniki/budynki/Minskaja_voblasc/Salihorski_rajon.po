@@ -38,6 +38,11 @@ msgstr ""
 msgid "КПП ЗТК"
 msgstr ""
 
+# Objects : [w337001656]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
 # Objects : [w237929139]
 # name:be: []
 msgid "ООО "Машхимпром""

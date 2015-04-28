@@ -8,6 +8,16 @@ msgstr ""
 msgid "гж"
 msgstr ""
 
+# Objects : [w157365129]
+# name:be: []
+msgid "магазин Ткани"
+msgstr ""
+
+# Objects : [w333572265]
+# name:be: []
+msgid "Павильоны"
+msgstr ""
+
 # Objects : [w186262029]
 # name:be: []
 msgid "сервисный Центр"

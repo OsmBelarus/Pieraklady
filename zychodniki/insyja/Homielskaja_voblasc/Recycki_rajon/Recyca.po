@@ -1,3 +1,13 @@
+# Objects : [n3390811488]
+# name:be: []
+msgid ""Белоруснефть-Промсервис" здание администрации"
+msgstr ""
+
+# Objects : [n3390811489]
+# name:be: []
+msgid ""Белоруснефть-Промсервис" Электроцех"
+msgstr ""
+
 # Objects : [n2699747238]
 # name:be: []
 msgid "5-я школа"
@@ -48,7 +58,7 @@ msgstr ""
 msgid "Аграрный колледж"
 msgstr ""
 
-# Objects : [n2728306507]
+# Objects : [n2728306507, w331941900]
 # name:be: []
 msgid "Аптека"
 msgstr ""
@@ -71,6 +81,11 @@ msgstr ""
 # Objects : [w276438944]
 # name:be: []
 msgid "Бар Речицапиво"
+msgstr ""
+
+# Objects : [w307490452]
+# name:be: []
+msgid "Белагропромбанк"
 msgstr ""
 
 # Objects : [r3248748]
@@ -168,6 +183,11 @@ msgstr ""
 msgid "Детский Мир"
 msgstr ""
 
+# Objects : [r3233507]
+# name:be: []
+msgid "Детский сад №10"
+msgstr ""
+
 # Objects : [n2682946364, n2682946986, n2682947528]
 # name:be: []
 msgid "Дзержинского"
@@ -203,9 +223,19 @@ msgstr ""
 msgid "Дом Культуры и Техники"
 msgstr ""
 
+# Objects : [w307490480]
+# name:be: []
+msgid "Домоуправление"
+msgstr ""
+
 # Objects : [n2706635239, n2706637245]
 # name:be: []
 msgid "ДСУ-18"
+msgstr ""
+
+# Objects : [w331974833]
+# name:be: []
+msgid "Жарптица"
 msgstr ""
 
 # Objects : [n2710629610, n2710629611]
@@ -358,6 +388,11 @@ msgstr ""
 msgid "Мележа"
 msgstr ""
 
+# Objects : [w241245919]
+# name:be: []
+msgid "Мельница"
+msgstr ""
+
 # Objects : [n2711798882, n2711799933, w101354457]
 # name:be: []
 msgid "Метизный завод"
@@ -403,9 +438,19 @@ msgstr ""
 msgid "НГДУ "Речицанефть""
 msgstr ""
 
+# Objects : [w239287467]
+# name:be: []
+msgid "Новоречицкий"
+msgstr ""
+
 # Objects : [n2430675827]
 # name:be: []
 msgid "Общежитие"
+msgstr ""
+
+# Objects : [w175145904]
+# name:be: []
+msgid "Общежитие нефтяников"
 msgstr ""
 
 # Objects : [n2706615300, n2706615312]
@@ -578,6 +623,11 @@ msgstr ""
 msgid "Розы Люксембург"
 msgstr ""
 
+# Objects : [w239796278]
+# name:be: []
+msgid "РУТТ Гараж №2"
+msgstr ""
+
 # Objects : [n2476366586]
 # name:be: []
 msgid "Самолет МИГ"
@@ -661,6 +711,11 @@ msgstr ""
 # Objects : [n2686156800, w239817420]
 # name:be: []
 msgid "Суд"
+msgstr ""
+
+# Objects : [w319685974]
+# name:be: []
+msgid "Супермаркет МИКС"
 msgstr ""
 
 # Objects : [n2728313810, n2728316129]

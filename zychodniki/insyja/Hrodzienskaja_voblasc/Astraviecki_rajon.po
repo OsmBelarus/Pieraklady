@@ -63,11 +63,6 @@ msgstr ""
 msgid "Болошинка"
 msgstr ""
 
-# Objects : [w279771129]
-# name:be: []
-msgid "больница"
-msgstr ""
-
 # Objects : [n2724595272, w266959517]
 # name:be: [Барэйшыха]
 msgid "Борейшиха"
@@ -473,6 +468,11 @@ msgstr ""
 msgid "Мартиново"
 msgstr ""
 
+# Objects : [n3050033664]
+# name:be: [Мачулы]
+msgid "Мачулы"
+msgstr ""
+
 # Objects : [n3051288110, w189010921]
 # name:be: [Мельніца Сарочча]
 msgid "Мельница Сорочья"
@@ -486,11 +486,6 @@ msgstr ""
 # Objects : [n2788682779]
 # name:be: [Малельня стараверская]
 msgid "Молельный дом староверов"
-msgstr ""
-
-# Objects : [n3050033664]
-# name:be: [Мачулы]
-msgid "Мочулы"
 msgstr ""
 
 # Objects : [r3367925]
@@ -650,7 +645,12 @@ msgstr ""
 
 # Objects : [n242997328, w25137749]
 # name:be: [Сасанішкі]
-msgid "Сасонишки"
+msgid "Сасанишки"
+msgstr ""
+
+# Objects : [w157536230]
+# name:be: []
+msgid "селиский совет"
 msgstr ""
 
 # Objects : [n2693931646, w263741554]

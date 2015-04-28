@@ -4,7 +4,7 @@ msgid "Базарная улица"
 msgstr ""
 
 # Objects : [w143472620]
-# name:be: []
+# name:be: [Зарэчная вуліца]
 msgid "Заречная улица"
 msgstr ""
 
@@ -59,7 +59,7 @@ msgid "переулок Больничный"
 msgstr ""
 
 # Objects : [w143472628]
-# name:be: []
+# name:be: [завулак Гагарына]
 msgid "переулок Гагарина"
 msgstr ""
 
@@ -79,7 +79,7 @@ msgid "Пригородная улица"
 msgstr ""
 
 # Objects : [w143472592]
-# name:be: []
+# name:be: [Прыгарадны завулак]
 msgid "Пригородный переулок"
 msgstr ""
 
@@ -89,7 +89,7 @@ msgid "Садовая улица"
 msgstr ""
 
 # Objects : [w143472609]
-# name:be: []
+# name:be: [Садовы завулак]
 msgid "Садовый переулок"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgid "Трудовая улица"
 msgstr ""
 
 # Objects : [w143472566]
-# name:be: []
+# name:be: [Працоўны завулак]
 msgid "Трудовой переулок"
 msgstr ""
 

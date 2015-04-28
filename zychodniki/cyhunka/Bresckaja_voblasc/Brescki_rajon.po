@@ -43,6 +43,11 @@ msgstr ""
 msgid "Западное"
 msgstr ""
 
+# Objects : [n306064447]
+# name:be: [Збунін]
+msgid "Збунин"
+msgstr ""
+
 # Objects : [n306064450]
 # name:be: [Знаменка]
 msgid "Знаменка"
@@ -71,6 +76,11 @@ msgstr ""
 # Objects : [n2741737673]
 # name:be: [Кошалева]
 msgid "Кошелево"
+msgstr ""
+
+# Objects : [n306064452]
+# name:be: [Ляплёўка]
+msgid "Леплёвка"
 msgstr ""
 
 # Objects : [n2338416157]

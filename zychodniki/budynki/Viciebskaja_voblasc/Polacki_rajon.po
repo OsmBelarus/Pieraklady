@@ -1,31 +1,6 @@
-# Objects : [w223516324]
+# Objects : [w336032967]
 # name:be: []
-msgid "Баня"
-msgstr ""
-
-# Objects : [w244858868]
-# name:be: []
-msgid "Бассейн"
-msgstr ""
-
-# Objects : [w223513162]
-# name:be: []
-msgid "Библиотека"
-msgstr ""
-
-# Objects : [w223516327]
-# name:be: []
-msgid "Дворец культуры"
-msgstr ""
-
-# Objects : [w223516329]
-# name:be: []
-msgid "Детский сад"
-msgstr ""
-
-# Objects : [w254045150, w254588245]
-# name:be: []
-msgid "КПП"
+msgid "БАНЯ"
 msgstr ""
 
 # Objects : [w288291408]
@@ -51,10 +26,5 @@ msgstr ""
 # Objects : [w216486338]
 # name:be: []
 msgid "Теплопункт"
-msgstr ""
-
-# Objects : [w223510988]
-# name:be: []
-msgid "Эконом №13"
 msgstr ""
 

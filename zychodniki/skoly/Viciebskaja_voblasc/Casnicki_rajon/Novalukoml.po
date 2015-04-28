@@ -3,13 +3,13 @@
 msgid "Детская школа искусств"
 msgstr ""
 
+# Objects : [n3216099882]
+# name:be: []
+msgid "Музыкальная школа искусств"
+msgstr ""
+
 # Objects : [n1137577139]
 # name:be: [Школа №1]
 msgid "школа №1"
-msgstr ""
-
-# Objects : [w155261105]
-# name:be: []
-msgid "школа №2"
 msgstr ""
 

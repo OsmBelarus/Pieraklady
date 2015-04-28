@@ -53,6 +53,11 @@ msgstr ""
 msgid "Набережный переулок"
 msgstr ""
 
+# Objects : [w309223297]
+# name:be: [Новая вуліца]
+msgid "Новая улица"
+msgstr ""
+
 # Objects : [w84551019, w96620097]
 # name:be: [Кастрычніцкая вуліца]
 msgid "Октябрьская улица"
@@ -168,11 +173,6 @@ msgstr ""
 msgid "улица Махова"
 msgstr ""
 
-# Objects : [w309223297]
-# name:be: []
-msgid "улица Новая"
-msgstr ""
-
 # Objects : [w108655294]
 # name:be: [вуліца Пушкіна]
 msgid "улица Пушкина"
@@ -199,7 +199,7 @@ msgid "улица Шпетного"
 msgstr ""
 
 # Objects : [w99167005]
-# name:be: []
+# name:be: [Юбілейная вуліца]
 msgid "Юбилейная улица"
 msgstr ""
 

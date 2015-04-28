@@ -123,6 +123,11 @@ msgstr ""
 msgid "Детсад - ясли"
 msgstr ""
 
+# Objects : [w236059412]
+# name:be: []
+msgid "Дом Ветеранов"
+msgstr ""
+
 # Objects : [w236680711]
 # name:be: []
 msgid "Дом Культуры"
@@ -223,7 +228,7 @@ msgstr ""
 msgid "Ферма"
 msgstr ""
 
-# Objects : [w218409172, w219370447, w237487988]
+# Objects : [w218409172, w219370447]
 # name:be: []
 msgid "Храм"
 msgstr ""

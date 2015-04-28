@@ -1,6 +1,16 @@
+# Objects : [w217509662]
+# name:be: []
+msgid "Заречная"
+msgstr ""
+
 # Objects : [w217509665]
 # name:be: []
 msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w217509666, w337589144, w337589145, w337589711, w337589713]
+# name:be: []
+msgid "Н8857"
 msgstr ""
 
 # Objects : [w217468710]
@@ -8,13 +18,28 @@ msgstr ""
 msgid "Первомайская улица"
 msgstr ""
 
+# Objects : [w217509654]
+# name:be: []
+msgid "переулок Передовой"
+msgstr ""
+
+# Objects : [w337385414]
+# name:be: []
+msgid "ул. Юбилейная"
+msgstr ""
+
 # Objects : [w91989157]
 # name:be: []
 msgid "улица Гагарина"
 msgstr ""
 
-# Objects : [w217509666]
+# Objects : [w337589514, w337589515, w337590015]
 # name:be: []
-msgid "Юбилейная улица"
+msgid "улица Маяковского"
+msgstr ""
+
+# Objects : [w217468622, w41177676]
+# name:be: []
+msgid "Центральная улица"
 msgstr ""
 

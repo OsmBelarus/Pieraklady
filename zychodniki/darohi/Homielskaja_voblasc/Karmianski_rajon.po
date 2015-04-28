@@ -138,6 +138,11 @@ msgstr ""
 msgid "переулок Мира"
 msgstr ""
 
+# Objects : [w104426988]
+# name:be: []
+msgid "переулок Строительный"
+msgstr ""
+
 # Objects : [w110276733, w199783588, w263789985, w273543776]
 # name:be: []
 msgid "Пионерская улица"
@@ -223,6 +228,11 @@ msgstr ""
 msgid "улица Мира"
 msgstr ""
 
+# Objects : [w327363484]
+# name:be: []
+msgid "улица Новая"
+msgstr ""
+
 # Objects : [w327363505]
 # name:be: []
 msgid "улица Октябрьская"
@@ -233,7 +243,12 @@ msgstr ""
 msgid "улица Победы"
 msgstr ""
 
-# Objects : [w104426988]
+# Objects : [w131247187, w327363504]
+# name:be: []
+msgid "улица Советская"
+msgstr ""
+
+# Objects : [w329999658]
 # name:be: []
 msgid "улица Строительная"
 msgstr ""

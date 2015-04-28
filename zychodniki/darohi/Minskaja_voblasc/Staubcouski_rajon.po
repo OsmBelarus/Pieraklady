@@ -13,6 +13,11 @@ msgstr ""
 msgid "Комариная тропа"
 msgstr ""
 
+# Objects : [w340286358]
+# name:be: []
+msgid "Лесная улица"
+msgstr ""
+
 # Objects : [w186616854]
 # name:be: []
 msgid "Н9834"
@@ -53,14 +58,14 @@ msgstr ""
 msgid "Слободка - Серкули"
 msgstr ""
 
+# Objects : [w340286362]
+# name:be: []
+msgid "Солнечная улица"
+msgstr ""
+
 # Objects : [w201255008]
 # name:be: []
 msgid "Спортивная улица"
-msgstr ""
-
-# Objects : [w292401046]
-# name:be: []
-msgid "ул.Солнечная"
 msgstr ""
 
 # Objects : [w232474301, w232474311]

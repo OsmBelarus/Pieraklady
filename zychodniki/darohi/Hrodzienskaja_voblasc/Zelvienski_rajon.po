@@ -28,7 +28,7 @@ msgstr ""
 msgid "Западная улица"
 msgstr ""
 
-# Objects : [w242129453, w291856321]
+# Objects : [w242129453, w291856321, w330747782]
 # name:be: []
 msgid "Заречная улица"
 msgstr ""
@@ -53,11 +53,6 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w327312396]
-# name:be: []
-msgid "Мост"
-msgstr ""
-
 # Objects : [w326897569]
 # name:be: []
 msgid "Озёрная улица"
@@ -73,11 +68,6 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
-# Objects : [w327037603, w327039633]
-# name:be: []
-msgid "Пешеходный мост"
-msgstr ""
-
 # Objects : [w129798706]
 # name:be: [Піянерская вуліца]
 msgid "Пионерская улица"
@@ -86,11 +76,6 @@ msgstr ""
 # Objects : [w129463341]
 # name:be: []
 msgid "Пионерский переулок"
-msgstr ""
-
-# Objects : [w240670442, w309789309, w309789310]
-# name:be: []
-msgid "Подболотье - Зельвянка"
 msgstr ""
 
 # Objects : [w239756079, w326059680]
@@ -116,11 +101,6 @@ msgstr ""
 # Objects : [w325397924]
 # name:be: []
 msgid "Пролетарская улица"
-msgstr ""
-
-# Objects : [w327041637]
-# name:be: []
-msgid "Проход под железной дорогой"
 msgstr ""
 
 # Objects : [w120730665, w326059675]
@@ -183,7 +163,7 @@ msgstr ""
 msgid "улица Мичурина"
 msgstr ""
 
-# Objects : [w230600878, w242827366, w273377194, w290476809, w290476810, w326061127, w326061128]
+# Objects : [w230600878, w242827366, w273377194, w290476809, w290476810, w326061127, w326061128, w338627524]
 # name:be: []
 msgid "Школьная улица"
 msgstr ""

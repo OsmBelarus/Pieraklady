@@ -4,7 +4,7 @@ msgid "А-100"
 msgstr ""
 
 # Objects : [n247278444]
-# name:be: []
+# name:be: [А-100 АЗС №2]
 msgid "А-100 АЗС №2"
 msgstr ""
 
@@ -14,7 +14,7 @@ msgid "А-100 АЗС №25"
 msgstr ""
 
 # Objects : [n2579746811]
-# name:be: []
+# name:be: [А-100 самаабслугоўваньне]
 msgid "А-100 самообслуживания"
 msgstr ""
 
@@ -28,12 +28,17 @@ msgstr ""
 msgid "АГНКС Минск-2"
 msgstr ""
 
+# Objects : [w302114152]
+# name:be: []
+msgid "АЗС"
+msgstr ""
+
 # Objects : [n2132764518]
 # name:be: []
 msgid "АЗС №: 19"
 msgstr ""
 
-# Objects : [w268927722]
+# Objects : [n2932324233]
 # name:be: []
 msgid "АЗС №60 Белоруснефть"
 msgstr ""
@@ -41,6 +46,11 @@ msgstr ""
 # Objects : [n1685199284, n656448489, n815761893]
 # name:be: [Беларуснафта]
 msgid "Белоруснефть"
+msgstr ""
+
+# Objects : [w192146957]
+# name:be: []
+msgid "Белоруснефть АЗС № 77"
 msgstr ""
 
 # Objects : [n305684100]
@@ -74,7 +84,7 @@ msgid "Бутан"
 msgstr ""
 
 # Objects : [n1779294746]
-# name:be: []
+# name:be: [Газ]
 msgid "Газ"
 msgstr ""
 
@@ -86,6 +96,11 @@ msgstr ""
 # Objects : [n305679968]
 # name:be: []
 msgid "Газпромнефть АЗС № 33"
+msgstr ""
+
+# Objects : [n306069754]
+# name:be: []
+msgid "Газпромнефть АЗС №71"
 msgstr ""
 
 # Objects : [n2862595522, n2862601314]

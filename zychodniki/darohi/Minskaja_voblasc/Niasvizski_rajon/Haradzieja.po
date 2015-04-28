@@ -1,0 +1,95 @@
+# Objects : [w331512915]
+# name:be: [17верасня вуліца]
+msgid "17 сентября улица"
+msgstr ""
+
+# Objects : [w25603689]
+# name:be: []
+msgid "1 Мая улица"
+msgstr ""
+
+# Objects : [w331516186]
+# name:be: []
+msgid "Больничный переулок"
+msgstr ""
+
+# Objects : [w105723343]
+# name:be: [Вакзальная вуліца]
+msgid "Вокзальная улица"
+msgstr ""
+
+# Objects : [w176981477]
+# name:be: []
+msgid "Дзержинского улица"
+msgstr ""
+
+# Objects : [w25603698]
+# name:be: [Залінейная вуліца]
+msgid "Залинейная улица"
+msgstr ""
+
+# Objects : [w331517044]
+# name:be: []
+msgid "Интернациональная улица"
+msgstr ""
+
+# Objects : [w25603697]
+# name:be: [Кірава вуліца]
+msgid "Кирова улица"
+msgstr ""
+
+# Objects : [w25579331]
+# name:be: []
+msgid "Комарова улица"
+msgstr ""
+
+# Objects : [w176981487]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
+# Objects : [w331517045]
+# name:be: []
+msgid "Королева улица"
+msgstr ""
+
+# Objects : [w25603687]
+# name:be: []
+msgid "Крупской улица"
+msgstr ""
+
+# Objects : [w176981402]
+# name:be: []
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w112597076, w331509966, w331512914]
+# name:be: [Мiрская вуліца]
+msgid "Мирская улица"
+msgstr ""
+
+# Objects : [w105719868]
+# name:be: []
+msgid "Несвижская улица"
+msgstr ""
+
+# Objects : [w112597080]
+# name:be: []
+msgid "Пионерская улица"
+msgstr ""
+
+# Objects : [w25603686]
+# name:be: []
+msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w176981509]
+# name:be: []
+msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w331516187]
+# name:be: []
+msgid "Школьный переулок"
+msgstr ""
+

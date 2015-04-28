@@ -239,7 +239,7 @@ msgid "Мелиоративный переулок"
 msgstr ""
 
 # Objects : [w205432759, w82148643]
-# name:be: []
+# name:be: [Мікрараён Сож]
 msgid "микрорайон Сож"
 msgstr ""
 
@@ -469,8 +469,8 @@ msgid "Пионерский переулок"
 msgstr ""
 
 # Objects : [w242698207]
-# name:be: [плошча Леніна]
-msgid "площадь Ленина"
+# name:be: []
+msgid "площадь Советская"
 msgstr ""
 
 # Objects : [w82148613]
@@ -569,7 +569,7 @@ msgid "Трудовая улица"
 msgstr ""
 
 # Objects : [w321803132, w321803133]
-# name:be: []
+# name:be: [Вузкі завулак]
 msgid "Узкий переулок"
 msgstr ""
 

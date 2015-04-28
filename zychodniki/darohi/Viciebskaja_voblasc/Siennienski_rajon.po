@@ -13,7 +13,7 @@ msgstr ""
 msgid "Аэродромная улица"
 msgstr ""
 
-# Objects : [w252813698, w30371530, w30661106]
+# Objects : [w30371530, w30661106]
 # name:be: []
 msgid "Богушевская улица"
 msgstr ""
@@ -40,7 +40,7 @@ msgstr ""
 
 # Objects : [w30595055]
 # name:be: []
-msgid "Заводская"
+msgid "Заводская улица"
 msgstr ""
 
 # Objects : [w29997243]
@@ -55,7 +55,7 @@ msgstr ""
 
 # Objects : [w30371857]
 # name:be: []
-msgid "Ледневичиская улица"
+msgid "Ледневическая улица"
 msgstr ""
 
 # Objects : [w123539989, w156039261]
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Ряснянская улица"
 msgstr ""
 
-# Objects : [w177184385, w198055342, w198055358, w249365559]
+# Objects : [w177184385, w198055342, w198055358, w249365559, w29995524]
 # name:be: []
 msgid "Садовая улица"
 msgstr ""

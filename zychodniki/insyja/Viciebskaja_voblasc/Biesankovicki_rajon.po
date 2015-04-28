@@ -53,6 +53,11 @@ msgstr ""
 msgid "Слободское"
 msgstr ""
 
+# Objects : [n243041113, w25103576]
+# name:be: [Стрэлішча]
+msgid "Стрелище"
+msgstr ""
+
 # Objects : [n306066783]
 # name:be: [Ула]
 msgid "Улла"

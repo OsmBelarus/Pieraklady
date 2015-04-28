@@ -58,11 +58,6 @@ msgstr ""
 msgid "Васильковая"
 msgstr ""
 
-# Objects : [w64460598]
-# name:be: [Веласіпедны завулак]
-msgid "Велосипедный переулок"
-msgstr ""
-
 # Objects : [w38144533]
 # name:be: [Вясёлая вуліца]
 msgid "Весёлая улица"
@@ -153,7 +148,7 @@ msgstr ""
 msgid "объездная линия"
 msgstr ""
 
-# Objects : [w324545474]
+# Objects : [w324545474, w324545488]
 # name:be: []
 msgid "Озерная улица"
 msgstr ""
@@ -236,6 +231,16 @@ msgstr ""
 # Objects : [w304646739]
 # name:be: []
 msgid "улица Золотая Горка"
+msgstr ""
+
+# Objects : [w102131684]
+# name:be: []
+msgid "Улица Мира"
+msgstr ""
+
+# Objects : [w338683664]
+# name:be: []
+msgid "Улица Радистов"
 msgstr ""
 
 # Objects : [w305734438]

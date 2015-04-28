@@ -1,5 +1,10 @@
-# Objects : [w323658565]
+# Objects : [w323658566]
 # name:be: []
-msgid "Белнефтепродукт"
+msgid "Белоруснефть № 75"
+msgstr ""
+
+# Objects : [n3476063447, w340379889]
+# name:be: []
+msgid "Лукойл № 60"
 msgstr ""
 

@@ -3,11 +3,6 @@
 msgid "Аквамарин"
 msgstr ""
 
-# Objects : [w25198680]
-# name:be: []
-msgid "Бол.Засоминое"
-msgstr ""
-
 # Objects : [n2338416156]
 # name:be: [Відзібор]
 msgid "Видибор"
@@ -23,7 +18,7 @@ msgstr ""
 msgid "Вязинка"
 msgstr ""
 
-# Objects : [n2760129354, w25197333]
+# Objects : [n2760129354]
 # name:be: [Гарынь]
 msgid "Горынь"
 msgstr ""
@@ -91,6 +86,11 @@ msgstr ""
 # Objects : [w25193330]
 # name:be: [Востраў]
 msgid "Остров"
+msgstr ""
+
+# Objects : [n2417415585, w25134537]
+# name:be: []
+msgid "Первомайск"
 msgstr ""
 
 # Objects : [n306069792]

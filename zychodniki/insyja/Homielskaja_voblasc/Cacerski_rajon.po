@@ -3,6 +3,11 @@
 msgid "Белица"
 msgstr ""
 
+# Objects : [n243046622, w25081943]
+# name:be: [Баброўскі]
+msgid "Бобровский"
+msgstr ""
+
 # Objects : [n243046245, w25083479]
 # name:be: [Болтава]
 msgid "Болтово"
@@ -21,6 +26,11 @@ msgstr ""
 # Objects : [n243046059, w25083443]
 # name:be: []
 msgid "Дубовица"
+msgstr ""
+
+# Objects : [n3446422560]
+# name:be: []
+msgid "Дубок"
 msgstr ""
 
 # Objects : [n243046251, w25083447]
@@ -43,6 +53,21 @@ msgstr ""
 msgid "завод по переработке отходов"
 msgstr ""
 
+# Objects : [n243046616, w25081945]
+# name:be: [Загор’е]
+msgid "Загорье"
+msgstr ""
+
+# Objects : [n243046621, w25081942]
+# name:be: [Закрынічны]
+msgid "Закриничный"
+msgstr ""
+
+# Objects : [n243046025, w25083347]
+# name:be: [Заложжа]
+msgid "Заложье"
+msgstr ""
+
 # Objects : [n243046058, w25083437]
 # name:be: [Зара]
 msgid "Заря"
@@ -58,14 +83,14 @@ msgstr ""
 msgid "Красное"
 msgstr ""
 
+# Objects : [n243044486, w25080245]
+# name:be: [Макаўе]
+msgid "Маковье"
+msgstr ""
+
 # Objects : [n243046071]
 # name:be: []
 msgid "Максимовка"
-msgstr ""
-
-# Objects : [n243046070, w25083434]
-# name:be: [Наўхавічы]
-msgid "Навховичи"
 msgstr ""
 
 # Objects : [w239619744]
@@ -88,9 +113,24 @@ msgstr ""
 msgid "Новый Шлях"
 msgstr ""
 
+# Objects : [n243046606, w25081972]
+# name:be: [Азярышча]
+msgid "Озерище"
+msgstr ""
+
+# Objects : [n243046602, w25081998]
+# name:be: [Падлужжа]
+msgid "Подлужье"
+msgstr ""
+
 # Objects : [n243046626, w25081963]
 # name:be: [Падасоўе]
 msgid "Подосовье"
+msgstr ""
+
+# Objects : [n243044890, w25081023]
+# name:be: [Падыгрушка]
+msgid "Подыгрушка"
 msgstr ""
 
 # Objects : [n243046248, w25083464]
@@ -113,9 +153,19 @@ msgstr ""
 msgid "Рудня Дудичская"
 msgstr ""
 
+# Objects : [n243046615, w25081941]
+# name:be: [Салтанаўка]
+msgid "Салтановка"
+msgstr ""
+
 # Objects : [n243046061, w25083431]
 # name:be: []
 msgid "Самсоновка"
+msgstr ""
+
+# Objects : [n3445181863]
+# name:be: []
+msgid "Светлая Роща"
 msgstr ""
 
 # Objects : [w270363235]

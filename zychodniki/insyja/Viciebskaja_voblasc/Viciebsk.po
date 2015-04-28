@@ -3,11 +3,6 @@
 msgid ""Аллея звёзд""
 msgstr ""
 
-# Objects : [n2391457674]
-# name:be: []
-msgid ""Гигея - богиня медицины""
-msgstr ""
-
 # Objects : [n2406287997]
 # name:be: [Гатэль "Губернскі цэнтр"  **]
 msgid ""Губернский центр" **"
@@ -36,11 +31,6 @@ msgstr ""
 # Objects : [n3024055941]
 # name:be: []
 msgid ""Пирамида""
-msgstr ""
-
-# Objects : [n2962330495]
-# name:be: ["Тры русалкі"]
-msgid ""Три русалки""
 msgstr ""
 
 # Objects : [n2962324808]
@@ -188,11 +178,6 @@ msgstr ""
 msgid "YULAIS"
 msgstr ""
 
-# Objects : [n1042023420]
-# name:be: [Авіябаза Журжава]
-msgid "Zhurzhevo Air Base"
-msgstr ""
-
 # Objects : [n2398180351]
 # name:be: []
 msgid "авиаторам 339-го Военно-транспортного авиаполка"
@@ -260,7 +245,7 @@ msgstr ""
 
 # Objects : [n306301908]
 # name:be: [Аўташкола «Знак»]
-msgid "Автошкола "Знак""
+msgid "Автошкола «Знак»"
 msgstr ""
 
 # Objects : [n1590396230]
@@ -378,6 +363,11 @@ msgstr ""
 msgid "База «Хозторг»"
 msgstr ""
 
+# Objects : [n3473301365]
+# name:be: []
+msgid "Банк Москва-Минск"
+msgstr ""
+
 # Objects : [w82486474]
 # name:be: []
 msgid "Банно оздоровительный комплекс"
@@ -448,6 +438,11 @@ msgstr ""
 msgid "Белтелеком"
 msgstr ""
 
+# Objects : [n2352433093, n2352501672]
+# name:be: []
+msgid "Белтехосмотр"
+msgstr ""
+
 # Objects : [n3185264225]
 # name:be: []
 msgid "Белшина"
@@ -456,6 +451,11 @@ msgstr ""
 # Objects : [n3185274204]
 # name:be: []
 msgid "Белшина склад"
+msgstr ""
+
+# Objects : [n3375008868]
+# name:be: []
+msgid "Белые дома"
 msgstr ""
 
 # Objects : [n1250437634]
@@ -498,7 +498,7 @@ msgstr ""
 msgid "Билево-1"
 msgstr ""
 
-# Objects : [n3330402886]
+# Objects : [n3330402886, n3445678591, n3445678592]
 # name:be: []
 msgid "Билево-2"
 msgstr ""
@@ -526,6 +526,11 @@ msgstr ""
 # Objects : [n453661608]
 # name:be: [БМД]
 msgid "БМД"
+msgstr ""
+
+# Objects : [n3445682793, n3445682794]
+# name:be: []
+msgid "Богатырёва"
 msgstr ""
 
 # Objects : [n2915992975, n2915992976, n2933255607, n2933255608]
@@ -566,6 +571,11 @@ msgstr ""
 # Objects : [n2788684372]
 # name:be: [Былыя саляныя склады]
 msgid "Бывшие соляные склады"
+msgstr ""
+
+# Objects : [n1042023420]
+# name:be: []
+msgid "бывший аэродром"
 msgstr ""
 
 # Objects : [n2788680264]
@@ -633,6 +643,11 @@ msgstr ""
 msgid "Велопарковка "Делового центра Суворова,28""
 msgstr ""
 
+# Objects : [w27896584]
+# name:be: [Веста №125]
+msgid "Веста №125"
+msgstr ""
+
 # Objects : [n362144218]
 # name:be: [Ветэрынарная лякарня]
 msgid "Ветеринарная лечебница"
@@ -653,6 +668,16 @@ msgstr ""
 msgid "Ветразь"
 msgstr ""
 
+# Objects : [n3372145520]
+# name:be: []
+msgid "Взгорская слобода"
+msgstr ""
+
+# Objects : [n3372144033]
+# name:be: []
+msgid "Взгорье"
+msgstr ""
+
 # Objects : [n2006155651]
 # name:be: [Віраж]
 msgid "Вираж"
@@ -663,14 +688,14 @@ msgstr ""
 msgid "Витаутсорсингсервис"
 msgstr ""
 
-# Objects : [n3218899107]
-# name:be: [Віцебск]
-msgid "Витебск"
-msgstr ""
-
 # Objects : [n1511413681, w137823447]
 # name:be: [Віцебскаўтадар]
 msgid "Витебскавтодор"
+msgstr ""
+
+# Objects : [w35809827]
+# name:be: []
+msgid "Витебская газонаполнительная станция"
 msgstr ""
 
 # Objects : [n1712338011]
@@ -721,11 +746,6 @@ msgstr ""
 # Objects : [w226666968]
 # name:be: []
 msgid "Витебские тепловые сети"
-msgstr ""
-
-# Objects : [n1401564000]
-# name:be: [Віцебскія электрычныя сеткі]
-msgid "Витебские электрические сети"
 msgstr ""
 
 # Objects : [n1094107651]
@@ -818,9 +838,14 @@ msgstr ""
 msgid "Витебскоблремстрой"
 msgstr ""
 
-# Objects : [w111606315, w287371949, w290693942, w297271778, w297912764, w30729751]
+# Objects : [w111606315, w287371949, w290693942, w297271778, w297912764, w30729751, w336614005, w336614006, w338483314, w338483315, w339034269, w339034274, w339034283, w339034303, w339034309]
 # name:be: [Вицебскаблсаюздрук]
 msgid "Витебскоблсоюзпечать"
+msgstr ""
+
+# Objects : [n3218899107]
+# name:be: [Віцебск Пасажырскі]
+msgid "Витебск-Пассажирский"
 msgstr ""
 
 # Objects : [w226320439]
@@ -868,11 +893,6 @@ msgstr ""
 msgid "Вокзал"
 msgstr ""
 
-# Objects : [w27896678]
-# name:be: [Выхаваўчая калонія №1]
-msgid "Воспитательная колония №1"
-msgstr ""
-
 # Objects : [n2078995790]
 # name:be: [Усход]
 msgid "Восток"
@@ -913,6 +933,11 @@ msgstr ""
 msgid "Гараж"
 msgstr ""
 
+# Objects : [w30451562]
+# name:be: [Гаражы ГБК-2]
+msgid "Гаражи ГСК-2"
+msgstr ""
+
 # Objects : [n2401954707]
 # name:be: []
 msgid "Гарант"
@@ -921,6 +946,11 @@ msgstr ""
 # Objects : [n2405661114]
 # name:be: []
 msgid "Геосфера"
+msgstr ""
+
+# Objects : [n2391457674]
+# name:be: []
+msgid "Гигея - богиня медицины"
 msgstr ""
 
 # Objects : [n2917902505, w288234006]
@@ -1081,6 +1111,11 @@ msgstr ""
 # Objects : [w27897621]
 # name:be: []
 msgid "ГПК №14"
+msgstr ""
+
+# Objects : [w27897624]
+# name:be: []
+msgid "ГПК №15"
 msgstr ""
 
 # Objects : [w27897612, w27897639]
@@ -1268,11 +1303,6 @@ msgstr ""
 msgid "Детская областная клиническая больница"
 msgstr ""
 
-# Objects : [w168961652]
-# name:be: []
-msgid "Детская площадка"
-msgstr ""
-
 # Objects : [n1411586378]
 # name:be: [Дзіцячая паліклініка № 4]
 msgid "Детская поликлиника № 4"
@@ -1291,6 +1321,11 @@ msgstr ""
 # Objects : [n2724748636]
 # name:be: []
 msgid "Детский центр "Mix""
+msgstr ""
+
+# Objects : [w95402146]
+# name:be: [Дызельная]
+msgid "Дизельная"
 msgstr ""
 
 # Objects : [n3135837803]
@@ -1343,6 +1378,11 @@ msgstr ""
 msgid "ДСК"
 msgstr ""
 
+# Objects : [w339034264]
+# name:be: [Духмяны хлеб]
+msgid "Духмяны хлеб"
+msgstr ""
+
 # Objects : [n2506996335]
 # name:be: [Духаўская гара]
 msgid "Духовская гора"
@@ -1376,11 +1416,6 @@ msgstr ""
 # Objects : [w248407151]
 # name:be: []
 msgid "Епархиальное подворье РПЦ"
-msgstr ""
-
-# Objects : [w169886333]
-# name:be: [Яромінскія могілкі]
-msgid "Ерёминское кладбище"
 msgstr ""
 
 # Objects : [n2926327551, n2926327552]
@@ -1433,7 +1468,7 @@ msgstr ""
 msgid "Жилой комплекс «Тополёк»"
 msgstr ""
 
-# Objects : [w301068801]
+# Objects : [w227571453, w301068801, w301069086, w72078215]
 # name:be: []
 msgid "Жлобинский мост"
 msgstr ""
@@ -1548,6 +1583,11 @@ msgstr ""
 msgid "Задвинье"
 msgstr ""
 
+# Objects : [n3350687338]
+# name:be: []
+msgid "Задунавская слобода"
+msgstr ""
+
 # Objects : [n3291844752]
 # name:be: []
 msgid "ЗАО "Гранд-Холдинг""
@@ -1556,6 +1596,16 @@ msgstr ""
 # Objects : [n2814939043]
 # name:be: []
 msgid "ЗАО "КИС""
+msgstr ""
+
+# Objects : [n3372083602]
+# name:be: []
+msgid "Заручевская слобода"
+msgstr ""
+
+# Objects : [n3372159792]
+# name:be: []
+msgid "Зверинец"
 msgstr ""
 
 # Objects : [n3023972095]
@@ -1623,6 +1673,11 @@ msgstr ""
 msgid "Изобретателю трамвая Ф.А. Пироцкому"
 msgstr ""
 
+# Objects : [w339034316]
+# name:be: []
+msgid "Иконная лавка"
+msgstr ""
+
 # Objects : [w169413396]
 # name:be: []
 msgid "Имельда"
@@ -1643,9 +1698,19 @@ msgstr ""
 msgid "Интернет"
 msgstr ""
 
+# Objects : [n3476745776]
+# name:be: [інфакіёск Беларусбанк]
+msgid "инфокиоск Беларусбанк"
+msgstr ""
+
 # Objects : [n2521019166, n2521019167]
 # name:be: []
 msgid "инфостенд"
+msgstr ""
+
+# Objects : [w340248895]
+# name:be: []
+msgid "Инфраструктура"
 msgstr ""
 
 # Objects : [w226584043]
@@ -1838,6 +1903,11 @@ msgstr ""
 msgid "кладбище возле  ст. Лучёса"
 msgstr ""
 
+# Objects : [w339968939]
+# name:be: []
+msgid "кладбище животных"
+msgstr ""
+
 # Objects : [w35810272]
 # name:be: [Могілкі Нікрапольскія]
 msgid "Кладбище Никропольское"
@@ -1876,11 +1946,6 @@ msgstr ""
 # Objects : [w228549587]
 # name:be: []
 msgid "Колледж лёгкой промышленности"
-msgstr ""
-
-# Objects : [w133019096]
-# name:be: [Калектар]
-msgid "Коллектор"
 msgstr ""
 
 # Objects : [w27896610]
@@ -1953,6 +2018,11 @@ msgstr ""
 msgid "КРЦ Планета"
 msgstr ""
 
+# Objects : [n3373466498]
+# name:be: []
+msgid "Кстово"
+msgstr ""
+
 # Objects : [n2507016914]
 # name:be: [Кстова]
 msgid "Кстовская гора"
@@ -1961,6 +2031,11 @@ msgstr ""
 # Objects : [n983245192]
 # name:be: [Кулінарыя]
 msgid "Кулинария"
+msgstr ""
+
+# Objects : [w294097552]
+# name:be: []
+msgid "Ларнак"
 msgstr ""
 
 # Objects : [r3117509]
@@ -1976,6 +2051,11 @@ msgstr ""
 # Objects : [w292286341]
 # name:be: []
 msgid "Летняя веранда"
+msgstr ""
+
+# Objects : [w27896678]
+# name:be: [Лячэбна працоўны прафілакторый N9 (жаночы)]
+msgid "Лечебно трудовой профилакторий N9 (женский)"
 msgstr ""
 
 # Objects : [w27896628]
@@ -1996,6 +2076,21 @@ msgstr ""
 # Objects : [n2934883158, n2934883159, w287412069, w287412073]
 # name:be: [Лiцэй № 5 прыборабудавання]
 msgid "Лицей № 5 приборостроения"
+msgstr ""
+
+# Objects : [n3361077753, n3361146022]
+# name:be: []
+msgid "Ломбард ООО"УайтСофт""
+msgstr ""
+
+# Objects : [n3374999704]
+# name:be: []
+msgid "Луга"
+msgstr ""
+
+# Objects : [n3372170339]
+# name:be: []
+msgid "Лукишки"
 msgstr ""
 
 # Objects : [n960602249, w28256237]
@@ -2061,6 +2156,11 @@ msgstr ""
 # Objects : [n717544895]
 # name:be: [Мегаполіс]
 msgid "Мегаполис"
+msgstr ""
+
+# Objects : [n2933255630]
+# name:be: []
+msgid "МегаШанс"
 msgstr ""
 
 # Objects : [n1405018685]
@@ -2131,6 +2231,11 @@ msgstr ""
 # Objects : [w27896756]
 # name:be: []
 msgid "Меховой комбинат"
+msgstr ""
+
+# Objects : [n3462335982]
+# name:be: [Міграцыйная служба]
+msgid "Миграционная служба"
 msgstr ""
 
 # Objects : [n2932271056, n2932271057]
@@ -2233,6 +2338,16 @@ msgstr ""
 msgid "Нарезка стекла, зеркала"
 msgstr ""
 
+# Objects : [w121603735]
+# name:be: [Пампоўня №7]
+msgid "Насосная №7"
+msgstr ""
+
+# Objects : [w340243711]
+# name:be: [Навукова-даследчы цэнтр Віцебскага абласнога ўпраўлення МНС РБ]
+msgid "Научно-исследовательский центр Витебского областного управления МЧС РБ"
+msgstr ""
+
 # Objects : [n1360856840]
 # name:be: [Ніагара]
 msgid "Ниагара"
@@ -2333,6 +2448,11 @@ msgstr ""
 msgid "ОАО «Витязь»"
 msgstr ""
 
+# Objects : [w231774787]
+# name:be: []
+msgid "ОАО «Доломит»"
+msgstr ""
+
 # Objects : [n2915992977, n2915992978]
 # name:be: []
 msgid "ОАО «Знамя индустриализации»"
@@ -2428,7 +2548,7 @@ msgstr ""
 msgid "Облисполком"
 msgstr ""
 
-# Objects : [n1054241159, n2170476787, n2170476793, n2170476797, n2197020320, n2334520071, n2429248553, n2478538049, n2500768958, n2541365340, n3009283248, n3156622806, n3156622807, n494550423, n728893069, n728967106, n860814189, n860904798, n860904803, n860964563, n861267358, n867407001, n867407018]
+# Objects : [n1054241159, n2170476787, n2170476793, n2170476797, n2197020320, n2334520071, n2429248553, n2478538049, n2500768958, n2541365340, n3009283248, n3156622806, n3156622807, n3471161695, n494550423, n728893069, n728967106, n860814189, n860904798, n860904803, n860964563, n861267358, n867407001, n867407018]
 # name:be: [Абмен валют]
 msgid "Обмен валют"
 msgstr ""
@@ -2503,6 +2623,11 @@ msgstr ""
 msgid "Общежитие РУП «Витебский ДСК»"
 msgstr ""
 
+# Objects : [n3410439229]
+# name:be: []
+msgid "Общежитие Строительно монтажный поезд № 169"
+msgstr ""
+
 # Objects : [w27901929]
 # name:be: []
 msgid "Общежитие филиала «Автобусный парк № 1»"
@@ -2553,12 +2678,12 @@ msgstr ""
 msgid "Общежитие №3"
 msgstr ""
 
-# Objects : [w27903230]
+# Objects : [w27899809, w27903230]
 # name:be: [Інтэрнат №4]
 msgid "Общежитие №4"
 msgstr ""
 
-# Objects : [w27904358]
+# Objects : [w27901542, w27904358]
 # name:be: [Інтэрнат №5]
 msgid "Общежитие №5"
 msgstr ""
@@ -2753,14 +2878,14 @@ msgstr ""
 msgid "ОСП УМиСР-140"
 msgstr ""
 
+# Objects : [w170184407]
+# name:be: [Востраў чысціні]
+msgid "Остров чистоты"
+msgstr ""
+
 # Objects : [n2507032636]
 # name:be: []
 msgid "Остро-Спасская гора"
-msgstr ""
-
-# Objects : [n2627572984]
-# name:be: []
-msgid "Отделение банка ОАО «АСБ Беларусбанк»"
 msgstr ""
 
 # Objects : [n1162060399]
@@ -2823,6 +2948,11 @@ msgstr ""
 msgid "Памятник  Алексию II"
 msgstr ""
 
+# Objects : [n2565964795]
+# name:be: [помнік У. Караткевічу]
+msgid "памятник В. Короткевичу"
+msgstr ""
+
 # Objects : [n2375827856]
 # name:be: [помнік ветэрынарнаму лекару]
 msgid "Памятник ветеринарному врачу"
@@ -2831,11 +2961,6 @@ msgstr ""
 # Objects : [n2362495790]
 # name:be: []
 msgid "памятник витебскому трамваю"
-msgstr ""
-
-# Objects : [n2565964795]
-# name:be: [помнік Ул. Караткевічу]
-msgid "памятник Вл. Короткевичу"
 msgstr ""
 
 # Objects : [n726754548]
@@ -2908,11 +3033,6 @@ msgstr ""
 msgid "парашютная вышка"
 msgstr ""
 
-# Objects : [n1310955907]
-# name:be: [Парыматч]
-msgid "Париматч"
-msgstr ""
-
 # Objects : [n3084317383]
 # name:be: [Парк "Мiнi-свет"]
 msgid "Парк "Мини-мир""
@@ -2968,6 +3088,11 @@ msgstr ""
 msgid "Песковатикское  кладбище"
 msgstr ""
 
+# Objects : [n3372144032]
+# name:be: []
+msgid "Песья Полянка"
+msgstr ""
+
 # Objects : [n1188569134]
 # name:be: [Блок для ежы]
 msgid "Пищеблок"
@@ -2976,6 +3101,11 @@ msgstr ""
 # Objects : [n683367058, r3304286]
 # name:be: [Платная]
 msgid "Платная"
+msgstr ""
+
+# Objects : [n3351523290]
+# name:be: []
+msgid "Плоская гора"
 msgstr ""
 
 # Objects : [n2933255613, n2933255614]
@@ -3001,6 +3131,11 @@ msgstr ""
 # Objects : [w174804844]
 # name:be: []
 msgid "Пляж"
+msgstr ""
+
+# Objects : [w167750755]
+# name:be: []
+msgid "ПНС №36"
 msgstr ""
 
 # Objects : [w27896671]
@@ -3118,6 +3253,11 @@ msgstr ""
 msgid "Приборостроительный завод"
 msgstr ""
 
+# Objects : [n306066284]
+# name:be: []
+msgid "Придвинская"
+msgstr ""
+
 # Objects : [n1188569160]
 # name:be: [Прыёмнае аддзяленне]
 msgid "Приемное отделение"
@@ -3128,7 +3268,12 @@ msgstr ""
 msgid "приёмный пункт стеклотары"
 msgstr ""
 
-# Objects : [n2409170705, n3055185390, n3090805220, n3090805221, n3090805222, n3090805223, n3090805224, n3090805225, n3090805226, n332220243]
+# Objects : [n3372159836]
+# name:be: []
+msgid "Присмушки"
+msgstr ""
+
+# Objects : [n2409170705, n3055185390, n3090805220, n3090805221, n3090805222, n3090805223, n3090805224, n3090805225, n3090805226, n332220243, n3375045537, n3375049507]
 # name:be: []
 msgid "пристань"
 msgstr ""
@@ -3148,8 +3293,8 @@ msgstr ""
 msgid "продление ул. Терешковой до ул Лазо"
 msgstr ""
 
-# Objects : [w149003780, w310301853]
-# name:be: []
+# Objects : [w149003780, w168200869, w170184419, w172878841, w310301853, w57807645]
+# name:be: [Прадукты]
 msgid "Продукты"
 msgstr ""
 
@@ -3308,7 +3453,7 @@ msgstr ""
 msgid "ремонтная мастерская"
 msgstr ""
 
-# Objects : [n1255604935, n1310955874, n1355206762, n1360856879, n1440262035, n1854061633, n2403916794, n2503375596, n2530020756, n2530020757, n2853224386]
+# Objects : [n1255604935, n1310955874, n1355206762, n1360856879, n1440262035, n1854061633, n2403916794, n2503375596, n2530020756, n2530020757, n2853224386, n3204206428]
 # name:be: [Рамонт абутку]
 msgid "Ремонт обуви"
 msgstr ""
@@ -3323,12 +3468,17 @@ msgstr ""
 msgid "ремонт обуви «Скороход»"
 msgstr ""
 
-# Objects : [n2403916795, n2412447103, n2530020758]
+# Objects : [n3464165102]
+# name:be: []
+msgid "ремонт обуви «Шанс»"
+msgstr ""
+
+# Objects : [n2412447103, n2530020758]
 # name:be: []
 msgid "Ремонт одежды"
 msgstr ""
 
-# Objects : [n1355206771, n3133367435]
+# Objects : [n1355206771, n3133367435, n3462228044]
 # name:be: [Рамонт сотавых тэлефонаў]
 msgid "Ремонт сотовых телефонов"
 msgstr ""
@@ -3393,6 +3543,21 @@ msgstr ""
 msgid "ротонда"
 msgstr ""
 
+# Objects : [w168200862]
+# name:be: [РП-38]
+msgid "РП-38"
+msgstr ""
+
+# Objects : [w167495086]
+# name:be: []
+msgid "РП-66"
+msgstr ""
+
+# Objects : [w133002785]
+# name:be: [РП-68]
+msgid "РП-68"
+msgstr ""
+
 # Objects : [w30663254]
 # name:be: []
 msgid "РСУ УП "Витебскоблгаз""
@@ -3423,9 +3588,19 @@ msgstr ""
 msgid "РУП «Витебский механический завод»"
 msgstr ""
 
+# Objects : [w240743130]
+# name:be: []
+msgid "РУП Витебский ДСК  база комплектации"
+msgstr ""
+
 # Objects : [w226449069]
 # name:be: []
 msgid "РУПП «Витебскхлебпром»"
+msgstr ""
+
+# Objects : [n3372079762]
+# name:be: []
+msgid "Русский посад"
 msgstr ""
 
 # Objects : [n2334520079]
@@ -3538,6 +3713,11 @@ msgstr ""
 msgid "Склад Заподнодвинской МРО"
 msgstr ""
 
+# Objects : [w27900675]
+# name:be: []
+msgid "склад Керамин"
+msgstr ""
+
 # Objects : [w27902290]
 # name:be: []
 msgid "склад Новый дом плюс"
@@ -3571,6 +3751,11 @@ msgstr ""
 # Objects : [n335777405]
 # name:be: [Зліццё трох рэк]
 msgid "Слияние трёх рек"
+msgstr ""
+
+# Objects : [n3372159740]
+# name:be: []
+msgid "Слободской посад"
 msgstr ""
 
 # Objects : [w287656275, w287656278]
@@ -3668,6 +3853,11 @@ msgstr ""
 msgid "стадион ВГПЛ № 1"
 msgstr ""
 
+# Objects : [w111382607]
+# name:be: []
+msgid "стадион ВГТУ"
+msgstr ""
+
 # Objects : [w107809473]
 # name:be: [стадыён Віцебскдрэў]
 msgid "стадион Витебскдрев"
@@ -3681,6 +3871,11 @@ msgstr ""
 # Objects : [w243336115]
 # name:be: []
 msgid "Станкоинструментальный колледж"
+msgstr ""
+
+# Objects : [r4703248, r4703249, r4703253, r4703254, r4703255]
+# name:be: []
+msgid "станция перекачки"
 msgstr ""
 
 # Objects : [w242415178]
@@ -3743,6 +3938,11 @@ msgstr ""
 msgid "строительство коттеджного поселка"
 msgstr ""
 
+# Objects : [w312614150]
+# name:be: []
+msgid "строительство моста"
+msgstr ""
+
 # Objects : [w81524531]
 # name:be: []
 msgid "строительство поликлиники"
@@ -3760,7 +3960,7 @@ msgstr ""
 
 # Objects : [w130446536]
 # name:be: []
-msgid "строительство ТЦ «Галерея»"
+msgid "строительство ТЦ "Green""
 msgstr ""
 
 # Objects : [w287276313]
@@ -3813,6 +4013,11 @@ msgstr ""
 msgid "Сцена"
 msgstr ""
 
+# Objects : [n3445682796, n3445682797]
+# name:be: []
+msgid "СШ № 46"
+msgstr ""
+
 # Objects : [n1133473283, w241992131]
 # name:be: [СЭЗ «Віцебск»]
 msgid "СЭЗ «Витебск»"
@@ -3823,7 +4028,7 @@ msgstr ""
 msgid "такси"
 msgstr ""
 
-# Objects : [n1355207049, n1355207259, n2518588897, n2965911254, n2967118873, n3063390582, n3063390583, n3100560642, n3186490652, n3196211897, n3234419472, n3234419473, n3250935461, n3250935462]
+# Objects : [n1355207049, n1355207259, n2518588897, n2965911254, n2967118873, n3063390582, n3063390583, n3100560642, n3186490652, n3196211897, n3234419472, n3234419473, n3250935461, n3250935462, n3411340219, n3424177194, n3442966491, n3462228046, n3462228047, n3462228048]
 # name:be: []
 msgid "Таксофон"
 msgstr ""
@@ -3841,6 +4046,11 @@ msgstr ""
 # Objects : [n960602261]
 # name:be: [Тарны]
 msgid "Тарный"
+msgstr ""
+
+# Objects : [w338483316]
+# name:be: []
+msgid "Твой велик"
 msgstr ""
 
 # Objects : [n2141443269, n2141443270]
@@ -3913,14 +4123,44 @@ msgstr ""
 msgid "Торговый центр «Корона»"
 msgstr ""
 
-# Objects : [w192347194]
-# name:be: [Гандлёвы цэнтр «Эвіком»]
-msgid "Торговый центр «Эвиком»"
+# Objects : [w134727268, w170186306, w171653510, w188558332, w340659073]
+# name:be: [ТП]
+msgid "ТП"
 msgstr ""
 
-# Objects : [w188558332]
+# Objects : [w134768085]
 # name:be: []
-msgid "ТП"
+msgid "ТП-137"
+msgstr ""
+
+# Objects : [w200468541]
+# name:be: []
+msgid "ТП-139"
+msgstr ""
+
+# Objects : [w137296530]
+# name:be: []
+msgid "ТП-158"
+msgstr ""
+
+# Objects : [w156419716]
+# name:be: []
+msgid "ТП-181"
+msgstr ""
+
+# Objects : [w155966114]
+# name:be: []
+msgid "ТП-200"
+msgstr ""
+
+# Objects : [w27899260]
+# name:be: [ТП-209]
+msgid "ТП-209"
+msgstr ""
+
+# Objects : [w145917073]
+# name:be: []
+msgid "ТП-235"
 msgstr ""
 
 # Objects : [w110532842]
@@ -3933,14 +4173,144 @@ msgstr ""
 msgid "ТП 279"
 msgstr ""
 
+# Objects : [w110643215]
+# name:be: []
+msgid "ТП-340"
+msgstr ""
+
+# Objects : [w126828436]
+# name:be: [ТП-354]
+msgid "ТП-354"
+msgstr ""
+
+# Objects : [w169416319]
+# name:be: []
+msgid "ТП-364"
+msgstr ""
+
+# Objects : [w27903674]
+# name:be: []
+msgid "ТП-366"
+msgstr ""
+
+# Objects : [w168961666]
+# name:be: []
+msgid "ТП-37"
+msgstr ""
+
+# Objects : [w132197863]
+# name:be: [ТП-409]
+msgid "ТП-409"
+msgstr ""
+
+# Objects : [w306702785]
+# name:be: []
+msgid "ТП-416"
+msgstr ""
+
+# Objects : [w27901512]
+# name:be: []
+msgid "ТП-42"
+msgstr ""
+
+# Objects : [w300067919]
+# name:be: []
+msgid "ТП-422"
+msgstr ""
+
+# Objects : [w172275949]
+# name:be: [ТП-427]
+msgid "ТП-427"
+msgstr ""
+
+# Objects : [w340446565]
+# name:be: [ТП-434]
+msgid "ТП-434"
+msgstr ""
+
+# Objects : [w110771631]
+# name:be: []
+msgid "ТП-44"
+msgstr ""
+
+# Objects : [w217105900]
+# name:be: []
+msgid "ТП-466"
+msgstr ""
+
+# Objects : [w126828433]
+# name:be: [ТП-475]
+msgid "ТП-475"
+msgstr ""
+
+# Objects : [w296509692]
+# name:be: []
+msgid "ТП-502"
+msgstr ""
+
+# Objects : [w339998016]
+# name:be: []
+msgid "ТП-551"
+msgstr ""
+
+# Objects : [w175014870]
+# name:be: [ТП-555]
+msgid "ТП-555"
+msgstr ""
+
+# Objects : [w106793207]
+# name:be: []
+msgid "ТП-557"
+msgstr ""
+
+# Objects : [w172914280]
+# name:be: []
+msgid "ТП-562"
+msgstr ""
+
+# Objects : [w217725944]
+# name:be: []
+msgid "ТП-576"
+msgstr ""
+
+# Objects : [w134107267]
+# name:be: []
+msgid "ТП-603"
+msgstr ""
+
+# Objects : [w293351068]
+# name:be: []
+msgid "ТП-629"
+msgstr ""
+
+# Objects : [w149757398]
+# name:be: []
+msgid "ТП-694"
+msgstr ""
+
 # Objects : [w190910967]
 # name:be: []
 msgid "ТП 799"
 msgstr ""
 
+# Objects : [w175531553]
+# name:be: []
+msgid "ТП-83"
+msgstr ""
+
+# Objects : [w337394818]
+# name:be: [ТП-85]
+msgid "ТП-85"
+msgstr ""
+
 # Objects : [w185231772]
 # name:be: []
 msgid "ТП-95"
+msgstr ""
+
+# Objects : [w161183160]
+# name:be: []
+msgid "ТП-96"
 msgstr ""
 
 # Objects : [n2362586565]
@@ -4006,6 +4376,11 @@ msgstr ""
 # Objects : [n2942006343]
 # name:be: []
 msgid "Транспортная инспекция минтранса"
+msgstr ""
+
+# Objects : [n3412798094]
+# name:be: []
+msgid "Тренажерный зал " Эра ""
 msgstr ""
 
 # Objects : [n2932271076, n2932271077]
@@ -4111,6 +4486,11 @@ msgstr ""
 # Objects : [w164758279]
 # name:be: []
 msgid "ТЦ «Ника»"
+msgstr ""
+
+# Objects : [w192347194]
+# name:be: [Гандлёвы цэнтр «Эвіком»]
+msgid "ТЦ «Эвиком»"
 msgstr ""
 
 # Objects : [n2358057020]
@@ -4298,6 +4678,11 @@ msgstr ""
 msgid "УПК Технологического колледжа"
 msgstr ""
 
+# Objects : [w27902232]
+# name:be: [Упраўленне капітальнага будаўніцтва]
+msgid "Управление капитального строительства"
+msgstr ""
+
 # Objects : [n1304240401]
 # name:be: [Упраўленне капітальнага будаўніцтва Віцебскага аблвыканкама]
 msgid "Управление капитального строительства витебского облисполкома"
@@ -4373,7 +4758,7 @@ msgstr ""
 msgid "Фирменный магазин «Алеся»"
 msgstr ""
 
-# Objects : [n1856026146, n2332220679, n2366243193, n2473466241, n2477275695, n2896909274, n2896943643, n338868629, n339534797, n872477506, n889929230, w95321065]
+# Objects : [n1856026146, n2332220679, n2366243193, n2473466241, n2477275695, n2896909274, n2896943643, n338868629, n339534797, n872477506, n889929230]
 # name:be: []
 msgid "фонтан"
 msgstr ""
@@ -4426,11 +4811,6 @@ msgstr ""
 # Objects : [r1662601]
 # name:be: []
 msgid "ХГФ"
-msgstr ""
-
-# Objects : [n2627616434]
-# name:be: []
-msgid "Химчистка Лотос"
 msgstr ""
 
 # Objects : [w27904328]
@@ -4513,6 +4893,36 @@ msgstr ""
 msgid "Цех завода заточных станков"
 msgstr ""
 
+# Objects : [w127572212]
+# name:be: []
+msgid "ЦТП-58"
+msgstr ""
+
+# Objects : [w27899115]
+# name:be: [ЦЦП № 14]
+msgid "ЦТП № 14"
+msgstr ""
+
+# Objects : [w30646579]
+# name:be: [ЦЦП № 34]
+msgid "ЦТП № 34"
+msgstr ""
+
+# Objects : [w340446566]
+# name:be: [ЦЦП № 7]
+msgid "ЦТП № 7"
+msgstr ""
+
+# Objects : [w130637610]
+# name:be: [ЦЦП №719]
+msgid "ЦТП №719"
+msgstr ""
+
+# Objects : [w27898784]
+# name:be: [ЦЦП № 8]
+msgid "ЦТП № 8"
+msgstr ""
+
 # Objects : [w243381222]
 # name:be: [капліца]
 msgid "часовня"
@@ -4545,7 +4955,7 @@ msgstr ""
 
 # Objects : [w27896555]
 # name:be: []
-msgid "Чепинское  кладбище."
+msgid "Чепинское кладбище"
 msgstr ""
 
 # Objects : [w27896580]
@@ -4588,12 +4998,17 @@ msgstr ""
 msgid "Швейная мастерская"
 msgstr ""
 
+# Objects : [n3429949003]
+# name:be: [Швейны цэх АМТЗ]
+msgid "Швейный цех ОМТС"
+msgstr ""
+
 # Objects : [n2932271087, n2932271088]
 # name:be: [Школьная]
 msgid "Школьная"
 msgstr ""
 
-# Objects : [n243043831]
+# Objects : [n243043831, w25088167]
 # name:be: [Шпілі]
 msgid "Шпили"
 msgstr ""
@@ -4603,14 +5018,14 @@ msgstr ""
 msgid "Эгида"
 msgstr ""
 
+# Objects : [n3421429543]
+# name:be: []
+msgid "Экономический суд"
+msgstr ""
+
 # Objects : [w311064997]
 # name:be: []
 msgid "экран"
-msgstr ""
-
-# Objects : [n2853224389]
-# name:be: []
-msgid "Эксклюзивный ремонт и пошив одежды"
 msgstr ""
 
 # Objects : [w167839917]

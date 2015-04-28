@@ -69,8 +69,8 @@ msgid "2-я улица Ушакова"
 msgstr ""
 
 # Objects : [w324931284]
-# name:be: []
-msgid "3-ий  Бординичский переулок"
+# name:be: [3-і Бордзініцкі завулак]
+msgid "3-й Бординичский переулок"
 msgstr ""
 
 # Objects : [w209986701]
@@ -106,6 +106,11 @@ msgstr ""
 # Objects : [w211308135]
 # name:be: [Вілейская вуліца]
 msgid "Вилейская улица"
+msgstr ""
+
+# Objects : [w332386825]
+# name:be: []
+msgid "Вокзальный переулок"
 msgstr ""
 
 # Objects : [w216482304]
@@ -163,8 +168,8 @@ msgstr ""
 msgid "Комсомольская улица"
 msgstr ""
 
-# Objects : [w323635707]
-# name:be: []
+# Objects : [w323635707, w324753860]
+# name:be: [Кааператыўны завулак]
 msgid "Кооперативный переулок"
 msgstr ""
 
@@ -261,11 +266,6 @@ msgstr ""
 # Objects : [w211119061]
 # name:be: [завулак Івуценкі]
 msgid "переулок Ивутенко"
-msgstr ""
-
-# Objects : [w324753860]
-# name:be: []
-msgid "переулок Кооперативный"
 msgstr ""
 
 # Objects : [w170688665]

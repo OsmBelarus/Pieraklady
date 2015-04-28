@@ -413,7 +413,7 @@ msgstr ""
 msgid "Дуброво"
 msgstr ""
 
-# Objects : [n1434027161, n243011499, w25130021, w25130030]
+# Objects : [n243011499, w25130030]
 # name:be: [Дзюблеўшчына]
 msgid "Дюблевщина"
 msgstr ""
@@ -463,7 +463,7 @@ msgstr ""
 msgid "Задворцы"
 msgstr ""
 
-# Objects : [n243011465, w111177849]
+# Objects : [n243011465, w111177849, w25130021]
 # name:be: [Залессе]
 msgid "Залесье"
 msgstr ""
@@ -541,6 +541,11 @@ msgstr ""
 # Objects : [n243003309, w25132737]
 # name:be: [Кічына]
 msgid "Кичино"
+msgstr ""
+
+# Objects : [w25133884]
+# name:be: [Клерымонты]
+msgid "Клеримонты"
 msgstr ""
 
 # Objects : [n2467196494, w25129983]
@@ -1108,7 +1113,7 @@ msgstr ""
 msgid "Румянцево"
 msgstr ""
 
-# Objects : [n243009143, w290253146]
+# Objects : [n243009143, w290253146, w340373309]
 # name:be: [Русалішкі]
 msgid "Русалишки"
 msgstr ""
@@ -1218,7 +1223,7 @@ msgstr ""
 msgid "Сосновый Бор"
 msgstr ""
 
-# Objects : [n2387678518, w230244234]
+# Objects : [n2387678518]
 # name:be: []
 msgid "СТ "Холмогорье""
 msgstr ""
@@ -1263,7 +1268,7 @@ msgstr ""
 msgid "Сычевичи"
 msgstr ""
 
-# Objects : [n890066927, w75377949]
+# Objects : [n890066927]
 # name:be: []
 msgid "Сябры-83"
 msgstr ""

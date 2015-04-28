@@ -78,6 +78,11 @@ msgstr ""
 msgid "Памятник Халаеву"
 msgstr ""
 
+# Objects : [w335017341]
+# name:be: []
+msgid "Парк СХТ"
+msgstr ""
+
 # Objects : [w200251064]
 # name:be: []
 msgid "продукты"
@@ -111,6 +116,11 @@ msgstr ""
 # Objects : [n2102447836]
 # name:be: []
 msgid "Стадион"
+msgstr ""
+
+# Objects : [w335017342]
+# name:be: []
+msgid "Сцена"
 msgstr ""
 
 # Objects : [w157856352]

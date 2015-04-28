@@ -8,9 +8,24 @@ msgstr ""
 msgid "Брестская область"
 msgstr ""
 
+# Objects : [n306063781]
+# name:be: [Брэст-Цярэспаль]
+msgid "Брест-Тересполь"
+msgstr ""
+
 # Objects : [r59506]
 # name:be: [Віцебская вобласць]
 msgid "Витебская область"
+msgstr ""
+
+# Objects : [n1612176546]
+# name:be: []
+msgid "Геранени"
+msgstr ""
+
+# Objects : [n1020606081]
+# name:be: []
+msgid "Глушкевичи"
 msgstr ""
 
 # Objects : [r59161]
@@ -23,6 +38,21 @@ msgstr ""
 msgid "Гродненская область"
 msgstr ""
 
+# Objects : [n275538890]
+# name:be: [Дамачава]
+msgid "Домачево"
+msgstr ""
+
+# Objects : [n309335103]
+# name:be: [Казловiчы]
+msgid "Козловичи"
+msgstr ""
+
+# Objects : [n26162465, r59195]
+# name:be: [Мінск]
+msgid "Минск"
+msgstr ""
+
 # Objects : [r59752]
 # name:be: [Мінская вобласць]
 msgid "Минская область"
@@ -31,5 +61,15 @@ msgstr ""
 # Objects : [r59162]
 # name:be: [Магілёўская вобласць]
 msgid "Могилёвская область"
+msgstr ""
+
+# Objects : [n1867119617]
+# name:be: [Пясчатка]
+msgid "Песчатка"
+msgstr ""
+
+# Objects : [n1867166211]
+# name:be: [Урбаны]
+msgid "Урбаны"
 msgstr ""
 

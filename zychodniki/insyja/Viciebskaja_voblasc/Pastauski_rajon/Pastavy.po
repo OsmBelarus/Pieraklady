@@ -118,6 +118,11 @@ msgstr ""
 msgid "ОАО "Поставский молочный завод""
 msgstr ""
 
+# Objects : [r4730807]
+# name:be: []
+msgid "Отдел пограничной службы "Поставы""
+msgstr ""
+
 # Objects : [n1498488072]
 # name:be: [помнік Леніну]
 msgid "Памятник Ленину"
@@ -133,9 +138,19 @@ msgstr ""
 msgid "Памятник польским солдатам"
 msgstr ""
 
+# Objects : [w339921478]
+# name:be: []
+msgid "Поставский мебельный центр"
+msgstr ""
+
 # Objects : [n1236299652, w136477563]
 # name:be: [Паставы]
 msgid "Поставы"
+msgstr ""
+
+# Objects : [n3471061795]
+# name:be: []
+msgid "ПостКамень ООО"
 msgstr ""
 
 # Objects : [w137590973]

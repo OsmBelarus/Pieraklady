@@ -18,14 +18,14 @@ msgstr ""
 msgid "Жовин"
 msgstr ""
 
-# Objects : [w213509001]
-# name:be: []
-msgid "Кантолра СПК Несята"
-msgstr ""
-
 # Objects : [w215364563]
 # name:be: []
 msgid "Кательная"
+msgstr ""
+
+# Objects : [w213509001]
+# name:be: []
+msgid "Контора СПК Несята"
 msgstr ""
 
 # Objects : [w215352546]

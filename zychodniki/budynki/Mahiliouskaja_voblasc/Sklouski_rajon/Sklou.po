@@ -33,7 +33,12 @@ msgstr ""
 msgid "Котельная"
 msgstr ""
 
-# Objects : [w104027697, w209537384, w241520101, w253287044, w253289018]
+# Objects : [w241507893]
+# name:be: []
+msgid "Котельная ЖКХ"
+msgstr ""
+
+# Objects : [w104027697, w209537384, w241507894, w241520101, w253287044, w253289018]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -41,6 +46,11 @@ msgstr ""
 # Objects : [w171974344]
 # name:be: []
 msgid "Милиция"
+msgstr ""
+
+# Objects : [w241506196, w241506198]
+# name:be: []
+msgid "МН"
 msgstr ""
 
 # Objects : [w274500754]
@@ -83,6 +93,11 @@ msgstr ""
 msgid "РЭС"
 msgstr ""
 
+# Objects : [w240633703]
+# name:be: []
+msgid "Свинарник"
+msgstr ""
+
 # Objects : [w74740609]
 # name:be: []
 msgid "Стоматология"
@@ -96,6 +111,11 @@ msgstr ""
 # Objects : [w74749329]
 # name:be: []
 msgid "Хлебозавод"
+msgstr ""
+
+# Objects : [w242401485]
+# name:be: []
+msgid "ЧУП "БЕЛВИЗИТ""
 msgstr ""
 
 # Objects : [w104960872]

@@ -1,6 +1,11 @@
 # Objects : [r2944696]
-# name:be: []
+# name:be: [Амстэрдам - Масква]
 msgid "Amsterdam - Moscow"
+msgstr ""
+
+# Objects : [r4765473]
+# name:be: []
+msgid "RL Минск-Столбцы"
 msgstr ""
 
 # Objects : [r301832]

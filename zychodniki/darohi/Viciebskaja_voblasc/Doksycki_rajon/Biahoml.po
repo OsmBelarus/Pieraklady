@@ -78,6 +78,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w179458504, w241978252]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
 # Objects : [w143726054]
 # name:be: [вуліца Бірукова]
 msgid "улица Бирюкова"

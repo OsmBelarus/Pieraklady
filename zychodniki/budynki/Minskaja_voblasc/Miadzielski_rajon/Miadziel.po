@@ -1,11 +1,26 @@
+# Objects : [w133978542]
+# name:be: []
+msgid "Беларуская хата-2"
+msgstr ""
+
+# Objects : [w337075691]
+# name:be: []
+msgid "Белсоюзпечать"
+msgstr ""
+
 # Objects : [w229757233]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
 
-# Objects : [w133978542]
+# Objects : [w156339512]
 # name:be: []
-msgid "Кафе "Встреча""
+msgid "МегаСтрой"
+msgstr ""
+
+# Objects : [w248610620, w337075693]
+# name:be: []
+msgid "Продукты"
 msgstr ""
 
 # Objects : [w285314479]

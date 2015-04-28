@@ -3,7 +3,7 @@
 msgid "Альфа-Банк"
 msgstr ""
 
-# Objects : [n3154673879, r3670960]
+# Objects : [r4636948]
 # name:be: [Белаграпрамбанк]
 msgid "Белагропромбанк"
 msgstr ""
@@ -16,11 +16,6 @@ msgstr ""
 # Objects : [n3034265733]
 # name:be: []
 msgid "Беларусбанк отд. №80"
-msgstr ""
-
-# Objects : [n3154679129]
-# name:be: []
-msgid "БеларусьБанк"
 msgstr ""
 
 # Objects : [n3034353746, n3184585374]

@@ -28,9 +28,19 @@ msgstr ""
 msgid "Глушец"
 msgstr ""
 
+# Objects : [n3390654691]
+# name:be: []
+msgid "Губичский кордон"
+msgstr ""
+
 # Objects : [w286247417]
 # name:be: []
 msgid "ГУО "Нивская средняя школа""
+msgstr ""
+
+# Objects : [w296653955]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [w293852750]
@@ -38,7 +48,12 @@ msgstr ""
 msgid "Детский сад д. Радуша"
 msgstr ""
 
-# Objects : [w25183864, w25536863]
+# Objects : [w313546505]
+# name:be: []
+msgid "Детский сад п.Лукский"
+msgstr ""
+
+# Objects : [w25536863]
 # name:be: []
 msgid "ДНЕПР"
 msgstr ""
@@ -63,9 +78,14 @@ msgstr ""
 msgid "Кр.Берег в/ч 55461"
 msgstr ""
 
-# Objects : [n306069795]
-# name:be: [Красны Бераг]
-msgid "Красный Берег"
+# Objects : [r4756726]
+# name:be: []
+msgid "Ландшафтный заказник "Выдрица""
+msgstr ""
+
+# Objects : [r4700421]
+# name:be: []
+msgid "Ландшафтный заказник "Смычок""
 msgstr ""
 
 # Objects : [w294787128]
@@ -98,9 +118,9 @@ msgstr ""
 msgid "Мормаль"
 msgstr ""
 
-# Objects : [n306069829]
+# Objects : [n3390988544]
 # name:be: []
-msgid "Мостик"
+msgid "Осиновка"
 msgstr ""
 
 # Objects : [n2099798000]
@@ -143,9 +163,19 @@ msgstr ""
 msgid "Сейбит"
 msgstr ""
 
+# Objects : [w274223067]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
 # Objects : [n306069799]
 # name:be: []
 msgid "Усадьба Генерал-Лейтенанта Гатовского"
+msgstr ""
+
+# Objects : [w330010408]
+# name:be: []
+msgid "ФАП"
 msgstr ""
 
 # Objects : [n2788687337]
@@ -156,6 +186,11 @@ msgstr ""
 # Objects : [n2788685906]
 # name:be: [Царква Усіх Святых]
 msgid "Церковь Всех Святых"
+msgstr ""
+
+# Objects : [w296654880]
+# name:be: []
+msgid "Школа"
 msgstr ""
 
 # Objects : [w270793442]

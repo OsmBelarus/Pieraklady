@@ -3,6 +3,11 @@
 msgid ""аллея трезвости""
 msgstr ""
 
+# Objects : [w313863500]
+# name:be: []
+msgid "Городская улица"
+msgstr ""
+
 # Objects : [w25270068]
 # name:be: []
 msgid "дорога на промзону"
@@ -28,7 +33,7 @@ msgstr ""
 msgid "Озёрная улица"
 msgstr ""
 
-# Objects : [w84034845]
+# Objects : [w277645407, w84034845]
 # name:be: []
 msgid "Полевая улица"
 msgstr ""
@@ -36,6 +41,11 @@ msgstr ""
 # Objects : [w255891404]
 # name:be: []
 msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w277645404]
+# name:be: []
+msgid "Северная улица"
 msgstr ""
 
 # Objects : [w321247649, w84034841, w84034843]
@@ -58,7 +68,7 @@ msgstr ""
 msgid "улица Строителей"
 msgstr ""
 
-# Objects : [w255752339, w313553875]
+# Objects : [w255752339, w313553875, w334648186, w339794608]
 # name:be: []
 msgid "Центральная улица"
 msgstr ""

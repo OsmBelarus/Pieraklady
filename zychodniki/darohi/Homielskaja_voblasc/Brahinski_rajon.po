@@ -113,7 +113,7 @@ msgstr ""
 msgid "улица Березенко"
 msgstr ""
 
-# Objects : [w309887826]
+# Objects : [w309887826, w334346391]
 # name:be: []
 msgid "улица Ветковская"
 msgstr ""
@@ -181,11 +181,6 @@ msgstr ""
 # Objects : [w267495234, w313657583]
 # name:be: []
 msgid "улица Полесская"
-msgstr ""
-
-# Objects : [w253558642]
-# name:be: []
-msgid "улица Преднепровская"
 msgstr ""
 
 # Objects : [w267625471]

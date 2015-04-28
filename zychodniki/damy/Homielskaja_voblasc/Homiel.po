@@ -23,11 +23,6 @@ msgstr ""
 msgid "6Б"
 msgstr ""
 
-# Objects : [w232921329]
-# name:be: []
-msgid "Гомельэнергоспецремонт"
-msgstr ""
-
 # Objects : [w63566231]
 # name:be: []
 msgid "Общежитие автобусного парка"
@@ -41,5 +36,10 @@ msgstr ""
 # Objects : [w253585585]
 # name:be: []
 msgid "Общежитие тепловых сетей"
+msgstr ""
+
+# Objects : [w74502411]
+# name:be: []
+msgid "ТС Кастелланус"
 msgstr ""
 

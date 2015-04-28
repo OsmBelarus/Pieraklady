@@ -3,14 +3,9 @@
 msgid "Амбулатория"
 msgstr ""
 
-# Objects : [r3220412]
-# name:be: []
-msgid "Ветковская районная больница"
-msgstr ""
-
-# Objects : [w238843970]
-# name:be: []
-msgid "Ветковская ЦРБ"
+# Objects : [n243044534, w25080312]
+# name:be: [Барба]
+msgid "Борьба"
 msgstr ""
 
 # Objects : [w260880855]
@@ -38,6 +33,11 @@ msgstr ""
 msgid "ЗСК СКУ-10"
 msgstr ""
 
+# Objects : [n243044522, w25080311]
+# name:be: [Ірынаўка]
+msgid "Ириновка"
+msgstr ""
+
 # Objects : [n1110299624]
 # name:be: []
 msgid "Исправительная колония-поселение № 21"
@@ -48,19 +48,29 @@ msgstr ""
 msgid "КН"
 msgstr ""
 
+# Objects : [n243044532, w25080331]
+# name:be: [Косіцкая]
+msgid "Косицкая"
+msgstr ""
+
 # Objects : [w179250277, w244910744]
 # name:be: []
 msgid "Котельная"
 msgstr ""
 
-# Objects : [w238844066]
-# name:be: []
-msgid "котельная ЦРБ"
-msgstr ""
-
 # Objects : [w257610088]
 # name:be: []
 msgid "Котельная школы"
+msgstr ""
+
+# Objects : [n243044537, w25080319]
+# name:be: [Красны Пуць]
+msgid "Красный Путь"
+msgstr ""
+
+# Objects : [n243044535, w25080325]
+# name:be: [Красны Вугал]
+msgid "Красный Угол"
 msgstr ""
 
 # Objects : [w25195320]
@@ -71,6 +81,11 @@ msgstr ""
 # Objects : [w269477017]
 # name:be: []
 msgid "КТ100 кв"
+msgstr ""
+
+# Objects : [n243045538, w25079298]
+# name:be: [Амяльное]
+msgid "Омельное"
 msgstr ""
 
 # Objects : [w309855358]
@@ -86,6 +101,16 @@ msgstr ""
 # Objects : [n243046609, w25082002]
 # name:be: [Петраполле]
 msgid "Петрополье"
+msgstr ""
+
+# Objects : [n243045545, w25079292]
+# name:be: [Падкаменне]
+msgid "Подкаменье"
+msgstr ""
+
+# Objects : [n243044533, w25080318]
+# name:be: [Папсуеўка]
+msgid "Попсуевка"
 msgstr ""
 
 # Objects : [n3092050109]
@@ -113,6 +138,11 @@ msgstr ""
 msgid "Селицкая"
 msgstr ""
 
+# Objects : [n243044531, w25080333]
+# name:be: [Сівінка]
+msgid "Сивинка"
+msgstr ""
+
 # Objects : [w226744231]
 # name:be: []
 msgid "Сожский карьер"
@@ -123,12 +153,22 @@ msgstr ""
 msgid "Средняя школа"
 msgstr ""
 
+# Objects : [n243045542, w25079301]
+# name:be: [Старое Закружжа]
+msgid "Старое Закружье"
+msgstr ""
+
 # Objects : [n2837168134]
 # name:be: []
 msgid "Столб"
 msgstr ""
 
-# Objects : [w262404752, w287682294, w301922564, w318066847]
+# Objects : [n3390630232]
+# name:be: []
+msgid "Столбун"
+msgstr ""
+
+# Objects : [w262404752, w287682294, w301922564]
 # name:be: []
 msgid "ТП"
 msgstr ""

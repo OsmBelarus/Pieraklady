@@ -298,7 +298,7 @@ msgstr ""
 msgid "Северная улица"
 msgstr ""
 
-# Objects : [w25232951, w54755532]
+# Objects : [w25232951, w302271644, w54755532]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
 msgstr ""
@@ -536,11 +536,6 @@ msgstr ""
 # Objects : [w134019874, w208659351, w65354002]
 # name:be: [вуліца Свярдлова]
 msgid "улица Свердлова"
-msgstr ""
-
-# Objects : [w302271644]
-# name:be: []
-msgid "Улица Советская"
 msgstr ""
 
 # Objects : [w75219477]

@@ -173,6 +173,11 @@ msgstr ""
 msgid "Краснослободское"
 msgstr ""
 
+# Objects : [n1670673866]
+# name:be: []
+msgid "Листопадовичское лесничество"
+msgstr ""
+
 # Objects : [n2318049979]
 # name:be: []
 msgid "МашХимПром"
@@ -216,11 +221,6 @@ msgstr ""
 # Objects : [w319996148, w319996811]
 # name:be: []
 msgid "Новы Рожан"
-msgstr ""
-
-# Objects : [w108880347]
-# name:be: []
-msgid "Оздоровительный лагерь "Зелёный бор"."
 msgstr ""
 
 # Objects : [w280419434]
@@ -308,6 +308,11 @@ msgstr ""
 msgid "Радуга-5"
 msgstr ""
 
+# Objects : [w108880347]
+# name:be: []
+msgid "Реабилитационный центр «Зелёный бор»"
+msgstr ""
+
 # Objects : [w273534814]
 # name:be: []
 msgid "Реагентное отделение"
@@ -331,11 +336,6 @@ msgstr ""
 # Objects : [w126112563]
 # name:be: []
 msgid "Сажалка"
-msgstr ""
-
-# Objects : [n2766722505]
-# name:be: []
-msgid "Санаторий Зеленый бор"
 msgstr ""
 
 # Objects : [w287814373]

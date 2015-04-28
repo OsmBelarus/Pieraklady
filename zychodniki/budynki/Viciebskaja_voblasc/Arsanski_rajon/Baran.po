@@ -3,6 +3,11 @@
 msgid "Аптека №52"
 msgstr ""
 
+# Objects : [w150741504]
+# name:be: []
+msgid "Гимназия"
+msgstr ""
+
 # Objects : [w144879191]
 # name:be: []
 msgid "Евроопт"
@@ -21,5 +26,10 @@ msgstr ""
 # Objects : [w150597229]
 # name:be: []
 msgid "Поликлиника №4"
+msgstr ""
+
+# Objects : [w205164320]
+# name:be: []
+msgid "СКБ"
 msgstr ""
 

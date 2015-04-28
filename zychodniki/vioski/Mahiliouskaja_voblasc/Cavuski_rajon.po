@@ -88,7 +88,7 @@ msgstr ""
 msgid "Варварино"
 msgstr ""
 
-# Objects : [n243045900, w25082929, w25082951]
+# Objects : [n243045900, r4785509]
 # name:be: [Васькавічы]
 msgid "Васьковичи"
 msgstr ""
@@ -281,11 +281,6 @@ msgstr ""
 # Objects : [n243046526, w25081610]
 # name:be: [Заложжа]
 msgid "Заложье"
-msgstr ""
-
-# Objects : [w25084701]
-# name:be: [Запруддзе]
-msgid "Запрудье"
 msgstr ""
 
 # Objects : [n243045935, w25083048]
@@ -528,7 +523,7 @@ msgstr ""
 msgid "Осиновка"
 msgstr ""
 
-# Objects : [n243045915, w25083027, w25084663]
+# Objects : [n243045915, r4785501]
 # name:be: [Астравы]
 msgid "Островы"
 msgstr ""
@@ -608,6 +603,11 @@ msgstr ""
 msgid "Пырцы"
 msgstr ""
 
+# Objects : [n243046489, w25081657]
+# name:be: [Рагозінка]
+msgid "Рагозинка"
+msgstr ""
+
 # Objects : [n243046476, w25081634]
 # name:be: [Радамля]
 msgid "Радомля"
@@ -626,11 +626,6 @@ msgstr ""
 # Objects : [n243044735, w25080811]
 # name:be: [Рымінка]
 msgid "Риминка"
-msgstr ""
-
-# Objects : [n243046489, w25081657]
-# name:be: [Рагозінка]
-msgid "Рогозинка"
 msgstr ""
 
 # Objects : [n243046686, w25083036]
@@ -743,12 +738,7 @@ msgstr ""
 msgid "Темровичи"
 msgstr ""
 
-# Objects : [w25081759]
-# name:be: []
-msgid "Теплое"
-msgstr ""
-
-# Objects : [n243046687, w25081766]
+# Objects : [n243046687, r4785502]
 # name:be: [Цёплае]
 msgid "Тёплое"
 msgstr ""

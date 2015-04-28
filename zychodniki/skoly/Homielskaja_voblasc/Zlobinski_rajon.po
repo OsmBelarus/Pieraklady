@@ -3,6 +3,11 @@
 msgid "Мормальская средняя школа"
 msgstr ""
 
+# Objects : [n3444348113]
+# name:be: []
+msgid "Школа"
+msgstr ""
+
 # Objects : [n2810420471]
 # name:be: []
 msgid "Школа аг.Красный Берег"
@@ -26,11 +31,6 @@ msgstr ""
 # Objects : [n2354923235]
 # name:be: []
 msgid "Школа д.Проскурни"
-msgstr ""
-
-# Objects : [n3004603733]
-# name:be: []
-msgid "Школа д.Ректа"
 msgstr ""
 
 # Objects : [n2830926389]

@@ -1,6 +1,6 @@
-# Objects : [r336069]
+# Objects : [r4808582]
 # name:be: []
-msgid "Droga krajowa nr 65"
+msgid "Linia kolejowa nr 37 Białystok - Zubki Białostockie"
 msgstr ""
 
 # Objects : [r1314696]
@@ -41,6 +41,11 @@ msgstr ""
 # Objects : [r1314769]
 # name:be: []
 msgid "Ремутевцы — Каеневцы — Князевичи"
+msgstr ""
+
+# Objects : [r4631726]
+# name:be: []
+msgid "Старинцы - Жукевичи - Б.Эйсмонты"
 msgstr ""
 
 # Objects : [r4207241]

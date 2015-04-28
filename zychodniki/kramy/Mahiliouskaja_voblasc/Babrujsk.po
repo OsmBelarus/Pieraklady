@@ -38,11 +38,6 @@ msgstr ""
 msgid "ColinS"
 msgstr ""
 
-# Objects : [n3154651952]
-# name:be: []
-msgid "COLINS"
-msgstr ""
-
 # Objects : [n3034083633]
 # name:be: []
 msgid "Forte"
@@ -56,6 +51,11 @@ msgstr ""
 # Objects : [n3154698164]
 # name:be: []
 msgid "Seerge"
+msgstr ""
+
+# Objects : [n3186236344]
+# name:be: []
+msgid "SMOKERS.BY"
 msgstr ""
 
 # Objects : [n3154416071]
@@ -188,12 +188,7 @@ msgstr ""
 msgid "Гарсия"
 msgstr ""
 
-# Objects : [n3154409128]
-# name:be: []
-msgid "Дом обуви и одежды"
-msgstr ""
-
-# Objects : [n1657875156, n1736955470, n2415824294, n2644752920, n3027745883]
+# Objects : [n1736955470, n2415824294, n2644752920, n3027745883]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -273,11 +268,6 @@ msgstr ""
 msgid "Лагуна"
 msgstr ""
 
-# Objects : [n3100319105]
-# name:be: []
-msgid "Лазурит"
-msgstr ""
-
 # Objects : [n3154682900]
 # name:be: []
 msgid "Лента"
@@ -291,11 +281,6 @@ msgstr ""
 # Objects : [n2650584166]
 # name:be: []
 msgid "Магазин "Silverado""
-msgstr ""
-
-# Objects : [n2319575985]
-# name:be: []
-msgid "Магазин "Zet""
 msgstr ""
 
 # Objects : [n3098693643]
@@ -378,6 +363,21 @@ msgstr ""
 msgid "Могилевпечать"
 msgstr ""
 
+# Objects : [n3384007874]
+# name:be: []
+msgid "МогилевСоюзПечать"
+msgstr ""
+
+# Objects : [n3377092252]
+# name:be: []
+msgid "Мотовело"
+msgstr ""
+
+# Objects : [n3377092253]
+# name:be: []
+msgid "Музыкальные инструменты"
+msgstr ""
+
 # Objects : [n3154690758]
 # name:be: []
 msgid "Мясной павильон"
@@ -458,7 +458,7 @@ msgstr ""
 msgid "Ремонт обуви "У Миши""
 msgstr ""
 
-# Objects : [n1657875108, n2650589245, n3100319104, n3112618155, n3154404111]
+# Objects : [n2650589245, n3112618155, n3154404111]
 # name:be: []
 msgid "Родная сторона"
 msgstr ""
@@ -508,19 +508,9 @@ msgstr ""
 msgid "Сток "Чемодан""
 msgstr ""
 
-# Objects : [n3154409332]
-# name:be: []
-msgid "Строительный супермаркет "ПРАКТИК""
-msgstr ""
-
 # Objects : [n2160714568]
 # name:be: []
 msgid "Супермаркет"
-msgstr ""
-
-# Objects : [n3154409369]
-# name:be: []
-msgid "Ткани"
 msgstr ""
 
 # Objects : [n2650698956]
@@ -533,7 +523,7 @@ msgstr ""
 msgid "Торговый центр"
 msgstr ""
 
-# Objects : [n3154416072, n3154416410]
+# Objects : [n3154416072]
 # name:be: []
 msgid "Торговый центр "Купец""
 msgstr ""
@@ -573,19 +563,9 @@ msgstr ""
 msgid "Цветочный магазин"
 msgstr ""
 
-# Objects : [n1852316318, n2622427284]
+# Objects : [n1852316318]
 # name:be: []
 msgid "Цветы"
-msgstr ""
-
-# Objects : [n3154673872]
-# name:be: []
-msgid "Центральный универмаг"
-msgstr ""
-
-# Objects : [n2614509112]
-# name:be: []
-msgid "Цифровик"
 msgstr ""
 
 # Objects : [n3034240934]
@@ -608,7 +588,7 @@ msgstr ""
 msgid "Шалом"
 msgstr ""
 
-# Objects : [n306065396, n306065436, n306066825]
+# Objects : [n306065396, n306065436]
 # name:be: [Шынамантаж]
 msgid "Шиномонтаж"
 msgstr ""

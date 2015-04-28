@@ -28,11 +28,6 @@ msgstr ""
 msgid "Gomel Airport"
 msgstr ""
 
-# Objects : [n412698196]
-# name:be: []
-msgid "Pribytki"
-msgstr ""
-
 # Objects : [w126135290]
 # name:be: [Аўтадром]
 msgid "Автодром"
@@ -68,11 +63,6 @@ msgstr ""
 msgid "Берёзки"
 msgstr ""
 
-# Objects : [n638539122]
-# name:be: [Бальніца]
-msgid "Больница"
-msgstr ""
-
 # Objects : [w38534405]
 # name:be: []
 msgid "Брилевский яблоневый сад"
@@ -91,11 +81,6 @@ msgstr ""
 # Objects : [n2533511924]
 # name:be: []
 msgid "Вечный огонь"
-msgstr ""
-
-# Objects : [w241232121]
-# name:be: []
-msgid "водонапорная башня"
 msgstr ""
 
 # Objects : [w25197614]
@@ -158,9 +143,24 @@ msgstr ""
 msgid "ДЕТСКИЙ САД-НАЧАЛЬНАЯ ШКОЛА"
 msgstr ""
 
+# Objects : [n3390630233]
+# name:be: []
+msgid "Долголесье"
+msgstr ""
+
 # Objects : [w219900534]
 # name:be: []
 msgid "Дом-интернат для ветеранов войны, труда и инвалидов«Васильевка»"
+msgstr ""
+
+# Objects : [n3390679668]
+# name:be: []
+msgid "Дом охотника и рыболова "Михайловск""
+msgstr ""
+
+# Objects : [n3390988547]
+# name:be: []
+msgid "Дом рыбака Ильич"
 msgstr ""
 
 # Objects : [w125679051, w25082141]
@@ -178,7 +178,7 @@ msgstr ""
 msgid "ЖЭУ №29 "Советское""
 msgstr ""
 
-# Objects : [n306068080]
+# Objects : [n306068080, n412698196]
 # name:be: [Зябраўка]
 msgid "Зябровка"
 msgstr ""
@@ -333,6 +333,11 @@ msgstr ""
 msgid "МТФ"
 msgstr ""
 
+# Objects : [w338641007]
+# name:be: []
+msgid "Наливной пукнт "Гомель-3""
+msgstr ""
+
 # Objects : [n1769891366, n306068092]
 # name:be: []
 msgid "Новая Гута-Новые Ярыловичи"
@@ -371,6 +376,16 @@ msgstr ""
 # Objects : [w220260975]
 # name:be: []
 msgid "Пилорама"
+msgstr ""
+
+# Objects : [w275903917]
+# name:be: []
+msgid "ПМС"
+msgstr ""
+
+# Objects : [w338641009]
+# name:be: []
+msgid "Пожарный водоем"
 msgstr ""
 
 # Objects : [w25195847, w326332393]
@@ -418,24 +433,24 @@ msgstr ""
 msgid "Приусадебный парк"
 msgstr ""
 
-# Objects : [w223675081]
-# name:be: []
-msgid "Продуктовый магазин "Ассорти""
-msgstr ""
-
 # Objects : [w185634651]
 # name:be: []
 msgid "Пункт упрощенного пропуска "Поддобрянка""
 msgstr ""
 
-# Objects : [n1359774983]
-# name:be: [Рынак]
-msgid "Рынок"
+# Objects : [w338641011]
+# name:be: []
+msgid "РУП "Белоруснефть-Гомельоблнефтепродукт""
 msgstr ""
 
 # Objects : [n1713049509]
 # name:be: []
 msgid "РЭЦ "Урицкое""
+msgstr ""
+
+# Objects : [w25082279]
+# name:be: []
+msgid "Садовое товарищество Забочь"
 msgstr ""
 
 # Objects : [w297258212]
@@ -513,11 +528,6 @@ msgstr ""
 msgid "Спортивная секция"
 msgstr ""
 
-# Objects : [w50232933]
-# name:be: []
-msgid "Стеклозавод"
-msgstr ""
-
 # Objects : [w159172325]
 # name:be: []
 msgid "Столовая СПК "Урицкое""
@@ -563,34 +573,14 @@ msgstr ""
 msgid "Ферма"
 msgstr ""
 
-# Objects : [w326332387]
-# name:be: []
-msgid "Хранилище сточных вод"
-msgstr ""
-
 # Objects : [w310327170]
 # name:be: [Царква Покрыва Прасвятой Багародзіцы]
 msgid "Церковь Покрова Пресвятой Богородицы"
 msgstr ""
 
-# Objects : [n2788686182]
-# name:be: [Царква Нараджэння Божай Маці]
-msgid "Церковь Рождества Пресвятой Богородицы"
-msgstr ""
-
 # Objects : [n2788686466]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
-msgstr ""
-
-# Objects : [n2788686705]
-# name:be: [Царква Святой пакутніцы Кацярыны]
-msgid "Церковь Святой мученицы Екатерины"
-msgstr ""
-
-# Objects : [n2788687124]
-# name:be: [Царква Успення Прасвятой Багародзіцы]
-msgid "Церковь Успения Пресвятой Богородицы"
 msgstr ""
 
 # Objects : [n2788687475]
@@ -613,8 +603,8 @@ msgstr ""
 msgid "школа"
 msgstr ""
 
-# Objects : [w50234128]
+# Objects : [w202844710]
 # name:be: []
-msgid "Школа №42"
+msgid "Щербовка"
 msgstr ""
 

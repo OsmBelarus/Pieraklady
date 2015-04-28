@@ -1,8 +1,3 @@
-# Objects : [w301619171]
-# name:be: []
-msgid "КЛЯШТОРНОГО"
-msgstr ""
-
 # Objects : [w102186858]
 # name:be: []
 msgid "Ленинградская улица"
@@ -28,11 +23,6 @@ msgstr ""
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w301229085]
-# name:be: []
-msgid "МИРА"
-msgstr ""
-
 # Objects : [w313341417]
 # name:be: []
 msgid "Молодежная улица"
@@ -43,14 +33,14 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w102835038, w282193194]
+# Objects : [w102835038, w255760695, w282193194, w336509771]
 # name:be: []
 msgid "Озёрная улица"
 msgstr ""
 
 # Objects : [w300253901]
 # name:be: []
-msgid "ПАРКОВАЯ"
+msgid "Парковая улица"
 msgstr ""
 
 # Objects : [w199623257, w282016238]
@@ -58,7 +48,7 @@ msgstr ""
 msgid "Полевая улица"
 msgstr ""
 
-# Objects : [w242572845, w242788002, w242788003, w282193195, w297715225]
+# Objects : [w242572845, w242788002, w242788003, w282193195, w297715224, w297715225]
 # name:be: []
 msgid "Садовая улица"
 msgstr ""
@@ -93,6 +83,11 @@ msgstr ""
 msgid "ул. Школьная"
 msgstr ""
 
+# Objects : [w301619171]
+# name:be: []
+msgid "улица Кляшторного"
+msgstr ""
+
 # Objects : [w199623251, w199623259, w199623262, w199623274, w199623275, w242788001]
 # name:be: []
 msgid "улица Козловой"
@@ -103,27 +98,22 @@ msgstr ""
 msgid "улица Лепельская"
 msgstr ""
 
+# Objects : [w301229085]
+# name:be: []
+msgid "улица Мира"
+msgstr ""
+
 # Objects : [w199623256]
 # name:be: []
 msgid "улица Победы"
 msgstr ""
 
-# Objects : [w301231961]
-# name:be: []
-msgid "ЦВЕТОЧНАЯ"
-msgstr ""
-
-# Objects : [w199623272]
+# Objects : [w199623272, w301231961]
 # name:be: []
 msgid "Цветочная улица"
 msgstr ""
 
-# Objects : [w297715224, w297907281]
-# name:be: []
-msgid "ЦЕНТРАЛЬНАЯ"
-msgstr ""
-
-# Objects : [w178853355, w231050634, w25259876, w274445051, w274445054, w297715226, w297715227, w297715228, w297715229, w309731090]
+# Objects : [w178853355, w231050634, w25259876, w274445054, w297715226, w297715227, w297715229, w309731090]
 # name:be: []
 msgid "Центральная улица"
 msgstr ""

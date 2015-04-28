@@ -3,12 +3,7 @@
 msgid "Еда + Разное"
 msgstr ""
 
-# Objects : [n2926317794]
-# name:be: []
-msgid "магаз"
-msgstr ""
-
-# Objects : [n2084589392]
+# Objects : [n2084589392, n3464021230]
 # name:be: []
 msgid "Магазин"
 msgstr ""

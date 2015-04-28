@@ -83,6 +83,11 @@ msgstr ""
 msgid "Библиотека: интернет-кафе,Wi-Fi"
 msgstr ""
 
+# Objects : [n1359823263]
+# name:be: []
+msgid "Бистро"
+msgstr ""
+
 # Objects : [n2589590762]
 # name:be: []
 msgid "Бургер-фреш"
@@ -136,11 +141,6 @@ msgstr ""
 # Objects : [n1343518016]
 # name:be: []
 msgid "Кафетерий"
-msgstr ""
-
-# Objects : [n1546524550]
-# name:be: []
-msgid "Кебаб Хаус"
 msgstr ""
 
 # Objects : [n1343518052]
@@ -221,11 +221,6 @@ msgstr ""
 # Objects : [n621251815]
 # name:be: []
 msgid "Ресторан"
-msgstr ""
-
-# Objects : [n1334729581]
-# name:be: []
-msgid "Ресторан Плаза"
 msgstr ""
 
 # Objects : [n782101428]

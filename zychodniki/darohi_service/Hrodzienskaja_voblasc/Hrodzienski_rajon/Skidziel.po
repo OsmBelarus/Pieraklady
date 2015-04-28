@@ -1,5 +1,35 @@
+# Objects : [w277929000]
+# name:be: []
+msgid "переулок Восточный"
+msgstr ""
+
+# Objects : [w277929005]
+# name:be: []
+msgid "улица Будёного"
+msgstr ""
+
+# Objects : [w277929010]
+# name:be: []
+msgid "улица Гаккеля"
+msgstr ""
+
 # Objects : [w199494858]
 # name:be: [вуліца Міцкевіча]
 msgid "улица Мицкевича"
+msgstr ""
+
+# Objects : [w277929002]
+# name:be: []
+msgid "улица Терешковая"
+msgstr ""
+
+# Objects : [w277929007]
+# name:be: []
+msgid "улица Титова"
+msgstr ""
+
+# Objects : [w277928998]
+# name:be: []
+msgid "улица Чичковая"
 msgstr ""
 

@@ -1,11 +1,11 @@
-# Objects : [n306068915]
-# name:be: [Бабрэчча]
-msgid "Бобречье"
-msgstr ""
-
 # Objects : [n306068802]
 # name:be: [Бобрык]
 msgid "Бобрич"
+msgstr ""
+
+# Objects : [n306068915]
+# name:be: [Баррэчча]
+msgid "Борречье"
 msgstr ""
 
 # Objects : [n306068799]

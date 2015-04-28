@@ -1,4 +1,4 @@
-# Objects : [w25718001]
+# Objects : [w25718001, w329794391, w329794392]
 # name:be: [Віленская вуліца]
 msgid "Виленская улица"
 msgstr ""
@@ -33,9 +33,19 @@ msgstr ""
 msgid "Минская улица"
 msgstr ""
 
+# Objects : [w25718000]
+# name:be: [Набярэжная вуліца]
+msgid "Набережная улица"
+msgstr ""
+
 # Objects : [w25717955]
 # name:be: [завулак Раманава]
 msgid "переулок Романова"
+msgstr ""
+
+# Objects : [w25717985]
+# name:be: [плошча Гастэлы]
+msgid "площадь Гастелло"
 msgstr ""
 
 # Objects : [w287670763]
@@ -43,7 +53,7 @@ msgstr ""
 msgid "Полевая улица"
 msgstr ""
 
-# Objects : [w37190420]
+# Objects : [w25717980]
 # name:be: [Полацкая вуліца]
 msgid "Полоцкая улица"
 msgstr ""
@@ -56,6 +66,11 @@ msgstr ""
 # Objects : [w37190434]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
+msgstr ""
+
+# Objects : [w98351101]
+# name:be: [вуліца 3 Ліпеня]
+msgid "улица 3 Июля"
 msgstr ""
 
 # Objects : [w245521920]
@@ -76,6 +91,11 @@ msgstr ""
 # Objects : [w238889621, w301105837, w41362304]
 # name:be: [вуліца Калініна]
 msgid "улица Калинина"
+msgstr ""
+
+# Objects : [w25718005]
+# name:be: [вуліца Купалы]
+msgid "улица Купалы"
 msgstr ""
 
 # Objects : [w238889628]
@@ -103,7 +123,7 @@ msgstr ""
 msgid "улица Тарашкевича"
 msgstr ""
 
-# Objects : [w25718004]
+# Objects : [w329794678]
 # name:be: [вуліца Чарнышэвіча]
 msgid "улица Чернышевича"
 msgstr ""

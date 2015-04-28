@@ -98,19 +98,9 @@ msgstr ""
 msgid "Курганный могильник дреговичей, 11 век"
 msgstr ""
 
-# Objects : [n242986225, w25143635]
-# name:be: [Лібярполь]
-msgid "Либерполь"
-msgstr ""
-
 # Objects : [n2788682526]
 # name:be: [Мемарыяльная калона]
 msgid "Мемориальная колонна"
-msgstr ""
-
-# Objects : [n242987238, w25142120]
-# name:be: [Мікіцічы]
-msgid "Микитичи"
 msgstr ""
 
 # Objects : [w327112948]
@@ -126,6 +116,11 @@ msgstr ""
 # Objects : [n3074575293]
 # name:be: []
 msgid "Мост царской дороги"
+msgstr ""
+
+# Objects : [n242987238, w25142120]
+# name:be: [Nікіцічы]
+msgid "Никитичи"
 msgstr ""
 
 # Objects : [n306062237]
@@ -156,11 +151,6 @@ msgstr ""
 # Objects : [n242981187, w25146036]
 # name:be: [Перарова]
 msgid "Перерово"
-msgstr ""
-
-# Objects : [n2808800186]
-# name:be: [Палінова]
-msgid "Полиново"
 msgstr ""
 
 # Objects : [n2788683962]
@@ -314,8 +304,8 @@ msgid "Щерчево"
 msgstr ""
 
 # Objects : [n242982591, w25145426]
-# name:be: [Янаўшчына]
-msgid "Яновщина"
+# name:be: [Янаўшчызна]
+msgid "Яновщизна"
 msgstr ""
 
 # Objects : [n2808822775, w276258365]

@@ -1,5 +1,5 @@
 # Objects : [w173552734]
-# name:be: []
+# name:be: [Гродзенская вуліца]
 msgid "Гродненская улица"
 msgstr ""
 
@@ -14,7 +14,7 @@ msgid "Зелёная улица"
 msgstr ""
 
 # Objects : [w193131910]
-# name:be: []
+# name:be: [Калгасная вуліца]
 msgid "Колхозная улица"
 msgstr ""
 
@@ -24,12 +24,12 @@ msgid "Красноармейская улица"
 msgstr ""
 
 # Objects : [w193131929]
-# name:be: []
+# name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
 
 # Objects : [w193131925]
-# name:be: []
+# name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"
 msgstr ""
 
@@ -54,12 +54,12 @@ msgid "Пионерский переулок"
 msgstr ""
 
 # Objects : [w120209926]
-# name:be: []
+# name:be: [Палявая вуліца]
 msgid "Полевая улица"
 msgstr ""
 
 # Objects : [w136324848]
-# name:be: []
+# name:be: [Рабочая вуліца]
 msgid "Рабочая улица"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgid "улица 8 Марта"
 msgstr ""
 
 # Objects : [w193131917]
-# name:be: []
+# name:be: [вуліца Волкава]
 msgid "улица Волкова"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgid "улица Комарова"
 msgstr ""
 
 # Objects : [w324986338]
-# name:be: []
+# name:be: [вуліца Міру]
 msgid "улица Мира"
 msgstr ""
 
@@ -134,17 +134,17 @@ msgid "улица Слатвинского"
 msgstr ""
 
 # Objects : [w132203968]
-# name:be: []
+# name:be: [вуліца Станкевіча]
 msgid "улица Станкевича"
 msgstr ""
 
 # Objects : [w193131916]
-# name:be: []
+# name:be: [вуліца Церашковай]
 msgid "улица Терешковой"
 msgstr ""
 
 # Objects : [w325992114]
-# name:be: []
+# name:be: [вуліца Энгельса]
 msgid "улица Энгельса"
 msgstr ""
 

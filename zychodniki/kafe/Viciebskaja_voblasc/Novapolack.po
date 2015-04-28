@@ -1,3 +1,8 @@
+# Objects : [n3402614375]
+# name:be: []
+msgid "Grenadin"
+msgstr ""
+
 # Objects : [n502652138]
 # name:be: [Plaza Вернісаж]
 msgid "Plaza Вернисаж"
@@ -23,6 +28,11 @@ msgstr ""
 msgid "Бирхаус"
 msgstr ""
 
+# Objects : [n2481576367]
+# name:be: []
+msgid "Бистро"
+msgstr ""
+
 # Objects : [n1218140255]
 # name:be: [Бульбяная]
 msgid "Бульбяная"
@@ -33,7 +43,7 @@ msgstr ""
 msgid "ВерасОк"
 msgstr ""
 
-# Objects : [n306067151]
+# Objects : [n2326830864, n306067151]
 # name:be: [Верасы]
 msgid "Верасы"
 msgstr ""
@@ -58,9 +68,19 @@ msgstr ""
 msgid "Золотая Бочка"
 msgstr ""
 
+# Objects : [n3402614377]
+# name:be: []
+msgid "Кафетерий"
+msgstr ""
+
 # Objects : [n2609456582]
 # name:be: []
 msgid "Лилея"
+msgstr ""
+
+# Objects : [n3355014227]
+# name:be: []
+msgid "Мультяшка"
 msgstr ""
 
 # Objects : [n1082599158]
@@ -93,8 +113,23 @@ msgstr ""
 msgid "Рюмочная "Бульбяная""
 msgstr ""
 
-# Objects : [n2481576308, n2782821510]
+# Objects : [n2782821510]
 # name:be: []
 msgid "Столовая"
+msgstr ""
+
+# Objects : [n3402614378]
+# name:be: []
+msgid "Столовая №1"
+msgstr ""
+
+# Objects : [n2481576308]
+# name:be: []
+msgid "Столовая №2"
+msgstr ""
+
+# Objects : [n2324053252]
+# name:be: []
+msgid "Таверна"
 msgstr ""
 

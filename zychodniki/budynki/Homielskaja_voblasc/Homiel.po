@@ -3,7 +3,7 @@
 msgid ""кафе "Сели& съели"
 msgstr ""
 
-# Objects : [w183768043, w183768050, w306080912, w306080913, w306831331, w310337845, w310469619]
+# Objects : [w306080912, w306080913, w306831331, w330032671]
 # name:be: []
 msgid "1"
 msgstr ""
@@ -18,7 +18,7 @@ msgstr ""
 msgid "1 (уч.№ 353)"
 msgstr ""
 
-# Objects : [w306080914, w306080915, w307103613, w310194474]
+# Objects : [w306080914, w306080915, w307103613]
 # name:be: []
 msgid "10"
 msgstr ""
@@ -43,7 +43,7 @@ msgstr ""
 msgid "109"
 msgstr ""
 
-# Objects : [w172471674, w306080916, w306080917, w307008013, w307107973, w326344596]
+# Objects : [w306080916, w306080917, w307008013, w326344596]
 # name:be: []
 msgid "11"
 msgstr ""
@@ -58,7 +58,7 @@ msgstr ""
 msgid "11А"
 msgstr ""
 
-# Objects : [w306080919, w306080920, w307006690, w310218933]
+# Objects : [w306080919, w306080920, w307006690]
 # name:be: []
 msgid "12"
 msgstr ""
@@ -68,7 +68,7 @@ msgstr ""
 msgid "127"
 msgstr ""
 
-# Objects : [w306080921, w306080922, w310336864]
+# Objects : [w306080921, w306080922]
 # name:be: []
 msgid "13"
 msgstr ""
@@ -98,7 +98,7 @@ msgstr ""
 msgid "134"
 msgstr ""
 
-# Objects : [w306080923, w310336833, w312881789]
+# Objects : [w306080923]
 # name:be: []
 msgid "14"
 msgstr ""
@@ -128,7 +128,7 @@ msgstr ""
 msgid "15a"
 msgstr ""
 
-# Objects : [w306080926, w310222904]
+# Objects : [w306080926]
 # name:be: []
 msgid "16"
 msgstr ""
@@ -158,7 +158,7 @@ msgstr ""
 msgid "168А"
 msgstr ""
 
-# Objects : [w306080927, w310336855]
+# Objects : [w306080927]
 # name:be: []
 msgid "17"
 msgstr ""
@@ -193,7 +193,7 @@ msgstr ""
 msgid "18А"
 msgstr ""
 
-# Objects : [w306080930, w310336849]
+# Objects : [w306080930]
 # name:be: []
 msgid "19"
 msgstr ""
@@ -218,7 +218,7 @@ msgstr ""
 msgid "1-й Троллейбус г.Гомеля"
 msgstr ""
 
-# Objects : [w306080924, w306080934, w306478557, w310203771, w310207033, w310209449]
+# Objects : [w306080924, w306080934, w306478557]
 # name:be: []
 msgid "2"
 msgstr ""
@@ -233,7 +233,7 @@ msgstr ""
 msgid "2 (уч. №58)"
 msgstr ""
 
-# Objects : [w306080935, w310222917]
+# Objects : [w306080935]
 # name:be: []
 msgid "20"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 msgid "20 (уч.№ 332)"
 msgstr ""
 
-# Objects : [w289325149, w306080940, w310336834]
+# Objects : [w289325149, w306080940]
 # name:be: []
 msgid "21"
 msgstr ""
@@ -258,7 +258,7 @@ msgstr ""
 msgid "218"
 msgstr ""
 
-# Objects : [w306080936, w306795167]
+# Objects : [w306080936]
 # name:be: []
 msgid "22"
 msgstr ""
@@ -293,7 +293,7 @@ msgstr ""
 msgid "22Б"
 msgstr ""
 
-# Objects : [w306080939, w310347951]
+# Objects : [w306080939]
 # name:be: []
 msgid "23"
 msgstr ""
@@ -398,7 +398,7 @@ msgstr ""
 msgid "24А"
 msgstr ""
 
-# Objects : [w306080944, w313357362, w324650176]
+# Objects : [w306080944, w324650176]
 # name:be: []
 msgid "25"
 msgstr ""
@@ -408,17 +408,12 @@ msgstr ""
 msgid "26"
 msgstr ""
 
-# Objects : [w310336846]
-# name:be: []
-msgid "26(уч. №429)"
-msgstr ""
-
 # Objects : [w306080947]
 # name:be: []
 msgid "26А"
 msgstr ""
 
-# Objects : [w306080948, w310321915]
+# Objects : [w306080948]
 # name:be: []
 msgid "27"
 msgstr ""
@@ -443,9 +438,19 @@ msgstr ""
 msgid "27А"
 msgstr ""
 
+# Objects : [w248421572]
+# name:be: []
+msgid "27 а"
+msgstr ""
+
 # Objects : [w306080949]
 # name:be: []
 msgid "28"
+msgstr ""
+
+# Objects : [w309183693]
+# name:be: []
+msgid "28 (уч.№ 161)"
 msgstr ""
 
 # Objects : [w309183723]
@@ -473,9 +478,9 @@ msgstr ""
 msgid "2А"
 msgstr ""
 
-# Objects : [w310222894]
+# Objects : [w147509441]
 # name:be: []
-msgid "2Г"
+msgid "2 Гуся"
 msgstr ""
 
 # Objects : [w287686929]
@@ -483,7 +488,7 @@ msgstr ""
 msgid "2К"
 msgstr ""
 
-# Objects : [w306080953, w306080954, w310205646]
+# Objects : [w306080953, w306080954]
 # name:be: []
 msgid "3"
 msgstr ""
@@ -493,7 +498,7 @@ msgstr ""
 msgid "3 (уч.№ 168)"
 msgstr ""
 
-# Objects : [w306080955, w310469620]
+# Objects : [w306080955]
 # name:be: []
 msgid "30"
 msgstr ""
@@ -548,12 +553,7 @@ msgstr ""
 msgid "33А"
 msgstr ""
 
-# Objects : [w310211622]
-# name:be: []
-msgid "34"
-msgstr ""
-
-# Objects : [w306080960]
+# Objects : [w306080960, w338609561]
 # name:be: []
 msgid "35"
 msgstr ""
@@ -561,6 +561,11 @@ msgstr ""
 # Objects : [w324650179]
 # name:be: []
 msgid "35-37"
+msgstr ""
+
+# Objects : [w338609805]
+# name:be: []
+msgid "36"
 msgstr ""
 
 # Objects : [w306080961]
@@ -573,7 +578,7 @@ msgstr ""
 msgid "37а"
 msgstr ""
 
-# Objects : [w306080962, w310195150]
+# Objects : [w306080962]
 # name:be: []
 msgid "38"
 msgstr ""
@@ -588,12 +593,7 @@ msgstr ""
 msgid "39-41"
 msgstr ""
 
-# Objects : [w147509441]
-# name:be: []
-msgid "3 Гуся"
-msgstr ""
-
-# Objects : [w183768054, w306080964, w306080965, w310209450]
+# Objects : [w287467600, w306080964, w306080965]
 # name:be: []
 msgid "4"
 msgstr ""
@@ -688,12 +688,7 @@ msgstr ""
 msgid "4А"
 msgstr ""
 
-# Objects : [w248964626]
-# name:be: []
-msgid "4-я Техническая улица"
-msgstr ""
-
-# Objects : [w183768044, w306080973, w306080974, w310209642, w310222872]
+# Objects : [w306080973, w306080974]
 # name:be: []
 msgid "5"
 msgstr ""
@@ -706,16 +701,6 @@ msgstr ""
 # Objects : [w306080975]
 # name:be: []
 msgid "50"
-msgstr ""
-
-# Objects : [w310220430]
-# name:be: []
-msgid "50А"
-msgstr ""
-
-# Objects : [w310220416]
-# name:be: []
-msgid "50Б"
 msgstr ""
 
 # Objects : [w306080976]
@@ -738,17 +723,12 @@ msgstr ""
 msgid "53"
 msgstr ""
 
-# Objects : [w306080979, w310220432]
+# Objects : [w306080979]
 # name:be: []
 msgid "54"
 msgstr ""
 
-# Objects : [w320480145]
-# name:be: []
-msgid "55А"
-msgstr ""
-
-# Objects : [w183768048, w306080980, w306080981, w306478558, w310222891]
+# Objects : [w306080980, w306080981, w306478558]
 # name:be: []
 msgid "6"
 msgstr ""
@@ -798,7 +778,7 @@ msgstr ""
 msgid "69"
 msgstr ""
 
-# Objects : [w183394346, w183768056, w306080982, w307006698, w310218934, w310222867]
+# Objects : [w183394346, w306080982, w307006698]
 # name:be: []
 msgid "7"
 msgstr ""
@@ -823,12 +803,7 @@ msgstr ""
 msgid "77"
 msgstr ""
 
-# Objects : [w183768047]
-# name:be: []
-msgid "79"
-msgstr ""
-
-# Objects : [w183768051, w306080983, w306080984, w306478559, w310194475]
+# Objects : [w306080983, w306080984, w306478559]
 # name:be: []
 msgid "8"
 msgstr ""
@@ -858,22 +833,7 @@ msgstr ""
 msgid "8 (№ 286)"
 msgstr ""
 
-# Objects : [w310222909]
-# name:be: []
-msgid "83"
-msgstr ""
-
-# Objects : [w172471675]
-# name:be: []
-msgid "85"
-msgstr ""
-
-# Objects : [w310204863]
-# name:be: []
-msgid "8А"
-msgstr ""
-
-# Objects : [w172471673, w183029285, w306080985, w306080986, w307006699, w310206056, w310220792]
+# Objects : [w183029285, w306080985, w306080986, w307006699]
 # name:be: []
 msgid "9"
 msgstr ""
@@ -896,6 +856,11 @@ msgstr ""
 # Objects : [w309371673]
 # name:be: []
 msgid "9(уч.№ 388)"
+msgstr ""
+
+# Objects : [w335713486]
+# name:be: []
+msgid "94 кв.2"
 msgstr ""
 
 # Objects : [w306080987]
@@ -938,6 +903,11 @@ msgstr ""
 msgid "Автосервис"
 msgstr ""
 
+# Objects : [w244016174]
+# name:be: []
+msgid "Администрация Советского р-на"
+msgstr ""
+
 # Objects : [w281766514]
 # name:be: []
 msgid "АЗС"
@@ -956,6 +926,11 @@ msgstr ""
 # Objects : [w180298636]
 # name:be: []
 msgid "Алми"
+msgstr ""
+
+# Objects : [w64742646]
+# name:be: []
+msgid "Аптека №29 ООО Искамед"
 msgstr ""
 
 # Objects : [w136434084]
@@ -1008,7 +983,7 @@ msgstr ""
 msgid "Белгосстрах"
 msgstr ""
 
-# Objects : [r2322499, w272996586]
+# Objects : [r2322499]
 # name:be: [Белтэлекам]
 msgid "Белтелеком"
 msgstr ""
@@ -1038,14 +1013,34 @@ msgstr ""
 msgid "БТЭУ ПК"
 msgstr ""
 
+# Objects : [w242185392]
+# name:be: []
+msgid "Быховский"
+msgstr ""
+
 # Objects : [w107286618]
 # name:be: [Веста]
 msgid "Веста"
 msgstr ""
 
+# Objects : [w95062011]
+# name:be: []
+msgid "Ветеринарная Станция"
+msgstr ""
+
 # Objects : [w281552205]
 # name:be: []
 msgid "Ветклиника "Волгоградская""
+msgstr ""
+
+# Objects : [w126135291]
+# name:be: []
+msgid "Виталина"
+msgstr ""
+
+# Objects : [w238659150, w253776921]
+# name:be: []
+msgid "Водолей"
 msgstr ""
 
 # Objects : [w179862421]
@@ -1061,6 +1056,11 @@ msgstr ""
 # Objects : [w46687257]
 # name:be: []
 msgid "ГАИ УВД Гомельского облисполкома"
+msgstr ""
+
+# Objects : [w238659135]
+# name:be: []
+msgid "Гаражи"
 msgstr ""
 
 # Objects : [w44534233]
@@ -1113,6 +1113,11 @@ msgstr ""
 msgid "Гомельавтотранс"
 msgstr ""
 
+# Objects : [w338642200]
+# name:be: []
+msgid "Гомельгорсвет"
+msgstr ""
+
 # Objects : [w102146248]
 # name:be: []
 msgid "Гомельгражданпроект"
@@ -1138,6 +1143,11 @@ msgstr ""
 msgid "Гомельские электрические сети администрация"
 msgstr ""
 
+# Objects : [w246268364]
+# name:be: []
+msgid "Гомельский"
+msgstr ""
+
 # Objects : [w64742585]
 # name:be: []
 msgid "Гомельский водоканал"
@@ -1153,6 +1163,11 @@ msgstr ""
 msgid "Гомельский государственный машиностроительный колледж"
 msgstr ""
 
+# Objects : [w333479085]
+# name:be: []
+msgid "Гомельский Комбинат Хлебопродуктов"
+msgstr ""
+
 # Objects : [w89807468]
 # name:be: []
 msgid "Гомельский музей военной славы"
@@ -1161,6 +1176,11 @@ msgstr ""
 # Objects : [w254647354]
 # name:be: []
 msgid "Гомельский областной наркологический диспансер"
+msgstr ""
+
+# Objects : [w64742603]
+# name:be: []
+msgid "Гомельский Торгово-Экономический Колледж"
 msgstr ""
 
 # Objects : [w86100645]
@@ -1193,11 +1213,6 @@ msgstr ""
 msgid "Городская больница №3"
 msgstr ""
 
-# Objects : [w158839879]
-# name:be: []
-msgid "Городское отделение связи №37"
-msgstr ""
-
 # Objects : [w91029092]
 # name:be: []
 msgid "Городской центр гигиены и эпидемиологии"
@@ -1228,6 +1243,11 @@ msgstr ""
 msgid "ГРП"
 msgstr ""
 
+# Objects : [w128935099]
+# name:be: []
+msgid "ГРС-3"
+msgstr ""
+
 # Objects : [w39949078]
 # name:be: []
 msgid "ГСКБ Гомсельмаш"
@@ -1253,9 +1273,9 @@ msgstr ""
 msgid "Дворец культуры завода Гомсельмаш"
 msgstr ""
 
-# Objects : [w246268030]
+# Objects : [w209333093]
 # name:be: []
-msgid "Дет.сад"
+msgid "Дежурная аптека"
 msgstr ""
 
 # Objects : [w240496046]
@@ -1266,6 +1286,11 @@ msgstr ""
 # Objects : [w151147739, w241067092]
 # name:be: []
 msgid "Детский сад"
+msgstr ""
+
+# Objects : [w242185390]
+# name:be: []
+msgid "Детско-юношеская школа олимп. резерва № 9 по вольной борьбе и баскетболу"
 msgstr ""
 
 # Objects : [n1343538392]
@@ -1333,7 +1358,7 @@ msgstr ""
 msgid "Драмтеатр"
 msgstr ""
 
-# Objects : [w117768472, w183944925, w287687810, w316563046]
+# Objects : [w117768472, w121648631, w183944925, w287687810, w316563046, w45983985]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -1341,11 +1366,6 @@ msgstr ""
 # Objects : [w129784626]
 # name:be: [Еўрасетка]
 msgid "Евросеть"
-msgstr ""
-
-# Objects : [w233231626]
-# name:be: []
-msgid "ж/д Станция "Центролит""
 msgstr ""
 
 # Objects : [w261889342]
@@ -1413,9 +1433,19 @@ msgstr ""
 msgid "Катрин"
 msgstr ""
 
+# Objects : [w327722132]
+# name:be: []
+msgid "Кафе"
+msgstr ""
+
 # Objects : [w64742604]
 # name:be: []
 msgid "КГБ"
+msgstr ""
+
+# Objects : [w332014867]
+# name:be: []
+msgid "Керамин"
 msgstr ""
 
 # Objects : [w129784629]
@@ -1426,6 +1456,11 @@ msgstr ""
 # Objects : [w87544361]
 # name:be: []
 msgid "КЖРЭУП Сельмашевское"
+msgstr ""
+
+# Objects : [w335713485]
+# name:be: []
+msgid "кн"
 msgstr ""
 
 # Objects : [w120124576, w121273226]
@@ -1441,6 +1476,11 @@ msgstr ""
 # Objects : [w104786331]
 # name:be: []
 msgid "корпус № 2 Гомельского государственного медицинского колледжа"
+msgstr ""
+
+# Objects : [w125679052]
+# name:be: []
+msgid "Костюковка"
 msgstr ""
 
 # Objects : [w121819335]
@@ -1473,7 +1513,7 @@ msgstr ""
 msgid "Любава"
 msgstr ""
 
-# Objects : [w245781426, w245931934, w246268531, w287253698, w321982606]
+# Objects : [w245781426, w245931934, w287253698, w321982606]
 # name:be: []
 msgid "магазин"
 msgstr ""
@@ -1753,6 +1793,11 @@ msgstr ""
 msgid "Офис с магазином"
 msgstr ""
 
+# Objects : [w253564515, w253564516]
+# name:be: []
+msgid "очистные сооружения"
+msgstr ""
+
 # Objects : [w311076740]
 # name:be: []
 msgid "п.60"
@@ -1798,7 +1843,7 @@ msgstr ""
 msgid "Пожарная часть № 2"
 msgstr ""
 
-# Objects : [w316334546]
+# Objects : [w316334546, w338615231]
 # name:be: []
 msgid "поз.2"
 msgstr ""
@@ -1813,7 +1858,7 @@ msgstr ""
 msgid "поз. №34"
 msgstr ""
 
-# Objects : [w173933455, w64719151]
+# Objects : [w173933455, w248443396, w64719151]
 # name:be: []
 msgid "Поликлиника"
 msgstr ""
@@ -1833,6 +1878,11 @@ msgstr ""
 msgid "Поликлиника №10"
 msgstr ""
 
+# Objects : [w49260179]
+# name:be: []
+msgid "Поликлиника № 5"
+msgstr ""
+
 # Objects : [w244009177]
 # name:be: []
 msgid "поликлиника № 9"
@@ -1846,6 +1896,11 @@ msgstr ""
 # Objects : [w121648632]
 # name:be: []
 msgid "Провинция"
+msgstr ""
+
+# Objects : [w125679053]
+# name:be: []
+msgid "Продтовары"
 msgstr ""
 
 # Objects : [w261889340]
@@ -1878,9 +1933,24 @@ msgstr ""
 msgid "Прохлада"
 msgstr ""
 
+# Objects : [w330629239]
+# name:be: []
+msgid "Проходная"
+msgstr ""
+
 # Objects : [w166624869]
 # name:be: []
 msgid "Пряник"
+msgstr ""
+
+# Objects : [w246268531]
+# name:be: []
+msgid "Птица"
+msgstr ""
+
+# Objects : [w64719174]
+# name:be: []
+msgid "ПУ Связьинформсервис"
 msgstr ""
 
 # Objects : [w124154948]
@@ -1898,14 +1968,19 @@ msgstr ""
 msgid "Родная сторона"
 msgstr ""
 
+# Objects : [w38538303]
+# name:be: []
+msgid "Рублёвсий"
+msgstr ""
+
 # Objects : [w121273234]
 # name:be: []
 msgid "РУП "Гомельэнерго""
 msgstr ""
 
-# Objects : [w49131520]
+# Objects : [w336321160]
 # name:be: []
-msgid "РУП "Строительный трест № 14""
+msgid "Рыбный павильён"
 msgstr ""
 
 # Objects : [w168539530]
@@ -1953,9 +2028,9 @@ msgstr ""
 msgid "СМУ-117"
 msgstr ""
 
-# Objects : [w65086225]
+# Objects : [w238659115]
 # name:be: []
-msgid "СОШ № 3"
+msgid "Спальный корпус (д.1)"
 msgstr ""
 
 # Objects : [w136430821]
@@ -1978,9 +2053,19 @@ msgstr ""
 msgid "Столовая"
 msgstr ""
 
+# Objects : [w238659083]
+# name:be: []
+msgid "Столовая (д.1)"
+msgstr ""
+
 # Objects : [w295051656]
 # name:be: []
 msgid "Строительный техникум"
+msgstr ""
+
+# Objects : [w232921601]
+# name:be: []
+msgid "Строймаркет"
 msgstr ""
 
 # Objects : [w44534229]
@@ -2038,7 +2123,7 @@ msgstr ""
 msgid "ТК "Нирэя""
 msgstr ""
 
-# Objects : [w311096205]
+# Objects : [w311096205, w331480583, w338609560]
 # name:be: []
 msgid "ТП"
 msgstr ""
@@ -2051,6 +2136,11 @@ msgstr ""
 # Objects : [w38527081]
 # name:be: []
 msgid "Турист"
+msgstr ""
+
+# Objects : [w336321161]
+# name:be: []
+msgid "ТЦ "Виктория""
 msgstr ""
 
 # Objects : [w64742631]
@@ -2106,6 +2196,11 @@ msgstr ""
 # Objects : [w49131463]
 # name:be: []
 msgid "Универмаг "Гомель""
+msgstr ""
+
+# Objects : [w64742557]
+# name:be: []
+msgid "универсам Северный"
 msgstr ""
 
 # Objects : [w136531382]
@@ -2483,11 +2578,6 @@ msgstr ""
 msgid "уч.№ 160"
 msgstr ""
 
-# Objects : [w309183693]
-# name:be: []
-msgid "уч.№ 161"
-msgstr ""
-
 # Objects : [w309366915]
 # name:be: []
 msgid "уч.№ 163"
@@ -2646,11 +2736,6 @@ msgstr ""
 # Objects : [w309366934]
 # name:be: []
 msgid "уч.№ 196"
-msgstr ""
-
-# Objects : [w310329644]
-# name:be: []
-msgid "уч. №196"
 msgstr ""
 
 # Objects : [w309366935]
@@ -3156,11 +3241,6 @@ msgstr ""
 # Objects : [w309215957]
 # name:be: []
 msgid "уч.№ 296"
-msgstr ""
-
-# Objects : [w309215958]
-# name:be: []
-msgid "уч.№ 297"
 msgstr ""
 
 # Objects : [w309215959]
@@ -4268,6 +4348,11 @@ msgstr ""
 msgid "уч. №99"
 msgstr ""
 
+# Objects : [w332492959]
+# name:be: []
+msgid "уч23"
+msgstr ""
+
 # Objects : [w260974687]
 # name:be: []
 msgid "Участок электронного оборудования"
@@ -4318,6 +4403,11 @@ msgstr ""
 msgid "участок № 69"
 msgstr ""
 
+# Objects : [w238659173]
+# name:be: []
+msgid "Учебный корпус (д.1)"
+msgstr ""
+
 # Objects : [w121811701]
 # name:be: [Вучэбны цэнтр]
 msgid "Учебный центр"
@@ -4326,11 +4416,6 @@ msgstr ""
 # Objects : [w121273221]
 # name:be: []
 msgid "Учебный центр ГЭ"
-msgstr ""
-
-# Objects : [w310203770]
-# name:be: []
-msgid "учч. №90"
 msgstr ""
 
 # Objects : [w49131464]
@@ -4363,11 +4448,6 @@ msgstr ""
 msgid "Хладокомбинат"
 msgstr ""
 
-# Objects : [w93183852]
-# name:be: []
-msgid "Художественное училище"
-msgstr ""
-
 # Objects : [w289030077]
 # name:be: []
 msgid "Цветы"
@@ -4376,6 +4456,11 @@ msgstr ""
 # Objects : [w136861655]
 # name:be: []
 msgid "Центральный почтамт"
+msgstr ""
+
+# Objects : [w233231626]
+# name:be: []
+msgid "Центролит"
 msgstr ""
 
 # Objects : [w94692857]
@@ -4393,9 +4478,14 @@ msgstr ""
 msgid "Цирк"
 msgstr ""
 
-# Objects : [w270539198, w283067535, w283320905]
+# Objects : [w270539198, w283067535, w283320905, w289853339, w304650883, w309175588, w315262940, w326040760, w326528150]
 # name:be: []
 msgid "ЦТП"
+msgstr ""
+
+# Objects : [w301910872]
+# name:be: []
+msgid "ЦТП-30"
 msgstr ""
 
 # Objects : [w247610142]
@@ -4408,12 +4498,22 @@ msgstr ""
 msgid "Черноморский"
 msgstr ""
 
+# Objects : [w248994975]
+# name:be: []
+msgid "Шиномонтаж Кредо"
+msgstr ""
+
+# Objects : [w335866593]
+# name:be: []
+msgid "школа"
+msgstr ""
+
 # Objects : [w265425013]
 # name:be: []
 msgid "Школа машинистов"
 msgstr ""
 
-# Objects : [w247191837]
+# Objects : [w247191837, w248214829]
 # name:be: []
 msgid "ШРП"
 msgstr ""
@@ -4421,11 +4521,6 @@ msgstr ""
 # Objects : [w243123637]
 # name:be: []
 msgid "ШРП № 97"
-msgstr ""
-
-# Objects : [w111680427]
-# name:be: []
-msgid "Энергосбыт"
 msgstr ""
 
 # Objects : [w136655025]
@@ -4436,6 +4531,11 @@ msgstr ""
 # Objects : [w131321626]
 # name:be: []
 msgid "Ясли-сад - №74 "Капелька""
+msgstr ""
+
+# Objects : [w309215958]
+# name:be: []
+msgid "№1(уч.№ 297)"
 msgstr ""
 
 # Objects : [w306831288]

@@ -18,6 +18,11 @@ msgstr ""
 msgid "АЗС №47 Белоруснефть - Белнефтехим"
 msgstr ""
 
+# Objects : [n2332137888]
+# name:be: []
+msgid "Амбулатория"
+msgstr ""
+
 # Objects : [n1597353622]
 # name:be: [Атэлье «Абцасік»]
 msgid "ателье "Каблучок""
@@ -43,9 +48,19 @@ msgstr ""
 msgid "Бар "Нафтан""
 msgstr ""
 
+# Objects : [n119298101]
+# name:be: [Баравуха]
+msgid "Баравуха"
+msgstr ""
+
 # Objects : [n1900605331]
 # name:be: []
 msgid "Бар-ресторан "Лагуна""
+msgstr ""
+
+# Objects : [w254262719]
+# name:be: []
+msgid "Бездонка"
 msgstr ""
 
 # Objects : [n2467291329]
@@ -58,6 +73,11 @@ msgstr ""
 msgid "Белсплат ОАО"
 msgstr ""
 
+# Objects : [w311499059]
+# name:be: []
+msgid "Биатлонное стрельбище"
+msgstr ""
+
 # Objects : [w166029637]
 # name:be: [Імя Маякоўскага]
 msgid "библиотека им. Маяковского"
@@ -66,6 +86,11 @@ msgstr ""
 # Objects : [n1686944353]
 # name:be: [Більярд]
 msgid "Бильярд"
+msgstr ""
+
+# Objects : [n2536122239]
+# name:be: []
+msgid "Боровуха"
 msgstr ""
 
 # Objects : [n2508925928]
@@ -81,6 +106,11 @@ msgstr ""
 # Objects : [n616393271]
 # name:be: [Вектар]
 msgid "Вектор"
+msgstr ""
+
+# Objects : [w25198487]
+# name:be: [воз. Велле]
+msgid "Велье"
 msgstr ""
 
 # Objects : [w167430695]
@@ -125,12 +155,12 @@ msgstr ""
 
 # Objects : [w326571943]
 # name:be: []
-msgid "ГК "Олимпиец""
+msgid "ГК "Олимпийский""
 msgstr ""
 
 # Objects : [w326571944]
 # name:be: []
-msgid "ГК "Орбмита""
+msgid "ГК "Орбита""
 msgstr ""
 
 # Objects : [n1430557271]
@@ -248,11 +278,6 @@ msgstr ""
 msgid "И. Ф. Хруцкий"
 msgstr ""
 
-# Objects : [n2512721884]
-# name:be: [Выраб ключоў]
-msgid "Изготовление ключей"
-msgstr ""
-
 # Objects : [n1713254093]
 # name:be: [Выраб помнікаў]
 msgid "Изготовление памятников"
@@ -263,6 +288,11 @@ msgstr ""
 msgid "Инфокиоск Беларусбанк"
 msgstr ""
 
+# Objects : [w230309041]
+# name:be: [Папраўчая калонія № 10]
+msgid "Исправительная колония № 10"
+msgstr ""
+
 # Objects : [n1439531404]
 # name:be: [Казіно «Фараон»]
 msgid "Казино Фараон"
@@ -271,6 +301,36 @@ msgstr ""
 # Objects : [w207696662]
 # name:be: [Картынгавы стадыён]
 msgid "Картинговый стадион"
+msgstr ""
+
+# Objects : [w174909148]
+# name:be: []
+msgid "Квартал I"
+msgstr ""
+
+# Objects : [w174909149]
+# name:be: []
+msgid "Квартал II"
+msgstr ""
+
+# Objects : [w174909150]
+# name:be: []
+msgid "Квартал III"
+msgstr ""
+
+# Objects : [w174909151]
+# name:be: []
+msgid "Квартал IV"
+msgstr ""
+
+# Objects : [w174909152]
+# name:be: []
+msgid "Квартал V"
+msgstr ""
+
+# Objects : [w174909153]
+# name:be: []
+msgid "Квартал VI"
 msgstr ""
 
 # Objects : [w130063814]
@@ -288,6 +348,11 @@ msgstr ""
 msgid "Клуб айкидо Mumonkan"
 msgstr ""
 
+# Objects : [n1683574909]
+# name:be: []
+msgid "КЛЯКSА"
+msgstr ""
+
 # Objects : [n1430674351]
 # name:be: [КДБ]
 msgid "Комитет КГБ"
@@ -296,6 +361,11 @@ msgstr ""
 # Objects : [n1680492810]
 # name:be: [Пакой школьніка]
 msgid "Комната школьника"
+msgstr ""
+
+# Objects : [w183345705]
+# name:be: []
+msgid "Кооператив "Полёт""
 msgstr ""
 
 # Objects : [w220941819]
@@ -388,6 +458,11 @@ msgstr ""
 msgid "Новополоцкая городская ветеринарная станция"
 msgstr ""
 
+# Objects : [n3470919697]
+# name:be: []
+msgid "новополоцкая гри пр и оос"
+msgstr ""
+
 # Objects : [w163923180, w229196700]
 # name:be: [Наваполацкая ЦЭЦ]
 msgid "Новополоцкая ТЭЦ"
@@ -406,11 +481,6 @@ msgstr ""
 # Objects : [w130785333]
 # name:be: [Ліфтрамонт]
 msgid "Новополоцклифт"
-msgstr ""
-
-# Objects : [n1683574909]
-# name:be: [Начны клуб 20 стагоддзе]
-msgid "Ночной клуб 20 век"
 msgstr ""
 
 # Objects : [n1434299194]
@@ -465,7 +535,7 @@ msgstr ""
 
 # Objects : [w41102172]
 # name:be: [Інтэрнат трэсту № 16]
-msgid "Общежитие тр-а № 16"
+msgid "Общежитие треста № 16"
 msgstr ""
 
 # Objects : [w41088672]
@@ -480,7 +550,7 @@ msgstr ""
 
 # Objects : [n2393216547]
 # name:be: []
-msgid "Отдел гражданства и миграции"
+msgid "Отдел гражданства и миграции (паспортно-визовая служба) Новополоцка"
 msgstr ""
 
 # Objects : [n1430677312]
@@ -563,6 +633,16 @@ msgstr ""
 msgid "Прайд"
 msgstr ""
 
+# Objects : [n3394897395]
+# name:be: []
+msgid "ПРИЕМ ОТРАБОТАННЫХ БАТАРЕЕК (2-Й ЭТАЖ, КОНТЕЙНЕР)"
+msgstr ""
+
+# Objects : [n3394896939]
+# name:be: []
+msgid "ПРИЕМ ОТРАБОТАННЫХ БАТАРЕЕК (КОНТЕЙНЕР)"
+msgstr ""
+
 # Objects : [n1218183450]
 # name:be: [Пракуратура]
 msgid "Прокуратура"
@@ -588,6 +668,16 @@ msgstr ""
 msgid "Пункт охраны общественного порядка"
 msgstr ""
 
+# Objects : [n3394892808]
+# name:be: []
+msgid "ПУНКТ ПРИЕМА ВТОРИЧНЫХ МАТЕРИАЛЬНЫХ РЕСУРСОВ"
+msgstr ""
+
+# Objects : [n3394892056]
+# name:be: []
+msgid "ПУНКТ ПРИЕМА СТЕКЛОТАРЫ"
+msgstr ""
+
 # Objects : [w128388583]
 # name:be: [Пустка]
 msgid "Пустырь"
@@ -603,17 +693,12 @@ msgstr ""
 msgid "Рассчетно-паспортный центр"
 msgstr ""
 
-# Objects : [n1686948577]
-# name:be: [Рамонт мабільных тэлефонаў і кампутараў]
-msgid "Ремонт мобильных телефоно, комп.техники"
-msgstr ""
-
 # Objects : [n1713254095]
 # name:be: [Рамонт мабільных тэлефонаў]
 msgid "Ремонт мобильных телефонов"
 msgstr ""
 
-# Objects : [n1680499453, n1683558201, n1728789695]
+# Objects : [n1680499453, n1728789695]
 # name:be: [Рамонт абутку]
 msgid "Ремонт обуви"
 msgstr ""
@@ -625,7 +710,7 @@ msgstr ""
 
 # Objects : [w163919766]
 # name:be: [Завод бялкова-вітамінных канцэтратаў]
-msgid "РУП "Новополоцкий зовод БВК""
+msgid "РУП "Новополоцкий завод БВК""
 msgstr ""
 
 # Objects : [w253581166]
@@ -698,6 +783,11 @@ msgstr ""
 msgid "Совет ветеранов ОАО "Нафтан""
 msgstr ""
 
+# Objects : [w254265958]
+# name:be: []
+msgid "Соло"
+msgstr ""
+
 # Objects : [w41141109]
 # name:be: []
 msgid "Спортивный комплекс №1"
@@ -716,6 +806,16 @@ msgstr ""
 # Objects : [w295932783, w322758272]
 # name:be: []
 msgid "Строительство жилого дома"
+msgstr ""
+
+# Objects : [w332925121]
+# name:be: []
+msgid "Строительство магазина Дионис"
+msgstr ""
+
+# Objects : [w337434401]
+# name:be: []
+msgid "Строительство начальной школы"
 msgstr ""
 
 # Objects : [w270786258]
@@ -751,11 +851,6 @@ msgstr ""
 # Objects : [n905959127]
 # name:be: [Карчма]
 msgid "Трактир"
-msgstr ""
-
-# Objects : [w230309041]
-# name:be: [УЖ 15/10 Напаполацк]
-msgid "УЖ 15/10 Новополоцк"
 msgstr ""
 
 # Objects : [n2134669749]
@@ -801,6 +896,11 @@ msgstr ""
 # Objects : [n1419046130]
 # name:be: [Цэнтр горада]
 msgid "Центр города"
+msgstr ""
+
+# Objects : [w254307432]
+# name:be: []
+msgid "Школа Искуств №2"
 msgstr ""
 
 # Objects : [n3273391922]

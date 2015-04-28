@@ -68,11 +68,6 @@ msgstr ""
 msgid "Поворот Больница"
 msgstr ""
 
-# Objects : [n2098021277]
-# name:be: []
-msgid "Поворот ДРСУ 157"
-msgstr ""
-
 # Objects : [n2931006232, n3001112601]
 # name:be: []
 msgid "Репники"
@@ -86,5 +81,15 @@ msgstr ""
 # Objects : [n3306283936, n3306283937]
 # name:be: []
 msgid "Филоновцы"
+msgstr ""
+
+# Objects : [n3166462665]
+# name:be: []
+msgid "Фомичёва"
+msgstr ""
+
+# Objects : [n1427783919]
+# name:be: [Шайбакі]
+msgid "Шейбаки"
 msgstr ""
 

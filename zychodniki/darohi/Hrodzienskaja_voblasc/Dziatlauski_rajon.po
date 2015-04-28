@@ -108,11 +108,6 @@ msgstr ""
 msgid "ул. им. Качура"
 msgstr ""
 
-# Objects : [w311216437]
-# name:be: [вуліца]
-msgid "улица"
-msgstr ""
-
 # Objects : [w130385174]
 # name:be: [вуліца Гагарына]
 msgid "улица Гагарина"

@@ -73,7 +73,7 @@ msgstr ""
 msgid "Драбовщина"
 msgstr ""
 
-# Objects : [n243002601, w25134400, w25134414]
+# Objects : [n243002601, r4728946]
 # name:be: [Дунайчыцы]
 msgid "Дунайчицы"
 msgstr ""
@@ -323,7 +323,7 @@ msgstr ""
 msgid "Орда"
 msgstr ""
 
-# Objects : [n243002639, w25134443, w25134454]
+# Objects : [n243002639, r4728944]
 # name:be: [Арэшніца]
 msgid "Орешница"
 msgstr ""

@@ -8,9 +8,19 @@ msgstr ""
 msgid "Белросбанк"
 msgstr ""
 
+# Objects : [n3394901380]
+# name:be: []
+msgid "БПС-БАНК"
+msgstr ""
+
 # Objects : [n306064836]
 # name:be: [БПС-Сбербанк]
 msgid "БПС-Сбербанк"
+msgstr ""
+
+# Objects : [n3394902607]
+# name:be: []
+msgid "ИНФОКИОСК-БПС-БАНК"
 msgstr ""
 
 # Objects : [n306067129]

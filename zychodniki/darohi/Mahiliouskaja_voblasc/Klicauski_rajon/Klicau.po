@@ -13,6 +13,16 @@ msgstr ""
 msgid "Ветеринарный переулок"
 msgstr ""
 
+# Objects : [w97725524]
+# name:be: [Дарожная вуліца]
+msgid "Дорожная улица"
+msgstr ""
+
+# Objects : [w311367117]
+# name:be: [Дарожны завулак]
+msgid "Дорожный переулок"
+msgstr ""
+
 # Objects : [w206513179]
 # name:be: [Заводскі завулак]
 msgid "Заводской переулок"
@@ -88,9 +98,9 @@ msgstr ""
 msgid "Партизанская улица"
 msgstr ""
 
-# Objects : [w311367117]
+# Objects : [w213495217]
 # name:be: []
-msgid "пер. Дорожный"
+msgid "пер. Речной"
 msgstr ""
 
 # Objects : [w97722985]
@@ -133,7 +143,7 @@ msgstr ""
 msgid "Полевой переулок"
 msgstr ""
 
-# Objects : [w207176507, w97725049]
+# Objects : [w207176507, w334977955, w334977956, w97725049]
 # name:be: [Пралетарская вуліца]
 msgid "Пролетарская улица"
 msgstr ""
@@ -158,6 +168,11 @@ msgstr ""
 msgid "Социалистическая улица"
 msgstr ""
 
+# Objects : [w244119930]
+# name:be: [Станцыйная вуліца]
+msgid "Станционная улица"
+msgstr ""
+
 # Objects : [w97721195]
 # name:be: [вуліца 70 гадоў Кастрычніка]
 msgid "улица 70 лет Октября"
@@ -166,11 +181,6 @@ msgstr ""
 # Objects : [w295802319]
 # name:be: [вуліца Вітоля]
 msgid "улица Витоля"
-msgstr ""
-
-# Objects : [w97725524]
-# name:be: []
-msgid "улица Дорожная"
 msgstr ""
 
 # Objects : [w108262106, w157359652]

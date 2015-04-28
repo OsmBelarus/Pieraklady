@@ -1,5 +1,10 @@
-# Objects : [n565546572, n565546573]
+# Objects : [w185585068]
 # name:be: []
+msgid "Агроусадьба "На Сосновке""
+msgstr ""
+
+# Objects : [n275453709, n565546572, n565546573]
+# name:be: [Андронава]
 msgid "Андроново"
 msgstr ""
 
@@ -78,6 +83,11 @@ msgstr ""
 msgid "дуб Суворова"
 msgstr ""
 
+# Objects : [n567153516]
+# name:be: [Завершша]
+msgid "Завершье"
+msgstr ""
+
 # Objects : [n567153520, n567153528]
 # name:be: [Залессе]
 msgid "Залесье"
@@ -93,6 +103,11 @@ msgstr ""
 msgid "Каташы"
 msgstr ""
 
+# Objects : [n567153515]
+# name:be: []
+msgid "Киватичи"
+msgstr ""
+
 # Objects : [n2788680633]
 # name:be: [Могілкі вайсковыя часоў 1-й сусветнай вайны]
 msgid "Кладбище военное времен 1-й мировой войны"
@@ -101,6 +116,16 @@ msgstr ""
 # Objects : [n2788681591]
 # name:be: [Могілкі хрысціянскія. Капліца-пахавальня]
 msgid "Кладбище христианское. Усыпальница"
+msgstr ""
+
+# Objects : [n355707906]
+# name:be: [Кобрын]
+msgid "Кобрин"
+msgstr ""
+
+# Objects : [n2788681674]
+# name:be: [Званіца]
+msgid "Колокольня"
 msgstr ""
 
 # Objects : [n2766728122]
@@ -231,6 +256,11 @@ msgstr ""
 # Objects : [n2788685177]
 # name:be: [Фальварак]
 msgid "Фольварк"
+msgstr ""
+
+# Objects : [n566674467]
+# name:be: [Фруктовы]
+msgid "Фруктовый"
 msgstr ""
 
 # Objects : [n564918819, n564918820]

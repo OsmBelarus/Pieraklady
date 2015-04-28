@@ -170,7 +170,7 @@ msgstr ""
 
 # Objects : [w25297071]
 # name:be: []
-msgid "Мостовая"
+msgid "Мостовая улица"
 msgstr ""
 
 # Objects : [w169181975]
@@ -210,7 +210,7 @@ msgstr ""
 
 # Objects : [w25297058, w25297059, w25297060, w96696013]
 # name:be: []
-msgid "Пограничная"
+msgid "Пограничная улица"
 msgstr ""
 
 # Objects : [w120759807, w25295482, w25297068, w98310262]

@@ -143,6 +143,11 @@ msgstr ""
 msgid "Почтовая станция"
 msgstr ""
 
+# Objects : [n243042095, w25085852]
+# name:be: [Старына]
+msgid "Старина"
+msgstr ""
+
 # Objects : [n2646082370]
 # name:be: []
 msgid "Страхование"

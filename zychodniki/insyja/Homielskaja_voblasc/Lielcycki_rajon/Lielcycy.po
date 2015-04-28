@@ -23,11 +23,6 @@ msgstr ""
 msgid "Гимназия"
 msgstr ""
 
-# Objects : [n2766728085]
-# name:be: []
-msgid "Жерелец"
-msgstr ""
-
 # Objects : [r3291600]
 # name:be: [Інтэрнацыянальная вуліца]
 msgid "Интернациональная улица"
@@ -48,14 +43,14 @@ msgstr ""
 msgid "Мозырьская улица"
 msgstr ""
 
-# Objects : [w315882081]
-# name:be: []
-msgid "Родны кут"
-msgstr ""
-
 # Objects : [w260876489]
 # name:be: []
 msgid "Солнышко."
+msgstr ""
+
+# Objects : [w330327854]
+# name:be: []
+msgid "ТП"
 msgstr ""
 
 # Objects : [n620014789]

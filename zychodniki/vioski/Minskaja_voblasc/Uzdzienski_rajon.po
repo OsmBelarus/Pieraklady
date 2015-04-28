@@ -1,3 +1,8 @@
+# Objects : [n243007789, w332543228]
+# name:be: [Адрынішчы]
+msgid "Адринищи"
+msgstr ""
+
 # Objects : [n243009927, w25129114]
 # name:be: [Алёхаўка]
 msgid "Алёховка"
@@ -100,7 +105,7 @@ msgstr ""
 
 # Objects : [n243009957, w25129133]
 # name:be: [Верхнёман]
-msgid "Верхнёман"
+msgid "Верх-Неман"
 msgstr ""
 
 # Objects : [n2953731461, w291862777]
@@ -113,7 +118,7 @@ msgstr ""
 msgid "Весёлое"
 msgstr ""
 
-# Objects : [n243007701, w25130640]
+# Objects : [n243007701, w333018516]
 # name:be: [Віркова]
 msgid "Вирково"
 msgstr ""
@@ -318,7 +323,7 @@ msgstr ""
 msgid "Здоровец"
 msgstr ""
 
-# Objects : [n243015292, w25127851, w291864982, w291864983]
+# Objects : [n243015292, r4785447]
 # name:be: [Зелень]
 msgid "Зелень"
 msgstr ""
@@ -478,7 +483,7 @@ msgstr ""
 msgid "Лисовщина"
 msgstr ""
 
-# Objects : [n243005204, w25131826]
+# Objects : [n243005204, w221356647]
 # name:be: [Літва]
 msgid "Литва"
 msgstr ""
@@ -630,12 +635,7 @@ msgstr ""
 
 # Objects : [n2953734427, w317770297]
 # name:be: [Новы Шлях]
-msgid "Новый Шлях"
-msgstr ""
-
-# Objects : [n243007789, w25130629]
-# name:be: [Адрынішчы]
-msgid "Одринищи"
+msgid "Новый Путь"
 msgstr ""
 
 # Objects : [n243009717, w25129063]
@@ -723,7 +723,7 @@ msgstr ""
 msgid "Проходы"
 msgstr ""
 
-# Objects : [n243005175, w25131818]
+# Objects : [n243005175, w332521058]
 # name:be: [Прусінава]
 msgid "Прусиново"
 msgstr ""
@@ -740,7 +740,7 @@ msgstr ""
 
 # Objects : [n243005189, w25131820]
 # name:be: [Ракашычы]
-msgid "Ракашичи"
+msgid "Ракошичи"
 msgstr ""
 
 # Objects : [n243007720, w25130639]

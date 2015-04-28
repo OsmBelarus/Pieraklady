@@ -1,5 +1,5 @@
 # Objects : [n343162077, n343162078]
-# name:be: []
+# name:be: [Аўтастанцыя]
 msgid "Автостанция"
 msgstr ""
 
@@ -13,14 +13,19 @@ msgstr ""
 msgid "вокзал"
 msgstr ""
 
+# Objects : [n343162048]
+# name:be: []
+msgid "Гандлёвы Цэнтр"
+msgstr ""
+
+# Objects : [n343162076]
+# name:be: [гасцініца]
+msgid "Гасцініца"
+msgstr ""
+
 # Objects : [n343162067]
 # name:be: [Гасцініца]
 msgid "гостиница"
-msgstr ""
-
-# Objects : [n438072716, n438072717]
-# name:be: []
-msgid "Дп Мирошниченко"
 msgstr ""
 
 # Objects : [n1469322062, n1469322068]
@@ -33,19 +38,24 @@ msgstr ""
 msgid "ЗПТН"
 msgstr ""
 
-# Objects : [n1469322074]
-# name:be: []
-msgid "Картинная Галерея"
+# Objects : [n343162051, n343162052]
+# name:be: [Індустрыяльны каледж]
+msgid "Индустриальный колледж"
 msgstr ""
 
-# Objects : [n343162076]
-# name:be: []
-msgid "кинотеатр "Юность""
+# Objects : [n3459806553]
+# name:be: [Калініна]
+msgid "Калинина"
 msgstr ""
 
 # Objects : [n1469322089]
 # name:be: [Могілкі]
 msgid "кладбище"
+msgstr ""
+
+# Objects : [n445650329]
+# name:be: [Лёгкаатлетычны манеж]
+msgid "Легкоатлетический манеж"
 msgstr ""
 
 # Objects : [n1469322092]
@@ -58,14 +68,44 @@ msgstr ""
 msgid "Медсанчасть"
 msgstr ""
 
+# Objects : [n438072716, n438072717]
+# name:be: [Мірашнічэнкі]
+msgid "Мирошниченко"
+msgstr ""
+
 # Objects : [n1180665825]
 # name:be: []
 msgid "Остановка "Серебряные Ключи""
 msgstr ""
 
+# Objects : [n3459806554]
+# name:be: [пасёлак Будаўнікоў]
+msgid "посёлок Строителей"
+msgstr ""
+
+# Objects : [n343162047, n3459435424]
+# name:be: [Свярдлова]
+msgid "Свердлова"
+msgstr ""
+
+# Objects : [n343162058]
+# name:be: [Свярдлова]
+msgid "Свярдлова"
+msgstr ""
+
+# Objects : [n3454207819]
+# name:be: [Станцыя ГРЭС]
+msgid "Станцыя ГРЭС"
+msgstr ""
+
 # Objects : [n445650479, n445650488]
 # name:be: []
 msgid "Строитель"
+msgstr ""
+
+# Objects : [n343162050]
+# name:be: [Гандлёвы Цэнтр]
+msgid "Торговый Центр"
 msgstr ""
 
 # Objects : [n343162079, n343162080]
@@ -79,12 +119,27 @@ msgid "Урал 3"
 msgstr ""
 
 # Objects : [n1469322124, n1469322126]
-# name:be: []
-msgid "Химволокно"
+# name:be: [Хімвалакно]
+msgid "Хімвалакно"
 msgstr ""
 
 # Objects : [n1469322040, n1469322046]
 # name:be: []
 msgid "ЦКК"
+msgstr ""
+
+# Objects : [n3454252094, n3454252095]
+# name:be: [Цэнтральная бібліятэка]
+msgid "Цэнтральная бібліятэка"
+msgstr ""
+
+# Objects : [n3459835806]
+# name:be: []
+msgid "Школа № 9"
+msgstr ""
+
+# Objects : [n343162053]
+# name:be: [Шашэйная вуліца]
+msgid "Шоссейная улица"
 msgstr ""
 

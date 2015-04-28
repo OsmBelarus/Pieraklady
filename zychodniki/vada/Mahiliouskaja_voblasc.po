@@ -93,8 +93,8 @@ msgstr ""
 msgid "Берлянка"
 msgstr ""
 
-# Objects : [w25027486, w25027704, w25029242, w25077192, w25077791]
-# name:be: []
+# Objects : [w25027244, w25027704, w25029242, w25077192, w25077791, w336613898]
+# name:be: [Бесядзь]
 msgid "Беседь"
 msgstr ""
 
@@ -218,7 +218,7 @@ msgstr ""
 msgid "Войская"
 msgstr ""
 
-# Objects : [w25058279, w25060123]
+# Objects : [w25058279, w25060123, w330754856, w330754858, w330757231, w330757233, w330757235, w330757236]
 # name:be: []
 msgid "Волчанка"
 msgstr ""
@@ -286,11 +286,6 @@ msgstr ""
 # Objects : [w75664256]
 # name:be: [Гарадок]
 msgid "Городок"
-msgstr ""
-
-# Objects : [w153736521]
-# name:be: []
-msgid "Городское"
 msgstr ""
 
 # Objects : [r4029517]
@@ -408,7 +403,7 @@ msgstr ""
 msgid "дренажный канал"
 msgstr ""
 
-# Objects : [w25044947, w25045376, w25050050, w25084712, w298119351, w85615441]
+# Objects : [w25044947, w25045376, w25050050, w25084712, w298119351, w339119905, w85615441]
 # name:be: [Друць]
 msgid "Друть"
 msgstr ""
@@ -506,6 +501,11 @@ msgstr ""
 # Objects : [w25033384, w25033533, w25034691, w25038035, w25080374, w25090684]
 # name:be: [Каменка, р. Каменка]
 msgid "Каменка"
+msgstr ""
+
+# Objects : [w340905048]
+# name:be: []
+msgid "канава"
 msgstr ""
 
 # Objects : [w207171955]
@@ -758,7 +758,7 @@ msgstr ""
 msgid "Молотовня"
 msgstr ""
 
-# Objects : [w25028285, w25029274]
+# Objects : [w25029274]
 # name:be: []
 msgid "Мошевка"
 msgstr ""
@@ -798,11 +798,6 @@ msgstr ""
 msgid "оз. Виницкое"
 msgstr ""
 
-# Objects : [w25195428]
-# name:be: []
-msgid "оз.Святое"
-msgstr ""
-
 # Objects : [w111592517]
 # name:be: []
 msgid "Озеро"
@@ -811,6 +806,11 @@ msgstr ""
 # Objects : [w71249751, w71249773]
 # name:be: []
 msgid "озеро "Шаманка""
+msgstr ""
+
+# Objects : [w153736521]
+# name:be: []
+msgid "озеро Городское"
 msgstr ""
 
 # Objects : [w25196277]
@@ -868,7 +868,7 @@ msgstr ""
 msgid "Ольшовка"
 msgstr ""
 
-# Objects : [w25044076]
+# Objects : [w25044076, w339119909, w339119910]
 # name:be: []
 msgid "Орлянка"
 msgstr ""
@@ -1028,7 +1028,7 @@ msgstr ""
 msgid "река"
 msgstr ""
 
-# Objects : [w25027242, w25027243, w25027244, w25027910, w25027937, w25033422, w25034464, w25084698]
+# Objects : [w25027243, w25027910, w25027937, w25033422, w25034464, w25084698]
 # name:be: []
 msgid "Ректа"
 msgstr ""
@@ -1093,12 +1093,12 @@ msgstr ""
 msgid "Свинка"
 msgstr ""
 
-# Objects : [w174318955, w76488007, w76489040]
+# Objects : [w174318955, w330828813, w330828816, w330828818, w76488007, w76489040]
 # name:be: [Свіслач]
 msgid "Свислочь"
 msgstr ""
 
-# Objects : [r2849650]
+# Objects : [r2849650, w25195428]
 # name:be: []
 msgid "Святое"
 msgstr ""
@@ -1148,7 +1148,7 @@ msgstr ""
 msgid "Смородинка"
 msgstr ""
 
-# Objects : [w25027587, w25077127]
+# Objects : [w25027587]
 # name:be: []
 msgid "Соболевка"
 msgstr ""
@@ -1184,7 +1184,7 @@ msgid "Струшня"
 msgstr ""
 
 # Objects : [w25027577]
-# name:be: []
+# name:be: [Сураў]
 msgid "Суров"
 msgstr ""
 
@@ -1236,6 +1236,11 @@ msgstr ""
 # Objects : [w25034541, w25034546]
 # name:be: []
 msgid "Тросливка"
+msgstr ""
+
+# Objects : [w25027486]
+# name:be: []
+msgid "Тростинка"
 msgstr ""
 
 # Objects : [w25058319, w25077245]
@@ -1353,7 +1358,7 @@ msgstr ""
 msgid "Черный"
 msgstr ""
 
-# Objects : [w202316374, w202316375, w25029255, w25037137, w25038199, w25038218, w25038223, w25039721, w25081934, w25082503]
+# Objects : [w202316374, w202316375, w25029255, w25029262, w25037137, w25038199, w25038218, w25038223, w25039721, w25081934, w25082503]
 # name:be: [Чарняўка]
 msgid "Чернявка"
 msgstr ""

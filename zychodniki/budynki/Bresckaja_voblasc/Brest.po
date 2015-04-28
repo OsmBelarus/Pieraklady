@@ -128,6 +128,11 @@ msgstr ""
 msgid "MART INN"
 msgstr ""
 
+# Objects : [w85762375]
+# name:be: []
+msgid "NICOLE & NICOLE"
+msgstr ""
+
 # Objects : [w60962136]
 # name:be: []
 msgid "PAPARAZZI фото-видео студия"
@@ -343,11 +348,6 @@ msgstr ""
 msgid "Брестское угощение"
 msgstr ""
 
-# Objects : [r1030160]
-# name:be: []
-msgid "Будынак чыгуначнага вакзалу"
-msgstr ""
-
 # Objects : [w86883247]
 # name:be: []
 msgid "Вам Рад"
@@ -441,11 +441,6 @@ msgstr ""
 # Objects : [w102279364]
 # name:be: [Жаночая кансультацыя №2]
 msgid "Женская консультация  №2"
-msgstr ""
-
-# Objects : [w86346978]
-# name:be: []
-msgid "Завод ЖБК"
 msgstr ""
 
 # Objects : [w320744184]
@@ -788,7 +783,7 @@ msgstr ""
 msgid "Продтовары 8"
 msgstr ""
 
-# Objects : [w96254749]
+# Objects : [w331857118, w96254749]
 # name:be: []
 msgid "ПТО «Варшавский мост»"
 msgstr ""
@@ -988,6 +983,11 @@ msgstr ""
 msgid "Трибуна"
 msgstr ""
 
+# Objects : [w61720490]
+# name:be: []
+msgid "ТЦ Асcтор-Вест"
+msgstr ""
+
 # Objects : [w84189209]
 # name:be: []
 msgid "Умида"
@@ -1016,6 +1016,11 @@ msgstr ""
 # Objects : [w58064514]
 # name:be: []
 msgid "Управление КГБ по Брестской области"
+msgstr ""
+
+# Objects : [w86346978]
+# name:be: []
+msgid "УПТК филиал Строительный Трест № 8"
 msgstr ""
 
 # Objects : [w171846883]

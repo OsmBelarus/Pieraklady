@@ -23,6 +23,11 @@ msgstr ""
 msgid "Больница"
 msgstr ""
 
+# Objects : [r3282790]
+# name:be: []
+msgid "Бумажная Фабрика "Герой Труда""
+msgstr ""
+
 # Objects : [w241082296, w242221546]
 # name:be: []
 msgid "Бытовая химия"
@@ -296,11 +301,6 @@ msgstr ""
 # Objects : [w238187189]
 # name:be: []
 msgid "УПК"
-msgstr ""
-
-# Objects : [r3282790]
-# name:be: []
-msgid "Фарфоровый завод"
 msgstr ""
 
 # Objects : [w238852187]

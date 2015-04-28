@@ -3,6 +3,11 @@
 msgid ""Белорусбанк""
 msgstr ""
 
+# Objects : [w239874746]
+# name:be: []
+msgid ""Белоруснефть-Промсервис" Цех ОСА и М"
+msgstr ""
+
 # Objects : [w253573624]
 # name:be: []
 msgid "46а"
@@ -108,6 +113,11 @@ msgstr ""
 msgid "КГБ"
 msgstr ""
 
+# Objects : [w331969867]
+# name:be: []
+msgid "Киоск БЕЛПОЧТА"
+msgstr ""
+
 # Objects : [w239788305]
 # name:be: []
 msgid "Кожно-Венерологический Диспансер"
@@ -121,6 +131,11 @@ msgstr ""
 # Objects : [w264878255]
 # name:be: []
 msgid "Котельная СШ № 5"
+msgstr ""
+
+# Objects : [w331975521]
+# name:be: []
+msgid "Крафт"
 msgstr ""
 
 # Objects : [w238287158, w238541209, w239813733, w241421334, w276488499]
@@ -141,11 +156,6 @@ msgstr ""
 # Objects : [w268852028]
 # name:be: []
 msgid "Мартин"
-msgstr ""
-
-# Objects : [w241245919]
-# name:be: []
-msgid "Мельница"
 msgstr ""
 
 # Objects : [w226044882]
@@ -171,6 +181,11 @@ msgstr ""
 # Objects : [w307520519]
 # name:be: []
 msgid "ОСВОД"
+msgstr ""
+
+# Objects : [w331969862]
+# name:be: []
+msgid "Парикмахерская НАТАЛИ"
 msgstr ""
 
 # Objects : [w239383394]
@@ -223,6 +238,11 @@ msgstr ""
 msgid "Станция технического обслуживания"
 msgstr ""
 
+# Objects : [w239874783]
+# name:be: []
+msgid "Столовая Нефтебурсервис"
+msgstr ""
+
 # Objects : [w174435513]
 # name:be: []
 msgid "Стоматологическая Поликлинника"
@@ -241,6 +261,11 @@ msgstr ""
 # Objects : [w174809056]
 # name:be: []
 msgid "Центральная Районная Библиотека"
+msgstr ""
+
+# Objects : [w331972641]
+# name:be: []
+msgid "Шиномонтаж"
 msgstr ""
 
 # Objects : [w269123132]

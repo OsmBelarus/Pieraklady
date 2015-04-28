@@ -93,7 +93,7 @@ msgstr ""
 msgid "Мелиоративная улица"
 msgstr ""
 
-# Objects : [w137339754, w137340240, w25257851]
+# Objects : [w137339754, w137340240, w25257778, w25257851]
 # name:be: [Мінская вуліца]
 msgid "Минская улица"
 msgstr ""
@@ -238,7 +238,7 @@ msgstr ""
 msgid "улица Кирова"
 msgstr ""
 
-# Objects : [w25257913, w25257920]
+# Objects : [w25257913]
 # name:be: [вуліца Козінцава]
 msgid "улица Козинцева"
 msgstr ""
@@ -276,11 +276,6 @@ msgstr ""
 # Objects : [w25257820]
 # name:be: [вуліца Маякоўскага]
 msgid "улица Маяковского"
-msgstr ""
-
-# Objects : [w25257778]
-# name:be: [вуліца Мінская]
-msgid "улица Минская"
 msgstr ""
 
 # Objects : [w25257858]

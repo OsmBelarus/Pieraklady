@@ -39,7 +39,7 @@ msgid "8 улица"
 msgstr ""
 
 # Objects : [w309085675]
-# name:be: []
+# name:be: [Васільковая вуліца]
 msgid "Васильковая улица"
 msgstr ""
 
@@ -53,7 +53,7 @@ msgstr ""
 msgid "Грушевая"
 msgstr ""
 
-# Objects : [w104135250]
+# Objects : [w104135250, w183042529]
 # name:be: [Чыгуначная вуліца]
 msgid "Железнодорожная улица"
 msgstr ""
@@ -84,7 +84,7 @@ msgid "Красногвардейская улица"
 msgstr ""
 
 # Objects : [w166703486]
-# name:be: []
+# name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
 
@@ -104,7 +104,7 @@ msgid "Молодёжная улица"
 msgstr ""
 
 # Objects : [w120116009, w290722626, w297693851, w297693852, w297694651, w305943542, w305943545, w305943546, w305943547]
-# name:be: []
+# name:be: [Насып закінутай вузкакалейкі]
 msgid "Насыпь заброшенной узкоколейки"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgid "Огородников"
 msgstr ""
 
 # Objects : [w35861220]
-# name:be: []
+# name:be: [Аршанская вуліца]
 msgid "Оршанская улица"
 msgstr ""
 
@@ -134,12 +134,12 @@ msgid "Плисская"
 msgstr ""
 
 # Objects : [w41427828]
-# name:be: []
+# name:be: [Падлесная вуліца]
 msgid "Подлесная улица"
 msgstr ""
 
 # Objects : [w302596206]
-# name:be: []
+# name:be: [Падлесны завулак]
 msgid "Подлесный переулок"
 msgstr ""
 
@@ -164,7 +164,7 @@ msgid "Северный переулок"
 msgstr ""
 
 # Objects : [w309177810]
-# name:be: []
+# name:be: [Бэзавая вуліца]
 msgid "Сиреневая улица"
 msgstr ""
 
@@ -178,6 +178,11 @@ msgstr ""
 msgid "Солнечная улица"
 msgstr ""
 
+# Objects : [w25267859]
+# name:be: []
+msgid "улица Водоканальная"
+msgstr ""
+
 # Objects : [w104135285, w133484488]
 # name:be: [вуліца Казлова]
 msgid "улица Козлова"
@@ -186,6 +191,16 @@ msgstr ""
 # Objects : [w25266510, w35861223]
 # name:be: [вуліца Машэрава]
 msgid "улица Машерова"
+msgstr ""
+
+# Objects : [w203561689]
+# name:be: []
+msgid "улица Центральная"
+msgstr ""
+
+# Objects : [w203561687]
+# name:be: []
+msgid "улица Школьная"
 msgstr ""
 
 # Objects : [w104654732, w133683643, w207088981]

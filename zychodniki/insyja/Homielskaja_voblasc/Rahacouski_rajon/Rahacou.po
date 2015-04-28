@@ -193,11 +193,6 @@ msgstr ""
 msgid "Отделение скорой медицинской помощи"
 msgstr ""
 
-# Objects : [w320913771]
-# name:be: []
-msgid "Очистные сооружения"
-msgstr ""
-
 # Objects : [n2888821601]
 # name:be: []
 msgid "Памятник воину освободителю"
@@ -206,6 +201,11 @@ msgstr ""
 # Objects : [n1123691096]
 # name:be: []
 msgid "Пасспортный стол"
+msgstr ""
+
+# Objects : [w338793345]
+# name:be: []
+msgid "Перевалочная база древесины"
 msgstr ""
 
 # Objects : [w264551716]
@@ -221,11 +221,6 @@ msgstr ""
 # Objects : [n588647021]
 # name:be: [Рагачоў]
 msgid "Рогачев"
-msgstr ""
-
-# Objects : [r3551849]
-# name:be: [Рагачоў]
-msgid "Рогачёв"
 msgstr ""
 
 # Objects : [n577336345]
@@ -251,11 +246,6 @@ msgstr ""
 # Objects : [w263308561]
 # name:be: []
 msgid "РЭС"
-msgstr ""
-
-# Objects : [n306069869]
-# name:be: [Сверкава]
-msgid "Сверково"
 msgstr ""
 
 # Objects : [n577626755]

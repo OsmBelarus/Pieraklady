@@ -43,8 +43,8 @@ msgstr ""
 msgid "инфекция"
 msgstr ""
 
-# Objects : [n503706349]
-# name:be: []
+# Objects : [n503706349, w333389820]
+# name:be: [Калінкавічы]
 msgid "Калинковичи"
 msgstr ""
 
@@ -71,6 +71,11 @@ msgstr ""
 # Objects : [w315735179]
 # name:be: []
 msgid "Мартин"
+msgstr ""
+
+# Objects : [w333389813]
+# name:be: []
+msgid "металлолом"
 msgstr ""
 
 # Objects : [n674418350]
@@ -138,6 +143,11 @@ msgstr ""
 msgid "СОШ №3"
 msgstr ""
 
+# Objects : [w286248789]
+# name:be: []
+msgid "СШ№5"
+msgstr ""
+
 # Objects : [w61751413]
 # name:be: []
 msgid "Торговые ряды "Магистраль""
@@ -153,7 +163,7 @@ msgstr ""
 msgid "Хлебопродукт"
 msgstr ""
 
-# Objects : [w312102099, w312102100]
+# Objects : [w312102099, w312102100, w334835185, w334835186]
 # name:be: []
 msgid "ЧУП "Калинковичский молочный комбинат""
 msgstr ""

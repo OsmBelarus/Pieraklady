@@ -143,6 +143,11 @@ msgstr ""
 msgid "Болотковщина"
 msgstr ""
 
+# Objects : [n242998642]
+# name:be: [Вялікае Запруддзе]
+msgid "Большое Запрудье"
+msgstr ""
+
 # Objects : [n242996520, w25136052]
 # name:be: [Бомбалы]
 msgid "Бомбалы"
@@ -253,7 +258,7 @@ msgstr ""
 msgid "Великие Кривичи"
 msgstr ""
 
-# Objects : [n242998642, w25134950]
+# Objects : [w25134950]
 # name:be: [Вялікае Запруддзе]
 msgid "Великое Запрудье"
 msgstr ""
@@ -368,6 +373,11 @@ msgstr ""
 msgid "Ганьковичи"
 msgstr ""
 
+# Objects : [n242996948, w25136992]
+# name:be: [Гелянова]
+msgid "Геленово"
+msgstr ""
+
 # Objects : [n243004941, w25131633]
 # name:be: [Гервелі]
 msgid "Гервели"
@@ -408,7 +418,7 @@ msgstr ""
 msgid "Глеи"
 msgstr ""
 
-# Objects : [n242996427, n242996948, w25136002, w25136992]
+# Objects : [n242996427, w25136002]
 # name:be: [Галянова]
 msgid "Голеново"
 msgstr ""
@@ -1033,7 +1043,7 @@ msgstr ""
 msgid "Лосокино"
 msgstr ""
 
-# Objects : [n242998530, w25134930]
+# Objects : [n242998530, r4784515]
 # name:be: [Лохаўшчына]
 msgid "Лоховщина"
 msgstr ""
@@ -1849,7 +1859,7 @@ msgid "Студенец"
 msgstr ""
 
 # Objects : [n2542671888, w247368019]
-# name:be: [Сцюдзянец]
+# name:be: [Студзянец, Сцюдзянец]
 msgid "Стюденец"
 msgstr ""
 

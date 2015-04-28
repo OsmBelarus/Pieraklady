@@ -43,6 +43,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w112499207]
+# name:be: []
+msgid "Стахово - Коробье"
+msgstr ""
+
 # Objects : [w210736092]
 # name:be: []
 msgid "улица Гагарина"

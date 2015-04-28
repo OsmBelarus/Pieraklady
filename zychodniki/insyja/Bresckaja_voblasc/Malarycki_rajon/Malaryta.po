@@ -1,6 +1,16 @@
+# Objects : [w278314337]
+# name:be: [Ласкі]
+msgid "Ласкі"
+msgstr ""
+
 # Objects : [n2742322865]
 # name:be: [Маларыта]
 msgid "Малорита"
+msgstr ""
+
+# Objects : [w278285744]
+# name:be: []
+msgid "Малоритский консервноовощесушильный комбинат"
 msgstr ""
 
 # Objects : [n3322459389]
@@ -11,6 +21,16 @@ msgstr ""
 # Objects : [w278282602]
 # name:be: [Сярэдняя школа №1]
 msgid "Средняя школа №1"
+msgstr ""
+
+# Objects : [w278297121]
+# name:be: [Сярэдняя школа №2]
+msgid "Средняя школа №2"
+msgstr ""
+
+# Objects : [w278278796]
+# name:be: [Сярдэняя школа №3]
+msgid "Средняя школа №3"
 msgstr ""
 
 # Objects : [w278278821]

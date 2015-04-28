@@ -38,11 +38,6 @@ msgstr ""
 msgid "Богдановка"
 msgstr ""
 
-# Objects : [n243047149, w25076777]
-# name:be: [Боркі]
-msgid "Борки"
-msgstr ""
-
 # Objects : [n243047061, w25077059]
 # name:be: [Баханы]
 msgid "Боханы"
@@ -88,14 +83,14 @@ msgstr ""
 msgid "Василевка 2-я"
 msgstr ""
 
-# Objects : [n243047017, w25076945]
-# name:be: []
-msgid "Веселая Дубрава"
-msgstr ""
-
 # Objects : [n243047049, w25077111]
 # name:be: [Ветка]
 msgid "Ветка"
+msgstr ""
+
+# Objects : [w25077492]
+# name:be: [Вітунь]
+msgid "Витунь"
 msgstr ""
 
 # Objects : [n243046999, w25077036]
@@ -103,17 +98,12 @@ msgstr ""
 msgid "Владимировка"
 msgstr ""
 
-# Objects : [n243046993, w25077294]
-# name:be: []
-msgid "Восточный Путь"
-msgstr ""
-
 # Objects : [n243047103, w25076740]
 # name:be: [Гаўрылоўка]
 msgid "Гавриловка"
 msgstr ""
 
-# Objects : [n243047155, w25076893, w25076897]
+# Objects : [n243047155, w25076897]
 # name:be: []
 msgid "Гамарня"
 msgstr ""
@@ -133,6 +123,11 @@ msgstr ""
 msgid "Григорьевка"
 msgstr ""
 
+# Objects : [w25077501]
+# name:be: [Дворацкая Буда]
+msgid "Дворецкая Буда"
+msgstr ""
+
 # Objects : [n243047074, w25077072]
 # name:be: [Доўгая Дубрава]
 msgid "Долгая Дубрава"
@@ -146,11 +141,6 @@ msgstr ""
 # Objects : [n243047066, w25077066]
 # name:be: [Дубраўка]
 msgid "Дубровка"
-msgstr ""
-
-# Objects : [n243046992, w25077026]
-# name:be: []
-msgid "Екатеринополье"
 msgstr ""
 
 # Objects : [n243047047, w25077500]
@@ -171,11 +161,6 @@ msgstr ""
 # Objects : [n243046995, w25076957]
 # name:be: [Забялышын]
 msgid "Забелышин"
-msgstr ""
-
-# Objects : [n243046939, w25077368]
-# name:be: []
-msgid "Загарье"
 msgstr ""
 
 # Objects : [n243046962, w25077287]
@@ -263,7 +248,7 @@ msgstr ""
 msgid "Мартиновка"
 msgstr ""
 
-# Objects : [n243047036, n243047038, w25076972, w25077093]
+# Objects : [n243047038, w25077093]
 # name:be: [Міхайлаўка]
 msgid "Михайловка"
 msgstr ""
@@ -313,11 +298,6 @@ msgstr ""
 msgid "Ольшов 2"
 msgstr ""
 
-# Objects : [n243047040, w25077100]
-# name:be: []
-msgid "Орел"
-msgstr ""
-
 # Objects : [n2869919322, w283080546]
 # name:be: [Арлоўка]
 msgid "Орловка"
@@ -343,11 +323,6 @@ msgstr ""
 msgid "Прудок"
 msgstr ""
 
-# Objects : [n243047035, w25076971]
-# name:be: []
-msgid "Ранняя Зорька"
-msgstr ""
-
 # Objects : [n243046986, w25077016]
 # name:be: [Разальмова]
 msgid "Розальмово"
@@ -356,6 +331,11 @@ msgstr ""
 # Objects : [n243047006, w25077044]
 # name:be: [Роскаш]
 msgid "Роскошь"
+msgstr ""
+
+# Objects : [w25077499]
+# name:be: [Сафонаўка]
+msgid "Сафоновка"
 msgstr ""
 
 # Objects : [n243047010, w25077041]
@@ -433,7 +413,7 @@ msgstr ""
 msgid "Яново"
 msgstr ""
 
-# Objects : [n243047008, w25077043, w25077046]
+# Objects : [n243047008, w25077046]
 # name:be: [Янаполле]
 msgid "Янополье"
 msgstr ""

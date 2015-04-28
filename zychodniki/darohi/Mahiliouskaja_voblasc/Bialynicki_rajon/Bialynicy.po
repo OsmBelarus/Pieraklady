@@ -73,9 +73,19 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
+# Objects : [w203990036]
+# name:be: []
+msgid "переулок Кирова"
+msgstr ""
+
 # Objects : [w203990019]
 # name:be: [завулак Чкалава]
 msgid "переулок Чкалова"
+msgstr ""
+
+# Objects : [w327412846]
+# name:be: []
+msgid "переулок Я.Колоса"
 msgstr ""
 
 # Objects : [w203990028]
@@ -118,7 +128,7 @@ msgstr ""
 msgid "Славянская улица"
 msgstr ""
 
-# Objects : [w133122161, w43839374]
+# Objects : [w133122161]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
 msgstr ""
@@ -163,9 +173,14 @@ msgstr ""
 msgid "улица Гагарина"
 msgstr ""
 
-# Objects : [w43663819]
+# Objects : [w328909035, w43663819]
 # name:be: [вуліца Горкага]
 msgid "улица Горького"
+msgstr ""
+
+# Objects : [w43839374]
+# name:be: [вуліца Савецкая]
+msgid "улица Горького;Советская улица"
 msgstr ""
 
 # Objects : [w204112005]
@@ -193,9 +208,14 @@ msgstr ""
 msgid "улица Калинина"
 msgstr ""
 
-# Objects : [w102320539, w203995810, w44060232]
+# Objects : [w102320539, w203995810]
 # name:be: [вуліца Кірава]
 msgid "улица Кирова"
+msgstr ""
+
+# Objects : [w211714756]
+# name:be: []
+msgid "улица Китаева"
 msgstr ""
 
 # Objects : [w203990027]
@@ -236,6 +256,11 @@ msgstr ""
 # Objects : [w203990029]
 # name:be: [вуліца Астроўскага]
 msgid "улица Островского"
+msgstr ""
+
+# Objects : [w43663761]
+# name:be: []
+msgid "улица Первомайская"
 msgstr ""
 
 # Objects : [w206367417]
@@ -281,6 +306,11 @@ msgstr ""
 # Objects : [w43663785]
 # name:be: [вуліца Энгельса]
 msgid "улица Энгельса"
+msgstr ""
+
+# Objects : [w334283415]
+# name:be: []
+msgid "улица Я. Колоса"
 msgstr ""
 
 # Objects : [w210933761]

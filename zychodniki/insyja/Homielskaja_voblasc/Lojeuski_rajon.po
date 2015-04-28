@@ -1,3 +1,8 @@
+# Objects : [n3390846434]
+# name:be: []
+msgid "Грохов"
+msgstr ""
+
 # Objects : [n2788680311]
 # name:be: [Палацава-паркавы комплекс Рудзяеўскіх]
 msgid "Дворцово-парковый комплекс Рудеевских"
@@ -13,6 +18,11 @@ msgstr ""
 msgid "Днепро-Брагинское"
 msgstr ""
 
+# Objects : [n3390988546]
+# name:be: []
+msgid "Дом рыбака Бушатин"
+msgstr ""
+
 # Objects : [w326493419]
 # name:be: []
 msgid "Котельная"
@@ -21,6 +31,11 @@ msgstr ""
 # Objects : [w25195646]
 # name:be: []
 msgid "Круговод"
+msgstr ""
+
+# Objects : [w333015861]
+# name:be: []
+msgid "Лоев-Абакумы"
 msgstr ""
 
 # Objects : [w25197658]
@@ -33,14 +48,29 @@ msgstr ""
 msgid "Малиновский детский сад - базовая школа"
 msgstr ""
 
-# Objects : [n2704430542]
+# Objects : [n2130325813, n2704430542]
 # name:be: []
 msgid "Рекорд"
+msgstr ""
+
+# Objects : [n3390846442]
+# name:be: []
+msgid "Рекорд 2"
 msgstr ""
 
 # Objects : [w191434554, w25195157]
 # name:be: []
 msgid "Сож"
+msgstr ""
+
+# Objects : [n3390846454]
+# name:be: []
+msgid "Старая Алешковка"
+msgstr ""
+
+# Objects : [n243044097]
+# name:be: [Старая Алешкаўка (нежывы)]
+msgid "Старая Алешковка (нежил.)"
 msgstr ""
 
 # Objects : [w326048623]

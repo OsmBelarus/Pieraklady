@@ -133,11 +133,6 @@ msgstr ""
 msgid "Сыроварня"
 msgstr ""
 
-# Objects : [w303190911]
-# name:be: []
-msgid "Талька"
-msgstr ""
-
 # Objects : [w127708127, w175896744, w175896745]
 # name:be: [Ферма]
 msgid "Ферма"

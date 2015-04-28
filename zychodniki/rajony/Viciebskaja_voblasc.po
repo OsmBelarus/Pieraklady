@@ -18,6 +18,11 @@ msgstr ""
 msgid "Верхнедвинский район"
 msgstr ""
 
+# Objects : [r68614]
+# name:be: [Віцебск]
+msgid "Витебск"
+msgstr ""
+
 # Objects : [r59504]
 # name:be: [Віцебскі раён]
 msgid "Витебский район"
@@ -81,6 +86,11 @@ msgstr ""
 # Objects : [r70719]
 # name:be: [Мядзельскі раён]
 msgid "Мядельский район"
+msgstr ""
+
+# Objects : [r1749242]
+# name:be: [Новаполацк]
+msgid "Новополоцк"
 msgstr ""
 
 # Objects : [r70660]

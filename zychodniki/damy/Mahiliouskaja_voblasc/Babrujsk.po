@@ -8,11 +8,6 @@ msgstr ""
 msgid "Домашнее"
 msgstr ""
 
-# Objects : [w280699165]
-# name:be: []
-msgid "Дом обуви"
-msgstr ""
-
 # Objects : [w204529749]
 # name:be: []
 msgid "магазин"
@@ -36,6 +31,11 @@ msgstr ""
 # Objects : [w205594388]
 # name:be: []
 msgid "Офис КСУП "Хоккейный клуб "Шинник-Бобруйск""
+msgstr ""
+
+# Objects : [w203727786]
+# name:be: []
+msgid "Радуга"
 msgstr ""
 
 # Objects : [w160962536]

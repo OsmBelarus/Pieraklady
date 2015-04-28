@@ -13,6 +13,11 @@ msgstr ""
 msgid "Аврора"
 msgstr ""
 
+# Objects : [w321099314]
+# name:be: []
+msgid "Белая дача"
+msgstr ""
+
 # Objects : [w293000700]
 # name:be: []
 msgid "Богомазов двор"
@@ -41,6 +46,11 @@ msgstr ""
 # Objects : [w276282979]
 # name:be: []
 msgid "Дискаунт"
+msgstr ""
+
+# Objects : [w318673016]
+# name:be: []
+msgid "Домик у реки"
 msgstr ""
 
 # Objects : [w187964609]
@@ -133,6 +143,16 @@ msgstr ""
 msgid "Контора ПМК"
 msgstr ""
 
+# Objects : [w333384100]
+# name:be: []
+msgid "Копцевичи"
+msgstr ""
+
+# Objects : [w306669536]
+# name:be: []
+msgid "Крама"
+msgstr ""
+
 # Objects : [w187964610]
 # name:be: []
 msgid "Магазин"
@@ -213,6 +233,11 @@ msgstr ""
 msgid "РДК"
 msgstr ""
 
+# Objects : [w320925036]
+# name:be: []
+msgid "Солнечный берег"
+msgstr ""
+
 # Objects : [w291133483]
 # name:be: []
 msgid "Столовая"
@@ -221,6 +246,11 @@ msgstr ""
 # Objects : [w295330066]
 # name:be: []
 msgid "Столярный цех ПМК"
+msgstr ""
+
+# Objects : [w318672918]
+# name:be: []
+msgid "Татьянин берег"
 msgstr ""
 
 # Objects : [w276274592]

@@ -35,12 +35,7 @@ msgstr ""
 
 # Objects : [w279973314]
 # name:be: []
-msgid "В/Ч П. ЗАСЛОНОВО"
-msgstr ""
-
-# Objects : [w25190535]
-# name:be: [Вялікія Акунічы]
-msgid "Великие Окуничи"
+msgid "в/ч п. Заслоново"
 msgstr ""
 
 # Objects : [n2788679990]
@@ -118,11 +113,6 @@ msgstr ""
 msgid "Заровье"
 msgstr ""
 
-# Objects : [w25195349]
-# name:be: [Заружанне]
-msgid "Заружано"
-msgstr ""
-
 # Objects : [n271044537]
 # name:be: [Заслонава]
 msgid "Заслоново"
@@ -168,11 +158,6 @@ msgstr ""
 msgid "Луконец"
 msgstr ""
 
-# Objects : [w25190396]
-# name:be: [Луконіца]
-msgid "Луконица"
-msgstr ""
-
 # Objects : [w25189019]
 # name:be: [Люсінец]
 msgid "Люсинец"
@@ -181,11 +166,6 @@ msgstr ""
 # Objects : [w127285184]
 # name:be: [Маланка]
 msgid "Маланка"
-msgstr ""
-
-# Objects : [w25183992]
-# name:be: [Малыя Акунічы]
-msgid "Малые Окуничи"
 msgstr ""
 
 # Objects : [w25185775]
@@ -278,11 +258,6 @@ msgstr ""
 msgid "Пышно"
 msgstr ""
 
-# Objects : [w25195304]
-# name:be: [Рыбанец]
-msgid "Рыбанец"
-msgstr ""
-
 # Objects : [w25107538]
 # name:be: [Санаторый]
 msgid "санаторий"
@@ -306,6 +281,11 @@ msgstr ""
 # Objects : [w25192339]
 # name:be: [Сакольскае]
 msgid "Сокольское"
+msgstr ""
+
+# Objects : [n243028933, w25106739]
+# name:be: [Саснягі]
+msgid "Сосняги"
 msgstr ""
 
 # Objects : [w25200207]

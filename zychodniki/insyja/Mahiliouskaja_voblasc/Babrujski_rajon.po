@@ -173,6 +173,11 @@ msgstr ""
 msgid "Плавун"
 msgstr ""
 
+# Objects : [w230550397]
+# name:be: []
+msgid "Полигон ТБО "Бабино""
+msgstr ""
+
 # Objects : [n2788683598]
 # name:be: [Паштовая станцыя]
 msgid "Почтовая станция"

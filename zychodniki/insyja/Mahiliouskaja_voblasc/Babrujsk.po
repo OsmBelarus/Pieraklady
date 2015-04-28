@@ -1,8 +1,3 @@
-# Objects : [n3100319101]
-# name:be: []
-msgid ""Белый дом""
-msgstr ""
-
 # Objects : [w203702553]
 # name:be: []
 msgid "Mart Inn"
@@ -11,11 +6,6 @@ msgstr ""
 # Objects : [n2650659035]
 # name:be: []
 msgid "MaxBet"
-msgstr ""
-
-# Objects : [n3186236344]
-# name:be: []
-msgid "SMOKERS.BY"
 msgstr ""
 
 # Objects : [n2650704084]
@@ -28,6 +18,11 @@ msgstr ""
 msgid "Автобусный парк №2"
 msgstr ""
 
+# Objects : [w330062807]
+# name:be: []
+msgid "Агромаш"
+msgstr ""
+
 # Objects : [n3034298848]
 # name:be: []
 msgid "Администрация Ленинского района"
@@ -36,6 +31,16 @@ msgstr ""
 # Objects : [n2324614056]
 # name:be: []
 msgid "Аллея Героев"
+msgstr ""
+
+# Objects : [w312734391]
+# name:be: []
+msgid "Амстердам"
+msgstr ""
+
+# Objects : [w331335876]
+# name:be: []
+msgid "Аэродром"
 msgstr ""
 
 # Objects : [n2650604783]
@@ -65,7 +70,7 @@ msgstr ""
 
 # Objects : [w205483621]
 # name:be: []
-msgid "Белсвязь"
+msgid "Белтелеком"
 msgstr ""
 
 # Objects : [n2650631345]
@@ -73,7 +78,7 @@ msgstr ""
 msgid "Белый дом"
 msgstr ""
 
-# Objects : [n2201229833]
+# Objects : [n2201229833, w59533591]
 # name:be: [Бярэзіна]
 msgid "Березина"
 msgstr ""
@@ -84,7 +89,7 @@ msgid "Бигпласгруп"
 msgstr ""
 
 # Objects : [n242555894]
-# name:be: []
+# name:be: [Бабруйск]
 msgid "Бобруйск"
 msgstr ""
 
@@ -148,9 +153,19 @@ msgstr ""
 msgid "Вэстор-2"
 msgstr ""
 
+# Objects : [w339698302, w339753674]
+# name:be: []
+msgid "Гаражи"
+msgstr ""
+
 # Objects : [w174857216]
 # name:be: []
 msgid "Гаражно-строительный кооператив"
+msgstr ""
+
+# Objects : [r897508]
+# name:be: []
+msgid "гимназия №1"
 msgstr ""
 
 # Objects : [r2960144]
@@ -173,11 +188,6 @@ msgstr ""
 msgid "Гостиница Феникс"
 msgstr ""
 
-# Objects : [n2766736737]
-# name:be: []
-msgid "Гостиница Юбилейная"
-msgstr ""
-
 # Objects : [n538388376]
 # name:be: [ГБК]
 msgid "ГСК"
@@ -186,11 +196,6 @@ msgstr ""
 # Objects : [w88681156]
 # name:be: []
 msgid "ГСК Тепличный"
-msgstr ""
-
-# Objects : [w88683646]
-# name:be: [Дачы]
-msgid "Дачи"
 msgstr ""
 
 # Objects : [n1212993589]
@@ -223,14 +228,14 @@ msgstr ""
 msgid "Дом творчества"
 msgstr ""
 
+# Objects : [n3377103026]
+# name:be: []
+msgid "Доска почета г.Бобруйска"
+msgstr ""
+
 # Objects : [n2841330967]
 # name:be: []
 msgid "Женская консультация № 2"
-msgstr ""
-
-# Objects : [w204351668]
-# name:be: []
-msgid "Залив"
 msgstr ""
 
 # Objects : [w284165279]
@@ -253,6 +258,11 @@ msgstr ""
 msgid "Идея Банк"
 msgstr ""
 
+# Objects : [w328950945]
+# name:be: [Папраўчая калонія № 2]
+msgid "Исправительная колония № 2"
+msgstr ""
+
 # Objects : [n3031273053]
 # name:be: []
 msgid "Картинная галерея"
@@ -261,11 +271,6 @@ msgstr ""
 # Objects : [n3230551892]
 # name:be: []
 msgid "КГБ"
-msgstr ""
-
-# Objects : [w304748873, w83798462]
-# name:be: []
-msgid "кладбище"
 msgstr ""
 
 # Objects : [w52782170]
@@ -283,12 +288,17 @@ msgstr ""
 msgid "Компьютерный клуб "Малибу""
 msgstr ""
 
+# Objects : [w312734397]
+# name:be: []
+msgid "Корона Техно"
+msgstr ""
+
 # Objects : [n2788682274]
 # name:be: [Касцёл Святых апосталаў Пятра й Паўла і кляштар езуітаў]
 msgid "Костел Святых Апостолов Петра и Павла и монастырь иезуитов"
 msgstr ""
 
-# Objects : [n275211090, n275214946, n275215844, n306065024, n306065153, n306065155, n306065157, n306065158, n306065164, n306065166, n306065178, n306065244, n306066869, n306066872, n306066874, n306066894, n306066933, n306066938]
+# Objects : [n275211090, n275214946, n275215844, n306065024, n306065153, n306065157, n306065158, n306065164, n306065166, n306065178, n306065244, n306066869, n306066872, n306066874, n306066894, n306066933, n306066938]
 # name:be: [КПП]
 msgid "КПП"
 msgstr ""
@@ -353,6 +363,11 @@ msgstr ""
 msgid "Мемориал Воинам-освободителям"
 msgstr ""
 
+# Objects : [n3112251897]
+# name:be: []
+msgid "Металлическая статуя"
+msgstr ""
+
 # Objects : [w204519584]
 # name:be: []
 msgid "Милиция"
@@ -373,7 +388,7 @@ msgstr ""
 msgid "Музей олимпийской славы"
 msgstr ""
 
-# Objects : [n3154420214]
+# Objects : [n3154420214, w57730851]
 # name:be: []
 msgid "Музыкальная школа №2"
 msgstr ""
@@ -383,9 +398,19 @@ msgstr ""
 msgid "Наркодиспанесер"
 msgstr ""
 
+# Objects : [n3398675297]
+# name:be: []
+msgid "Нотариальная контора Бобруйского района"
+msgstr ""
+
 # Objects : [w174572242]
 # name:be: []
 msgid "ОАО "Беларусьрезинотехника""
+msgstr ""
+
+# Objects : [w326752141]
+# name:be: []
+msgid "ОАО "БЗТДиА""
 msgstr ""
 
 # Objects : [w224856184]
@@ -488,6 +513,11 @@ msgstr ""
 msgid "Памятник подпольщикам ВОВ"
 msgstr ""
 
+# Objects : [w331293873]
+# name:be: []
+msgid "Памятник солдатам ВОВ"
+msgstr ""
+
 # Objects : [n2650666776]
 # name:be: []
 msgid "парикмахерская Дося"
@@ -508,7 +538,7 @@ msgstr ""
 msgid "Питьевой фонтанчик"
 msgstr ""
 
-# Objects : [n3098693642]
+# Objects : [n3098693642, n3384064732]
 # name:be: []
 msgid "Пожарная часть"
 msgstr ""
@@ -563,9 +593,24 @@ msgstr ""
 msgid "РУП "Белжилпроект""
 msgstr ""
 
+# Objects : [w338585137, w340075117]
+# name:be: []
+msgid "Рынок"
+msgstr ""
+
+# Objects : [w330735142]
+# name:be: []
+msgid "Рынок "Еловики""
+msgstr ""
+
 # Objects : [w223145075]
 # name:be: []
 msgid "Рынок "Северный""
+msgstr ""
+
+# Objects : [w328967242]
+# name:be: []
+msgid "рынок Западный"
 msgstr ""
 
 # Objects : [n3098693641]
@@ -573,19 +618,9 @@ msgstr ""
 msgid "Рынок при торговом центре (овощи/фрукты)"
 msgstr ""
 
-# Objects : [n2788684306]
-# name:be: [Сінагога]
-msgid "Синагога"
-msgstr ""
-
 # Objects : [n2788684274]
 # name:be: [Сінагога (руіны)]
 msgid "Синагога (руины)"
-msgstr ""
-
-# Objects : [n2788684276]
-# name:be: [Сінагога 1]
-msgid "Синагога 1"
 msgstr ""
 
 # Objects : [w205058792]
@@ -623,6 +658,16 @@ msgstr ""
 msgid "Стоматологическая поликлиника"
 msgstr ""
 
+# Objects : [w328961052]
+# name:be: []
+msgid "Стройка "ОМА""
+msgstr ""
+
+# Objects : [w330310719]
+# name:be: []
+msgid "Стройка Евроопт"
+msgstr ""
+
 # Objects : [w306203566]
 # name:be: []
 msgid "Стройка школы"
@@ -643,12 +688,17 @@ msgstr ""
 msgid "СШ№16"
 msgstr ""
 
+# Objects : [r3658867]
+# name:be: [СШ №2]
+msgid "СШ №2"
+msgstr ""
+
 # Objects : [w204087330]
 # name:be: []
 msgid "СШ№20"
 msgstr ""
 
-# Objects : [w205328054]
+# Objects : [r4630316]
 # name:be: []
 msgid "СШ №21"
 msgstr ""
@@ -693,6 +743,11 @@ msgstr ""
 msgid "Тари"
 msgstr ""
 
+# Objects : [w312734389]
+# name:be: []
+msgid "Торговый зал"
+msgstr ""
+
 # Objects : [n540118425]
 # name:be: []
 msgid "Травмпункт"
@@ -723,6 +778,11 @@ msgstr ""
 msgid "ТЭЦ 2"
 msgstr ""
 
+# Objects : [w306351588]
+# name:be: []
+msgid "ТЭЦ-2"
+msgstr ""
+
 # Objects : [n306065429]
 # name:be: []
 msgid "УВД"
@@ -743,14 +803,14 @@ msgstr ""
 msgid "Усадьба Канцельсон"
 msgstr ""
 
-# Objects : [n2129405753]
-# name:be: []
-msgid "ФанДОК"
-msgstr ""
-
 # Objects : [n2650664734]
 # name:be: []
 msgid "Фараон"
+msgstr ""
+
+# Objects : [n3112251898]
+# name:be: []
+msgid "Фигура из камней"
 msgstr ""
 
 # Objects : [n2650649895]
@@ -758,7 +818,7 @@ msgstr ""
 msgid "фитнес-центр «Ева»"
 msgstr ""
 
-# Objects : [n3034386133, w175334859]
+# Objects : [n3034386133, w175334859, w175614824]
 # name:be: [Фантан]
 msgid "Фонтан"
 msgstr ""

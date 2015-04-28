@@ -43,7 +43,7 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w104145774, w255998538]
+# Objects : [w104145774, w255998538, w255998571]
 # name:be: []
 msgid "Набережная улица"
 msgstr ""
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Речная улица"
 msgstr ""
 
-# Objects : [w211080153, w218598243]
+# Objects : [w211080153, w218598243, w256144910]
 # name:be: []
 msgid "Садовая улица"
 msgstr ""
@@ -101,11 +101,6 @@ msgstr ""
 # Objects : [w218881498]
 # name:be: []
 msgid "Старосельская улица"
-msgstr ""
-
-# Objects : [w255998571]
-# name:be: []
-msgid "улица"
 msgstr ""
 
 # Objects : [w211308137, w217538558]

@@ -1,11 +1,56 @@
-# Objects : [n3126204661]
+# Objects : [n3393688999]
 # name:be: []
-msgid "Банкомат"
+msgid "Home Credit Bank"
 msgstr ""
 
-# Objects : [n3126189180, n3127098670, n3127110108, n3127135759]
+# Objects : [n3385779071]
+# name:be: []
+msgid "Альфа-Банк"
+msgstr ""
+
+# Objects : [n3390584135]
+# name:be: []
+msgid "Банк ВТБ"
+msgstr ""
+
+# Objects : [n2655966348, n3390611502, n3390611503, n3390611504, n3390611505, n3390611506, n3390611507, n3390611508]
+# name:be: []
+msgid "Белагропромбанк"
+msgstr ""
+
+# Objects : [n3390611509, n3390611510, n3390611511, n3390611512]
+# name:be: []
+msgid "Белагропромбанк. Инфокиоск"
+msgstr ""
+
+# Objects : [n1115543948, n1131427244, n2853192182, n3127110108, n3127135759, n3390897567, n3390897568, n3390897569, n3390897570, n3390897571, n3390897572, n3390897573, n3390897574, n3390897575, n3390897576, n3390897577, n3390897578, n3390897579, n3390897580, n3390897581, n3390897582, n3390897583]
 # name:be: [Беларусбанк]
 msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n3390897584, n3390897585, n3390897586, n3390897587, n3390897588, n3390897589, n3390897590, n3390897591, n3390897592, n3390915253, n3390915254, n3390915255, n3390915256, n3390915257, n3390915258, n3390915259, n3390915260, n3390915261, n3390915262, n3390915263, n3390915264, n3390915265, n3390915266, n3390915267, n3390915268]
+# name:be: []
+msgid "Беларусбанк. Инфокиоск"
+msgstr ""
+
+# Objects : [n3385803162, n3385803163, n3385803164, n3385803165, n3385803166, n3385803167]
+# name:be: []
+msgid "БелВЭБ"
+msgstr ""
+
+# Objects : [n3385803168, n3385803169]
+# name:be: []
+msgid "БелВЭБ. Инфокиоск"
+msgstr ""
+
+# Objects : [n3126204661, n3392124194, n3392124195]
+# name:be: []
+msgid "Белгазпромбанк"
+msgstr ""
+
+# Objects : [n3392124196]
+# name:be: []
+msgid "Белгазпромбанк. Инфокиоск"
 msgstr ""
 
 # Objects : [n3127119613]
@@ -13,9 +58,364 @@ msgstr ""
 msgid "Белгосстрах"
 msgstr ""
 
-# Objects : [n3127099378, n3127111721, n3127131030, n3127162038]
+# Objects : [n3127099378]
 # name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
+msgstr ""
+
+# Objects : [n3392152510, n3392152511, n3392152512, n3392152513]
+# name:be: []
+msgid "Белинвестбанк. Инфокиоск"
+msgstr ""
+
+# Objects : [n3392152504]
+# name:be: []
+msgid "Белинвестбанк №10"
+msgstr ""
+
+# Objects : [n3392152505]
+# name:be: []
+msgid "Белинвестбанк №11"
+msgstr ""
+
+# Objects : [n3392152506]
+# name:be: []
+msgid "Белинвестбанк №12"
+msgstr ""
+
+# Objects : [n3392152507]
+# name:be: []
+msgid "Белинвестбанк №13"
+msgstr ""
+
+# Objects : [n2655966347]
+# name:be: []
+msgid "Белинвестбанк №20"
+msgstr ""
+
+# Objects : [n3127131030]
+# name:be: []
+msgid "Белинвестбанк №21"
+msgstr ""
+
+# Objects : [n3392152508]
+# name:be: []
+msgid "Белинвестбанк №26"
+msgstr ""
+
+# Objects : [n3392152509]
+# name:be: []
+msgid "Белинвестбанк №31"
+msgstr ""
+
+# Objects : [n3392331555]
+# name:be: []
+msgid "БПС-Сбербанк. Инфокиоск INF80037"
+msgstr ""
+
+# Objects : [n3392331556]
+# name:be: []
+msgid "БПС-Сбербанк. Инфокиоск INF80200"
+msgstr ""
+
+# Objects : [n3392331557]
+# name:be: []
+msgid "БПС-Сбербанк. Инфокиоск INF80201"
+msgstr ""
+
+# Objects : [n3392331558]
+# name:be: []
+msgid "БПС-Сбербанк. Инфокиоск INF80296"
+msgstr ""
+
+# Objects : [n3392331559]
+# name:be: []
+msgid "БПС-Сбербанк. Инфокиоск INF80319"
+msgstr ""
+
+# Objects : [n3392331551]
+# name:be: []
+msgid "БПС-Сбербанк ATM10643"
+msgstr ""
+
+# Objects : [n3392331552]
+# name:be: []
+msgid "БПС-Сбербанк ATM10892"
+msgstr ""
+
+# Objects : [n3392331553]
+# name:be: []
+msgid "БПС-Сбербанк ATM11054"
+msgstr ""
+
+# Objects : [n2853462222]
+# name:be: []
+msgid "БПС-Сбербанк ATM11518"
+msgstr ""
+
+# Objects : [n3127162038]
+# name:be: []
+msgid "БПС-Сбербанк ATM12218"
+msgstr ""
+
+# Objects : [n3126226666]
+# name:be: []
+msgid "БПС-Сбербанк ATM12290"
+msgstr ""
+
+# Objects : [n3392331554]
+# name:be: []
+msgid "БПС-Сбербанк ATM12344"
+msgstr ""
+
+# Objects : [n3393409343, n3393409344, n3393409345]
+# name:be: []
+msgid "МТБанк"
+msgstr ""
+
+# Objects : [n1131427330, n3393422978]
+# name:be: []
+msgid "Паритетбанк"
+msgstr ""
+
+# Objects : [n3393422979]
+# name:be: []
+msgid "Паритетбанк. Инфокиоск"
+msgstr ""
+
+# Objects : [n3126189180]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0502"
+msgstr ""
+
+# Objects : [n3392484853]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0619"
+msgstr ""
+
+# Objects : [n3392484854]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0815"
+msgstr ""
+
+# Objects : [n3392484855]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0816"
+msgstr ""
+
+# Objects : [n3392484856]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0910"
+msgstr ""
+
+# Objects : [n3392484857]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0911"
+msgstr ""
+
+# Objects : [n3392484858]
+# name:be: []
+msgid "ПейНэт. Терминал CDX0912"
+msgstr ""
+
+# Objects : [n3392484859]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1042"
+msgstr ""
+
+# Objects : [n3392484860]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1044"
+msgstr ""
+
+# Objects : [n3392484861]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1045"
+msgstr ""
+
+# Objects : [n3392484862]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1047"
+msgstr ""
+
+# Objects : [n3392484863]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1185"
+msgstr ""
+
+# Objects : [n3392484864]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1186"
+msgstr ""
+
+# Objects : [n3392484865]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1187"
+msgstr ""
+
+# Objects : [n3392484866]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1188"
+msgstr ""
+
+# Objects : [n3392484867]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1189"
+msgstr ""
+
+# Objects : [n3392484868]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1190"
+msgstr ""
+
+# Objects : [n3392484869]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1191"
+msgstr ""
+
+# Objects : [n3392484870]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1192"
+msgstr ""
+
+# Objects : [n3392484871]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1193"
+msgstr ""
+
+# Objects : [n3392484872]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1257"
+msgstr ""
+
+# Objects : [n3392484873]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1258"
+msgstr ""
+
+# Objects : [n3392484874]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1370"
+msgstr ""
+
+# Objects : [n3392484875]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1371"
+msgstr ""
+
+# Objects : [n3392484876]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1372"
+msgstr ""
+
+# Objects : [n3392484877]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1373"
+msgstr ""
+
+# Objects : [n3392484878]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1439"
+msgstr ""
+
+# Objects : [n3392484879]
+# name:be: []
+msgid "ПейНэт. Терминал CDX1490"
+msgstr ""
+
+# Objects : [n3393573704]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №147"
+msgstr ""
+
+# Objects : [n3393573705]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №217"
+msgstr ""
+
+# Objects : [n3393573706]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №365"
+msgstr ""
+
+# Objects : [n3393573707]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №603"
+msgstr ""
+
+# Objects : [n3393573708]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №605"
+msgstr ""
+
+# Objects : [n3393573709]
+# name:be: []
+msgid "Приорбанк. Платёжно-справочный терминал №607"
+msgstr ""
+
+# Objects : [n3393573694]
+# name:be: []
+msgid "Приорбанк №109"
+msgstr ""
+
+# Objects : [n3393573695]
+# name:be: []
+msgid "Приорбанк №149"
+msgstr ""
+
+# Objects : [n3393573696]
+# name:be: []
+msgid "Приорбанк №195"
+msgstr ""
+
+# Objects : [n1131427296]
+# name:be: []
+msgid "Приорбанк №208"
+msgstr ""
+
+# Objects : [n3393573697]
+# name:be: []
+msgid "Приорбанк №231"
+msgstr ""
+
+# Objects : [n1131427289]
+# name:be: []
+msgid "Приорбанк №50"
+msgstr ""
+
+# Objects : [n1429798823]
+# name:be: []
+msgid "Приорбанк №609"
+msgstr ""
+
+# Objects : [n3393573698]
+# name:be: []
+msgid "Приорбанк №616"
+msgstr ""
+
+# Objects : [n3393573699]
+# name:be: []
+msgid "Приорбанк №628"
+msgstr ""
+
+# Objects : [n3393573700]
+# name:be: []
+msgid "Приорбанк №677"
+msgstr ""
+
+# Objects : [n3393573701]
+# name:be: []
+msgid "Приорбанк №682"
+msgstr ""
+
+# Objects : [n3393573702]
+# name:be: []
+msgid "Приорбанк №683"
+msgstr ""
+
+# Objects : [n3393573703]
+# name:be: []
+msgid "Приорбанк №98"
 msgstr ""
 
 # Objects : [n3127101561]
@@ -23,8 +423,8 @@ msgstr ""
 msgid "Технобанк"
 msgstr ""
 
-# Objects : [n3127109992]
+# Objects : [n3393684847]
 # name:be: []
-msgid "Францбанк"
+msgid "Франсабанк. №12605"
 msgstr ""
 

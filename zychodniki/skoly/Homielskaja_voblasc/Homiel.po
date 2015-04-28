@@ -33,16 +33,6 @@ msgstr ""
 msgid "Гимназия № 56"
 msgstr ""
 
-# Objects : [n781844442]
-# name:be: []
-msgid "Гимназия № 58 г.Гомеля им. Ф.П.Гааза"
-msgstr ""
-
-# Objects : [n625644761]
-# name:be: []
-msgid "Гимназия № 71"
-msgstr ""
-
 # Objects : [n621359307]
 # name:be: []
 msgid "Гомельский городской лицей № 1"
@@ -66,6 +56,11 @@ msgstr ""
 # Objects : [n1597563077]
 # name:be: []
 msgid "Детская музыкальная школа № 2"
+msgstr ""
+
+# Objects : [n3364573105]
+# name:be: []
+msgid "Детская хореографическая школа искусств"
 msgstr ""
 
 # Objects : [n2433476454]
@@ -98,24 +93,9 @@ msgstr ""
 msgid "СОШ № 11"
 msgstr ""
 
-# Objects : [n786909218]
-# name:be: []
-msgid "СОШ № 22"
-msgstr ""
-
-# Objects : [n625643775]
-# name:be: []
-msgid "СОШ №32"
-msgstr ""
-
 # Objects : [n565633310]
 # name:be: []
 msgid "СОШ № 34"
-msgstr ""
-
-# Objects : [n452540900]
-# name:be: []
-msgid "СОШ № 3 им.Д.Н.Пенязькова"
 msgstr ""
 
 # Objects : [w62788753]
@@ -158,11 +138,6 @@ msgstr ""
 msgid "СШ 20"
 msgstr ""
 
-# Objects : [n1102975587]
-# name:be: []
-msgid "СШ 28 им.Э.В.Серегина"
-msgstr ""
-
 # Objects : [n1182524934]
 # name:be: []
 msgid "СШ 72"
@@ -178,19 +153,29 @@ msgstr ""
 msgid "СШ №12"
 msgstr ""
 
+# Objects : [n638539187]
+# name:be: [СШ №13]
+msgid "СШ №13"
+msgstr ""
+
+# Objects : [w129661890]
+# name:be: []
+msgid "СШ №16"
+msgstr ""
+
 # Objects : [n621359326]
 # name:be: [СШ № 21]
 msgid "СШ № 21"
 msgstr ""
 
+# Objects : [w63566306]
+# name:be: []
+msgid "СШ № 22"
+msgstr ""
+
 # Objects : [w64749257]
 # name:be: []
 msgid "СШ № 24"
-msgstr ""
-
-# Objects : [n535084125]
-# name:be: []
-msgid "СШ № 25"
 msgstr ""
 
 # Objects : [n796794797]
@@ -208,11 +193,6 @@ msgstr ""
 msgid "Сш №29"
 msgstr ""
 
-# Objects : [n616600055]
-# name:be: []
-msgid "СШ№ 30"
-msgstr ""
-
 # Objects : [n600743940]
 # name:be: []
 msgid "СШ № 38"
@@ -223,9 +203,9 @@ msgstr ""
 msgid "СШ № 39"
 msgstr ""
 
-# Objects : [n625643407]
+# Objects : [n638539149]
 # name:be: []
-msgid "СШ № 43"
+msgid "СШ №42"
 msgstr ""
 
 # Objects : [w47009198]
@@ -253,11 +233,6 @@ msgstr ""
 msgid "СШ № 50"
 msgstr ""
 
-# Objects : [n548381619]
-# name:be: []
-msgid "СШ № 53"
-msgstr ""
-
 # Objects : [n306068243]
 # name:be: []
 msgid "СШ № 54"
@@ -278,16 +253,6 @@ msgstr ""
 msgid "СШ№ 59"
 msgstr ""
 
-# Objects : [w38323703]
-# name:be: []
-msgid "СШ № 60"
-msgstr ""
-
-# Objects : [n781774318]
-# name:be: []
-msgid "СШ № 61"
-msgstr ""
-
 # Objects : [w170643843]
 # name:be: [СШ № 66]
 msgid "СШ № 66"
@@ -298,19 +263,9 @@ msgstr ""
 msgid "СШ№ 67"
 msgstr ""
 
-# Objects : [n781774132]
-# name:be: []
-msgid "СШ № 69"
-msgstr ""
-
 # Objects : [n1797893996]
 # name:be: []
 msgid "СШ № 70 для детей с нарушениями слуха"
-msgstr ""
-
-# Objects : [n616600054]
-# name:be: []
-msgid "СШ№ 8"
 msgstr ""
 
 # Objects : [w42439003]

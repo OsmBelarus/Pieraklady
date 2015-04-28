@@ -203,6 +203,11 @@ msgstr ""
 msgid "Немнище"
 msgstr ""
 
+# Objects : [w201828732]
+# name:be: []
+msgid "ОАО "КрасносельскСтройматериалы""
+msgstr ""
+
 # Objects : [w260455697, w260455789]
 # name:be: []
 msgid "Остановка автобуса"
@@ -371,11 +376,6 @@ msgstr ""
 # Objects : [n2788687558]
 # name:be: [Каплічка прыдарожная]
 msgid "Часовня придорожная"
-msgstr ""
-
-# Objects : [w264730746]
-# name:be: []
-msgid "ШРП№64"
 msgstr ""
 
 # Objects : [w269500095]

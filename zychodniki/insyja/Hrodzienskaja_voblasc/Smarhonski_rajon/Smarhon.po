@@ -1,3 +1,18 @@
+# Objects : [n3476048293]
+# name:be: []
+msgid "Автомойка"
+msgstr ""
+
+# Objects : [w37876779]
+# name:be: []
+msgid "Алеся"
+msgstr ""
+
+# Objects : [w95847843]
+# name:be: []
+msgid "Васелина"
+msgstr ""
+
 # Objects : [w37876787]
 # name:be: []
 msgid "Вещевой рынок"
@@ -21,6 +36,11 @@ msgstr ""
 # Objects : [n2766736692]
 # name:be: []
 msgid "Гостиница Сморгонь"
+msgstr ""
+
+# Objects : [w229948625]
+# name:be: []
+msgid "Евроопт"
 msgstr ""
 
 # Objects : [w170773395]
@@ -50,12 +70,7 @@ msgstr ""
 
 # Objects : [n1249653958]
 # name:be: []
-msgid "Ленин"
-msgstr ""
-
-# Objects : [w182648648]
-# name:be: []
-msgid "летний Амфитеатр"
+msgid "Ленину В. И."
 msgstr ""
 
 # Objects : [w170776742]
@@ -78,9 +93,9 @@ msgstr ""
 msgid "Роддом"
 msgstr ""
 
-# Objects : [n1151609857]
+# Objects : [w99415283]
 # name:be: []
-msgid "Рынок вещевой, продуктовый"
+msgid "Рынок"
 msgstr ""
 
 # Objects : [w40206400]
@@ -96,5 +111,10 @@ msgstr ""
 # Objects : [n1390823768]
 # name:be: [Смаргонь]
 msgid "Сморгонь"
+msgstr ""
+
+# Objects : [w37876780]
+# name:be: []
+msgid "Электробум"
 msgstr ""
 

@@ -1,3 +1,8 @@
+# Objects : [w338797392]
+# name:be: []
+msgid "АБЗ"
+msgstr ""
+
 # Objects : [n2279529025]
 # name:be: []
 msgid "Барсуки"
@@ -93,7 +98,7 @@ msgstr ""
 msgid "Горожанка"
 msgstr ""
 
-# Objects : [w167947810]
+# Objects : [n1762393856, w167947810]
 # name:be: [Грыбачы]
 msgid "Грибачи"
 msgstr ""
@@ -288,11 +293,6 @@ msgstr ""
 msgid "Садовые участки"
 msgstr ""
 
-# Objects : [w177980154]
-# name:be: []
-msgid "садовые участки "Тюльпан-2""
-msgstr ""
-
 # Objects : [w25193472]
 # name:be: [воз. Соміна]
 msgid "Сомино"
@@ -301,6 +301,11 @@ msgstr ""
 # Objects : [w197991101]
 # name:be: []
 msgid "СТ «Лосвидо»"
+msgstr ""
+
+# Objects : [r4795998, w275409051]
+# name:be: []
+msgid "стоянка поездов"
 msgstr ""
 
 # Objects : [w25194627]
@@ -341,6 +346,11 @@ msgstr ""
 # Objects : [w25183957]
 # name:be: [воз. Шалынец]
 msgid "Шалынец"
+msgstr ""
+
+# Objects : [w173051448]
+# name:be: []
+msgid "Школьная площадка"
 msgstr ""
 
 # Objects : [n2766728263]

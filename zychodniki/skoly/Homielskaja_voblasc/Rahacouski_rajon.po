@@ -1,3 +1,13 @@
+# Objects : [w253144211]
+# name:be: []
+msgid "Журавичская средняя школа"
+msgstr ""
+
+# Objects : [w339177667]
+# name:be: []
+msgid "Звонецкая средняя школа"
+msgstr ""
+
 # Objects : [w289986006]
 # name:be: []
 msgid "Курганьевская СШ"
@@ -8,8 +18,13 @@ msgstr ""
 msgid "Лучинская базавая школа"
 msgstr ""
 
-# Objects : [n2928833143]
+# Objects : [w252127813]
 # name:be: []
-msgid "Средняя школа"
+msgid "Музыкальная школа"
+msgstr ""
+
+# Objects : [w327757995]
+# name:be: []
+msgid "Территория средней школы"
 msgstr ""
 

@@ -108,9 +108,64 @@ msgstr ""
 msgid "улица"
 msgstr ""
 
+# Objects : [w291767325]
+# name:be: []
+msgid "улица 1"
+msgstr ""
+
+# Objects : [w291767324]
+# name:be: []
+msgid "улица 10"
+msgstr ""
+
+# Objects : [w291767315]
+# name:be: []
+msgid "улица 11"
+msgstr ""
+
+# Objects : [w333253465]
+# name:be: []
+msgid "улица 2"
+msgstr ""
+
+# Objects : [w291767326]
+# name:be: []
+msgid "улица 3"
+msgstr ""
+
+# Objects : [w131200838]
+# name:be: []
+msgid "улица 4"
+msgstr ""
+
+# Objects : [w291767331]
+# name:be: []
+msgid "улица 5"
+msgstr ""
+
+# Objects : [w291767328]
+# name:be: []
+msgid "улица 6"
+msgstr ""
+
 # Objects : [w250207547]
 # name:be: []
 msgid "улица 60 лет БССР"
+msgstr ""
+
+# Objects : [w333253447]
+# name:be: []
+msgid "улица 7"
+msgstr ""
+
+# Objects : [w291767322]
+# name:be: []
+msgid "улица 8"
+msgstr ""
+
+# Objects : [w333253448]
+# name:be: []
+msgid "улица 9"
 msgstr ""
 
 # Objects : [w291767318, w311525741]
@@ -130,7 +185,7 @@ msgstr ""
 
 # Objects : [w283743706]
 # name:be: []
-msgid "Улица Дачная"
+msgid "улица Дачная"
 msgstr ""
 
 # Objects : [w242118415]
@@ -201,11 +256,6 @@ msgstr ""
 # Objects : [w250207541, w323600396]
 # name:be: []
 msgid "улица Садовая"
-msgstr ""
-
-# Objects : [w291767328]
-# name:be: []
-msgid "улица Сельская"
 msgstr ""
 
 # Objects : [w131201844, w25252420, w315849021, w326187487, w327405354]

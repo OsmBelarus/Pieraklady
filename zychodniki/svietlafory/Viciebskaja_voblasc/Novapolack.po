@@ -18,6 +18,11 @@ msgstr ""
 msgid "Гайдара"
 msgstr ""
 
+# Objects : [n2324087160, n2324087164]
+# name:be: []
+msgid "Городок"
+msgstr ""
+
 # Objects : [n1218187803, n1598770642]
 # name:be: [Гасцініца]
 msgid "Гостиница"
@@ -31,6 +36,11 @@ msgstr ""
 # Objects : [n1598477097]
 # name:be: [Гасцініца «Нафтан»]
 msgid "Гостицица "Нафтан""
+msgstr ""
+
+# Objects : [n2521292872, n2823444870]
+# name:be: []
+msgid "Дом офицеров"
 msgstr ""
 
 # Objects : [n1088113756, n1104444431]
@@ -111,6 +121,11 @@ msgstr ""
 # Objects : [n1598477100, n1598477103]
 # name:be: [Паліміраўскі пасёлак]
 msgid "посёлок "Полимировский""
+msgstr ""
+
+# Objects : [n2521292878, n2521292883]
+# name:be: []
+msgid "Сельпо"
 msgstr ""
 
 # Objects : [n3065152543, n3065168363]

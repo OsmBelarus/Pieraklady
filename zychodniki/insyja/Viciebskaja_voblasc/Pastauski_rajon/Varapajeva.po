@@ -13,9 +13,9 @@ msgstr ""
 msgid "Воропаево"
 msgstr ""
 
-# Objects : [w121487871]
+# Objects : [w339924227]
 # name:be: []
-msgid "ДорОРС"
+msgid "Воропаевский сельский исполнительный комитет"
 msgstr ""
 
 # Objects : [w288891785]
@@ -46,5 +46,10 @@ msgstr ""
 # Objects : [w121023031]
 # name:be: [Гаспадарчыя тавары]
 msgid "Хозтовары"
+msgstr ""
+
+# Objects : [w121487871]
+# name:be: []
+msgid "Эконом-1"
 msgstr ""
 

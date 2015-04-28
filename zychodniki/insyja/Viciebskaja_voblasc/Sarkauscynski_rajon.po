@@ -88,6 +88,11 @@ msgstr ""
 msgid "Липово"
 msgstr ""
 
+# Objects : [n243018581, w25125966]
+# name:be: [Маргі]
+msgid "Марги"
+msgstr ""
+
 # Objects : [w154203813]
 # name:be: []
 msgid "Машинный двор ОАО "Жвиранка""
@@ -103,11 +108,6 @@ msgstr ""
 msgid "Молельный дом староверов"
 msgstr ""
 
-# Objects : [n243018581, w25125966]
-# name:be: [Маргі]
-msgid "Морги"
-msgstr ""
-
 # Objects : [w23004108]
 # name:be: []
 msgid "Мох"
@@ -120,7 +120,7 @@ msgstr ""
 
 # Objects : [w25125050]
 # name:be: [Мурашчына]
-msgid "Муращина"
+msgid "Муращино"
 msgstr ""
 
 # Objects : [r4520555, w324461454]
@@ -138,9 +138,9 @@ msgstr ""
 msgid "Очистные сооружения"
 msgstr ""
 
-# Objects : [n243021155, w25125073]
+# Objects : [n243018629]
 # name:be: [Пішчалёўка]
-msgid "Пищелёвка"
+msgid "Пищалёвка"
 msgstr ""
 
 # Objects : [n2788684227]
@@ -166,11 +166,6 @@ msgstr ""
 # Objects : [w25191700]
 # name:be: []
 msgid "Скно"
-msgstr ""
-
-# Objects : [n243018482, w25125960]
-# name:be: [Сталіца]
-msgid "Столица"
 msgstr ""
 
 # Objects : [n2788684517]

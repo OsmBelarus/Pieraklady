@@ -58,11 +58,6 @@ msgstr ""
 msgid "16"
 msgstr ""
 
-# Objects : [w312217400]
-# name:be: []
-msgid "17"
-msgstr ""
-
 # Objects : [w25191357]
 # name:be: [17-ы кар'ер]
 msgid "17-ы кар'ер"
@@ -173,6 +168,11 @@ msgstr ""
 msgid "А. А. Громыко"
 msgstr ""
 
+# Objects : [w330910458]
+# name:be: []
+msgid "АБК"
+msgstr ""
+
 # Objects : [w261889332, w263254936]
 # name:be: []
 msgid "Автобусный парк № 1"
@@ -211,6 +211,11 @@ msgstr ""
 # Objects : [w125672787]
 # name:be: []
 msgid "авторынок Бакунинский"
+msgstr ""
+
+# Objects : [w330007449]
+# name:be: []
+msgid "Авторынок Осовцы"
 msgstr ""
 
 # Objects : [n1028161562]
@@ -268,11 +273,6 @@ msgstr ""
 msgid "Администрация Новобелицкого района"
 msgstr ""
 
-# Objects : [w244016174]
-# name:be: []
-msgid "Администрация Советского р-на"
-msgstr ""
-
 # Objects : [n2545075379]
 # name:be: []
 msgid "Адреналин"
@@ -281,6 +281,21 @@ msgstr ""
 # Objects : [w321687301]
 # name:be: []
 msgid "Алми"
+msgstr ""
+
+# Objects : [w223675083]
+# name:be: []
+msgid "Аптека №5"
+msgstr ""
+
+# Objects : [n3405893296]
+# name:be: []
+msgid "Ассоциация Фермеров Гомельской области"
+msgstr ""
+
+# Objects : [n3473130513]
+# name:be: [Банк Масква-Мінск]
+msgid "Банк Москва-Минск"
 msgstr ""
 
 # Objects : [n1614123783]
@@ -338,9 +353,19 @@ msgstr ""
 msgid "Белгосстрах"
 msgstr ""
 
-# Objects : [w188051553]
+# Objects : [w188051553, w340000678]
 # name:be: []
 msgid "БелНИПИнефть"
+msgstr ""
+
+# Objects : [n3455604181]
+# name:be: []
+msgid "Белоруснефть №18 зарядная станция"
+msgstr ""
+
+# Objects : [n3456150705]
+# name:be: []
+msgid "Белоруснефть №39 зарядная станция"
 msgstr ""
 
 # Objects : [n600885867]
@@ -358,9 +383,19 @@ msgstr ""
 msgid "Биотест-Гомель"
 msgstr ""
 
+# Objects : [n638539122]
+# name:be: [Бальніца]
+msgid "Больница"
+msgstr ""
+
 # Objects : [n452540913]
 # name:be: []
 msgid "Больница детская клиническая областная"
+msgstr ""
+
+# Objects : [w45404638]
+# name:be: []
+msgid "Больница химзавода"
 msgstr ""
 
 # Objects : [n566989670, n625828396]
@@ -398,6 +433,11 @@ msgstr ""
 msgid "Вальс"
 msgstr ""
 
+# Objects : [w335861688]
+# name:be: []
+msgid "Веза-Г"
+msgstr ""
+
 # Objects : [n3139545634]
 # name:be: []
 msgid "Велопарковка"
@@ -423,7 +463,7 @@ msgstr ""
 msgid "Ветеринарная лечебница"
 msgstr ""
 
-# Objects : [n1102989920, n621359328]
+# Objects : [n621359328]
 # name:be: []
 msgid "Ветеринарная Станция"
 msgstr ""
@@ -441,6 +481,11 @@ msgstr ""
 # Objects : [n982375046]
 # name:be: []
 msgid "Вечный огонь"
+msgstr ""
+
+# Objects : [w249553598]
+# name:be: []
+msgid "взрослая поликлиника"
 msgstr ""
 
 # Objects : [n2545075384]
@@ -481,6 +526,16 @@ msgstr ""
 # Objects : [w265345152]
 # name:be: []
 msgid "ГГТУ имени П.О. Сухого"
+msgstr ""
+
+# Objects : [w62788734]
+# name:be: []
+msgid "Гимназия № 58 г.Гомеля им. Ф.П.Гааза"
+msgstr ""
+
+# Objects : [w49260223]
+# name:be: []
+msgid "Гимназия № 71"
 msgstr ""
 
 # Objects : [n2847467743]
@@ -526,6 +581,11 @@ msgstr ""
 # Objects : [n1211615975]
 # name:be: []
 msgid "Гомельская городская стоматологическая поликлиника № 1"
+msgstr ""
+
+# Objects : [w330910517]
+# name:be: []
+msgid "Гомельские тепловые сети"
 msgstr ""
 
 # Objects : [w64719180]
@@ -576,6 +636,11 @@ msgstr ""
 # Objects : [n786908331]
 # name:be: []
 msgid "Гомельский областной наркологический диспансер, наркологическое отделение"
+msgstr ""
+
+# Objects : [w232921329]
+# name:be: []
+msgid "Гомельэнергоспецремонт"
 msgstr ""
 
 # Objects : [n452540894]
@@ -698,6 +763,16 @@ msgstr ""
 msgid "Департамент охраны МВД РБ Железнодорожный отдел"
 msgstr ""
 
+# Objects : [w246268030]
+# name:be: []
+msgid "Дет.сад"
+msgstr ""
+
+# Objects : [w242185352, w49260091]
+# name:be: []
+msgid "Детсад"
+msgstr ""
+
 # Objects : [n1338424725]
 # name:be: []
 msgid "Детская зубная поликлиника"
@@ -733,14 +808,14 @@ msgstr ""
 msgid "Детские площадки"
 msgstr ""
 
+# Objects : [w49260169, w49260171]
+# name:be: []
+msgid "Детский сад"
+msgstr ""
+
 # Objects : [w141300234]
 # name:be: []
 msgid "Детско-Юношеская  Спортивная Школа Олимпийского Резерва (ДЮСШОР)"
-msgstr ""
-
-# Objects : [n1118419433]
-# name:be: []
-msgid "Детско-юношеская школа олимп. резерва № 9 по вольной борьбе и баскетболу"
 msgstr ""
 
 # Objects : [n982432242]
@@ -783,6 +858,11 @@ msgstr ""
 msgid "Дракон-7"
 msgstr ""
 
+# Objects : [w338642201]
+# name:be: []
+msgid "ДС № 122 (Техосмотр)"
+msgstr ""
+
 # Objects : [w74704624]
 # name:be: [Чыгуначны вакзал]
 msgid "ЖД Вокзал"
@@ -806,11 +886,6 @@ msgstr ""
 # Objects : [n455929248]
 # name:be: [Жаночая кансультацыя]
 msgid "Женская консультация"
-msgstr ""
-
-# Objects : [w38324774]
-# name:be: []
-msgid "Женская тюрьма"
 msgstr ""
 
 # Objects : [n2589440163]
@@ -878,11 +953,6 @@ msgstr ""
 msgid "Задвижка Чугунная Фланцевая"
 msgstr ""
 
-# Objects : [n3051792971]
-# name:be: [Залінейны]
-msgid "Залинейный"
-msgstr ""
-
 # Objects : [n3328016329]
 # name:be: []
 msgid "Защитникам Бреста"
@@ -916,6 +986,11 @@ msgstr ""
 # Objects : [n1334729553]
 # name:be: []
 msgid "Зубная поликлиника взрослых"
+msgstr ""
+
+# Objects : [n3475464901]
+# name:be: []
+msgid "Идеал-Денталь"
 msgstr ""
 
 # Objects : [n2788680486]
@@ -963,9 +1038,9 @@ msgstr ""
 msgid "ИП «Алкопак» Отдел сбыта и бухгалтерия"
 msgstr ""
 
-# Objects : [n243044957]
-# name:be: [Іпуць]
-msgid "Ипуть"
+# Objects : [w38324774]
+# name:be: [Папраўчая калонія № 4]
+msgid "Исправительная колония № 4"
 msgstr ""
 
 # Objects : [n2788680509]
@@ -1058,7 +1133,7 @@ msgstr ""
 msgid "Калипсо"
 msgstr ""
 
-# Objects : [n540986680]
+# Objects : [w330006651]
 # name:be: []
 msgid "Кардиологическая больница"
 msgstr ""
@@ -1066,6 +1141,11 @@ msgstr ""
 # Objects : [n3081959339]
 # name:be: []
 msgid "Картинг-клуб «Луговая»"
+msgstr ""
+
+# Objects : [w329490682]
+# name:be: []
+msgid "кафе и магазин непрод. товаров"
 msgstr ""
 
 # Objects : [n2545075396]
@@ -1118,7 +1198,7 @@ msgstr ""
 msgid "Колесо обозрения"
 msgstr ""
 
-# Objects : [n621359334]
+# Objects : [w42792864]
 # name:be: [Каледж Машынабудавання]
 msgid "Колледж Машиностроения"
 msgstr ""
@@ -1198,6 +1278,11 @@ msgstr ""
 msgid "Костел Рождества Пресвятой Девы Марии"
 msgstr ""
 
+# Objects : [w335861673]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [n1416623922]
 # name:be: [Краснае]
 msgid "Красное"
@@ -1261,6 +1346,11 @@ msgstr ""
 # Objects : [w261889330]
 # name:be: []
 msgid "Мебельная фабрика Прогресс"
+msgstr ""
+
+# Objects : [w329490683]
+# name:be: []
+msgid "мед. диагностический центр"
 msgstr ""
 
 # Objects : [w64742627]
@@ -1428,7 +1518,7 @@ msgstr ""
 msgid "ОАО "Автобусный парк № 6 г. Гомеля""
 msgstr ""
 
-# Objects : [w263254136]
+# Objects : [w263254136, w330910459]
 # name:be: []
 msgid "ОАО "Гомельский завод пусковых двигателей имени П.К.Пономаренко""
 msgstr ""
@@ -1478,7 +1568,12 @@ msgstr ""
 msgid "Областной центр коррекционно-развивающего обучения и реабилитации"
 msgstr ""
 
-# Objects : [n540986713]
+# Objects : [w64742566]
+# name:be: []
+msgid "Общежитие Гомельского Торгово-Экономического Колледжа"
+msgstr ""
+
+# Objects : [w43177832]
 # name:be: []
 msgid "Онкологическая больница"
 msgstr ""
@@ -1526,6 +1621,11 @@ msgstr ""
 # Objects : [w64953581]
 # name:be: []
 msgid "п. Красный Богатырь"
+msgstr ""
+
+# Objects : [n3433708660]
+# name:be: []
+msgid "Памятник Богдану Хмельницкому"
 msgstr ""
 
 # Objects : [n471764408]
@@ -1623,14 +1723,14 @@ msgstr ""
 msgid "платформа № 3"
 msgstr ""
 
+# Objects : [w338584309]
+# name:be: []
+msgid "Площадь"
+msgstr ""
+
 # Objects : [w245661069]
 # name:be: []
 msgid "площадь Труда"
-msgstr ""
-
-# Objects : [w275903917]
-# name:be: []
-msgid "ПМС"
 msgstr ""
 
 # Objects : [w173060153]
@@ -1668,11 +1768,6 @@ msgstr ""
 msgid "Поликлиника №4"
 msgstr ""
 
-# Objects : [n625643859]
-# name:be: [Паліклініка № 5]
-msgid "Поликлиника № 5"
-msgstr ""
-
 # Objects : [n1334729541, n621359365]
 # name:be: []
 msgid "Поликлиника №6"
@@ -1703,9 +1798,19 @@ msgstr ""
 msgid "Приемный пункт стеклотары"
 msgstr ""
 
+# Objects : [w49482454]
+# name:be: []
+msgid "Приют"
+msgstr ""
+
 # Objects : [w105116499]
 # name:be: []
 msgid "Продуктовый"
+msgstr ""
+
+# Objects : [w223675081]
+# name:be: []
+msgid "Продуктовый магазин "Ассорти""
 msgstr ""
 
 # Objects : [n621359352]
@@ -1768,6 +1873,11 @@ msgstr ""
 msgid "Ратон"
 msgstr ""
 
+# Objects : [w335861676]
+# name:be: []
+msgid "РБУ"
+msgstr ""
+
 # Objects : [w321620011]
 # name:be: []
 msgid "Ремонтная зона Депо №1"
@@ -1813,8 +1923,8 @@ msgstr ""
 msgid "Роддом № 1"
 msgstr ""
 
-# Objects : [n243044962]
-# name:be: [Раманавічы]
+# Objects : [n3444765752, w25081174]
+# name:be: []
 msgid "Романовичи"
 msgstr ""
 
@@ -1823,17 +1933,22 @@ msgstr ""
 msgid "РПУП Гомельоблгаз"
 msgstr ""
 
+# Objects : [w49131520]
+# name:be: []
+msgid "РУП "Строительный трест № 14""
+msgstr ""
+
+# Objects : [n1359774983]
+# name:be: [Рынак]
+msgid "Рынок"
+msgstr ""
+
 # Objects : [n2847470283]
 # name:be: []
 msgid "Рынок "Давыдовский""
 msgstr ""
 
-# Objects : [n1103009351]
-# name:be: []
-msgid "санаторий Гомельского отд. БЖД"
-msgstr ""
-
-# Objects : [n2766722490]
+# Objects : [w95061933]
 # name:be: []
 msgid "Санаторий Гомельского отд. БЖД"
 msgstr ""
@@ -1863,11 +1978,6 @@ msgstr ""
 msgid "СДЮШОР № 3"
 msgstr ""
 
-# Objects : [w238232102]
-# name:be: []
-msgid "Сельмаш"
-msgstr ""
-
 # Objects : [n452529875]
 # name:be: []
 msgid "Сельмашевская клиническая больница"
@@ -1888,6 +1998,16 @@ msgstr ""
 msgid "Сказочные скульптуры из дерева"
 msgstr ""
 
+# Objects : [w335861674]
+# name:be: []
+msgid "Скалд цемента"
+msgstr ""
+
+# Objects : [w335861675]
+# name:be: []
+msgid "Склад"
+msgstr ""
+
 # Objects : [w78330299]
 # name:be: []
 msgid "склад готовой продукции"
@@ -1906,6 +2026,11 @@ msgstr ""
 # Objects : [n3188102115]
 # name:be: []
 msgid "Скупка металлов"
+msgstr ""
+
+# Objects : [w340393589]
+# name:be: [Следчы ізалятар № 3]
+msgid "Следственный изолятор № 3"
 msgstr ""
 
 # Objects : [n2788684364]
@@ -1938,9 +2063,24 @@ msgstr ""
 msgid "Социальный центр дневного прибывания"
 msgstr ""
 
+# Objects : [w49260088]
+# name:be: []
+msgid "СОШ №32"
+msgstr ""
+
+# Objects : [w65086225]
+# name:be: []
+msgid "СОШ № 3 им.Д.Н.Пенязькова"
+msgstr ""
+
 # Objects : [w49131462]
 # name:be: []
 msgid "СП ОАО "Спартак""
+msgstr ""
+
+# Objects : [w50232933]
+# name:be: []
+msgid "Стеклозавод"
 msgstr ""
 
 # Objects : [n2850478196]
@@ -1978,14 +2118,14 @@ msgstr ""
 msgid "Стройкомлекстехника"
 msgstr ""
 
-# Objects : [w232921601]
-# name:be: []
-msgid "Строймаркет"
-msgstr ""
-
 # Objects : [w141698552]
 # name:be: []
 msgid "СУ 2"
+msgstr ""
+
+# Objects : [w328982165]
+# name:be: []
+msgid "Супермаркет Соседи"
 msgstr ""
 
 # Objects : [n1343518036]
@@ -1993,9 +2133,59 @@ msgstr ""
 msgid "Суши-бар "Табу""
 msgstr ""
 
+# Objects : [w95061368]
+# name:be: []
+msgid "СШ 28 им.Э.В.Серегина"
+msgstr ""
+
 # Objects : [w121284738]
 # name:be: []
 msgid "СШ № 19 с художественным уклоном"
+msgstr ""
+
+# Objects : [w42792839]
+# name:be: []
+msgid "СШ № 25"
+msgstr ""
+
+# Objects : [w47005362]
+# name:be: []
+msgid "СШ №30"
+msgstr ""
+
+# Objects : [w49260143]
+# name:be: []
+msgid "СШ № 43"
+msgstr ""
+
+# Objects : [r4623574]
+# name:be: []
+msgid "СШ №50"
+msgstr ""
+
+# Objects : [w43459180]
+# name:be: []
+msgid "СШ № 53"
+msgstr ""
+
+# Objects : [w38323703]
+# name:be: []
+msgid "СШ № 60"
+msgstr ""
+
+# Objects : [w284094711]
+# name:be: []
+msgid "СШ№61"
+msgstr ""
+
+# Objects : [w62775647]
+# name:be: []
+msgid "СШ №69"
+msgstr ""
+
+# Objects : [r3491416]
+# name:be: []
+msgid "СШ №8"
 msgstr ""
 
 # Objects : [n633516440]
@@ -2143,6 +2333,11 @@ msgstr ""
 msgid "Фанеро-спичечный комбинат"
 msgstr ""
 
+# Objects : [w335861679]
+# name:be: []
+msgid "фиилиал "Гомельский завод ЖБИ-3" ОАО "Гомельоблстрой""
+msgstr ""
+
 # Objects : [n1343518012]
 # name:be: [Філармонія]
 msgid "Филармония"
@@ -2178,7 +2373,12 @@ msgstr ""
 msgid "Фонтан"
 msgstr ""
 
-# Objects : [n794364258, n794364654, n794364868]
+# Objects : [w335861670]
+# name:be: []
+msgid "Формовочно-арматурный цех"
+msgstr ""
+
+# Objects : [n794364258, n794364654]
 # name:be: []
 msgid "ФрансаБанк"
 msgstr ""
@@ -2206,6 +2406,11 @@ msgstr ""
 # Objects : [n3284519163, w321688654]
 # name:be: []
 msgid "Храм Преображения Господня"
+msgstr ""
+
+# Objects : [w93183852]
+# name:be: []
+msgid "Художественное училище"
 msgstr ""
 
 # Objects : [n243046787]
@@ -2273,6 +2478,11 @@ msgstr ""
 msgid "Цирк"
 msgstr ""
 
+# Objects : [w305673609, w306798225, w312546085, w313649137]
+# name:be: []
+msgid "ЦТП"
+msgstr ""
+
 # Objects : [n242979104]
 # name:be: []
 msgid "Чапаево"
@@ -2313,6 +2523,11 @@ msgstr ""
 msgid "Чисто сауна"
 msgstr ""
 
+# Objects : [n3442743936, w168539640]
+# name:be: []
+msgid "ЧСТУП "ПЛАТиДАР" uslugi-ok.by"
+msgstr ""
+
 # Objects : [w321685114]
 # name:be: []
 msgid "Шиферный склад"
@@ -2321,6 +2536,11 @@ msgstr ""
 # Objects : [w209326046]
 # name:be: []
 msgid "Школа №33"
+msgstr ""
+
+# Objects : [w50234128]
+# name:be: []
+msgid "Школа №42"
 msgstr ""
 
 # Objects : [w263240930]
@@ -2348,7 +2568,7 @@ msgstr ""
 msgid "Эндокринологический Диспансер"
 msgstr ""
 
-# Objects : [n1434256861]
+# Objects : [w111680427, w337339478]
 # name:be: []
 msgid "Энергосбыт"
 msgstr ""
@@ -2361,5 +2581,30 @@ msgstr ""
 # Objects : [w64946704]
 # name:be: []
 msgid "ясли-сад № 136 Искорка"
+msgstr ""
+
+# Objects : [w49260190]
+# name:be: []
+msgid "ясли-сад №141"
+msgstr ""
+
+# Objects : [w49482455]
+# name:be: []
+msgid "Ясли-сад №161"
+msgstr ""
+
+# Objects : [w38623177]
+# name:be: []
+msgid "Ясли-сад №166"
+msgstr ""
+
+# Objects : [w49260197]
+# name:be: []
+msgid "ясли-сад №17"
+msgstr ""
+
+# Objects : [w38807351]
+# name:be: []
+msgid "Ясли-сад №2"
 msgstr ""
 

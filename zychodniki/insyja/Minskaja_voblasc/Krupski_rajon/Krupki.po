@@ -8,6 +8,11 @@ msgstr ""
 msgid "Крупчанка"
 msgstr ""
 
+# Objects : [w221270591]
+# name:be: [Новае Жыццё]
+msgid "Новая Жизнь"
+msgstr ""
+
 # Objects : [w123299937]
 # name:be: []
 msgid "ООО Амкодор-можа"

@@ -23,6 +23,11 @@ msgstr ""
 msgid "Горная улица"
 msgstr ""
 
+# Objects : [w101302040, w130213235]
+# name:be: []
+msgid "Горняки - Кодевцы"
+msgstr ""
+
 # Objects : [w108718620]
 # name:be: []
 msgid "Городокская улица"
@@ -43,7 +48,7 @@ msgstr ""
 msgid "Заречная улица"
 msgstr ""
 
-# Objects : [w100646887, w154261198, w168430815, w235576935, w25277102, w273902340]
+# Objects : [w100646887, w154261198, w168430815, w235576935, w273902340, w331477607]
 # name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
 msgstr ""
@@ -288,6 +293,11 @@ msgstr ""
 msgid "улица Дружбы"
 msgstr ""
 
+# Objects : [w154364463]
+# name:be: []
+msgid "улица Заводская"
+msgstr ""
+
 # Objects : [w205176401, w313827322]
 # name:be: []
 msgid "улица Мира"
@@ -343,7 +353,7 @@ msgstr ""
 msgid "Школьная улица"
 msgstr ""
 
-# Objects : [w273902349, w273902354]
+# Objects : [w25717981, w273902349, w273902354]
 # name:be: []
 msgid "Юбилейная улица"
 msgstr ""

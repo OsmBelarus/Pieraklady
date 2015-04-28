@@ -48,6 +48,11 @@ msgstr ""
 msgid "Кафе БУДЬМО"
 msgstr ""
 
+# Objects : [w264403155]
+# name:be: []
+msgid "Коло Струменя"
+msgstr ""
+
 # Objects : [w239012524]
 # name:be: []
 msgid "Рыбинспекция"
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [w320632319]
 # name:be: []
 msgid "Склад"
+msgstr ""
+
+# Objects : [w264403098]
+# name:be: []
+msgid "Тураускія краявіды"
 msgstr ""
 
 # Objects : [w299462556]

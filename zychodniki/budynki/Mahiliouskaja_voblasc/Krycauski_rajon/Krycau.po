@@ -265,7 +265,7 @@ msgstr ""
 
 # Objects : [w209024425]
 # name:be: []
-msgid "Инвекционное отделение ЦРБ"
+msgid "Инфекционное отделение ЦРБ"
 msgstr ""
 
 # Objects : [w211909063]
@@ -276,6 +276,16 @@ msgstr ""
 # Objects : [w209166649]
 # name:be: []
 msgid "Квадрат"
+msgstr ""
+
+# Objects : [w242699388]
+# name:be: []
+msgid "КГБ"
+msgstr ""
+
+# Objects : [w205432738]
+# name:be: []
+msgid "Котельная"
 msgstr ""
 
 # Objects : [w209024426]
@@ -351,6 +361,11 @@ msgstr ""
 # Objects : [w207721748, w209134333]
 # name:be: []
 msgid "магазин промышленных товаров"
+msgstr ""
+
+# Objects : [w209033202]
+# name:be: []
+msgid "магазин ритуальные услуги"
 msgstr ""
 
 # Objects : [w208407606]
@@ -646,6 +661,11 @@ msgstr ""
 # Objects : [w209024433]
 # name:be: []
 msgid "Цетральный корпус ЦРБ"
+msgstr ""
+
+# Objects : [w242699390]
+# name:be: []
+msgid "ЦСУ"
 msgstr ""
 
 # Objects : [w209145350]

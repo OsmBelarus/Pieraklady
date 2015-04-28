@@ -18,6 +18,11 @@ msgstr ""
 msgid "Дом культуры"
 msgstr ""
 
+# Objects : [w257255131]
+# name:be: []
+msgid "Дом охотника "Дубровица""
+msgstr ""
+
 # Objects : [w256696994]
 # name:be: []
 msgid "Кантора совхоза"

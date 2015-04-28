@@ -33,7 +33,7 @@ msgstr ""
 msgid "2-я Минская улица"
 msgstr ""
 
-# Objects : [w210947797, w210947799, w252586176, w252597774]
+# Objects : [w210947797]
 # name:be: [2-я Слабадская вуліца]
 msgid "2-я Слободская улица"
 msgstr ""
@@ -58,24 +58,14 @@ msgstr ""
 msgid "Заводская улица"
 msgstr ""
 
-# Objects : [w207293815]
-# name:be: [Зіньковіча вуліца]
-msgid "Зиньковича улица"
-msgstr ""
-
 # Objects : [w207541424, w211660031]
 # name:be: [Інтэрнацыянальная вуліца]
 msgid "Интернациональная улица"
 msgstr ""
 
 # Objects : [w327411128]
-# name:be: []
+# name:be: [завулак Кірава]
 msgid "Кирова переулок"
-msgstr ""
-
-# Objects : [w327411129]
-# name:be: []
-msgid "Кирова улица"
 msgstr ""
 
 # Objects : [w232429731]
@@ -88,7 +78,7 @@ msgstr ""
 msgid "Колхозный переулок"
 msgstr ""
 
-# Objects : [w210929447, w210946338, w251596422]
+# Objects : [w210929447, w210946338]
 # name:be: [Камунарская вуліца]
 msgid "Коммунарская улица"
 msgstr ""
@@ -338,6 +328,16 @@ msgstr ""
 msgid "улица Заслонова"
 msgstr ""
 
+# Objects : [w207293815]
+# name:be: [вуліца Зіньковіча]
+msgid "улица Зиньковича"
+msgstr ""
+
+# Objects : [w327411129]
+# name:be: [вуліца Кірава]
+msgid "улица Кирова"
+msgstr ""
+
 # Objects : [w256016129, w80193241]
 # name:be: [вуліца Куляшова]
 msgid "улица Кулешова"
@@ -408,6 +408,11 @@ msgstr ""
 msgid "улица Чигринова"
 msgstr ""
 
+# Objects : [w257053683]
+# name:be: [вуліца Энергетыкаў]
+msgid "улица Энергетиков"
+msgstr ""
+
 # Objects : [w248802468, w251120375]
 # name:be: [вуліца Энтузіястаў]
 msgid "улица Энтузиастов"
@@ -426,11 +431,6 @@ msgstr ""
 # Objects : [w256808324]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
-msgstr ""
-
-# Objects : [w257053683]
-# name:be: []
-msgid "Энергетиков улица"
 msgstr ""
 
 # Objects : [w256016130]

@@ -3,6 +3,11 @@
 msgid "Tatneft №4"
 msgstr ""
 
+# Objects : [n918543979]
+# name:be: []
+msgid "А-100 №34"
+msgstr ""
+
 # Objects : [n356463918]
 # name:be: []
 msgid "Белоруснефть № 11"
@@ -15,6 +20,11 @@ msgstr ""
 
 # Objects : [n2727431365]
 # name:be: []
-msgid "Газпромнефть №"
+msgid "Газпромнефть №10"
+msgstr ""
+
+# Objects : [w335858892]
+# name:be: []
+msgid "СХП "Мазоловогаз""
 msgstr ""
 

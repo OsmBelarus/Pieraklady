@@ -3,6 +3,11 @@
 msgid "Агроусадьба "Акарина""
 msgstr ""
 
+# Objects : [w340702470]
+# name:be: []
+msgid "Баня"
+msgstr ""
+
 # Objects : [w204114802]
 # name:be: []
 msgid "Дом культуры"
@@ -48,6 +53,16 @@ msgstr ""
 msgid "Склеп-усыпальница"
 msgstr ""
 
+# Objects : [w337360328]
+# name:be: []
+msgid "Соловьиная роща"
+msgstr ""
+
+# Objects : [w337067149]
+# name:be: []
+msgid "Столовая"
+msgstr ""
+
 # Objects : [w204348864]
 # name:be: []
 msgid "Сушильный комплекс КЗС-30 ОАО "Хотилы-агро""
@@ -56,5 +71,10 @@ msgstr ""
 # Objects : [w248539775]
 # name:be: []
 msgid "ФАП"
+msgstr ""
+
+# Objects : [w340691936]
+# name:be: []
+msgid "Ферма"
 msgstr ""
 

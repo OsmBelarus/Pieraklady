@@ -1,11 +1,26 @@
+# Objects : [n2895151712, w285877341]
+# name:be: [Алейнікі]
+msgid "Алейники"
+msgstr ""
+
 # Objects : [n243034283, w25097622]
 # name:be: [Александрова]
 msgid "Александрово"
 msgstr ""
 
+# Objects : [n243040167, w25103548]
+# name:be: [Асінаўка]
+msgid "Асиновка"
+msgstr ""
+
 # Objects : [n243031471, w25105049]
 # name:be: [Аскершчына]
 msgid "Аскерщина"
+msgstr ""
+
+# Objects : [n243030142, w25104384]
+# name:be: [Асавец]
+msgid "Асовец"
 msgstr ""
 
 # Objects : [n243040250, w25103543]
@@ -20,7 +35,7 @@ msgstr ""
 
 # Objects : [n243031455, w25105063]
 # name:be: [Берасні]
-msgid "Бересни"
+msgid "Берестни"
 msgstr ""
 
 # Objects : [n243041086, w25103584]
@@ -61,6 +76,11 @@ msgstr ""
 # Objects : [n243027078, w25105929]
 # name:be: [Багданава]
 msgid "Богданово"
+msgstr ""
+
+# Objects : [n957477192, w84753601]
+# name:be: [Вялікія Паўлавічы]
+msgid "Большие Павловичи"
 msgstr ""
 
 # Objects : [n243030162, w25104374]
@@ -128,11 +148,6 @@ msgstr ""
 msgid "Бычково"
 msgstr ""
 
-# Objects : [n957477192, w84753601]
-# name:be: [Вялікія Паўлавічы]
-msgid "Великие Павловичи"
-msgstr ""
-
 # Objects : [n243038461, w25104347]
 # name:be: [Верхняе Крывіна]
 msgid "Верхнее Кривино"
@@ -198,6 +213,11 @@ msgstr ""
 msgid "Ганковичи"
 msgstr ""
 
+# Objects : [n243027175, w25105858]
+# name:be: [Гарані]
+msgid "Гарани"
+msgstr ""
+
 # Objects : [n243040028, w25103553]
 # name:be: [Гняздзілава]
 msgid "Гнездилово"
@@ -216,11 +236,6 @@ msgstr ""
 # Objects : [n243031353, w25105027]
 # name:be: [Ганчарова 2]
 msgid "Гончарово 2"
-msgstr ""
-
-# Objects : [n243027175, w25105858]
-# name:be: [Гарані]
-msgid "Горани"
 msgstr ""
 
 # Objects : [n243041240, w25104364]
@@ -313,11 +328,6 @@ msgstr ""
 msgid "Долосцы"
 msgstr ""
 
-# Objects : [n243034291, w25097595]
-# name:be: [Дарагакупава]
-msgid "Дорогокупово"
-msgstr ""
-
 # Objects : [n243031432, w25105067]
 # name:be: [Драбушова]
 msgid "Драбушово"
@@ -373,14 +383,14 @@ msgstr ""
 msgid "Ермоловщина"
 msgstr ""
 
-# Objects : [n243034347, w25097709]
-# name:be: [Жавуры]
-msgid "Жавуры"
-msgstr ""
-
 # Objects : [n243034333, w25097664]
 # name:be: [Жаркі]
 msgid "Жарки"
+msgstr ""
+
+# Objects : [n243034347, w25097709]
+# name:be: [Жавуры]
+msgid "Жауры"
 msgstr ""
 
 # Objects : [n243027115, w25105904]
@@ -503,6 +513,11 @@ msgstr ""
 msgid "Ильягово"
 msgstr ""
 
+# Objects : [n243039859, w25103539]
+# name:be: [Камлі]
+msgid "Камли"
+msgstr ""
+
 # Objects : [w25105832]
 # name:be: [Капусціна]
 msgid "Капустино"
@@ -526,11 +541,6 @@ msgstr ""
 # Objects : [n243030167, w25104368]
 # name:be: [Казінае Сяло]
 msgid "Козиное Село"
-msgstr ""
-
-# Objects : [n243039859, w25103539]
-# name:be: [Камлі]
-msgid "Комли"
 msgstr ""
 
 # Objects : [n243031291, w25105048]
@@ -590,7 +600,7 @@ msgstr ""
 
 # Objects : [n243038581, w25104300]
 # name:be: [Лапы]
-msgid "Лапы"
+msgid "Лаппы"
 msgstr ""
 
 # Objects : [n243034356, w25097744]
@@ -678,6 +688,11 @@ msgstr ""
 msgid "Мартиново"
 msgstr ""
 
+# Objects : [n243031442, w25105062]
+# name:be: [Машкі]
+msgid "Машки"
+msgstr ""
+
 # Objects : [n243038470, w25104329]
 # name:be: [Мількавічы]
 msgid "Мильковичи"
@@ -691,11 +706,6 @@ msgstr ""
 # Objects : [n243030125, w25104383]
 # name:be: [Маскалёнкі]
 msgid "Москалёнки"
-msgstr ""
-
-# Objects : [n243031442, w25105062]
-# name:be: [Машкі]
-msgid "Мошки"
 msgstr ""
 
 # Objects : [n243026780, w25105846]
@@ -748,29 +758,24 @@ msgstr ""
 msgid "Озёрки"
 msgstr ""
 
-# Objects : [n2895151712, w285877341]
-# name:be: [Алейнікі]
-msgid "Олейники"
-msgstr ""
-
 # Objects : [n243026759, w25105844]
 # name:be: [Арлова]
 msgid "Орлово"
 msgstr ""
 
-# Objects : [n243030137, n243040167, w25103548, w25104380]
+# Objects : [n243030137, w25104380]
 # name:be: [Асінаўка]
 msgid "Осиновка"
-msgstr ""
-
-# Objects : [n243030142, w25104384]
-# name:be: [Асавец]
-msgid "Осовец"
 msgstr ""
 
 # Objects : [n243034301, w25097652]
 # name:be: [Астроўна]
 msgid "Островно"
+msgstr ""
+
+# Objects : [n243041135, w293813235]
+# name:be: [Падакі]
+msgid "Падаки"
 msgstr ""
 
 # Objects : [n243030154, w25104363]
@@ -800,22 +805,17 @@ msgstr ""
 
 # Objects : [n243034360, w25097727]
 # name:be: [Плісы]
-msgid "Плисы"
-msgstr ""
-
-# Objects : [n243026838, w25105856]
-# name:be: [Паўазер’е]
-msgid "Повозерье"
-msgstr ""
-
-# Objects : [n243041135, w293813235]
-# name:be: [Падакі]
-msgid "Подаки"
+msgid "Плиссы"
 msgstr ""
 
 # Objects : [n243030152, w25104377]
 # name:be: [Пажарышча]
 msgid "Пожарище"
+msgstr ""
+
+# Objects : [n243026838, w25105856]
+# name:be: [Паўазер’е]
+msgid "Полуозерье"
 msgstr ""
 
 # Objects : [n243026858, w25105821]
@@ -836,6 +836,11 @@ msgstr ""
 # Objects : [n243027134, w25105890]
 # name:be: [Прыгожае]
 msgid "Пригожее"
+msgstr ""
+
+# Objects : [n243034291, w25097595]
+# name:be: []
+msgid "Придвинье"
 msgstr ""
 
 # Objects : [n243027072, w25105931]
@@ -963,7 +968,12 @@ msgstr ""
 msgid "Скакуновщина"
 msgstr ""
 
-# Objects : [n243026786, n243034422, w25097554, w25105852]
+# Objects : [n243034422, w25097554]
+# name:be: [Слабада]
+msgid "Слабода"
+msgstr ""
+
+# Objects : [n243026786, w25105852]
 # name:be: [Слабада]
 msgid "Слобода"
 msgstr ""
@@ -1018,11 +1028,6 @@ msgstr ""
 msgid "Стаськово"
 msgstr ""
 
-# Objects : [n243041113, w25103576]
-# name:be: [Стрэлішча]
-msgid "Стрелище"
-msgstr ""
-
 # Objects : [n243031297, w25105861]
 # name:be: [Стрыжава]
 msgid "Стрижево"
@@ -1065,7 +1070,7 @@ msgstr ""
 
 # Objects : [n242979059, w25105829]
 # name:be: [Ула]
-msgid "Ула"
+msgid "Улла"
 msgstr ""
 
 # Objects : [n243026880, w25105827]
@@ -1075,7 +1080,7 @@ msgstr ""
 
 # Objects : [n2815408365, w276985113]
 # name:be: [Філіпінкі]
-msgid "Филипинки"
+msgid "Филиппинки"
 msgstr ""
 
 # Objects : [n243026874, w25105828]
@@ -1105,7 +1110,7 @@ msgstr ""
 
 # Objects : [n2973982978, w25104344]
 # name:be: [Храпавішчына]
-msgid "Храповищино"
+msgid "Храповищено"
 msgstr ""
 
 # Objects : [n243041151, w25103546]
@@ -1175,7 +1180,7 @@ msgstr ""
 
 # Objects : [n243041121, w25103579]
 # name:be: [Шчакатоўшчына]
-msgid "Щекотовщина"
+msgid "Щикотовщина"
 msgstr ""
 
 # Objects : [n243030156, w25104372]

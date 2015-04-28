@@ -488,7 +488,7 @@ msgstr ""
 msgid "Застенок"
 msgstr ""
 
-# Objects : [n243021488, w25124592]
+# Objects : [n243021488, w25124592, w25124595]
 # name:be: [Зацэнне]
 msgid "Заценье"
 msgstr ""
@@ -1438,7 +1438,7 @@ msgstr ""
 msgid "Углы"
 msgstr ""
 
-# Objects : [n243021492, w25124589]
+# Objects : [n243021492, w25124580, w25124589]
 # name:be: [Фільянова]
 msgid "Фильяново"
 msgstr ""

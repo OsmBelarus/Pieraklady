@@ -4,12 +4,12 @@ msgid "Библиотека"
 msgstr ""
 
 # Objects : [n1255802906]
-# name:be: []
+# name:be: [Бібліятэка №1]
 msgid "Библиотека №1"
 msgstr ""
 
 # Objects : [n1620313889]
-# name:be: []
+# name:be: [Бібліятэка №2]
 msgid "Библиотека №2"
 msgstr ""
 
@@ -24,7 +24,7 @@ msgid "Петришковская сельская библиотека"
 msgstr ""
 
 # Objects : [n1179002359]
-# name:be: []
+# name:be: [Сельская бібліятэка-клуб]
 msgid "Сельская библиотека-клуб"
 msgstr ""
 

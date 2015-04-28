@@ -278,6 +278,11 @@ msgstr ""
 msgid "Иешива"
 msgstr ""
 
+# Objects : [n3372183201]
+# name:be: []
+msgid "К-150"
+msgstr ""
+
 # Objects : [n3281781861]
 # name:be: []
 msgid "Казино"
@@ -316,6 +321,11 @@ msgstr ""
 # Objects : [w138210230]
 # name:be: []
 msgid "Локомотивное депо"
+msgstr ""
+
+# Objects : [n3389365974]
+# name:be: []
+msgid "магазин "Копеечка"/ аптека"
 msgstr ""
 
 # Objects : [n3282676673]

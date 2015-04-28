@@ -238,11 +238,6 @@ msgstr ""
 msgid "ЗАО Проммаш"
 msgstr ""
 
-# Objects : [n243041782]
-# name:be: [Зацішша]
-msgid "Затишье"
-msgstr ""
-
 # Objects : [n286637111]
 # name:be: []
 msgid "Звездочёт"
@@ -261,6 +256,11 @@ msgstr ""
 # Objects : [n2880997496]
 # name:be: []
 msgid "ИП Соколов Андрей Сергеевич"
+msgstr ""
+
+# Objects : [w340393586]
+# name:be: [Папраўчая калонія № 15]
+msgid "Исправительная колония № 15"
 msgstr ""
 
 # Objects : [n3263667082]
@@ -418,7 +418,7 @@ msgstr ""
 msgid "Могилёв"
 msgstr ""
 
-# Objects : [n3307600763]
+# Objects : [n3307600763, w86764854]
 # name:be: [Магілёў 1]
 msgid "Могилёв-1"
 msgstr ""
@@ -698,6 +698,11 @@ msgstr ""
 msgid "проспект Димитрова"
 msgstr ""
 
+# Objects : [w330195493]
+# name:be: []
+msgid "ПРУД"
+msgstr ""
+
 # Objects : [w135579550, w135579551]
 # name:be: []
 msgid "Рабочий посёлок"
@@ -771,6 +776,11 @@ msgstr ""
 # Objects : [w127796077]
 # name:be: []
 msgid "Строммашина"
+msgstr ""
+
+# Objects : [w286637846]
+# name:be: []
+msgid "СШ №25"
 msgstr ""
 
 # Objects : [w289045206]
@@ -876,6 +886,11 @@ msgstr ""
 # Objects : [w289044108]
 # name:be: []
 msgid "ТЭЦ-2"
+msgstr ""
+
+# Objects : [w135329588]
+# name:be: [Турма №4]
+msgid "Тюрьма №4"
 msgstr ""
 
 # Objects : [w128162226]
@@ -993,6 +1008,11 @@ msgstr ""
 msgid "Университет продовольствия"
 msgstr ""
 
+# Objects : [w286866472]
+# name:be: []
+msgid "Учебный корпус БРУ №5"
+msgstr ""
+
 # Objects : [n1364732812]
 # name:be: []
 msgid "Фантом"
@@ -1041,6 +1061,11 @@ msgstr ""
 # Objects : [w238066108]
 # name:be: []
 msgid "Чапаево"
+msgstr ""
+
+# Objects : [n3413132863]
+# name:be: []
+msgid "ЧУП "Комбелга" - GPS навигация"
 msgstr ""
 
 # Objects : [w168460661]

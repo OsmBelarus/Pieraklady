@@ -8,14 +8,39 @@ msgstr ""
 msgid "Беседь"
 msgstr ""
 
+# Objects : [n243045107]
+# name:be: []
+msgid "Блудемля"
+msgstr ""
+
+# Objects : [n243045111]
+# name:be: []
+msgid "Братьковичи"
+msgstr ""
+
+# Objects : [n243047180]
+# name:be: []
+msgid "Ветухна"
+msgstr ""
+
+# Objects : [w337719545]
+# name:be: [Вінакурня]
+msgid "Винокурня"
+msgstr ""
+
+# Objects : [n243047200]
+# name:be: []
+msgid "Вировка"
+msgstr ""
+
 # Objects : [r2969233]
 # name:be: [Віцебскі завулак]
 msgid "Витебский переулок"
 msgstr ""
 
-# Objects : [n2576593562]
+# Objects : [w25195360]
 # name:be: []
-msgid "Водахранилище Боровец"
+msgid "Водохранилище Боровец"
 msgstr ""
 
 # Objects : [n271091702]
@@ -23,14 +48,119 @@ msgstr ""
 msgid "Волосковня"
 msgstr ""
 
+# Objects : [n243047207]
+# name:be: [Вараноўка]
+msgid "Вороновка"
+msgstr ""
+
+# Objects : [n243047172]
+# name:be: []
+msgid "Гайковка"
+msgstr ""
+
+# Objects : [n243047166]
+# name:be: []
+msgid "Гарь"
+msgstr ""
+
 # Objects : [r2969234]
 # name:be: [Гродзенскі завулак]
 msgid "Гродненский переулок"
 msgstr ""
 
+# Objects : [n243047188]
+# name:be: []
+msgid "Гутка"
+msgstr ""
+
+# Objects : [n243047192]
+# name:be: [Дзяражня]
+msgid "Деряжня"
+msgstr ""
+
+# Objects : [n243047177]
+# name:be: []
+msgid "Дубиец"
+msgstr ""
+
+# Objects : [n243045099]
+# name:be: [Дубраўка]
+msgid "Дубровка"
+msgstr ""
+
 # Objects : [n243046877]
 # name:be: []
 msgid "Егоровка"
+msgstr ""
+
+# Objects : [n243047199]
+# name:be: [Зарэчча]
+msgid "Заречье"
+msgstr ""
+
+# Objects : [n243046862, n243047343]
+# name:be: []
+msgid "Затишье"
+msgstr ""
+
+# Objects : [n243047193, w25078262]
+# name:be: []
+msgid "Клетки"
+msgstr ""
+
+# Objects : [n243045113]
+# name:be: []
+msgid "Колодезская"
+msgstr ""
+
+# Objects : [n243047195]
+# name:be: []
+msgid "Красномосковкий"
+msgstr ""
+
+# Objects : [n243046890]
+# name:be: []
+msgid "Красный"
+msgstr ""
+
+# Objects : [n243046875]
+# name:be: []
+msgid "Кудлачев"
+msgstr ""
+
+# Objects : [n243047355]
+# name:be: []
+msgid "Кузьминка"
+msgstr ""
+
+# Objects : [n243047186]
+# name:be: []
+msgid "Ленинский"
+msgstr ""
+
+# Objects : [n243047179]
+# name:be: [Люблін]
+msgid "Люблин"
+msgstr ""
+
+# Objects : [n243047187]
+# name:be: []
+msgid "Мамоновка"
+msgstr ""
+
+# Objects : [n243047048, w25077553]
+# name:be: [Марцінаўка]
+msgid "Мартиновка"
+msgstr ""
+
+# Objects : [n243047170]
+# name:be: []
+msgid "Меловка"
+msgstr ""
+
+# Objects : [w331545667]
+# name:be: []
+msgid "Меловское кладбище"
 msgstr ""
 
 # Objects : [r2969235]
@@ -43,9 +173,84 @@ msgstr ""
 msgid "МН "Дружба""
 msgstr ""
 
+# Objects : [n243047198]
+# name:be: []
+msgid "Мокрое"
+msgstr ""
+
 # Objects : [r2969236]
 # name:be: []
 msgid "Молодежная улица"
+msgstr ""
+
+# Objects : [n243045147]
+# name:be: [Марозаўка]
+msgid "Морозовка"
+msgstr ""
+
+# Objects : [n243046876]
+# name:be: []
+msgid "Николаевка"
+msgstr ""
+
+# Objects : [n243047178]
+# name:be: []
+msgid "Новая Слобода"
+msgstr ""
+
+# Objects : [n243047209]
+# name:be: []
+msgid "Озерец"
+msgstr ""
+
+# Objects : [n243045184]
+# name:be: []
+msgid "Осов"
+msgstr ""
+
+# Objects : [n243047196]
+# name:be: []
+msgid "Островок"
+msgstr ""
+
+# Objects : [n243047168]
+# name:be: []
+msgid "Паломка"
+msgstr ""
+
+# Objects : [n243047338]
+# name:be: []
+msgid "Петровский"
+msgstr ""
+
+# Objects : [n243047189]
+# name:be: []
+msgid "Печенеж"
+msgstr ""
+
+# Objects : [n243046878]
+# name:be: []
+msgid "Покровка"
+msgstr ""
+
+# Objects : [n243046872]
+# name:be: []
+msgid "Привалов"
+msgstr ""
+
+# Objects : [n243047169]
+# name:be: []
+msgid "Провиденец"
+msgstr ""
+
+# Objects : [n243046840]
+# name:be: []
+msgid "Сазаны"
+msgstr ""
+
+# Objects : [n243045096]
+# name:be: []
+msgid "Скалин"
 msgstr ""
 
 # Objects : [n475340527]
@@ -53,18 +258,43 @@ msgstr ""
 msgid "Смольки-Беляны"
 msgstr ""
 
-# Objects : [w215367501]
+# Objects : [n243046874]
 # name:be: []
-msgid "СШ"
+msgid "Сосновец"
 msgstr ""
 
-# Objects : [n2788686634]
-# name:be: [Царква Святой Тройцы]
-msgid "Церковь Святой Троицы"
+# Objects : [n243047208]
+# name:be: [Тарасаўка]
+msgid "Тарасовка"
+msgstr ""
+
+# Objects : [n243047210]
+# name:be: [Вуглы]
+msgid "Углы"
+msgstr ""
+
+# Objects : [n243045186]
+# name:be: []
+msgid "Хоминка"
+msgstr ""
+
+# Objects : [n243047206]
+# name:be: [Хацімск]
+msgid "Хотимск"
+msgstr ""
+
+# Objects : [n243045102]
+# name:be: []
+msgid "Читовые"
 msgstr ""
 
 # Objects : [r2969237]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [n243046956]
+# name:be: []
+msgid "Явулин"
 msgstr ""
 

@@ -8,6 +8,11 @@ msgstr ""
 msgid "Братское кладбище"
 msgstr ""
 
+# Objects : [w122804453]
+# name:be: []
+msgid "Гаражный кооператив"
+msgstr ""
+
 # Objects : [n27077492]
 # name:be: [Гарадок]
 msgid "Городок"
@@ -15,7 +20,7 @@ msgstr ""
 
 # Objects : [w152181374]
 # name:be: []
-msgid "детская"
+msgid "Детская поликлиника, Женская консультация"
 msgstr ""
 
 # Objects : [w282553690]
@@ -28,9 +33,9 @@ msgstr ""
 msgid "пожарный водоем"
 msgstr ""
 
-# Objects : [n2788683608]
-# name:be: [Паштовая станцыя]
-msgid "Почтовая станция"
+# Objects : [w152181360]
+# name:be: []
+msgid "Поликлинника"
 msgstr ""
 
 # Objects : [w29702546]
@@ -41,6 +46,11 @@ msgstr ""
 # Objects : [r3238376]
 # name:be: []
 msgid "склад леспромхоза"
+msgstr ""
+
+# Objects : [w152181355]
+# name:be: []
+msgid "Скорая помощь, Приемное отделение, Стационар"
 msgstr ""
 
 # Objects : [w152433146]
@@ -61,11 +71,6 @@ msgstr ""
 # Objects : [n1324210500]
 # name:be: []
 msgid "Танк ИС"
-msgstr ""
-
-# Objects : [w304052018]
-# name:be: [вуліца Вароўскага]
-msgid "улица Воровского"
 msgstr ""
 
 # Objects : [w152294604]

@@ -1,3 +1,8 @@
+# Objects : [n243047114]
+# name:be: []
+msgid "Гульки"
+msgstr ""
+
 # Objects : [w135284877]
 # name:be: []
 msgid "Дюльки"
@@ -6,6 +11,11 @@ msgstr ""
 # Objects : [n243047053, w25077130]
 # name:be: []
 msgid "Ковалевка 1-я"
+msgstr ""
+
+# Objects : [w331261816]
+# name:be: []
+msgid "Красавичское кладбище"
 msgstr ""
 
 # Objects : [n1486186961]
@@ -33,9 +43,29 @@ msgstr ""
 msgid "Муравец"
 msgstr ""
 
+# Objects : [n243046974]
+# name:be: []
+msgid "Писляковка"
+msgstr ""
+
 # Objects : [w135284875, w135284878, w135284880, w135284882, w135284883]
 # name:be: []
 msgid "Свиньи"
+msgstr ""
+
+# Objects : [n243047587]
+# name:be: []
+msgid "Семеновка 2"
+msgstr ""
+
+# Objects : [n243047135]
+# name:be: []
+msgid "Совна"
+msgstr ""
+
+# Objects : [n243047622]
+# name:be: []
+msgid "Тошна"
 msgstr ""
 
 # Objects : [n2788687351, n2788687352, n2788687359]
@@ -51,5 +81,10 @@ msgstr ""
 # Objects : [n306068429]
 # name:be: [Шасцёраўка]
 msgid "Шестёровка"
+msgstr ""
+
+# Objects : [n243047051]
+# name:be: []
+msgid "Юзефово"
 msgstr ""
 

@@ -128,9 +128,9 @@ msgstr ""
 msgid "Высокие"
 msgstr ""
 
-# Objects : [r3798425]
+# Objects : [r3798403]
 # name:be: []
-msgid "Гераненский сельский совет"
+msgid "Геранёнский сельский Совет"
 msgstr ""
 
 # Objects : [n2092753453, w199260745]
@@ -315,7 +315,7 @@ msgstr ""
 
 # Objects : [r3798390]
 # name:be: []
-msgid "Липнишковский сельский совет"
+msgid "Липнишковский сельский Совет"
 msgstr ""
 
 # Objects : [r2964731]

@@ -158,6 +158,11 @@ msgstr ""
 msgid "Володарского"
 msgstr ""
 
+# Objects : [n2876226021, n3445682795]
+# name:be: []
+msgid "Генерала Ивановского"
+msgstr ""
+
 # Objects : [n341870983, n341871019]
 # name:be: [Гімназія № 6]
 msgid "Гимназия № 6"
@@ -276,11 +281,6 @@ msgstr ""
 # Objects : [n339587854]
 # name:be: [Камсамольская]
 msgid "Комсомольская"
-msgstr ""
-
-# Objects : [n1202765471]
-# name:be: [Канцавы маршруту №12 ""Уланавічы-2""]
-msgid "конечная маршрута № 12 "Улановичи-2""
 msgstr ""
 
 # Objects : [n674060087, n674060095]
@@ -593,6 +593,16 @@ msgstr ""
 msgid "Ратуша"
 msgstr ""
 
+# Objects : [n650016712]
+# name:be: [Руба]
+msgid "Руба"
+msgstr ""
+
+# Objects : [n3003935884, n3003937468]
+# name:be: []
+msgid "Руба-2"
+msgstr ""
+
 # Objects : [n1202757732]
 # name:be: [сад. тав. Альгоўскае]
 msgid "Сад. Тов. Ольговское"
@@ -708,6 +718,11 @@ msgstr ""
 msgid "Улановичи-1"
 msgstr ""
 
+# Objects : [n1202765471]
+# name:be: [Уланавічы-2]
+msgid "Улановичи-2"
+msgstr ""
+
 # Objects : [n2972300454]
 # name:be: []
 msgid "Улица 14-я Полоцкая"
@@ -716,6 +731,11 @@ msgstr ""
 # Objects : [n2731802528, n674059880]
 # name:be: [39-й Арміі вул.]
 msgid "Улица 39-й Армии"
+msgstr ""
+
+# Objects : [n1855185849, n1855185870]
+# name:be: []
+msgid "улица 3-я Бебеля"
 msgstr ""
 
 # Objects : [n2078613569, n673997870]

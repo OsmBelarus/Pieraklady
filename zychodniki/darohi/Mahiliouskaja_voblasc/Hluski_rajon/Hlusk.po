@@ -44,8 +44,8 @@ msgid "Комсомольская улица"
 msgstr ""
 
 # Objects : [w219752615]
-# name:be: []
-msgid "Красноармейская"
+# name:be: [Чырвонаармейская вуліца]
+msgid "Красноармейская улица"
 msgstr ""
 
 # Objects : [w219752622]
@@ -61,16 +61,6 @@ msgstr ""
 # Objects : [w243262821]
 # name:be: [Паркавы завулак]
 msgid "Парковый переулок"
-msgstr ""
-
-# Objects : [w326042920]
-# name:be: []
-msgid "пер.Гагарина"
-msgstr ""
-
-# Objects : [w219752592, w326496545, w326496584]
-# name:be: []
-msgid "пер.Советский"
 msgstr ""
 
 # Objects : [w219752613, w326497057, w326497126]
@@ -93,6 +83,11 @@ msgstr ""
 msgid "переулок Вилюги"
 msgstr ""
 
+# Objects : [w326042920]
+# name:be: [завулак Гагарына]
+msgid "переулок Гагарина"
+msgstr ""
+
 # Objects : [w241439666]
 # name:be: [завулак Луначарскага]
 msgid "переулок Луначарского"
@@ -101,6 +96,11 @@ msgstr ""
 # Objects : [w219752595]
 # name:be: [завулак Швякава]
 msgid "переулок Швякова"
+msgstr ""
+
+# Objects : [w328720375]
+# name:be: [завулак Шутава]
+msgid "переулок Шутова"
 msgstr ""
 
 # Objects : [w206086079]
@@ -143,6 +143,11 @@ msgstr ""
 msgid "Республиканская улица"
 msgstr ""
 
+# Objects : [w326496255]
+# name:be: [Рачная вуліца]
+msgid "Речная улица"
+msgstr ""
+
 # Objects : [w219752620]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
@@ -161,6 +166,11 @@ msgstr ""
 # Objects : [w219501815, w219715121, w37376780]
 # name:be: [Савецкая вуліца]
 msgid "Советская улица"
+msgstr ""
+
+# Objects : [w219752592, w326496545, w326496584]
+# name:be: [Савецкі завулак]
+msgid "Советский переулок"
 msgstr ""
 
 # Objects : [w79469426]
@@ -193,7 +203,7 @@ msgstr ""
 msgid "улица 8 Марта"
 msgstr ""
 
-# Objects : [w219752619]
+# Objects : [w219752619, w328707887]
 # name:be: [вуліца Будзёнага]
 msgid "улица Будённого"
 msgstr ""
@@ -271,11 +281,6 @@ msgstr ""
 # Objects : [w206078997]
 # name:be: [вуліца Прыміна]
 msgid "улица Примина"
-msgstr ""
-
-# Objects : [w326496255]
-# name:be: []
-msgid "улица Речная"
 msgstr ""
 
 # Objects : [w219752596]

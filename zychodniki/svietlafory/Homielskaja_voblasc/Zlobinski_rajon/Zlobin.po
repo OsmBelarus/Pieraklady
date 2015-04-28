@@ -213,6 +213,11 @@ msgstr ""
 msgid "СШ №13"
 msgstr ""
 
+# Objects : [n3470963352, n3470963353]
+# name:be: []
+msgid "СШ №6"
+msgstr ""
+
 # Objects : [n1754245733]
 # name:be: []
 msgid "Телевышка"
@@ -233,7 +238,7 @@ msgstr ""
 msgid "улица Войкова"
 msgstr ""
 
-# Objects : [n2876456476, n2876456477]
+# Objects : [n2876456476, n2876456477, n3470963354]
 # name:be: []
 msgid "улица Котовского"
 msgstr ""

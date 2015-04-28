@@ -103,11 +103,6 @@ msgstr ""
 msgid "Мир Моды"
 msgstr ""
 
-# Objects : [n306064213]
-# name:be: []
-msgid "Новоречецкий"
-msgstr ""
-
 # Objects : [n2689506361]
 # name:be: []
 msgid "Оптика"
@@ -126,11 +121,6 @@ msgstr ""
 # Objects : [n3126163597]
 # name:be: []
 msgid "Продукты"
-msgstr ""
-
-# Objects : [n2741640540]
-# name:be: []
-msgid "Речичанка"
 msgstr ""
 
 # Objects : [n2741640536]

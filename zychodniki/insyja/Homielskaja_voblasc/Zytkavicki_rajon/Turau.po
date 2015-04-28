@@ -13,14 +13,29 @@ msgstr ""
 msgid "Замчища"
 msgstr ""
 
+# Objects : [n3393389648]
+# name:be: []
+msgid "Кирилл Туровский"
+msgstr ""
+
 # Objects : [w294167978]
 # name:be: []
 msgid "Лодочная станция"
 msgstr ""
 
+# Objects : [n3392198074]
+# name:be: []
+msgid "Тураўская Селiца"
+msgstr ""
+
 # Objects : [n2766728234]
 # name:be: []
 msgid "Туров"
+msgstr ""
+
+# Objects : [n3392197284]
+# name:be: []
+msgid "Туровские легенды"
 msgstr ""
 
 # Objects : [w293958629]

@@ -28,6 +28,11 @@ msgstr ""
 msgid "Ветразь"
 msgstr ""
 
+# Objects : [w207464205]
+# name:be: []
+msgid "ВСУ Мстиславская районная ветеренарная станция"
+msgstr ""
+
 # Objects : [w208421862]
 # name:be: []
 msgid "Гермес"
@@ -58,6 +63,11 @@ msgstr ""
 msgid "ГРП-9"
 msgstr ""
 
+# Objects : [w207464512]
+# name:be: []
+msgid "ГУ Могилевгидромет"
+msgstr ""
+
 # Objects : [w207464178]
 # name:be: []
 msgid "детская библиатека"
@@ -78,6 +88,11 @@ msgstr ""
 msgid "Книги"
 msgstr ""
 
+# Objects : [w207541484]
+# name:be: []
+msgid "котельная ЖКХ ЦРБ"
+msgstr ""
+
 # Objects : [w207464167]
 # name:be: []
 msgid "котельная Советская"
@@ -93,6 +108,11 @@ msgstr ""
 msgid "Лагуна"
 msgstr ""
 
+# Objects : [w270041891]
+# name:be: []
+msgid "Лыжная база"
+msgstr ""
+
 # Objects : [w230224127, w231788382]
 # name:be: []
 msgid "магазин"
@@ -105,7 +125,7 @@ msgstr ""
 
 # Objects : [w207464209]
 # name:be: []
-msgid "мастер"
+msgid "Мастер"
 msgstr ""
 
 # Objects : [w207464177]
@@ -118,6 +138,11 @@ msgstr ""
 msgid "мини европа"
 msgstr ""
 
+# Objects : [w207464502]
+# name:be: []
+msgid "Мстиславский РВК"
+msgstr ""
+
 # Objects : [w242485087]
 # name:be: []
 msgid "Мстиславский РГС"
@@ -126,6 +151,11 @@ msgstr ""
 # Objects : [w211256625]
 # name:be: []
 msgid "Мстиславский СУД"
+msgstr ""
+
+# Objects : [w212311898]
+# name:be: []
+msgid "Мстиславское отделение депортамента охраны МВД РБ"
 msgstr ""
 
 # Objects : [w207541336]

@@ -373,11 +373,6 @@ msgstr ""
 msgid "Остров"
 msgstr ""
 
-# Objects : [n243025483, w25108860]
-# name:be: []
-msgid "Перебитая Гора"
-msgstr ""
-
 # Objects : [n243025151, w25108893]
 # name:be: [Першая Слабодка]
 msgid "Першая Слободка"
@@ -531,11 +526,6 @@ msgstr ""
 # Objects : [n243019353, w25122475]
 # name:be: [Судзібар]
 msgid "Судибор"
-msgstr ""
-
-# Objects : [n243019310, w25122424]
-# name:be: [Церабень]
-msgid "Теребень"
 msgstr ""
 
 # Objects : [n243024313, w25107167]

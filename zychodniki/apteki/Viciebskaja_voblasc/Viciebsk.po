@@ -8,7 +8,12 @@ msgstr ""
 msgid "36. 6"
 msgstr ""
 
-# Objects : [n1139868636, n1561354728, n1584460386]
+# Objects : [n1139868636]
+# name:be: []
+msgid "ADEL"
+msgstr ""
+
+# Objects : [n1561354728, n1584460386]
 # name:be: [Айбаліт]
 msgid "Айболит"
 msgstr ""
@@ -18,8 +23,8 @@ msgstr ""
 msgid "Айболит №6"
 msgstr ""
 
-# Objects : [n1109033765, n1401563998, n1851599079, n2477656768, n2477656769, n2477660465, n2499264644, n2610260809, n2865132084, n891057814]
-# name:be: [Аптэка]
+# Objects : [n1109033765, n1401563998, n1851599079, n2477656768, n2477656769, n2477660465, n2499264644, n2865132084, n891057814]
+# name:be: [Аптэка, Аптэка  Adel]
 msgid "Аптека"
 msgstr ""
 
@@ -43,19 +48,19 @@ msgstr ""
 msgid "АПТЕКА N 2 ДЕ ЖУР"
 msgstr ""
 
+# Objects : [n2631043564]
+# name:be: []
+msgid "АПТЕКА N 4 Витвар"
+msgstr ""
+
 # Objects : [n442966960, n700179055]
 # name:be: [Аптэка ВДМУ]
 msgid "Аптека ВГМУ"
 msgstr ""
 
-# Objects : [n1102542878, n1244273433]
+# Objects : [n1102542878, n1244273433, n3401431010]
 # name:be: [Аптэка №1]
 msgid "Аптека №1"
-msgstr ""
-
-# Objects : [n2118546537]
-# name:be: []
-msgid "Аптека № 1"
 msgstr ""
 
 # Objects : [n2630859279]
@@ -63,7 +68,12 @@ msgstr ""
 msgid "Аптека № 1 «Де Жур»"
 msgstr ""
 
-# Objects : [n1094099445, n2349480697]
+# Objects : [n1094099445]
+# name:be: [Аптэка №11]
+msgid "Аптека №11"
+msgstr ""
+
+# Objects : [n2349480697]
 # name:be: []
 msgid "Аптека № 11"
 msgstr ""
@@ -91,6 +101,11 @@ msgstr ""
 # Objects : [n330385121]
 # name:be: [Аптэка №13 Айбаліт]
 msgid "Аптека №13 Айболит"
+msgstr ""
+
+# Objects : [n1244301887]
+# name:be: [Аптэка №155]
+msgid "Аптека №155"
 msgstr ""
 
 # Objects : [n905860998]
@@ -148,17 +163,27 @@ msgstr ""
 msgid "Аптека №270"
 msgstr ""
 
+# Objects : [n2644794974]
+# name:be: []
+msgid "Аптека № 277"
+msgstr ""
+
+# Objects : [n3389035954]
+# name:be: [Аптэка №280]
+msgid "Аптека №280"
+msgstr ""
+
 # Objects : [n1244291349]
 # name:be: [Аптэка №29]
 msgid "Аптека №29"
 msgstr ""
 
-# Objects : [n2079897282]
+# Objects : [n1607230027, n2079897282]
 # name:be: [Аптэка №3]
 msgid "Аптека №3"
 msgstr ""
 
-# Objects : [n1043402496, n1607230027, n726798384]
+# Objects : [n1043402496, n726798384]
 # name:be: [Аптэка № 3]
 msgid "Аптека № 3"
 msgstr ""
@@ -213,14 +238,14 @@ msgstr ""
 msgid "Аптека №5 Интерфарм"
 msgstr ""
 
-# Objects : [n860815902]
-# name:be: [Аптэка №6]
-msgid "Аптека №6"
+# Objects : [n3410519527]
+# name:be: []
+msgid "Аптека №5 ИП Итера-Мед ООО"
 msgstr ""
 
-# Objects : [n2306504651]
-# name:be: []
-msgid "Аптека № 6"
+# Objects : [n2306504651, n860815902]
+# name:be: [Аптэка №6]
+msgid "Аптека №6"
 msgstr ""
 
 # Objects : [n688959045]
@@ -229,13 +254,13 @@ msgid "Аптека № 61"
 msgstr ""
 
 # Objects : [n1115036721]
-# name:be: []
-msgid "Аптека № 7"
+# name:be: [Аптэка №7]
+msgid "Аптека №7"
 msgstr ""
 
 # Objects : [n2963127852]
-# name:be: []
-msgid "Аптека № 8"
+# name:be: [Аптэка №8]
+msgid "Аптека №8"
 msgstr ""
 
 # Objects : [n1244292591]
@@ -259,7 +284,7 @@ msgid "Аптека № 9"
 msgstr ""
 
 # Objects : [n3110116892]
-# name:be: []
+# name:be: [Будзь здароў]
 msgid "Будь здоров"
 msgstr ""
 

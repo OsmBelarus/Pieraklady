@@ -1,3 +1,8 @@
+# Objects : [n3377656826]
+# name:be: []
+msgid ""Maximum GSM""
+msgstr ""
+
 # Objects : [w61404165]
 # name:be: []
 msgid "«Бомбочка»"
@@ -523,11 +528,6 @@ msgstr ""
 msgid "Брестскя центральная городская поликлиника"
 msgstr ""
 
-# Objects : [n306063781]
-# name:be: [Брэст-Цярэспаль]
-msgid "Брест-Тересполь"
-msgstr ""
-
 # Objects : [n3294540774]
 # name:be: []
 msgid "Брестторгтехника"
@@ -648,6 +648,11 @@ msgstr ""
 msgid "Воинам-ракетчикам"
 msgstr ""
 
+# Objects : [r1030160]
+# name:be: []
+msgid "Вокзал"
+msgstr ""
+
 # Objects : [n3306891873]
 # name:be: []
 msgid "Волгоград"
@@ -761,11 +766,6 @@ msgstr ""
 # Objects : [n306062566, n306062572, n306062590]
 # name:be: []
 msgid "Голубое"
-msgstr ""
-
-# Objects : [n306062643]
-# name:be: []
-msgid "Горбатый"
 msgstr ""
 
 # Objects : [n1202803873]
@@ -946,11 +946,6 @@ msgstr ""
 # Objects : [n3325564609]
 # name:be: []
 msgid "ЖЭС № 4"
-msgstr ""
-
-# Objects : [w225408724, w85762619]
-# name:be: []
-msgid "Завод ЖБК"
 msgstr ""
 
 # Objects : [n2237673591]
@@ -1188,8 +1183,8 @@ msgstr ""
 msgid "Кожно-венерологический диспансер"
 msgstr ""
 
-# Objects : [n2237727375, n309335103]
-# name:be: [Казловiчы]
+# Objects : [n2237727375]
+# name:be: []
 msgid "Козловичи"
 msgstr ""
 
@@ -1246,6 +1241,11 @@ msgstr ""
 # Objects : [w102027688]
 # name:be: []
 msgid "Котельная (бывшая часовня)"
+msgstr ""
+
+# Objects : [n242979418, w91577332]
+# name:be: []
+msgid "Котельня-Боярская"
 msgstr ""
 
 # Objects : [n2627420357]
@@ -1581,11 +1581,6 @@ msgstr ""
 # Objects : [w86138700]
 # name:be: []
 msgid "ОАО "Савушкин продукт""
-msgstr ""
-
-# Objects : [w225408996]
-# name:be: []
-msgid "ОАО "Строительный трест №8" Филиал "Завод ЖБК""
 msgstr ""
 
 # Objects : [n1190541339]
@@ -1986,6 +1981,11 @@ msgstr ""
 # Objects : [n306062791]
 # name:be: []
 msgid "Психоневрологический Диспансер"
+msgstr ""
+
+# Objects : [w331864439]
+# name:be: []
+msgid "ПТО «Варшавский мост»"
 msgstr ""
 
 # Objects : [n2237715123]
@@ -2423,6 +2423,11 @@ msgstr ""
 msgid "Управление физкультуры и спорта"
 msgstr ""
 
+# Objects : [w225408724, w225408996, w85762619]
+# name:be: []
+msgid "УПТК филиал Строительный Трест № 8"
+msgstr ""
+
 # Objects : [n306063629]
 # name:be: [У Ромы]
 msgid "У Ромы"
@@ -2558,14 +2563,14 @@ msgstr ""
 msgid "Центр эстетической хирургии"
 msgstr ""
 
+# Objects : [w103397908]
+# name:be: []
+msgid "Церковь «Рождества» ЕХБ"
+msgstr ""
+
 # Objects : [n2788687296]
 # name:be: [Царква эвангеліцкая]
 msgid "Церковь евангелическая"
-msgstr ""
-
-# Objects : [w103397908]
-# name:be: []
-msgid "церковь ЕХБ "Рождества""
 msgstr ""
 
 # Objects : [n2788686179]

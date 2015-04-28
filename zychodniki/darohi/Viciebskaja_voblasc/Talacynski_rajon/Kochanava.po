@@ -138,6 +138,11 @@ msgstr ""
 msgid "улица Новосёлов"
 msgstr ""
 
+# Objects : [w340801964]
+# name:be: []
+msgid "улица Полевая"
+msgstr ""
+
 # Objects : [w198470853]
 # name:be: [вуліца Будаўнікоў]
 msgid "улица Строителей"

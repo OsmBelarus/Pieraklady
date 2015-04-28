@@ -23,6 +23,11 @@ msgstr ""
 msgid "Д/сад"
 msgstr ""
 
+# Objects : [w169886333]
+# name:be: [Яромінскія могілкі]
+msgid "Ерёминское кладбище"
+msgstr ""
+
 # Objects : [w117980688]
 # name:be: [Інфекцыйная бальніца]
 msgid "Инфекционная больница"
@@ -31,6 +36,11 @@ msgstr ""
 # Objects : [w241099691]
 # name:be: []
 msgid "ИП «ЧЕСС-Бел»"
+msgstr ""
+
+# Objects : [w339173395]
+# name:be: []
+msgid "Лечебно-трудовой профилакторий № 4"
 msgstr ""
 
 # Objects : [w40014849]

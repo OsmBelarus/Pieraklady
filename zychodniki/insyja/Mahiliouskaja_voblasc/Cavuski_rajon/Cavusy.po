@@ -105,7 +105,7 @@ msgstr ""
 
 # Objects : [w209972023]
 # name:be: []
-msgid "ПГРП№8"
+msgid "ПГРП-8"
 msgstr ""
 
 # Objects : [w217514090]
@@ -203,18 +203,18 @@ msgstr ""
 msgid "Чаусы"
 msgstr ""
 
-# Objects : [w211113905]
-# name:be: []
-msgid "ШРП № 1"
-msgstr ""
-
 # Objects : [w209997097]
 # name:be: []
-msgid "ШРП №2"
+msgid "ШРП-2"
 msgstr ""
 
 # Objects : [w209997096]
 # name:be: []
-msgid "ШРП №6"
+msgid "ШРП-6"
+msgstr ""
+
+# Objects : [w211113905]
+# name:be: []
+msgid "ШРП № 1"
 msgstr ""
 

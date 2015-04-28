@@ -893,6 +893,11 @@ msgstr ""
 msgid "Юбилейный бульвар"
 msgstr ""
 
+# Objects : [n3401755024]
+# name:be: []
+msgid "Юбилейный д.1"
+msgstr ""
+
 # Objects : [n1436817942, n1436817948, n1483613245]
 # name:be: []
 msgid "Южная"

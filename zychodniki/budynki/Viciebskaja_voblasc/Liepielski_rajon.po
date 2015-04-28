@@ -23,6 +23,11 @@ msgstr ""
 msgid "к-з "Салют""
 msgstr ""
 
+# Objects : [w279973334]
+# name:be: []
+msgid "Котельная"
+msgstr ""
+
 # Objects : [w242480074]
 # name:be: []
 msgid "Лесничество"

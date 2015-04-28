@@ -148,16 +148,6 @@ msgstr ""
 msgid "Немнище"
 msgstr ""
 
-# Objects : [w25188345]
-# name:be: []
-msgid "оз. Карасево"
-msgstr ""
-
-# Objects : [w25192942]
-# name:be: []
-msgid "оз. Немнище"
-msgstr ""
-
 # Objects : [n2163864592]
 # name:be: []
 msgid "Памятник землякам"

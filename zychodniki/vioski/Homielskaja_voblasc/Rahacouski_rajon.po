@@ -223,7 +223,7 @@ msgstr ""
 msgid "Днепровский"
 msgstr ""
 
-# Objects : [n243044320, w25086782]
+# Objects : [n243044320, w328709442]
 # name:be: [Доўск]
 msgid "Довск"
 msgstr ""
@@ -283,12 +283,12 @@ msgstr ""
 msgid "Жевинник"
 msgstr ""
 
-# Objects : [n243042304, w25084869]
+# Objects : [n243042304, w335880460]
 # name:be: [Журавічы]
 msgid "Журавичи"
 msgstr ""
 
-# Objects : [n243041646, w25103117, w326102741]
+# Objects : [n243041646, w326102741]
 # name:be: [Забалацце]
 msgid "Заболотье"
 msgstr ""
@@ -343,7 +343,7 @@ msgstr ""
 msgid "Зборов"
 msgstr ""
 
-# Objects : [n243044346, w25086742]
+# Objects : [n243044346, w340805609]
 # name:be: [Званец]
 msgid "Звонец"
 msgstr ""
@@ -358,7 +358,7 @@ msgstr ""
 msgid "Зелёный Дуб"
 msgstr ""
 
-# Objects : [n243044336, w315848531]
+# Objects : [n243044336, w336951149]
 # name:be: [Ільіч]
 msgid "Ильич"
 msgstr ""
@@ -431,6 +431,11 @@ msgstr ""
 # Objects : [n243041505, w25103070]
 # name:be: [Кашара]
 msgid "Кошара"
+msgstr ""
+
+# Objects : [w25103162]
+# name:be: [Красная Слабада]
+msgid "Красная Слобода"
 msgstr ""
 
 # Objects : [n243044371, w25086838]
@@ -823,7 +828,7 @@ msgstr ""
 msgid "Сеножатки"
 msgstr ""
 
-# Objects : [n243044326, w25086808, w304791470]
+# Objects : [n243044326, w25086808, w329072272]
 # name:be: [Серабранка]
 msgid "Серебрянка"
 msgstr ""
@@ -923,7 +928,7 @@ msgstr ""
 msgid "Турск"
 msgstr ""
 
-# Objects : [n243043247, w327360484]
+# Objects : [n243043247, w328556078]
 # name:be: [Турскавы]
 msgid "Турсковый"
 msgstr ""
@@ -953,7 +958,7 @@ msgstr ""
 msgid "Фёдоровка"
 msgstr ""
 
-# Objects : [n243042559, w25086706]
+# Objects : [n243042559, w328509523]
 # name:be: [Хатоўня]
 msgid "Хатовня"
 msgstr ""
@@ -980,7 +985,7 @@ msgstr ""
 
 # Objects : [n243035345, w25096987]
 # name:be: [Ходасавічы]
-msgid "Ходосовичи"
+msgid "Ходосевичи"
 msgstr ""
 
 # Objects : [n243041514, w25103056]

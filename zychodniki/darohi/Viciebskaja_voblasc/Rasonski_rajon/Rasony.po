@@ -18,8 +18,8 @@ msgstr ""
 msgid "Жасминная улица"
 msgstr ""
 
-# Objects : [w40106855]
-# name:be: []
+# Objects : [w40106855, w40106856]
+# name:be: [Цагляная вуліца]
 msgid "Кирпичная улица"
 msgstr ""
 
@@ -38,12 +38,12 @@ msgstr ""
 msgid "Кольцевой переулок"
 msgstr ""
 
-# Objects : [w157657640, w30018288]
+# Objects : [w157507933, w157657640, w30018288]
 # name:be: [Камсамольская вуліца]
 msgid "Комсомольская улица"
 msgstr ""
 
-# Objects : [w157507933, w157507934]
+# Objects : [w157507934]
 # name:be: [Камсамольскі завулак]
 msgid "Комсомольский переулок"
 msgstr ""
@@ -59,12 +59,12 @@ msgid "Лесная улица"
 msgstr ""
 
 # Objects : [w157145985]
-# name:be: []
+# name:be: [Ліпавая вуліца]
 msgid "Липовая улица"
 msgstr ""
 
 # Objects : [w40188788]
-# name:be: []
+# name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"
 msgstr ""
 
@@ -91,6 +91,11 @@ msgstr ""
 # Objects : [w156964930]
 # name:be: [Партызанская вуліца]
 msgid "Партизанская улица"
+msgstr ""
+
+# Objects : [w40189276]
+# name:be: []
+msgid "Партизанский переулок"
 msgstr ""
 
 # Objects : [w126977737]
@@ -196,11 +201,6 @@ msgstr ""
 # Objects : [w227319290, w32402980]
 # name:be: [вуліца Заслонава]
 msgid "улица Заслонова"
-msgstr ""
-
-# Objects : [w40106856]
-# name:be: [вуліца Кірпічная]
-msgid "улица Кирпичная"
 msgstr ""
 
 # Objects : [w157717411, w32403003]

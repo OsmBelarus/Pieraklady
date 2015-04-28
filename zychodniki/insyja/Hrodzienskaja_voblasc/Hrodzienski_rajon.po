@@ -338,11 +338,6 @@ msgstr ""
 msgid "GSM"
 msgstr ""
 
-# Objects : [n320409970]
-# name:be: []
-msgid "Hrodna Airport"
-msgstr ""
-
 # Objects : [r1757879]
 # name:be: [Гродзенскае ўзвышша]
 msgid "Wzgórza Sokólskie"
@@ -366,6 +361,11 @@ msgstr ""
 # Objects : [w38849111]
 # name:be: [Аульс]
 msgid "Аульс"
+msgstr ""
+
+# Objects : [n320409970, r4793598]
+# name:be: [Аэрапорт Гродна]
+msgid "Аэропорт Гродно"
 msgstr ""
 
 # Objects : [w296669008]
@@ -473,7 +473,7 @@ msgstr ""
 msgid "Васарабы"
 msgstr ""
 
-# Objects : [w29168775, w29172009]
+# Objects : [w29168775]
 # name:be: [Васілевічы]
 msgid "Василевичи"
 msgstr ""
@@ -788,9 +788,9 @@ msgstr ""
 msgid "Ковальцы"
 msgstr ""
 
-# Objects : [w29168389]
-# name:be: [Каўняны]
-msgid "Ковняны"
+# Objects : [n3478509941]
+# name:be: []
+msgid "Колодец"
 msgstr ""
 
 # Objects : [w29168802]
@@ -938,11 +938,6 @@ msgstr ""
 msgid "Лозы"
 msgstr ""
 
-# Objects : [w30233578]
-# name:be: [Лойкі]
-msgid "Лойки"
-msgstr ""
-
 # Objects : [w29168663]
 # name:be: [Лакно]
 msgid "Локно"
@@ -971,11 +966,6 @@ msgstr ""
 # Objects : [w297752013]
 # name:be: []
 msgid "магазин"
-msgstr ""
-
-# Objects : [n320409544]
-# name:be: [Малая Капліца]
-msgid "Малая Каплица"
 msgstr ""
 
 # Objects : [w226833976]
@@ -1183,6 +1173,11 @@ msgstr ""
 msgid "Памятник партизанам Дед Талаш"
 msgstr ""
 
+# Objects : [r4739953]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
+msgstr ""
+
 # Objects : [w71149612]
 # name:be: []
 msgid "Перекрёсток"
@@ -1353,6 +1348,11 @@ msgstr ""
 msgid "с/о "Аптечная ромашка""
 msgstr ""
 
+# Objects : [w34333682]
+# name:be: []
+msgid "с/о "Колос""
+msgstr ""
+
 # Objects : [w291426507]
 # name:be: []
 msgid "с/о "Спутник Королино""
@@ -1446,6 +1446,11 @@ msgstr ""
 # Objects : [w29168288]
 # name:be: [Скраблякі]
 msgid "Скребляки"
+msgstr ""
+
+# Objects : [r4739954]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
 msgstr ""
 
 # Objects : [w29160847]

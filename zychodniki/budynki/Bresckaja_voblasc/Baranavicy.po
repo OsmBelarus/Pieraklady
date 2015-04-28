@@ -1,3 +1,8 @@
+# Objects : [w337324413]
+# name:be: []
+msgid ""Корона""
+msgstr ""
+
 # Objects : [n3194404383]
 # name:be: []
 msgid "15"
@@ -153,6 +158,11 @@ msgstr ""
 msgid "Магазин АМИ-мебель"
 msgstr ""
 
+# Objects : [w295471519]
+# name:be: []
+msgid "магазин продовольственный "Копеечка"/ аптека"
+msgstr ""
+
 # Objects : [w232022675]
 # name:be: []
 msgid "Мегатоп"
@@ -201,6 +211,11 @@ msgstr ""
 # Objects : [w231743574]
 # name:be: []
 msgid "Райисполком"
+msgstr ""
+
+# Objects : [w231191436]
+# name:be: []
+msgid "Ресторан "Домашний круг""
 msgstr ""
 
 # Objects : [w61910667]

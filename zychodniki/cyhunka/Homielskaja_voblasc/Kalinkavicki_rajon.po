@@ -8,9 +8,9 @@ msgstr ""
 msgid "Дудичи"
 msgstr ""
 
-# Objects : [n3093898458, n3093898459]
-# name:be: []
-msgid "Калинковичи Западные"
+# Objects : [n3093898459]
+# name:be: [Калінкавічы Заходнія]
+msgid "Калинковичи-Западные"
 msgstr ""
 
 # Objects : [n2674818137]

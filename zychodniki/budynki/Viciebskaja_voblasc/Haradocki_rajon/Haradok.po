@@ -1,3 +1,13 @@
+# Objects : [w152304137]
+# name:be: []
+msgid ""Горажанка""
+msgstr ""
+
+# Objects : [w122804542]
+# name:be: []
+msgid ""Экспрессия""
+msgstr ""
+
 # Objects : [w155768302]
 # name:be: []
 msgid "Автобусный парк"
@@ -83,9 +93,19 @@ msgstr ""
 msgid "ЗАГС"
 msgstr ""
 
+# Objects : [w152181425]
+# name:be: []
+msgid "Инфекционное отделение"
+msgstr ""
+
 # Objects : [w152294580]
 # name:be: []
 msgid "КНС"
+msgstr ""
+
+# Objects : [w152181359]
+# name:be: []
+msgid "Котельная"
 msgstr ""
 
 # Objects : [w155763074]
@@ -108,11 +128,6 @@ msgstr ""
 msgid "котельная "Центральная""
 msgstr ""
 
-# Objects : [w152181359]
-# name:be: []
-msgid "котельная "ЦРБ""
-msgstr ""
-
 # Objects : [w155114908]
 # name:be: []
 msgid "Куруш"
@@ -126,6 +141,11 @@ msgstr ""
 # Objects : [w155121913]
 # name:be: [Лясгас]
 msgid "Лесхоз"
+msgstr ""
+
+# Objects : [w155150318]
+# name:be: []
+msgid "магазин "Евроопт""
 msgstr ""
 
 # Objects : [w155252076]
@@ -168,6 +188,11 @@ msgstr ""
 msgid "ПГРП №2"
 msgstr ""
 
+# Objects : [w152181379]
+# name:be: []
+msgid "Пищеблок"
+msgstr ""
+
 # Objects : [w162066260]
 # name:be: []
 msgid "ПМК №51"
@@ -185,7 +210,17 @@ msgstr ""
 
 # Objects : [w122804585]
 # name:be: [Рэстаран]
-msgid "Ресторан"
+msgid "ресторан "Радуга""
+msgstr ""
+
+# Objects : [w205756075]
+# name:be: []
+msgid "Родны Кут"
+msgstr ""
+
+# Objects : [w154987794]
+# name:be: []
+msgid "Рыбная инспекция"
 msgstr ""
 
 # Objects : [w152462146]
@@ -193,9 +228,9 @@ msgstr ""
 msgid "рынок"
 msgstr ""
 
-# Objects : [w152459400]
+# Objects : [w122804536]
 # name:be: []
-msgid "СЕВЕРНЫЙ "МЯСО""
+msgid "Суд"
 msgstr ""
 
 # Objects : [w209755614]
@@ -206,6 +241,11 @@ msgstr ""
 # Objects : [w122804528]
 # name:be: []
 msgid "Узел Связи"
+msgstr ""
+
+# Objects : [w122804531]
+# name:be: []
+msgid "Универмаг"
 msgstr ""
 
 # Objects : [w155759834]
@@ -256,5 +296,10 @@ msgstr ""
 # Objects : [w202772772]
 # name:be: []
 msgid "ШРП№9"
+msgstr ""
+
+# Objects : [w155242743]
+# name:be: []
+msgid "Экология"
 msgstr ""
 

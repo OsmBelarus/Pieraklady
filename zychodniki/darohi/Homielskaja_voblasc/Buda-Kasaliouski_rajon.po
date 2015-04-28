@@ -218,11 +218,6 @@ msgstr ""
 msgid "То Еленетс"
 msgstr ""
 
-# Objects : [w25245949]
-# name:be: []
-msgid "То Ясмень"
-msgstr ""
-
 # Objects : [w168647857]
 # name:be: []
 msgid "Трудовая улица"
@@ -303,7 +298,7 @@ msgstr ""
 msgid "улица Ленина"
 msgstr ""
 
-# Objects : [w312759143]
+# Objects : [w144020522, w312759143]
 # name:be: []
 msgid "улица Луговая"
 msgstr ""
@@ -326,6 +321,11 @@ msgstr ""
 # Objects : [w109999346]
 # name:be: []
 msgid "улица Островского"
+msgstr ""
+
+# Objects : [w330913897]
+# name:be: []
+msgid "улица Парковая"
 msgstr ""
 
 # Objects : [w253457101, w253457102]
@@ -351,6 +351,11 @@ msgstr ""
 # Objects : [w286366613]
 # name:be: []
 msgid "улица Советская"
+msgstr ""
+
+# Objects : [w144020519]
+# name:be: []
+msgid "улица Спортивная"
 msgstr ""
 
 # Objects : [w152512172, w272995759]

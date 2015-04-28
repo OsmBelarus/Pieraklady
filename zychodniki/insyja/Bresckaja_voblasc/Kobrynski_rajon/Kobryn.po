@@ -13,16 +13,6 @@ msgstr ""
 msgid "Автопарк"
 msgstr ""
 
-# Objects : [w185585068]
-# name:be: []
-msgid "Агроусадьба "На Сосновке""
-msgstr ""
-
-# Objects : [n275453709]
-# name:be: [Андронава]
-msgid "Андроново"
-msgstr ""
-
 # Objects : [w128109278]
 # name:be: []
 msgid "Баскетбольная площадка"
@@ -103,7 +93,7 @@ msgstr ""
 msgid "Кладбище старое христианское"
 msgstr ""
 
-# Objects : [n355703183, n355707906, n476416018, n565546570]
+# Objects : [n355703183, n476416018, n565546570]
 # name:be: [Кобрын]
 msgid "Кобрин"
 msgstr ""
@@ -178,11 +168,6 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе Тызенгаузов"
 msgstr ""
 
-# Objects : [n355666588]
-# name:be: [Птушкафабрыка]
-msgid "Птушкофабрика"
-msgstr ""
-
 # Objects : [n2788684294]
 # name:be: [Сінагога]
 msgid "Синагога"
@@ -216,11 +201,6 @@ msgstr ""
 # Objects : [n2489472474]
 # name:be: []
 msgid "Фактор Дизайн"
-msgstr ""
-
-# Objects : [n566674467, n587794913]
-# name:be: [Фруктовы]
-msgid "Фруктовый"
 msgstr ""
 
 # Objects : [n2788685915]

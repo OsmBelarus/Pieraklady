@@ -28,6 +28,11 @@ msgstr ""
 msgid "Пинская улица"
 msgstr ""
 
+# Objects : [w48433840]
+# name:be: [Палявая вуліца]
+msgid "Полевая улица"
+msgstr ""
+
 # Objects : [w41466841]
 # name:be: [Паўночная вуліца]
 msgid "Северная улица"
@@ -50,12 +55,7 @@ msgstr ""
 
 # Objects : [w41466848]
 # name:be: []
-msgid "улица им. Гагарина"
-msgstr ""
-
-# Objects : [w117161462]
-# name:be: []
-msgid "улица им. Чкалова"
+msgid "улица Гагарина"
 msgstr ""
 
 # Objects : [w169439865, w169439866]
@@ -83,7 +83,7 @@ msgstr ""
 msgid "улица Кунькова"
 msgstr ""
 
-# Objects : [w80229973]
+# Objects : [w335058746, w80229973]
 # name:be: [вуліца Леніна]
 msgid "улица Ленина"
 msgstr ""
@@ -98,13 +98,13 @@ msgstr ""
 msgid "улица Максима Танка"
 msgstr ""
 
-# Objects : [w48433840]
-# name:be: []
-msgid "улица Полевая"
+# Objects : [w233443075]
+# name:be: [вуліца Францыска Скарыны]
+msgid "улица Франциска Скорины"
 msgstr ""
 
-# Objects : [w233443075]
+# Objects : [w117161462]
 # name:be: []
-msgid "улица Франциска Скорины"
+msgid "улица Чкалова"
 msgstr ""
 

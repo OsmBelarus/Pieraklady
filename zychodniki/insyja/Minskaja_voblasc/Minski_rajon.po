@@ -34,7 +34,7 @@ msgid "06.10.1968"
 msgstr ""
 
 # Objects : [w48096442]
-# name:be: []
+# name:be: [1]
 msgid "1"
 msgstr ""
 
@@ -54,7 +54,7 @@ msgid "1942-1944 г. г."
 msgstr ""
 
 # Objects : [w127552604]
-# name:be: []
+# name:be: [1-ая Платформа]
 msgid "1-ая Платформа"
 msgstr ""
 
@@ -64,7 +64,7 @@ msgid "1 платформа"
 msgstr ""
 
 # Objects : [w127552606]
-# name:be: []
+# name:be: [2-ая Платформа]
 msgid "2-ая Платформа"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgid "5-й пляж"
 msgstr ""
 
 # Objects : [w242036240]
-# name:be: []
+# name:be: [86-я Ваўкавыская Чырванасцяжная ордэны Аляксандра Неўскага брыгада сувязі]
 msgid "86-я Волковысская Краснознаменная ордена Александра Невского бригада связи"
 msgstr ""
 
@@ -129,7 +129,7 @@ msgid "c.т. Маяк"
 msgstr ""
 
 # Objects : [w109788645]
-# name:be: []
+# name:be: [Charterhouse]
 msgid "Charterhouse"
 msgstr ""
 
@@ -139,7 +139,7 @@ msgid "ÐœÐ¾Ðµ Ð¼ÐµÑ$Ñ‚Ð¾ 9"
 msgstr ""
 
 # Objects : [n926182202]
-# name:be: []
+# name:be: [GSM]
 msgid "GSM"
 msgstr ""
 
@@ -174,7 +174,7 @@ msgid "TIR"
 msgstr ""
 
 # Objects : [w109788640]
-# name:be: []
+# name:be: [Universam]
 msgid "Universam"
 msgstr ""
 
@@ -349,7 +349,7 @@ msgid "Беседка"
 msgstr ""
 
 # Objects : [w308462866]
-# name:be: []
+# name:be: [Альтанка для адпачынку]
 msgid "Беседка для отдыха"
 msgstr ""
 
@@ -394,7 +394,7 @@ msgid "Бункер (заброшенный узел связи)"
 msgstr ""
 
 # Objects : [w40558132]
-# name:be: []
+# name:be: [В/Ч 07147]
 msgid "В/Ч 07147"
 msgstr ""
 
@@ -434,7 +434,7 @@ msgid "Водокачка"
 msgstr ""
 
 # Objects : [n2408499562, n3137193729, n3139243525]
-# name:be: []
+# name:be: [Воданапорная вежа]
 msgid "Водонапорная башня"
 msgstr ""
 
@@ -459,11 +459,11 @@ msgid "Войсковое стрельбище "Воловщина""
 msgstr ""
 
 # Objects : [n306069740]
-# name:be: []
+# name:be: [Волма]
 msgid "Волма"
 msgstr ""
 
-# Objects : [w221136632]
+# Objects : [n2697283384, n3440903576, w221136632]
 # name:be: [Воўчкавічы]
 msgid "Волчковичи"
 msgstr ""
@@ -504,7 +504,7 @@ msgid "Гаражный кооператив"
 msgstr ""
 
 # Objects : [w256810731]
-# name:be: []
+# name:be: [Гарант]
 msgid "Гарант"
 msgstr ""
 
@@ -549,7 +549,7 @@ msgid "Гостиничный комплекс Стайки"
 msgstr ""
 
 # Objects : [w311130884]
-# name:be: []
+# name:be: [Гасціны рад]
 msgid "Гостинный ряд"
 msgstr ""
 
@@ -568,6 +568,11 @@ msgstr ""
 msgid "ГУО "Ратомская ОСШ""
 msgstr ""
 
+# Objects : [w30012499]
+# name:be: [д/с №1]
+msgid "д/с №1"
+msgstr ""
+
 # Objects : [n255019874]
 # name:be: []
 msgid "Дамба"
@@ -578,7 +583,7 @@ msgstr ""
 msgid "Дарида"
 msgstr ""
 
-# Objects : [w136722265, w136722266, w169617812, w169617813, w67821802, w67821806, w67821807, w67821808, w70582884, w90171892, w91468514, w95754911]
+# Objects : [w136722265, w136722266, w169617812, w169617813, w67821802, w67821806, w67821807, w67821808, w70582884, w91468514, w95754911]
 # name:be: [Дачы]
 msgid "Дачи"
 msgstr ""
@@ -606,6 +611,11 @@ msgstr ""
 # Objects : [n2316495221]
 # name:be: []
 msgid "Дегтярёвка"
+msgstr ""
+
+# Objects : [w332239303]
+# name:be: []
+msgid "Деревня гипермаркетов"
 msgstr ""
 
 # Objects : [r3685865]
@@ -638,11 +648,6 @@ msgstr ""
 msgid "Детский сад"
 msgstr ""
 
-# Objects : [w30012499]
-# name:be: []
-msgid "Детский сад №1"
-msgstr ""
-
 # Objects : [w117258710]
 # name:be: []
 msgid "Диагностическая станция, техосмотр"
@@ -669,7 +674,7 @@ msgid "Дом барачного типа"
 msgstr ""
 
 # Objects : [n1620313891]
-# name:be: []
+# name:be: [Дом культуры]
 msgid "Дом культуры"
 msgstr ""
 
@@ -744,7 +749,7 @@ msgid "ДЭУ"
 msgstr ""
 
 # Objects : [w309450320]
-# name:be: []
+# name:be: [ЕЎРАОПТ]
 msgid "ЕВРООПТ"
 msgstr ""
 
@@ -784,7 +789,7 @@ msgid "Жилой дом"
 msgstr ""
 
 # Objects : [w311554618]
-# name:be: []
+# name:be: [ЖБСК БТІ-2007]
 msgid "ЖСПК БТИ-2007"
 msgstr ""
 
@@ -829,7 +834,7 @@ msgid "Закрытая танцплощадка"
 msgstr ""
 
 # Objects : [w45756335]
-# name:be: []
+# name:be: [Замарожанае будаўніцтва]
 msgid "Замороженное строительство"
 msgstr ""
 
@@ -838,9 +843,14 @@ msgstr ""
 msgid "ЗАО "Клин Групп""
 msgstr ""
 
-# Objects : [r2339512, r2339513]
+# Objects : [w331022512]
 # name:be: []
 msgid "Западное кладбище"
+msgstr ""
+
+# Objects : [n3456053621]
+# name:be: []
+msgid "Зарядная станция"
 msgstr ""
 
 # Objects : [n1726985151]
@@ -876,6 +886,11 @@ msgstr ""
 # Objects : [w161804065]
 # name:be: []
 msgid "Зерноток"
+msgstr ""
+
+# Objects : [w102311129]
+# name:be: []
+msgid "Институт защиты растений НАН Беларуси"
 msgstr ""
 
 # Objects : [w128477630]
@@ -959,22 +974,22 @@ msgid "Квартал 786"
 msgstr ""
 
 # Objects : [n1267040126]
-# name:be: []
+# name:be: [квартал 82]
 msgid "квартал 82"
 msgstr ""
 
 # Objects : [n1267040171]
-# name:be: []
+# name:be: [квартал 83]
 msgid "квартал 83"
 msgstr ""
 
 # Objects : [n1267040234]
-# name:be: []
+# name:be: [квартал 89]
 msgid "квартал 89"
 msgstr ""
 
 # Objects : [n1267040270]
-# name:be: []
+# name:be: [квартал 90]
 msgid "квартал 90"
 msgstr ""
 
@@ -989,13 +1004,13 @@ msgid "Кладбище"
 msgstr ""
 
 # Objects : [w283203873]
-# name:be: []
+# name:be: [Могілкі "Каралёў Стан"]
 msgid "Кладбище "Королев Стан""
 msgstr ""
 
 # Objects : [n2772398717]
 # name:be: []
-msgid "Кладбище 19 в. с могилками на польском языке! Есть оригинальные надгробия."
+msgid "Кладбище 19 в."
 msgstr ""
 
 # Objects : [n2406413565]
@@ -1029,7 +1044,7 @@ msgid "Колодец"
 msgstr ""
 
 # Objects : [w309716733]
-# name:be: []
+# name:be: [Каладзішчанскія паліклініка]
 msgid "Колодищанская поликлиника"
 msgstr ""
 
@@ -1039,7 +1054,7 @@ msgid "Колодищанское кладбище"
 msgstr ""
 
 # Objects : [n3270123952]
-# name:be: []
+# name:be: [Калодзішчанкае]
 msgid "Колодищанскокое"
 msgstr ""
 
@@ -1054,7 +1069,7 @@ msgid "Колонка"
 msgstr ""
 
 # Objects : [n3162860561]
-# name:be: []
+# name:be: [Калонка з вадой]
 msgid "Колонка с водой"
 msgstr ""
 
@@ -1084,7 +1099,7 @@ msgid "Консультативная поликлиника"
 msgstr ""
 
 # Objects : [w109783398]
-# name:be: []
+# name:be: [кароўнік]
 msgid "коровник"
 msgstr ""
 
@@ -1094,7 +1109,7 @@ msgid "Костел"
 msgstr ""
 
 # Objects : [w109788637]
-# name:be: []
+# name:be: [кацельная]
 msgid "котельная"
 msgstr ""
 
@@ -1173,6 +1188,11 @@ msgstr ""
 msgid "Лесная ул."
 msgstr ""
 
+# Objects : [w243695118]
+# name:be: [Лясны]
+msgid "Лесной"
+msgstr ""
+
 # Objects : [w183489491]
 # name:be: []
 msgid "Летний рынок"
@@ -1223,11 +1243,6 @@ msgstr ""
 msgid "Мара"
 msgstr ""
 
-# Objects : [n2709731553]
-# name:be: [Мачулішчы]
-msgid "Мачулищи"
-msgstr ""
-
 # Objects : [n3103345891]
 # name:be: []
 msgid "мебельная фабрика "Восход""
@@ -1239,7 +1254,7 @@ msgid "Мега Стар"
 msgstr ""
 
 # Objects : [n2789062056]
-# name:be: []
+# name:be: [Медкабінет для таксістаў]
 msgid "Медкабинет для таксистов"
 msgstr ""
 
@@ -1308,9 +1323,19 @@ msgstr ""
 msgid "Мойка"
 msgstr ""
 
-# Objects : [w274136745]
+# Objects : [n3477060743]
 # name:be: []
+msgid "Мойка автоматическая"
+msgstr ""
+
+# Objects : [w274136745]
+# name:be: [Мыйка самаабслугоўваньне]
 msgid "Мойка самообслуживание"
+msgstr ""
+
+# Objects : [n3477060740]
+# name:be: []
+msgid "Мойка самообслуживания"
 msgstr ""
 
 # Objects : [n1233551941]
@@ -1334,8 +1359,8 @@ msgid "М-Стандарт"
 msgstr ""
 
 # Objects : [n833390248]
-# name:be: [Музей авіятэхнікі]
-msgid "музей Авиа Техники"
+# name:be: [Музей авіяцыйнай тэхнікі]
+msgid "Музей авиационной техники"
 msgstr ""
 
 # Objects : [n1165818843]
@@ -1384,7 +1409,7 @@ msgid "Национальный аэроклуб"
 msgstr ""
 
 # Objects : [w45756073]
-# name:be: []
+# name:be: [Недабудаваны дом]
 msgid "Недостроенный дом"
 msgstr ""
 
@@ -1454,13 +1479,18 @@ msgid "Околица усадьба"
 msgstr ""
 
 # Objects : [w308435970]
-# name:be: []
-msgid "ОНЕГА"
+# name:be: [Анега]
+msgid "Онега"
 msgstr ""
 
 # Objects : [n2281949803]
 # name:be: []
 msgid "ООО "Атропос-групп""
+msgstr ""
+
+# Objects : [n3444748802]
+# name:be: []
+msgid "ООО "БЕЛСВЕТОИМПОРТ""
 msgstr ""
 
 # Objects : [n2939788736]
@@ -1474,28 +1504,23 @@ msgid "ООО "Овернокс""
 msgstr ""
 
 # Objects : [n3195477900]
-# name:be: []
+# name:be: [ТАА "Падвор'е Феадал"]
 msgid "ООО "Подворье Феодал""
 msgstr ""
 
 # Objects : [w310827139]
-# name:be: []
-msgid "ООО «СВИАТ»"
+# name:be: [ТАА "СВІАТ"]
+msgid "ООО "СВИАТ""
 msgstr ""
 
 # Objects : [n1958664119]
-# name:be: []
+# name:be: [ГПАП №1]
 msgid "ОПОП №1"
 msgstr ""
 
 # Objects : [w62044519]
 # name:be: []
 msgid "Оптовая овощная база"
-msgstr ""
-
-# Objects : [w193385715, w193385716]
-# name:be: []
-msgid "Орша"
 msgstr ""
 
 # Objects : [w278109888]
@@ -1528,8 +1553,13 @@ msgstr ""
 msgid "Отель Дрозды-клуб"
 msgstr ""
 
+# Objects : [n3429295777]
+# name:be: [Офіс продажу "А-100"]
+msgid "Офис продаж "А-100""
+msgstr ""
+
 # Objects : [w309594176]
-# name:be: []
+# name:be: [Помнік воінам-вызваліцелям ВАВ]
 msgid "Памятник воинам-освободителям ВОВ"
 msgstr ""
 
@@ -1544,7 +1574,7 @@ msgid "Памятник погибшимм в годы Великой Отече
 msgstr ""
 
 # Objects : [n1958665415]
-# name:be: []
+# name:be: [Пангеямед]
 msgid "Пангеямед"
 msgstr ""
 
@@ -1559,7 +1589,7 @@ msgid "Партизанская база "Штурмовая""
 msgstr ""
 
 # Objects : [n722652605]
-# name:be: []
+# name:be: [ПАВЧ №3]
 msgid "ПАСЧ №3"
 msgstr ""
 
@@ -1589,7 +1619,7 @@ msgid "Перешитуха."
 msgstr ""
 
 # Objects : [w305128902]
-# name:be: []
+# name:be: [Перспектыўная плошча забудовы жылога мікрараёна "Новая Баравая"]
 msgid "Перспективная площадь застройки жилого микрорайона "Новая Боровая""
 msgstr ""
 
@@ -1639,12 +1669,12 @@ msgid "Погибшим в ВОВ"
 msgstr ""
 
 # Objects : [w308439605]
-# name:be: []
+# name:be: [ВТДА "Анега"]
 msgid "ПОДО "Онега""
 msgstr ""
 
 # Objects : [w309449137]
-# name:be: []
+# name:be: [Падстанцыя]
 msgid "Подстанция"
 msgstr ""
 
@@ -1659,7 +1689,7 @@ msgid "ПОКРЫШКИНО"
 msgstr ""
 
 # Objects : [n1736082838, n3283677311, w309567812]
-# name:be: []
+# name:be: [Паліклініка]
 msgid "Поликлиника"
 msgstr ""
 
@@ -1683,7 +1713,7 @@ msgstr ""
 msgid "Поляна На Горке"
 msgstr ""
 
-# Objects : [n271092132]
+# Objects : [n271092132, n3440903583, n3440903584]
 # name:be: [Памыслішча]
 msgid "Помыслище"
 msgstr ""
@@ -1691,16 +1721,6 @@ msgstr ""
 # Objects : [w200634971]
 # name:be: []
 msgid "пос. МОФ"
-msgstr ""
-
-# Objects : [n3159502858]
-# name:be: []
-msgid "Пост весогабаритного контроля"
-msgstr ""
-
-# Objects : [n827868319]
-# name:be: []
-msgid "Пост Весогабаритного Контроля"
 msgstr ""
 
 # Objects : [n835927015, w321611913]
@@ -1716,11 +1736,6 @@ msgstr ""
 # Objects : [w248027056]
 # name:be: []
 msgid "Прамзона"
-msgstr ""
-
-# Objects : [w256577580]
-# name:be: []
-msgid "Придорожный сервис, строительство"
 msgstr ""
 
 # Objects : [n1455742907]
@@ -1744,7 +1759,7 @@ msgid "Приусадебный парк при бывшей усадьбе Ра
 msgstr ""
 
 # Objects : [n1911861979]
-# name:be: []
+# name:be: [прыход Успення Прасвятой Багародзіцы]
 msgid "приход Успения Пресвятой Богородицы"
 msgstr ""
 
@@ -1773,14 +1788,9 @@ msgstr ""
 msgid "Профилакторий БНТУ"
 msgstr ""
 
-# Objects : [w308453684, w308453685, w308453686, w308453687, w308453690]
-# name:be: []
+# Objects : [w308453684, w308453685, w308453686, w308453687, w308453689, w308453690, w308776854]
+# name:be: [ВБК "Арджанікідзэ"]
 msgid "ПСК "Орджоникидзе""
-msgstr ""
-
-# Objects : [w308453689, w308776854]
-# name:be: []
-msgid "ПСК "Оржоникидзе""
 msgstr ""
 
 # Objects : [n3031400061]
@@ -1789,7 +1799,7 @@ msgid "Птичь"
 msgstr ""
 
 # Objects : [w45877724]
-# name:be: []
+# name:be: [Пустка]
 msgid "Пустырь"
 msgstr ""
 
@@ -1823,14 +1833,14 @@ msgstr ""
 msgid "Республиканская клиническая больница медицинской реабилитации"
 msgstr ""
 
-# Objects : [w178006609]
+# Objects : [n3419906697]
 # name:be: []
-msgid "Республиканская туберкулезная больница "Волковичи""
+msgid "Родники Святые Криницы"
 msgstr ""
 
-# Objects : [w327389793]
-# name:be: []
-msgid "Рождественская, 58"
+# Objects : [n3440903585, n3440903586]
+# name:be: [Гай]
+msgid "Роща"
 msgstr ""
 
 # Objects : [w25437212]
@@ -1846,6 +1856,11 @@ msgstr ""
 # Objects : [n900883084]
 # name:be: [РТПС Калодзішчы]
 msgid "РТПС Колодищи"
+msgstr ""
+
+# Objects : [w59041884]
+# name:be: []
+msgid "РУП МТЗ Испытательный центр "Трактор""
 msgstr ""
 
 # Objects : [n2339575993]
@@ -1873,6 +1888,21 @@ msgstr ""
 msgid "РЭП ГАИ (регистрация транспорта)"
 msgstr ""
 
+# Objects : [w291958604]
+# name:be: [с/т "Лясныя паляны"]
+msgid "с/т "Лесные поляны""
+msgstr ""
+
+# Objects : [w281310724]
+# name:be: [с/т "Пенсіянераў, ветэранаў ВАВ і працы"]
+msgid "с/т "Пенсионеров, ветеранов ВОВ и труда""
+msgstr ""
+
+# Objects : [w290903378]
+# name:be: [с/т "Трактар"]
+msgid "с/т "Трактор""
+msgstr ""
+
 # Objects : [n1267040161]
 # name:be: []
 msgid "с/т Зелёный Бор"
@@ -1891,11 +1921,6 @@ msgstr ""
 # Objects : [w116607297]
 # name:be: []
 msgid "С/т Лесная Поляна"
-msgstr ""
-
-# Objects : [w291958604]
-# name:be: []
-msgid "с/т Лесные поляны (дачи прокурорские)"
 msgstr ""
 
 # Objects : [w23564395]
@@ -1921,11 +1946,6 @@ msgstr ""
 # Objects : [w116607298]
 # name:be: []
 msgid "С/т Солнечная Поляна-2"
-msgstr ""
-
-# Objects : [w290903378]
-# name:be: []
-msgid "с/т Трактор"
 msgstr ""
 
 # Objects : [n2908028683]
@@ -2218,18 +2238,13 @@ msgstr ""
 msgid "СП ЗАО "ЮНИСОН""
 msgstr ""
 
-# Objects : [w142797737]
-# name:be: []
-msgid "Спортивно-оздоровительная база Олимпиец"
-msgstr ""
-
 # Objects : [n306069734]
 # name:be: []
 msgid "Спортоздкомплекс Загорье Белтелекома"
 msgstr ""
 
 # Objects : [w309584096, w322350984]
-# name:be: []
+# name:be: [Спортпляцоўка]
 msgid "Спортплощадка"
 msgstr ""
 
@@ -2253,11 +2268,6 @@ msgstr ""
 msgid "СТ "Литейщик""
 msgstr ""
 
-# Objects : [w281310724]
-# name:be: []
-msgid "СТ "Пенсионеров, ветеранов ВОВ и труда""
-msgstr ""
-
 # Objects : [w91487675]
 # name:be: []
 msgid "СТ "Солнечная Поляна""
@@ -2276,11 +2286,6 @@ msgstr ""
 # Objects : [n1938637807]
 # name:be: []
 msgid "стадион"
-msgstr ""
-
-# Objects : [n423355709]
-# name:be: [Стадыён «Зара»]
-msgid "стадион "Заря""
 msgstr ""
 
 # Objects : [w44004507]
@@ -2339,12 +2344,12 @@ msgid "Строительство автосалона VOLVO с сервисны
 msgstr ""
 
 # Objects : [w45932491]
-# name:be: []
+# name:be: [будаўніцтва Дома]
 msgid "строительство Дома"
 msgstr ""
 
 # Objects : [n582744263]
-# name:be: []
+# name:be: [Будаўніцтва жылога дома]
 msgid "Строительство жилого дома"
 msgstr ""
 
@@ -2449,7 +2454,7 @@ msgid "Трактор на постаменте"
 msgstr ""
 
 # Objects : [w310781500, w310853003, w41056144]
-# name:be: []
+# name:be: [Трансфарматарная падстанцыя]
 msgid "Трансформаторная подстанция"
 msgstr ""
 
@@ -2489,7 +2494,7 @@ msgid "Тубдиспансер"
 msgstr ""
 
 # Objects : [n3146093448]
-# name:be: []
+# name:be: [Турнікет]
 msgid "Турникет"
 msgstr ""
 
@@ -2538,14 +2543,19 @@ msgstr ""
 msgid "Усыпальница Вишневских"
 msgstr ""
 
+# Objects : [w329301209]
+# name:be: []
+msgid "Участок застройки (3х-этажные дома)"
+msgstr ""
+
 # Objects : [w117249866]
 # name:be: []
 msgid "Участок №5 Карьер "Дубовляны""
 msgstr ""
 
 # Objects : [w281310358]
-# name:be: []
-msgid "Учебно-Спортивная База «Городище»"
+# name:be: [Вучэбна-Спартыўная База "Гарадзішча"]
+msgid "Учебно-Спортивная База "Городище""
 msgstr ""
 
 # Objects : [n1129365665]
@@ -2559,13 +2569,18 @@ msgid "Ферма"
 msgstr ""
 
 # Objects : [w209181437]
-# name:be: []
+# name:be: [Фекма Фазаноў]
 msgid "Ферма Фазанов"
 msgstr ""
 
-# Objects : [w294831161, w322338980]
+# Objects : [w322338980]
 # name:be: []
 msgid "Филиал № 1 Минской ЦРБ "Атолинская больница""
+msgstr ""
+
+# Objects : [w294831161]
+# name:be: []
+msgid "Филиал № 1 Минской ЦРБ «Атолинская больница»"
 msgstr ""
 
 # Objects : [n2788685252]
@@ -2579,7 +2594,7 @@ msgid "ФПБ"
 msgstr ""
 
 # Objects : [w309272611]
-# name:be: []
+# name:be: [Футбольнае поле]
 msgid "Футбольное поле"
 msgstr ""
 
@@ -2611,11 +2626,6 @@ msgstr ""
 # Objects : [n2766736785]
 # name:be: []
 msgid "Хостел Jazz"
-msgstr ""
-
-# Objects : [w76010341]
-# name:be: []
-msgid "Храм Вознесения Господня"
 msgstr ""
 
 # Objects : [n442020061]
@@ -2683,6 +2693,11 @@ msgstr ""
 msgid "Часовня"
 msgstr ""
 
+# Objects : [w156545548]
+# name:be: []
+msgid "Частная конюшня Алены Мороз"
+msgstr ""
+
 # Objects : [w58947064]
 # name:be: [Чыжоўскія могілкі]
 msgid "Чижовское кладбище"
@@ -2716,6 +2731,11 @@ msgstr ""
 # Objects : [w158052698]
 # name:be: []
 msgid "Школьный стадион"
+msgstr ""
+
+# Objects : [n3410564686]
+# name:be: []
+msgid "Щедровщина"
 msgstr ""
 
 # Objects : [n2591520772]

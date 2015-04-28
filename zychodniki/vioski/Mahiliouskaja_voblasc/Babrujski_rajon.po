@@ -58,12 +58,12 @@ msgstr ""
 msgid "Березовичи"
 msgstr ""
 
-# Objects : [n243029635, w25107054]
+# Objects : [n243029635, w330757489]
 # name:be: [Бібкаўшчына]
 msgid "Бибковщина"
 msgstr ""
 
-# Objects : [n243030763, w25104727, w25104729]
+# Objects : [n243030763, r4677257]
 # name:be: [Бірча]
 msgid "Бирча"
 msgstr ""
@@ -91,6 +91,11 @@ msgstr ""
 # Objects : [n243024374, n243029672, w25107089, w25107105]
 # name:be: [Багушоўка]
 msgid "Богушовка"
+msgstr ""
+
+# Objects : [n243030610, w25104724]
+# name:be: [Вялікія Бортнікі]
+msgid "Большие Бортники"
 msgstr ""
 
 # Objects : [n243025642, w25108100]
@@ -148,12 +153,7 @@ msgstr ""
 msgid "Великая Контора"
 msgstr ""
 
-# Objects : [n243030610, w25104724]
-# name:be: [Вялікія Бортнікі]
-msgid "Великие Бортники"
-msgstr ""
-
-# Objects : [n243032163, w25105351, w25105352]
+# Objects : [n243032163, r4677262]
 # name:be: [Вялічкава]
 msgid "Величково"
 msgstr ""
@@ -198,7 +198,7 @@ msgstr ""
 msgid "Вороновичи"
 msgstr ""
 
-# Objects : [n243038287, w25104059, w25104076]
+# Objects : [n243038287, r4677263]
 # name:be: [Варатынь]
 msgid "Воротынь"
 msgstr ""
@@ -453,7 +453,7 @@ msgstr ""
 msgid "Крапивка"
 msgstr ""
 
-# Objects : [n243032199, w25105364, w25105367]
+# Objects : [n243032199, w25105367]
 # name:be: [Красная Дуброва]
 msgid "Красная Дуброва"
 msgstr ""
@@ -553,7 +553,7 @@ msgstr ""
 msgid "Липняки"
 msgstr ""
 
-# Objects : [n243028098, w25106343, w25106346]
+# Objects : [n243028098, r4797289]
 # name:be: [Ламы]
 msgid "Ломы"
 msgstr ""
@@ -578,7 +578,7 @@ msgstr ""
 msgid "Ляды"
 msgstr ""
 
-# Objects : [n243024393, w25107115, w25107117]
+# Objects : [n243024393, r4797290]
 # name:be: [Макаравічы]
 msgid "Макаровичи"
 msgstr ""
@@ -678,7 +678,7 @@ msgstr ""
 msgid "Мочулки"
 msgstr ""
 
-# Objects : [n243032173, w25105346, w25105348]
+# Objects : [n243032173, r4797294]
 # name:be: [Машкі]
 msgid "Мошки"
 msgstr ""
@@ -708,7 +708,7 @@ msgstr ""
 msgid "Новосёлки"
 msgstr ""
 
-# Objects : [n243024373, w25107103, w25107104]
+# Objects : [n243024373, r4797295]
 # name:be: [Вобча]
 msgid "Обча"
 msgstr ""
@@ -743,7 +743,7 @@ msgstr ""
 msgid "Орсичи"
 msgstr ""
 
-# Objects : [n243029605, n243030538, w25104750, w25107067, w25107073, w25108066]
+# Objects : [n243029605, n243030538, w25104750, w25107073, w25108066]
 # name:be: [Восава]
 msgid "Осово"
 msgstr ""
@@ -1088,8 +1088,8 @@ msgstr ""
 msgid "Юбилейный"
 msgstr ""
 
-# Objects : [n1283858187, w25104719, w25107082]
-# name:be: []
+# Objects : [n1283858187, r4777560, w25107082]
+# name:be: [Юзафін]
 msgid "Юзофин"
 msgstr ""
 

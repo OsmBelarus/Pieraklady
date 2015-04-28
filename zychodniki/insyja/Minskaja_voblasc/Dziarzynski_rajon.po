@@ -33,7 +33,7 @@ msgstr ""
 msgid "Амбар"
 msgstr ""
 
-# Objects : [w221136631]
+# Objects : [n3441026025, n3441026026, w221136631]
 # name:be: [Асіна]
 msgid "Асино"
 msgstr ""
@@ -56,6 +56,11 @@ msgstr ""
 # Objects : [n3056747133]
 # name:be: []
 msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [n3364500588, n3364500589]
+# name:be: [Бярэжа]
+msgid "Бережа"
 msgstr ""
 
 # Objects : [n1374641038]
@@ -98,11 +103,6 @@ msgstr ""
 msgid "Вицковщина"
 msgstr ""
 
-# Objects : [n2514396744]
-# name:be: []
-msgid "Водонапорная башня"
-msgstr ""
-
 # Objects : [n2788680044]
 # name:be: [Млын водны]
 msgid "Водяная мельница"
@@ -123,6 +123,11 @@ msgstr ""
 msgid "Гора Святая (Дзержинского)"
 msgstr ""
 
+# Objects : [w160962144]
+# name:be: []
+msgid "Гостиничный комплекс «Станьково»"
+msgstr ""
+
 # Objects : [n2766736742]
 # name:be: []
 msgid "Гостиничный комплекс Веста"
@@ -138,9 +143,29 @@ msgstr ""
 msgid "Дачи, с/т Бережа"
 msgstr ""
 
+# Objects : [w226044304]
+# name:be: []
+msgid "Дачи, с/т Березовка"
+msgstr ""
+
+# Objects : [w328728433]
+# name:be: []
+msgid "Дачи, с/т Буда"
+msgstr ""
+
 # Objects : [w230366129]
 # name:be: []
 msgid "Дачи, с/т Василёк"
+msgstr ""
+
+# Objects : [w25130523]
+# name:be: []
+msgid "Дачи, с/т КРАСИВЫЙ САД"
+msgstr ""
+
+# Objects : [w335326433]
+# name:be: []
+msgid "Дачи, с/т Лазурное"
 msgstr ""
 
 # Objects : [w232379352]
@@ -148,9 +173,29 @@ msgstr ""
 msgid "Дачи, с/т Надежда Инв"
 msgstr ""
 
+# Objects : [w335365993]
+# name:be: []
+msgid "Дачи, с/т ПРОТОН"
+msgstr ""
+
 # Objects : [w221725678]
 # name:be: []
 msgid "Дачи, с/т Пятигорье"
+msgstr ""
+
+# Objects : [w328728443]
+# name:be: []
+msgid "дачи с/т Алеся"
+msgstr ""
+
+# Objects : [w328728444]
+# name:be: []
+msgid "дачи с/т Нива-Ф"
+msgstr ""
+
+# Objects : [w335772806, w335772807]
+# name:be: []
+msgid "Дашава-Минск"
 msgstr ""
 
 # Objects : [w244580679]
@@ -178,9 +223,9 @@ msgstr ""
 msgid "ДОТ"
 msgstr ""
 
-# Objects : [w312715806]
+# Objects : [w331022512]
 # name:be: []
-msgid "Загон"
+msgid "Западное кладбище"
 msgstr ""
 
 # Objects : [w228385365]
@@ -188,19 +233,29 @@ msgstr ""
 msgid "Зоосад"
 msgstr ""
 
+# Objects : [w328603006]
+# name:be: []
+msgid "карьер Ледники"
+msgstr ""
+
+# Objects : [w329037347]
+# name:be: []
+msgid "Кладбище Великое село"
+msgstr ""
+
 # Objects : [n2788681374]
 # name:be: [Могілкі старыя каталіцкія]
 msgid "Кладбище старое католическое"
 msgstr ""
 
+# Objects : [n3440968360, n3440968361]
+# name:be: [Клыпаўшчына]
+msgid "Клыповщина"
+msgstr ""
+
 # Objects : [n2766728111]
 # name:be: []
 msgid "Ковальцы"
-msgstr ""
-
-# Objects : [n2514396758, n2514396759]
-# name:be: []
-msgid "Колодец"
 msgstr ""
 
 # Objects : [n1885007649]
@@ -226,6 +281,26 @@ msgstr ""
 # Objects : [n1374628904]
 # name:be: []
 msgid "Кузница"
+msgstr ""
+
+# Objects : [w305951207]
+# name:be: []
+msgid "Липки"
+msgstr ""
+
+# Objects : [w337384446]
+# name:be: [Мэмарыяльны комплекс «Старая граніца»]
+msgid "Мемориальный комплекс «Старая граница»"
+msgstr ""
+
+# Objects : [w25131688]
+# name:be: [Мянькі]
+msgid "Меньки"
+msgstr ""
+
+# Objects : [w25131787]
+# name:be: [Масцішча]
+msgid "Мостище"
 msgstr ""
 
 # Objects : [w136175474]
@@ -263,7 +338,7 @@ msgstr ""
 msgid "Парк активного отдыха "Якутские горы""
 msgstr ""
 
-# Objects : [n3140043249]
+# Objects : [w332100785]
 # name:be: []
 msgid "Парк Приключений Крутогорье"
 msgstr ""
@@ -278,9 +353,19 @@ msgstr ""
 msgid "плембаза "Фаниполь""
 msgstr ""
 
+# Objects : [w337384443]
+# name:be: []
+msgid "Площадка боевой техники времен Великой Отечественной войны"
+msgstr ""
+
 # Objects : [n3316837789, n3316837792, n3316899409]
 # name:be: []
 msgid "Победное"
+msgstr ""
+
+# Objects : [w337384441]
+# name:be: []
+msgid "Пограничная застава"
 msgstr ""
 
 # Objects : [w175022456, w240045499, w279531288]
@@ -303,6 +388,11 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе Ленских"
 msgstr ""
 
+# Objects : [n3352635754, n3352635755]
+# name:be: [Пяцігор'е]
+msgid "Пятигорье"
+msgstr ""
+
 # Objects : [w178006609]
 # name:be: []
 msgid "Республиканская туберкулезная больница "Волковичи""
@@ -316,6 +406,11 @@ msgstr ""
 # Objects : [n275339320]
 # name:be: []
 msgid "Рубилки"
+msgstr ""
+
+# Objects : [r4743806]
+# name:be: []
+msgid "с/т "Лесное-Ливье""
 msgstr ""
 
 # Objects : [w276256009]
@@ -348,8 +443,8 @@ msgstr ""
 msgid "Свиноферма"
 msgstr ""
 
-# Objects : [n306062873]
-# name:be: []
+# Objects : [n306062873, n3347924806, n3347924807]
+# name:be: [Станькава]
 msgid "Станьково"
 msgstr ""
 
@@ -361,6 +456,11 @@ msgstr ""
 # Objects : [n988017446]
 # name:be: []
 msgid "Стоянка правления колхоза "Октябрьская революция""
+msgstr ""
+
+# Objects : [w330470544]
+# name:be: []
+msgid "СТ Подбережье"
 msgstr ""
 
 # Objects : [n1729275403]
@@ -403,7 +503,7 @@ msgstr ""
 msgid "Усыпальница Дыбовских"
 msgstr ""
 
-# Objects : [w279531289]
+# Objects : [r4721572]
 # name:be: []
 msgid "Участок продается"
 msgstr ""
@@ -441,5 +541,15 @@ msgstr ""
 # Objects : [n2936556707, w25131737]
 # name:be: [Шыталеўшчына]
 msgid "Шитолевщина"
+msgstr ""
+
+# Objects : [n3326712385, n3440968364]
+# name:be: [Энергетык]
+msgid "Энергетик"
+msgstr ""
+
+# Objects : [n3420976697, n3420977993]
+# name:be: []
+msgid "Юцковский родник"
 msgstr ""
 

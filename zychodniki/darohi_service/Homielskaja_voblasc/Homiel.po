@@ -3,24 +3,24 @@
 msgid "2-й Заводской переулок"
 msgstr ""
 
+# Objects : [w25235444, w25235445]
+# name:be: [2-i Лугавы завулак, 2-і Лугавы завулак]
+msgid "2-й Луговой переулок"
+msgstr ""
+
 # Objects : [w42792845, w42792851]
 # name:be: [2-і Рошчынскі завулак]
 msgid "2-й Рощинский переулок"
 msgstr ""
 
 # Objects : [w304374137]
-# name:be: []
+# name:be: [3-я Авіяцыйная вуліца]
 msgid "3-я Авиационная улица"
 msgstr ""
 
 # Objects : [w25235615]
 # name:be: [8-я Іншагародняя вуліца]
 msgid "8-я Иногородняя улица"
-msgstr ""
-
-# Objects : [w112693810, w283081949]
-# name:be: []
-msgid "бульвар газеты Гомельская Правда"
 msgstr ""
 
 # Objects : [w321628833]
@@ -49,8 +49,13 @@ msgid "Молодогвардейский переулок"
 msgstr ""
 
 # Objects : [w283127805]
-# name:be: []
+# name:be: [Кастрычніцкі праезд]
 msgid "Октябрьский проезд"
+msgstr ""
+
+# Objects : [w25236367]
+# name:be: [Першамайская вуліца]
+msgid "Первомайская улица"
 msgstr ""
 
 # Objects : [w260461978]
@@ -69,7 +74,7 @@ msgid "Плановый 2"
 msgstr ""
 
 # Objects : [w98876983]
-# name:be: []
+# name:be: [плошча Пляханава]
 msgid "площадь Плеханова"
 msgstr ""
 
@@ -98,33 +103,23 @@ msgstr ""
 msgid "улица Богдана Хмельницкого"
 msgstr ""
 
-# Objects : [w44174185]
-# name:be: [вуліца Карповіча]
-msgid "улица Карповича"
-msgstr ""
-
-# Objects : [w25236367]
-# name:be: []
-msgid "улица Первомайская"
-msgstr ""
-
 # Objects : [w313344442, w91885117]
-# name:be: []
+# name:be: [вуліца Песіна]
 msgid "улица Песина"
 msgstr ""
 
-# Objects : [w25235301]
-# name:be: [вуліца Цімафеенкі]
-msgid "улица Тимофеенко"
+# Objects : [w337345146]
+# name:be: []
+msgid "улица Ударная"
 msgstr ""
 
 # Objects : [w245661066]
-# name:be: []
+# name:be: [вуліца Чарняхоўскага]
 msgid "улица Черняховского"
 msgstr ""
 
 # Objects : [w283127808]
-# name:be: []
+# name:be: [вуліца Чкалава]
 msgid "улица Чкалова"
 msgstr ""
 

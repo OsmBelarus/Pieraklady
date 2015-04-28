@@ -148,11 +148,6 @@ msgstr ""
 msgid "Грязивец"
 msgstr ""
 
-# Objects : [n243047114, w25076929]
-# name:be: []
-msgid "Гульки"
-msgstr ""
-
 # Objects : [n243047404, w25077663]
 # name:be: [Гусарка]
 msgid "Гусарка"
@@ -530,17 +525,12 @@ msgstr ""
 
 # Objects : [n243047131, w25076939]
 # name:be: [Перавалошня]
-msgid "Переволошня"
+msgid "Переволочня"
 msgstr ""
 
 # Objects : [n243047129, w25076936]
 # name:be: [Пятроўка]
 msgid "Петровка"
-msgstr ""
-
-# Objects : [n243046974, w25077280]
-# name:be: []
-msgid "Писляковка"
 msgstr ""
 
 # Objects : [n243047022, w25077248]
@@ -663,14 +653,9 @@ msgstr ""
 msgid "Семёновка"
 msgstr ""
 
-# Objects : [n243047631, w25077706]
+# Objects : [n243047631, w25077706, w338254137]
 # name:be: [Сямёнаўка 1]
 msgid "Семёновка 1"
-msgstr ""
-
-# Objects : [n243047587, w25077704]
-# name:be: []
-msgid "Семеновка 2-я"
 msgstr ""
 
 # Objects : [n243047536, w25077681]
@@ -703,7 +688,7 @@ msgstr ""
 msgid "Соболёвка"
 msgstr ""
 
-# Objects : [n243047135, n243047626, w25076932, w25077707]
+# Objects : [n243047626, w25077707]
 # name:be: []
 msgid "Совна"
 msgstr ""
@@ -783,11 +768,6 @@ msgstr ""
 msgid "Торченка"
 msgstr ""
 
-# Objects : [n243047622, w25077710]
-# name:be: []
-msgid "Тошна"
-msgstr ""
-
 # Objects : [n243047052, w25077132]
 # name:be: [Тратны Кут]
 msgid "Третный Кут"
@@ -856,11 +836,6 @@ msgstr ""
 # Objects : [n243047534, w25077680]
 # name:be: [Шумоўка]
 msgid "Шумовка"
-msgstr ""
-
-# Objects : [n243047051, w25077115]
-# name:be: []
-msgid "Юзефово"
 msgstr ""
 
 # Objects : [n243047126, w25076937]

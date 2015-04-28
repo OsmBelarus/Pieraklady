@@ -168,6 +168,11 @@ msgstr ""
 msgid "Молочно-товарная ферма «Путилово»"
 msgstr ""
 
+# Objects : [n3427455863]
+# name:be: [Няскораны чалавек]
+msgid "Няскораны чалавек"
+msgstr ""
+
 # Objects : [w25193819]
 # name:be: []
 msgid "о.Бурые"
@@ -180,7 +185,7 @@ msgstr ""
 
 # Objects : [n2390667870]
 # name:be: []
-msgid "Памятник жителям Тристени"
+msgid "Памятник жителям д. Тристень"
 msgstr ""
 
 # Objects : [w122755543]
@@ -288,7 +293,7 @@ msgstr ""
 msgid "Трасса №3"
 msgstr ""
 
-# Objects : [w305731235, w95973309, w95981636]
+# Objects : [w95973309, w95981636]
 # name:be: [Траса №4]
 msgid "Трасса №4"
 msgstr ""

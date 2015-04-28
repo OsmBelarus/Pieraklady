@@ -1,11 +1,21 @@
 # Objects : [r2944696]
-# name:be: []
+# name:be: [Амстэрдам - Масква]
 msgid "Amsterdam - Moscow"
 msgstr ""
 
 # Objects : [r124310]
 # name:be: []
 msgid "Droga krajowa nr 2"
+msgstr ""
+
+# Objects : [r4680097]
+# name:be: []
+msgid "Linia kolejowa nr 446 Terespol - Granica Państwa"
+msgstr ""
+
+# Objects : [r4680096]
+# name:be: []
+msgid "Linia kolejowa nr 453 Terespol - Granica Państwa"
 msgstr ""
 
 # Objects : [r301832]
@@ -15,7 +25,7 @@ msgstr ""
 
 # Objects : [r78041]
 # name:be: []
-msgid "Брест (Козловичи) — Минск — граница Российской Федерации"
+msgid "Брест (Козловичи) — Минск — граница Российской Федерации (Редьки)"
 msgstr ""
 
 # Objects : [r1757305]

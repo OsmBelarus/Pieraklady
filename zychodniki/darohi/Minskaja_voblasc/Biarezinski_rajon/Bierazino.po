@@ -38,6 +38,16 @@ msgstr ""
 msgid "Красноармейская улица"
 msgstr ""
 
+# Objects : [w328511399]
+# name:be: [Ленінская вуліца]
+msgid "Ленинская улица"
+msgstr ""
+
+# Objects : [w328511686]
+# name:be: [Ленінскі завулак]
+msgid "Ленинский переулок"
+msgstr ""
+
 # Objects : [w79810307]
 # name:be: [Мінская вуліца]
 msgid "Минская улица"
@@ -96,6 +106,11 @@ msgstr ""
 # Objects : [w81543497]
 # name:be: [Прамысловая вуліца]
 msgid "Промышленная улица"
+msgstr ""
+
+# Objects : [w328511133]
+# name:be: [Савецкая вуліца]
+msgid "Советская улица"
 msgstr ""
 
 # Objects : [w81543581]

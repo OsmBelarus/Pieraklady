@@ -33,7 +33,7 @@ msgstr ""
 msgid "Кальвинский сбор"
 msgstr ""
 
-# Objects : [r2393580]
+# Objects : [r2393580, w232523867]
 # name:be: []
 msgid "Кладбище"
 msgstr ""
@@ -46,6 +46,11 @@ msgstr ""
 # Objects : [n2788681514]
 # name:be: [Могілкі татарскія (Мізар)]
 msgid "Кладбище татарское (Мизар)"
+msgstr ""
+
+# Objects : [n3396895161]
+# name:be: []
+msgid "Колодец"
 msgstr ""
 
 # Objects : [n243007792, w25130615]
@@ -83,6 +88,11 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
+# Objects : [n3441026027, n3441026028]
+# name:be: [Мезінаўка]
+msgid "Мезиновка"
+msgstr ""
+
 # Objects : [n306063021]
 # name:be: []
 msgid "Озеро"
@@ -108,6 +118,11 @@ msgstr ""
 msgid "Приусадебный парк"
 msgstr ""
 
+# Objects : [w332392291]
+# name:be: []
+msgid "Развалины усадьбы Наднеман"
+msgstr ""
+
 # Objects : [n2322545741]
 # name:be: []
 msgid "Руины"
@@ -123,7 +138,7 @@ msgstr ""
 msgid "с/т Сымончицы - 2"
 msgstr ""
 
-# Objects : [n2766722554]
+# Objects : [n2766722554, w332400152]
 # name:be: []
 msgid "Санаторий Подъельники"
 msgstr ""
@@ -176,6 +191,11 @@ msgstr ""
 # Objects : [n2788685246]
 # name:be: [Фальварак]
 msgid "Фольварк"
+msgstr ""
+
+# Objects : [w332544948]
+# name:be: []
+msgid "Фонтан"
 msgstr ""
 
 # Objects : [n1460562336, w239059000]

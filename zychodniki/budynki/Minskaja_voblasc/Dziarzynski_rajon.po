@@ -40,7 +40,7 @@ msgstr ""
 
 # Objects : [w225918493]
 # name:be: []
-msgid "Гостиничный комплекс"
+msgid "Графскi маентак"
 msgstr ""
 
 # Objects : [w239947503]
@@ -73,9 +73,9 @@ msgstr ""
 msgid "музей"
 msgstr ""
 
-# Objects : [w244598204]
+# Objects : [w337384436]
 # name:be: []
-msgid "Сгоревший дом"
+msgid "Сторожка"
 msgstr ""
 
 # Objects : [w205487067]

@@ -8,6 +8,11 @@ msgstr ""
 msgid "Заводская улица"
 msgstr ""
 
+# Objects : [w213801006]
+# name:be: []
+msgid "Заозерная улица"
+msgstr ""
+
 # Objects : [w213509197]
 # name:be: []
 msgid "Комсомольская улица"
@@ -28,17 +33,17 @@ msgstr ""
 msgid "Новая улица"
 msgstr ""
 
-# Objects : [w213801006]
-# name:be: []
-msgid "Озерная улица"
-msgstr ""
-
 # Objects : [w213800999, w217274277, w244119931, w244124522, w321748570]
 # name:be: []
 msgid "Партизанская улица"
 msgstr ""
 
-# Objects : [w324710673]
+# Objects : [w213800998]
+# name:be: []
+msgid "пер. Озерный"
+msgstr ""
+
+# Objects : [w324710673, w97943811]
 # name:be: []
 msgid "Пер. Школьный"
 msgstr ""
@@ -83,7 +88,12 @@ msgstr ""
 msgid "Ударная улица"
 msgstr ""
 
-# Objects : [w323396828, w323444203]
+# Objects : [w97943795]
+# name:be: []
+msgid "ул. Западная"
+msgstr ""
+
+# Objects : [w323396828, w329818667, w330467885, w330467886]
 # name:be: []
 msgid "ул. Лесная"
 msgstr ""
@@ -93,14 +103,49 @@ msgstr ""
 msgid "ул. Молодежная"
 msgstr ""
 
+# Objects : [w329086390]
+# name:be: []
+msgid "ул. Набережная"
+msgstr ""
+
 # Objects : [w292173217]
 # name:be: []
-msgid "Ул. Озерная"
+msgid "ул. Озерная"
+msgstr ""
+
+# Objects : [w213509200]
+# name:be: []
+msgid "ул. Полевая"
+msgstr ""
+
+# Objects : [w207727766]
+# name:be: []
+msgid "Ул. Полевая"
+msgstr ""
+
+# Objects : [w329086289]
+# name:be: []
+msgid "Ул. Рабочая"
 msgstr ""
 
 # Objects : [w215364570]
 # name:be: []
 msgid "ул. Садовая"
+msgstr ""
+
+# Objects : [w97943788]
+# name:be: []
+msgid "ул. Совхозная"
+msgstr ""
+
+# Objects : [w334640210]
+# name:be: []
+msgid "ул. Строителей"
+msgstr ""
+
+# Objects : [w104828436]
+# name:be: []
+msgid "ул. Школьная"
 msgstr ""
 
 # Objects : [w215364565]
@@ -126,5 +171,10 @@ msgstr ""
 # Objects : [w260879817, w97943793]
 # name:be: []
 msgid "Школьная улица"
+msgstr ""
+
+# Objects : [w321596156]
+# name:be: []
+msgid "Шоссейная улица"
 msgstr ""
 

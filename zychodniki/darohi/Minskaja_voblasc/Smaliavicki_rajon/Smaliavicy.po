@@ -93,12 +93,7 @@ msgstr ""
 msgid "Восточный переулок"
 msgstr ""
 
-# Objects : [w201587985, w25266493]
-# name:be: []
-msgid "Гвардейская"
-msgstr ""
-
-# Objects : [w25266491]
+# Objects : [w201587985, w25266491, w25266493]
 # name:be: [Гвардзейская вуліца]
 msgid "Гвардейская улица"
 msgstr ""
@@ -313,7 +308,7 @@ msgstr ""
 msgid "Песчаная улица"
 msgstr ""
 
-# Objects : [w173753613]
+# Objects : [w173753613, w25266609]
 # name:be: [Піянерская вуліца]
 msgid "Пионерская улица"
 msgstr ""
@@ -378,12 +373,7 @@ msgstr ""
 msgid "Рождественская улица"
 msgstr ""
 
-# Objects : [w314215601]
-# name:be: []
-msgid "Садовая"
-msgstr ""
-
-# Objects : [w25266465]
+# Objects : [w25266465, w314215601]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
 msgstr ""
@@ -501,11 +491,6 @@ msgstr ""
 # Objects : [w25266516, w25266539]
 # name:be: [вуліца Навасёлаў]
 msgid "улица Новосёлов"
-msgstr ""
-
-# Objects : [w25266609]
-# name:be: []
-msgid "улица Пионерская"
 msgstr ""
 
 # Objects : [w203466385, w25266506]

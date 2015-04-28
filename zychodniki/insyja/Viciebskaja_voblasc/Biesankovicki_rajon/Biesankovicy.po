@@ -33,6 +33,11 @@ msgstr ""
 msgid "Дворцово-парковый комплекс Хрептовичей"
 msgstr ""
 
+# Objects : [w330337057]
+# name:be: []
+msgid "забор"
+msgstr ""
+
 # Objects : [n2788680504]
 # name:be: [Царква Святога прарока Іллі]
 msgid "Илии"

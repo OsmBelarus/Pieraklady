@@ -53,6 +53,11 @@ msgstr ""
 msgid "Батурки"
 msgstr ""
 
+# Objects : [n3453868097]
+# name:be: [Беларуснафта №38]
+msgid "Белоруснефть №38"
+msgstr ""
+
 # Objects : [n1624976072]
 # name:be: []
 msgid "Берёзка"
@@ -148,7 +153,7 @@ msgstr ""
 msgid "ГСМ"
 msgstr ""
 
-# Objects : [r1919925, w90171876, w90171884]
+# Objects : [w90171876]
 # name:be: [Дачы]
 msgid "Дачи"
 msgstr ""
@@ -198,7 +203,7 @@ msgstr ""
 msgid "Ислачёвка"
 msgstr ""
 
-# Objects : [n1854367422, n306065653, n306065656, n832599638, n832599824, n832599826, r2979351, r2995995]
+# Objects : [n1854367422, n306065653, n306065656, n3463943611, n832599638, n832599824, n832599826, r2979351, r2995995]
 # name:be: [Іслач]
 msgid "Ислочь"
 msgstr ""
@@ -213,9 +218,19 @@ msgstr ""
 msgid "Карьер-свалка"
 msgstr ""
 
+# Objects : [n3454407723]
+# name:be: []
+msgid "Касцёл"
+msgstr ""
+
 # Objects : [n2788680592]
 # name:be: []
 msgid "Касцёл Святога Юр'я і Божай Маці"
+msgstr ""
+
+# Objects : [w338366542]
+# name:be: []
+msgid "Кашчэліцкае гарадзішча"
 msgstr ""
 
 # Objects : [n2788680665, n2788680671]
@@ -276,6 +291,11 @@ msgstr ""
 # Objects : [w90203442]
 # name:be: [Лесапілка]
 msgid "Лесопилка"
+msgstr ""
+
+# Objects : [w157807767]
+# name:be: []
+msgid "Лохаўскія могілкі"
 msgstr ""
 
 # Objects : [w196708921]
@@ -348,11 +368,6 @@ msgstr ""
 msgid "Подсады"
 msgstr ""
 
-# Objects : [n1040603460]
-# name:be: []
-msgid "Поля Фильтрации"
-msgstr ""
-
 # Objects : [n2788683696]
 # name:be: [Прысядзібны парк пры былой сядзібе Замойскіх]
 msgid "Приусадебный парк при бывшей усадьбе Замойских"
@@ -361,6 +376,11 @@ msgstr ""
 # Objects : [w303409768]
 # name:be: []
 msgid "пультовая"
+msgstr ""
+
+# Objects : [n3464031035]
+# name:be: []
+msgid "Развалины водяной мельницы"
 msgstr ""
 
 # Objects : [w193465263]
@@ -438,7 +458,7 @@ msgstr ""
 msgid "Станция очистки сточных вод"
 msgstr ""
 
-# Objects : [n306065634]
+# Objects : [n306065634, n3468080734]
 # name:be: []
 msgid "Туристическая Поляна"
 msgstr ""
@@ -483,6 +503,11 @@ msgstr ""
 msgid "Усыпальница Жабровских"
 msgstr ""
 
+# Objects : [w338382073]
+# name:be: []
+msgid "Участок повторного заболачивания"
+msgstr ""
+
 # Objects : [n2302789733, n2766728239]
 # name:be: []
 msgid "Фестивальный"
@@ -511,6 +536,11 @@ msgstr ""
 # Objects : [n2788685319]
 # name:be: [Гаспадарчы двор Храптовічаў]
 msgid "Хозяйственный двор Хрептовичей"
+msgstr ""
+
+# Objects : [w338366231]
+# name:be: []
+msgid "Хутар "Барысова Хата""
 msgstr ""
 
 # Objects : [n2788685456]
@@ -576,6 +606,11 @@ msgstr ""
 # Objects : [n2788687584]
 # name:be: [Каплічка прыдарожная]
 msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n3424386866]
+# name:be: []
+msgid "Чертов камень Ратынский"
 msgstr ""
 
 # Objects : [w117483233]

@@ -8,19 +8,9 @@ msgstr ""
 msgid "Гимназия №1"
 msgstr ""
 
-# Objects : [w53448039]
-# name:be: [Дом афіцэраў]
-msgid "Лидская детская школа искусств (бывший Дом офицеров")"
-msgstr ""
-
 # Objects : [n3237825289]
 # name:be: []
 msgid "Лицей №1"
-msgstr ""
-
-# Objects : [w53448057]
-# name:be: [Музычная школа]
-msgid "Музыкальная школа"
 msgstr ""
 
 # Objects : [n3237825290]
@@ -91,11 +81,6 @@ msgstr ""
 # Objects : [n3237825300]
 # name:be: []
 msgid "СШ №9"
-msgstr ""
-
-# Objects : [w97234999]
-# name:be: [Школа Мастацваў]
-msgid "Школа искусств"
 msgstr ""
 
 # Objects : [w255474406]

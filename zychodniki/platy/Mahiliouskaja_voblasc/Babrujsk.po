@@ -8,6 +8,16 @@ msgstr ""
 msgid "Городской отдел по ЧС"
 msgstr ""
 
+# Objects : [w304748873, w83798462]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n306065155]
+# name:be: [КПП]
+msgid "КПП"
+msgstr ""
+
 # Objects : [w306205371]
 # name:be: []
 msgid "Стройка"

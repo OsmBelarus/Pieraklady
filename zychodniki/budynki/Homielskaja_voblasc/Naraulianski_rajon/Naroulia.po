@@ -3,6 +3,11 @@
 msgid ""Виктория""
 msgstr ""
 
+# Objects : [w239867044]
+# name:be: []
+msgid ""Волна""
+msgstr ""
+
 # Objects : [w239867086]
 # name:be: []
 msgid ""Наровляннка""
@@ -13,19 +18,14 @@ msgstr ""
 msgid ""Смак""
 msgstr ""
 
-# Objects : [w273045672]
+# Objects : [w251158383]
 # name:be: []
-msgid "Белавтодор 24"
+msgid ""Соседи""
 msgstr ""
 
 # Objects : [w239867058]
 # name:be: []
 msgid "Белагропромбанк"
-msgstr ""
-
-# Objects : [w285863586]
-# name:be: []
-msgid "вет лечебница"
 msgstr ""
 
 # Objects : [w239867082]
@@ -46,6 +46,11 @@ msgstr ""
 # Objects : [w251158384]
 # name:be: []
 msgid "Дом культуры"
+msgstr ""
+
+# Objects : [w239867051]
+# name:be: []
+msgid "ДРУП «Наровлянский завод гидроаппаратуры»"
 msgstr ""
 
 # Objects : [w239867059]
@@ -88,13 +93,13 @@ msgstr ""
 msgid "прокуратура"
 msgstr ""
 
-# Objects : [w239867044]
-# name:be: []
-msgid "ресторан "Волна""
-msgstr ""
-
 # Objects : [w285888266]
 # name:be: []
 msgid "техноград"
+msgstr ""
+
+# Objects : [w285863586]
+# name:be: []
+msgid "Учреждение «Наровлянская районная ветеринарная станция»"
 msgstr ""
 

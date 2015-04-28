@@ -33,14 +33,14 @@ msgstr ""
 msgid "Купелы — Николаевка — Половинный Лог"
 msgstr ""
 
-# Objects : [r164800]
-# name:be: []
-msgid "Минск — Могилёв"
-msgstr ""
-
 # Objects : [r2790176]
 # name:be: []
 msgid "Могилёв — Бобруйск"
+msgstr ""
+
+# Objects : [r2792022]
+# name:be: []
+msgid "Могилёв — Рясно — Мстиславль"
 msgstr ""
 
 # Objects : [r2790178]

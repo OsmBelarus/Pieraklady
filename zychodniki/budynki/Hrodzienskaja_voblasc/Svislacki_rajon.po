@@ -1,6 +1,6 @@
-# Objects : [w288444048]
+# Objects : [w328923508]
 # name:be: []
-msgid "ГРП№4"
+msgid "баня"
 msgstr ""
 
 # Objects : [w317486757]
@@ -8,17 +8,17 @@ msgstr ""
 msgid "ГРП №8"
 msgstr ""
 
-# Objects : [w273228836]
-# name:be: []
-msgid "ГРС Свислочь"
-msgstr ""
-
 # Objects : [w316364772, w324479950]
 # name:be: []
 msgid "КЗСВ-30"
 msgstr ""
 
-# Objects : [w314532130, w314556922, w314560752, w316364773]
+# Objects : [w328962488]
+# name:be: []
+msgid "котельная"
+msgstr ""
+
+# Objects : [w314532130, w314556922, w316364773]
 # name:be: []
 msgid "Котельная РУП ЖКХ"
 msgstr ""
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Котельная СТФ "РУдавка""
 msgstr ""
 
-# Objects : [w314556923, w314560753]
+# Objects : [w314556923]
 # name:be: []
 msgid "МСЧ"
 msgstr ""
@@ -41,6 +41,11 @@ msgstr ""
 # Objects : [w288481560, w314529087]
 # name:be: []
 msgid "Родны кут"
+msgstr ""
+
+# Objects : [w328918860]
+# name:be: []
+msgid "столовая"
 msgstr ""
 
 # Objects : [w324479951]
@@ -61,10 +66,5 @@ msgstr ""
 # Objects : [w304521386]
 # name:be: []
 msgid "ШРП №7"
-msgstr ""
-
-# Objects : [w324479496]
-# name:be: []
-msgid "ШРП№9"
 msgstr ""
 

@@ -173,6 +173,11 @@ msgstr ""
 msgid "Лавы"
 msgstr ""
 
+# Objects : [n243020417, w25122298]
+# name:be: [Лагі]
+msgid "Лаги"
+msgstr ""
+
 # Objects : [n243021004, w25124819]
 # name:be: [Ляўкі]
 msgid "Левки"
@@ -186,11 +191,6 @@ msgstr ""
 # Objects : [n243015935, w25125615]
 # name:be: [Ліпаўка]
 msgid "Липовка"
-msgstr ""
-
-# Objects : [n243020417, w25122298]
-# name:be: [Лагі]
-msgid "Логи"
 msgstr ""
 
 # Objects : [n243023451, w25111288]

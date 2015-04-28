@@ -1,56 +1,26 @@
-# Objects : [w283781299]
-# name:be: []
-msgid "1"
-msgstr ""
-
-# Objects : [w308060089, w308684893]
+# Objects : [w308060089]
 # name:be: []
 msgid "10"
 msgstr ""
 
-# Objects : [w308062176, w308685443]
+# Objects : [w308062176]
 # name:be: []
 msgid "11"
 msgstr ""
 
-# Objects : [w308060139, w308684894, w308896164]
+# Objects : [w308060139]
 # name:be: []
 msgid "12"
 msgstr ""
 
-# Objects : [w308062444, w308685435]
+# Objects : [w308062444]
 # name:be: []
 msgid "13"
 msgstr ""
 
-# Objects : [w308684897, w308896280]
-# name:be: []
-msgid "14"
-msgstr ""
-
-# Objects : [w308685380]
-# name:be: []
-msgid "15"
-msgstr ""
-
-# Objects : [w308684898, w308896649]
-# name:be: []
-msgid "16"
-msgstr ""
-
-# Objects : [w308685379]
-# name:be: []
-msgid "17"
-msgstr ""
-
-# Objects : [w308059509, w308059715, w308684727, w308896746]
+# Objects : [w308059509, w308059715]
 # name:be: []
 msgid "18"
-msgstr ""
-
-# Objects : [w308685363]
-# name:be: []
-msgid "19"
 msgstr ""
 
 # Objects : [w283740804]
@@ -58,22 +28,17 @@ msgstr ""
 msgid "19А"
 msgstr ""
 
-# Objects : [w299426984]
-# name:be: []
-msgid "1а"
-msgstr ""
-
 # Objects : [w308685900]
 # name:be: []
 msgid "2"
 msgstr ""
 
-# Objects : [w308684516, w308687164, w308896892]
+# Objects : [w308687164]
 # name:be: []
 msgid "20"
 msgstr ""
 
-# Objects : [w308061735, w308687141, w308896968]
+# Objects : [w308061735, w308687141]
 # name:be: []
 msgid "22"
 msgstr ""
@@ -93,17 +58,7 @@ msgstr ""
 msgid "28"
 msgstr ""
 
-# Objects : [w308686975]
-# name:be: []
-msgid "2а"
-msgstr ""
-
-# Objects : [w295081440, w308687105]
-# name:be: []
-msgid "2б"
-msgstr ""
-
-# Objects : [w308061360, w308685873]
+# Objects : [w308061360]
 # name:be: []
 msgid "3"
 msgstr ""
@@ -123,22 +78,22 @@ msgstr ""
 msgid "35"
 msgstr ""
 
-# Objects : [w308060547, w308684895]
+# Objects : [w308060547]
 # name:be: []
 msgid "4"
 msgstr ""
 
-# Objects : [w308061276, w308685840, w308893555]
+# Objects : [w295057940, w308061276]
 # name:be: []
 msgid "5"
 msgstr ""
 
-# Objects : [w308060500, w308684896, w309371126]
+# Objects : [w283740746, w308060500]
 # name:be: []
 msgid "6"
 msgstr ""
 
-# Objects : [w308061944, w308685828, w308892972, w308893506]
+# Objects : [w295057648, w308061944, w308892972]
 # name:be: []
 msgid "7"
 msgstr ""
@@ -148,12 +103,12 @@ msgstr ""
 msgid "7/1"
 msgstr ""
 
-# Objects : [w308060481, w308684892]
+# Objects : [w308060481]
 # name:be: []
 msgid "8"
 msgstr ""
 
-# Objects : [w308062144, w308685794, w308894908]
+# Objects : [w308062144, w308685794]
 # name:be: []
 msgid "9"
 msgstr ""

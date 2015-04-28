@@ -33,7 +33,7 @@ msgstr ""
 msgid "Заболоть"
 msgstr ""
 
-# Objects : [w134139590]
+# Objects : [w134139590, w237040533]
 # name:be: [Завадская вуліца]
 msgid "Заводская улица"
 msgstr ""
@@ -103,7 +103,7 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w181659010, w200667687, w204006699]
+# Objects : [w181659010, w200667687, w204006699, w237040555]
 # name:be: []
 msgid "Набережная улица"
 msgstr ""
@@ -181,6 +181,11 @@ msgstr ""
 # Objects : [w200667677, w235522026, w268256333, w325395665, w325395666]
 # name:be: []
 msgid "Солнечная улица"
+msgstr ""
+
+# Objects : [w330661985]
+# name:be: []
+msgid "Солнечный переулок"
 msgstr ""
 
 # Objects : [w265359493]
@@ -328,7 +333,7 @@ msgstr ""
 msgid "Южная улица"
 msgstr ""
 
-# Objects : [w286859429]
+# Objects : [w133951252, w286859429]
 # name:be: []
 msgid "Южный переулок"
 msgstr ""

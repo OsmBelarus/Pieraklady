@@ -8,6 +8,11 @@ msgstr ""
 msgid "Богуславка"
 msgstr ""
 
+# Objects : [n242982970, w25144989]
+# name:be: [Вялікі Паўлопаль]
+msgid "Большой Павлополь"
+msgstr ""
+
 # Objects : [n242982994, w25144999]
 # name:be: [Боркі]
 msgid "Борки"
@@ -21,11 +26,6 @@ msgstr ""
 # Objects : [n242980001, w25146824]
 # name:be: [Брадзяцін]
 msgid "Бродятин"
-msgstr ""
-
-# Objects : [n242982970, w25144989]
-# name:be: [Вялікі Паўлопаль]
-msgid "Великий Павлополь"
 msgstr ""
 
 # Objects : [n242980803, w25146205]
@@ -208,11 +208,6 @@ msgstr ""
 msgid "Мельники"
 msgstr ""
 
-# Objects : [n242980872, w25146235]
-# name:be: [Мікольскае]
-msgid "Микольское"
-msgstr ""
-
 # Objects : [n242983006, w25145003]
 # name:be: [Макраны]
 msgid "Мокраны"
@@ -221,6 +216,11 @@ msgstr ""
 # Objects : [w25146846]
 # name:be: []
 msgid "Мутвица"
+msgstr ""
+
+# Objects : [n242980872, w25146235]
+# name:be: [Нікольскае]
+msgid "Никольское"
 msgstr ""
 
 # Objects : [n242982990, w25144996]
@@ -263,7 +263,7 @@ msgstr ""
 msgid "Орлянка"
 msgstr ""
 
-# Objects : [n1748289125, n242982266, w25145620, w25145624]
+# Objects : [n242982266, r4728862]
 # name:be: [Асавая]
 msgid "Осовая"
 msgstr ""
@@ -279,8 +279,8 @@ msgid "Отчин"
 msgstr ""
 
 # Objects : [n242982257, w25145619]
-# name:be: [Вотчына]
-msgid "Отчина"
+# name:be: [Отчына]
+msgid "Отчино"
 msgstr ""
 
 # Objects : [n242979761, w25146839]
@@ -345,7 +345,7 @@ msgstr ""
 
 # Objects : [n242982297, w25145594]
 # name:be: [Субаты]
-msgid "Суботы"
+msgid "Субботы"
 msgstr ""
 
 # Objects : [n242982254, w25145627]

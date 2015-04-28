@@ -3,6 +3,11 @@
 msgid "Д/сад № 23"
 msgstr ""
 
+# Objects : [w337434399]
+# name:be: []
+msgid "Детский Сад"
+msgstr ""
+
 # Objects : [w146460816]
 # name:be: [Дзіцячы сад № 10]
 msgid "Детский сад № 10"

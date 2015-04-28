@@ -23,7 +23,7 @@ msgstr ""
 msgid "ДорОрс"
 msgstr ""
 
-# Objects : [n1314516683]
+# Objects : [n1314516683, n3473021620]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -36,6 +36,11 @@ msgstr ""
 # Objects : [n1287455742, n1717508174, n2423105720]
 # name:be: [Магазін]
 msgid "Магазин"
+msgstr ""
+
+# Objects : [n3376424128]
+# name:be: []
+msgid "Магазин - Родны кут"
 msgstr ""
 
 # Objects : [n1314516757]

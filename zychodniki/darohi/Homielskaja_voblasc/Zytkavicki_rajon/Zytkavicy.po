@@ -274,7 +274,7 @@ msgid "Пролетарская улица"
 msgstr ""
 
 # Objects : [w238986016]
-# name:be: []
+# name:be: [Рабочая вуліца]
 msgid "Рабочая улица"
 msgstr ""
 
@@ -318,6 +318,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w239008160]
+# name:be: [Савецкі завулак]
+msgid "Советский переулок"
+msgstr ""
+
 # Objects : [w48954963]
 # name:be: [Сонечная вуліца]
 msgid "Солнечная улица"
@@ -359,7 +364,7 @@ msgid "Строительная улица"
 msgstr ""
 
 # Objects : [w310338126]
-# name:be: []
+# name:be: [Цяністая вуліца]
 msgid "Тенистая улица"
 msgstr ""
 

@@ -9,13 +9,8 @@ msgid "переулок Протасова"
 msgstr ""
 
 # Objects : [w208397247]
-# name:be: []
+# name:be: [завулак Энгельса]
 msgid "переулок Энгельса"
-msgstr ""
-
-# Objects : [w208226979]
-# name:be: []
-msgid "улица Победителей"
 msgstr ""
 
 # Objects : [w208388014]

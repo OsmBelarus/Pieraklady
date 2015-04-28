@@ -13,24 +13,9 @@ msgstr ""
 msgid "БГАЭК"
 msgstr ""
 
-# Objects : [n1670714984]
-# name:be: []
-msgid "гимназия №1"
-msgstr ""
-
-# Objects : [w205594139]
-# name:be: [СШ №2]
-msgid "СШ №2"
-msgstr ""
-
 # Objects : [n1269803651]
 # name:be: []
 msgid "Сш№29"
-msgstr ""
-
-# Objects : [n1670714986]
-# name:be: []
-msgid "СШ №30"
 msgstr ""
 
 # Objects : [w275257872]

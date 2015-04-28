@@ -23,9 +23,24 @@ msgstr ""
 msgid "Каток"
 msgstr ""
 
+# Objects : [w210182715]
+# name:be: []
+msgid "Маслосырзавод"
+msgstr ""
+
 # Objects : [w309917408]
 # name:be: []
 msgid "Насыпь"
+msgstr ""
+
+# Objects : [w210189786]
+# name:be: []
+msgid "Пожарная часть"
+msgstr ""
+
+# Objects : [w328704345]
+# name:be: []
+msgid "Пожарный водоём"
 msgstr ""
 
 # Objects : [w274235760]

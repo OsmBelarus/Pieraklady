@@ -3,9 +3,54 @@
 msgid "Беседь"
 msgstr ""
 
+# Objects : [n243047149]
+# name:be: [Боркі]
+msgid "Борки"
+msgstr ""
+
+# Objects : [n243047017]
+# name:be: []
+msgid "Веселая Дубрава"
+msgstr ""
+
+# Objects : [n243046993]
+# name:be: []
+msgid "Восточный Путь"
+msgstr ""
+
 # Objects : [n2584318022]
 # name:be: []
 msgid "Горня-Осинка"
+msgstr ""
+
+# Objects : [n243046992]
+# name:be: []
+msgid "Екатеринополье"
+msgstr ""
+
+# Objects : [n243046939]
+# name:be: []
+msgid "Загарье"
+msgstr ""
+
+# Objects : [n243047036]
+# name:be: [Міхайлаўка]
+msgid "Михайловка"
+msgstr ""
+
+# Objects : [n243047040, w25077100]
+# name:be: []
+msgid "Орел"
+msgstr ""
+
+# Objects : [n243047035]
+# name:be: []
+msgid "Ранняя Зорька"
+msgstr ""
+
+# Objects : [w25192692]
+# name:be: [Святое]
+msgid "Святое"
 msgstr ""
 
 # Objects : [n2788684612]

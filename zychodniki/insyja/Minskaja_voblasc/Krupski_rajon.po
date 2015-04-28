@@ -8,14 +8,19 @@ msgstr ""
 msgid "Авиабаза Бобр"
 msgstr ""
 
-# Objects : [w287089335]
-# name:be: []
-msgid "Гута"
+# Objects : [n3412602231, w221270590]
+# name:be: [Бобр]
+msgid "Бобр"
 msgstr ""
 
 # Objects : [n2788680576]
 # name:be: [Каменны крыж]
 msgid "Каменный крест"
+msgstr ""
+
+# Objects : [w328935857]
+# name:be: []
+msgid "Кладбище"
 msgstr ""
 
 # Objects : [n306066326]

@@ -1,3 +1,8 @@
+# Objects : [w335531618]
+# name:be: []
+msgid "10-й переулок"
+msgstr ""
+
 # Objects : [w168656383]
 # name:be: []
 msgid "2-ой переулок"
@@ -28,6 +33,11 @@ msgstr ""
 msgid "7-ой переулок"
 msgstr ""
 
+# Objects : [w335531619]
+# name:be: []
+msgid "8-ой переулок"
+msgstr ""
+
 # Objects : [w168656382]
 # name:be: []
 msgid "9-ыё переулок"
@@ -51,11 +61,6 @@ msgstr ""
 # Objects : [w233995784]
 # name:be: []
 msgid "Поселок"
-msgstr ""
-
-# Objects : [w168520209]
-# name:be: []
-msgid "Птичь-82"
 msgstr ""
 
 # Objects : [w168656773]

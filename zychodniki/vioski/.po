@@ -1,25 +1,5 @@
-# Objects : [n243015492]
-# name:be: [Лошыца 1-я]
-msgid "Лошица 1-я"
-msgstr ""
-
-# Objects : [n243017712, w30972281]
-# name:be: [Малы Трасцянец]
-msgid "Малый Тростенец"
-msgstr ""
-
-# Objects : [n243017733]
-# name:be: [Азярышча]
-msgid "Озерище"
-msgstr ""
-
 # Objects : [n910384457]
 # name:be: []
 msgid "пос. Станция Колядичи"
-msgstr ""
-
-# Objects : [n243015637]
-# name:be: [Цна]
-msgid "Цна"
 msgstr ""
 

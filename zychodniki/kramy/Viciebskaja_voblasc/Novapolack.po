@@ -28,6 +28,11 @@ msgstr ""
 msgid "Serge"
 msgstr ""
 
+# Objects : [n3402614376]
+# name:be: []
+msgid "teriART"
+msgstr ""
+
 # Objects : [n905973019]
 # name:be: [Аўтааўдыёсэрвіс]
 msgid "АвтоАудиоСервис (Саланг-Авто)"
@@ -113,6 +118,11 @@ msgstr ""
 msgid "Дионис"
 msgstr ""
 
+# Objects : [n3445252255]
+# name:be: []
+msgid "Домовой"
+msgstr ""
+
 # Objects : [n1597513439, n2993815726, n674489852]
 # name:be: []
 msgid "Евроопт"
@@ -141,6 +151,11 @@ msgstr ""
 # Objects : [n2338171530]
 # name:be: []
 msgid "Зоомагазин"
+msgstr ""
+
+# Objects : [n3394903249]
+# name:be: []
+msgid "ЗООмагазин"
 msgstr ""
 
 # Objects : [n1687526587]

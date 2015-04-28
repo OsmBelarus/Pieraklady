@@ -33,6 +33,11 @@ msgstr ""
 msgid "Магазин "Двери""
 msgstr ""
 
+# Objects : [w238981567]
+# name:be: []
+msgid "Озёрный"
+msgstr ""
+
 # Objects : [w285228656, w285233013]
 # name:be: []
 msgid "погреб"
@@ -41,6 +46,11 @@ msgstr ""
 # Objects : [w266840139]
 # name:be: []
 msgid "Продная"
+msgstr ""
+
+# Objects : [w241498895]
+# name:be: []
+msgid "Промтовары"
 msgstr ""
 
 # Objects : [w258077893]

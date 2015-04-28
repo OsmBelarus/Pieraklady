@@ -28,19 +28,14 @@ msgstr ""
 msgid "Гавья"
 msgstr ""
 
-# Objects : [n1612176546]
-# name:be: []
-msgid "Геранени"
-msgstr ""
-
 # Objects : [n2788680173]
 # name:be: [Геранёнскі замак (руіны)]
 msgid "Гераненский замок (руины)"
 msgstr ""
 
-# Objects : [r3798403, r3798425]
+# Objects : [r3798403]
 # name:be: []
-msgid "Гераненский сельский совет"
+msgid "Геранёнский сельский Совет"
 msgstr ""
 
 # Objects : [n2788680328]
@@ -160,7 +155,7 @@ msgstr ""
 
 # Objects : [r3798390]
 # name:be: []
-msgid "Липнишковский сельский совет"
+msgid "Липнишковский сельский Совет"
 msgstr ""
 
 # Objects : [n242995136, w25138089]
@@ -283,24 +278,9 @@ msgstr ""
 msgid "Субботники"
 msgstr ""
 
-# Objects : [r3798405]
-# name:be: []
-msgid "Субботникский сельский совет"
-msgstr ""
-
 # Objects : [n242996565, w25136083]
 # name:be: [Сухі Барок]
 msgid "Сухой Борок"
-msgstr ""
-
-# Objects : [n242996597, w25136067]
-# name:be: [Сябрынь 1]
-msgid "Сябрынь 1"
-msgstr ""
-
-# Objects : [n242996594, w25136064]
-# name:be: [Сябрынь 2]
-msgid "Сябрынь 2"
 msgstr ""
 
 # Objects : [r2631878]
@@ -403,19 +383,9 @@ msgstr ""
 msgid "Черница"
 msgstr ""
 
-# Objects : [n2766458611, w271699112]
-# name:be: [Чорны Ручай]
-msgid "Чёрный Ручей"
-msgstr ""
-
 # Objects : [n242994865, w25137116]
 # name:be: [Шашкі]
 msgid "Шашки"
-msgstr ""
-
-# Objects : [n242995006]
-# name:be: [Шчучы Бор]
-msgid "Щучий Бор"
 msgstr ""
 
 # Objects : [n306067530]

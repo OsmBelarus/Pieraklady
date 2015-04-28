@@ -3,9 +3,19 @@
 msgid "Блужа"
 msgstr ""
 
+# Objects : [n306063822]
+# name:be: [Вяленскі]
+msgid "Веленский"
+msgstr ""
+
 # Objects : [n306063698]
 # name:be: [Вяндзеж]
 msgid "Вендеж"
+msgstr ""
+
+# Objects : [n1102936837]
+# name:be: [Весялоўскі]
+msgid "Веселовский"
 msgstr ""
 
 # Objects : [n306063630]
@@ -16,6 +26,21 @@ msgstr ""
 # Objects : [n1165761955]
 # name:be: [Зазерка]
 msgid "Зазерка"
+msgstr ""
+
+# Objects : [n306063730]
+# name:be: [Майскі]
+msgid "Майский"
+msgstr ""
+
+# Objects : [n271040767]
+# name:be: [Новае Сяло]
+msgid "Новое Село"
+msgstr ""
+
+# Objects : [n306062995]
+# name:be: [Раўнаполле]
+msgid "Равнополье"
 msgstr ""
 
 # Objects : [n1205158345]

@@ -143,6 +143,11 @@ msgstr ""
 msgid "Linxs"
 msgstr ""
 
+# Objects : [n443003107]
+# name:be: []
+msgid "Mark Formelle"
+msgstr ""
+
 # Objects : [n483764964]
 # name:be: []
 msgid "N35"
@@ -338,6 +343,11 @@ msgstr ""
 msgid "Веды"
 msgstr ""
 
+# Objects : [n3477223048]
+# name:be: []
+msgid "Велобайк"
+msgstr ""
+
 # Objects : [n2660413106]
 # name:be: []
 msgid "Веломания"
@@ -391,6 +401,11 @@ msgstr ""
 # Objects : [n430951324]
 # name:be: [Усходні]
 msgid "Восточный"
+msgstr ""
+
+# Objects : [n1719497500]
+# name:be: []
+msgid "Гипермаркет Евроопт"
 msgstr ""
 
 # Objects : [n1256869259]
@@ -448,7 +463,7 @@ msgstr ""
 msgid "Дом мебели "Светлана""
 msgstr ""
 
-# Objects : [n1089317932, n1256787181, n1719497500, n1842892877, n2315880707, n320409884]
+# Objects : [n1089317932, n1256787181, n1842892877, n2315880707, n2913453287, n320409884, n3477271528]
 # name:be: [Еўраопт]
 msgid "Евроопт"
 msgstr ""
@@ -456,11 +471,6 @@ msgstr ""
 # Objects : [n1731282221]
 # name:be: []
 msgid "Евро Шина"
-msgstr ""
-
-# Objects : [n2913453287]
-# name:be: []
-msgid "ЕвтоОпт"
 msgstr ""
 
 # Objects : [n1249997577]
@@ -938,11 +948,6 @@ msgstr ""
 msgid "Поместье"
 msgstr ""
 
-# Objects : [n443003107]
-# name:be: []
-msgid "Пралеска"
-msgstr ""
-
 # Objects : [n2690057476]
 # name:be: []
 msgid "Прамень"
@@ -1216,6 +1221,11 @@ msgstr ""
 # Objects : [n1819491812, n2676089592, n2676089596]
 # name:be: []
 msgid "Твой велик"
+msgstr ""
+
+# Objects : [n3477185770, n3477193812]
+# name:be: []
+msgid "Твой Велик"
 msgstr ""
 
 # Objects : [n1368458898]

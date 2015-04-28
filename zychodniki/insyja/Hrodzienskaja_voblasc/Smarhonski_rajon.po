@@ -353,6 +353,11 @@ msgstr ""
 msgid "Рыжее"
 msgstr ""
 
+# Objects : [w340389725, w340389726, w40426481]
+# name:be: []
+msgid "Садовые участки"
+msgstr ""
+
 # Objects : [n2766722525]
 # name:be: []
 msgid "Санаторий Лесная поляна"

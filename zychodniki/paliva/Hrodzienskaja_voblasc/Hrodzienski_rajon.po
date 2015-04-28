@@ -28,13 +28,13 @@ msgstr ""
 msgid "Белоруснефть №7"
 msgstr ""
 
-# Objects : [n2836141653, n847177190]
-# name:be: []
-msgid "Лукойл №50"
-msgstr ""
-
 # Objects : [n320409950]
 # name:be: []
 msgid "МАЗС № 44"
+msgstr ""
+
+# Objects : [n847177190]
+# name:be: []
+msgid "МАЗС № 50"
 msgstr ""
 

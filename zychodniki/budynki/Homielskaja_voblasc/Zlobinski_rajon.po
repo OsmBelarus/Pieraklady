@@ -13,7 +13,7 @@ msgstr ""
 msgid "Баня"
 msgstr ""
 
-# Objects : [w161496744]
+# Objects : [w161496744, w296151812]
 # name:be: []
 msgid "Белый лебедь"
 msgstr ""
@@ -21,11 +21,6 @@ msgstr ""
 # Objects : [w293261050]
 # name:be: []
 msgid "Дворцово-парковый комплекс Козел-Поклевских"
-msgstr ""
-
-# Objects : [w313546505]
-# name:be: []
-msgid "Детский сад п.Лукский"
 msgstr ""
 
 # Objects : [w271070418, w278785648, w293852804]
@@ -63,7 +58,7 @@ msgstr ""
 msgid "КБО"
 msgstr ""
 
-# Objects : [w226959697, w270852589, w274223062, w313546506]
+# Objects : [w190167465, w226959697, w270852589, w274223062, w313546506]
 # name:be: []
 msgid "Клуб"
 msgstr ""
@@ -83,7 +78,7 @@ msgstr ""
 msgid "Конюшня"
 msgstr ""
 
-# Objects : [w265906662, w276447049, w277246528]
+# Objects : [w190167452, w247024411, w265906662, w269191595, w276447049, w277246528, w328937230]
 # name:be: []
 msgid "Котельная"
 msgstr ""
@@ -91,6 +86,11 @@ msgstr ""
 # Objects : [w268585942, w294789680]
 # name:be: []
 msgid "КПП"
+msgstr ""
+
+# Objects : [w328937177]
+# name:be: []
+msgid "Красный Берег"
 msgstr ""
 
 # Objects : [w312724994]
@@ -138,7 +138,7 @@ msgstr ""
 msgid "Полигон ТБО Проскурни"
 msgstr ""
 
-# Objects : [w199994951, w226959699, w313546507]
+# Objects : [w199994951, w226959699]
 # name:be: []
 msgid "Почта"
 msgstr ""
@@ -211,10 +211,5 @@ msgstr ""
 # Objects : [w221921314]
 # name:be: []
 msgid "Хальч"
-msgstr ""
-
-# Objects : [w313546508]
-# name:be: []
-msgid "Церковь"
 msgstr ""
 

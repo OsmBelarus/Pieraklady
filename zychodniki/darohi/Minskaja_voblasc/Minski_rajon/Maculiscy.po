@@ -1,3 +1,13 @@
+# Objects : [w22887739, w335003944]
+# name:be: []
+msgid "Авиаторов"
+msgstr ""
+
+# Objects : [w335003942]
+# name:be: []
+msgid "Аграрная"
+msgstr ""
+
 # Objects : [w107699686, w107699689]
 # name:be: [Аэрадромная вуліца]
 msgid "Аэродромная улица"
@@ -18,9 +28,19 @@ msgstr ""
 msgid "Дружная улица"
 msgstr ""
 
+# Objects : [w334996359]
+# name:be: []
+msgid "Жодинская"
+msgstr ""
+
 # Objects : [w103849708]
 # name:be: [Зялёная вуліца]
 msgid "Зелёная улица"
+msgstr ""
+
+# Objects : [w335003939]
+# name:be: []
+msgid "Инженерная"
 msgstr ""
 
 # Objects : [w96154887]

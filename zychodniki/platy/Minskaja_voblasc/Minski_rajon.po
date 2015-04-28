@@ -18,11 +18,6 @@ msgstr ""
 msgid "28"
 msgstr ""
 
-# Objects : [w302114152]
-# name:be: []
-msgid "АЗС"
-msgstr ""
-
 # Objects : [w23563638]
 # name:be: []
 msgid "База отдыха "Сябры""
@@ -96,6 +91,11 @@ msgstr ""
 # Objects : [w104472997]
 # name:be: [Садовыя ўчасткі]
 msgid "Садовые участки"
+msgstr ""
+
+# Objects : [w142797737]
+# name:be: []
+msgid "Спортивно-оздоровительная база Олимпиец"
 msgstr ""
 
 # Objects : [w27949213]

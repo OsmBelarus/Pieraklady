@@ -1,6 +1,36 @@
+# Objects : [n243045470]
+# name:be: []
+msgid "Загоренье"
+msgstr ""
+
+# Objects : [n243045120]
+# name:be: []
+msgid "Какойский"
+msgstr ""
+
+# Objects : [n243045582]
+# name:be: [Кірава]
+msgid "Кирова"
+msgstr ""
+
+# Objects : [n243045305]
+# name:be: []
+msgid "Ленинский"
+msgstr ""
+
+# Objects : [n243045472]
+# name:be: []
+msgid "Степаново"
+msgstr ""
+
 # Objects : [n2788686398]
 # name:be: [Царква Святога Дзмітрыя Растоўскага]
 msgid "Церковь Святого Дмитрия Ростовского"
+msgstr ""
+
+# Objects : [n243045119]
+# name:be: []
+msgid "Широкоувелье"
 msgstr ""
 
 # Objects : [w220316235]

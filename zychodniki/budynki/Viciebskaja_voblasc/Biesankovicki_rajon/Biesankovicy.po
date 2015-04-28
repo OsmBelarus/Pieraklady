@@ -43,6 +43,11 @@ msgstr ""
 msgid "Дежурный"
 msgstr ""
 
+# Objects : [w147229326]
+# name:be: []
+msgid "Дом Быта"
+msgstr ""
+
 # Objects : [w147227425]
 # name:be: []
 msgid "Дом культуры"
