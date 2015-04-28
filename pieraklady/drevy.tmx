@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Алея Дружбы</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145212Z" creationid="alex" creationdate="20150428T145212Z">
+        <seg>Алея Дружбы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Аллея 940 летия Минска</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T134907Z" creationid="alex" creationdate="20150428T134907Z">
         <seg>Алея 940 годдзя Мінска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аллея Молодожёнов</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145315Z" creationid="alex" creationdate="20150428T145315Z">
+        <seg>Алея Маладых</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +50,86 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T134921Z" creationid="alex" creationdate="20150428T134921Z">
         <seg>Антонаўскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бондаревский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145319Z" creationid="alex" creationdate="20150428T145319Z">
+        <seg>Бондараўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бульвар Данилы Сердича</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145322Z" creationid="alex" creationdate="20150428T145322Z">
+        <seg>Бульвар Данілы Сердзіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бульвар Мулявина</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145323Z" creationid="alex" creationdate="20150428T145323Z">
+        <seg>Бульвар Трактарабудаўнікоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бульвар Толбухина</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145342Z" creationid="alex" creationdate="20150428T145342Z">
+        <seg>Бульвар Таўбухіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бульвар Тракторостроителей</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145352Z" creationid="alex" creationdate="20150428T145352Z">
+        <seg>Бульвар Трактарабудаўнікоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Бульвар Шевченко</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145354Z" creationid="alex" creationdate="20150428T145354Z">
+        <seg>Бульвар Шаўчэнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Кальварийский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145400Z" creationid="alex" creationdate="20150428T145400Z">
+        <seg>Кальварыйскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Киевский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145403Z" creationid="alex" creationdate="20150428T145403Z">
+        <seg>Кіеўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Комаровский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145405Z" creationid="alex" creationdate="20150428T145405Z">
+        <seg>Камароўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лютеранский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145446Z" creationid="alex" creationdate="20150428T145427Z">
+        <seg>Лютаранскі сквер</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
