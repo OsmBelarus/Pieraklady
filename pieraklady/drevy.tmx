@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Брагинский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145847Z" creationid="alex" creationdate="20150428T145847Z">
+        <seg>Брагінскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Бульвар Данилы Сердича</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145322Z" creationid="alex" creationdate="20150428T145322Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Мозырский Сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145932Z" creationid="alex" creationdate="20150428T145932Z">
+        <seg>Мазырскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Ольшевский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145554Z" creationid="alex" creationdate="20150428T145554Z">
@@ -222,10 +238,42 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Парк Курасовщина</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145800Z" creationid="alex" creationdate="20150428T145800Z">
+        <seg>Парк Курасоўшчына</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Парк Михаила Павлова</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145745Z" creationid="alex" creationdate="20150428T145745Z">
         <seg>Парк Міхаіла Паўлава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Победы</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145805Z" creationid="alex" creationdate="20150428T145805Z">
+        <seg>Парк Перамогі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Тиволи</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145806Z" creationid="alex" creationdate="20150428T145806Z">
+        <seg>Парк Цівалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Уручье</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145812Z" creationid="alex" creationdate="20150428T145812Z">
+        <seg>Парк Уручча</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +290,118 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145721Z" creationid="alex" creationdate="20150428T145721Z">
         <seg>Парк Янкі Купалы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Переспенский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145816Z" creationid="alex" creationdate="20150428T145816Z">
+        <seg>Пярэспенскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пушкинский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145819Z" creationid="alex" creationdate="20150428T145819Z">
+        <seg>Пушкінскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Севастопольский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145821Z" creationid="alex" creationdate="20150428T145821Z">
+        <seg>Севастопальскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сендайский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145823Z" creationid="alex" creationdate="20150428T145823Z">
+        <seg>Сэндайскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Адама Мицкевича</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145825Z" creationid="alex" creationdate="20150428T145825Z">
+        <seg>Сквер Адама Міцкевіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Дубки</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145850Z" creationid="alex" creationdate="20150428T145850Z">
+        <seg>Сквер Дубкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Клумова</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145912Z" creationid="alex" creationdate="20150428T145912Z">
+        <seg>Сквер Клумава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Омара Хайяма</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145938Z" creationid="alex" creationdate="20150428T145938Z">
+        <seg>Сквер Амара Хаяма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Симона Боливара</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145905Z" creationid="alex" creationdate="20150428T145905Z">
+        <seg>Сквер Сімона Балівара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Степановский сад</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145943Z" creationid="alex" creationdate="20150428T145943Z">
+        <seg>Сцяпанаўскі сад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сторожевский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145945Z" creationid="alex" creationdate="20150428T145945Z">
+        <seg>Старажоўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Татарский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145946Z" creationid="alex" creationdate="20150428T145946Z">
+        <seg>Татарскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Троицкая гора</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145948Z" creationid="alex" creationdate="20150428T145948Z">
+        <seg>Траецкая гара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Тучинский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145950Z" creationid="alex" creationdate="20150428T145950Z">
+        <seg>Тучынскі сквер</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
