@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Гороховое урочище</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150514Z" creationid="alex" creationdate="20150428T150514Z">
+        <seg>Гарохавае ўрочышча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Детский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150648Z" creationid="alex" creationdate="20150428T150648Z">
+        <seg>Дзіцячы парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кальварийский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145400Z" creationid="alex" creationdate="20150428T145400Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145405Z" creationid="alex" creationdate="20150428T145405Z">
         <seg>Камароўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лесопарк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150617Z" creationid="alex" creationdate="20150428T150617Z">
+        <seg>Лесапарк</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Приусадебный парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150444Z" creationid="alex" creationdate="20150428T150444Z">
+        <seg>Сядзібны парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Приусадебный парк при бывшей усадьбе Сеножецких</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150640Z" creationid="alex" creationdate="20150428T150640Z">
+        <seg>Прысядзібны парк пры былой сядзібе Сянажэцкіх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Пушкинский парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145819Z" creationid="alex" creationdate="20150428T145819Z">
@@ -354,6 +394,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145825Z" creationid="alex" creationdate="20150428T145825Z">
         <seg>Сквер Адама Міцкевіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер Громыко</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150412Z" creationid="alex" creationdate="20150428T150412Z">
+        <seg>Сквер Грамыкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +506,46 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145950Z" creationid="alex" creationdate="20150428T145950Z">
         <seg>Тучынскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Урочище Гребля</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150603Z" creationid="alex" creationdate="20150428T150603Z">
+        <seg>Урочышча Грэбля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Урочище Новая Земля</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150657Z" creationid="alex" creationdate="20150428T150657Z">
+        <seg>Урочышча Новая Зямля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Урочище Подселице</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150630Z" creationid="alex" creationdate="20150428T150630Z">
+        <seg>Урочышча Падселіцэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Усадьба Ястржембских</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150437Z" creationid="alex" creationdate="20150428T150437Z">
+        <seg>Сядзіба Ястражэмбскіх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фестивальный</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150417Z" creationid="alex" creationdate="20150428T150417Z">
+        <seg>Фэстывальны</seg>
       </tuv>
     </tu>
     <tu>
