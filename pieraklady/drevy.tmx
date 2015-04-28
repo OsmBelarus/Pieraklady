@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Английский пейзажный парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150811Z" creationid="alex" creationdate="20150428T150811Z">
+        <seg>Англійскі пейзажны парк парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Антоновский парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T134921Z" creationid="alex" creationdate="20150428T134921Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Итальянский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150820Z" creationid="alex" creationdate="20150428T150820Z">
+        <seg>Італ'янскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кальварийский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145400Z" creationid="alex" creationdate="20150428T145400Z">
@@ -150,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Коложский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150749Z" creationid="alex" creationdate="20150428T150749Z">
+        <seg>Каложскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Комаровский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145405Z" creationid="alex" creationdate="20150428T145405Z">
@@ -158,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Комсомольский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150924Z" creationid="alex" creationdate="20150428T150924Z">
+        <seg>Камсамольскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лесопарк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150617Z" creationid="alex" creationdate="20150428T150617Z">
         <seg>Лесапарк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Липовая роща</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151005Z" creationid="alex" creationdate="20150428T150940Z">
+        <seg>Ліпавы гай</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Парк Жилибера</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150753Z" creationid="alex" creationdate="20150428T150753Z">
+        <seg>Парк Жылібера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Парк Курасовщина</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145800Z" creationid="alex" creationdate="20150428T145800Z">
@@ -350,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Приднепровский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150741Z" creationid="alex" creationdate="20150428T150741Z">
+        <seg>Прыдняпроўскі парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Приусадебный парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150444Z" creationid="alex" creationdate="20150428T150444Z">
@@ -374,6 +430,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Румлёвский лес</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150759Z" creationid="alex" creationdate="20150428T150759Z">
+        <seg>Румлёўскі лес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Свято-Никольский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150910Z" creationid="alex" creationdate="20150428T150910Z">
+        <seg>Свята-Нікольскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Севастопольский парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145821Z" creationid="alex" creationdate="20150428T145821Z">
@@ -386,6 +458,22 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145823Z" creationid="alex" creationdate="20150428T145823Z">
         <seg>Сэндайскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150934Z" creationid="alex" creationdate="20150428T150934Z">
+        <seg>Сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сквер 40 летия Победы</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150858Z" creationid="alex" creationdate="20150428T150858Z">
+        <seg>Сквер 40-годдзя Перамогі</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Урочище Шубино</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150724Z" creationid="alex" creationdate="20150428T150724Z">
+        <seg>Урочышча Шубіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Усадьба Ястржембских</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150437Z" creationid="alex" creationdate="20150428T150437Z">
@@ -550,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Школьный сад</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150831Z" creationid="alex" creationdate="20150428T150831Z">
+        <seg>Школьны сад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Шпитальный сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150220Z" creationid="alex" creationdate="20150428T150220Z">
         <seg>Шпітальны сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Яблоневый сад</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T150842Z" creationid="alex" creationdate="20150428T150842Z">
+        <seg>Ябланевы сад</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
