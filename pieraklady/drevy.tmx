@@ -132,6 +132,118 @@
         <seg>Лютаранскі сквер</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Маломедвежинский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145527Z" creationid="alex" creationdate="20150428T145527Z">
+        <seg>Маламядзвежынскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Мемориальный сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145532Z" creationid="alex" creationdate="20150428T145532Z">
+        <seg>Мемарыяльны сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Минский зоопарк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145543Z" creationid="alex" creationdate="20150428T145543Z">
+        <seg>Мінскі заапарк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Михайловский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145552Z" creationid="alex" creationdate="20150428T145552Z">
+        <seg>Міхайлаўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ольшевский сквер</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145554Z" creationid="alex" creationdate="20150428T145554Z">
+        <seg>Альшэўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145559Z" creationid="alex" creationdate="20150428T145559Z">
+        <seg>Парк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк 40-летия Октября</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145604Z" creationid="alex" creationdate="20150428T145604Z">
+        <seg>Парк 40-годдзя Кастрычніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк 60-летия Октября</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145735Z" creationid="alex" creationdate="20150428T145735Z">
+        <seg>Парк 60-годдзя Кастрычніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк 900-летия Минска</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145613Z" creationid="alex" creationdate="20150428T145613Z">
+        <seg>Парк 900-годдзя Мінска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Грековой</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145654Z" creationid="alex" creationdate="20150428T145654Z">
+        <seg>Парк Грэкавай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Дружбы Народов</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145642Z" creationid="alex" creationdate="20150428T145642Z">
+        <seg>Парк Дружбы Народаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Михаила Павлова</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145745Z" creationid="alex" creationdate="20150428T145745Z">
+        <seg>Парк Міхаіла Паўлава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Челюскинцев</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145709Z" creationid="alex" creationdate="20150428T145709Z">
+        <seg>Парк Чалюскінцаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Янки Купалы</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T145721Z" creationid="alex" creationdate="20150428T145721Z">
+        <seg>Парк Янкі Купалы</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
