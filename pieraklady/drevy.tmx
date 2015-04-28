@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Алея героев</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151027Z" creationid="alex" creationdate="20150428T151027Z">
+        <seg>Алея герояў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Аллея 940 летия Минска</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T134907Z" creationid="alex" creationdate="20150428T134907Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Кладбище</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151106Z" creationid="alex" creationdate="20150428T151106Z">
+        <seg>Могілкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Коложский парк</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150749Z" creationid="alex" creationdate="20150428T150749Z">
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145405Z" creationid="alex" creationdate="20150428T145405Z">
         <seg>Камароўскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Комсомольский парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151230Z" creationid="alex" creationdate="20150428T151230Z">
+        <seg>Камсамольскі парк</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +234,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145446Z" creationid="alex" creationdate="20150428T145427Z">
         <seg>Лютаранскі сквер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ляды</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151159Z" creationid="alex" creationdate="20150428T151159Z">
+        <seg>Ляды</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +362,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145800Z" creationid="alex" creationdate="20150428T145800Z">
         <seg>Парк Курасоўшчына</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Марата Казея</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151145Z" creationid="alex" creationdate="20150428T151145Z">
+        <seg>Парк Марата Казея</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сквер Надежды Харченко</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151209Z" creationid="alex" creationdate="20150428T151209Z">
+        <seg>Сквер Надзеі Харчанка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сквер Омара Хайяма</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145938Z" creationid="alex" creationdate="20150428T145938Z">
@@ -642,6 +690,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150417Z" creationid="alex" creationdate="20150428T150417Z">
         <seg>Фэстывальны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Школьный парк</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150428T151033Z" creationid="alex" creationdate="20150428T151033Z">
+        <seg>Школьны парк</seg>
       </tuv>
     </tu>
     <tu>
