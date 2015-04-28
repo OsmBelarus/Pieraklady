@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>7/25EspressoBar</seg></tuv>
+      <tuv lang="BE"><seg>7/25EspressoBar</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Arena Deserto</seg></tuv>
+      <tuv lang="BE"><seg>Arena Deserto</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Bierstrasse</seg></tuv>
+      <tuv lang="BE"><seg>Бірштрассэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ButterBro</seg></tuv>
+      <tuv lang="BE"><seg>ButterBro</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Cappuccin'ca</seg></tuv>
+      <tuv lang="BE"><seg>Капучынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Coffee Inn</seg></tuv>
+      <tuv lang="BE"><seg>Coffee Inn</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Cool Coffee</seg></tuv>
+      <tuv lang="BE"><seg>Cool Coffee</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Cтоловая</seg></tuv>
+      <tuv lang="BE"><seg>[Cталовая, Сталовая]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Doors</seg></tuv>
+      <tuv lang="BE"><seg>Doors</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Food Republic</seg></tuv>
+      <tuv lang="BE"><seg>Food Republic</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Forest Hall</seg></tuv>
+      <tuv lang="BE"><seg>Forest Hall</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Magic Bar</seg></tuv>
+      <tuv lang="BE"><seg>Magic Bar</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Malt & Hops</seg></tuv>
+      <tuv lang="BE"><seg>Malt & Hops</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Markfill</seg></tuv>
+      <tuv lang="BE"><seg>Markfill</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>McDonald's</seg></tuv>
+      <tuv lang="BE"><seg>McDonald's</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Melody</seg></tuv>
+      <tuv lang="BE"><seg>Melody</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>MiX гриль</seg></tuv>
+      <tuv lang="BE"><seg>MiX грыль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Plaza Вернисаж</seg></tuv>
+      <tuv lang="BE"><seg>Plaza Вернісаж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Smile</seg></tuv>
+      <tuv lang="BE"><seg>Усьмешка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>SunCafe</seg></tuv>
+      <tuv lang="BE"><seg>SunCafe</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>T-34</seg></tuv>
+      <tuv lang="BE"><seg>T-34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Terra Pizza</seg></tuv>
+      <tuv lang="BE"><seg>Terra Pizza</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Wood & Fire</seg></tuv>
+      <tuv lang="BE"><seg>Wood & Fire</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аврора</seg></tuv>
+      <tuv lang="BE"><seg>Аўрора</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Агат</seg></tuv>
+      <tuv lang="BE"><seg>Агат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Айс</seg></tuv>
+      <tuv lang="BE"><seg>Айс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аквабел</seg></tuv>
+      <tuv lang="BE"><seg>Аквабел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алеся</seg></tuv>
+      <tuv lang="BE"><seg>Алеся</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аморит</seg></tuv>
+      <tuv lang="BE"><seg>Амарыт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Амстердам</seg></tuv>
+      <tuv lang="BE"><seg>Амстэрдам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Апельсиновый рай</seg></tuv>
+      <tuv lang="BE"><seg>Аранжавы апельсін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арбат</seg></tuv>
+      <tuv lang="BE"><seg>Арбат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арена Pizza</seg></tuv>
+      <tuv lang="BE"><seg>Арэна-pizza</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арена Гриль</seg></tuv>
+      <tuv lang="BE"><seg>Арэна-грыль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арена суши</seg></tuv>
+      <tuv lang="BE"><seg>Арэна-сушы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>арт-кафе «Маэстро»</seg></tuv>
+      <tuv lang="BE"><seg>Арт-кавярня «Маэстра»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ассорти</seg></tuv>
+      <tuv lang="BE"><seg>Асарці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банкетный зал</seg></tuv>
+      <tuv lang="BE"><seg>Банкетная зала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бар "Беларусь"</seg></tuv>
+      <tuv lang="BE"><seg>Бар "Беларусь"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бар "Каменная горка"</seg></tuv>
+      <tuv lang="BE"><seg>Бар "Каменная горка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Батискаф</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран "Батыскаф"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белая Русь</seg></tuv>
+      <tuv lang="BE"><seg>Белая Русь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белла Мария</seg></tuv>
+      <tuv lang="BE"><seg>Белла Марыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белый Остров</seg></tuv>
+      <tuv lang="BE"><seg>Белы востраў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берёзка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библос</seg></tuv>
+      <tuv lang="BE"><seg>Біблас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бирхаус</seg></tuv>
+      <tuv lang="BE"><seg>Бірхаўс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Блинная Масленица</seg></tuv>
+      <tuv lang="BE"><seg>Бліновая Масленіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Блок</seg></tuv>
+      <tuv lang="BE"><seg>Блок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Буг</seg></tuv>
+      <tuv lang="BE"><seg>Буг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бульбяная</seg></tuv>
+      <tuv lang="BE"><seg>Бульбяная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бульбяное</seg></tuv>
+      <tuv lang="BE"><seg>Бульбянае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Буфет</seg></tuv>
+      <tuv lang="BE"><seg>Буфет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Валентина</seg></tuv>
+      <tuv lang="BE"><seg>Валянціна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Васильки</seg></tuv>
+      <tuv lang="BE"><seg>[Васiлькi, Васількі]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верас</seg></tuv>
+      <tuv lang="BE"><seg>Верас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верасы</seg></tuv>
+      <tuv lang="BE"><seg>Верасы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вернисаж</seg></tuv>
+      <tuv lang="BE"><seg>Вернісаж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Версаль</seg></tuv>
+      <tuv lang="BE"><seg>Вэрсаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерний квартал</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрні квартал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виктория</seg></tuv>
+      <tuv lang="BE"><seg>Вікторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вилия</seg></tuv>
+      <tuv lang="BE"><seg>Вілія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виола</seg></tuv>
+      <tuv lang="BE"><seg>Віёла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вира</seg></tuv>
+      <tuv lang="BE"><seg>Віра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вираж</seg></tuv>
+      <tuv lang="BE"><seg>Віраж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебский трактир</seg></tuv>
+      <tuv lang="BE"><seg>Віцебская карчма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витязь</seg></tuv>
+      <tuv lang="BE"><seg>Віцязь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вобла</seg></tuv>
+      <tuv lang="BE"><seg>Вобла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волшебник</seg></tuv>
+      <tuv lang="BE"><seg>Чараўнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Габрово</seg></tuv>
+      <tuv lang="BE"><seg>Габрава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гамбринус</seg></tuv>
+      <tuv lang="BE"><seg>Гамбрынус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гараж</seg></tuv>
+      <tuv lang="BE"><seg>Гараж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гвоздь</seg></tuv>
+      <tuv lang="BE"><seg>Цвік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гермес</seg></tuv>
+      <tuv lang="BE"><seg>Гермес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Город</seg></tuv>
+      <tuv lang="BE"><seg>Горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городок</seg></tuv>
+      <tuv lang="BE"><seg>Гарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродно</seg></tuv>
+      <tuv lang="BE"><seg>Гродна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Губернский трактир</seg></tuv>
+      <tuv lang="BE"><seg>Губернская карчма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гулливер</seg></tuv>
+      <tuv lang="BE"><seg>Гулівер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дамиан</seg></tuv>
+      <tuv lang="BE"><seg>Даміян</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дамиан(кофейня)</seg></tuv>
+      <tuv lang="BE"><seg>Кафейня Даміян</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Двина</seg></tuv>
+      <tuv lang="BE"><seg>Дзвіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дешёвая столовая</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Джомолунгма</seg></tuv>
+      <tuv lang="BE"><seg>Джамалунгма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Диалог</seg></tuv>
+      <tuv lang="BE"><seg>Дыялог</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дионис</seg></tuv>
+      <tuv lang="BE"><seg>Дыяніс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружба</seg></tuv>
+      <tuv lang="BE"><seg>Дружба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Друзья</seg></tuv>
+      <tuv lang="BE"><seg>Сябры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дуэт</seg></tuv>
+      <tuv lang="BE"><seg>Дуэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евразия</seg></tuv>
+      <tuv lang="BE"><seg>Еўразія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Европа</seg></tuv>
+      <tuv lang="BE"><seg>Еўропа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жарпицца</seg></tuv>
+      <tuv lang="BE"><seg>Жарпіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жар-Птушка</seg></tuv>
+      <tuv lang="BE"><seg>Жар-птушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Журавинка</seg></tuv>
+      <tuv lang="BE"><seg>Журавінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Задвинье</seg></tuv>
+      <tuv lang="BE"><seg>Задзвінне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заря</seg></tuv>
+      <tuv lang="BE"><seg>Зара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Звезда</seg></tuv>
+      <tuv lang="BE"><seg>Звязда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зельва</seg></tuv>
+      <tuv lang="BE"><seg>Зэльва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зерно</seg></tuv>
+      <tuv lang="BE"><seg>Зерне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотая Бочка</seg></tuv>
+      <tuv lang="BE"><seg>Залатая бочка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотая рыбка</seg></tuv>
+      <tuv lang="BE"><seg>Золотая рыбка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотой дракон</seg></tuv>
+      <tuv lang="BE"><seg>Залаты дракон</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотой Лев</seg></tuv>
+      <tuv lang="BE"><seg>Залаты леў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зубренок</seg></tuv>
+      <tuv lang="BE"><seg>Зубраня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Изба в Задворцах</seg></tuv>
+      <tuv lang="BE"><seg>Хата ў Задворцах</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интурист</seg></tuv>
+      <tuv lang="BE"><seg>Інтурыст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ипуть</seg></tuv>
+      <tuv lang="BE"><seg>Іпуць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Камелия</seg></tuv>
+      <tuv lang="BE"><seg>Камелія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменка</seg></tuv>
+      <tuv lang="BE"><seg>Каменка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Камяница</seg></tuv>
+      <tuv lang="BE"><seg>Камяніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Катюша</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>кафе</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе</seg></tuv>
+      <tuv lang="BE"><seg>[Кавярня, Кафэ]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе "ОК"</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «ОК»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Sky House</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня Sky House</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Куб</seg></tuv>
+      <tuv lang="BE"><seg>Кафэ Куб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Отдых</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «Адпачынак»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе-столовая</seg></tuv>
+      <tuv lang="BE"><seg>Кафэ-сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафетерий</seg></tuv>
+      <tuv lang="BE"><seg>[Кафетэрый, Кафэтэрый]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафетерий Веста</seg></tuv>
+      <tuv lang="BE"><seg>Кафетэрый Веста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафэ</seg></tuv>
+      <tuv lang="BE"><seg>[Кавярня, Кафэ]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Квартал</seg></tuv>
+      <tuv lang="BE"><seg>Квартал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ковчег</seg></tuv>
+      <tuv lang="BE"><seg>Каўчэг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колос</seg></tuv>
+      <tuv lang="BE"><seg>Колас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комедия</seg></tuv>
+      <tuv lang="BE"><seg>Камедыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Компьютерный клуб</seg></tuv>
+      <tuv lang="BE"><seg>Кампутарны клуб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корчма</seg></tuv>
+      <tuv lang="BE"><seg>Карчма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кофейня</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кофе Сити</seg></tuv>
+      <tuv lang="BE"><seg>Кава Сіці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулинария</seg></tuv>
+      <tuv lang="BE"><seg>Кулінарыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кухмистр</seg></tuv>
+      <tuv lang="BE"><seg>Кухмiстр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лаванда</seg></tuv>
+      <tuv lang="BE"><seg>Лаванда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесной</seg></tuv>
+      <tuv lang="BE"><seg>Лясны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лидские блины</seg></tuv>
+      <tuv lang="BE"><seg>Лідскія бліны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ложки</seg></tuv>
+      <tuv lang="BE"><seg>Лыжкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Льдинка</seg></tuv>
+      <tuv lang="BE"><seg>Ільдзінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любава</seg></tuv>
+      <tuv lang="BE"><seg>Любава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любимый город</seg></tuv>
+      <tuv lang="BE"><seg>Любімы горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ля Ратуши</seg></tuv>
+      <tuv lang="BE"><seg>Ля Ратушы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин + Кафе</seg></tuv>
+      <tuv lang="BE"><seg>Крама+кавярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МакДональдс</seg></tuv>
+      <tuv lang="BE"><seg>Макдональдс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малиновка</seg></tuv>
+      <tuv lang="BE"><seg>Малінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Масленица</seg></tuv>
+      <tuv lang="BE"><seg>Масленіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мастер Бис</seg></tuv>
+      <tuv lang="BE"><seg>Майстар Біс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маяк</seg></tuv>
+      <tuv lang="BE"><seg>Маяк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мая Кавярня</seg></tuv>
+      <tuv lang="BE"><seg>Мая Кавярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мегаполис</seg></tuv>
+      <tuv lang="BE"><seg>Мегаполіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мелиоратор</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня-сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Местечко</seg></tuv>
+      <tuv lang="BE"><seg>Мястэчка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Метро</seg></tuv>
+      <tuv lang="BE"><seg>Метро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мини-кафе Мяснов</seg></tuv>
+      <tuv lang="BE"><seg>Міні-кафэ Мясноў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мираж</seg></tuv>
+      <tuv lang="BE"><seg>Міраж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодежное</seg></tuv>
+      <tuv lang="BE"><seg>Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Москва</seg></tuv>
+      <tuv lang="BE"><seg>Масква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостки</seg></tuv>
+      <tuv lang="BE"><seg>Масткі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Моя дорогая</seg></tuv>
+      <tuv lang="BE"><seg>Мая даражэнькая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Надежда</seg></tuv>
+      <tuv lang="BE"><seg>Надзея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Налибоки сладкие</seg></tuv>
+      <tuv lang="BE"><seg>Налібокі салодкія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>На перекрёстке</seg></tuv>
+      <tuv lang="BE"><seg>На скрыжаванні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Народный</seg></tuv>
+      <tuv lang="BE"><seg>Народны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нафтан</seg></tuv>
+      <tuv lang="BE"><seg>Нафтан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Неман</seg></tuv>
+      <tuv lang="BE"><seg>Нёман</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Несвижский вкус</seg></tuv>
+      <tuv lang="BE"><seg>Нясвiжскi смак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оазис</seg></tuv>
+      <tuv lang="BE"><seg>Аазіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обжора</seg></tuv>
+      <tuv lang="BE"><seg>Абжора</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябринушка</seg></tuv>
+      <tuv lang="BE"><seg>Акцябрынушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олимп</seg></tuv>
+      <tuv lang="BE"><seg>Алімп</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Остров</seg></tuv>
+      <tuv lang="BE"><seg>Востраў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Остров сокровищ</seg></tuv>
+      <tuv lang="BE"><seg>Востраў скарбаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Очаг</seg></tuv>
+      <tuv lang="BE"><seg>Ачаг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Паб-еда</seg></tuv>
+      <tuv lang="BE"><seg>Валгаград</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Панорама</seg></tuv>
+      <tuv lang="BE"><seg>Панарама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пачастунак</seg></tuv>
+      <tuv lang="BE"><seg>Пачастунак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пельменная</seg></tuv>
+      <tuv lang="BE"><seg>Пяльменная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пивняры</seg></tuv>
+      <tuv lang="BE"><seg>Піўняры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пиллигрим</seg></tuv>
+      <tuv lang="BE"><seg>Пілігрым</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПитСтоп</seg></tuv>
+      <tuv lang="BE"><seg>Піт-стоп</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПИТ-СТОП</seg></tuv>
+      <tuv lang="BE"><seg>ПІТ-СТОП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пицца & кофе</seg></tuv>
+      <tuv lang="BE"><seg>Піца & кава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пицца-Фут</seg></tuv>
+      <tuv lang="BE"><seg>Піца-Фут</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пиццерия</seg></tuv>
+      <tuv lang="BE"><seg>Піцэрыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пиццерия "Домино"</seg></tuv>
+      <tuv lang="BE"><seg>Піцэрыя «Даміно»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пиццерия ISOLA</seg></tuv>
+      <tuv lang="BE"><seg>Піцэрыя ISOLA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пиццерия PizzaFoot</seg></tuv>
+      <tuv lang="BE"><seg>Піцэрыя PizzaFoot</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета бюргер</seg></tuv>
+      <tuv lang="BE"><seg>Планета-бюргер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Придорожное</seg></tuv>
+      <tuv lang="BE"><seg>Прыдарожнае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пружаны</seg></tuv>
+      <tuv lang="BE"><seg>Пружаны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пчела</seg></tuv>
+      <tuv lang="BE"><seg>Пчала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рагнеда</seg></tuv>
+      <tuv lang="BE"><seg>Рагнеда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Райский Уголок</seg></tuv>
+      <tuv lang="BE"><seg>Райскі Куток</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ракаўскi Бровар</seg></tuv>
+      <tuv lang="BE"><seg>Ракаўскi Бровар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Раковский Бровар</seg></tuv>
+      <tuv lang="BE"><seg>Ракаўскі Бровар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ренессанс</seg></tuv>
+      <tuv lang="BE"><seg>Рэнесанс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ресторан</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ресторан "Беларусь"</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран "Беларусь"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ресторан "Спутник"</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран "Спадарожнік"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ресторан «Континент»</seg></tuv>
+      <tuv lang="BE"><seg>рэстаран «Кантынент»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ресторан Кафе Бар</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран, кавярня, бар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ресторан Орша</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран «Ворша»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рудаково</seg></tuv>
+      <tuv lang="BE"><seg>Рудакова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ружанка</seg></tuv>
+      <tuv lang="BE"><seg>Ружанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок</seg></tuv>
+      <tuv lang="BE"><seg>Рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рюмочная "Бульбяная"</seg></tuv>
+      <tuv lang="BE"><seg>Чарачная «Бульбяная»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сarpaccio</seg></tuv>
+      <tuv lang="BE"><seg>Троіцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Салодкi фальварак</seg></tuv>
+      <tuv lang="BE"><seg>Салодкi фальварак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Салтайм</seg></tuv>
+      <tuv lang="BE"><seg>Салтайм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Санторини</seg></tuv>
+      <tuv lang="BE"><seg>Сантарын</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сваякi</seg></tuv>
+      <tuv lang="BE"><seg>Сваякi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свитязь</seg></tuv>
+      <tuv lang="BE"><seg>Свіцязь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северная столица</seg></tuv>
+      <tuv lang="BE"><seg>Паўночная сталіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сказка</seg></tuv>
+      <tuv lang="BE"><seg>Казка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сказочный замок</seg></tuv>
+      <tuv lang="BE"><seg>[Казачны Замак, Казачны замак]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славяночка</seg></tuv>
+      <tuv lang="BE"><seg>Славяначка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славянский</seg></tuv>
+      <tuv lang="BE"><seg>Славянскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славянский кут</seg></tuv>
+      <tuv lang="BE"><seg>Слявянскі кут</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сладкий фольварк</seg></tuv>
+      <tuv lang="BE"><seg>Салодкі фальварак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слоним</seg></tuv>
+      <tuv lang="BE"><seg>Слонім</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сова</seg></tuv>
+      <tuv lang="BE"><seg>Сава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советский</seg></tuv>
+      <tuv lang="BE"><seg>Савецкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечный</seg></tuv>
+      <tuv lang="BE"><seg>Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнышко</seg></tuv>
+      <tuv lang="BE"><seg>Сонейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосны</seg></tuv>
+      <tuv lang="BE"><seg>Сосны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>София</seg></tuv>
+      <tuv lang="BE"><seg>Сафія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Союз-Online</seg></tuv>
+      <tuv lang="BE"><seg>Саюз-Online</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спринт</seg></tuv>
+      <tuv lang="BE"><seg>Спрынт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старая мельница</seg></tuv>
+      <tuv lang="BE"><seg>Стары млын</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старовиленская корчма</seg></tuv>
+      <tuv lang="BE"><seg>Старавіленская карчма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Староместный пивовар</seg></tuv>
+      <tuv lang="BE"><seg>Стараместны півавар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Староместская пивница</seg></tuv>
+      <tuv lang="BE"><seg>Старамеская піўніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старый город</seg></tuv>
+      <tuv lang="BE"><seg>Стары горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старый Город</seg></tuv>
+      <tuv lang="BE"><seg>Стары горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старый Лямус</seg></tuv>
+      <tuv lang="BE"><seg>Стары Лямус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стары Менск</seg></tuv>
+      <tuv lang="BE"><seg>Стары Менск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>столовая</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая АП №5</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая АП №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая БГУ</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая БДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая БНТУ</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая БНТУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая Витебскэнерго</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая Віцебскэнерга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая ГрГУ</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая ГрДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая Депо</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая дэпо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая при Гуманитарном колледже (временно не работает)</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая пры гуманітарным каледжы (часова не працуе)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая ЧУП Канаш</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая ПУП Канаш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая №1</seg></tuv>
+      <tuv lang="BE"><seg>Cталовая №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Страуня</seg></tuv>
+      <tuv lang="BE"><seg>Страуня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Султан</seg></tuv>
+      <tuv lang="BE"><seg>Султан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суши Вёсла</seg></tuv>
+      <tuv lang="BE"><seg>Сушы Вёслы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сытый ёжик</seg></tuv>
+      <tuv lang="BE"><seg>Сыты вожык</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Талыш</seg></tuv>
+      <tuv lang="BE"><seg>Талыш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Терраса</seg></tuv>
+      <tuv lang="BE"><seg>Тэраса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Территория</seg></tuv>
+      <tuv lang="BE"><seg>Тэрыторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тоскана</seg></tuv>
+      <tuv lang="BE"><seg>Таскана</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тройка</seg></tuv>
+      <tuv lang="BE"><seg>Тройка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Турист</seg></tuv>
+      <tuv lang="BE"><seg>Турыст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Ганны</seg></tuv>
+      <tuv lang="BE"><seg>У Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Ганны-2</seg></tuv>
+      <tuv lang="BE"><seg>У Ганны-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Клима</seg></tuv>
+      <tuv lang="BE"><seg>У Кліма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Ратуши</seg></tuv>
+      <tuv lang="BE"><seg>[Каля Ратушы, Ля Ратушы]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Тадеуша</seg></tuv>
+      <tuv lang="BE"><seg>У Тадэвуша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уют</seg></tuv>
+      <tuv lang="BE"><seg>Утульнасць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фаниполь</seg></tuv>
+      <tuv lang="BE"><seg>Фаніпаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ферзь</seg></tuv>
+      <tuv lang="BE"><seg>Фэрзь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фея</seg></tuv>
+      <tuv lang="BE"><seg>Фея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фолиант</seg></tuv>
+      <tuv lang="BE"><seg>Фаліант</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фортуна</seg></tuv>
+      <tuv lang="BE"><seg>Фартуна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрески</seg></tuv>
+      <tuv lang="BE"><seg>Фрэскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хутарок</seg></tuv>
+      <tuv lang="BE"><seg>Хутарок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хутка-смачна</seg></tuv>
+      <tuv lang="BE"><seg>Хутка-смачна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хутка-Смачна</seg></tuv>
+      <tuv lang="BE"><seg>Хутка-Смачна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хуторок</seg></tuv>
+      <tuv lang="BE"><seg>Хутарок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чашники</seg></tuv>
+      <tuv lang="BE"><seg>Чашнікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чинар</seg></tuv>
+      <tuv lang="BE"><seg>Чынар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шварцвальд</seg></tuv>
+      <tuv lang="BE"><seg>Шварцвальд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шинок у Лявона</seg></tuv>
+      <tuv lang="BE"><seg>Шынак у Лявона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Штолле</seg></tuv>
+      <tuv lang="BE"><seg>Штолле</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щара</seg></tuv>
+      <tuv lang="BE"><seg>Шчара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эдельвейс</seg></tuv>
+      <tuv lang="BE"><seg>Эдельвейс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эллис</seg></tuv>
+      <tuv lang="BE"><seg>Эліс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эль Помидоро</seg></tuv>
+      <tuv lang="BE"><seg>Эль Памідора</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейный</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южное</seg></tuv>
+      <tuv lang="BE"><seg>Паўднёвае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Янтарь</seg></tuv>
+      <tuv lang="BE"><seg>Бурштын</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясень</seg></tuv>
+      <tuv lang="BE"><seg>Ясень</seg></tuv>
+    </tu>
+  </body></tmx>

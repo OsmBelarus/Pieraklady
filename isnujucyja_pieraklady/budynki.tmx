@@ -1,0 +1,3762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>"Витебск Отель" ****</seg></tuv>
+      <tuv lang="BE"><seg>"Вiцебск Гатэль" ****</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>"Золотой теленок" *</seg></tuv>
+      <tuv lang="BE"><seg>"Залатое цяля" *</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>"Князь Ольгерд"</seg></tuv>
+      <tuv lang="BE"><seg>"Князь Альгерд"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>"Культовары"</seg></tuv>
+      <tuv lang="BE"><seg>"Культавары"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>«Музыкальная гостиная»</seg></tuv>
+      <tuv lang="BE"><seg>"Музыкальная гасцінная"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1-й корп.</seg></tuv>
+      <tuv lang="BE"><seg>1-шы корп.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>39-я городская поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ «39-я гарадская паліклініка»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>7 Ветров</seg></tuv>
+      <tuv lang="BE"><seg>7 вятроў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>A-100</seg></tuv>
+      <tuv lang="BE"><seg>A-100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Audi</seg></tuv>
+      <tuv lang="BE"><seg>Audi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>DanaMall</seg></tuv>
+      <tuv lang="BE"><seg>DanaMall</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>KIA</seg></tuv>
+      <tuv lang="BE"><seg>KIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Leon авто</seg></tuv>
+      <tuv lang="BE"><seg>Аўтазапчасткі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Life Media</seg></tuv>
+      <tuv lang="BE"><seg>Life Media</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>MonChalet</seg></tuv>
+      <tuv lang="BE"><seg>MonChalet</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Roman Kamotsky House</seg></tuv>
+      <tuv lang="BE"><seg>Roman Kamotsky House</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Schtoc</seg></tuv>
+      <tuv lang="BE"><seg>Schtoc</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Sporting Club</seg></tuv>
+      <tuv lang="BE"><seg>Sporting Club</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Velcom</seg></tuv>
+      <tuv lang="BE"><seg>Velcom</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Welness club "Forest Hall"</seg></tuv>
+      <tuv lang="BE"><seg>Welness club "Forest Hall"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобаза</seg></tuv>
+      <tuv lang="BE"><seg>Аўтабаза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобаза Бел. Ж/Д</seg></tuv>
+      <tuv lang="BE"><seg>Аўтабаза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АвтоБизнес ABW.BY</seg></tuv>
+      <tuv lang="BE"><seg>АўтаБізнэс ABW.BY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобусный парк №7</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобусны парк №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автозапчасти</seg></tuv>
+      <tuv lang="BE"><seg>Аўтазапчасткі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автокан</seg></tuv>
+      <tuv lang="BE"><seg>Аўтакан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автоклавная</seg></tuv>
+      <tuv lang="BE"><seg>Аўтаклаўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автомагазин "СВИАТ"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтамагазін "СВІАТ"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автомойка</seg></tuv>
+      <tuv lang="BE"><seg>Аўтамыйня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автопарк</seg></tuv>
+      <tuv lang="BE"><seg>Аўтапарк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автосервис</seg></tuv>
+      <tuv lang="BE"><seg>Аўтасэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автоцентр "Крокус"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтамыйня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Агат</seg></tuv>
+      <tuv lang="BE"><seg>Агат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Агролёнбел</seg></tuv>
+      <tuv lang="BE"><seg>Агралёнбел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Админ.-хоз. часть</seg></tuv>
+      <tuv lang="BE"><seg>Адмін-гасп. частка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Административное здание</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыйны будынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Административно-судейский корпус</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыйна-судзейскі комплекс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Административный корп.</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыйны корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Административный корп. ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыйны корпус ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Административный корпус «Брестгазоаппарат»</seg></tuv>
+      <tuv lang="BE"><seg>Адміністратыўны корпус "Брэстгазаапарат"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация ДВС</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя ПВС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация Железнодорожного р-на</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя Чыгуначнага р-на</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация Октябрьского района</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя Кастрычніцкага раёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация Октябрьского района г.Гродно</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя Кастрычніцкага раёна г. Гродна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация ПВТ</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя ПВТ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация Первомайского р-на</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя Першамайскага р-на</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Администрация рыбхоза "Альба"</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыя рыбгаса "Альба"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Азбука красоты</seg></tuv>
+      <tuv lang="BE"><seg>Азбука прыгажосці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЗС</seg></tuv>
+      <tuv lang="BE"><seg>АЗС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЗС №74</seg></tuv>
+      <tuv lang="BE"><seg>АЗС №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Айсберг</seg></tuv>
+      <tuv lang="BE"><seg>Айсберг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Актовый зал ГГОЛа</seg></tuv>
+      <tuv lang="BE"><seg>Актавая зала ГДАЛа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алми</seg></tuv>
+      <tuv lang="BE"><seg>[Алмі, ГЦ "Алмі"]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЛМИ</seg></tuv>
+      <tuv lang="BE"><seg>АЛМІ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альтстартсервис</seg></tuv>
+      <tuv lang="BE"><seg>Альтстартсэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ангар</seg></tuv>
+      <tuv lang="BE"><seg>Ангар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 163</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 163</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 38</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №54</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №54</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №90</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 90</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арт-центр Марка Шагала</seg></tuv>
+      <tuv lang="BE"><seg>Арт-цэнтр Марка Шагала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Архив</seg></tuv>
+      <tuv lang="BE"><seg>Архіў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ассорти</seg></tuv>
+      <tuv lang="BE"><seg>Асарці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Атлант</seg></tuv>
+      <tuv lang="BE"><seg>Атлант</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Атлант-М Уручье VW</seg></tuv>
+      <tuv lang="BE"><seg>Атлант-М Уручча VW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АТС №2</seg></tuv>
+      <tuv lang="BE"><seg>АТС №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Багажное Отделение</seg></tuv>
+      <tuv lang="BE"><seg>Багажнае аддзяленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Базис № 7</seg></tuv>
+      <tuv lang="BE"><seg>Крама № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк</seg></tuv>
+      <tuv lang="BE"><seg>Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>баня</seg></tuv>
+      <tuv lang="BE"><seg>лазня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня</seg></tuv>
+      <tuv lang="BE"><seg>Лазня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня 2-го разряда</seg></tuv>
+      <tuv lang="BE"><seg>Лазня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня №1</seg></tuv>
+      <tuv lang="BE"><seg>Лазня №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня № 3</seg></tuv>
+      <tuv lang="BE"><seg>Лазня № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня №5</seg></tuv>
+      <tuv lang="BE"><seg>Лазня №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня № 6</seg></tuv>
+      <tuv lang="BE"><seg>Лазня № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баня № 7</seg></tuv>
+      <tuv lang="BE"><seg>Лазня № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>бассейн "Молодость"</seg></tuv>
+      <tuv lang="BE"><seg>Маладосць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бассейн Изумруд</seg></tuv>
+      <tuv lang="BE"><seg>Басейн «Ізумруд»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бассейн Садко</seg></tuv>
+      <tuv lang="BE"><seg>Басейн «Садко»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>бассейн СШ № 4</seg></tuv>
+      <tuv lang="BE"><seg>Басейн СШ № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бассейны</seg></tuv>
+      <tuv lang="BE"><seg>Басейны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БГАИ</seg></tuv>
+      <tuv lang="BE"><seg>БДАМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БГПУ</seg></tuv>
+      <tuv lang="BE"><seg>БДПУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БГТУ</seg></tuv>
+      <tuv lang="BE"><seg>БДТУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БГУ</seg></tuv>
+      <tuv lang="BE"><seg>БДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БГУ, биологический факультет</seg></tuv>
+      <tuv lang="BE"><seg>БДУ, біялагічны факультэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларуская ўрадавая рэзыдэнцыя</seg></tuv>
+      <tuv lang="BE"><seg>Беларуская ўрадавая рэзыдэнцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белая русь</seg></tuv>
+      <tuv lang="BE"><seg>Белая русь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белвест</seg></tuv>
+      <tuv lang="BE"><seg>Белвест</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белгосстрах</seg></tuv>
+      <tuv lang="BE"><seg>Белдзяржстрах</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвестбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белль Бимбо</seg></tuv>
+      <tuv lang="BE"><seg>Бель Бімба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелМаркет</seg></tuv>
+      <tuv lang="BE"><seg>БелМаркет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусская государственная академия музыки</seg></tuv>
+      <tuv lang="BE"><seg>Беларуская дзяржаўная акадэмія музыкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский государственный медицинский колледж</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі дзяржаўны медыцынскі каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский государственный хореографический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі дзяржаўны харэаграфічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский государственный экономический университет</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі дзяржаўны эканамічны ўніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский институт правоведенья</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі інстытут правазнаўства</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский кукольный театр "Лялька"</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі лялечны тэатр «Лялька»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белпочта</seg></tuv>
+      <tuv lang="BE"><seg>Белпошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белсоюзпечать</seg></tuv>
+      <tuv lang="BE"><seg>Белсаюздрук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белстройматериалы</seg></tuv>
+      <tuv lang="BE"><seg>Белбудматэрыялы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белтелеком</seg></tuv>
+      <tuv lang="BE"><seg>Белтэлекам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белынковичи</seg></tuv>
+      <tuv lang="BE"><seg>Бялынкавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белэлектромонтаж</seg></tuv>
+      <tuv lang="BE"><seg>Белэлектрамантаж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берлин</seg></tuv>
+      <tuv lang="BE"><seg>Берлін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бешенковичский райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Райвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека им. Е. Лось</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка імя Е. Лось</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека им. Лынькова</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка імя Лынькова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бизнес-центр "Любава"</seg></tuv>
+      <tuv lang="BE"><seg>Бізнес-цэнтр «Любава»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БЛВ</seg></tuv>
+      <tuv lang="BE"><seg>БЛВ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бліно</seg></tuv>
+      <tuv lang="BE"><seg>Бліно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Блок</seg></tuv>
+      <tuv lang="BE"><seg>Блок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БНТУ корпус 16</seg></tuv>
+      <tuv lang="BE"><seg>БНТУ корпус 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БНТУ корпус 19</seg></tuv>
+      <tuv lang="BE"><seg>БНТУ корпус 19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бойлерная</seg></tuv>
+      <tuv lang="BE"><seg>Бойлерная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Больница</seg></tuv>
+      <tuv lang="BE"><seg>Бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ботанический корп.</seg></tuv>
+      <tuv lang="BE"><seg>Батанічны корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПРМ АП "Минск"</seg></tuv>
+      <tuv lang="BE"><seg>БПРМ АП "Мінск"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Банк</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская городская детская поликлиника № 1</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая абласная дзіцячая паліклініка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская городская поликлиника №3</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая гарадская паліклініка №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская детская стоматологическая поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая стамалагічная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская мебельная фабрика</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая мэблевая фабрыка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская областная библиотека им. М.Горького</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая абласная бібліятэка ім. М.Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская областная стоматологическая поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая абласная стаматалагічная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская центральная городская поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая цэнтральная гарадзкая паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский лицей швейного прозводства</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі ліцэй швейнай вытворчасці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский областной суд</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі абласны суд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский театр кукол</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі тэатр лялек</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский филиал РУП "Белтелеком"</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі філіял РУП "Белтэлеком"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бригантина</seg></tuv>
+      <tuv lang="BE"><seg>Брыганціна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бровар</seg></tuv>
+      <tuv lang="BE"><seg>Бровар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брузги</seg></tuv>
+      <tuv lang="BE"><seg>Брузгі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БТИ</seg></tuv>
+      <tuv lang="BE"><seg>БТІ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БЦ Порт</seg></tuv>
+      <tuv lang="BE"><seg>БЦ Порт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Былина</seg></tuv>
+      <tuv lang="BE"><seg>Быліна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бытовая химия</seg></tuv>
+      <tuv lang="BE"><seg>Бытавая хімія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вагонное депо Минск</seg></tuv>
+      <tuv lang="BE"><seg>Вагоннае дэпо Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Валентина</seg></tuv>
+      <tuv lang="BE"><seg>Валянціна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вектор</seg></tuv>
+      <tuv lang="BE"><seg>Вектар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верас</seg></tuv>
+      <tuv lang="BE"><seg>Верас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верхний город</seg></tuv>
+      <tuv lang="BE"><seg>Верхні горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Весовая</seg></tuv>
+      <tuv lang="BE"><seg>Важніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 129</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 129</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 131</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 131</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 135</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 135</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 136</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 136</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 139</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 139</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 140</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 140</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 141</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 141</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 142</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 142</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 143</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 143</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №144</seg></tuv>
+      <tuv lang="BE"><seg>Веста №144</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 145</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 145</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 146</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 146</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 147</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 147</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 149</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 149</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 150</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 150</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 151</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 151</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 153</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 153</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 61</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 62</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 82</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 82</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 83</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 83</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста № 86</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 86</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветлечебница</seg></tuv>
+      <tuv lang="BE"><seg>Ветлякарня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виталюр</seg></tuv>
+      <tuv lang="BE"><seg>Віталюр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебсквтормет</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскдругмет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебскдрев</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскдрэў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 12</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 15</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 2</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 22</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 23</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 24</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 24</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 25</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 30</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 30</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 40</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебские продукты № 41</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 41</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебский Горисполком</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскі гарвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебский райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскі райвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебский телецентр</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскі тэлецэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебскоблсоюзпечать</seg></tuv>
+      <tuv lang="BE"><seg>[Белсаюздрук, Вицебскаблсаюздрук, Віцебскаблсаюздрук]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебское областное управление МЧС Республики Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Абл. упраўленне МНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витоблтоп</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскаблпаліва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витязь</seg></tuv>
+      <tuv lang="BE"><seg>Віцязь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Водонапорная башня</seg></tuv>
+      <tuv lang="BE"><seg>Воданапорная вежа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Военкомат</seg></tuv>
+      <tuv lang="BE"><seg>Ваенкамат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Военная академия РБ</seg></tuv>
+      <tuv lang="BE"><seg>Ваенная акадэмія РБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волгоград</seg></tuv>
+      <tuv lang="BE"><seg>Універсам Валгаград</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волна</seg></tuv>
+      <tuv lang="BE"><seg>Хваля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ВССК</seg></tuv>
+      <tuv lang="BE"><seg>ВСБК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Встреча</seg></tuv>
+      <tuv lang="BE"><seg>Сустрэча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Высший Государственный Колледж Связи (ВГКС)</seg></tuv>
+      <tuv lang="BE"><seg>Вышэйшы Дзяржаўны Каледж Сувязі (ВДКС)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Высший колледж связи</seg></tuv>
+      <tuv lang="BE"><seg>Вышэйшы каледж сувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГААСУ "АВИАЦИЯ"</seg></tuv>
+      <tuv lang="BE"><seg>ДААВУ "Авіацыя"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Газовый колодец</seg></tuv>
+      <tuv lang="BE"><seg>Газавы калодзеж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Газовый распределитель</seg></tuv>
+      <tuv lang="BE"><seg>Газавы размеркавальнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГАИ</seg></tuv>
+      <tuv lang="BE"><seg>[ДАI, ДАІ]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ганна</seg></tuv>
+      <tuv lang="BE"><seg>Ганна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ганна № 10</seg></tuv>
+      <tuv lang="BE"><seg>Ганна № 10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ганна № 9</seg></tuv>
+      <tuv lang="BE"><seg>Ганна № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гастинец</seg></tuv>
+      <tuv lang="BE"><seg>Гасцiнец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГГУ им. Ф. Скорины, Корпус №1</seg></tuv>
+      <tuv lang="BE"><seg>ГДУ імя Ф. Скарыны, Корпус № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГГУ им. Ф. Скорины, Корпус № 2</seg></tuv>
+      <tuv lang="BE"><seg>ГДУ імя Ф. Скарыны, Корпус № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГГУ им. Ф. Скорины, Корпус № 3</seg></tuv>
+      <tuv lang="BE"><seg>ГДУ імя Ф. Скарыны, Корпус № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГГУ им. Ф. Скорины, Корпус №4 (главный)</seg></tuv>
+      <tuv lang="BE"><seg>ГДУ імя Ф. Скарыны, Корпус № 4 (галоўны)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГГУ им. Ф. Скорины, Корпус №5</seg></tuv>
+      <tuv lang="BE"><seg>ГДУ імя Ф. Скарыны, Корпус № 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гермес</seg></tuv>
+      <tuv lang="BE"><seg>Гермес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гипермаркет ProStore</seg></tuv>
+      <tuv lang="BE"><seg>Гіпермаркет ProStore</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гипермаркет Евроопт</seg></tuv>
+      <tuv lang="BE"><seg>[Гіпермаркет "Еўраопт", Гіпермаркет Еўраорт]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гиппо</seg></tuv>
+      <tuv lang="BE"><seg>Гiпа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Главный корпус БГУ</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі дзяржаўны ўніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Главпочтамт</seg></tuv>
+      <tuv lang="BE"><seg>Галоўпаштамт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горизонт</seg></tuv>
+      <tuv lang="BE"><seg>Гарызонт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горисполком</seg></tuv>
+      <tuv lang="BE"><seg>Гарвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская клиническая больница №1</seg></tuv>
+      <tuv lang="BE"><seg>Гарадская клінічная бальніца №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Гарадская паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская стоматологическая поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>стаматалагічная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская центральная клиническая больница</seg></tuv>
+      <tuv lang="BE"><seg>Бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городской дворец культуры</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскі палац культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городской суд</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскі суд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городской центр олимпийского резерва по водным видам спорта</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскі цэнтр алімпійскага рэзерву ў водных відах спорту</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГОРОО</seg></tuv>
+      <tuv lang="BE"><seg>ГарАА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Госинспекция по семеноводству</seg></tuv>
+      <tuv lang="BE"><seg>Дзяржінспекцыя па насенняводстве</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Госстрах</seg></tuv>
+      <tuv lang="BE"><seg>Дзяржстрах</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница "Браслав"</seg></tuv>
+      <tuv lang="BE"><seg>Гасцініца "Браслаў"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница "Ветразь" ***</seg></tuv>
+      <tuv lang="BE"><seg>Гатэль "Ветразь" ***</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница "Заездный двор"</seg></tuv>
+      <tuv lang="BE"><seg>Гасцініца "Заезны двор"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>гостиница «Лучёса»****</seg></tuv>
+      <tuv lang="BE"><seg>Гатэль "Лучоса" ****</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Гасцініца «Беларусь»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиничный комплекс</seg></tuv>
+      <tuv lang="BE"><seg>Гасцінічны комплекс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиничный комплекс «Дружба»</seg></tuv>
+      <tuv lang="BE"><seg>Гасцінічны комплекс «Дружба»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиничный комплекс «Нафтан»</seg></tuv>
+      <tuv lang="BE"><seg>Гасцінічны комплекс «Нафтан»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиный двор</seg></tuv>
+      <tuv lang="BE"><seg>Гасціны двор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Град</seg></tuv>
+      <tuv lang="BE"><seg>Град</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская городская станция скорой медицинской помощи</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская гарадская станцыя хуткай медыцынскай дапамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненское областное управление МЧС Республики Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенскае абласное упраўленне МНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРП</seg></tuv>
+      <tuv lang="BE"><seg>ГРП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРП-54</seg></tuv>
+      <tuv lang="BE"><seg>ГРП-54</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРП - 69</seg></tuv>
+      <tuv lang="BE"><seg>ГРП - 69</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРП №25</seg></tuv>
+      <tuv lang="BE"><seg>ГРП №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРП№73</seg></tuv>
+      <tuv lang="BE"><seg>ГРП№73</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГРС-1</seg></tuv>
+      <tuv lang="BE"><seg>ГРС-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГСМ</seg></tuv>
+      <tuv lang="BE"><seg>ГЗМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГУМ</seg></tuv>
+      <tuv lang="BE"><seg>ГУМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Двина</seg></tuv>
+      <tuv lang="BE"><seg>Дзвіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец водного спорта</seg></tuv>
+      <tuv lang="BE"><seg>Палац воднага спорту</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец детей и молодежи</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр пазашкольнай работы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец культуры завода Гомсельмаш</seg></tuv>
+      <tuv lang="BE"><seg>Палац культуры завода Гомсельмаш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец культуры нефтяников</seg></tuv>
+      <tuv lang="BE"><seg>Палац культуры нафтавікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец культуры профсоюзов</seg></tuv>
+      <tuv lang="BE"><seg>Палац культуры прафсаюзаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец молодежи</seg></tuv>
+      <tuv lang="BE"><seg>Палац моладзі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец Пусловских</seg></tuv>
+      <tuv lang="BE"><seg>Палац Пуслоўскіх</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец Республики</seg></tuv>
+      <tuv lang="BE"><seg>Палац Республікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец спорта</seg></tuv>
+      <tuv lang="BE"><seg>[Палац спорта, Палац спорту]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец творчества детей и молодёжи</seg></tuv>
+      <tuv lang="BE"><seg>Палац творчасці дзяцей і моладзі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец Тызенгауза</seg></tuv>
+      <tuv lang="BE"><seg>палац Тызенгаўза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворец Уместовских</seg></tuv>
+      <tuv lang="BE"><seg>Палац Умястоўскіх</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворцово-парковый комплекс Горваттов</seg></tuv>
+      <tuv lang="BE"><seg>Палацава-паркавы комплекс Горватаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дежурный</seg></tuv>
+      <tuv lang="BE"><seg>Дзяжурны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дельфин</seg></tuv>
+      <tuv lang="BE"><seg>Дэльфін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Департамент охраны МВД</seg></tuv>
+      <tuv lang="BE"><seg>Дэпартамент аховы МУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Депо метрополитена</seg></tuv>
+      <tuv lang="BE"><seg>Дэпо метрапалітэну</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детдом</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>детская библиотека</seg></tuv>
+      <tuv lang="BE"><seg>дзіцячая бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская больница</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская поликлина №2</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая паліклініка № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская поликлиника № 1</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая паліклініка № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская поликлиника №4</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая паліклініка №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский мир</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы свет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Диагностический Центр</seg></tuv>
+      <tuv lang="BE"><seg>Дыягнастычны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дизельная</seg></tuv>
+      <tuv lang="BE"><seg>Дызельная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Динамо</seg></tuv>
+      <tuv lang="BE"><seg>Дынама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дионис</seg></tuv>
+      <tuv lang="BE"><seg>Дыяніс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дирекция фестиваля 'Славянский Базар'</seg></tuv>
+      <tuv lang="BE"><seg>Дырэкцыя фестывалю «Славянскі базар»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Диспетчерская</seg></tuv>
+      <tuv lang="BE"><seg>Дыспетчарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДК</seg></tuv>
+      <tuv lang="BE"><seg>ДК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Днепр</seg></tuv>
+      <tuv lang="BE"><seg>Дняпро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доброном</seg></tuv>
+      <tuv lang="BE"><seg>Дабраном</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доброном (бывший Гермес)</seg></tuv>
+      <tuv lang="BE"><seg>Гермес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дома ремёсел</seg></tuv>
+      <tuv lang="BE"><seg>Дом рамёстваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом быта</seg></tuv>
+      <tuv lang="BE"><seg>Дом быту</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом книги</seg></tuv>
+      <tuv lang="BE"><seg>Дом кнігі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом круглосуточного пребывания</seg></tuv>
+      <tuv lang="BE"><seg>Дом кругласутачнага ўтрымання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом культуры</seg></tuv>
+      <tuv lang="BE"><seg>Дом культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом культуры Вет.Академии</seg></tuv>
+      <tuv lang="BE"><seg>Дом культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом культуры железнодорожников</seg></tuv>
+      <tuv lang="BE"><seg>Дом культуры чыгуначнікаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Монюшко</seg></tuv>
+      <tuv lang="BE"><seg>Дом Манюшкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Москвы</seg></tuv>
+      <tuv lang="BE"><seg>Дом Масквы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом-музей Адама Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>Дом-музей Адама Міцкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом-музей Шагала</seg></tuv>
+      <tuv lang="BE"><seg>Дом-музей Шагала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Пионеров</seg></tuv>
+      <tuv lang="BE"><seg>Дом піянераў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом правительства</seg></tuv>
+      <tuv lang="BE"><seg>Дом урада</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом правосудия</seg></tuv>
+      <tuv lang="BE"><seg>Дом правасуддзя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом ремёсел (старая мельница)</seg></tuv>
+      <tuv lang="BE"><seg>Дом рамёстваў (стары млын)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Рыбака и охотника</seg></tuv>
+      <tuv lang="BE"><seg>Дом рыбака і паляўнічага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом торговли</seg></tuv>
+      <tuv lang="BE"><seg>Дом гандлю</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом торжеств</seg></tuv>
+      <tuv lang="BE"><seg>Дом урачыстасцяў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДорОрс</seg></tuv>
+      <tuv lang="BE"><seg>ДарОрс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДПРМ АП "Минск"</seg></tuv>
+      <tuv lang="BE"><seg>БПРМ АП "Мінск"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Драмтеатр</seg></tuv>
+      <tuv lang="BE"><seg>Драмтэатр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС</seg></tuv>
+      <tuv lang="BE"><seg>ДС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Зелёный Луг-6</seg></tuv>
+      <tuv lang="BE"><seg>ДС Зялёны луг-6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Зелёный Луг-7</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Зялёны Луг-7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Духовской круглик</seg></tuv>
+      <tuv lang="BE"><seg>Духаўскі круглік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евроопт</seg></tuv>
+      <tuv lang="BE"><seg>[Еураопт, Еўраопт, Супермаркет "Еўраопт"]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евроопт + +</seg></tuv>
+      <tuv lang="BE"><seg>Еўраопт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евросеть</seg></tuv>
+      <tuv lang="BE"><seg>Еўрасетка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Единство</seg></tuv>
+      <tuv lang="BE"><seg>Адзінства</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Елена Next</seg></tuv>
+      <tuv lang="BE"><seg>Алена Нэкст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ж/д вокзал</seg></tuv>
+      <tuv lang="BE"><seg>чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ж/Д вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ж/д станция Кассы</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначная станцыя Кассы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ж.д. вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ж\Д вокзал "Городок"</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЖД Поликлинника</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Железнодорожная станция</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначная станцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жемчужина</seg></tuv>
+      <tuv lang="BE"><seg>Жамчужына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Женская консультация</seg></tuv>
+      <tuv lang="BE"><seg>Жаночая кансультацыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Женская консультация  №2</seg></tuv>
+      <tuv lang="BE"><seg>Жаночая кансультацыя №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Женская консультация № 3</seg></tuv>
+      <tuv lang="BE"><seg>Жаночая кансультацыя № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Женьшень</seg></tuv>
+      <tuv lang="BE"><seg>Женьшень</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Житковичи</seg></tuv>
+      <tuv lang="BE"><seg>Жыткавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Житомля</seg></tuv>
+      <tuv lang="BE"><seg>Жытомля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Журавинка</seg></tuv>
+      <tuv lang="BE"><seg>Журавінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЖЭС</seg></tuv>
+      <tuv lang="BE"><seg>ЖЭС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЖЭУ-28</seg></tuv>
+      <tuv lang="BE"><seg>ЖЭУ-28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЖЭУ №20</seg></tuv>
+      <tuv lang="BE"><seg>ЖЭУ №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заброшенный жилой дом</seg></tuv>
+      <tuv lang="BE"><seg>Занядбаны жылы дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заводоуправление ОАО "Керамика"</seg></tuv>
+      <tuv lang="BE"><seg>Заводакіраўніцтва ААТ «Кераміка»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заготовительный пункт № 5</seg></tuv>
+      <tuv lang="BE"><seg>Нарыхтоўчы пункт № 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЗАГС</seg></tuv>
+      <tuv lang="BE"><seg>ЗАГС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЗАГС Фрунзенского р-на</seg></tuv>
+      <tuv lang="BE"><seg>ЗАГС Фрунзенскага р-на</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зал бокса</seg></tuv>
+      <tuv lang="BE"><seg>Зала боксу</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Замковая башня</seg></tuv>
+      <tuv lang="BE"><seg>Замкавая вежа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Замок Сапег (руины)</seg></tuv>
+      <tuv lang="BE"><seg>Замак Сапегаў (руіны)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западнодвинская МРО</seg></tuv>
+      <tuv lang="BE"><seg>Заходнедзвінскае МРА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западный</seg></tuv>
+      <tuv lang="BE"><seg>Заходні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западный рынок</seg></tuv>
+      <tuv lang="BE"><seg>Заходнi рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заря</seg></tuv>
+      <tuv lang="BE"><seg>Зара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Здание "подъезд подвал"</seg></tuv>
+      <tuv lang="BE"><seg>Будынак «пад’езд-склеп»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Здание администрации</seg></tuv>
+      <tuv lang="BE"><seg>Адміністрацыйны будынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелена Гура</seg></tuv>
+      <tuv lang="BE"><seg>Зялёна Гура</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотая нива</seg></tuv>
+      <tuv lang="BE"><seg>Залатая ніва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золотая Сова</seg></tuv>
+      <tuv lang="BE"><seg>Залатая Сава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Золушка</seg></tuv>
+      <tuv lang="BE"><seg>Папялушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зональный центр гигиены и эпидемиологии</seg></tuv>
+      <tuv lang="BE"><seg>Занальны цэнтр гігіены і эпідэміялогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зорина</seg></tuv>
+      <tuv lang="BE"><seg>Зарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Игорный клуб Виктория</seg></tuv>
+      <tuv lang="BE"><seg>Ігральны клуб Вікторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Иконная лавка</seg></tuv>
+      <tuv lang="BE"><seg>Іконны  шапiк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ИК №12</seg></tuv>
+      <tuv lang="BE"><seg>ВК №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ИМНС Заводского района</seg></tuv>
+      <tuv lang="BE"><seg>Падаткавая інспекцыя Заводскага раёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт биоорганической химии НАН Беларуси</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут біяарганічнай хіміі НАН Беларусі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт генетики и цитологии</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут генетыкі і цыталогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт жилища - НИПТИС им. Атаева С.С.</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут жылля - НІПТІС ім. Атаева С.С.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт микробиологии НАН Беларуси</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут мікрабіялогіі НАН Беларусі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт технической акустики</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут тэхнічнай акустыкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интурист</seg></tuv>
+      <tuv lang="BE"><seg>Інтурыст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Инфекционная больница</seg></tuv>
+      <tuv lang="BE"><seg>Інфекцыйная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Историко-краеведческий музей</seg></tuv>
+      <tuv lang="BE"><seg>Гісторыка-краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>историко-этнографический музей</seg></tuv>
+      <tuv lang="BE"><seg>гісторыка – этнаграфічны музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ИТ парк</seg></tuv>
+      <tuv lang="BE"><seg>ІТ парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Камелия</seg></tuv>
+      <tuv lang="BE"><seg>Камелія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменецкая башня</seg></tuv>
+      <tuv lang="BE"><seg>Камянецкая вежа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Камни</seg></tuv>
+      <tuv lang="BE"><seg>Рытуальныя паслугі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каравай Придвинья</seg></tuv>
+      <tuv lang="BE"><seg>Каравай Прыдзвіння</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Катерина</seg></tuv>
+      <tuv lang="BE"><seg>Кацярына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе</seg></tuv>
+      <tuv lang="BE"><seg>Кафэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе "Павлинка"</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня "Паўлінка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе "Сказка"</seg></tuv>
+      <tuv lang="BE"><seg>Кафэ "Казка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе «Цитадель»</seg></tuv>
+      <tuv lang="BE"><seg>Кафэ «Цытадэль»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Встреча</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «Сустрэча»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафедра педиатрии ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Кафедра педыятрыі ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Метан</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «Метан»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафе Театральное</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «Тэатральная»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Квартал</seg></tuv>
+      <tuv lang="BE"><seg>Квартал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КГБ</seg></tuv>
+      <tuv lang="BE"><seg>КДБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КДП</seg></tuv>
+      <tuv lang="BE"><seg>КДП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Керамин</seg></tuv>
+      <tuv lang="BE"><seg>Керамін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кинозал</seg></tuv>
+      <tuv lang="BE"><seg>Кастрычнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кинологический центр</seg></tuv>
+      <tuv lang="BE"><seg>Кіналагічны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Киоск</seg></tuv>
+      <tuv lang="BE"><seg>Кіёск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Киоск-магазин продукты</seg></tuv>
+      <tuv lang="BE"><seg>Кіёск-крама прадукты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирмаш</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кислородная станция</seg></tuv>
+      <tuv lang="BE"><seg>Кіслародная станцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клиника ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Клініка ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кличевский музей</seg></tuv>
+      <tuv lang="BE"><seg>Краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клуб</seg></tuv>
+      <tuv lang="BE"><seg>Клуб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Книги</seg></tuv>
+      <tuv lang="BE"><seg>Кнігі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>книжный магазин "Літарынка"</seg></tuv>
+      <tuv lang="BE"><seg>кнігарня "Літарынка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КНС</seg></tuv>
+      <tuv lang="BE"><seg>КНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КНС-3</seg></tuv>
+      <tuv lang="BE"><seg>КПС-3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кожвендиспансер</seg></tuv>
+      <tuv lang="BE"><seg>Скурвендыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кожно-венерологический диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Скура-венералагічны дыспансэр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колледж искусств</seg></tuv>
+      <tuv lang="BE"><seg>Каледж мастацтваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колледж культуры</seg></tuv>
+      <tuv lang="BE"><seg>Каледж культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колобок</seg></tuv>
+      <tuv lang="BE"><seg>Калабок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колодищанский сельский совет</seg></tuv>
+      <tuv lang="BE"><seg>Каладзішчанскі сельскі савет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колодищанское лесничество</seg></tuv>
+      <tuv lang="BE"><seg>Каладзішчанскае лясніцтва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колос</seg></tuv>
+      <tuv lang="BE"><seg>Колас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комбинат бытового обслуживания</seg></tuv>
+      <tuv lang="BE"><seg>Камбiнат бытавога абслугоўвання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комплексный приемный пункт</seg></tuv>
+      <tuv lang="BE"><seg>Комплексны прыёмны пункт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Компрессор</seg></tuv>
+      <tuv lang="BE"><seg>Кампрэсар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомолец</seg></tuv>
+      <tuv lang="BE"><seg>Камсамолец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Консульство Республики Польша в г.Бресте</seg></tuv>
+      <tuv lang="BE"><seg>Консульства Рэспублікі Польша ў г.Брэсце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Консульство Российской Федерации в г.Бресте</seg></tuv>
+      <tuv lang="BE"><seg>Консульства Расійскай Федэрацыі ў г.Брэсце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Континент</seg></tuv>
+      <tuv lang="BE"><seg>Кантынент</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Концертный зал "Витебск"</seg></tuv>
+      <tuv lang="BE"><seg>Канцэртная зала "Віцебск"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корона</seg></tuv>
+      <tuv lang="BE"><seg>Карона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Космос</seg></tuv>
+      <tuv lang="BE"><seg>Космас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Карла Барамеуша</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Карла Барамеуша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Непорочного Зачатия Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Беззаганнага Зачацця Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Котельная</seg></tuv>
+      <tuv lang="BE"><seg>Кацельня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кофейня</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кочегарка</seg></tuv>
+      <tuv lang="BE"><seg>качагарка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КПП</seg></tuv>
+      <tuv lang="BE"><seg>КПП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КПП 1</seg></tuv>
+      <tuv lang="BE"><seg>КПП 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краеведческий музей</seg></tuv>
+      <tuv lang="BE"><seg>Краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краеведческий Музей</seg></tuv>
+      <tuv lang="BE"><seg>Краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красный Октябрь</seg></tuv>
+      <tuv lang="BE"><seg>Чырвоны Кастрычнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кревский замок (руины)</seg></tuv>
+      <tuv lang="BE"><seg>Крэўскі замак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крематорий</seg></tuv>
+      <tuv lang="BE"><seg>Крэматорый</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Криница</seg></tuv>
+      <tuv lang="BE"><seg>Крынiца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кристалл</seg></tuv>
+      <tuv lang="BE"><seg>Крышталь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крыница</seg></tuv>
+      <tuv lang="BE"><seg>Крыніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крытый рынок</seg></tuv>
+      <tuv lang="BE"><seg>Крыты рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КСК Железнодорожников</seg></tuv>
+      <tuv lang="BE"><seg>КСК Чыгуначнікаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КСЦ Железнодорожников</seg></tuv>
+      <tuv lang="BE"><seg>КСЦ Чыгуначнікаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулинария</seg></tuv>
+      <tuv lang="BE"><seg>Кулінарыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Купава</seg></tuv>
+      <tuv lang="BE"><seg>Купава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Курсантская столовая №1</seg></tuv>
+      <tuv lang="BE"><seg>Курсанцкая сталовая №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Курсантская столовая №2</seg></tuv>
+      <tuv lang="BE"><seg>Курсанцкая сталовая №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КФХ Прудовое</seg></tuv>
+      <tuv lang="BE"><seg>КФХ Прудовае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>лаборатория</seg></tuv>
+      <tuv lang="BE"><seg>Лабараторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лаборатория</seg></tuv>
+      <tuv lang="BE"><seg>Лабараторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лабораторно-теоретический корп.</seg></tuv>
+      <tuv lang="BE"><seg>Лабаторна-тэарэтычны корп.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лаванда</seg></tuv>
+      <tuv lang="BE"><seg>Лаванда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ледовый дворец</seg></tuv>
+      <tuv lang="BE"><seg>[Лядовы Палац, Лядовы палац]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ледовый Дворец</seg></tuv>
+      <tuv lang="BE"><seg>Лядовы палац</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лепель</seg></tuv>
+      <tuv lang="BE"><seg>Лепель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесной</seg></tuv>
+      <tuv lang="BE"><seg>Лясны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесхоз</seg></tuv>
+      <tuv lang="BE"><seg>Лясгас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Летний Амфитеатр</seg></tuv>
+      <tuv lang="BE"><seg>Летні амфітэатр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лидский историко-художественный музей</seg></tuv>
+      <tuv lang="BE"><seg>Лідскі гісторыка-мастацкі музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Литературный музей</seg></tuv>
+      <tuv lang="BE"><seg>Літаратурны музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лицей № 4 лёгкой промышленности</seg></tuv>
+      <tuv lang="BE"><seg>Ліцэй № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ліпнішкаўскае Лясніцтва</seg></tuv>
+      <tuv lang="BE"><seg>Ліпнішкаўскае Лясніцтва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ліпнішкаўская ўрачэбная амбулаторыя</seg></tuv>
+      <tuv lang="BE"><seg>Ліпнішкаўская ўрачэбная амбулаторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Локомотив</seg></tuv>
+      <tuv lang="BE"><seg>Лакаматыў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Локомотивное депо Минск</seg></tuv>
+      <tuv lang="BE"><seg>Лакаматыунае дэпо Мiнск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лотос</seg></tuv>
+      <tuv lang="BE"><seg>Лотас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лоял Групп</seg></tuv>
+      <tuv lang="BE"><seg>Лоял Груп</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукойл офис</seg></tuv>
+      <tuv lang="BE"><seg>Лукойл офіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любава</seg></tuv>
+      <tuv lang="BE"><seg>Любава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Людмила</seg></tuv>
+      <tuv lang="BE"><seg>Людміла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лямус</seg></tuv>
+      <tuv lang="BE"><seg>Лямус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин</seg></tuv>
+      <tuv lang="BE"><seg>[Крама, Магазін]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин "Ближний"</seg></tuv>
+      <tuv lang="BE"><seg>Крама "Блізкі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>магазин "Стройдом"</seg></tuv>
+      <tuv lang="BE"><seg>крама «Буддом»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин детской одежды " "Белль Бимбо""</seg></tuv>
+      <tuv lang="BE"><seg>Магазін дзіцячага адзення "" Бель Бімба ""</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин каскад</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин Комсомольский</seg></tuv>
+      <tuv lang="BE"><seg>Магазін «Камсамольскі»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин - Кулинария</seg></tuv>
+      <tuv lang="BE"><seg>Крама - Кулінарыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магистральный</seg></tuv>
+      <tuv lang="BE"><seg>Магістральны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима</seg></tuv>
+      <tuv lang="BE"><seg>Максіма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марко</seg></tuv>
+      <tuv lang="BE"><seg>Марка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мастершина</seg></tuv>
+      <tuv lang="BE"><seg>Майстаршына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МГПП Точприбор</seg></tuv>
+      <tuv lang="BE"><seg>«Точпрыбор»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мебель</seg></tuv>
+      <tuv lang="BE"><seg>Мэбля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мебель «Пинскдрев»</seg></tuv>
+      <tuv lang="BE"><seg>Мэбля «Пінскдрэў»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мегаполис</seg></tuv>
+      <tuv lang="BE"><seg>Мегаполіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медвытрезвитель</seg></tuv>
+      <tuv lang="BE"><seg>Медвыцвярэзнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медицинская библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Медыцынская бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медицинский блок</seg></tuv>
+      <tuv lang="BE"><seg>Медычны блок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медицинский колледж</seg></tuv>
+      <tuv lang="BE"><seg>Медыцынскае вучылішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медпункт</seg></tuv>
+      <tuv lang="BE"><seg>Медпункт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мемориальный музей К.С. Заслонова</seg></tuv>
+      <tuv lang="BE"><seg>Музей Заслонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Меркурий</seg></tuv>
+      <tuv lang="BE"><seg>Меркурый</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мечта</seg></tuv>
+      <tuv lang="BE"><seg>Мара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миллениум</seg></tuv>
+      <tuv lang="BE"><seg>Миллениум</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мини магазин</seg></tuv>
+      <tuv lang="BE"><seg>Міні крама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мини маркет</seg></tuv>
+      <tuv lang="BE"><seg>Мини маркет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Министерство обороны Республики Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Міністэрства абароны Рэспублікі Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минск-1</seg></tuv>
+      <tuv lang="BE"><seg>Мінск-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минск Водоканал</seg></tuv>
+      <tuv lang="BE"><seg>Мінск Вадаканал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минский государственный дворец детей и молодёжи</seg></tuv>
+      <tuv lang="BE"><seg>Мінскі дзяржаўны палац дзяцей і моладзі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минский государственный профессиональный лицей №8 перерабатывающей промышленности</seg></tuv>
+      <tuv lang="BE"><seg>МДПЛ №8 перапрацоўнай прамысловасці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минский государственный технологический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Мінскі дзяржаўны тэхналагічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минский районный цех электросвязи</seg></tuv>
+      <tuv lang="BE"><seg>Мінскі раённы цэх электрасувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минсктранс</seg></tuv>
+      <tuv lang="BE"><seg>Мінсктранс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миоры</seg></tuv>
+      <tuv lang="BE"><seg>Міёры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Многоуровневая парковка</seg></tuv>
+      <tuv lang="BE"><seg>Шматузроўневая паркоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могилёв</seg></tuv>
+      <tuv lang="BE"><seg>Магілёў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Модная одежда</seg></tuv>
+      <tuv lang="BE"><seg>Моднае адзенне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодежное</seg></tuv>
+      <tuv lang="BE"><seg>Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодечномебель</seg></tuv>
+      <tuv lang="BE"><seg>Маладзечнамэбля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь бернардинцев-францискан</seg></tuv>
+      <tuv lang="BE"><seg>Кляштар бернардынаў-францысканаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Морг</seg></tuv>
+      <tuv lang="BE"><seg>Морг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МОРГ</seg></tuv>
+      <tuv lang="BE"><seg>Морг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Морфологический корп.</seg></tuv>
+      <tuv lang="BE"><seg>Марфалагічны корп.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Москва-Минск Банк</seg></tuv>
+      <tuv lang="BE"><seg>Банк «Масква-Мінск»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Москвичевская</seg></tuv>
+      <tuv lang="BE"><seg>Масквічоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МоторТехСервис</seg></tuv>
+      <tuv lang="BE"><seg>МаторТэхСэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МРЭО ГАИ г. Полоцка</seg></tuv>
+      <tuv lang="BE"><seg>Міжраённае МРА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МТС</seg></tuv>
+      <tuv lang="BE"><seg>МТС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МТС офис</seg></tuv>
+      <tuv lang="BE"><seg>МТС Офіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мтф</seg></tuv>
+      <tuv lang="BE"><seg>МТФ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музей</seg></tuv>
+      <tuv lang="BE"><seg>[Музей, Музей-кватэра Тусналобавай]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музей истории витебского трамвая</seg></tuv>
+      <tuv lang="BE"><seg>Музей гісторыі віцебскага трамвая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музей М.Ф.Шмырёва</seg></tuv>
+      <tuv lang="BE"><seg>Музей М.П.Шмырова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музей спасенных ценностей</seg></tuv>
+      <tuv lang="BE"><seg>Музэй выратаваных каштоўнаьцяў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музей традиционного ручного ткачества Поозерья</seg></tuv>
+      <tuv lang="BE"><seg>Музей традыцыйнага ручнога ткацтва Паазер’я</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>музей традиционной культуры</seg></tuv>
+      <tuv lang="BE"><seg>музей традыцыйнай культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музыкальный колледж</seg></tuv>
+      <tuv lang="BE"><seg>Муз. каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МЧС</seg></tuv>
+      <tuv lang="BE"><seg>МНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Налоговая инспекция</seg></tuv>
+      <tuv lang="BE"><seg>Падаткавая інспекцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>На Немиге</seg></tuv>
+      <tuv lang="BE"><seg>На Нямізе</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Насосная</seg></tuv>
+      <tuv lang="BE"><seg>Пампоўня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Насосная станция №12</seg></tuv>
+      <tuv lang="BE"><seg>Помпавая станцыя №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальная библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальная бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный академический драмтеатр Якуба Коласа</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны акадэмічны драмтэатр Якуба Коласа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный аэропорт "Минск"</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны аэрапорт "Мінск"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный Банк</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Наш магазин</seg></tuv>
+      <tuv lang="BE"><seg>Наш магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ника</seg></tuv>
+      <tuv lang="BE"><seg>Ніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ника-2</seg></tuv>
+      <tuv lang="BE"><seg>Ніка-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Николаевский пивной хуторок</seg></tuv>
+      <tuv lang="BE"><seg>Мікалаеўскі хутарок з півам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новополоцкий хлебозавод</seg></tuv>
+      <tuv lang="BE"><seg>Наваполацкі хлебазавод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новосёлкин</seg></tuv>
+      <tuv lang="BE"><seg>Навасёлкін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО "АГАТ-СИСТЕМ"</seg></tuv>
+      <tuv lang="BE"><seg>ААТ "АГАТ-СІСТЭМ"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО "Городокский льнозавод"</seg></tuv>
+      <tuv lang="BE"><seg>ААТ Гарадоцкі льнозавод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО "Молоко"</seg></tuv>
+      <tuv lang="BE"><seg>ААТ «Малако»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО "РАПС"</seg></tuv>
+      <tuv lang="BE"><seg>ААТ РАПС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО Витебскоблресурсы</seg></tuv>
+      <tuv lang="BE"><seg>ААТ Віцебскаблрэсурсы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО Рудаково</seg></tuv>
+      <tuv lang="BE"><seg>ААТ Рудакова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обл. стоматологическая поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Абл. стаматалагічная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областная филармония</seg></tuv>
+      <tuv lang="BE"><seg>Абласная філармонія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областное УВД</seg></tuv>
+      <tuv lang="BE"><seg>Абласное УУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областной Кардиологический диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Абласны кардыялагічны дыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областной комитет пр. ресурсов и охраны окр. среды</seg></tuv>
+      <tuv lang="BE"><seg>Абласны камітэт пр. рэсурсаў і аховы навак. асяроддзя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Облисполком</seg></tuv>
+      <tuv lang="BE"><seg>Аблвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обольская усадьба Гребницких (развалины)</seg></tuv>
+      <tuv lang="BE"><seg>Сядзібна-паркавы комплекс Грабніцкіх (руіны)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обсерватория</seg></tuv>
+      <tuv lang="BE"><seg>Абсерваторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие Витебского отделения Бел. ж.д.</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат Віцебскага аддзялення Беларускай чыгункі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие ПГУ №2</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат ПДУ №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие №1 БрГУ им. А.С.Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат №1 БрДУ імя А.С.Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие № 2 ГГОЛа</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат № 2 ГДАЛа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие №5</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОВД ж/д р-на</seg></tuv>
+      <tuv lang="BE"><seg>АУС Чыгуначнага раёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Овощехранилище</seg></tuv>
+      <tuv lang="BE"><seg>Гароднінасховішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОГМЭК</seg></tuv>
+      <tuv lang="BE"><seg>АДМЭК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОДО "ВитСтройСоюз"</seg></tuv>
+      <tuv lang="BE"><seg>ТДА «ВітБудСаюз»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОДО "Энерготехнохолод"</seg></tuv>
+      <tuv lang="BE"><seg>ТДА «Энергатэхнахолад»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОДО ПКФ "Пульсон"</seg></tuv>
+      <tuv lang="BE"><seg>АДА ПКФ "Пульсон"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оздоровительный центр "Городище"</seg></tuv>
+      <tuv lang="BE"><seg>Аздараўленчы цэнтр "Гарадзішча"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский РОВД</seg></tuv>
+      <tuv lang="BE"><seg>Кастрычніцкі РАУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олимпиец</seg></tuv>
+      <tuv lang="BE"><seg>Алімпіец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Онкологический диспансер</seg></tuv>
+      <tuv lang="BE"><seg>[Анкалагічны дыспансэр, Мінскі дзяржаўны клінічны анкалагічны дыспансэр]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ООО "КАНстрой"</seg></tuv>
+      <tuv lang="BE"><seg>ТАА «КАНбуд»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ООО "Сауза"</seg></tuv>
+      <tuv lang="BE"><seg>ТАА "Сауза"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптика</seg></tuv>
+      <tuv lang="BE"><seg>Оптыка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптовая база</seg></tuv>
+      <tuv lang="BE"><seg>Аптовая база</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оранжерея</seg></tuv>
+      <tuv lang="BE"><seg>аранжарэя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Орбита</seg></tuv>
+      <tuv lang="BE"><seg>Арбіта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОРС №16</seg></tuv>
+      <tuv lang="BE"><seg>АРЗ №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОРС № 37</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оршанский государственный центр детского творчества</seg></tuv>
+      <tuv lang="BE"><seg>Аршанскі дзяржаўны цэнтр дзіцячай творчасці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Освободителям Витебска - советским воинам, партизанам и подпольщикам</seg></tuv>
+      <tuv lang="BE"><seg>Вызваліцелям Віцебска — савецкім воінам, партызанам і падпольшчыкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Особино</seg></tuv>
+      <tuv lang="BE"><seg>Асабина</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островля</seg></tuv>
+      <tuv lang="BE"><seg>Астроўля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отдел внутренних дел Брестского райисполкома</seg></tuv>
+      <tuv lang="BE"><seg>Аддзел унутраных спраў Брэсцкага райвыканкама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение недоношенных детей</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне неданошаных дзяцей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отдел ЗАГС Новополоцкого горисполкома</seg></tuv>
+      <tuv lang="BE"><seg>Палац шлюбаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отдел образования Администрации Октябрьского района г.Гродно</seg></tuv>
+      <tuv lang="BE"><seg>Аддзел адукацыі Адміністрацыі Кастрычніцкага раёна г. Гродна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отель Монастырский</seg></tuv>
+      <tuv lang="BE"><seg>Гатэль Кляштарны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Офис "Строймир"</seg></tuv>
+      <tuv lang="BE"><seg>Офіс "Будмір"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Офисный центр</seg></tuv>
+      <tuv lang="BE"><seg>Офісны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Офис продаж "Белинте-Роба"</seg></tuv>
+      <tuv lang="BE"><seg>Офіс продажу "Белінтэ-Роба"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянская центральная районная больница</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянская цэнтральная раённая бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянский государственный аграрно-экономический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянскі дзяржаўны аграрна-эканамічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянский краеведческий музей имени Ф. Богушевича</seg></tuv>
+      <tuv lang="BE"><seg>Музей Ф. Багушэвіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянский районный исполнительный комитет</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянскі раённы выканаўчы камітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Павильон B</seg></tuv>
+      <tuv lang="BE"><seg>Павільён B</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Павильон D</seg></tuv>
+      <tuv lang="BE"><seg>Павільён D</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Павлинка</seg></tuv>
+      <tuv lang="BE"><seg>Паўлінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Памятники</seg></tuv>
+      <tuv lang="BE"><seg>Помнікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>парафиальный дом</seg></tuv>
+      <tuv lang="BE"><seg>парафіяльны дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парник</seg></tuv>
+      <tuv lang="BE"><seg>Парнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парус</seg></tuv>
+      <tuv lang="BE"><seg>Ветразь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПАСЧ 18</seg></tuv>
+      <tuv lang="BE"><seg>ПАВЧ 18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПАСЧ №16</seg></tuv>
+      <tuv lang="BE"><seg>ПАВЧ №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПАСЧ №3</seg></tuv>
+      <tuv lang="BE"><seg>ПАВЧ №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Патбюро 1-е отд. общ. патологии</seg></tuv>
+      <tuv lang="BE"><seg>Патбюро 1-е аддз. агульн. паталогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Патологоанатомическое бюро</seg></tuv>
+      <tuv lang="BE"><seg>Морг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПГРП-1</seg></tuv>
+      <tuv lang="BE"><seg>ПГРП-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПГУ, учебный корпус</seg></tuv>
+      <tuv lang="BE"><seg>ПДУ, вучэбны корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Педиатрический корп.</seg></tuv>
+      <tuv lang="BE"><seg>Педыятрычны корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайский отдел 'Охрана'</seg></tuv>
+      <tuv lang="BE"><seg>Першамайскі аддзел «Ахова»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайский РОВД</seg></tuv>
+      <tuv lang="BE"><seg>Першамайскі РАУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первый госпиталь органов пограничной службы</seg></tuv>
+      <tuv lang="BE"><seg>Першы шпіталь органаў памежнай службы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинскдрев</seg></tuv>
+      <tuv lang="BE"><seg>Пінскдрэў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинский государственный гидромелиоративный колледж имени А.Е.Клещева</seg></tuv>
+      <tuv lang="BE"><seg>Пінскі дзяржаўны гідрамеліяратыўны каледж імя А. Я. Кляшчова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинский государственный индустриально-педагогический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Пінскі індустрыяльна-педагагічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пищеблок</seg></tuv>
+      <tuv lang="BE"><seg>[Блок для ежы, Харчблок]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>П-Ка Воен.Академии №1</seg></tuv>
+      <tuv lang="BE"><seg>П-Ка Ваен.Акадэміі №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плавательный бассейн</seg></tuv>
+      <tuv lang="BE"><seg>Плавальны басейн</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планетарий</seg></tuv>
+      <tuv lang="BE"><seg>Планетарый</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плебания XIX в.</seg></tuv>
+      <tuv lang="BE"><seg>Плябанія XIX ст.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Племенной свинокомплекс</seg></tuv>
+      <tuv lang="BE"><seg>Племянны свінакомплекс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Повысительная насосная станция</seg></tuv>
+      <tuv lang="BE"><seg>Павышальная помпавая станцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подорожник</seg></tuv>
+      <tuv lang="BE"><seg>Падарожнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подстанция</seg></tuv>
+      <tuv lang="BE"><seg>Падстанцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подстанция скорой помощи № 1</seg></tuv>
+      <tuv lang="BE"><seg>Падстанцыя хуткай дапамогі № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подстанция скорой помощи № 2</seg></tuv>
+      <tuv lang="BE"><seg>Падстанцыя хуткай дапамогі № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная аварийно-спасательная часть № 1</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная аварыйна-выратавальная часць № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная аварийно-спасательная часть № 3</seg></tuv>
+      <tuv lang="BE"><seg>Пажарнае дэпо № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная аварийно-спасательная часть № 4</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная аварыйна-выратавальная часць № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная аварийно-спасательная часть № 6</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная аварыйна-выратавальная часць № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная аварийно-спасательная часть № 7</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная аварыйна-выратавальная часць № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная часть</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная частка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полесский парк</seg></tuv>
+      <tuv lang="BE"><seg>Палескі парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника 4</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>поликлиника им.Семашко</seg></tuv>
+      <tuv lang="BE"><seg>паліклініка імя Сямашкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника УВД</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка МУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника № 2</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника №3</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника № 3</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника №31</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника № 4 им. Ленина</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №4 «Леніна»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника № 5</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка № 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника №6 им. Калинина</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №6 імя Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлинника</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлинника №3</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий горисполком</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі гарвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий государственный университет</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі дзяржаўны ўніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі райвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий ЦСМС</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі ЦСМС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Посольство Республики Польша в Республике Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Амбасада Рэспублікі Польшча ў Рэспубліцы Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Посольство Франции</seg></tuv>
+      <tuv lang="BE"><seg>Пасольства Францыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Посольство Чешской Республики</seg></tuv>
+      <tuv lang="BE"><seg>Пасольства Чэшскай Рэспублікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поставский краеведческий музей</seg></tuv>
+      <tuv lang="BE"><seg>Пастаўскі краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поставский районный исполнительный комитет</seg></tuv>
+      <tuv lang="BE"><seg>Пастаўскі раённы выканаўчы камітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почта</seg></tuv>
+      <tuv lang="BE"><seg>Пошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Практик</seg></tuv>
+      <tuv lang="BE"><seg>Практык</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пралеска</seg></tuv>
+      <tuv lang="BE"><seg>Пралеска</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пралески</seg></tuv>
+      <tuv lang="BE"><seg>Пралескi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прачечная</seg></tuv>
+      <tuv lang="BE"><seg>Пральня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>прачечная-химчистка «Лотос»</seg></tuv>
+      <tuv lang="BE"><seg>Пральня-хімчыстка «Лотас»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Престиж</seg></tuv>
+      <tuv lang="BE"><seg>Прэстыж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Привокзальный рынок</seg></tuv>
+      <tuv lang="BE"><seg>Прывакзальны рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пригородные кассы</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приемное отделение</seg></tuv>
+      <tuv lang="BE"><seg>Прыёмнае аддзяленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приёмно-заготовительный пункт</seg></tuv>
+      <tuv lang="BE"><seg>Прыёмны-нарыхтоўчы пункт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приёмный пункт вторсырья</seg></tuv>
+      <tuv lang="BE"><seg>Прыёмны пункт другаснай сыравіны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>приём стеклотары</seg></tuv>
+      <tuv lang="BE"><seg>прыём шклатары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приём стеклотары</seg></tuv>
+      <tuv lang="BE"><seg>Пункт прыёму шклатары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Припять</seg></tuv>
+      <tuv lang="BE"><seg>Прыпяць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приют для бездомных животных</seg></tuv>
+      <tuv lang="BE"><seg>Прыют</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Продовольственный магазин</seg></tuv>
+      <tuv lang="BE"><seg>Прадуктовы магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Продуктовый</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>продукты</seg></tuv>
+      <tuv lang="BE"><seg>Прадукты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Продукты</seg></tuv>
+      <tuv lang="BE"><seg>Прадукты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Производственный корп.</seg></tuv>
+      <tuv lang="BE"><seg>Вытворчы корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прокуратура</seg></tuv>
+      <tuv lang="BE"><seg>Пракуратура</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прокуратура витебской области</seg></tuv>
+      <tuv lang="BE"><seg>Пракуратура Віцебскай вобласці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прокуратура г.Новополоцка</seg></tuv>
+      <tuv lang="BE"><seg>Пракуратура</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Промтовары</seg></tuv>
+      <tuv lang="BE"><seg>Прамтавары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Простор</seg></tuv>
+      <tuv lang="BE"><seg>Прастор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Профессионально-технический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Прафесійна-тэхнічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Профессиональный лицей № 5 приборостроения</seg></tuv>
+      <tuv lang="BE"><seg>ВДПЛ №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Проходная</seg></tuv>
+      <tuv lang="BE"><seg>Прахадная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Психоневрологический диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Наркадыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПСК "Орджоникидзе"</seg></tuv>
+      <tuv lang="BE"><seg>ВБК "Арджанікідзэ"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Птушка</seg></tuv>
+      <tuv lang="BE"><seg>Птушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пчеловодство</seg></tuv>
+      <tuv lang="BE"><seg>Пчалярства</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Радиозавод</seg></tuv>
+      <tuv lang="BE"><seg>Радыёзавод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Радиотелевизионная передающая станция (РТПС)</seg></tuv>
+      <tuv lang="BE"><seg>Радыётэлевізійная перадавальная станцыя (РТПС)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Райвоенкомат</seg></tuv>
+      <tuv lang="BE"><seg>Ваенкамат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Райвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Районный военный комиссариат</seg></tuv>
+      <tuv lang="BE"><seg>Раённы ваенны камісарыят</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Районный дом культуры</seg></tuv>
+      <tuv lang="BE"><seg>Раённы дом культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Районный историко-краеведческий музей</seg></tuv>
+      <tuv lang="BE"><seg>Раённы гісторыка-краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Раковский сельсовет</seg></tuv>
+      <tuv lang="BE"><seg>Ракаўскі сельсавет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Раница</seg></tuv>
+      <tuv lang="BE"><seg>Раніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ратуша</seg></tuv>
+      <tuv lang="BE"><seg>Ратуша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Редакция газеты "Поставский край"</seg></tuv>
+      <tuv lang="BE"><seg>Рэдакцыя газеты "Пастаўскі край"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Редакция газеты «Витьбичи»</seg></tuv>
+      <tuv lang="BE"><seg>Рэдакцыя газеты «Віцьбічы»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рембыттехника</seg></tuv>
+      <tuv lang="BE"><seg>Рэмбыттэхніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ремонт обуви</seg></tuv>
+      <tuv lang="BE"><seg>Рамонт абутку</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Республиканский полигон для испытаний мобильных машин</seg></tuv>
+      <tuv lang="BE"><seg>Рэспубліканскі палігон для выпрабаванняў мабільных машын</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ресторан "Радуга"</seg></tuv>
+      <tuv lang="BE"><seg>Рэстаран</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ритуальные услуги</seg></tuv>
+      <tuv lang="BE"><seg>Рытуальныя паслугі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РНПЦ неврологии и нейрохирургии</seg></tuv>
+      <tuv lang="BE"><seg>РНПЦ неўралогіі і нейрахірургіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РОВД</seg></tuv>
+      <tuv lang="BE"><seg>РАУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Родная Сторона</seg></tuv>
+      <tuv lang="BE"><seg>[Родны Кут, Родны кут]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Родны кут</seg></tuv>
+      <tuv lang="BE"><seg>Родны кут</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ромбакалея</seg></tuv>
+      <tuv lang="BE"><seg>Ромбакалея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Россь</seg></tuv>
+      <tuv lang="BE"><seg>Рось</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РП-10</seg></tuv>
+      <tuv lang="BE"><seg>РП-10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РП-14</seg></tuv>
+      <tuv lang="BE"><seg>РП-14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РП-58</seg></tuv>
+      <tuv lang="BE"><seg>РП-58</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РП-78</seg></tuv>
+      <tuv lang="BE"><seg>РП-78</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рубикон</seg></tuv>
+      <tuv lang="BE"><seg>Рубікон</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рубин</seg></tuv>
+      <tuv lang="BE"><seg>Рубін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублевский</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублёвский</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублевский №15</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублевский №16</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок</seg></tuv>
+      <tuv lang="BE"><seg>Рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сан Марко</seg></tuv>
+      <tuv lang="BE"><seg>Сан Марка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сарай</seg></tuv>
+      <tuv lang="BE"><seg>Хлеў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свитанок</seg></tuv>
+      <tuv lang="BE"><seg>Свiтанак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свитязь</seg></tuv>
+      <tuv lang="BE"><seg>Свіцязь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свята</seg></tuv>
+      <tuv lang="BE"><seg>Сьвята</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СГ Транс</seg></tuv>
+      <tuv lang="BE"><seg>СГ Транс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сдюшор №1</seg></tuv>
+      <tuv lang="BE"><seg>СДЮШАР №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СДЮШОР №3 г.Бреста (фехтование)</seg></tuv>
+      <tuv lang="BE"><seg>СДЮШАР №3 г.Брэсту (фехтаванне)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельский исполком</seg></tuv>
+      <tuv lang="BE"><seg>Сельскі выканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельсовет</seg></tuv>
+      <tuv lang="BE"><seg>Сельсавет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>сервис Peugeot</seg></tuv>
+      <tuv lang="BE"><seg>Сэрвіс Peugeot</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СИЗО</seg></tuv>
+      <tuv lang="BE"><seg>СІЗА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Симфония праздника</seg></tuv>
+      <tuv lang="BE"><seg>Сімфонія свята</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скидель</seg></tuv>
+      <tuv lang="BE"><seg>Скідзель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Склад ангарного типа</seg></tuv>
+      <tuv lang="BE"><seg>Склад ангарного тыпу</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Склад готовой продукции №1</seg></tuv>
+      <tuv lang="BE"><seg>Склад прадукцыі №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Склад готовой продукции №2</seg></tuv>
+      <tuv lang="BE"><seg>Склад прадукцыі №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скрибовцы</seg></tuv>
+      <tuv lang="BE"><seg>Скрыбаўцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СК Трудовые Резервы</seg></tuv>
+      <tuv lang="BE"><seg>СК Працоўныя рэзервы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славянский</seg></tuv>
+      <tuv lang="BE"><seg>Славянскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сластёна</seg></tuv>
+      <tuv lang="BE"><seg>Ласун</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слоним</seg></tuv>
+      <tuv lang="BE"><seg>Слонім</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слонимский отдел Департамента охраны МВД РБ</seg></tuv>
+      <tuv lang="BE"><seg>Слонімскі аддзел Дэпартамента аховы МУС РБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Служба быта</seg></tuv>
+      <tuv lang="BE"><seg>Служба быту</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слуцк</seg></tuv>
+      <tuv lang="BE"><seg>Слуцк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слуцкая брама</seg></tuv>
+      <tuv lang="BE"><seg>Слуцкая брама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сморгонь</seg></tuv>
+      <tuv lang="BE"><seg>Смаргонь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СнабИндустрия</seg></tuv>
+      <tuv lang="BE"><seg>ЗабІндустрыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечный</seg></tuv>
+      <tuv lang="BE"><seg>Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соседи</seg></tuv>
+      <tuv lang="BE"><seg>Суседи</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Социально-педагогический центр с социальным приютом Первомайского района</seg></tuv>
+      <tuv lang="BE"><seg>Сацыяльна-педагагічны цэнтр з сацыяльным прытулкам Першамайскага раёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спасательная станция</seg></tuv>
+      <tuv lang="BE"><seg>Ратавальная станцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СПА центр Арго</seg></tuv>
+      <tuv lang="BE"><seg>СПА цэнтр Арго</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СП Белсел</seg></tuv>
+      <tuv lang="BE"><seg>СП Белсел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортзал</seg></tuv>
+      <tuv lang="BE"><seg>Спартзала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивно-оздоровительный комплекс</seg></tuv>
+      <tuv lang="BE"><seg>Спартыўна-аздараўленчы комплекс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивный комплекс БГУ «Университетский»</seg></tuv>
+      <tuv lang="BE"><seg>Спарткомплекс БДУ «Універсітэцкі»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивный комплекс БГЭУ</seg></tuv>
+      <tuv lang="BE"><seg>Спартыўны комплекс БДЭУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спорткомплекс "Динамо"</seg></tuv>
+      <tuv lang="BE"><seg>Дынама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спутник</seg></tuv>
+      <tuv lang="BE"><seg>Спадарожнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Станция переливания крови</seg></tuv>
+      <tuv lang="BE"><seg>Станцыя пералівання крыві</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Станция скорой помощи</seg></tuv>
+      <tuv lang="BE"><seg>Станцыя хуткай дапамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Станция юных техников</seg></tuv>
+      <tuv lang="BE"><seg>Станцыя юных тэхнікаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старая мельница</seg></tuv>
+      <tuv lang="BE"><seg>Млын водны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТКБ с опытным производством физико-технического института</seg></tuv>
+      <tuv lang="BE"><seg>СТКБ з доследнай вытворчасцю фізіка-тэхнічнага інстытута</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТО</seg></tuv>
+      <tuv lang="BE"><seg>СТА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТО "Техремсервис"</seg></tuv>
+      <tuv lang="BE"><seg>СТА «Тэхрамсэрвіс»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТО ВитСбытСервис</seg></tuv>
+      <tuv lang="BE"><seg>СТА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая, Магазин.</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая, Крама.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столовая ПГУ</seg></tuv>
+      <tuv lang="BE"><seg>Сталовая ПДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоматологическая поликлиника №13</seg></tuv>
+      <tuv lang="BE"><seg>Стаматалагічная паліклініка №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоматология</seg></tuv>
+      <tuv lang="BE"><seg>Стаматалогія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТО Оптимал-сервис</seg></tuv>
+      <tuv lang="BE"><seg>СТА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стрелецкий капитал</seg></tuv>
+      <tuv lang="BE"><seg>Стралецкі капітал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стройматериалы</seg></tuv>
+      <tuv lang="BE"><seg>[Будаўнічыя матэрыялы, Будматэрыялы]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строймир</seg></tuv>
+      <tuv lang="BE"><seg>Будмір</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суд</seg></tuv>
+      <tuv lang="BE"><seg>Суд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Супермаркет "Рублёвский"</seg></tuv>
+      <tuv lang="BE"><seg>Супермаркет "Рублёўскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сцена</seg></tuv>
+      <tuv lang="BE"><seg>Сцэна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №1</seg></tuv>
+      <tuv lang="BE"><seg>СШ №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №25</seg></tuv>
+      <tuv lang="BE"><seg>СШ №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Таможня</seg></tuv>
+      <tuv lang="BE"><seg>Мытня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Телебашня (244 м)</seg></tuv>
+      <tuv lang="BE"><seg>Тэлевежа (244 м)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Теннисные корты</seg></tuv>
+      <tuv lang="BE"><seg>Тэнісныя корты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Теологический институт Кирилла и Мефодия БГУ</seg></tuv>
+      <tuv lang="BE"><seg>БДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тепличный комбинат</seg></tuv>
+      <tuv lang="BE"><seg>Цяплічны камбінат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Теплопункт</seg></tuv>
+      <tuv lang="BE"><seg>Цеплапункт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Теплоузел</seg></tuv>
+      <tuv lang="BE"><seg>Цеплавузел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Терапевтический корп.</seg></tuv>
+      <tuv lang="BE"><seg>Тэрапеўтычны корп.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Терминал</seg></tuv>
+      <tuv lang="BE"><seg>Тэрмінал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Техосмотр</seg></tuv>
+      <tuv lang="BE"><seg>Тэхагляд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Типография</seg></tuv>
+      <tuv lang="BE"><seg>Друкарня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Товарная биржа</seg></tuv>
+      <tuv lang="BE"><seg>Таварная біржа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Топ</seg></tuv>
+      <tuv lang="BE"><seg>Топ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговое предприятие Базис</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвае прадпрыемства Базіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговые ряды</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвыя рады</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый лицей</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы ліцэй</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый ряд</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы рад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый центр</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП</seg></tuv>
+      <tuv lang="BE"><seg>ТП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-21</seg></tuv>
+      <tuv lang="BE"><seg>ЦП-21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-213</seg></tuv>
+      <tuv lang="BE"><seg>ЦП-213</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-252</seg></tuv>
+      <tuv lang="BE"><seg>ТП-252</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-377</seg></tuv>
+      <tuv lang="BE"><seg>ТП-377</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-418</seg></tuv>
+      <tuv lang="BE"><seg>ТП-418</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-426</seg></tuv>
+      <tuv lang="BE"><seg>ТП-426</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-664</seg></tuv>
+      <tuv lang="BE"><seg>ТП-664</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-75</seg></tuv>
+      <tuv lang="BE"><seg>ЦП-75</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП №105</seg></tuv>
+      <tuv lang="BE"><seg>ТП №105</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Транспортная проходная "Брестгазоаппарат"</seg></tuv>
+      <tuv lang="BE"><seg>Транспартная прахадная "Брэстгазаапарат"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тренажерные залы</seg></tuv>
+      <tuv lang="BE"><seg>Трэнажорныя залы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трибуна</seg></tuv>
+      <tuv lang="BE"><seg>Трыбуна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТРК "Скарб 1"</seg></tuv>
+      <tuv lang="BE"><seg>ТРК "Скарб 1"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТРК "Скарб 2"</seg></tuv>
+      <tuv lang="BE"><seg>ТРК "Скарб 2"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туберкулезный диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Туберкулёзны дыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туберкулёзный диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Туберкулёзны дыспансэр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ "Віталіч"</seg></tuv>
+      <tuv lang="BE"><seg>ТЦ "Віталіч"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ "Европа"</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ "Еўропа"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ "Журавинка"</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ "Журавінка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ "Раковский кирмаш"</seg></tuv>
+      <tuv lang="BE"><seg>Ракаўскі кірмаш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ «Кирмаш»</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ «Кірмаш»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ «Континент»</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ «Кантынент»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ «Титан»</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ «Тытан»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Европа</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ Еўропа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Зодиак</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ Задыяк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Пассаж</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ Пасаж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Стрелец</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ «Стралец»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УБОП</seg></tuv>
+      <tuv lang="BE"><seg>УБАЗ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УВД</seg></tuv>
+      <tuv lang="BE"><seg>УУС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Ганны</seg></tuv>
+      <tuv lang="BE"><seg>У Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уездная больница 1910г руины</seg></tuv>
+      <tuv lang="BE"><seg>Павятовая лекарня 1910г зруйнавана</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УЗ "11-я городская детская поликлиника"</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ "11-я гарадская дзіцячая паліклініка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УЗ "28-я городская поликлиника"</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ "28-я гарадская паліклініка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УЗ "2-я городская клиническая больница"</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ "2-я гарадская клінічная бальніца"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УЗ "8-я городская поликлиника"</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ "8-я гарадская паліклініка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УЗ «Минский консультационно-диагностический центр»</seg></tuv>
+      <tuv lang="BE"><seg>УАЗ «Мінскі кансультацыйна-дыягнастычны цэнтр»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УКГБ по Вит. обл.</seg></tuv>
+      <tuv lang="BE"><seg>УКДБ па Віцебскай вобл.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У кургана</seg></tuv>
+      <tuv lang="BE"><seg>У кургана</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Умывальники</seg></tuv>
+      <tuv lang="BE"><seg>Умывальнікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универмаг</seg></tuv>
+      <tuv lang="BE"><seg>Універмаг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универмаг Слуцк</seg></tuv>
+      <tuv lang="BE"><seg>Універмаг Слуцк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам</seg></tuv>
+      <tuv lang="BE"><seg>[Универсам, Універсам, Чарнобыльски, універсам]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам "Бешенковичский"</seg></tuv>
+      <tuv lang="BE"><seg>Універсам "Бешанковіцкі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам №40</seg></tuv>
+      <tuv lang="BE"><seg>Універсам №40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УО "Брестский государственный политехнический колледж"</seg></tuv>
+      <tuv lang="BE"><seg>УА "Брэсцкі дзяржаўны політэхнічны каледж"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УП "Брестоблсельстрой"</seg></tuv>
+      <tuv lang="BE"><seg>УП "Брэстаблсельбуд"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УП "Гродномежрайгаз"</seg></tuv>
+      <tuv lang="BE"><seg>Гаргаз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>У Петрухи</seg></tuv>
+      <tuv lang="BE"><seg>У Пятрухі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УП ЖКХ «Витрайкомхоз»</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскрайкамгас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УПК</seg></tuv>
+      <tuv lang="BE"><seg>ВВК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Управление ГАИ УВД Могилевского облисполкома</seg></tuv>
+      <tuv lang="BE"><seg>ДАІ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усадебный дом (дерев.)</seg></tuv>
+      <tuv lang="BE"><seg>Сядзібны дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усадьба</seg></tuv>
+      <tuv lang="BE"><seg>Сядзіба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усадьба "Алекс"</seg></tuv>
+      <tuv lang="BE"><seg>Сядзіба "Алекс"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Учебный центр</seg></tuv>
+      <tuv lang="BE"><seg>Вучэбны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Училище олимпийского резерва</seg></tuv>
+      <tuv lang="BE"><seg>[Вучылішча алімпійскага рэзерву, Спартшкола]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Учреждение здравоохранения «Дом ребёнка № 1»</seg></tuv>
+      <tuv lang="BE"><seg>Установа аховы здароў'я «Дом дзіця №1»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ФАП</seg></tuv>
+      <tuv lang="BE"><seg>ФАП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ферма</seg></tuv>
+      <tuv lang="BE"><seg>Ферма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фестивальный</seg></tuv>
+      <tuv lang="BE"><seg>Фестывальны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фея</seg></tuv>
+      <tuv lang="BE"><seg>Фея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Физ.кабинет</seg></tuv>
+      <tuv lang="BE"><seg>Фіз. кабінет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ФОК</seg></tuv>
+      <tuv lang="BE"><seg>ФАК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ФОК "Белдорстрой"</seg></tuv>
+      <tuv lang="BE"><seg>ФАК "Белдарбуд"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фортэкс - водные технологии</seg></tuv>
+      <tuv lang="BE"><seg>Фортэкс - водныя тэхналогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фото на документы</seg></tuv>
+      <tuv lang="BE"><seg>Фота на дакументы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Химик</seg></tuv>
+      <tuv lang="BE"><seg>Хімік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Химико-токсикологическая лаб-я</seg></tuv>
+      <tuv lang="BE"><seg>Хіміка-таксікалагічная лаб.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Химчистка</seg></tuv>
+      <tuv lang="BE"><seg>Хімчыстка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хирургическое отделение</seg></tuv>
+      <tuv lang="BE"><seg>Хірургічнае аддзяленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хлеб</seg></tuv>
+      <tuv lang="BE"><seg>Хлеб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хлебозавод</seg></tuv>
+      <tuv lang="BE"><seg>Хлебазавод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хозкорпус</seg></tuv>
+      <tuv lang="BE"><seg>Гаспадарчы корпус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хозторг</seg></tuv>
+      <tuv lang="BE"><seg>Гаспадарчы гандаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хозяйственный суд Брестской области</seg></tuv>
+      <tuv lang="BE"><seg>Гаспадарчы суд Брэсцкай вобласці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Холм</seg></tuv>
+      <tuv lang="BE"><seg>Холм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Художественный музей</seg></tuv>
+      <tuv lang="BE"><seg>Мастацкі музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветы</seg></tuv>
+      <tuv lang="BE"><seg>Кветкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная больница</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная бальница</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная геофизическая экспедиция</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная геафізічная экспедыцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная детская поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная дзіцячая паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная научно-исследовательская лаборатория</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная навукова-даследчая лабараторыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная районная библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная раённая бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная районная больница</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная раённая бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная станция скорой помощи</seg></tuv>
+      <tuv lang="BE"><seg>Хуткая дапамога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральный Дом офицеров</seg></tuv>
+      <tuv lang="BE"><seg>Дом Афіцэраў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральный спортивный комплекс</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральны спартыўны комплекс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр внешкольной работы Октябрьского р-на</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр пазашкольнай працы Кастрычніцкага раёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр гигиены и эпидемиологии</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр гігіены і эпідэміялогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр занятости</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр занятасці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр соц. обслуживания Московского района</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр сац. абслугоўвання насельніцтва Маскоўскага раёну</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центрум</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтрум</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цех деревообработки</seg></tuv>
+      <tuv lang="BE"><seg>Цэх дрэваапрацоўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цех ЖБИ</seg></tuv>
+      <tuv lang="BE"><seg>Цэх ЖБВ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цирк</seg></tuv>
+      <tuv lang="BE"><seg>Цырк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП</seg></tuv>
+      <tuv lang="BE"><seg>[ЦТП, ЦЦП]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП №13</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП № 17</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП № 17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП № 24</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП № 24</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП №27</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП №27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП № 33</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦТП №715</seg></tuv>
+      <tuv lang="BE"><seg>ЦЦП №715</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цум</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная Ўнівэрсальная крама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня кладбищенская</seg></tuv>
+      <tuv lang="BE"><seg>Капліца могілкавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня Святой Анны</seg></tuv>
+      <tuv lang="BE"><seg>Капліца Святой Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня-усыпальница Альбрехта Заборского</seg></tuv>
+      <tuv lang="BE"><seg>Капліца-пахавальня Альбрыхта Заборскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чаусский музей</seg></tuv>
+      <tuv lang="BE"><seg>Гісторыка-краязнаўчы музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чашникский райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Чашніцкі райвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черлёна</seg></tuv>
+      <tuv lang="BE"><seg>Чарлёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЧТПУП "МЕБЕЛЬОПТИМА"</seg></tuv>
+      <tuv lang="BE"><seg>ПГВУП "МЭБЛЯОПЦІМА"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шали</seg></tuv>
+      <tuv lang="BE"><seg>Шали</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шарпиловский детский сад - средняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Шарпілаўскі дзіцячы сад - сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Швейная фабрика Свитанак</seg></tuv>
+      <tuv lang="BE"><seg>Швейная фабрыка Світанак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шиномонтаж</seg></tuv>
+      <tuv lang="BE"><seg>Шынамантаж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа - Интернат</seg></tuv>
+      <tuv lang="BE"><seg>Школа - Інтэрнат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>Школа мастацтваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>Школа Мастацваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Штаб</seg></tuv>
+      <tuv lang="BE"><seg>Штаб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Штаб ВЧ 04147</seg></tuv>
+      <tuv lang="BE"><seg>Штаб ВЧ 04147</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЭгидаБел</seg></tuv>
+      <tuv lang="BE"><seg>ЭгідаБел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Экспедиция</seg></tuv>
+      <tuv lang="BE"><seg>Экспедыцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Электроподстанция</seg></tuv>
+      <tuv lang="BE"><seg>Электрападстанцыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Электрощитовая</seg></tuv>
+      <tuv lang="BE"><seg>Электрашчытавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эндокринологический диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Эндакрыналагічны дыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эндоскопический центр</seg></tuv>
+      <tuv lang="BE"><seg>Эндаскапічны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энергия</seg></tuv>
+      <tuv lang="BE"><seg>Энергія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>эстрадная площадка</seg></tuv>
+      <tuv lang="BE"><seg>Эстрадная пляцоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южный</seg></tuv>
+      <tuv lang="BE"><seg>Паўднёвы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юность</seg></tuv>
+      <tuv lang="BE"><seg>Юнацтва</seg></tuv>
+    </tu>
+  </body></tmx>

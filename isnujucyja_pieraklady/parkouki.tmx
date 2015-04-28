@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Cтоянка новых автомобилей</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка новых аўтамабіляў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Paid long term parking</seg></tuv>
+      <tuv lang="BE"><seg>Paid long term parking</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Paid short term parking</seg></tuv>
+      <tuv lang="BE"><seg>Paid short term parking</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БЛВ</seg></tuv>
+      <tuv lang="BE"><seg>БЛВ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостевая стоянка</seg></tuv>
+      <tuv lang="BE"><seg>Гасцявая стаянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГСК 36</seg></tuv>
+      <tuv lang="BE"><seg>ГБК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружба</seg></tuv>
+      <tuv lang="BE"><seg>Дружба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комиссионная продажа авто</seg></tuv>
+      <tuv lang="BE"><seg>Камісійны продаж аўто</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Место для отдыха</seg></tuv>
+      <tuv lang="BE"><seg>Месца для адпачынку</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Многоуровневая парковка</seg></tuv>
+      <tuv lang="BE"><seg>Шматузроўневая паркоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парковка</seg></tuv>
+      <tuv lang="BE"><seg>Паркоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Перехватывающая автостоянка №45</seg></tuv>
+      <tuv lang="BE"><seg>Перахопліваючыя аўтастаянка №45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Платная</seg></tuv>
+      <tuv lang="BE"><seg>Платная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Платная "Южная"</seg></tuv>
+      <tuv lang="BE"><seg>Платная «Паўднёвая»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ПОРТ паркинг</seg></tuv>
+      <tuv lang="BE"><seg>ПОРТ паркінг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Служебная</seg></tuv>
+      <tuv lang="BE"><seg>Службовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоянка "Стрелецкий капитал"</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка Стралецкі капітал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоянка БПС-сбербанк</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка БПС-Сбербанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоянка Дионис</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка Дыёніс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоянка европарк</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка Еўрапарку</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стоянка коралл</seg></tuv>
+      <tuv lang="BE"><seg>Стаянка Карал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Таможенное оформление</seg></tuv>
+      <tuv lang="BE"><seg>Мытнае афармленне</seg></tuv>
+    </tu>
+  </body></tmx>

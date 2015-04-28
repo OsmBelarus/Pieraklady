@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Алеся</seg></tuv>
+      <tuv lang="BE"><seg>Алеся</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненский государственный городской социально-педагогический центр</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенскі дзяржаўны гарадцкі сацыяльна-педагагічны цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 100</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 101</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 101</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 102</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 102</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 104</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 104</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 105</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 105</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 106</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 106</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 111</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 111</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 12</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 14</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 15</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 16</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 18</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 2</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 20</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 21</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №22</seg></tuv>
+      <tuv lang="BE"><seg>[Д/сад №22, Дз/сад №22]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 23</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 25 «Родничок»</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 26</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 26</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 27</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 28</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 29</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 29</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 29 БЖД</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 29 БЧ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 31</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 32</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №33 БЖД</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №33 БЧ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 34</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 35</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 35</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 39</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №40</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 41</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 41</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 42</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 42</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 42 БЖД</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 42 БЧ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №44</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №44</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 45</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 46</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 46</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 49</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 49</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 50</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 50</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 51</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 51</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 52</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 52</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 53</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 53</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №56</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №56</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 58</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 58</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №59</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №59</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 6</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 61</seg></tuv>
+      <tuv lang="BE"><seg>Д/сад № 61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 62</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №63</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №63</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 64</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 64</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 65</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 65</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 67</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 67</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 69</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 69</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 7</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 70</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 70</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 72</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 72</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №74</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 75</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 75</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 76</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 76</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 78</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 78</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 79</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 79</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 8</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 80</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 80</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 81</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 81</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 84</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 84</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 85</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 85</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 86</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 86</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 88</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 88</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 89</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 89</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 9</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 90</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 90</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 91</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 91</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 92 БЖД</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 92 БЧ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 93</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 93</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 94</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 94</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 95</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 95</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 96</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 96</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 98</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 98</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад № 99</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад № 99</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №1</seg></tuv>
+      <tuv lang="BE"><seg>д/с №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №130</seg></tuv>
+      <tuv lang="BE"><seg>д/с №130</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №215</seg></tuv>
+      <tuv lang="BE"><seg>д/с №215</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №296</seg></tuv>
+      <tuv lang="BE"><seg>д/с №296</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №308</seg></tuv>
+      <tuv lang="BE"><seg>д/с №308</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №313</seg></tuv>
+      <tuv lang="BE"><seg>д/с №313</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №33</seg></tuv>
+      <tuv lang="BE"><seg>дз/сад №33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №339</seg></tuv>
+      <tuv lang="BE"><seg>д/с №339</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №342</seg></tuv>
+      <tuv lang="BE"><seg>д/с №342</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №347</seg></tuv>
+      <tuv lang="BE"><seg>д/с №347</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №361</seg></tuv>
+      <tuv lang="BE"><seg>д/с №361</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №383</seg></tuv>
+      <tuv lang="BE"><seg>д/с №383</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №395</seg></tuv>
+      <tuv lang="BE"><seg>д/с №395</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №397</seg></tuv>
+      <tuv lang="BE"><seg>д/с №397</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №399</seg></tuv>
+      <tuv lang="BE"><seg>д/с №399</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №414</seg></tuv>
+      <tuv lang="BE"><seg>д/с №414</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №430</seg></tuv>
+      <tuv lang="BE"><seg>д/с №430</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №453</seg></tuv>
+      <tuv lang="BE"><seg>д/с №453</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №460</seg></tuv>
+      <tuv lang="BE"><seg>д/с №460</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №462</seg></tuv>
+      <tuv lang="BE"><seg>№462</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №466</seg></tuv>
+      <tuv lang="BE"><seg>д/с №466</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №472</seg></tuv>
+      <tuv lang="BE"><seg>д/с №472</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №486</seg></tuv>
+      <tuv lang="BE"><seg>д/с №486</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №495</seg></tuv>
+      <tuv lang="BE"><seg>д/с №495</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №497</seg></tuv>
+      <tuv lang="BE"><seg>д/с №497</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №498</seg></tuv>
+      <tuv lang="BE"><seg>д/с №498</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №500</seg></tuv>
+      <tuv lang="BE"><seg>д/с №500</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №508</seg></tuv>
+      <tuv lang="BE"><seg>д/с №508</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №517</seg></tuv>
+      <tuv lang="BE"><seg>д/с №517</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №520</seg></tuv>
+      <tuv lang="BE"><seg>д/с №520</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №523</seg></tuv>
+      <tuv lang="BE"><seg>д/с №523</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №524</seg></tuv>
+      <tuv lang="BE"><seg>д/с №524</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №525</seg></tuv>
+      <tuv lang="BE"><seg>д/с №525</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №539</seg></tuv>
+      <tuv lang="BE"><seg>д/с №539</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №542</seg></tuv>
+      <tuv lang="BE"><seg>д/с №542</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №545</seg></tuv>
+      <tuv lang="BE"><seg>д/с №545</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №548</seg></tuv>
+      <tuv lang="BE"><seg>д/с №548</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №550</seg></tuv>
+      <tuv lang="BE"><seg>д/с №550</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №551</seg></tuv>
+      <tuv lang="BE"><seg>д/с №551</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №552</seg></tuv>
+      <tuv lang="BE"><seg>д/с №552</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №568</seg></tuv>
+      <tuv lang="BE"><seg>д/с №568</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №7</seg></tuv>
+      <tuv lang="BE"><seg>д/с №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №94</seg></tuv>
+      <tuv lang="BE"><seg>д/с №94</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дет. сад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дет. сад №3</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детсад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы садок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад-школа</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад-школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад-ясли №2</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад-яслі №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №1</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 10</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №101</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №101</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №102</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №102</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №104</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №104</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №11</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 11</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 12</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 13</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №14</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №18</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №19</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №20</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №22</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 22</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №24</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №24</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №25</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 26</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 26</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 26 "Чароўная хатка"</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 26 "Чароўная хатка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №27</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №28</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 29</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 29</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №3</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 3</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский Сад № 31</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №32</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 33</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 34</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №37</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №38</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №39</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 4</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №40</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №42</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №42</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 42</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №42</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №43</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №43</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №44</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №44</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №45</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №47</seg></tuv>
+      <tuv lang="BE"><seg>Дзiцячы сад №47</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 4 ТЭЦ</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 4 ЦЭЦ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №5</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 50</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 50</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №52</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №52</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №54</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №54</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №55</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №55</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №56</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №56</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №57</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №57</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №58</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №58</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 5 Нафтан</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №56</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №6</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 6</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №60</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №60</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №61</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №62</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №63</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №63</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №64</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №64</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №65</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №65</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №66</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №66</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №67</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №67</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №69</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №69</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №7</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 7</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №70</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №70</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №71</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №71</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №72</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №72</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №73</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №73</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №74</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №75</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №75</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №77</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №77</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №78</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №78</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №79</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №79</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 8</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №80</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №80</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №81</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №81</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №82</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №82</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №83</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №83</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №84</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №84</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №85</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №85</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №86</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №86</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №87</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №87</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №88</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №88</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №89</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №89</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 9</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №90</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №90</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №91</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №91</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №92</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №92</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №93</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №93</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №94</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №94</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №95</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №95</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 96</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 96</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №97</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №97</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №98</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №98</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №99</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №99</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад № 9 Нефтестрой</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзіцячы сад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дошкольный центр развития ребёнка</seg></tuv>
+      <tuv lang="BE"><seg>Дашкольны цэнтр развіцця дзіцяці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дошкольный центр развития ребёнка № 2</seg></tuv>
+      <tuv lang="BE"><seg>Дашкольны цэнтр развіцця дзіцяці № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дошкольный центр развития ребёнка № 4</seg></tuv>
+      <tuv lang="BE"><seg>Дашкольны цэнтр развіцця дзіцяці № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубок</seg></tuv>
+      <tuv lang="BE"><seg>Дубок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная дверца</seg></tuv>
+      <tuv lang="BE"><seg>Зялёная дзверца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Начальная школа №31</seg></tuv>
+      <tuv lang="BE"><seg>Пачатковая школа №31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сад-ясли №27</seg></tuv>
+      <tuv lang="BE"><seg>Сад-яслі №27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сад-ясли №72</seg></tuv>
+      <tuv lang="BE"><seg>Сад-яслі №72</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Специализированный дом ребёнка</seg></tuv>
+      <tuv lang="BE"><seg>Спецыялізаваны дом дзіцяці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр коррекционно-развивающего обучения</seg></tuv>
+      <tuv lang="BE"><seg>[Віцебскі дзяржаўны гарадскі ЦКРНіР, Карэкцыйны цэнтр, Цэнтр карэкцыйна-развіваючага навучання]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №3</seg></tuv>
+      <tuv lang="BE"><seg>Школа №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>я/с №34</seg></tuv>
+      <tuv lang="BE"><seg>яслі/сад №34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад № 103</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад № 103</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №15</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №17</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №21</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №25</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №28</seg></tuv>
+      <tuv lang="BE"><seg>Ясли-сад №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №3</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад № 3</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад № 37</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад № 37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №44</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №44</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №47</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №47</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №54</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №54</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №59</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №59</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №62</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №68</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №68</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №70</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №70</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №74</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №8</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли №1</seg></tuv>
+      <tuv lang="BE"><seg>Яслі №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№37</seg></tuv>
+      <tuv lang="BE"><seg>№37</seg></tuv>
+    </tu>
+  </body></tmx>

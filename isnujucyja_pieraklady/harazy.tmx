@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>437-449</seg></tuv>
+      <tuv lang="BE"><seg>437-449</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Боксы</seg></tuv>
+      <tuv lang="BE"><seg>Боксы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гаражи</seg></tuv>
+      <tuv lang="BE"><seg>Гаражы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гаражный кооператив</seg></tuv>
+      <tuv lang="BE"><seg>Гаражны кааператыў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГСПК "Орлиный"</seg></tuv>
+      <tuv lang="BE"><seg>ГБСК "Арліны"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МЧС</seg></tuv>
+      <tuv lang="BE"><seg>МНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТО</seg></tuv>
+      <tuv lang="BE"><seg>СТА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шиномонтаж</seg></tuv>
+      <tuv lang="BE"><seg>Шынамантаж</seg></tuv>
+    </tu>
+  </body></tmx>

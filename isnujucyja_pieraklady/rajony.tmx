@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Барановичи</seg></tuv>
+      <tuv lang="BE"><seg>Баранавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Барановичский район</seg></tuv>
+      <tuv lang="BE"><seg>Баранавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белыничский район</seg></tuv>
+      <tuv lang="BE"><seg>Бялыніцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березинский район</seg></tuv>
+      <tuv lang="BE"><seg>Бярэзінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берёзовский район</seg></tuv>
+      <tuv lang="BE"><seg>Бярозаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берестовицкий район</seg></tuv>
+      <tuv lang="BE"><seg>Бераставіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бешенковичский район</seg></tuv>
+      <tuv lang="BE"><seg>Бешанковіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бобруйск</seg></tuv>
+      <tuv lang="BE"><seg>Бабруйск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бобруйский район</seg></tuv>
+      <tuv lang="BE"><seg>Бабруйскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Борисовский район</seg></tuv>
+      <tuv lang="BE"><seg>Барысаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брагинский район</seg></tuv>
+      <tuv lang="BE"><seg>Брагінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Браславский район</seg></tuv>
+      <tuv lang="BE"><seg>Браслаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брест</seg></tuv>
+      <tuv lang="BE"><seg>Брэст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский район</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Буда-Кошелёвский район</seg></tuv>
+      <tuv lang="BE"><seg>Буда-Кашалёўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Быховский район</seg></tuv>
+      <tuv lang="BE"><seg>Быхаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верхнедвинский район</seg></tuv>
+      <tuv lang="BE"><seg>Верхнядзвінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветковский район</seg></tuv>
+      <tuv lang="BE"><seg>Веткаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вилейский район</seg></tuv>
+      <tuv lang="BE"><seg>Вілейскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебск</seg></tuv>
+      <tuv lang="BE"><seg>Віцебск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебский район</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волковысский район</seg></tuv>
+      <tuv lang="BE"><seg>Ваўкавыскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воложинский район</seg></tuv>
+      <tuv lang="BE"><seg>Валожынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вороновский район</seg></tuv>
+      <tuv lang="BE"><seg>Воранаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ганцевичский район</seg></tuv>
+      <tuv lang="BE"><seg>Ганцавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Глубокский район</seg></tuv>
+      <tuv lang="BE"><seg>Глыбоцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Глусский район</seg></tuv>
+      <tuv lang="BE"><seg>Глускі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомель</seg></tuv>
+      <tuv lang="BE"><seg>Гомель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельский район</seg></tuv>
+      <tuv lang="BE"><seg>Гомельскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горецкий район</seg></tuv>
+      <tuv lang="BE"><seg>Горацкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городокский район</seg></tuv>
+      <tuv lang="BE"><seg>Гарадоцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненский район</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродно</seg></tuv>
+      <tuv lang="BE"><seg>Гродна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинский район</seg></tuv>
+      <tuv lang="BE"><seg>Дзяржынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Добрушский район</seg></tuv>
+      <tuv lang="BE"><seg>Добрушскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Докшицкий район</seg></tuv>
+      <tuv lang="BE"><seg>Докшыцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дрибинский район</seg></tuv>
+      <tuv lang="BE"><seg>Дрыбінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дрогичинский район</seg></tuv>
+      <tuv lang="BE"><seg>Драгічынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубровенский район</seg></tuv>
+      <tuv lang="BE"><seg>Дубровенскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дятловский район</seg></tuv>
+      <tuv lang="BE"><seg>Дзятлаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ельский район</seg></tuv>
+      <tuv lang="BE"><seg>Ельскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жабинковский район</seg></tuv>
+      <tuv lang="BE"><seg>Жабінкаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Житковичский район</seg></tuv>
+      <tuv lang="BE"><seg>Жыткавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жлобинский район</seg></tuv>
+      <tuv lang="BE"><seg>Жлобінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жодино</seg></tuv>
+      <tuv lang="BE"><seg>Жодзіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зельвенский район</seg></tuv>
+      <tuv lang="BE"><seg>Зэльвенскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивановский район</seg></tuv>
+      <tuv lang="BE"><seg>Іванаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивацевичский район</seg></tuv>
+      <tuv lang="BE"><seg>Івацэвіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивьевский район</seg></tuv>
+      <tuv lang="BE"><seg>Іўеўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калинковичский район</seg></tuv>
+      <tuv lang="BE"><seg>Калінкавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменецкий район</seg></tuv>
+      <tuv lang="BE"><seg>Камянецкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кировский район</seg></tuv>
+      <tuv lang="BE"><seg>Кіраўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клецкий район</seg></tuv>
+      <tuv lang="BE"><seg>Клецкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Климовичский район</seg></tuv>
+      <tuv lang="BE"><seg>Клімавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кличевский район</seg></tuv>
+      <tuv lang="BE"><seg>Клічаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кобринский район</seg></tuv>
+      <tuv lang="BE"><seg>Кобрынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Копыльский район</seg></tuv>
+      <tuv lang="BE"><seg>Капыльскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кореличский район</seg></tuv>
+      <tuv lang="BE"><seg>Карэліцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кормянский район</seg></tuv>
+      <tuv lang="BE"><seg>Кармянскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костюковичский район</seg></tuv>
+      <tuv lang="BE"><seg>Касцюковіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краснопольский район</seg></tuv>
+      <tuv lang="BE"><seg>Краснапольскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кричевский район</seg></tuv>
+      <tuv lang="BE"><seg>Крычаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Круглянский район</seg></tuv>
+      <tuv lang="BE"><seg>Круглянскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крупский район</seg></tuv>
+      <tuv lang="BE"><seg>Крупскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лельчицкий район</seg></tuv>
+      <tuv lang="BE"><seg>Лельчыцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лепельский район</seg></tuv>
+      <tuv lang="BE"><seg>Лепельскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лидский район</seg></tuv>
+      <tuv lang="BE"><seg>Лідскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лиозненский район</seg></tuv>
+      <tuv lang="BE"><seg>Лёзненскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Логойский район</seg></tuv>
+      <tuv lang="BE"><seg>Лагойскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лоевский район</seg></tuv>
+      <tuv lang="BE"><seg>Лоеўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лунинецкий район</seg></tuv>
+      <tuv lang="BE"><seg>Лунінецкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любанский район</seg></tuv>
+      <tuv lang="BE"><seg>Любанскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ляховичский район</seg></tuv>
+      <tuv lang="BE"><seg>Ляхавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малоритский район</seg></tuv>
+      <tuv lang="BE"><seg>Маларыцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минский район</seg></tuv>
+      <tuv lang="BE"><seg>Мінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миорский район</seg></tuv>
+      <tuv lang="BE"><seg>Міёрскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могилёв</seg></tuv>
+      <tuv lang="BE"><seg>Магілёў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могилёвский район</seg></tuv>
+      <tuv lang="BE"><seg>Магілёўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырский район</seg></tuv>
+      <tuv lang="BE"><seg>Мазырскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодечненский район</seg></tuv>
+      <tuv lang="BE"><seg>Маладзечанскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостовский район</seg></tuv>
+      <tuv lang="BE"><seg>Мастоўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мстиславский район</seg></tuv>
+      <tuv lang="BE"><seg>Мсціслаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мядельский район</seg></tuv>
+      <tuv lang="BE"><seg>Мядзельскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Наровлянский район</seg></tuv>
+      <tuv lang="BE"><seg>Нараўлянскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Несвижский район</seg></tuv>
+      <tuv lang="BE"><seg>Нясвіжскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новогрудский район</seg></tuv>
+      <tuv lang="BE"><seg>Навагрудскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новополоцк</seg></tuv>
+      <tuv lang="BE"><seg>Новаполацк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский район</seg></tuv>
+      <tuv lang="BE"><seg>Акцябрскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оршанский район</seg></tuv>
+      <tuv lang="BE"><seg>Аршанскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осиповичский район</seg></tuv>
+      <tuv lang="BE"><seg>Асіповіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островецкий район</seg></tuv>
+      <tuv lang="BE"><seg>Астравецкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянский район</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Петриковский район</seg></tuv>
+      <tuv lang="BE"><seg>Петрыкаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинск</seg></tuv>
+      <tuv lang="BE"><seg>Пінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинский район</seg></tuv>
+      <tuv lang="BE"><seg>Пінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий район</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поставский район</seg></tuv>
+      <tuv lang="BE"><seg>Пастаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пружанский район</seg></tuv>
+      <tuv lang="BE"><seg>Пружанскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пуховичский район</seg></tuv>
+      <tuv lang="BE"><seg>Пухавіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речицкий район</seg></tuv>
+      <tuv lang="BE"><seg>Рэчыцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рогачёвский район</seg></tuv>
+      <tuv lang="BE"><seg>Рагачоўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Россонский район</seg></tuv>
+      <tuv lang="BE"><seg>Расонскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлогорский район</seg></tuv>
+      <tuv lang="BE"><seg>Светлагорскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свислочский район</seg></tuv>
+      <tuv lang="BE"><seg>Свіслацкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сенненский район</seg></tuv>
+      <tuv lang="BE"><seg>Сенненскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славгородский район</seg></tuv>
+      <tuv lang="BE"><seg>Слаўгарадскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слонимский район</seg></tuv>
+      <tuv lang="BE"><seg>Слонімскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слуцкий район</seg></tuv>
+      <tuv lang="BE"><seg>Слуцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смолевичский район</seg></tuv>
+      <tuv lang="BE"><seg>Смалявіцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сморгонский район</seg></tuv>
+      <tuv lang="BE"><seg>Смаргонскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солигорский район</seg></tuv>
+      <tuv lang="BE"><seg>Салігорскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стародорожский район</seg></tuv>
+      <tuv lang="BE"><seg>Старадарожскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столбцовский район</seg></tuv>
+      <tuv lang="BE"><seg>Стаўбцоўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столинский район</seg></tuv>
+      <tuv lang="BE"><seg>Столінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Толочинский район</seg></tuv>
+      <tuv lang="BE"><seg>Талачынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Узденский район</seg></tuv>
+      <tuv lang="BE"><seg>Уздзенскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ушачский район</seg></tuv>
+      <tuv lang="BE"><seg>Ушацкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хойникский район</seg></tuv>
+      <tuv lang="BE"><seg>Хойніцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хотимский район</seg></tuv>
+      <tuv lang="BE"><seg>Хоцімскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чаусский район</seg></tuv>
+      <tuv lang="BE"><seg>Чавускі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чашникский район</seg></tuv>
+      <tuv lang="BE"><seg>Чашніцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Червенский район</seg></tuv>
+      <tuv lang="BE"><seg>Чэрвеньскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чериковский район</seg></tuv>
+      <tuv lang="BE"><seg>Чэрыкаўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чечерский район</seg></tuv>
+      <tuv lang="BE"><seg>Чачэрскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шарковщинский район</seg></tuv>
+      <tuv lang="BE"><seg>Шаркаўшчынскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шкловский район</seg></tuv>
+      <tuv lang="BE"><seg>Шклоўскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шумилинский район</seg></tuv>
+      <tuv lang="BE"><seg>Шумілінскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щучинский район</seg></tuv>
+      <tuv lang="BE"><seg>Шчучынскі раён</seg></tuv>
+    </tu>
+  </body></tmx>

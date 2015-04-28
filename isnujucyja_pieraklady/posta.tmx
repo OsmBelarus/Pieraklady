@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Белпочта</seg></tuv>
+      <tuv lang="BE"><seg>Белпошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белтелеком</seg></tuv>
+      <tuv lang="BE"><seg>Белтэлекам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берестовицкий районный узел почтовой связи</seg></tuv>
+      <tuv lang="BE"><seg>Бераставіцкі раённы вузел паштовай сувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бизнес центр "Порт"</seg></tuv>
+      <tuv lang="BE"><seg>Бізнес цэнтр "Порт"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брест 22</seg></tuv>
+      <tuv lang="BE"><seg>Брэст 22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский филиал РУП «Белпочта»</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі філіял РУП "Белпошта"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Главпочтампт</seg></tuv>
+      <tuv lang="BE"><seg>[Галоўпаштамт, Паштамт]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Главпочтамт</seg></tuv>
+      <tuv lang="BE"><seg>Галоўпаштамт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гурки</seg></tuv>
+      <tuv lang="BE"><seg>Гуркі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Докшицкий районный узел почтовой связи</seg></tuv>
+      <tuv lang="BE"><seg>Докшыцкі раённы вузел паштовай сувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колодищи-2</seg></tuv>
+      <tuv lang="BE"><seg>Калодзішчы-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оршанский РУПС</seg></tuv>
+      <tuv lang="BE"><seg>Аршанскі РВПС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОС Раковичи</seg></tuv>
+      <tuv lang="BE"><seg>АС Ракавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи "Колодищи-1"</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне паштовай сувязі "Калодзішчы-1"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи «Заречье»</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне паштовай сувязі «Зарэчча»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №1</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне пачтовай сувязі №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №11</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне паштовай сувязі №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №134</seg></tuv>
+      <tuv lang="BE"><seg>Белпошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №136</seg></tuv>
+      <tuv lang="BE"><seg>Белпошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №14</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне пачтовай сувязі №14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №140</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне паштовай сувязі №140</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №15</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне паштовай сувязі №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение почтовой связи №20</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне пачтовай сувязі №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение связи 40</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне сувязі 40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение связи №114</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне сувязі №114</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почта</seg></tuv>
+      <tuv lang="BE"><seg>Пошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почтовое отделение</seg></tuv>
+      <tuv lang="BE"><seg>Паштовае аддзяленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почтовое Отделение</seg></tuv>
+      <tuv lang="BE"><seg>Паштовае аддзяленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почтовое отделение Брест-13</seg></tuv>
+      <tuv lang="BE"><seg>Паштовае аддзяленне Брэст-13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пошта</seg></tuv>
+      <tuv lang="BE"><seg>Пошта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Толочинский районный узел почтовой связи</seg></tuv>
+      <tuv lang="BE"><seg>Талачынскі раённы вузел паштовай сувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Узел почтовой связи</seg></tuv>
+      <tuv lang="BE"><seg>Чашніцкі раённы вузел паштовай сувязі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральное отделение связи</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральнае аддзяленне сувязі</seg></tuv>
+    </tu>
+  </body></tmx>

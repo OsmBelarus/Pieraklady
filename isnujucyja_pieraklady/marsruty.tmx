@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Amsterdam - Moscow</seg></tuv>
+      <tuv lang="BE"><seg>Амстэрдам - Масква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Cеть магистральных автодорог РБ</seg></tuv>
+      <tuv lang="BE"><seg>Сетка магістральных аўтадарог РБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>International European route network</seg></tuv>
+      <tuv lang="BE"><seg>Сетка міжнародных еўрапейскіх аўтадарог</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Praha - Moskva</seg></tuv>
+      <tuv lang="BE"><seg>Прага - Масква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Rīga - Minsk</seg></tuv>
+      <tuv lang="BE"><seg>Рыга - Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Warszawa - Moskva</seg></tuv>
+      <tuv lang="BE"><seg>Варшава - Масква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АВ Московский - НИИ Онкологии</seg></tuv>
+      <tuv lang="BE"><seg>АВ Маскоўскі - НДІ Анкалогіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ав Московский - Рогачевская</seg></tuv>
+      <tuv lang="BE"><seg>ав Маскоўскі - Рагачоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АВ Московский - Тубдиспансер</seg></tuv>
+      <tuv lang="BE"><seg>АВ Маскоўскі - Тубдыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: Микрорайон Красноармейский — до Центрального Универсама</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: Мікрараён Чырвонаармейскі — да Цэнтральнага Универсама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: Микрорайон Красноармейский — Шейбаки</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: Мікрараён Чырвонаармейскі — Шайбакі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: от Книжного Мира — Микрорайон Красноармейский</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: ад Кніжнага Міру — Мікрараён Чырвонаармейскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: от Центрального Универсама — Шейбаки</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: ад Цэнтральнага Універсама — Шайбакі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: Шейбаки — до Книжного Мира</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: Шайбакі — да Кніжнага Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №1: Шейбаки — Микрорайон Красноармейский</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №1: Шайбакі — Мікрараён Чырвонаармейскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №10: Автовокзал — Больница Островля</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №10: Аўтавакзал — Астроўля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №10: Автовокзал — ДРСУ — Больница Островля</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №10: Аўтавакзал — ДРСУ — Астроўля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №10: Больница Островля — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №10: Астроўля — Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №10: Больница Островля — ДРСУ — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №10: Астроўля — ДРСУ — Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №11: Автовокзал — Хасановская</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №11: Аўтавакзал — Хасанаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №11: Хасановская — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №11: Хасанаўская — Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №11а: Хасановская — Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №11а: Хасанаўская — Шаўчэнкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №11а: Шевченко — Хасановская</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №11а: Шаўчэнкі — Хасанаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №12: Лакокраска — до Обувной фабрики</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №12: Лакафарба — да Абутковай фабрыкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №12: Лакокраска — Тухачевского</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №12: Лакафарба — Тухачэўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №12: от Обувной фабрики — Тухачевского</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №12: ад Абутковай фабрыкі — Тухачэўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №12: Тухачевского — до Обувной фабрики</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №12: Тухачэўскага — да Абутковай фабрыкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №12: Тухачевского — Лакокраска</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №12: Тухачэўскага — Лакафарба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус № 14 "ДС Восточная - Степянка"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 14 "ДС Усходняя - Сцяпянка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус № 14 "Степянка - ДС Восточная"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 14 "Сцяпянка - ДС Усходняя"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №15т: Автовокзал — Гастелло</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №15т: Аўтаваакзал — Гастэлы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №15т: Гастелло — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №15т: Гастэлы — Аўтаваакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №2: Крупской — до Советской</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №2: Крупскай — да Савецкай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №2: Крупской — Лакокраска</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №2: Крупскай — Лакафарба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №2: Лакокраска — Крупской</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №2: Лакафарба — Крупскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №2: от Советской - Лакокраска</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №2: ад Савецкай — Лакафарба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №3: Автовокзал — Микрорайон Индустриальный</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №3: Аўтавакзал — Мікрараён Індустрыяльны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №3: Микрорайон Индустриальный — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №3: Мікрараён Індустрыяльны — Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №3: от Рынка — Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №3: ад Рынка — Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №4: Лакокраска — Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №4: Лакафарба — Шаўчэнкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №4: Шевченко — Лакокраска</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №4: Шаўчэнкі — Лакафарба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №4а: Малейковщизна — Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №4а: Малейкаўшчызна — Шаўчэнкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №4а: Шевченко — Малейковщизна</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №4а: Шаўчэнкі — Малейкаўшчызна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №5: Оптик — до Советской</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №5: Оптык — да Савецкай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №5: Оптик — Потсдам</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №5: Оптык — Патсдам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №5: от Советской — Потсдам</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №5: ад Савецкай — Патсдам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №5: Потсдам — Оптик</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №5: Патсдам — Оптык</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №5а: Потсдам — Оптик</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №5а: Патсдам — Оптык</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №6: Красноармейский — Южный городок</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №6: Чырвонаармейскі — Паўднёвы гарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №6: Южный городок — Красноармейский</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №6: Паўднёвы гарадок — Чырвонаармейскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №7: Лидахлебопродукт — Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №7: Лідахлебапрадукт — Міцкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №7: Мицкевича — Лидахлебопродукт</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №7: Міцкевіча — Лідахлебапрадукт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №7а: Кладбище Зосино — Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №7а: Могілкі Зосіна — Міцкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №7а: Мицкевича — Кладбище Зосино</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №7а: Міцкевіча — Могілкі Зосіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №8: Лидаспецавтотранс — Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №8: Лідаспецаўтатранс — Міцкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №8: Мицкевича — Лидаспецавтотранс</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №8: Міцкевіча — Лідаспецаўтатранс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: Лидаагротехсервис — до Ленинской</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: Лідаагратэхсэрвіс — да Ленінскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: Лидаагротехсервис — Тухачевского</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: Лідаагратэхсэрвіс — Тухачэўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: от Книжного Мира — Тухачевского</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: ад Кніжнага Свету — Тухачэўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: от Ленинской — Лидаагротехсервис</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: ад Ленінскай — Лідаагратэхсэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: от Центрального Универсама — Лидаагротехсервис</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: ад Цэнтральнага Універсаму — Лідаагратэхсэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: Тухачевского — до Центрального Универсама</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: Тухачэўскага — да Цэнтральнага Універсаму</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус №9: Тухачевского — Лидаагротехсервис</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус №9: Тухачэўскага — Лідаагратэхсэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус № 95 "ДС Калиновского - Степянка"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 95 "ДС Калiноўскага - Сцяпянка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автобус № 95 "Степянка - ДС Калиновского"</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 95 "Сцяпянка - ДС Калiноўскага"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автовокзал "Московский" - Веснинка</seg></tuv>
+      <tuv lang="BE"><seg>Аўтавакзал "Маскоўскі" - Вяснянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автовокзал "Московский" - Колодищанское кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Аўтавакзал "Маскоўскі" - Каладзішчанскія могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 10 Аўтастанція - Вакзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 10 Аўтастанція - Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 15 Аўтастанція - Індустрыяльны каледж</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 15 Аўтастанція - Індустрыяльны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 1А Аграсэрвіс - Могілкі</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 1А Аграсэрвіс - Могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 1 Аграсэрвіс - Вакзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 1 Аграсэрвіс - Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 2 Хімвалакно - пас. Нафтавікоў</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 2 Хімвалакно - пас. Нафтавікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 3 ЗПТН - мікрараён Палессе</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 3 ЗПТН - мікрараён Палессе</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 5А ЦКК - Гандлёвы Центр</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 5А ЦКК - Гандлёвы Центр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 5 ЦКК - Гандлёвы Центр</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 5 ЦКК - Гандлёвы Центр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 5Э ЦКК - Гандлёвы Центр</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 5Э ЦКК - Гандлёвы Центр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 7 Аграсэрвіс - пасёлак Светач</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 7 Аграсэрвіс - пасёлак Светач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аўтобус № 8А ЦКК - Мядкоў</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус № 8А ЦКК - Мядкоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бесплатный автобус Евроопт: Гипермаркет Евроопт — Южный городок</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус Еўраопт: Гіпермаркет Еўраопт — Паўднёвы гарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бесплатный автобус Евроопт: Южный городок — Гипермаркет Евроопт</seg></tuv>
+      <tuv lang="BE"><seg>Аўтобус Еўраопт: Паўднёвы гарадок — Гіпермаркет Еўраопт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомель - Добруш</seg></tuv>
+      <tuv lang="BE"><seg>Гомель - Добруш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомель - Клёнки - Гомель</seg></tuv>
+      <tuv lang="BE"><seg>Гомель - Клёнкі - Гомель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городские автобусы г. Минска</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскія аўтобусы г. Мінска</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродно — Барановичи</seg></tuv>
+      <tuv lang="BE"><seg>Гродна — Баранавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродно — Лида</seg></tuv>
+      <tuv lang="BE"><seg>Гродна — Ліда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Веснянка - Д/С Малиновка-4</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Вяснянка - Д/С Малiнаука-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - А/В Восточный</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - А/В Усходнi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Брилевичи</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Брылевiчы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Городской Вал</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Гарадскi Вал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Д/С Дружная</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Д/С Дружная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Д/С Зеленый Луг</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Д/С Зялёный луг-7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Д/С Кунцевщина</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Д/С Кунцаўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - Д/С Чижовка</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - Д/С Чыжоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/С Малиновка-4 - ст.м. Петровщина</seg></tuv>
+      <tuv lang="BE"><seg>Д/С Малінаўка-4 - ст.м. Пятроўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Добруш - Гомель</seg></tuv>
+      <tuv lang="BE"><seg>Добруш - Гомель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Ангарская-4 - Зеленый луг-3</seg></tuv>
+      <tuv lang="BE"><seg>ДС Ангарская-4 - Зялёны луг-3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Ангарская-4 - Сосновый Бор</seg></tuv>
+      <tuv lang="BE"><seg>ДС Ангарская-4 - Сасновы Бор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Ангарская-4 - ст. м. Академия наук</seg></tuv>
+      <tuv lang="BE"><seg>ДС Ангарская-4 - ст. м. Акадэмія навук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Восточная - Новинки</seg></tuv>
+      <tuv lang="BE"><seg>ДС Усходняя - Навінкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Восточная - Щедрина</seg></tuv>
+      <tuv lang="BE"><seg>ДС Усходняя - Шчадрына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Дражня – ст.м. Пушкинская</seg></tuv>
+      <tuv lang="BE"><seg>ДС Дражня - ст.м. Пушкінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Дружная - Тубдиспансер</seg></tuv>
+      <tuv lang="BE"><seg>д/с Дружная - Тубдыспансэр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Зелёный Луг-6 - АС "Автозаводская"</seg></tuv>
+      <tuv lang="BE"><seg>ДС Зялёны Луг-6 - АС "Аўтазаводская"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Зелёный Луг-6 - ДС Уручье-4</seg></tuv>
+      <tuv lang="BE"><seg>ДС Зялёны Луг-6 - ДС Уручча-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Зелёный Луг-6 - Макаёнка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Зялёны Луг-6 - Макаёнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Калиновского - Липки</seg></tuv>
+      <tuv lang="BE"><seg>ДС Каліноўскага - Ліпкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Калиновского - пер. Геологический</seg></tuv>
+      <tuv lang="BE"><seg>ДС Каліноўскага - зав. Геалагічны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Калиновского - пл. Мясникова</seg></tuv>
+      <tuv lang="BE"><seg>ДС Каліноўскага - пл. Мяснікова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Калиновского - ст. м. Парк Челюскинцев</seg></tuv>
+      <tuv lang="BE"><seg>ДС Каліноўскага - ст. м. Парк Чалюскінцаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карастояновой - Слепянка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карастаянавай - Сляпянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - 1-е ворота</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - 1-я вароты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - ДС Восточная</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - ДС Усходняя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - ДС Уручье 4</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - ДС Уручча 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - Зелёный Бор</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - Зялёны Бор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - Маневича</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - Маневіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - Рогачевская</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - Рагачоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - С. Ковалевской</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - С. Кавалеўскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Карбышева - Цна-2</seg></tuv>
+      <tuv lang="BE"><seg>ДС Карбышава - Цна-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Кульман - Уручье-2</seg></tuv>
+      <tuv lang="BE"><seg>ДС Кульман - Уручча-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Малиновка-4 - Слепянка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Малінаўка-4 - Сляпянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Славинского - Аэропорт "Минск-1"</seg></tuv>
+      <tuv lang="BE"><seg>ДС Славінскага - Аэрапорт "Мінск-1"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Славинского - Военная Академия</seg></tuv>
+      <tuv lang="BE"><seg>ДС Славінскага - Ваенная Акадэмія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Славинского - ДС Серебрянка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Славінскага - ДС Серабранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Славинского - ДС Сухарево-5</seg></tuv>
+      <tuv lang="BE"><seg>ДС Славінскага - ДС Сухарава-5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - Академическая</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - Акадэмічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - ДС Ждановичи</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - ДС Ждановічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - ДС Зелёный луг-7</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - ДС Зялёны луг-7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - ДС Малинина</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - ДС Малініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - ДС Уручье-4</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - ДС Уручча-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - Колодищанское кладбище</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - Каладзішчанскія могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - Макаёнка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - Макаёнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-2 - ст. Колодищи</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-2 - ст. Калодзішчы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-4 - Академгородок</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-4 - Акадэмгарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-4 - Военная Академия</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-4 - Ваенная Акадэмія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-4 - ДС Дражня</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-4 - ДС Дражня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-4 - пл. Мясникова</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-4 - пл. Мяснікова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Уручье-4 - Сухорукие</seg></tuv>
+      <tuv lang="BE"><seg>ДС Уручча-4 - Сухарукія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДС Шабаны - ДС Чижовка</seg></tuv>
+      <tuv lang="BE"><seg>ДС Шабаны - ДС Чижовка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кольцевая дорога вокруг г. Минска</seg></tuv>
+      <tuv lang="BE"><seg>Кальцавая дарога вакол г. Мінска</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 401 "Августовский шлях"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 401 "Аўгустоўскі шлях"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 403 "Шляхам магната Валовіча"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 403 "Шляхам магната Валовіча"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 404 "Линия Молотова"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 404 "Лінія Молатава"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 411 "Неманский"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 411 "Нёманскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 412 "Меловые горы"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 412 "Крэйдавыя горы"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 418 "Тропа здоровья"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 418 "Сцежка здароў’я"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 420 "Купалинка"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 420 "Купалінка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маршрут № 421 "Жемчужный"</seg></tuv>
+      <tuv lang="BE"><seg>Маршрут № 421 "Жамчужны"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московская линия</seg></tuv>
+      <tuv lang="BE"><seg>Маскоўская лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сеть республиканских автодорог РБ</seg></tuv>
+      <tuv lang="BE"><seg>Сетка рэспубліканскіх аўтадарог РБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троллейбусы г. Минска</seg></tuv>
+      <tuv lang="BE"><seg>Тралейбусы г. Мінска</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троллейбус № 1: Вокзал - Гидропривод</seg></tuv>
+      <tuv lang="BE"><seg>Тралейбус № 1: Вакзал - Гідрапрывод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троллейбус № 1: Гидропривод - Вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Тралейбус № 1: Гідрапрывод - Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туристические маршруты г. Гродно</seg></tuv>
+      <tuv lang="BE"><seg>Турыстычныя маршруты г. Гродна</seg></tuv>
+    </tu>
+  </body></tmx>

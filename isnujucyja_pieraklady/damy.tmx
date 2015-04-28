@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Бизнес-центр "Silver Tower"</seg></tuv>
+      <tuv lang="BE"><seg>Бізнес-цэнтр «Silver Tower»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общежитие №5</seg></tuv>
+      <tuv lang="BE"><seg>Інтэрнат №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Резиденция Деда Мазая</seg></tuv>
+      <tuv lang="BE"><seg>Рэзідэнцыя Дзеда Мазая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортцентр БВК</seg></tuv>
+      <tuv lang="BE"><seg>Спарткомплекс БВК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фирма Уникум</seg></tuv>
+      <tuv lang="BE"><seg>Фірма «Унікум»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр занятости</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр занятасці</seg></tuv>
+    </tu>
+  </body></tmx>

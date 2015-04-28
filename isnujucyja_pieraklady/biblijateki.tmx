@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека ВГТУ</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка ВДТУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека им. Маршака</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка імя Маршака</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека им. Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка імя Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>библиотека им. Янки Мавра</seg></tuv>
+      <tuv lang="BE"><seg>імя Янкі Маўра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека-филиал № 5</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка-філіял №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека №1</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека №2</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека №22</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка № 22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека №9</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Взрослая библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельская областная универсальная библиотека им В. И. Ленина</seg></tuv>
+      <tuv lang="BE"><seg>Гомельская абласная ўніверсальная бібліятэка імя У. І. Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская библиотека им. Н.К. Крупской</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городская детская библиотека им. А.С.Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>Гарадская дзіцячая бібліятэка ім. А.С.Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская библиотека им. Короткевича</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бібліятэка імя Караткевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская библиотека имени Янки Мавра</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бібліятэка імя Янкі Маўра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская библиотека №6</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячыя бібліятэка №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская им. Н.Н. Крупской</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>детская №12</seg></tuv>
+      <tuv lang="BE"><seg>дзіцячая №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Научная библиотека ВГУ</seg></tuv>
+      <tuv lang="BE"><seg>Навуковая бібліятэка ВДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Научная библиотека ГрГУ</seg></tuv>
+      <tuv lang="BE"><seg>Навуковая бібліятэка ГрДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Научная библиотека ПГУ</seg></tuv>
+      <tuv lang="BE"><seg>Навуковая бібліятэка ПДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областная библиотека им. М. Горького</seg></tuv>
+      <tuv lang="BE"><seg>Абласная бібліятэка ім. М.Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянская центральная районная библиотека</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянская цэнтральная раённая бібліятэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельская библиотека-клуб</seg></tuv>
+      <tuv lang="BE"><seg>Сельская бібліятэка-клуб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>филиал 6 Библиотеки имени Короткевича</seg></tuv>
+      <tuv lang="BE"><seg>Філіял №6 Біблятэкі імя Караткевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная библиотека им. Пушкина А.С.</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная бібліятэка імя Пушкіна</seg></tuv>
+    </tu>
+  </body></tmx>

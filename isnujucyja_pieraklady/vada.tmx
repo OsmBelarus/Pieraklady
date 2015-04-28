@@ -1,0 +1,3130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Balbata</seg></tuv>
+      <tuv lang="BE"><seg>Нізянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Bug</seg></tuv>
+      <tuv lang="BE"><seg>Буг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Bug / Западный Буг</seg></tuv>
+      <tuv lang="BE"><seg>Заходні Буг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Czarna Hańcza</seg></tuv>
+      <tuv lang="BE"><seg>Чорная Ганча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Daugava</seg></tuv>
+      <tuv lang="BE"><seg>Заходняя Дзвiна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Kanał Augustowski</seg></tuv>
+      <tuv lang="BE"><seg>Аўгустоўскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Riču ezers</seg></tuv>
+      <tuv lang="BE"><seg>Ричу</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Szlamica</seg></tuv>
+      <tuv lang="BE"><seg>Шляміца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Абрамовщина</seg></tuv>
+      <tuv lang="BE"><seg>Абрамаўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Августовский канал</seg></tuv>
+      <tuv lang="BE"><seg>Аўгустоўскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Адаменка</seg></tuv>
+      <tuv lang="BE"><seg>Адаменка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Адворенское озеро</seg></tuv>
+      <tuv lang="BE"><seg>Адворанскае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Адров</seg></tuv>
+      <tuv lang="BE"><seg>Адроў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альзиница</seg></tuv>
+      <tuv lang="BE"><seg>р. Альзініца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аута</seg></tuv>
+      <tuv lang="BE"><seg>Авута</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Байна</seg></tuv>
+      <tuv lang="BE"><seg>р. Байна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Балазна</seg></tuv>
+      <tuv lang="BE"><seg>р. Балазна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Басинка</seg></tuv>
+      <tuv lang="BE"><seg>Басінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бася</seg></tuv>
+      <tuv lang="BE"><seg>Бася</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бедрица</seg></tuv>
+      <tuv lang="BE"><seg>р. Бедрыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Безунья</seg></tuv>
+      <tuv lang="BE"><seg>р. Бязуння</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белая</seg></tuv>
+      <tuv lang="BE"><seg>Белая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белица</seg></tuv>
+      <tuv lang="BE"><seg>Беліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белое</seg></tuv>
+      <tuv lang="BE"><seg>Белае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белое озеро</seg></tuv>
+      <tuv lang="BE"><seg>Белае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бервенка</seg></tuv>
+      <tuv lang="BE"><seg>Бервенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березина</seg></tuv>
+      <tuv lang="BE"><seg>[Бярэ́зіна, Бярэзіна, р. Бярэ́зіна, р. Бярэзіна]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берёзка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березовка</seg></tuv>
+      <tuv lang="BE"><seg>Беразоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берёзовка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Береща</seg></tuv>
+      <tuv lang="BE"><seg>р. Бярэшча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берновка</seg></tuv>
+      <tuv lang="BE"><seg>р. Бярноўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беседь</seg></tuv>
+      <tuv lang="BE"><seg>Бесядзь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бикложа</seg></tuv>
+      <tuv lang="BE"><seg>Бікложа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Билеица</seg></tuv>
+      <tuv lang="BE"><seg>Білеіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бобр</seg></tuv>
+      <tuv lang="BE"><seg>Бобр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богдановка</seg></tuv>
+      <tuv lang="BE"><seg>Багданаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большая Лебедка</seg></tuv>
+      <tuv lang="BE"><seg>Вялікая Лябёдка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большие Окуничи</seg></tuv>
+      <tuv lang="BE"><seg>Вялікія Акунічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большие Швакшты</seg></tuv>
+      <tuv lang="BE"><seg>Вялікія Швакшты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Боровка</seg></tuv>
+      <tuv lang="BE"><seg>Бароўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брагинка</seg></tuv>
+      <tuv lang="BE"><seg>Брагінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Братянка</seg></tuv>
+      <tuv lang="BE"><seg>Брацянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бросты</seg></tuv>
+      <tuv lang="BE"><seg>Бросты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брыжовка</seg></tuv>
+      <tuv lang="BE"><seg>р. Брыжоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Буг/Bug</seg></tuv>
+      <tuv lang="BE"><seg>Заходні Буг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Будовесть</seg></tuv>
+      <tuv lang="BE"><seg>Будавесць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бузянка</seg></tuv>
+      <tuv lang="BE"><seg>Бузянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Быковка</seg></tuv>
+      <tuv lang="BE"><seg>Быкаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вавюрка</seg></tuv>
+      <tuv lang="BE"><seg>Вавёрка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>вдхр. Криница</seg></tuv>
+      <tuv lang="BE"><seg>вдсх. Крыніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>вдхр. Тулово</seg></tuv>
+      <tuv lang="BE"><seg>вдсх. Тулава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ведетица</seg></tuv>
+      <tuv lang="BE"><seg>р. Вядзеціца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ведровка</seg></tuv>
+      <tuv lang="BE"><seg>Вядроўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Велижка</seg></tuv>
+      <tuv lang="BE"><seg>р. Веліжка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Великая</seg></tuv>
+      <tuv lang="BE"><seg>р. Вялікая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вёнзовец</seg></tuv>
+      <tuv lang="BE"><seg>Вензавец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вередавка</seg></tuv>
+      <tuv lang="BE"><seg>Вярэдаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веретейка</seg></tuv>
+      <tuv lang="BE"><seg>Вератейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вержболовка</seg></tuv>
+      <tuv lang="BE"><seg>Вержбалоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верижская канава</seg></tuv>
+      <tuv lang="BE"><seg>Верыжская канава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верхита</seg></tuv>
+      <tuv lang="BE"><seg>[Вярхіта, р. Вярхіта]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вилейка</seg></tuv>
+      <tuv lang="BE"><seg>Вілейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вилия</seg></tuv>
+      <tuv lang="BE"><seg>[Вiлiя, Ві́лія, Вілія]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витьба</seg></tuv>
+      <tuv lang="BE"><seg>Віцьба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вишня</seg></tuv>
+      <tuv lang="BE"><seg>Вішня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>водохранилище Оброво</seg></tuv>
+      <tuv lang="BE"><seg>вадасховішча Аброва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Военное озеро</seg></tuv>
+      <tuv lang="BE"><seg>Ваеннае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волкушанка</seg></tuv>
+      <tuv lang="BE"><seg>Ваўкушанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волма</seg></tuv>
+      <tuv lang="BE"><seg>Волма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воловка</seg></tuv>
+      <tuv lang="BE"><seg>Валоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волчковичское вдхр.</seg></tuv>
+      <tuv lang="BE"><seg>Воўчкавіцкае вдсх.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волынка</seg></tuv>
+      <tuv lang="BE"><seg>р. Валынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ворле (Ворлес)</seg></tuv>
+      <tuv lang="BE"><seg>Ворле (Ворлес)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воронка</seg></tuv>
+      <tuv lang="BE"><seg>р. Варонка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воропинка</seg></tuv>
+      <tuv lang="BE"><seg>Варапiнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Второе озеро</seg></tuv>
+      <tuv lang="BE"><seg>Другое возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Выдрейка</seg></tuv>
+      <tuv lang="BE"><seg>р. Выдрэйка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Выдрица</seg></tuv>
+      <tuv lang="BE"><seg>[Выдрыца, р. Выдрыца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вымнянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Вымнянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Высокая</seg></tuv>
+      <tuv lang="BE"><seg>Высокая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вязенская</seg></tuv>
+      <tuv lang="BE"><seg>Вязенская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вяча</seg></tuv>
+      <tuv lang="BE"><seg>Вяча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гавья</seg></tuv>
+      <tuv lang="BE"><seg>Гаўя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Галядза</seg></tuv>
+      <tuv lang="BE"><seg>Галядза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гаружанка</seg></tuv>
+      <tuv lang="BE"><seg>Гаружанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>главный канал Вилейско-Минской водной системы</seg></tuv>
+      <tuv lang="BE"><seg>галоўны канал Вілейска-Мінскай воднай сістэмы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>главный Обровский канал</seg></tuv>
+      <tuv lang="BE"><seg>Галоўны Аброўскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Глубокое</seg></tuv>
+      <tuv lang="BE"><seg>Глыбокае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Глыбочка</seg></tuv>
+      <tuv lang="BE"><seg>р. Глыбачка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гнилица</seg></tuv>
+      <tuv lang="BE"><seg>Глініца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гожанка</seg></tuv>
+      <tuv lang="BE"><seg>Гажанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Голдовлянка</seg></tuv>
+      <tuv lang="BE"><seg>Галдаўлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горница</seg></tuv>
+      <tuv lang="BE"><seg>Горніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горновка</seg></tuv>
+      <tuv lang="BE"><seg>[Горнаўка, р. Горнаўка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городенка</seg></tuv>
+      <tuv lang="BE"><seg>Гарадзенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городничанка</seg></tuv>
+      <tuv lang="BE"><seg>Гараднiчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городок</seg></tuv>
+      <tuv lang="BE"><seg>Гарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горожанка</seg></tuv>
+      <tuv lang="BE"><seg>Гаражанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горожанская</seg></tuv>
+      <tuv lang="BE"><seg>р. Гаражанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гребной канал</seg></tuv>
+      <tuv lang="BE"><seg>Вяслярны канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гривда</seg></tuv>
+      <tuv lang="BE"><seg>Грыўда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская ГЭС</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская ГЭС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Громоть</seg></tuv>
+      <tuv lang="BE"><seg>р. Громаць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дворище</seg></tuv>
+      <tuv lang="BE"><seg>Дворышча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Деменка</seg></tuv>
+      <tuv lang="BE"><seg>Дзяменка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Деревиж</seg></tuv>
+      <tuv lang="BE"><seg>р. Дзеравіж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Деревянка</seg></tuv>
+      <tuv lang="BE"><seg>Дзеравянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дерновка</seg></tuv>
+      <tuv lang="BE"><seg>Дзярноўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Деряжина</seg></tuv>
+      <tuv lang="BE"><seg>[Дзяражына, р. Дзяражына]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дива</seg></tuv>
+      <tuv lang="BE"><seg>Дзiва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дивать</seg></tuv>
+      <tuv lang="BE"><seg>р. Дзіваць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дикушка</seg></tuv>
+      <tuv lang="BE"><seg>Дзікушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дисна</seg></tuv>
+      <tuv lang="BE"><seg>Дзісна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дитва</seg></tuv>
+      <tuv lang="BE"><seg>Дзітва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Днепр</seg></tuv>
+      <tuv lang="BE"><seg>Дняпро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дніпро</seg></tuv>
+      <tuv lang="BE"><seg>Дняпро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Добрейка</seg></tuv>
+      <tuv lang="BE"><seg>Дабрэйка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Добринка</seg></tuv>
+      <tuv lang="BE"><seg>Добрынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Добрица</seg></tuv>
+      <tuv lang="BE"><seg>Дабрыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дохнарка</seg></tuv>
+      <tuv lang="BE"><seg>р. Дахнарка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дрисса</seg></tuv>
+      <tuv lang="BE"><seg>[Дрыса, р. Дрыса]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дрожбитка</seg></tuv>
+      <tuv lang="BE"><seg>р. Даржбітка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Друть</seg></tuv>
+      <tuv lang="BE"><seg>[Друць, р. Друць]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубница</seg></tuv>
+      <tuv lang="BE"><seg>Дубніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубровенка</seg></tuv>
+      <tuv lang="BE"><seg>[Дубровенка, р. Дубровенка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубровка</seg></tuv>
+      <tuv lang="BE"><seg>Дубраўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дудлянка</seg></tuv>
+      <tuv lang="BE"><seg>Дудлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дунай</seg></tuv>
+      <tuv lang="BE"><seg>Дунай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дымарка</seg></tuv>
+      <tuv lang="BE"><seg>Дымарка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дятловка</seg></tuv>
+      <tuv lang="BE"><seg>Дзятлаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Еленка</seg></tuv>
+      <tuv lang="BE"><seg>Еленка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ельня</seg></tuv>
+      <tuv lang="BE"><seg>Ельня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ендреня</seg></tuv>
+      <tuv lang="BE"><seg>Яндрэня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Желудянка</seg></tuv>
+      <tuv lang="BE"><seg>Жалудзянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жельцанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Жэльцанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жижма</seg></tuv>
+      <tuv lang="BE"><seg>Жыжма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жорновка</seg></tuv>
+      <tuv lang="BE"><seg>Жорнаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жортайка</seg></tuv>
+      <tuv lang="BE"><seg>р. Жартайка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жужма</seg></tuv>
+      <tuv lang="BE"><seg>Жужма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Загорники</seg></tuv>
+      <tuv lang="BE"><seg>Загорнікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Задубровенка</seg></tuv>
+      <tuv lang="BE"><seg>Задубровенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Закобылица</seg></tuv>
+      <tuv lang="BE"><seg>Закабыліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Залюховка</seg></tuv>
+      <tuv lang="BE"><seg>Залюхаука</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заольшанка</seg></tuv>
+      <tuv lang="BE"><seg>Заальшанка (Альшанка)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западная Двина</seg></tuv>
+      <tuv lang="BE"><seg>Заходняя Дзвіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западный Буг</seg></tuv>
+      <tuv lang="BE"><seg>Заходні Буг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зарежанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Заражанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зарница</seg></tuv>
+      <tuv lang="BE"><seg>Зарніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зароновка</seg></tuv>
+      <tuv lang="BE"><seg>Заронаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зачерновская</seg></tuv>
+      <tuv lang="BE"><seg>р. Зачэрнаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Званица</seg></tuv>
+      <tuv lang="BE"><seg>р. Званіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Звездик</seg></tuv>
+      <tuv lang="BE"><seg>Звездзік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зверинка</seg></tuv>
+      <tuv lang="BE"><seg>р. Зверынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёнка</seg></tuv>
+      <tuv lang="BE"><seg>Зялёнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зеленуха</seg></tuv>
+      <tuv lang="BE"><seg>[Зелянуха, р. Зелянуха]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зельвянка</seg></tuv>
+      <tuv lang="BE"><seg>Зяльвянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зеха</seg></tuv>
+      <tuv lang="BE"><seg>Зеха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Злобино</seg></tuv>
+      <tuv lang="BE"><seg>Злобіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зуйка</seg></tuv>
+      <tuv lang="BE"><seg>Зуйка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зуйница</seg></tuv>
+      <tuv lang="BE"><seg>р. Зуйніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивановка</seg></tuv>
+      <tuv lang="BE"><seg>Іванаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивата</seg></tuv>
+      <tuv lang="BE"><seg>р. Івата</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ивезянка</seg></tuv>
+      <tuv lang="BE"><seg>Івязянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Иордынка</seg></tuv>
+      <tuv lang="BE"><seg>р. Іардынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ипуть</seg></tuv>
+      <tuv lang="BE"><seg>Іпуць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ирвеница</seg></tuv>
+      <tuv lang="BE"><seg>Ірвяніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Иржевка</seg></tuv>
+      <tuv lang="BE"><seg>р. Іржэўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ислочь</seg></tuv>
+      <tuv lang="BE"><seg>Іслач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Исса</seg></tuv>
+      <tuv lang="BE"><seg>Іса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ищелнянка</seg></tuv>
+      <tuv lang="BE"><seg>Ішчальнянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ілля</seg></tuv>
+      <tuv lang="BE"><seg>Ілля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кабищанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Кабішчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кавеня</seg></tuv>
+      <tuv lang="BE"><seg>Кавеня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калаченец</seg></tuv>
+      <tuv lang="BE"><seg>Калачынец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калиновка</seg></tuv>
+      <tuv lang="BE"><seg>Калінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменица</seg></tuv>
+      <tuv lang="BE"><seg>[Камянiца, Камяніца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменка</seg></tuv>
+      <tuv lang="BE"><seg>[Каменка, р. Каменка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменчанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Камянчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>канал Лешня</seg></tuv>
+      <tuv lang="BE"><seg>канал Лешня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>канал Огинского</seg></tuv>
+      <tuv lang="BE"><seg>канал Агінскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каспля</seg></tuv>
+      <tuv lang="BE"><seg>р. Каспля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кевлено</seg></tuv>
+      <tuv lang="BE"><seg>Кеўліна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клева</seg></tuv>
+      <tuv lang="BE"><seg>Клява</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клевица</seg></tuv>
+      <tuv lang="BE"><seg>Клявіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корляча</seg></tuv>
+      <tuv lang="BE"><seg>р. Карляча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костеневка</seg></tuv>
+      <tuv lang="BE"><seg>Касцянёўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Котовский</seg></tuv>
+      <tuv lang="BE"><seg>Катоўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Котра</seg></tuv>
+      <tuv lang="BE"><seg>Котра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крапивенка</seg></tuv>
+      <tuv lang="BE"><seg>р. Крапівенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красная</seg></tuv>
+      <tuv lang="BE"><seg>Красная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красомай</seg></tuv>
+      <tuv lang="BE"><seg>р. Красамай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кривая</seg></tuv>
+      <tuv lang="BE"><seg>р. Крывая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кривинка</seg></tuv>
+      <tuv lang="BE"><seg>Крывінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Криница</seg></tuv>
+      <tuv lang="BE"><seg>Крынiца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крупка</seg></tuv>
+      <tuv lang="BE"><seg>Крупка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крутой Ручей</seg></tuv>
+      <tuv lang="BE"><seg>Круты Ручай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулаженка</seg></tuv>
+      <tuv lang="BE"><seg>р. Кулажанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Курасовщинское водохранилище</seg></tuv>
+      <tuv lang="BE"><seg>Курасоўшчынскае вадасховішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ладыгино</seg></tuv>
+      <tuv lang="BE"><seg>р. Ладыгіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лазаретная</seg></tuv>
+      <tuv lang="BE"><seg>Лазарэтная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лазовка</seg></tuv>
+      <tuv lang="BE"><seg>Лазоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лебеда</seg></tuv>
+      <tuv lang="BE"><seg>Лебяда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лебедка</seg></tuv>
+      <tuv lang="BE"><seg>Лябёдка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лебяжий</seg></tuv>
+      <tuv lang="BE"><seg>Лябяжы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лейлубка</seg></tuv>
+      <tuv lang="BE"><seg>Лейлубка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесная</seg></tuv>
+      <tuv lang="BE"><seg>Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесница</seg></tuv>
+      <tuv lang="BE"><seg>Лесніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лешня</seg></tuv>
+      <tuv lang="BE"><seg>Лешня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Леща</seg></tuv>
+      <tuv lang="BE"><seg>Лешча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лидейка</seg></tuv>
+      <tuv lang="BE"><seg>Лідзейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ликовка</seg></tuv>
+      <tuv lang="BE"><seg>Лікоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лимна</seg></tuv>
+      <tuv lang="BE"><seg>р. Лімна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Липа</seg></tuv>
+      <tuv lang="BE"><seg>р. Ліпа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Липовка</seg></tuv>
+      <tuv lang="BE"><seg>Ліпаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Литовский</seg></tuv>
+      <tuv lang="BE"><seg>Литоўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ловать</seg></tuv>
+      <tuv lang="BE"><seg>р. Ловаць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лог</seg></tuv>
+      <tuv lang="BE"><seg>Лог</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лонва</seg></tuv>
+      <tuv lang="BE"><seg>Лонва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лонница</seg></tuv>
+      <tuv lang="BE"><seg>Лонніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лососина</seg></tuv>
+      <tuv lang="BE"><seg>Ласасіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лососна</seg></tuv>
+      <tuv lang="BE"><seg>Ласосна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лососянка</seg></tuv>
+      <tuv lang="BE"><seg>Ласасянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лохозва</seg></tuv>
+      <tuv lang="BE"><seg>Лахазва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лоша</seg></tuv>
+      <tuv lang="BE"><seg>Лоша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лошица</seg></tuv>
+      <tuv lang="BE"><seg>Лошыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лубянка</seg></tuv>
+      <tuv lang="BE"><seg>Лубянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лужеснянка</seg></tuv>
+      <tuv lang="BE"><seg>Лужаснянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лука</seg></tuv>
+      <tuv lang="BE"><seg>Лука</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукомка</seg></tuv>
+      <tuv lang="BE"><seg>[Лукамка, р. Лукамка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукомское</seg></tuv>
+      <tuv lang="BE"><seg>Лукомскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Луконица</seg></tuv>
+      <tuv lang="BE"><seg>Луконіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лучоса</seg></tuv>
+      <tuv lang="BE"><seg>Лучоса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любкинья</seg></tuv>
+      <tuv lang="BE"><seg>Любкіння</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малая Бельчанка</seg></tuv>
+      <tuv lang="BE"><seg>Малая Бяльчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малиновка</seg></tuv>
+      <tuv lang="BE"><seg>Малінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малорита</seg></tuv>
+      <tuv lang="BE"><seg>Маларыта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малые Окуничи</seg></tuv>
+      <tuv lang="BE"><seg>Малыя Акунічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малые Швакшты</seg></tuv>
+      <tuv lang="BE"><seg>Малыя Швакшты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маринец</seg></tuv>
+      <tuv lang="BE"><seg>р. Марынец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марисина</seg></tuv>
+      <tuv lang="BE"><seg>р. Марысіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марыха</seg></tuv>
+      <tuv lang="BE"><seg>Марыха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Махановка</seg></tuv>
+      <tuv lang="BE"><seg>Маханаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Межево</seg></tuv>
+      <tuv lang="BE"><seg>Межава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мерея</seg></tuv>
+      <tuv lang="BE"><seg>р. Марэя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Милковка</seg></tuv>
+      <tuv lang="BE"><seg>р .Мілкаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Милостовка</seg></tuv>
+      <tuv lang="BE"><seg>Мілостаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миранка</seg></tuv>
+      <tuv lang="BE"><seg>Міранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мироновка</seg></tuv>
+      <tuv lang="BE"><seg>Міронаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Можа</seg></tuv>
+      <tuv lang="BE"><seg>Можа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Можница</seg></tuv>
+      <tuv lang="BE"><seg>р. Можніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Морай</seg></tuv>
+      <tuv lang="BE"><seg>р. Морай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Моства</seg></tuv>
+      <tuv lang="BE"><seg>Маства</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мошна</seg></tuv>
+      <tuv lang="BE"><seg>[Мошна, р. Мошна]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мошница</seg></tuv>
+      <tuv lang="BE"><seg>Машніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мрай</seg></tuv>
+      <tuv lang="BE"><seg>Мрай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Муравец</seg></tuv>
+      <tuv lang="BE"><seg>руч. Муравец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мурожница</seg></tuv>
+      <tuv lang="BE"><seg>Мурожніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мухавец</seg></tuv>
+      <tuv lang="BE"><seg>Мухавец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мухавецкое озеро</seg></tuv>
+      <tuv lang="BE"><seg>Мухавецкае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мышка</seg></tuv>
+      <tuv lang="BE"><seg>Мышка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мяделка</seg></tuv>
+      <tuv lang="BE"><seg>Мядзелка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мяделька</seg></tuv>
+      <tuv lang="BE"><seg>Мядзелка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нарва</seg></tuv>
+      <tuv lang="BE"><seg>Нарва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нарочь</seg></tuv>
+      <tuv lang="BE"><seg>Нарач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нача</seg></tuv>
+      <tuv lang="BE"><seg>[Нача, р. Нача]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Неворожка</seg></tuv>
+      <tuv lang="BE"><seg>р. Неварожка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Недалька</seg></tuv>
+      <tuv lang="BE"><seg>Недалька</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нежлевка</seg></tuv>
+      <tuv lang="BE"><seg>Нежлеўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Неман</seg></tuv>
+      <tuv lang="BE"><seg>Нёман</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Немержанка</seg></tuv>
+      <tuv lang="BE"><seg>Немяржанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Немойтянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Немайцянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нерейшанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Нерайшанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нещерда</seg></tuv>
+      <tuv lang="BE"><seg>р. Нешчарда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Низянка</seg></tuv>
+      <tuv lang="BE"><seg>Нізянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нища</seg></tuv>
+      <tuv lang="BE"><seg>р. Нішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обедовка</seg></tuv>
+      <tuv lang="BE"><seg>Абедаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обокрители</seg></tuv>
+      <tuv lang="BE"><seg>Абакрытэлі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оболь</seg></tuv>
+      <tuv lang="BE"><seg>[Обаль, р. Обаль]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оболянка</seg></tuv>
+      <tuv lang="BE"><seg>Абалянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оборотский канал</seg></tuv>
+      <tuv lang="BE"><seg>Абароцкі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обровский канал</seg></tuv>
+      <tuv lang="BE"><seg>Аброўскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обручевка</seg></tuv>
+      <tuv lang="BE"><seg>Абручоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обручёвка</seg></tuv>
+      <tuv lang="BE"><seg>Абручоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обчуга</seg></tuv>
+      <tuv lang="BE"><seg>Абчуга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Овсянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Аўсянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Огейха</seg></tuv>
+      <tuv lang="BE"><seg>Агейха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Огинский канал</seg></tuv>
+      <tuv lang="BE"><seg>Агінскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Огнеш</seg></tuv>
+      <tuv lang="BE"><seg>Агнеш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Огороднический ручей</seg></tuv>
+      <tuv lang="BE"><seg>Агародніцкі ручай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Огурнеевка</seg></tuv>
+      <tuv lang="BE"><seg>Агурнёўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Одрижинский канал</seg></tuv>
+      <tuv lang="BE"><seg>Адрыжінскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Алес</seg></tuv>
+      <tuv lang="BE"><seg>воз. Алес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Апуково</seg></tuv>
+      <tuv lang="BE"><seg>воз. Апукова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Арлейко</seg></tuv>
+      <tuv lang="BE"><seg>воз. Арлейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Афанасьевское</seg></tuv>
+      <tuv lang="BE"><seg>Афанасьеўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Барановское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Баранаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бездонное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бяздоннае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Безымянное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Безназоўнае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Белое</seg></tuv>
+      <tuv lang="BE"><seg>[Белае, Белае воз., воз. Белае]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Береже</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бярэжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Березинец</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бярэзінец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Берёзовское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бярозаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Берново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бярнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бернское</seg></tuv>
+      <tuv lang="BE"><seg>Бернскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бикложа</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бікложа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бобрица</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бабрыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Богдановское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Багданаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Болецкое</seg></tuv>
+      <tuv lang="BE"><seg>Болецкае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Большое Белое</seg></tuv>
+      <tuv lang="BE"><seg>Вялікае Белае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Большое Островито</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вялікае Астравіта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Большое Островлянское</seg></tuv>
+      <tuv lang="BE"><seg>Вялікае Астраўлянскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Боровка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бароўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Боровлянское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бараўлянскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Боровно</seg></tuv>
+      <tuv lang="BE"><seg>[воз. Бароўна, воз. Бораўна]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Боровое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Баравое</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Боровское</seg></tuv>
+      <tuv lang="BE"><seg>Бараўское воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бугаёвское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бугаёўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Будовесть</seg></tuv>
+      <tuv lang="BE"><seg>воз. Будавесць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Буёвское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Буёўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Бутыки</seg></tuv>
+      <tuv lang="BE"><seg>воз. Бутыкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Валуйское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Валуйскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ведренец</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ведранец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Веркудское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вяркудскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вобренка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вобранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вогзино</seg></tuv>
+      <tuv lang="BE"><seg>воз Вогзіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Волконька</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ваўконька</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Волнея</seg></tuv>
+      <tuv lang="BE"><seg>воз. Валнея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Волосно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Воласна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вослепно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Васлепна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вочка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вочка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вывежек</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вывежак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Вымно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вымна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вымно (спортивное)</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вымна (спартыўнае)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Вышедское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вышадскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Гарносвечье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Гарнасвечча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Гвоздок</seg></tuv>
+      <tuv lang="BE"><seg>воз. Гваздок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глистовик</seg></tuv>
+      <tuv lang="BE"><seg>воз. Глістовік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глубокое</seg></tuv>
+      <tuv lang="BE"><seg>[Глыбокае воз., воз. Глыбокае]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глубокое Струново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Глыбокае Струнава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глыбочица</seg></tuv>
+      <tuv lang="BE"><seg>воз. Глыбочыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глыбочка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Глыбачка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Глыбочь</seg></tuv>
+      <tuv lang="BE"><seg>воз. Глыбач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Городно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Гародна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Гребенницкое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Міхалінава (Грабеніцкае)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Девинское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дзевінскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Девичье</seg></tuv>
+      <tuv lang="BE"><seg>Дзявочае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Добеевское</seg></tuv>
+      <tuv lang="BE"><seg>Дабееўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Добрино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Добрына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Долгое</seg></tuv>
+      <tuv lang="BE"><seg>[Доўгае воз., воз. Доўгае]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Домановское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Даманаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Дривяты</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дрывяты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Дубровка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дубраўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Дубровское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дубраўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ершово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Яршова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Жабница</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жабніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Жежлино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жэжліна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Женно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жэнна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Жеринское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жэрынскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Жодень</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жодзень</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Жужель</seg></tuv>
+      <tuv lang="BE"><seg>воз. Жужаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Завесно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Завесна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Задрач</seg></tuv>
+      <tuv lang="BE"><seg>воз. Задрач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Залешно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Заляшно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Замошье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Замошша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Заозерское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Заазерскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Запецкое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Запецкае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Зароновское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Заронаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Заружань</seg></tuv>
+      <tuv lang="BE"><seg>воз. Заружанне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Захбейка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Захбейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Зеленец</seg></tuv>
+      <tuv lang="BE"><seg>воз. Зелянец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Зеленское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Зелянскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Исса</seg></tuv>
+      <tuv lang="BE"><seg>воз. Іса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Казенное</seg></tuv>
+      <tuv lang="BE"><seg>Казённае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Какисино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Какісіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Карасёво</seg></tuv>
+      <tuv lang="BE"><seg>воз. Карасёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Кичино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Кічына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Княгининское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Княгiнiскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Княжное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Княжнае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Колесино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Калесiна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Колодезь</seg></tuv>
+      <tuv lang="BE"><seg>воз. Калодзезь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Коломерка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Каламерка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Костовье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Кастаўе</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Котовское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Катоўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Кошелки</seg></tuv>
+      <tuv lang="BE"><seg>воз. Кашалкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Кошо</seg></tuv>
+      <tuv lang="BE"><seg>воз. Кашо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Краснодворское</seg></tuv>
+      <tuv lang="BE"><seg>Краснадворскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Красное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Краснае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Кривое</seg></tuv>
+      <tuv lang="BE"><seg>Крывое воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Круглик</seg></tuv>
+      <tuv lang="BE"><seg>воз. Круглік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Круглое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Круглае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Круглянское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Круглянскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Крыльцово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Крыльцова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Куликовское</seg></tuv>
+      <tuv lang="BE"><seg>Кулікоўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Куровщина</seg></tuv>
+      <tuv lang="BE"><seg>Кураўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Леваново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Леванова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лезвинка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лезвінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лепельское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лепельскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лесковичи</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лескавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лешно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лешна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лещево</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лешчава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лимновское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лімнаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Линец</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лiнец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Линко</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лiнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Липки</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ліпкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Липно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ліпна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лосвидо</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лосвіда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Луговое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лугавое</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Луженец</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лужэнец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Луковское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лукаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Луконица</seg></tuv>
+      <tuv lang="BE"><seg>воз. Луконіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Любжинское</seg></tuv>
+      <tuv lang="BE"><seg>Любжынскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Любицино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Любiцына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Людвище</seg></tuv>
+      <tuv lang="BE"><seg>воз. Людзвішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Люкшино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Люкшына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Лядно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Лядна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Макаровское</seg></tuv>
+      <tuv lang="BE"><seg>Макараўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Макачи</seg></tuv>
+      <tuv lang="BE"><seg>воз. Макачы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Малое Белое</seg></tuv>
+      <tuv lang="BE"><seg>Малое Белае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Малое Черново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Малое Чарнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Медесно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мядзесна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Межа</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мяжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мелкое</seg></tuv>
+      <tuv lang="BE"><seg>Мелкае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мелкое Струново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мелкае Струнава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Минтуровское</seg></tuv>
+      <tuv lang="BE"><seg>Мінтуроўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Моратно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Моратна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мошно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мошна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мугирино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мугірына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мурожницкое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мурожніцкае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мухно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мухна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Мядель</seg></tuv>
+      <tuv lang="BE"><seg>воз. Мядзел</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Навлицкое</seg></tuv>
+      <tuv lang="BE"><seg>Наўліцкае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Налютик</seg></tuv>
+      <tuv lang="BE"><seg>воз. Налюцiк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Негро</seg></tuv>
+      <tuv lang="BE"><seg>воз. Нёгра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Неколочь</seg></tuv>
+      <tuv lang="BE"><seg>воз. Некалач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Немцево</seg></tuv>
+      <tuv lang="BE"><seg>воз. Немцава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Несино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Несіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Несьпиш</seg></tuv>
+      <tuv lang="BE"><seg>воз. Неспіш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Новинское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Навінскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Новята</seg></tuv>
+      <tuv lang="BE"><seg>воз. Навята</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Нюля</seg></tuv>
+      <tuv lang="BE"><seg>воз. Нюля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Обуховское</seg></tuv>
+      <tuv lang="BE"><seg>Абухаўскае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Огзино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вогзіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Озёрки</seg></tuv>
+      <tuv lang="BE"><seg>воз. Азёркі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ольшанка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Альшанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ордышево</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ардышова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ореховое</seg></tuv>
+      <tuv lang="BE"><seg>Арэхавае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ореховское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Арэхаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Оршино</seg></tuv>
+      <tuv lang="BE"><seg>Оршына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Осиновское</seg></tuv>
+      <tuv lang="BE"><seg>Асінаўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Осмота</seg></tuv>
+      <tuv lang="BE"><seg>воз. Восмата</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Осотно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Асотна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Остравито</seg></tuv>
+      <tuv lang="BE"><seg>воз. Астравіта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Островенское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Астравенскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Островито</seg></tuv>
+      <tuv lang="BE"><seg>[воз. Астравiта, воз. Астравіта]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Островки</seg></tuv>
+      <tuv lang="BE"><seg>воз. Астраўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Островно</seg></tuv>
+      <tuv lang="BE"><seg>[Астроўна, воз. Астроўна]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Отолово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Атолава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Паулье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Павулле</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Паульское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Павульскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Первищенское</seg></tuv>
+      <tuv lang="BE"><seg>Пярвішчанскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Первое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Першае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Плав</seg></tuv>
+      <tuv lang="BE"><seg>воз. Плаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Плавущее</seg></tuv>
+      <tuv lang="BE"><seg>воз. Плавучае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Платишно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Плацішна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Плесно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Плесна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Подшапье</seg></tuv>
+      <tuv lang="BE"><seg>Падшап'е</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Полозерье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Паўазер’е</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Полонское</seg></tuv>
+      <tuv lang="BE"><seg>Палонскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Пренц</seg></tuv>
+      <tuv lang="BE"><seg>воз. Прэнц</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Проводы</seg></tuv>
+      <tuv lang="BE"><seg>воз. Правады</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Проскурно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Праскурна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Прудок</seg></tuv>
+      <tuv lang="BE"><seg>воз. Прудок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Разван</seg></tuv>
+      <tuv lang="BE"><seg>воз. Разван</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Рогово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Рогава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Роговское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Рагоўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ромашково</seg></tuv>
+      <tuv lang="BE"><seg>воз. Рамашкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Россоно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Расона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Рытовно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Рытоўна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Свино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Свіно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Святцо</seg></tuv>
+      <tuv lang="BE"><seg>воз. Святца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Селяево</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сяляева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сенно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сянно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Серокоротня</seg></tuv>
+      <tuv lang="BE"><seg>воз. Серакаротня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Синьша</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сіньша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ситно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сітна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ситнянское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сітнянскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Скрыдлево</seg></tuv>
+      <tuv lang="BE"><seg>воз.Скрыдлева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Солёное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Салёнае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Солонец</seg></tuv>
+      <tuv lang="BE"><seg>Салонец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Соро</seg></tuv>
+      <tuv lang="BE"><seg>воз. Саро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сосенка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сосенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сосна</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сосна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сосно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сосна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Стержень</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сцержань</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Стерник</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сцернік (Бусоўня)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Стрешно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Стрэшна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Стрешно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Стрэшна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сукременское</seg></tuv>
+      <tuv lang="BE"><seg>Сукрэменскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Сушино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Сушына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Танай</seg></tuv>
+      <tuv lang="BE"><seg>воз. Танай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Теменица</seg></tuv>
+      <tuv lang="BE"><seg>воз. Цеменіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Теребетовское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Церабетаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Тиосто</seg></tuv>
+      <tuv lang="BE"><seg>воз. Цёста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Толыни</seg></tuv>
+      <tuv lang="BE"><seg>воз. Талынi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Третье</seg></tuv>
+      <tuv lang="BE"><seg>воз. Трэцяе</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Туроссы</seg></tuv>
+      <tuv lang="BE"><seg>воз. Турасы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Тухинское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Тухінскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Удебно</seg></tuv>
+      <tuv lang="BE"><seg>воз. Удзебна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ужо</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ужо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Улазовичское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Улазавіцкае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Усая</seg></tuv>
+      <tuv lang="BE"><seg>воз. Усая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Утянское</seg></tuv>
+      <tuv lang="BE"><seg>Уцянскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ходцы</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ходцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Хотино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Хоціна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чарнуик</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чарнуйк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чербомысло</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чарбамысла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Черница</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чарніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Черново</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чарнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чёрное Болото</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чорнае Балота</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Черосово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чаросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чёртово</seg></tuv>
+      <tuv lang="BE"><seg>Чортава воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чистик</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чысцік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Шевино</seg></tuv>
+      <tuv lang="BE"><seg>воз. Шэвіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Шелохово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Шэлахава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ширковское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Шыркаўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Шо</seg></tuv>
+      <tuv lang="BE"><seg>воз. Шо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Щербаковское</seg></tuv>
+      <tuv lang="BE"><seg>Шчарбакоўскае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Щибот</seg></tuv>
+      <tuv lang="BE"><seg>воз. Шчыбат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз.Яновичское</seg></tuv>
+      <tuv lang="BE"><seg>Янавіцкае воз.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озерищенская</seg></tuv>
+      <tuv lang="BE"><seg>Азярышчанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озерный канал</seg></tuv>
+      <tuv lang="BE"><seg>Азерны канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озёрный канал</seg></tuv>
+      <tuv lang="BE"><seg>Азёрны канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Азаренское</seg></tuv>
+      <tuv lang="BE"><seg>возера Азаранскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Азароново</seg></tuv>
+      <tuv lang="BE"><seg>Азаронава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Азерцы</seg></tuv>
+      <tuv lang="BE"><seg>возера Азерцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Аксеново</seg></tuv>
+      <tuv lang="BE"><seg>Аксёнава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Алашское</seg></tuv>
+      <tuv lang="BE"><seg>возера Алашскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Алоизберг</seg></tuv>
+      <tuv lang="BE"><seg>возера Алаізберг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Белое</seg></tuv>
+      <tuv lang="BE"><seg>Белае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Груда</seg></tuv>
+      <tuv lang="BE"><seg>возера Груда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озеродка</seg></tuv>
+      <tuv lang="BE"><seg>Азяродка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Езерище</seg></tuv>
+      <tuv lang="BE"><seg>возера Езярышча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Круглик</seg></tuv>
+      <tuv lang="BE"><seg>возера Круглік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Кузьмичи</seg></tuv>
+      <tuv lang="BE"><seg>возера Кузьмічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Нарочь</seg></tuv>
+      <tuv lang="BE"><seg>возера Нарач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Обабье</seg></tuv>
+      <tuv lang="BE"><seg>возера Абаб'е</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Обида</seg></tuv>
+      <tuv lang="BE"><seg>возера Абіда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Оболе</seg></tuv>
+      <tuv lang="BE"><seg>возера Аболе</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Образцы</seg></tuv>
+      <tuv lang="BE"><seg>возера Абразцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Обстерно</seg></tuv>
+      <tuv lang="BE"><seg>возера Абстэрна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Ожехово</seg></tuv>
+      <tuv lang="BE"><seg>возера Ажэхава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Озерайце</seg></tuv>
+      <tuv lang="BE"><seg>возера Азярайцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Озерки</seg></tuv>
+      <tuv lang="BE"><seg>возера Азёркі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Озерко</seg></tuv>
+      <tuv lang="BE"><seg>возера Азярко</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окнистое</seg></tuv>
+      <tuv lang="BE"><seg>возера Акністае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окно</seg></tuv>
+      <tuv lang="BE"><seg>возера Акно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окуневец</seg></tuv>
+      <tuv lang="BE"><seg>возера Акунёвец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окунево</seg></tuv>
+      <tuv lang="BE"><seg>возера Акунёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окуневчик</seg></tuv>
+      <tuv lang="BE"><seg>возера Акунёўчык</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окунец</seg></tuv>
+      <tuv lang="BE"><seg>возера Акунец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окунино</seg></tuv>
+      <tuv lang="BE"><seg>возера Акуніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Окунь</seg></tuv>
+      <tuv lang="BE"><seg>возера Акунь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Ордово</seg></tuv>
+      <tuv lang="BE"><seg>возера Ардова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Отводы</seg></tuv>
+      <tuv lang="BE"><seg>возера Адводы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Святое</seg></tuv>
+      <tuv lang="BE"><seg>возера Святое</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Семиховичи</seg></tuv>
+      <tuv lang="BE"><seg>возера Семехавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Худовец</seg></tuv>
+      <tuv lang="BE"><seg>возера Худавец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>озеро Юбилейное</seg></tuv>
+      <tuv lang="BE"><seg>возера Юбілейнае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озерянское озеро</seg></tuv>
+      <tuv lang="BE"><seg>Азяранскае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Окменица</seg></tuv>
+      <tuv lang="BE"><seg>Акмяніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский канал</seg></tuv>
+      <tuv lang="BE"><seg>Акцябрскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский кнал</seg></tuv>
+      <tuv lang="BE"><seg>Акцябрскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Окуневка</seg></tuv>
+      <tuv lang="BE"><seg>Акунёўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Окунинский канал</seg></tuv>
+      <tuv lang="BE"><seg>Акунінскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ола</seg></tuv>
+      <tuv lang="BE"><seg>Ала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олеховка</seg></tuv>
+      <tuv lang="BE"><seg>Алёхаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олешня</seg></tuv>
+      <tuv lang="BE"><seg>Алешня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ольса</seg></tuv>
+      <tuv lang="BE"><seg>Ольса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ольховка</seg></tuv>
+      <tuv lang="BE"><seg>Альхоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ольша</seg></tuv>
+      <tuv lang="BE"><seg>р. Вольша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ольшанка</seg></tuv>
+      <tuv lang="BE"><seg>Альшанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Опита</seg></tuv>
+      <tuv lang="BE"><seg>Апіта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ордежанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Арджанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ордышевка</seg></tuv>
+      <tuv lang="BE"><seg>Ардышоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ореховский</seg></tuv>
+      <tuv lang="BE"><seg>Арэхаускi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оржовка</seg></tuv>
+      <tuv lang="BE"><seg>Аржоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Орля</seg></tuv>
+      <tuv lang="BE"><seg>Орля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оршица</seg></tuv>
+      <tuv lang="BE"><seg>[Аршыца, р. Аршыца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осеча</seg></tuv>
+      <tuv lang="BE"><seg>р. Асеча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осиновка</seg></tuv>
+      <tuv lang="BE"><seg>Асінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осовица</seg></tuv>
+      <tuv lang="BE"><seg>Асавіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осока</seg></tuv>
+      <tuv lang="BE"><seg>р. Асака</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островлянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Астраўлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ошмянка</seg></tuv>
+      <tuv lang="BE"><seg>Ашмянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пальминка</seg></tuv>
+      <tuv lang="BE"><seg>р. Пальмінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Переволочка</seg></tuv>
+      <tuv lang="BE"><seg>Перавалочка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Перекуль</seg></tuv>
+      <tuv lang="BE"><seg>Перакуль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песочанка</seg></tuv>
+      <tuv lang="BE"><seg>Песачанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пестуница</seg></tuv>
+      <tuv lang="BE"><seg>Пестуніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песчанка</seg></tuv>
+      <tuv lang="BE"><seg>Пясчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плеснянка</seg></tuv>
+      <tuv lang="BE"><seg>Пляснянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плиса</seg></tuv>
+      <tuv lang="BE"><seg>[Пліса, р. Пліса]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плисса</seg></tuv>
+      <tuv lang="BE"><seg>Пліса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пневка</seg></tuv>
+      <tuv lang="BE"><seg>Пнёўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Погост</seg></tuv>
+      <tuv lang="BE"><seg>Пагост</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Половец</seg></tuv>
+      <tuv lang="BE"><seg>р. Паловец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полонка</seg></tuv>
+      <tuv lang="BE"><seg>Палонка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полота</seg></tuv>
+      <tuv lang="BE"><seg>[Палата, р. Палата]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полюшка</seg></tuv>
+      <tuv lang="BE"><seg>[р. Палюшка, р. Полюшка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Понарка</seg></tuv>
+      <tuv lang="BE"><seg>Панарка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поня</seg></tuv>
+      <tuv lang="BE"><seg>[Поня, р. Поня]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поросица</seg></tuv>
+      <tuv lang="BE"><seg>[Парасіца, р. Парасіца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почалица</seg></tuv>
+      <tuv lang="BE"><seg>[Пачаліца, р. Пачаліца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Припять</seg></tuv>
+      <tuv lang="BE"><seg>[ПРЫПЯЦЬ, Прыпяць]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пробойница</seg></tuv>
+      <tuv lang="BE"><seg>Прабойніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Проня</seg></tuv>
+      <tuv lang="BE"><seg>Проня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Протяг</seg></tuv>
+      <tuv lang="BE"><seg>р. Працяг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прудище</seg></tuv>
+      <tuv lang="BE"><seg>Прудзіща</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прудок</seg></tuv>
+      <tuv lang="BE"><seg>Прудок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прудчинская</seg></tuv>
+      <tuv lang="BE"><seg>Прудчынская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Птичь</seg></tuv>
+      <tuv lang="BE"><seg>Пціч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пырянка</seg></tuv>
+      <tuv lang="BE"><seg>Пыранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>р. Мяделка</seg></tuv>
+      <tuv lang="BE"><seg>Пастаўскае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ракитовка</seg></tuv>
+      <tuv lang="BE"><seg>р. Ракітаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ратомка</seg></tuv>
+      <tuv lang="BE"><seg>Ратамка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речица</seg></tuv>
+      <tuv lang="BE"><seg>р. Рэчыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ржавка</seg></tuv>
+      <tuv lang="BE"><seg>Ржаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рогожица</seg></tuv>
+      <tuv lang="BE"><seg>р. Рагожыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Россасенка</seg></tuv>
+      <tuv lang="BE"><seg>[Расасенка, р. Расасенка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Россь</seg></tuv>
+      <tuv lang="BE"><seg>Рось</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рубежница</seg></tuv>
+      <tuv lang="BE"><seg>Рубежніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рудавка</seg></tuv>
+      <tuv lang="BE"><seg>Рудаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рудница</seg></tuv>
+      <tuv lang="BE"><seg>[Рудніца, р. Рудніца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рудня</seg></tuv>
+      <tuv lang="BE"><seg>Рудня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рудчанка</seg></tuv>
+      <tuv lang="BE"><seg>Рудчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ручей Дунай</seg></tuv>
+      <tuv lang="BE"><seg>ручай Дунай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ручей Озера</seg></tuv>
+      <tuv lang="BE"><seg>ручай Азёры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ручей Песковатик</seg></tuv>
+      <tuv lang="BE"><seg>ручай Пескавацік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ручей Питомка</seg></tuv>
+      <tuv lang="BE"><seg>ручай Пiтомка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ручей Слизский</seg></tuv>
+      <tuv lang="BE"><seg>ручай Слізскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рыбанец</seg></tuv>
+      <tuv lang="BE"><seg>Рыбанец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рыбница</seg></tuv>
+      <tuv lang="BE"><seg>Рыбніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рыта</seg></tuv>
+      <tuv lang="BE"><seg>Рыта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рыча</seg></tuv>
+      <tuv lang="BE"><seg>Рыча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рябинка</seg></tuv>
+      <tuv lang="BE"><seg>р. Рабінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Савек</seg></tuv>
+      <tuv lang="BE"><seg>Савек</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Салатьевское</seg></tuv>
+      <tuv lang="BE"><seg>Салаццеўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свенцица</seg></tuv>
+      <tuv lang="BE"><seg>Свянціца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Святое</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свеча</seg></tuv>
+      <tuv lang="BE"><seg>р. Свяча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свечанка</seg></tuv>
+      <tuv lang="BE"><seg>Свячанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свина</seg></tuv>
+      <tuv lang="BE"><seg>р. Свіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свинка</seg></tuv>
+      <tuv lang="BE"><seg>Свінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свислочь</seg></tuv>
+      <tuv lang="BE"><seg>Свіслач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свитязь</seg></tuv>
+      <tuv lang="BE"><seg>Свіцязь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свядица</seg></tuv>
+      <tuv lang="BE"><seg>р. Свядзіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Святое озеро</seg></tuv>
+      <tuv lang="BE"><seg>Святое возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Селява</seg></tuv>
+      <tuv lang="BE"><seg>Сялява</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сервайка</seg></tuv>
+      <tuv lang="BE"><seg>р. Сярвайка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сервеч</seg></tuv>
+      <tuv lang="BE"><seg>[Сэрвач, р. Сэрвач]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сергуч</seg></tuv>
+      <tuv lang="BE"><seg>[Сяргуч, р. Сяргуч]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Серебрянка</seg></tuv>
+      <tuv lang="BE"><seg>Серабранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Серокотнянка</seg></tuv>
+      <tuv lang="BE"><seg>Серакатнянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сечна</seg></tuv>
+      <tuv lang="BE"><seg>Сечна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сильница</seg></tuv>
+      <tuv lang="BE"><seg>р. Сільніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Симаниха</seg></tuv>
+      <tuv lang="BE"><seg>р. Сіманіха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Симониха</seg></tuv>
+      <tuv lang="BE"><seg>р. Сіманіха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Синька</seg></tuv>
+      <tuv lang="BE"><seg>Сінька</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скулянка</seg></tuv>
+      <tuv lang="BE"><seg>Скулянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скупья</seg></tuv>
+      <tuv lang="BE"><seg>Скуп’я</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слепчанка</seg></tuv>
+      <tuv lang="BE"><seg>р. Слепчанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слепянская водная система</seg></tuv>
+      <tuv lang="BE"><seg>[Сляпянская водная сістема, Сляпянская водная сістэма]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слободка</seg></tuv>
+      <tuv lang="BE"><seg>Слабодка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Словечна</seg></tuv>
+      <tuv lang="BE"><seg>Славечна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слоуст</seg></tuv>
+      <tuv lang="BE"><seg>Слоўст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Случь</seg></tuv>
+      <tuv lang="BE"><seg>Случ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смолянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Смалянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смолярня</seg></tuv>
+      <tuv lang="BE"><seg>Смалярня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смычица</seg></tuv>
+      <tuv lang="BE"><seg>Смычыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сож</seg></tuv>
+      <tuv lang="BE"><seg>Сож</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соколянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Сакалянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солигорское водохранилище</seg></tuv>
+      <tuv lang="BE"><seg>Салігорскае вадасховішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соломенка</seg></tuv>
+      <tuv lang="BE"><seg>Саломенка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солоновка</seg></tuv>
+      <tuv lang="BE"><seg>р. Салонаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосница</seg></tuv>
+      <tuv lang="BE"><seg>р. Сосніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновка</seg></tuv>
+      <tuv lang="BE"><seg>Сасноўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спушанка</seg></tuv>
+      <tuv lang="BE"><seg>Спушанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старобинка</seg></tuv>
+      <tuv lang="BE"><seg>Старобінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ствига</seg></tuv>
+      <tuv lang="BE"><seg>Сцвіга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Страдань</seg></tuv>
+      <tuv lang="BE"><seg>р. Страдань</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стриевка</seg></tuv>
+      <tuv lang="BE"><seg>Стрыеўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Струга</seg></tuv>
+      <tuv lang="BE"><seg>Струга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Струна</seg></tuv>
+      <tuv lang="BE"><seg>Струна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Студенец</seg></tuv>
+      <tuv lang="BE"><seg>Студзянец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Студенка</seg></tuv>
+      <tuv lang="BE"><seg>[Студзенка, Студзёнка, р. Студзёнка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суббота</seg></tuv>
+      <tuv lang="BE"><seg>р. Субота</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сула</seg></tuv>
+      <tuv lang="BE"><seg>Сула</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суров</seg></tuv>
+      <tuv lang="BE"><seg>Сураў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сутоки</seg></tuv>
+      <tuv lang="BE"><seg>Сутокі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сух. Поленница</seg></tuv>
+      <tuv lang="BE"><seg>р. Сухая Паленніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суходровка</seg></tuv>
+      <tuv lang="BE"><seg>р. Сухадроўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Табора</seg></tuv>
+      <tuv lang="BE"><seg>Табора</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Танцы белорусские</seg></tuv>
+      <tuv lang="BE"><seg>Танцы беларускія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Татарка</seg></tuv>
+      <tuv lang="BE"><seg>Татарка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тонкая Лучка</seg></tuv>
+      <tuv lang="BE"><seg>Тонкая Лучка (Турчанка)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трезубка</seg></tuv>
+      <tuv lang="BE"><seg>р. Трызубка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трещали</seg></tuv>
+      <tuv lang="BE"><seg>р. Трашчалі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тросница</seg></tuv>
+      <tuv lang="BE"><seg>р. Тросніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тростянка</seg></tuv>
+      <tuv lang="BE"><seg>Трасцянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туровля</seg></tuv>
+      <tuv lang="BE"><seg>Туроўля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туровлянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Тураўлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Турья</seg></tuv>
+      <tuv lang="BE"><seg>Тур'я</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тхаринка</seg></tuv>
+      <tuv lang="BE"><seg>р. Тхарынка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Удра</seg></tuv>
+      <tuv lang="BE"><seg>Удра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ужница</seg></tuv>
+      <tuv lang="BE"><seg>[Вужніца, Ужніца]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Узменка</seg></tuv>
+      <tuv lang="BE"><seg>[Узменка, р. Узменка]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улла</seg></tuv>
+      <tuv lang="BE"><seg>Ула</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ульянка</seg></tuv>
+      <tuv lang="BE"><seg>Ульянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ульяновка</seg></tuv>
+      <tuv lang="BE"><seg>Ульянаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усвейка</seg></tuv>
+      <tuv lang="BE"><seg>р. Усвейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усвяча</seg></tuv>
+      <tuv lang="BE"><seg>р. Усвяча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Успол</seg></tuv>
+      <tuv lang="BE"><seg>р. Успол (Тураўка)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усса</seg></tuv>
+      <tuv lang="BE"><seg>Уса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усыса</seg></tuv>
+      <tuv lang="BE"><seg>р. Усыса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усяжа</seg></tuv>
+      <tuv lang="BE"><seg>Усяжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уть</seg></tuv>
+      <tuv lang="BE"><seg>Вуць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уша</seg></tuv>
+      <tuv lang="BE"><seg>Уша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ушача</seg></tuv>
+      <tuv lang="BE"><seg>[Ушача, р. Ушача]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хватовка</seg></tuv>
+      <tuv lang="BE"><seg>Хватаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Холостовка</seg></tuv>
+      <tuv lang="BE"><seg>р. Халастоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хомутовка</seg></tuv>
+      <tuv lang="BE"><seg>Хамутоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храповлянка</seg></tuv>
+      <tuv lang="BE"><seg>р. Храпаўлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цахминский канал</seg></tuv>
+      <tuv lang="BE"><seg>Цахмінскі канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ценица</seg></tuv>
+      <tuv lang="BE"><seg>р. Ценіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цна</seg></tuv>
+      <tuv lang="BE"><seg>Цна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапунька</seg></tuv>
+      <tuv lang="BE"><seg>Чапунька</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чарна</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чемеровка</seg></tuv>
+      <tuv lang="BE"><seg>Чамяроўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Червинка</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарвінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Червоное озеро</seg></tuv>
+      <tuv lang="BE"><seg>Чырвонае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернавка</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарняўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черная</seg></tuv>
+      <tuv lang="BE"><seg>р. Чорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чёрная</seg></tuv>
+      <tuv lang="BE"><seg>Чорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чёрная Ганьча</seg></tuv>
+      <tuv lang="BE"><seg>Чорная Ганча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернейка</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарнейка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чёрненькое озеро</seg></tuv>
+      <tuv lang="BE"><seg>Чорненькае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернец</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарнец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черница</seg></tuv>
+      <tuv lang="BE"><seg>Чарніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черницы</seg></tuv>
+      <tuv lang="BE"><seg>Чарніцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черничанка</seg></tuv>
+      <tuv lang="BE"><seg>Чарнічанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черногостница</seg></tuv>
+      <tuv lang="BE"><seg>Чарнагосціца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чёрное</seg></tuv>
+      <tuv lang="BE"><seg>[Чорнае, Чорнае воз.]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чёрное озеро</seg></tuv>
+      <tuv lang="BE"><seg>Чорнае возера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернуйка</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарнуйка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернуха</seg></tuv>
+      <tuv lang="BE"><seg>Чарнуха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернушка</seg></tuv>
+      <tuv lang="BE"><seg>Чэрнушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернуя</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарнуя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернявка</seg></tuv>
+      <tuv lang="BE"><seg>Чарняўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черченица</seg></tuv>
+      <tuv lang="BE"><seg>р. Чарчаніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чижовка</seg></tuv>
+      <tuv lang="BE"><seg>Чыжоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чудинка</seg></tuv>
+      <tuv lang="BE"><seg>р. Чудзінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шевинка</seg></tuv>
+      <tuv lang="BE"><seg>Шэвінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шестенка</seg></tuv>
+      <tuv lang="BE"><seg>р. Шэсценка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шиша</seg></tuv>
+      <tuv lang="BE"><seg>р. Шыша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шкордянка</seg></tuv>
+      <tuv lang="BE"><seg>Шкардзянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шлямица</seg></tuv>
+      <tuv lang="BE"><seg>Шляміца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шухровская</seg></tuv>
+      <tuv lang="BE"><seg>р. Шухроўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щара</seg></tuv>
+      <tuv lang="BE"><seg>Шчара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щебирка</seg></tuv>
+      <tuv lang="BE"><seg>р. Шчабірка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щеперня</seg></tuv>
+      <tuv lang="BE"><seg>р. Шчаперня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щиба</seg></tuv>
+      <tuv lang="BE"><seg>Щчыба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щовоня</seg></tuv>
+      <tuv lang="BE"><seg>р. Шчавоня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эсса</seg></tuv>
+      <tuv lang="BE"><seg>[Эса, Эсса]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Югна</seg></tuv>
+      <tuv lang="BE"><seg>р. Югна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юриздика</seg></tuv>
+      <tuv lang="BE"><seg>Юрыдыка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юровка</seg></tuv>
+      <tuv lang="BE"><seg>руч. Юраўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юхновка</seg></tuv>
+      <tuv lang="BE"><seg>Юхнаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Язвинка</seg></tuv>
+      <tuv lang="BE"><seg>Язвінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясельдовский канал</seg></tuv>
+      <tuv lang="BE"><seg>Ясельдзінскі канал</seg></tuv>
+    </tu>
+  </body></tmx>

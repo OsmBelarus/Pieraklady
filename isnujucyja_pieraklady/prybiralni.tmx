@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Платный</seg></tuv>
+      <tuv lang="BE"><seg>[Платная, Платны]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туалет</seg></tuv>
+      <tuv lang="BE"><seg>Прыбiральня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туалет, душ</seg></tuv>
+      <tuv lang="BE"><seg>Туалет, душ</seg></tuv>
+    </tu>
+  </body></tmx>

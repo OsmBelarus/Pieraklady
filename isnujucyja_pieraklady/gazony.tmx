@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>площадь Мясникова</seg></tuv>
+      <tuv lang="BE"><seg>плошча Мяснікова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Площадь объединенных наций</seg></tuv>
+      <tuv lang="BE"><seg>Плошча аб'яднаных нацый</seg></tuv>
+    </tu>
+  </body></tmx>

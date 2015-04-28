@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>"Любимая аптека"</seg></tuv>
+      <tuv lang="BE"><seg>"Любімая аптэка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>24 часа</seg></tuv>
+      <tuv lang="BE"><seg>24 гадзіны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>36,6</seg></tuv>
+      <tuv lang="BE"><seg>36,6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>36.6</seg></tuv>
+      <tuv lang="BE"><seg>36.6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>36. 6</seg></tuv>
+      <tuv lang="BE"><seg>36.6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Айболит</seg></tuv>
+      <tuv lang="BE"><seg>Айбаліт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Айболит №6</seg></tuv>
+      <tuv lang="BE"><seg>Айбаліт №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алеан ОДО Аптека №1</seg></tuv>
+      <tuv lang="BE"><seg>Алеан ТДА Аптэка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алеан ОДО Аптека №2</seg></tuv>
+      <tuv lang="BE"><seg>Алеан ТДА Аптэка №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аленфарм-Плюс ОДО Аптека №16</seg></tuv>
+      <tuv lang="BE"><seg>Аленфарм-Плюс ТДА Аптэка №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альфамед</seg></tuv>
+      <tuv lang="BE"><seg>Альфамед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека</seg></tuv>
+      <tuv lang="BE"><seg>[Аптэка, Аптэка  Adel, Аптэка N 3 Вітвар]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека "Находка"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка "Знаходка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека "Планета Здоровья"</seg></tuv>
+      <tuv lang="BE"><seg>Планета Здароўя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека 15</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека N6 (филиал 2)</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка N6 (філіял 2)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека коммерческая</seg></tuv>
+      <tuv lang="BE"><seg>Камерцыйная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека-музей</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка-музей</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека Приснянской АВОП</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка Прыснянскай АВОП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №1</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №10</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №104</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №104</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №108</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №108</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №109</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №109</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №11</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №110</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №110</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №12</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №120 Рамонак</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №120</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №125</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №125</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №127</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №127</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №128</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №128</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №13</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №138</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №138</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №13 Айболит</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №13 Айбаліт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №14</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №15</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №155</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №155</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №157</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №157</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №158</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №158</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №159</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №159</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №16</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №162</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №162</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 164</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 164</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №165</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №165</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №17</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №171</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №171</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №175</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №175</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №18</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №180</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №180</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №189</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №189</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №19</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №190 Центральная</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №190 Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №193</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №193</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №194</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №194</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №195</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №195</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №199</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №199</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №199/8</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №199/8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №19 Интерфарм</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №19 Інтэрфарм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №1 Белмединфарм</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №1 Белмедінфарм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №1 ОДО "Шарлота"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №1 ТДА "Шарлота"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №2</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №2 (ОДО "Медфармснаб")</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №2 (ОДО "Медфармснаб")</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №20</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №21</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №214</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №214</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №215</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №215</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №216 РУП "Минская фармация"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №216 РУП "Мінская фармация"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №223</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №223</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №233</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №233</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №239</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №239</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №241</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №241</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №242</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №242</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №25</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №250</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №250</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №254</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №254</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №256</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №256</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №27</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №270</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №270</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №28</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №280</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №280</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №29</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №29</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №2 ОДО "Шарлота"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №2 ТДА "Шарлота"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №2 УП "Виватон плюс"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №2 УП "Віватон плюс"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №3</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 3</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №30</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №30</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №30 Искамед</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №30 Іскамед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №31</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №33</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №34</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №35</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №35</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №36</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №36</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №37</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №3 ОДО "Шарлота"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №3 ТДА "Шарлота"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №4</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №40</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №44</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №44</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №45 Искамед</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №45 Іскамед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №48</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №48</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №4 Биотест НПК</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №4 Біатест НПК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №5</seg></tuv>
+      <tuv lang="BE"><seg>[Аптэка, Аптэка №5]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №5 "Айболит"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №5 Айбаліт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №53</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №53</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №57</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №57</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №58</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №58</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №59</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №59</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №5 Интерфарм</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №5 Інтэрфарм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №5 Искамед</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №5 Іскамед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №6</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №61</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 61</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №62</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>аптека №63</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №63</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №64</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №64</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №6 ОДО "Шарлота"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №6 ТДА "Шарлота"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №7</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №74</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №7 Витвар</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №7 Вітвар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №7 ОДО "Шарлота"</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №7 ТДА "Шарлота"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №8</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №80</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №80</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №82</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №82</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №8 Витвар</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №8 Вітвар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека №9</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптека № 9</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптечный киоск</seg></tuv>
+      <tuv lang="BE"><seg>Аптэчны шапік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белмединфарм ООО Аптека №4</seg></tuv>
+      <tuv lang="BE"><seg>Белмедінфарм ТАА Аптэка №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белмединфарм №30</seg></tuv>
+      <tuv lang="BE"><seg>Белмедінфарм №30</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белмедпресс ООО Аптека №7</seg></tuv>
+      <tuv lang="BE"><seg>Белмедпрэс ТАА Аптэка №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфарм</seg></tuv>
+      <tuv lang="BE"><seg>Белфарм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №1</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №100</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №101</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №101</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №102</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №102</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №104</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №104</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №106</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №106</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №109</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №109</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №11</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №110</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №110</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №112</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №112</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №13</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А ТДА Аптэка №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация А РУП Аптека №17</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя А РУП Аптэка №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белфармация №110</seg></tuv>
+      <tuv lang="BE"><seg>Белфармацыя №110</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беролина №1</seg></tuv>
+      <tuv lang="BE"><seg>Бераліна №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Биотест-Гомель</seg></tuv>
+      <tuv lang="BE"><seg>Біатэст-Гомель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Будь здоров</seg></tuv>
+      <tuv lang="BE"><seg>Будзь здароў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветаптека</seg></tuv>
+      <tuv lang="BE"><seg>Ветаптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветеринарная Аптека</seg></tuv>
+      <tuv lang="BE"><seg>Ветэрынарная Аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветеринарная аптека №5</seg></tuv>
+      <tuv lang="BE"><seg>Ветэрынарная аптэка №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Геофарм №1</seg></tuv>
+      <tuv lang="BE"><seg>Аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дамиан</seg></tuv>
+      <tuv lang="BE"><seg>Даміян</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дежурная аптека</seg></tuv>
+      <tuv lang="BE"><seg>Дзяжурная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доктор А №4</seg></tuv>
+      <tuv lang="BE"><seg>Доктар А №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доктор А №7</seg></tuv>
+      <tuv lang="BE"><seg>Доктар А №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доктор Вет</seg></tuv>
+      <tuv lang="BE"><seg>Доктар Вет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доктор время</seg></tuv>
+      <tuv lang="BE"><seg>Доктар час</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заботливая</seg></tuv>
+      <tuv lang="BE"><seg>Клапатлівая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелейная лавка</seg></tuv>
+      <tuv lang="BE"><seg>Зёлкавая лаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная аптека</seg></tuv>
+      <tuv lang="BE"><seg>Зялёная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёный Лист</seg></tuv>
+      <tuv lang="BE"><seg>Зялёны Ліст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Искамед</seg></tuv>
+      <tuv lang="BE"><seg>Іскамед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Искамед №23</seg></tuv>
+      <tuv lang="BE"><seg>Іскамед №23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Искамед №28</seg></tuv>
+      <tuv lang="BE"><seg>Іскамед №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комерческая</seg></tuv>
+      <tuv lang="BE"><seg>Камерцыйная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Круглосуточная аптека</seg></tuv>
+      <tuv lang="BE"><seg>Дзяжурная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любимая аптека</seg></tuv>
+      <tuv lang="BE"><seg>Любімая аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медея</seg></tuv>
+      <tuv lang="BE"><seg>Мэдэя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мединтер</seg></tuv>
+      <tuv lang="BE"><seg>Медінтэр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>медицинская лаборатория "Синэво"</seg></tuv>
+      <tuv lang="BE"><seg>Медыцынская лабараторыя "Сінэво"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мед-сервис</seg></tuv>
+      <tuv lang="BE"><seg>Мед-сэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медтехника</seg></tuv>
+      <tuv lang="BE"><seg>Медтэхніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мир здоровья</seg></tuv>
+      <tuv lang="BE"><seg>Свет здароўя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Моя Аптека</seg></tuv>
+      <tuv lang="BE"><seg>Мая Аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новкинская аптека</seg></tuv>
+      <tuv lang="BE"><seg>Ноўкінская аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нордин</seg></tuv>
+      <tuv lang="BE"><seg>Нардзін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нордин 24H</seg></tuv>
+      <tuv lang="BE"><seg>Нардзін 24H</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ночная аптека 22:00-08:00</seg></tuv>
+      <tuv lang="BE"><seg>Начная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ООО «Доктор Время»</seg></tuv>
+      <tuv lang="BE"><seg>ТАА «Доктар Час»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптика</seg></tuv>
+      <tuv lang="BE"><seg>Оптыка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптика/аптека</seg></tuv>
+      <tuv lang="BE"><seg>Оптыка/аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптимед</seg></tuv>
+      <tuv lang="BE"><seg>Аптымед</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета здоровья</seg></tuv>
+      <tuv lang="BE"><seg>Планета здароўя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета Здоровья</seg></tuv>
+      <tuv lang="BE"><seg>Планета здароўя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета Здоровья Аптека №17</seg></tuv>
+      <tuv lang="BE"><seg>Планета Здароўя Аптэка №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета Здоровья Аптека №2 ООО Доктор-Таир</seg></tuv>
+      <tuv lang="BE"><seg>Планета Здароўя Аптэка №2 ТАА Доктар-Таір</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Планета здоровья №4</seg></tuv>
+      <tuv lang="BE"><seg>Планета здароўя №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника №12</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фармация, аптека №1</seg></tuv>
+      <tuv lang="BE"><seg>Фармацыя, аптэка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фармация №155</seg></tuv>
+      <tuv lang="BE"><seg>Фармацыя №155</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фармация №71</seg></tuv>
+      <tuv lang="BE"><seg>Фармацыя №71</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фармация №77/3</seg></tuv>
+      <tuv lang="BE"><seg>Фармацыя №77/3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фарммаркет</seg></tuv>
+      <tuv lang="BE"><seg>Фарммаркет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фарммаркет №1</seg></tuv>
+      <tuv lang="BE"><seg>Фарммаркет №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фарммаркет №2</seg></tuv>
+      <tuv lang="BE"><seg>Фарммаркет №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная аптека</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная аптэка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная аптека №136</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная аптэка №136</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная районная аптека №198</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная раённая аптэка №198</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная районная аптека №83</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная раённая аптэка №83</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦРА №9</seg></tuv>
+      <tuv lang="BE"><seg>ЦРА №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юнифарм</seg></tuv>
+      <tuv lang="BE"><seg>Юніфарм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№10</seg></tuv>
+      <tuv lang="BE"><seg>№10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№100</seg></tuv>
+      <tuv lang="BE"><seg>№100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№101</seg></tuv>
+      <tuv lang="BE"><seg>№101</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№103</seg></tuv>
+      <tuv lang="BE"><seg>№103</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№105</seg></tuv>
+      <tuv lang="BE"><seg>№105</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№107</seg></tuv>
+      <tuv lang="BE"><seg>№107</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№108</seg></tuv>
+      <tuv lang="BE"><seg>№108</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№109</seg></tuv>
+      <tuv lang="BE"><seg>№109</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№112</seg></tuv>
+      <tuv lang="BE"><seg>№112</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№113</seg></tuv>
+      <tuv lang="BE"><seg>№113</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№129</seg></tuv>
+      <tuv lang="BE"><seg>№129</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№131</seg></tuv>
+      <tuv lang="BE"><seg>№131</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№135</seg></tuv>
+      <tuv lang="BE"><seg>№135</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№14</seg></tuv>
+      <tuv lang="BE"><seg>№14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№16</seg></tuv>
+      <tuv lang="BE"><seg>№16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№17</seg></tuv>
+      <tuv lang="BE"><seg>№17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№182</seg></tuv>
+      <tuv lang="BE"><seg>№182</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№19</seg></tuv>
+      <tuv lang="BE"><seg>№19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№2</seg></tuv>
+      <tuv lang="BE"><seg>№2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№21</seg></tuv>
+      <tuv lang="BE"><seg>№21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№23</seg></tuv>
+      <tuv lang="BE"><seg>№23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№26</seg></tuv>
+      <tuv lang="BE"><seg>№26</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№3</seg></tuv>
+      <tuv lang="BE"><seg>№3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№32</seg></tuv>
+      <tuv lang="BE"><seg>№32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№34</seg></tuv>
+      <tuv lang="BE"><seg>№34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№36</seg></tuv>
+      <tuv lang="BE"><seg>№36</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№37</seg></tuv>
+      <tuv lang="BE"><seg>№37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№4</seg></tuv>
+      <tuv lang="BE"><seg>№4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№76</seg></tuv>
+      <tuv lang="BE"><seg>№76</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№79</seg></tuv>
+      <tuv lang="BE"><seg>№79</seg></tuv>
+    </tu>
+  </body></tmx>

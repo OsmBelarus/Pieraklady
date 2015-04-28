@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестская область</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкая вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брест-Тересполь</seg></tuv>
+      <tuv lang="BE"><seg>Брэст-Цярэспаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебская область</seg></tuv>
+      <tuv lang="BE"><seg>Віцебская вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельская область</seg></tuv>
+      <tuv lang="BE"><seg>Гомельская вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская область</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Домачево</seg></tuv>
+      <tuv lang="BE"><seg>Дамачава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Козловичи</seg></tuv>
+      <tuv lang="BE"><seg>Казловiчы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минск</seg></tuv>
+      <tuv lang="BE"><seg>Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минская область</seg></tuv>
+      <tuv lang="BE"><seg>Мінская вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могилёвская область</seg></tuv>
+      <tuv lang="BE"><seg>Магілёўская вобласць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песчатка</seg></tuv>
+      <tuv lang="BE"><seg>Пясчатка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урбаны</seg></tuv>
+      <tuv lang="BE"><seg>Урбаны</seg></tuv>
+    </tu>
+  </body></tmx>

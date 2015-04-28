@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>"Белагропромбанк" РКЦ №6</seg></tuv>
+      <tuv lang="BE"><seg>"Белаграпрамбанк" РКЦ №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>"Беларусбанк" ЦБУ 203</seg></tuv>
+      <tuv lang="BE"><seg>"Беларусбанк" ЦБП 203</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>«Альфа-Банк», отделение «На Советской»</seg></tuv>
+      <tuv lang="BE"><seg>Альфа-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Idea Bank</seg></tuv>
+      <tuv lang="BE"><seg>Idea Bank</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Абсолютбанк</seg></tuv>
+      <tuv lang="BE"><seg>Абсалютбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альфа-Банк</seg></tuv>
+      <tuv lang="BE"><seg>Альфа-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк ВТБ</seg></tuv>
+      <tuv lang="BE"><seg>Банк ВТБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк Москва-Минск</seg></tuv>
+      <tuv lang="BE"><seg>Банк Масква-Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк Москва-Минск, ЦБУ №10</seg></tuv>
+      <tuv lang="BE"><seg>Банк Масква-Мінск, ЦБП №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банкомат БПС Банк</seg></tuv>
+      <tuv lang="BE"><seg>Банкамат БПС-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропром Банк</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк, РКЦ №13</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк, РКЦ №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк, РКЦ №2</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк, РКЦ №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк, РКЦ №3</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк, РКЦ №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк, РКЦ №7</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк, РКЦ №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, ЦБУ №222</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, ЦБП №222</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №100</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №100/118</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №100/118</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №126/47</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №126/47</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №200/110</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №200/110</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №200/2</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №200/2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №201/80</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №201/80</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №214</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №214</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №214/10</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №214/10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №214/13</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №214/13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №214/3</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №214/3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк, №214/7</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк, №214/7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк отделение №510/416</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк аддзяленне № 510/416</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк ЦБУ №611</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк №529/304</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк №529/304</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк №529/394</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк №529/394</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелВЭБ</seg></tuv>
+      <tuv lang="BE"><seg>БелВЭБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелВЭБ, ЦРБ №680/1</seg></tuv>
+      <tuv lang="BE"><seg>БелВЭБ, ЦРБ №680/1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белгазпромбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белгазпромбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвестбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвестбанк, №629</seg></tuv>
+      <tuv lang="BE"><seg>Белінвестбанк, №629</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский Народный Банк</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі Народны Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белросбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белрасбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелСвиссБанк</seg></tuv>
+      <tuv lang="BE"><seg>БелСвісБанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Cбербанк</seg></tuv>
+      <tuv lang="BE"><seg>БПС-банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Сбербанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк, РКЦ №3</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Сбербанк, РКЦ №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк, РКЦ №4</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Сбербанк, РКЦ №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк, РКЦ №5</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Сбербанк, РКЦ №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк, №200</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Сбербанк, №200</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БСБ Банк</seg></tuv>
+      <tuv lang="BE"><seg>БСБ Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БСБ Банк, РКЦ №10</seg></tuv>
+      <tuv lang="BE"><seg>БСБ Банк, РКЦ №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БТА Банк</seg></tuv>
+      <tuv lang="BE"><seg>БТА Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дельта Банк</seg></tuv>
+      <tuv lang="BE"><seg>Дэльта Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евробанк</seg></tuv>
+      <tuv lang="BE"><seg>Еўрабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евроторгинвестбанк</seg></tuv>
+      <tuv lang="BE"><seg>Еўраторгінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Идея Банк</seg></tuv>
+      <tuv lang="BE"><seg>Ідэя Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МТБанк</seg></tuv>
+      <tuv lang="BE"><seg>МТБанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МТБанк, РКЦ №52</seg></tuv>
+      <tuv lang="BE"><seg>МТБанк, РКЦ №52</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный Банк РБ</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны банк РБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО «АСБ Беларусбанк» Отделение №511/319</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Обмен валют</seg></tuv>
+      <tuv lang="BE"><seg>Абмен валют</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>отделение Беларусбанк №400/70</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение Беларусбанк № 614/70</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне Беларусбанк № 614/70</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение №529/350 "Белсвязь"</seg></tuv>
+      <tuv lang="BE"><seg>Аддзяленне №529/350 "Белсувязь"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Паритетбанк</seg></tuv>
+      <tuv lang="BE"><seg>Парытэтбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Паритетбанк, ЦБУ №18</seg></tuv>
+      <tuv lang="BE"><seg>Парытэтбанк, ЦБП №18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приорбанк</seg></tuv>
+      <tuv lang="BE"><seg>Прыёрбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приорбанк, ЦБУ №202/2</seg></tuv>
+      <tuv lang="BE"><seg>Прыёрбанк, ЦБП №202/2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приорбанк, ЦБУ №500</seg></tuv>
+      <tuv lang="BE"><seg>Прыёрбанк, ЦБП №500</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РРБ-Банк</seg></tuv>
+      <tuv lang="BE"><seg>РРБ-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Технобанк</seg></tuv>
+      <tuv lang="BE"><seg>Тэхнабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трастбанк</seg></tuv>
+      <tuv lang="BE"><seg>Трастбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франсабанк</seg></tuv>
+      <tuv lang="BE"><seg>Франсабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хоум Кредит Банк</seg></tuv>
+      <tuv lang="BE"><seg>Хоўм Крэдыт Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хоум Кредит Банк, ЦБУ №206</seg></tuv>
+      <tuv lang="BE"><seg>Хоўм Крэдыт Банк, ЦБП №206</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хоум Кредит Банк, ЦБУ №706</seg></tuv>
+      <tuv lang="BE"><seg>Хоўм Крэдыт Банк, ЦБП №706</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦБУ №1</seg></tuv>
+      <tuv lang="BE"><seg>ЦБУ №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цептер Банк</seg></tuv>
+      <tuv lang="BE"><seg>Цептар Банк</seg></tuv>
+    </tu>
+  </body></tmx>

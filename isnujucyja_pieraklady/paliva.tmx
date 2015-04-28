@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>49</seg></tuv>
+      <tuv lang="BE"><seg>49</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>A-100</seg></tuv>
+      <tuv lang="BE"><seg>A-100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Tatneft №3</seg></tuv>
+      <tuv lang="BE"><seg>Tatneft №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Tatneft №4</seg></tuv>
+      <tuv lang="BE"><seg>Tatneft №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>А-100</seg></tuv>
+      <tuv lang="BE"><seg>А-100</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>А-100 АЗС №2</seg></tuv>
+      <tuv lang="BE"><seg>А-100 АЗС №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>А-100 самообслуживания</seg></tuv>
+      <tuv lang="BE"><seg>А-100 самаабслугоўваньне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АГЗС</seg></tuv>
+      <tuv lang="BE"><seg>[АГЗС, Віцебскаблгаз]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АГНКС Витебск</seg></tuv>
+      <tuv lang="BE"><seg>АГНКС Віцебск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АГНКС Гомель-2</seg></tuv>
+      <tuv lang="BE"><seg>Гомельаблгаз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АГНКС Минск-4</seg></tuv>
+      <tuv lang="BE"><seg>АГНКС Мінск-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АГНКС Орша</seg></tuv>
+      <tuv lang="BE"><seg>АГНКС Ворша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЗС Гомельского РПУ</seg></tuv>
+      <tuv lang="BE"><seg>АЗС Гомельскага РПУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЗС №2 Белоруснефть</seg></tuv>
+      <tuv lang="BE"><seg>АЗС №2 Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белнефтехим</seg></tuv>
+      <tuv lang="BE"><seg>Белнафтахім</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белнефтехим №59</seg></tuv>
+      <tuv lang="BE"><seg>Белнафтахім №59</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белнефтехим №60</seg></tuv>
+      <tuv lang="BE"><seg>Белнафтахім №60</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белнефтехим №76</seg></tuv>
+      <tuv lang="BE"><seg>Белнафтахім №76</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть</seg></tuv>
+      <tuv lang="BE"><seg>[Беларуснафта, Белоруснефть]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть АЗС № 89</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть-Оргнефтехим</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта-Аргнафтахім</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №10</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №11</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть № 11</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта № 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №19</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №2</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №20</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №21</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №23</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №26</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №26</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №28</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №3</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №31</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №32</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №33</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №35</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №35</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №38</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №39</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №40</seg></tuv>
+      <tuv lang="BE"><seg>[Беларуснафта, Беларуснафта №40]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №41</seg></tuv>
+      <tuv lang="BE"><seg>[Беларуснафта, Беларуснафта №41]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть № 42</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта № 42</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №43</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №43</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №46</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснефть №46</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть № 46</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта № 46</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №47</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №48</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №48</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №49</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №49</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №5</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №50</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №50</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №51</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №51</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №52</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №52</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №53</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №53</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №56</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №57</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №57</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №58</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №58</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №59</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №59</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №6</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №62</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №62</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №65</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №65</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №68</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №68</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №7</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №71</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №71</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть № 71</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта № 71</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №72</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №72</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №73</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №73</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №76</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №76</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №80</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №80</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоруснефть №9</seg></tuv>
+      <tuv lang="BE"><seg>Беларуснафта №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БЗП автобаза полоцкое РайПО</seg></tuv>
+      <tuv lang="BE"><seg>БЗП, аўтабаза РайСА</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Блок</seg></tuv>
+      <tuv lang="BE"><seg>Блок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бутан</seg></tuv>
+      <tuv lang="BE"><seg>Бутан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветрино</seg></tuv>
+      <tuv lang="BE"><seg>Ветрына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Газ</seg></tuv>
+      <tuv lang="BE"><seg>Газ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГомельОблГаз</seg></tuv>
+      <tuv lang="BE"><seg>Гомельаблгаз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городокрайгаз</seg></tuv>
+      <tuv lang="BE"><seg>Гарадокрайгаз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружба</seg></tuv>
+      <tuv lang="BE"><seg>Дружба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Запад</seg></tuv>
+      <tuv lang="BE"><seg>Захад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ИП БелГазПроект</seg></tuv>
+      <tuv lang="BE"><seg>ІП Белгазпраект</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукoйл №41</seg></tuv>
+      <tuv lang="BE"><seg>Лукойл №41</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукойл</seg></tuv>
+      <tuv lang="BE"><seg>[Лукоiл, Лукойл, №15 Лукойл]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукойл №15</seg></tuv>
+      <tuv lang="BE"><seg>Лукойл №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукойл №38</seg></tuv>
+      <tuv lang="BE"><seg>Лукоiл №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МАЗС №1 Белоруснефть</seg></tuv>
+      <tuv lang="BE"><seg>МАЗС №1 Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МАЗС №7 Белоруснефть</seg></tuv>
+      <tuv lang="BE"><seg>МАЗС №7 Беларуснафта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Милком</seg></tuv>
+      <tuv lang="BE"><seg>Мілком</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нафтан</seg></tuv>
+      <tuv lang="BE"><seg>Нафтан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оргнефтехим №45</seg></tuv>
+      <tuv lang="BE"><seg>Аргнафтахім №45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сеннорайгаз</seg></tuv>
+      <tuv lang="BE"><seg>Сяннорайгаз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сжиженный газ</seg></tuv>
+      <tuv lang="BE"><seg>Звадкаваны газ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славнефть (закрыто)</seg></tuv>
+      <tuv lang="BE"><seg>Слаўнафта</seg></tuv>
+    </tu>
+  </body></tmx>

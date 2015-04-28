@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Przejście graniczne Białowieża-Piererow</seg></tuv>
+      <tuv lang="BE"><seg>Памежны пераход Перароў-Белавеж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский областной лицей</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі абласны ліцэй</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воднолыжная база</seg></tuv>
+      <tuv lang="BE"><seg>Вадналыжная база</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Водоканал</seg></tuv>
+      <tuv lang="BE"><seg>Вадаканал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Военное Училище</seg></tuv>
+      <tuv lang="BE"><seg>Вайсковае вучылішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городской парк</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскі парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская областная детская клиническая больница</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская абласная дзіцячая клінічная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад</seg></tuv>
+      <tuv lang="BE"><seg>Дз/сад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ерёминское кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Яромінскія могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жилой комплекс "Жасминовая-1"</seg></tuv>
+      <tuv lang="BE"><seg>Жылы комплекс "Язмінавая-1"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жилой комплекс "Парк-Сити"</seg></tuv>
+      <tuv lang="BE"><seg>Жылы комплекс "Парк-Сіці"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная Дубравушка</seg></tuv>
+      <tuv lang="BE"><seg>Зялёная Дубравушка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зубренок</seg></tuv>
+      <tuv lang="BE"><seg>Зубраня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Инфекционная больница</seg></tuv>
+      <tuv lang="BE"><seg>Інфекцыйная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кальварийское кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Кальварыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КНС</seg></tuv>
+      <tuv lang="BE"><seg>КНС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КПП</seg></tuv>
+      <tuv lang="BE"><seg>КПП</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Линия Сталина - музей военной техники</seg></tuv>
+      <tuv lang="BE"><seg>Лінія Сталіна - музей ваеннай тэхнікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Локомотив</seg></tuv>
+      <tuv lang="BE"><seg>Лакаматыў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минирынок</seg></tuv>
+      <tuv lang="BE"><seg>Мінірынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молокозавод</seg></tuv>
+      <tuv lang="BE"><seg>Малаказавод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>подстанция "Технологическая"</seg></tuv>
+      <tuv lang="BE"><seg>Падстанцыя «Тэхналагічная»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий Рынок</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Противотуберкулёзный диспансер</seg></tuv>
+      <tuv lang="BE"><seg>Супрацьтуберкулёзны дыспансэр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Профессиональный лицей № 1 машиностроения</seg></tuv>
+      <tuv lang="BE"><seg>ВДПЛ № 1 машынабудаўніцтва імя Шмырова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Роддом № 2</seg></tuv>
+      <tuv lang="BE"><seg>Радзільня № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок</seg></tuv>
+      <tuv lang="BE"><seg>Рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Садовые участки</seg></tuv>
+      <tuv lang="BE"><seg>Садовыя ўчасткі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Совхоз-тепличный комбинат "Берестье"</seg></tuv>
+      <tuv lang="BE"><seg>Саўгас-цяплічны камбінат "Бярэсце"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стадион Атлант</seg></tuv>
+      <tuv lang="BE"><seg>Стадыён «Атлант»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>старое кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Старыя могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стр-во Биз</seg></tuv>
+      <tuv lang="BE"><seg>буд. біз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трамвайный парк</seg></tuv>
+      <tuv lang="BE"><seg>Трамвайны парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УМ УП "ММС" Участок механизации горно-капитальных работ №1</seg></tuv>
+      <tuv lang="BE"><seg>УМ УП "ММБ" Участак механізацыі горна-капітальных работ №1"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хоккейный корт</seg></tuv>
+      <tuv lang="BE"><seg>Хакейны корт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветотрон</seg></tuv>
+      <tuv lang="BE"><seg>Коляратрон</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чашникская районная больница</seg></tuv>
+      <tuv lang="BE"><seg>Чашніцкая раённая бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южная</seg></tuv>
+      <tuv lang="BE"><seg>Паўднёвая</seg></tuv>
+    </tu>
+  </body></tmx>

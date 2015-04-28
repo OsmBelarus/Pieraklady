@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Беларусь</seg></tuv>
+      <tuv lang="BE"><seg>Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берестье</seg></tuv>
+      <tuv lang="BE"><seg>Бярэсце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Видеозал</seg></tuv>
+      <tuv lang="BE"><seg>Відэазала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Восток</seg></tuv>
+      <tuv lang="BE"><seg>Усход</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Восход</seg></tuv>
+      <tuv lang="BE"><seg>Усход</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городской центр культуры</seg></tuv>
+      <tuv lang="BE"><seg>Гарадскі цэнтр культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДК</seg></tuv>
+      <tuv lang="BE"><seg>ДК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом кино</seg></tuv>
+      <tuv lang="BE"><seg>Дом кіно</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом культуры</seg></tuv>
+      <tuv lang="BE"><seg>Дом культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>КИНОТЕАТР "Беларусь"</seg></tuv>
+      <tuv lang="BE"><seg>Беларусь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>кинотеатр "Мир"</seg></tuv>
+      <tuv lang="BE"><seg>кiно "Мір"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кинотеатр "Родина"</seg></tuv>
+      <tuv lang="BE"><seg>Кінатэатр "Радзіма"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>кинотеатр имени Гастелло</seg></tuv>
+      <tuv lang="BE"><seg>кінатэатр імя Гастэлы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Космос</seg></tuv>
+      <tuv lang="BE"><seg>Космас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минск</seg></tuv>
+      <tuv lang="BE"><seg>Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мир</seg></tuv>
+      <tuv lang="BE"><seg>Мір</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрь</seg></tuv>
+      <tuv lang="BE"><seg>[Акцябр, Кастрычнік]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Победа</seg></tuv>
+      <tuv lang="BE"><seg>Пабеда</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ракета</seg></tuv>
+      <tuv lang="BE"><seg>Ракета</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ретрокинозал</seg></tuv>
+      <tuv lang="BE"><seg>Рэтракіназала</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Родина</seg></tuv>
+      <tuv lang="BE"><seg>Радзіма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Салют</seg></tuv>
+      <tuv lang="BE"><seg>Салют</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спутник</seg></tuv>
+      <tuv lang="BE"><seg>Спадарожнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Эра</seg></tuv>
+      <tuv lang="BE"><seg>Эра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейный</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейны</seg></tuv>
+    </tu>
+  </body></tmx>

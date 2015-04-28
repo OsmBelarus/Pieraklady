@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>ATM Альфа-Банк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Альфа-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Банк Москва-Минск</seg></tuv>
+      <tuv lang="BE"><seg>ATM Банк Масква-Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Белагропромбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Белаграпрамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Белвнешэкономбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Белзнешэканамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM БелВЭБ</seg></tuv>
+      <tuv lang="BE"><seg>ATM БелВЭБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Белинвестбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Белінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ATM Приорбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Прыёрбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альфабанк</seg></tuv>
+      <tuv lang="BE"><seg>Альфабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Альфа-Банк</seg></tuv>
+      <tuv lang="BE"><seg>Альфа-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АТМ Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>ATM Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк "Москва-Минск"</seg></tuv>
+      <tuv lang="BE"><seg>Банк "Москва-Минск"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк ВТБ</seg></tuv>
+      <tuv lang="BE"><seg>Банк ВТБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банк Москва-Минск</seg></tuv>
+      <tuv lang="BE"><seg>Банк Масква-Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белагропромбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белаграпрамбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк (Инфокиоск)</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк (інфакіёск)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелВЭБ</seg></tuv>
+      <tuv lang="BE"><seg>БелВЭБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белгазпромбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белгазпромбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвест</seg></tuv>
+      <tuv lang="BE"><seg>Белінвест</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвестбанк</seg></tuv>
+      <tuv lang="BE"><seg>Белінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинвестбанк;Парничок №6</seg></tuv>
+      <tuv lang="BE"><seg>Белінвестбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БелСвиссБанк</seg></tuv>
+      <tuv lang="BE"><seg>БелСвісБанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Банк</seg></tuv>
+      <tuv lang="BE"><seg>БПС-Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БПС-Сбербанк</seg></tuv>
+      <tuv lang="BE"><seg>[БПС-Сбербанк, БПС-Сбребанк]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БТА Банк</seg></tuv>
+      <tuv lang="BE"><seg>БТА Банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МТБанк</seg></tuv>
+      <tuv lang="BE"><seg>МТБанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Национальный Банк</seg></tuv>
+      <tuv lang="BE"><seg>Нацыянальны банк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приорбанк</seg></tuv>
+      <tuv lang="BE"><seg>Прыёрбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Технобанк</seg></tuv>
+      <tuv lang="BE"><seg>Тэхнабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франсабанк</seg></tuv>
+      <tuv lang="BE"><seg>Франсабанк</seg></tuv>
+    </tu>
+  </body></tmx>

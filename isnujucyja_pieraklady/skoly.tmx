@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Автодром</seg></tuv>
+      <tuv lang="BE"><seg>Аўтадром</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бизнес-колледж</seg></tuv>
+      <tuv lang="BE"><seg>Бізнэс-каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский государственный университет (ст.корп)</seg></tuv>
+      <tuv lang="BE"><seg>Педагагічны універсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский колледж приборостроения</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі каледж прыборабудавання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский ПТК сферы обслуживания</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі ПТК сферы абслугоўвання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестское ГПТУ № 65</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкае ДПТУ № 65</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестское областное УОР</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкае абласное ВАР</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вертолёт</seg></tuv>
+      <tuv lang="BE"><seg>Верталёт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерняя школа,3</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерняя школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрняя школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вечерняя школа №2</seg></tuv>
+      <tuv lang="BE"><seg>Вячэрняя школа №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вспомогательная школа №4</seg></tuv>
+      <tuv lang="BE"><seg>Дапаможная школа №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №1</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 1</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №10</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №146</seg></tuv>
+      <tuv lang="BE"><seg>СШ №146</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №1 им. Федора Якимовича Перца</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №1 имени академика Карского</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №1 імя акадэміка Карскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №2</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 2</seg></tuv>
+      <tuv lang="BE"><seg>[Гiмназiя № 2, Гімназія №, Гімназія № 2]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №28</seg></tuv>
+      <tuv lang="BE"><seg>Гiмназiя №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №3</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №32</seg></tuv>
+      <tuv lang="BE"><seg>СШ №32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №33</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №37</seg></tuv>
+      <tuv lang="BE"><seg>Гiмназiя №37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №38</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 3 им. Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>Гiмназiя № 3 iмя Пушкiна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №4</seg></tuv>
+      <tuv lang="BE"><seg>[Гімназія №4, Музычная гімназія №4]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 4</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №40</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №5</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 5</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №50</seg></tuv>
+      <tuv lang="BE"><seg>Гімназыя №50</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №56</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №56</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №6</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 6</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 61</seg></tuv>
+      <tuv lang="BE"><seg>СШ №61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 7</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №74</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №74</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 8</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 9</seg></tuv>
+      <tuv lang="BE"><seg>Гiмназiя № 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия №9 имени Кириченко</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №9 імя Кірэченкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гімназія №1 «Логас»</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №1 «Логас»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гімназія №2</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гожская средняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Гожская сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельский государственный областной лицей</seg></tuv>
+      <tuv lang="BE"><seg>Гомельскі дзяржаўны абласны ліцэй</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродзенская дзіцячая школа мастацтваў</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская дзіцячая школа мастацтваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская городская гимназия</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская гарадская гімназія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская специальная общеобразовательная школа-интернат для детей с нарушениями зрения</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская спецыяльная агульнаадукацыйная школа-інтэрнат для дзяцей з парушэннямі зроку</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Д/сад №22</seg></tuv>
+      <tuv lang="BE"><seg>Д/сад №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>д/с №198</seg></tuv>
+      <tuv lang="BE"><seg>д/с №198</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детсад</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы садок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская художественная школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая мастацкая школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая школа мастацтваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детская юношеская спортивная школа</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая юнацкая спартыўная школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский дом</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский сад №46</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №46</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детско-юношеская школа олимпийского резерва №2</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцяча-юнацкая школа алімпійскага резерву №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Докшицкий районный центр детей и молодежи</seg></tuv>
+      <tuv lang="BE"><seg>Докшыцкі раённы цэнтр дзяцей і моладзі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДЮСШ по гребным видам спорта</seg></tuv>
+      <tuv lang="BE"><seg>ДЮСШ па грэблевым відам спорту</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДЮСШ №6</seg></tuv>
+      <tuv lang="BE"><seg>ДЮСШ №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колодищанская средняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Каладзішчанскія сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кривичская средняя общеобразовательная школа</seg></tuv>
+      <tuv lang="BE"><seg>Крывiчская сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лингвистическая гимназия-колледж №24</seg></tuv>
+      <tuv lang="BE"><seg>Лінгвістычная гімназія-каледж № 24</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лицей №1</seg></tuv>
+      <tuv lang="BE"><seg>Ліцэй №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лицей №1 имени А.С. Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>Ліцэй №1 імя А.С.Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медицинский колледж</seg></tuv>
+      <tuv lang="BE"><seg>Медыцынскі каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Муз. школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Муз. школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Муз Школа</seg></tuv>
+      <tuv lang="BE"><seg>Муз. школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музыкальная школа</seg></tuv>
+      <tuv lang="BE"><seg>Музычная школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Музыкальное училище</seg></tuv>
+      <tuv lang="BE"><seg>Музычнае вучылішча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Навучальна – педагагічны комплекс Ліпнішкаўскі дзіцячы сад – сярэдняя школа</seg></tuv>
+      <tuv lang="BE"><seg>“Навучальна – педагагічны комплекс Ліпнішкаўскі дзіцячы сад – сярэдняя школа”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Начальная школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Пачатковая школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Начальная школа №29 («Солнышко»)</seg></tuv>
+      <tuv lang="BE"><seg>Пачатковая школа №29 («Сонейка»)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Начальная школа №36</seg></tuv>
+      <tuv lang="BE"><seg>Пачатковая школа №36</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новкинская школа</seg></tuv>
+      <tuv lang="BE"><seg>Ноўкінская школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новополоцкий городской лицей</seg></tuv>
+      <tuv lang="BE"><seg>Наваполацкі гарадскі ліцэй</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Путришковская средняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Путрышкаўская сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Раковичская средняя школа</seg></tuv>
+      <tuv lang="BE"><seg>Ракавіцкая сярэдняя школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речицкая районная гимназия</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Санаторная общеобразовательная школа-интернат №2</seg></tuv>
+      <tuv lang="BE"><seg>Санаторная агульнаадукацыйная школа-інтэрнат №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СОЛ Минск</seg></tuv>
+      <tuv lang="BE"><seg>СОЛ Мінск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортшкола</seg></tuv>
+      <tuv lang="BE"><seg>Спартшкола</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средня школа №19</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средня школа №22</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средня школа №3</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средня школа №31</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средня школа №6</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа им. Павлины Мяделки</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа імя Паўліны Мядёлкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа № 1</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №10</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №11</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №12</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №13</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №14</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №15</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа № 15</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа № 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №15 имени Карбышева</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №15 імя Карбышава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №16</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа № 16</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа № 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №17</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №18</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №19</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №199</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №199</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №2</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа № 2</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №20</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №218</seg></tuv>
+      <tuv lang="BE"><seg>СШ №218</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №22</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №23</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №25</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №26</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №26</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №27</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №28</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №3</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №31</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №32</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №33</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №34</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №35</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №35</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №36 с польским языком обучения</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №36 з польскай мовай навучання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №37</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №37</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №38</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №3 имени Усова</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №3 імя Усава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №5</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №6</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №7</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №7 г.Бреста</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №7 г.Брэста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Средняя школа №8 с французским языком обучения</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №8 з французскай мовай навучання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строительный техникум</seg></tuv>
+      <tuv lang="BE"><seg>Будаўнічы тэхнікум</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ 177</seg></tuv>
+      <tuv lang="BE"><seg>СШ 177</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №1</seg></tuv>
+      <tuv lang="BE"><seg>СШ №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 1</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №10</seg></tuv>
+      <tuv lang="BE"><seg>СШ №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 10</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №10 им. В.М.Азина</seg></tuv>
+      <tuv lang="BE"><seg>СШ №10 імя Азіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 11</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №121</seg></tuv>
+      <tuv lang="BE"><seg>СШ №121</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №13</seg></tuv>
+      <tuv lang="BE"><seg>СШ №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №137</seg></tuv>
+      <tuv lang="BE"><seg>СШ №137</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №151</seg></tuv>
+      <tuv lang="BE"><seg>СШ №151</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №154</seg></tuv>
+      <tuv lang="BE"><seg>СШ №154</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №155</seg></tuv>
+      <tuv lang="BE"><seg>СШ №155</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №156</seg></tuv>
+      <tuv lang="BE"><seg>СШ №156</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сш№157</seg></tuv>
+      <tuv lang="BE"><seg>Сш№157</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №16</seg></tuv>
+      <tuv lang="BE"><seg>СШ №16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №160</seg></tuv>
+      <tuv lang="BE"><seg>СШ №160</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ№161</seg></tuv>
+      <tuv lang="BE"><seg>СШ№161</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сш№163</seg></tuv>
+      <tuv lang="BE"><seg>СШ №163</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №165</seg></tuv>
+      <tuv lang="BE"><seg>СШ №165</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №169</seg></tuv>
+      <tuv lang="BE"><seg>CI №169</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №170</seg></tuv>
+      <tuv lang="BE"><seg>СШ №170</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №173</seg></tuv>
+      <tuv lang="BE"><seg>СШ №173</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №181</seg></tuv>
+      <tuv lang="BE"><seg>СШ №181</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №19</seg></tuv>
+      <tuv lang="BE"><seg>СШ №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №190</seg></tuv>
+      <tuv lang="BE"><seg>СШ №190</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 191</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 191</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №196</seg></tuv>
+      <tuv lang="BE"><seg>СШ №196</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №197</seg></tuv>
+      <tuv lang="BE"><seg>СШ №197</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №2</seg></tuv>
+      <tuv lang="BE"><seg>СШ №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №202</seg></tuv>
+      <tuv lang="BE"><seg>СШ №202</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №203</seg></tuv>
+      <tuv lang="BE"><seg>СШ №203</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №208</seg></tuv>
+      <tuv lang="BE"><seg>СШ №208</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 21</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №213</seg></tuv>
+      <tuv lang="BE"><seg>СШ №213</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №219</seg></tuv>
+      <tuv lang="BE"><seg>СШ №219</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ№25</seg></tuv>
+      <tuv lang="BE"><seg>СШ 25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №3</seg></tuv>
+      <tuv lang="BE"><seg>СШ №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 3</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №39</seg></tuv>
+      <tuv lang="BE"><seg>СШ №39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 39</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ№4</seg></tuv>
+      <tuv lang="BE"><seg>Школа №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 4</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №45</seg></tuv>
+      <tuv lang="BE"><seg>СШ №45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №54</seg></tuv>
+      <tuv lang="BE"><seg>СШ №54</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №6</seg></tuv>
+      <tuv lang="BE"><seg>Сярэдняя школа №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №61</seg></tuv>
+      <tuv lang="BE"><seg>СШ №61</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 66</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 66</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №68</seg></tuv>
+      <tuv lang="BE"><seg>СШ №68</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №7</seg></tuv>
+      <tuv lang="BE"><seg>СШ №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 7</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №75</seg></tuv>
+      <tuv lang="BE"><seg>СШ №75</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №8</seg></tuv>
+      <tuv lang="BE"><seg>СШ №8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ № 8</seg></tuv>
+      <tuv lang="BE"><seg>СШ № 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №84</seg></tuv>
+      <tuv lang="BE"><seg>СШ №84</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №9</seg></tuv>
+      <tuv lang="BE"><seg>СШ №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №94</seg></tuv>
+      <tuv lang="BE"><seg>СШ №94</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>УПК</seg></tuv>
+      <tuv lang="BE"><seg>УПК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фариновская школа</seg></tuv>
+      <tuv lang="BE"><seg>Фарынаўская школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Художественная школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Мастацкая школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦДОДМ "Ранак"</seg></tuv>
+      <tuv lang="BE"><seg>СШ №39</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр допризывной подготовки</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр дапрызыўной падрыхтоўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа для детей-сирот с трудностями в обучении</seg></tuv>
+      <tuv lang="BE"><seg>Школа для дзяцей-сірот з цяжкасцямі ў навучанні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа для слабослышащих детей</seg></tuv>
+      <tuv lang="BE"><seg>Школа для дзяцей з парушэннем слыху</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа-интернат</seg></tuv>
+      <tuv lang="BE"><seg>Школа-інтэрнат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа-интернат № 11</seg></tuv>
+      <tuv lang="BE"><seg>Школа-інтэрнат № 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа-интернат №9</seg></tuv>
+      <tuv lang="BE"><seg>Школа-інтэрнат №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>[Школа Мастацваў, Школа мастацтваў]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа искусств №1</seg></tuv>
+      <tuv lang="BE"><seg>Школа мастацтваў №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа искусств № 1</seg></tuv>
+      <tuv lang="BE"><seg>Школа мастацтв № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа искусств №2</seg></tuv>
+      <tuv lang="BE"><seg>Школа мастацтваў №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №1</seg></tuv>
+      <tuv lang="BE"><seg>Школа №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №10</seg></tuv>
+      <tuv lang="BE"><seg>Школа №10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 10</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №11</seg></tuv>
+      <tuv lang="BE"><seg>Школа №11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 11</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №12</seg></tuv>
+      <tuv lang="BE"><seg>Школа №12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 12</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 13</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 15</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 16</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 17</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №18</seg></tuv>
+      <tuv lang="BE"><seg>Школа №18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 18</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №19</seg></tuv>
+      <tuv lang="BE"><seg>Школа №19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №2</seg></tuv>
+      <tuv lang="BE"><seg>Школа №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 2</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 20</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 21</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №22</seg></tuv>
+      <tuv lang="BE"><seg>Школа №22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №23</seg></tuv>
+      <tuv lang="BE"><seg>Школа №23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 23</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 25</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 27</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №28</seg></tuv>
+      <tuv lang="BE"><seg>Школа №28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 28</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 28</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 29 им. Пименова</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 29 iмя Пiменава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №3</seg></tuv>
+      <tuv lang="BE"><seg>Школа №3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 3</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 30</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 30</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 33</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 33</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 34</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 34</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 35</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 35</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 38</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 38</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №4</seg></tuv>
+      <tuv lang="BE"><seg>Школа №4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 4</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 40</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 40</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 43 им. Шмырёва М. Ф.</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 43 імя Шмырова М. П.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 44</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 44</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 45</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 45</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 46</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 46</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №5</seg></tuv>
+      <tuv lang="BE"><seg>Школа №5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 5</seg></tuv>
+      <tuv lang="BE"><seg>[СШ № 5, Школа № 5]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №6</seg></tuv>
+      <tuv lang="BE"><seg>Школа №6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 6</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 7</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №8</seg></tuv>
+      <tuv lang="BE"><seg>Школа №8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 8</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа №9</seg></tuv>
+      <tuv lang="BE"><seg>Школа №9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №30</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №30</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №50</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №50</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясли-сад №53</seg></tuv>
+      <tuv lang="BE"><seg>Яслі-сад №53</seg></tuv>
+    </tu>
+  </body></tmx>
