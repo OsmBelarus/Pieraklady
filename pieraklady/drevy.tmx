@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Ботанический сад</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092230Z" creationid="alex" creationdate="20150518T092230Z">
+        <seg>Батанічны сад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Брагинский сквер</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145847Z" creationid="alex" creationdate="20150428T145847Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Парк Железнодорожников</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092142Z" creationid="alex" creationdate="20150518T092142Z">
+        <seg>Парк Чыгуначнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Парк Жилибера</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150753Z" creationid="alex" creationdate="20150428T150753Z">
@@ -418,6 +434,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145745Z" creationid="alex" creationdate="20150428T145745Z">
         <seg>Парк Міхаіла Паўлава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк Победителей</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092220Z" creationid="alex" creationdate="20150518T092220Z">
+        <seg>Парк Пераможцаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Парк Фрунзе</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092222Z" creationid="alex" creationdate="20150518T092222Z">
+        <seg>Парк Фрунзэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Парк Челюскинцев</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145709Z" creationid="alex" creationdate="20150428T145709Z">
@@ -466,6 +498,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T145721Z" creationid="alex" creationdate="20150428T145721Z">
         <seg>Парк Янкі Купалы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Парк имени Советской Армии</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092201Z" creationid="alex" creationdate="20150518T092201Z">
+        <seg>Парк імя Савецкай Арміі</seg>
       </tuv>
     </tu>
     <tu>
