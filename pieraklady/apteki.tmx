@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="paragraph" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4_1" segtype="paragraph" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Аптека №20</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T110820Z" creationid="alex" creationdate="20150518T110820Z">
+        <seg>Аптэка №20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Аптека №21</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150130T084715Z" creationid="alex" creationdate="20150130T084715Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150129T143538Z" creationid="alex" creationdate="20150129T143538Z">
         <seg>Аптэка №250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №28</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T110816Z" creationid="alex" creationdate="20150518T110816Z">
+        <seg>Аптэка №28</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +658,22 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150130T084628Z" creationid="alex" creationdate="20150130T084628Z">
         <seg>Аптэка №53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №55</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T110821Z" creationid="alex" creationdate="20150518T110821Z">
+        <seg>Аптэка №34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аптека №57</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T110822Z" creationid="alex" creationdate="20150518T110822Z">
+        <seg>Аптэка №57</seg>
       </tuv>
     </tu>
     <tu>
