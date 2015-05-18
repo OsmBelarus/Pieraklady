@@ -3,6 +3,11 @@
 msgid "Автодром"
 msgstr ""
 
+# Objects : [w167885225]
+# name:be: []
+msgid "Вишнёвская начальная школа"
+msgstr ""
+
 # Objects : [w77907510]
 # name:be: []
 msgid "Гатовская СШ"
@@ -48,7 +53,7 @@ msgstr ""
 msgid "Сеницкая средняя школа им. Янки Купалы"
 msgstr ""
 
-# Objects : [n1736082751]
+# Objects : [w344013919]
 # name:be: []
 msgid "Средняя школа"
 msgstr ""

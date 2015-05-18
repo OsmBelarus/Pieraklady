@@ -53,7 +53,7 @@ msgstr ""
 msgid "Беляи"
 msgstr ""
 
-# Objects : [n243018549, w25125963]
+# Objects : [n243018549, r4845344]
 # name:be: [Бяляны]
 msgid "Беляны"
 msgstr ""
@@ -793,7 +793,7 @@ msgstr ""
 msgid "Пестуны"
 msgstr ""
 
-# Objects : [n243014336, w25128309, w25129605]
+# Objects : [n243014336, w25128309]
 # name:be: [Пятровічы]
 msgid "Петровичи"
 msgstr ""
@@ -803,7 +803,7 @@ msgstr ""
 msgid "Пилаты"
 msgstr ""
 
-# Objects : [w25125953]
+# Objects : [n243018629, w25125953]
 # name:be: [Пішчалёўка]
 msgid "Пищалёвка"
 msgstr ""
@@ -926,11 +926,6 @@ msgstr ""
 # Objects : [n243013484, w25127204]
 # name:be: [Ручай]
 msgid "Ручай"
-msgstr ""
-
-# Objects : [w25129589]
-# name:be: [Рымкі]
-msgid "Рымки"
 msgstr ""
 
 # Objects : [n3036573818, w299631460]

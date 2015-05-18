@@ -28,19 +28,9 @@ msgstr ""
 msgid "Гора Миндовга"
 msgstr ""
 
-# Objects : [w300240712]
-# name:be: []
-msgid "Дежурная аптека"
-msgstr ""
-
 # Objects : [n2788680462]
 # name:be: [Будынак былой Навагрудскай Беларускай гімназіі]
 msgid "Здание бывшей Новогрудской Белорусского гимназии"
-msgstr ""
-
-# Objects : [w300240720]
-# name:be: []
-msgid "Златка"
 msgstr ""
 
 # Objects : [n2788680859]
@@ -68,19 +58,9 @@ msgstr ""
 msgid "Курган Бессмертия"
 msgstr ""
 
-# Objects : [w300240726]
-# name:be: []
-msgid "Лилея"
-msgstr ""
-
-# Objects : [w289694163, w289883449, w289991140, w300236832, w300240741]
+# Objects : [w289694163, w289991140, w300236832]
 # name:be: []
 msgid "Магазин"
-msgstr ""
-
-# Objects : [w264445905]
-# name:be: []
-msgid "магазин"спутник""
 msgstr ""
 
 # Objects : [n1871938373]
@@ -101,11 +81,6 @@ msgstr ""
 # Objects : [w289718824, w297143748]
 # name:be: []
 msgid "Общежитие"
-msgstr ""
-
-# Objects : [w300240732]
-# name:be: []
-msgid "Охрана"
 msgstr ""
 
 # Objects : [n2956914042]
@@ -131,11 +106,6 @@ msgstr ""
 # Objects : [n2956914047]
 # name:be: [Помнik Я.Коласу]
 msgid "Памятник Я. Коласу"
-msgstr ""
-
-# Objects : [w273270442]
-# name:be: []
-msgid "Панский дом"
 msgstr ""
 
 # Objects : [n2788683467]
@@ -171,10 +141,5 @@ msgstr ""
 # Objects : [n2788685063]
 # name:be: [Капліца-пахавальня Альбрыхта Заборскага]
 msgid "Усыпальница Альбрехта Заборского"
-msgstr ""
-
-# Objects : [w300240737]
-# name:be: []
-msgid "Эдельвейс"
 msgstr ""
 

@@ -48,6 +48,11 @@ msgstr ""
 msgid "Ломачино"
 msgstr ""
 
+# Objects : [n1026522249]
+# name:be: [Лужкі]
+msgid "Лужки"
+msgstr ""
+
 # Objects : [n919482541]
 # name:be: [Машкова]
 msgid "Машково"

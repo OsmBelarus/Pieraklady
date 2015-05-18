@@ -363,11 +363,6 @@ msgstr ""
 msgid "Дубровка"
 msgstr ""
 
-# Objects : [n243018127, w25126565]
-# name:be: [Дубрава]
-msgid "Дуброво"
-msgstr ""
-
 # Objects : [n243017950, w25126586]
 # name:be: [Дудзічы]
 msgid "Дудичи"
@@ -658,11 +653,6 @@ msgstr ""
 msgid "Крупка"
 msgstr ""
 
-# Objects : [w25125499]
-# name:be: [Ксавярова]
-msgid "Ксаверово"
-msgstr ""
-
 # Objects : [n2963995389, w292839744]
 # name:be: [Кукіга]
 msgid "Кукига"
@@ -713,7 +703,7 @@ msgstr ""
 msgid "Леоновка"
 msgstr ""
 
-# Objects : [n243018090, w25126478]
+# Objects : [n243018090, w341711627]
 # name:be: [Лешніца]
 msgid "Лешница"
 msgstr ""
@@ -913,11 +903,6 @@ msgstr ""
 msgid "Омельно"
 msgstr ""
 
-# Objects : [n243018116, w25126570]
-# name:be: [Арэхаўка]
-msgid "Ореховка"
-msgstr ""
-
 # Objects : [n243020228, w25122108]
 # name:be: [Арэшкавічы]
 msgid "Орешковичи"
@@ -938,7 +923,7 @@ msgstr ""
 msgid "Осока"
 msgstr ""
 
-# Objects : [n243015745, w25125533]
+# Objects : [n243015745, w342680662]
 # name:be: [Востраў]
 msgid "Остров"
 msgstr ""
@@ -1468,7 +1453,7 @@ msgstr ""
 msgid "Шацк"
 msgstr ""
 
-# Objects : [n243017961, w25126580]
+# Objects : [n243017961, w341767016]
 # name:be: [Шалягі]
 msgid "Шелеги"
 msgstr ""

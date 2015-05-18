@@ -48,6 +48,11 @@ msgstr ""
 msgid "Белые Розы"
 msgstr ""
 
+# Objects : [n431335370]
+# name:be: []
+msgid "Бистрофф"
+msgstr ""
+
 # Objects : [n320409640]
 # name:be: []
 msgid "Бочка"
@@ -106,11 +111,6 @@ msgstr ""
 # Objects : [n320409501]
 # name:be: []
 msgid "Золотой Телёнок"
-msgstr ""
-
-# Objects : [n320409659]
-# name:be: []
-msgid "Кальянная №4"
 msgstr ""
 
 # Objects : [n1777279868]
@@ -193,11 +193,6 @@ msgstr ""
 msgid "Мока"
 msgstr ""
 
-# Objects : [n431335370]
-# name:be: [Масква]
-msgid "Москва"
-msgstr ""
-
 # Objects : [n2653872413]
 # name:be: [Нёман]
 msgid "Неман"
@@ -241,6 +236,11 @@ msgstr ""
 # Objects : [n3236339917]
 # name:be: []
 msgid "Пицца&Суши"
+msgstr ""
+
+# Objects : [n320409659]
+# name:be: []
+msgid "Пиццерия"
 msgstr ""
 
 # Objects : [n1271383995]

@@ -38,6 +38,11 @@ msgstr ""
 msgid "18А"
 msgstr ""
 
+# Objects : [w255760690]
+# name:be: []
+msgid "23а"
+msgstr ""
+
 # Objects : [w275080653]
 # name:be: []
 msgid "2-х эт., из ж/б панелей"
@@ -138,6 +143,11 @@ msgstr ""
 msgid "Автомойка"
 msgstr ""
 
+# Objects : [w161546761]
+# name:be: []
+msgid "Автосервис"
+msgstr ""
+
 # Objects : [w25325188]
 # name:be: []
 msgid "Автотракмоторс"
@@ -151,6 +161,11 @@ msgstr ""
 # Objects : [w108895143]
 # name:be: [Агралёнбел]
 msgid "Агролёнбел"
+msgstr ""
+
+# Objects : [w79541719]
+# name:be: []
+msgid "Административный корпус"
 msgstr ""
 
 # Objects : [w294830097]
@@ -171,6 +186,11 @@ msgstr ""
 # Objects : [w59479444]
 # name:be: [АЗС №74]
 msgid "АЗС №74"
+msgstr ""
+
+# Objects : [w344013912]
+# name:be: []
+msgid "Амбулатория"
 msgstr ""
 
 # Objects : [w50811132]
@@ -268,14 +288,14 @@ msgstr ""
 msgid "Виталюр"
 msgstr ""
 
-# Objects : [w117267396]
+# Objects : [w161635068]
 # name:be: []
-msgid "Вишневская врачебная амбулатория"
+msgid "Витока"
 msgstr ""
 
-# Objects : [w167885225]
+# Objects : [w117267396]
 # name:be: []
-msgid "Вишневская начальная школа"
+msgid "Вишнёвская врачебная амбулатория"
 msgstr ""
 
 # Objects : [w270570610]
@@ -286,6 +306,11 @@ msgstr ""
 # Objects : [w183943107]
 # name:be: []
 msgid "Вокзал"
+msgstr ""
+
+# Objects : [w161544521]
+# name:be: []
+msgid "Воляна"
 msgstr ""
 
 # Objects : [w193929971]
@@ -408,6 +433,11 @@ msgstr ""
 msgid "Калина"
 msgstr ""
 
+# Objects : [w341225805]
+# name:be: []
+msgid "Картофель"
+msgstr ""
+
 # Objects : [w161808945]
 # name:be: []
 msgid "Кафе "ГородОк""
@@ -493,7 +523,7 @@ msgstr ""
 msgid "Котельняя"
 msgstr ""
 
-# Objects : [w121940860, w199571108, w208466346, w222371206, w226059113, w247586261, w256568780, w286582875, w326514279, w326514281, w37751902]
+# Objects : [w121940860, w199571108, w208466346, w222371206, w226059113, w247586261, w256568780, w286582875, w326514279, w326514281, w345029783, w37751902]
 # name:be: [КПП]
 msgid "КПП"
 msgstr ""
@@ -506,6 +536,11 @@ msgstr ""
 # Objects : [w131338370]
 # name:be: []
 msgid "Крама"
+msgstr ""
+
+# Objects : [w51518953]
+# name:be: []
+msgid "Крама "Калі ласка""
 msgstr ""
 
 # Objects : [w62093887]
@@ -558,6 +593,11 @@ msgstr ""
 msgid "Магазин "Нюанс""
 msgstr ""
 
+# Objects : [w343252892]
+# name:be: []
+msgid "Магазин "У дачи""
+msgstr ""
+
 # Objects : [w115302675]
 # name:be: []
 msgid "Магазин "Чабарок""
@@ -596,6 +636,16 @@ msgstr ""
 # Objects : [w33415447]
 # name:be: []
 msgid "Мастерские"
+msgstr ""
+
+# Objects : [w161635046]
+# name:be: []
+msgid "Матадор"
+msgstr ""
+
+# Objects : [w344014000]
+# name:be: []
+msgid "мебельная фабрика "Восход""
 msgstr ""
 
 # Objects : [w29500183]
@@ -638,8 +688,8 @@ msgstr ""
 msgid "Новосёлкин"
 msgstr ""
 
-# Objects : [w112972087, w226059729]
-# name:be: [Інтэрнат]
+# Objects : [w226059729]
+# name:be: []
 msgid "Общежитие"
 msgstr ""
 
@@ -768,6 +818,11 @@ msgstr ""
 msgid "Пожарная часть"
 msgstr ""
 
+# Objects : [w161635045]
+# name:be: []
+msgid "Поликлиника"
+msgstr ""
+
 # Objects : [w178181229, w307960518]
 # name:be: []
 msgid "Пост весогабаритного контроля"
@@ -868,11 +923,6 @@ msgstr ""
 msgid "Родны кут"
 msgstr ""
 
-# Objects : [w117262906]
-# name:be: []
-msgid "Сад-ясли "Вишенька""
-msgstr ""
-
 # Objects : [w37437713]
 # name:be: []
 msgid "салон красоты"
@@ -901,6 +951,11 @@ msgstr ""
 # Objects : [w76726481]
 # name:be: [Сьвята]
 msgid "Свята"
+msgstr ""
+
+# Objects : [w344013915]
+# name:be: []
+msgid "Сельский совет"
 msgstr ""
 
 # Objects : [w32897665, w51518930, w79541776, w79547866]
@@ -968,7 +1023,7 @@ msgstr ""
 msgid "СТО Шлифовка ГБЦ"
 msgstr ""
 
-# Objects : [w148853450]
+# Objects : [w148853450, w161635044]
 # name:be: [Будаўнічыя матэрыялы]
 msgid "Стройматериалы"
 msgstr ""
@@ -1038,6 +1093,11 @@ msgstr ""
 msgid "Усадьба "Алекс""
 msgstr ""
 
+# Objects : [w341225801]
+# name:be: []
+msgid "Фабрика здоровья №30"
+msgstr ""
+
 # Objects : [w117883645]
 # name:be: [ФАП]
 msgid "ФАП"
@@ -1103,7 +1163,7 @@ msgstr ""
 msgid "Швейный цех"
 msgstr ""
 
-# Objects : [w86481389]
+# Objects : [w344652819, w86481389]
 # name:be: []
 msgid "Шиномонтаж"
 msgstr ""

@@ -13,18 +13,18 @@ msgstr ""
 msgid "Лес"
 msgstr ""
 
-# Objects : [w107058885]
-# name:be: []
-msgid "Парк Приднепровский"
-msgstr ""
-
 # Objects : [w206225944]
 # name:be: []
 msgid "Пасека"
 msgstr ""
 
+# Objects : [w107058885]
+# name:be: [Прыдняпроўскі парк]
+msgid "Приднепровский парк"
+msgstr ""
+
 # Objects : [w319526224]
-# name:be: []
+# name:be: [Сядзібны парк]
 msgid "Приусадебный парк"
 msgstr ""
 

@@ -48,7 +48,7 @@ msgstr ""
 msgid "Ваш дом"
 msgstr ""
 
-# Objects : [w176441881, w258870870, w35810035]
+# Objects : [w176441881, w198111367, w258870870, w35810035]
 # name:be: []
 msgid "Весовая"
 msgstr ""
@@ -268,11 +268,6 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
-# Objects : [w57394388]
-# name:be: []
-msgid "Магазин "Должа""
-msgstr ""
-
 # Objects : [w82698990]
 # name:be: []
 msgid "Мазоловское ПМС"
@@ -346,11 +341,6 @@ msgstr ""
 # Objects : [w176747115]
 # name:be: []
 msgid "Пилорама"
-msgstr ""
-
-# Objects : [w53306604]
-# name:be: [Племянны свінакомплекс]
-msgid "Племенной свинокомплекс"
 msgstr ""
 
 # Objects : [w179620269]
@@ -443,11 +433,6 @@ msgstr ""
 msgid "СМН"
 msgstr ""
 
-# Objects : [w168696282, w170320435]
-# name:be: []
-msgid "Станция искусственного осеменения свиней"
-msgstr ""
-
 # Objects : [w161394782]
 # name:be: []
 msgid "Станция химизации сельского хозяйства"
@@ -508,7 +493,7 @@ msgstr ""
 msgid "Учебный комбинат"
 msgstr ""
 
-# Objects : [w131295438, w288502157]
+# Objects : [w131295438, w288502157, w345257614]
 # name:be: []
 msgid "ФАП"
 msgstr ""

@@ -23,13 +23,3 @@ msgstr ""
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w169672742]
-# name:be: [Студэнцкая вуліца]
-msgid "Студенческая улица"
-msgstr ""
-
-# Objects : [w152302401]
-# name:be: [вуліца Рамашкіна]
-msgid "улица Ромашкина"
-msgstr ""
-

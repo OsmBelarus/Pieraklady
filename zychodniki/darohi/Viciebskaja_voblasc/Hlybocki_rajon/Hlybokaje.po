@@ -23,6 +23,11 @@ msgstr ""
 msgid "2-й переулок 3 Июля"
 msgstr ""
 
+# Objects : [w345424052]
+# name:be: []
+msgid "2-й переулок Гастелло"
+msgstr ""
+
 # Objects : [w157253965]
 # name:be: [2-і завулак Янкі Купалы]
 msgid "2-й переулок Янки Купалы"
@@ -151,11 +156,6 @@ msgstr ""
 # Objects : [w158027096]
 # name:be: [Лугавая вуліца]
 msgid "Луговая улица"
-msgstr ""
-
-# Objects : [w287755458, w328524222]
-# name:be: []
-msgid "Ляшонка"
 msgstr ""
 
 # Objects : [w158631365]
@@ -501,6 +501,11 @@ msgstr ""
 # Objects : [w157211488, w328118226]
 # name:be: [вуліца Ламаносава]
 msgid "улица Ломоносова"
+msgstr ""
+
+# Objects : [w287755458, w328524222]
+# name:be: []
+msgid "улица Ляшонка"
 msgstr ""
 
 # Objects : [w29876635]

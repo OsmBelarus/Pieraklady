@@ -738,14 +738,14 @@ msgstr ""
 msgid "Новая Гусевица"
 msgstr ""
 
+# Objects : [n243043165, w25089620]
+# name:be: [Новае Жыццё]
+msgid "Новая Жизнь"
+msgstr ""
+
 # Objects : [n243042235, w25087025]
 # name:be: [Новая Уза]
 msgid "Новая Уза"
-msgstr ""
-
-# Objects : [n243043165, w25089620]
-# name:be: [Новае Жыццё]
-msgid "Новое Житьё"
 msgstr ""
 
 # Objects : [n243044259, w25086968]

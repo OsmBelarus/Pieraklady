@@ -3,6 +3,11 @@
 msgid ""Космос""
 msgstr ""
 
+# Objects : [n3488297669]
+# name:be: []
+msgid ""Родный кут""
+msgstr ""
+
 # Objects : [n2623235023]
 # name:be: []
 msgid "Автоспейс"
@@ -28,11 +33,6 @@ msgstr ""
 msgid "Купалинка"
 msgstr ""
 
-# Objects : [n3283542395]
-# name:be: []
-msgid "Мита"
-msgstr ""
-
 # Objects : [n1498553485]
 # name:be: []
 msgid "Молочные продукты"
@@ -46,6 +46,11 @@ msgstr ""
 # Objects : [n1236308730]
 # name:be: [Азёрны]
 msgid "Озерный"
+msgstr ""
+
+# Objects : [n3488654412]
+# name:be: []
+msgid "Парикмахерская"
 msgstr ""
 
 # Objects : [n1240236892]

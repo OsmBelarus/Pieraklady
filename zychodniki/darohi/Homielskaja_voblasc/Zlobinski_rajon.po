@@ -3,14 +3,34 @@
 msgid "194-й стрелковой дивизии улица"
 msgstr ""
 
+# Objects : [w25248682]
+# name:be: [1-ы Малевіцкі завулак]
+msgid "1-й Малевичский переулок"
+msgstr ""
+
 # Objects : [w293956093]
 # name:be: []
 msgid "1-й Садовый переулок"
 msgstr ""
 
+# Objects : [w25248687]
+# name:be: [1-я Мохавая вуліца]
+msgid "1-я Моховая улица"
+msgstr ""
+
 # Objects : [w199800758]
 # name:be: []
 msgid "2-й переулок Щорса"
+msgstr ""
+
+# Objects : [w293989762, w344755755]
+# name:be: [2-я Калгасная вуліца]
+msgid "2-я Колхозная улица"
+msgstr ""
+
+# Objects : [w302725784]
+# name:be: [4-ы Малевіцкі завулак]
+msgid "4-й Малевичский переулок"
 msgstr ""
 
 # Objects : [w275871010, w281785320]
@@ -71,6 +91,11 @@ msgstr ""
 # Objects : [w328915984]
 # name:be: []
 msgid "Заводская"
+msgstr ""
+
+# Objects : [w299412272, w299412273]
+# name:be: [Залінейная вуліца]
+msgid "Залинейная улица"
 msgstr ""
 
 # Objects : [w328915985]
@@ -163,8 +188,8 @@ msgstr ""
 msgid "Лесная"
 msgstr ""
 
-# Objects : [w194281096, w303309636, w309218738]
-# name:be: []
+# Objects : [w194281096, w293998612, w303309636, w304658089, w309218738]
+# name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
 
@@ -176,6 +201,11 @@ msgstr ""
 # Objects : [w319669380]
 # name:be: []
 msgid "Малая Полевая"
+msgstr ""
+
+# Objects : [w25248674, w25248683, w293986163, w300186980]
+# name:be: [Малевіцкая вуліца]
+msgid "Малевичская улица"
 msgstr ""
 
 # Objects : [w230239021, w334647441]
@@ -226,6 +256,11 @@ msgstr ""
 # Objects : [w199800756]
 # name:be: [Маскоўская вуліца]
 msgid "Московская улица"
+msgstr ""
+
+# Objects : [w293986173]
+# name:be: [Мохавая вуліца]
+msgid "Моховая улица"
 msgstr ""
 
 # Objects : [w165928882]
@@ -398,6 +433,11 @@ msgstr ""
 msgid "Поплавная улица"
 msgstr ""
 
+# Objects : [w25248684]
+# name:be: [Пасялковая вуліца]
+msgid "Поселковая улица"
+msgstr ""
+
 # Objects : [w211636219]
 # name:be: []
 msgid "поселок Садовый"
@@ -513,6 +553,11 @@ msgstr ""
 msgid "улица Гагарина"
 msgstr ""
 
+# Objects : [w25248688, w299468118, w299468119]
+# name:be: [вуліца Губарава]
+msgid "улица Губарева"
+msgstr ""
+
 # Objects : [w176743496]
 # name:be: []
 msgid "улица Дружбы"
@@ -606,6 +651,11 @@ msgstr ""
 # Objects : [w296621536]
 # name:be: []
 msgid "улица Светлая"
+msgstr ""
+
+# Objects : [w25248679, w25248702, w293986170]
+# name:be: [вуліца Свабоды]
+msgid "улица Свободы"
 msgstr ""
 
 # Objects : [w130792582, w296621538]

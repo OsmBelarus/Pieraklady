@@ -243,6 +243,11 @@ msgstr ""
 msgid "ул. 1-й Микрорайон"
 msgstr ""
 
+# Objects : [w39271927]
+# name:be: []
+msgid "ул.Молодёжная"
+msgstr ""
+
 # Objects : [w315812839]
 # name:be: []
 msgid "ул.Нагорная"

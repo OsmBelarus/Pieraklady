@@ -3,11 +3,6 @@
 msgid "gsm"
 msgstr ""
 
-# Objects : [n414267351]
-# name:be: [Авіябаза Бобр]
-msgid "Авиабаза Бобр"
-msgstr ""
-
 # Objects : [n3412602231, w221270590]
 # name:be: [Бобр]
 msgid "Бобр"
@@ -23,6 +18,16 @@ msgstr ""
 msgid "Кладбище"
 msgstr ""
 
+# Objects : [r4850385]
+# name:be: []
+msgid "Краснолукский сельский Совет"
+msgstr ""
+
+# Objects : [r4850386]
+# name:be: []
+msgid "Круглицкий сельский Совет"
+msgstr ""
+
 # Objects : [n306066326]
 # name:be: [Крупкі]
 msgid "Крупки"
@@ -36,6 +41,11 @@ msgstr ""
 # Objects : [w25195974]
 # name:be: []
 msgid "Нерыб"
+msgstr ""
+
+# Objects : [r4850387]
+# name:be: []
+msgid "Новозарянский сельский Совет"
 msgstr ""
 
 # Objects : [w25196181]

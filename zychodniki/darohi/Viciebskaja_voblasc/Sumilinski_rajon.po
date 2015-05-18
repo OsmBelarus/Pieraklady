@@ -53,11 +53,6 @@ msgstr ""
 msgid "Кооперативная улица"
 msgstr ""
 
-# Objects : [w236163293]
-# name:be: []
-msgid "Ласкунова"
-msgstr ""
-
 # Objects : [w235831186]
 # name:be: []
 msgid "Лесная улица"
@@ -178,6 +173,11 @@ msgstr ""
 msgid "улица Крыжевской"
 msgstr ""
 
+# Objects : [w236163293]
+# name:be: []
+msgid "улица Ласкунова"
+msgstr ""
+
 # Objects : [w261834968]
 # name:be: []
 msgid "улица Сипко"
@@ -198,12 +198,7 @@ msgstr ""
 msgid "Школьная улица"
 msgstr ""
 
-# Objects : [w123837861]
-# name:be: []
-msgid "Шоссейная"
-msgstr ""
-
-# Objects : [w71402161, w71402164]
+# Objects : [w123837861, w71402161, w71402164]
 # name:be: [Шасэйная вуліца]
 msgid "Шоссейная улица"
 msgstr ""

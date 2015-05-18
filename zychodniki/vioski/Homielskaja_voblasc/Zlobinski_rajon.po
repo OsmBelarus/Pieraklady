@@ -1,3 +1,8 @@
+# Objects : [n243041449, w25103257]
+# name:be: [Абольцы]
+msgid "Абольцы"
+msgstr ""
+
 # Objects : [n243041424, w25103244]
 # name:be: [Александроў]
 msgid "Александров"
@@ -148,7 +153,7 @@ msgstr ""
 msgid "Дворище"
 msgstr ""
 
-# Objects : [n243043243, w25089495, w25089501]
+# Objects : [n243043243, r4845600]
 # name:be: [Дзяніскавічы]
 msgid "Денисковичи"
 msgstr ""
@@ -273,6 +278,11 @@ msgstr ""
 msgid "Калиновка"
 msgstr ""
 
+# Objects : [n243035304, w25097034]
+# name:be: [Калыбаўка]
+msgid "Калыбовка"
+msgstr ""
+
 # Objects : [n243043250, w25089519]
 # name:be: [Кірава]
 msgid "Кирово"
@@ -303,11 +313,6 @@ msgstr ""
 msgid "Колос"
 msgstr ""
 
-# Objects : [n243035304, w25097034]
-# name:be: [Калыбаўка]
-msgid "Колыбовка"
-msgstr ""
-
 # Objects : [n243038227, w25104100]
 # name:be: [Кароткавічы]
 msgid "Коротковичи"
@@ -316,6 +321,11 @@ msgstr ""
 # Objects : [n243035459, w25103254]
 # name:be: [Касакоўка]
 msgid "Косаковка"
+msgstr ""
+
+# Objects : [n243035251, w25097010]
+# name:be: [Красная Горка]
+msgid "Красная Горка"
 msgstr ""
 
 # Objects : [n243041575, w25103162]
@@ -438,7 +448,7 @@ msgstr ""
 msgid "Марусенька"
 msgstr ""
 
-# Objects : [n2253910519, n243041423, w25103247]
+# Objects : [n2253910519, n243041423, w215999508, w25103247]
 # name:be: [Мормаль]
 msgid "Мормаль"
 msgstr ""
@@ -498,14 +508,9 @@ msgstr ""
 msgid "Новые Луки"
 msgstr ""
 
-# Objects : [n243035465, w25097099, w25097101]
+# Objects : [n243035465, r4845604]
 # name:be: [Новыя Маркавічы]
 msgid "Новые Марковичи"
-msgstr ""
-
-# Objects : [n243041449, w25103257]
-# name:be: [Абольцы]
-msgid "Обольцы"
 msgstr ""
 
 # Objects : [n243035286, w25097062]
@@ -550,7 +555,7 @@ msgstr ""
 
 # Objects : [n243043237, w25089493]
 # name:be: [Піцераўка]
-msgid "Питеровка"
+msgid "Питеревка"
 msgstr ""
 
 # Objects : [n243038223, w25104099]
@@ -588,11 +593,6 @@ msgstr ""
 msgid "Проскурни"
 msgstr ""
 
-# Objects : [n2778951501]
-# name:be: []
-msgid "Рабочий поселок"
-msgstr ""
-
 # Objects : [n243035463, w25097100]
 # name:be: [Радуцін]
 msgid "Радутин"
@@ -608,7 +608,7 @@ msgstr ""
 msgid "Ректа"
 msgstr ""
 
-# Objects : [n3145146471]
+# Objects : [n3145146471, w344755854]
 # name:be: []
 msgid "Рубеж"
 msgstr ""
@@ -621,6 +621,11 @@ msgstr ""
 # Objects : [n243035386, w25097155]
 # name:be: [Рудня]
 msgid "Рудня"
+msgstr ""
+
+# Objects : [n243038302, w25104089]
+# name:be: [Салоцін]
+msgid "Салотин"
 msgstr ""
 
 # Objects : [n243043196, w165976907]
@@ -664,8 +669,8 @@ msgid "Скепня"
 msgstr ""
 
 # Objects : [n243043199, w25089536]
-# name:be: [Савецкі]
-msgid "Советский"
+# name:be: [Савецкая]
+msgid "Советская"
 msgstr ""
 
 # Objects : [n243035278, r3924947]
@@ -678,17 +683,7 @@ msgstr ""
 msgid "Солонская Корма"
 msgstr ""
 
-# Objects : [n243038302, w25104089]
-# name:be: [Салоцін]
-msgid "Солотин"
-msgstr ""
-
-# Objects : [w215999508]
-# name:be: []
-msgid "станция Мормаль"
-msgstr ""
-
-# Objects : [n243043209, n3131031526, w25089566, w306641854]
+# Objects : [n243043209, r5139365]
 # name:be: [Старая Рудня]
 msgid "Старая Рудня"
 msgstr ""
@@ -710,7 +705,7 @@ msgstr ""
 
 # Objects : [n243043213, w25097066]
 # name:be: [Сухі Востраў]
-msgid "Сухий Остров"
+msgid "Сухой Остров"
 msgstr ""
 
 # Objects : [n243030586, w25104775]
@@ -756,11 +751,6 @@ msgstr ""
 # Objects : [n243043206, w25097063]
 # name:be: [Чацвярня]
 msgid "Четверня"
-msgstr ""
-
-# Objects : [n243035251, w25097010]
-# name:be: [Чырвоная Горка]
-msgid "Чирвоная Горка"
 msgstr ""
 
 # Objects : [n243043204, w25089523]

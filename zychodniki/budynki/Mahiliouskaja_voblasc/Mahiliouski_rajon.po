@@ -63,6 +63,11 @@ msgstr ""
 msgid "грп-119"
 msgstr ""
 
+# Objects : [w341782979]
+# name:be: []
+msgid "ГРП-130"
+msgstr ""
+
 # Objects : [w232018784]
 # name:be: []
 msgid "грс-1"
@@ -78,7 +83,7 @@ msgstr ""
 msgid "Летняя кухня"
 msgstr ""
 
-# Objects : [w262044792, w334680014]
+# Objects : [w262044792]
 # name:be: []
 msgid "магазин"
 msgstr ""

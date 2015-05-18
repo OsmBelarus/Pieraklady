@@ -128,6 +128,11 @@ msgstr ""
 msgid "Вересковая"
 msgstr ""
 
+# Objects : [n482021657]
+# name:be: [Веста]
+msgid "Веста"
+msgstr ""
+
 # Objects : [n2519482832, n2519482833]
 # name:be: []
 msgid "Ветеран"
@@ -183,7 +188,7 @@ msgstr ""
 msgid "Госуниверситет"
 msgstr ""
 
-# Objects : [n674060090, n674060091]
+# Objects : [n674060091]
 # name:be: [Грыбаедава]
 msgid "Грибоедова"
 msgstr ""
@@ -266,11 +271,6 @@ msgstr ""
 # Objects : [n2983745525]
 # name:be: [Клініка ВДМУ]
 msgid "Клиника ВГМУ"
-msgstr ""
-
-# Objects : [n482021657]
-# name:be: [Кальцавая]
-msgid "Кольцевая"
 msgstr ""
 
 # Objects : [n1072544183, n1072544187, n1206310719]
@@ -366,11 +366,6 @@ msgstr ""
 # Objects : [n2450757533, n2932271058]
 # name:be: []
 msgid "Микрорайон Фрунзе"
-msgstr ""
-
-# Objects : [n333276073]
-# name:be: [вул. Маргелава]
-msgid "Молодежная"
 msgstr ""
 
 # Objects : [n1839097446, n1848102141, n324660960, n329995992]
@@ -748,7 +743,7 @@ msgstr ""
 msgid "Улица Берестеня"
 msgstr ""
 
-# Objects : [n314953823]
+# Objects : [n314953823, n333276073]
 # name:be: [Вуліца генерала Маргелава]
 msgid "Улица генерала Маргелова"
 msgstr ""

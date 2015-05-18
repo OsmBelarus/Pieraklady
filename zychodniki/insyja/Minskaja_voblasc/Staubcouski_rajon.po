@@ -193,7 +193,7 @@ msgstr ""
 msgid "Мельница"
 msgstr ""
 
-# Objects : [n2172319706]
+# Objects : [w342918962]
 # name:be: [Дзяржынава]
 msgid "Мемориальный комплекс "Дзержиново""
 msgstr ""
@@ -256,6 +256,11 @@ msgstr ""
 # Objects : [n1111685942]
 # name:be: []
 msgid "Развалины спиртзавода"
+msgstr ""
+
+# Objects : [n3498716045]
+# name:be: []
+msgid "Речка Уса шашлык"
 msgstr ""
 
 # Objects : [n2965881352]

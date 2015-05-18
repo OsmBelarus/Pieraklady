@@ -103,6 +103,11 @@ msgstr ""
 msgid "Буслава Гара"
 msgstr ""
 
+# Objects : [n3524850508]
+# name:be: []
+msgid "Витебские ковры"
+msgstr ""
+
 # Objects : [n3253244554]
 # name:be: []
 msgid "Витязь"
@@ -283,7 +288,7 @@ msgstr ""
 msgid "Новосёл"
 msgstr ""
 
-# Objects : [n3227912929, n3259525691]
+# Objects : [n3227912929, n3259525691, n3524850510]
 # name:be: []
 msgid "Оптика"
 msgstr ""

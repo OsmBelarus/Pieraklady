@@ -93,6 +93,11 @@ msgstr ""
 msgid "Богушовка"
 msgstr ""
 
+# Objects : [n243030556, w25104759]
+# name:be: [Вялікая Кантора]
+msgid "Большая Контора"
+msgstr ""
+
 # Objects : [n243030610, w25104724]
 # name:be: [Вялікія Бортнікі]
 msgid "Большие Бортники"
@@ -148,11 +153,6 @@ msgstr ""
 msgid "Буда"
 msgstr ""
 
-# Objects : [n243030556, w25104759]
-# name:be: [Вялікая Кантора]
-msgid "Великая Контора"
-msgstr ""
-
 # Objects : [n243032163, r4677262]
 # name:be: [Вялічкава]
 msgid "Величково"
@@ -203,6 +203,11 @@ msgstr ""
 msgid "Воротынь"
 msgstr ""
 
+# Objects : [n243032235, w25105483]
+# name:be: [Усход]
+msgid "Восход"
+msgstr ""
+
 # Objects : [n243028151, w25106355]
 # name:be: [Глебава Рудня]
 msgid "Глебова Рудня"
@@ -235,7 +240,7 @@ msgstr ""
 
 # Objects : [n243025362, w25108144]
 # name:be: [Гародчына]
-msgid "Городчино"
+msgid "Городчина"
 msgstr ""
 
 # Objects : [n243024397, w25107112]
@@ -303,7 +308,7 @@ msgstr ""
 msgid "Долгое"
 msgstr ""
 
-# Objects : [n243028060, n243028084, w25106348, w25106349]
+# Objects : [n243028060, r4850862]
 # name:be: [Даманова]
 msgid "Доманово"
 msgstr ""
@@ -328,7 +333,7 @@ msgstr ""
 msgid "Еленовка"
 msgstr ""
 
-# Objects : [n243029602, w25107071, w25107072]
+# Objects : [n243029602, r4850863]
 # name:be: [Емяльянаў Мост]
 msgid "Емельянов Мост"
 msgstr ""
@@ -418,7 +423,7 @@ msgstr ""
 msgid "Клины"
 msgstr ""
 
-# Objects : [n243030671, w25104746, w25104747]
+# Objects : [n243030671, r4850864]
 # name:be: [Кавалі]
 msgid "Ковали"
 msgstr ""
@@ -743,7 +748,7 @@ msgstr ""
 msgid "Орсичи"
 msgstr ""
 
-# Objects : [n243029605, n243030538, w25104750, w25107073, w25108066]
+# Objects : [n243029605, n243030538, r4850865, w25104750]
 # name:be: [Восава]
 msgid "Осово"
 msgstr ""
@@ -770,7 +775,7 @@ msgstr ""
 
 # Objects : [n243032223, w25105488]
 # name:be: [Перасова]
-msgid "Пересова"
+msgid "Пересово"
 msgstr ""
 
 # Objects : [n243024400, w25107113]
@@ -780,7 +785,7 @@ msgstr ""
 
 # Objects : [n243030670, w25104732]
 # name:be: [Плёсы]
-msgid "Плёсы"
+msgid "Плессы"
 msgstr ""
 
 # Objects : [n243029653, w25107088]
@@ -973,7 +978,7 @@ msgstr ""
 msgid "Сулево"
 msgstr ""
 
-# Objects : [n243027845, w25106287, w25106308]
+# Objects : [n243027845, r4850875]
 # name:be: [Сычкава]
 msgid "Сычково"
 msgstr ""
@@ -998,7 +1003,7 @@ msgstr ""
 msgid "Тивновичи"
 msgstr ""
 
-# Objects : [n243029637, w25107051, w25107059]
+# Objects : [n243029637, r4850876]
 # name:be: [Такары]
 msgid "Токари"
 msgstr ""
@@ -1028,7 +1033,7 @@ msgstr ""
 msgid "Турки"
 msgstr ""
 
-# Objects : [n243038314, w25104733, w25104734]
+# Objects : [n243038314, r4850877]
 # name:be: [Туркоўская Слабада]
 msgid "Турковская Слобода"
 msgstr ""
@@ -1046,11 +1051,6 @@ msgstr ""
 # Objects : [n243030624, w25104728]
 # name:be: [Узнога]
 msgid "Узнога"
-msgstr ""
-
-# Objects : [n243032235, w25105483]
-# name:be: [Усход]
-msgid "Усход"
 msgstr ""
 
 # Objects : [n243025350, w25108136]
@@ -1108,7 +1108,7 @@ msgstr ""
 msgid "Ясень-Каменка"
 msgstr ""
 
-# Objects : [n243032152, w25105356, w25105358]
+# Objects : [n243032152, r4850878]
 # name:be: [Ясны Лес]
 msgid "Ясный Лес"
 msgstr ""

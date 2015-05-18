@@ -3,6 +3,11 @@
 msgid "ААТ "Забудова""
 msgstr ""
 
+# Objects : [n2175223354]
+# name:be: []
+msgid "Автомойка"
+msgstr ""
+
 # Objects : [n2766728028]
 # name:be: []
 msgid "Алеся"
@@ -26,11 +31,6 @@ msgstr ""
 # Objects : [w317240339]
 # name:be: []
 msgid "Бассейн Чистинской средней школы"
-msgstr ""
-
-# Objects : [n2175223354]
-# name:be: []
-msgid "Белоруснефть"
 msgstr ""
 
 # Objects : [w99810892]
@@ -336,6 +336,11 @@ msgstr ""
 # Objects : [w136025277]
 # name:be: []
 msgid "садовое товарищество "Автопилот""
+msgstr ""
+
+# Objects : [w342701284]
+# name:be: [садовае таварыства "Глобус"]
+msgid "садовое товарищество "Глобус""
 msgstr ""
 
 # Objects : [w275980018]

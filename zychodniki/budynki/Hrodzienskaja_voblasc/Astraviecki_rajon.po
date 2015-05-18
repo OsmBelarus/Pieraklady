@@ -8,6 +8,16 @@ msgstr ""
 msgid "7"
 msgstr ""
 
+# Objects : [w287460644]
+# name:be: []
+msgid "Анастасия"
+msgstr ""
+
+# Objects : [w287461266]
+# name:be: []
+msgid "Березка"
+msgstr ""
+
 # Objects : [w273060381]
 # name:be: []
 msgid "библиотека"
@@ -66,6 +76,11 @@ msgstr ""
 # Objects : [n1640455275]
 # name:be: []
 msgid "Железнодорожная станция"
+msgstr ""
+
+# Objects : [w287461267]
+# name:be: []
+msgid "Зал ожидания"
 msgstr ""
 
 # Objects : [w276735893]

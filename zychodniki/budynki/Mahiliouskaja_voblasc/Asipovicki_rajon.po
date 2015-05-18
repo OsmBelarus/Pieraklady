@@ -18,7 +18,7 @@ msgstr ""
 msgid "банк"
 msgstr ""
 
-# Objects : [w215184022]
+# Objects : [w215188411]
 # name:be: []
 msgid "Банк"
 msgstr ""
@@ -41,6 +41,11 @@ msgstr ""
 # Objects : [w213727519]
 # name:be: []
 msgid "Дом Быта"
+msgstr ""
+
+# Objects : [w215191364]
+# name:be: []
+msgid "Дом культуры"
 msgstr ""
 
 # Objects : [w249540375]
@@ -93,11 +98,6 @@ msgstr ""
 msgid "Общежитие"
 msgstr ""
 
-# Objects : [w215193044]
-# name:be: []
-msgid "Почта"
-msgstr ""
-
 # Objects : [w215250322]
 # name:be: []
 msgid "Правление колхоза "Авангард""
@@ -138,7 +138,7 @@ msgstr ""
 msgid "Стеклозавод"
 msgstr ""
 
-# Objects : [w213818683, w215188875, w215372726]
+# Objects : [w213818683, w215372726]
 # name:be: []
 msgid "столовая"
 msgstr ""

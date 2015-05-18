@@ -4,8 +4,8 @@ msgid "Английский парк"
 msgstr ""
 
 # Objects : [w95911616]
-# name:be: [Лесапарк "Альба"]
-msgid "Лесопарк "АЛЬБА""
+# name:be: [Лесапарк Альба]
+msgid "Лесопарк Альба"
 msgstr ""
 
 # Objects : [w128285052]
@@ -14,8 +14,8 @@ msgid "Марысин парк"
 msgstr ""
 
 # Objects : [w261437855]
-# name:be: []
-msgid "парк Антония"
+# name:be: [Парк Антонія]
+msgid "Парк Антония"
 msgstr ""
 
 # Objects : [w112500243]

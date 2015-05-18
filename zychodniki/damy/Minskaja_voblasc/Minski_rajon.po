@@ -1,8 +1,3 @@
-# Objects : [w161543307]
-# name:be: []
-msgid ""Новый дом""
-msgstr ""
-
 # Objects : [w279258809]
 # name:be: []
 msgid "Артемчики"
@@ -26,6 +21,11 @@ msgstr ""
 # Objects : [w176476440]
 # name:be: []
 msgid "Жилой дом"
+msgstr ""
+
+# Objects : [w344279188]
+# name:be: []
+msgid "Жилой Комплекс Акварельный"
 msgstr ""
 
 # Objects : [w278107782]

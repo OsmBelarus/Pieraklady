@@ -132,6 +132,10 @@
       <tuv lang="BE"><seg>Лагішын</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Автостанция Логойск</seg></tuv>
+      <tuv lang="BE"><seg>Аўтастанцыя Лагойск</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Автостанция Мосты</seg></tuv>
       <tuv lang="BE"><seg>Аўтавакзал</seg></tuv>
     </tu>
@@ -330,10 +334,6 @@
     <tu>
       <tuv lang="RU"><seg>Лицей № 5 приборостроения</seg></tuv>
       <tuv lang="BE"><seg>Лiцэй № 5 прыборабудавання</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Логойск</seg></tuv>
-      <tuv lang="BE"><seg>Лагойск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Магазин Юбилейный</seg></tuv>

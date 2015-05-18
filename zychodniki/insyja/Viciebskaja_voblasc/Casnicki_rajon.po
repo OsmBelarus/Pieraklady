@@ -63,6 +63,11 @@ msgstr ""
 msgid "Золотино"
 msgstr ""
 
+# Objects : [r4850384]
+# name:be: []
+msgid "Иванский сельский Совет"
+msgstr ""
+
 # Objects : [w25195952]
 # name:be: [воз. Квеціна]
 msgid "Кветино"
@@ -83,14 +88,19 @@ msgstr ""
 msgid "Конечное"
 msgstr ""
 
+# Objects : [r4850385]
+# name:be: []
+msgid "Краснолукский сельский Совет"
+msgstr ""
+
+# Objects : [r4850386]
+# name:be: []
+msgid "Круглицкий сельский Совет"
+msgstr ""
+
 # Objects : [w237479473, w242442545]
 # name:be: []
 msgid "Луг-Ухле"
-msgstr ""
-
-# Objects : [r4680037]
-# name:be: []
-msgid "Лукомльский сельский Совет"
 msgstr ""
 
 # Objects : [w186637031]
@@ -106,6 +116,11 @@ msgstr ""
 # Objects : [w25194553]
 # name:be: [Мелкае]
 msgid "Мелкое"
+msgstr ""
+
+# Objects : [r4850387]
+# name:be: []
+msgid "Новозарянский сельский Совет"
 msgstr ""
 
 # Objects : [w165587173]

@@ -58,6 +58,11 @@ msgstr ""
 msgid "Привокзальная улица"
 msgstr ""
 
+# Objects : [w25272131]
+# name:be: []
+msgid "Прысады"
+msgstr ""
+
 # Objects : [w281611479]
 # name:be: []
 msgid "Советская улица"

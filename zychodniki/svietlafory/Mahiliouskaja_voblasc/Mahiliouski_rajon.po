@@ -8,7 +8,7 @@ msgstr ""
 msgid "Буйничи-2"
 msgstr ""
 
-# Objects : [n1489834767, n1489834769]
+# Objects : [n1489834769, n3522959224]
 # name:be: []
 msgid "Зоосад"
 msgstr ""
@@ -16,6 +16,11 @@ msgstr ""
 # Objects : [n1800930758]
 # name:be: []
 msgid "Княжицы"
+msgstr ""
+
+# Objects : [n1489838015]
+# name:be: [Катэджы]
+msgid "Коттеджи"
 msgstr ""
 
 # Objects : [n1483613217]

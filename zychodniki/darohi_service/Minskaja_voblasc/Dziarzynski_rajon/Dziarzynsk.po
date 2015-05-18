@@ -13,6 +13,11 @@ msgstr ""
 msgid "переулок Энгельса"
 msgstr ""
 
+# Objects : [w208384194]
+# name:be: []
+msgid "улица Колхозная"
+msgstr ""
+
 # Objects : [w208388014]
 # name:be: [вуліца Тургенева]
 msgid "улица Тургенева"

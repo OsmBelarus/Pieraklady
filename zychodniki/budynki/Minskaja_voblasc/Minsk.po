@@ -383,6 +383,11 @@ msgstr ""
 msgid "Sporting Club"
 msgstr ""
 
+# Objects : [w335977782]
+# name:be: []
+msgid "SV Plaza"
+msgstr ""
+
 # Objects : [w25391630]
 # name:be: []
 msgid "Toyota центр Минск"
@@ -603,6 +608,11 @@ msgstr ""
 msgid "АТС"
 msgstr ""
 
+# Objects : [w80250758]
+# name:be: []
+msgid "Базар"
+msgstr ""
+
 # Objects : [w36345443]
 # name:be: [Банк]
 msgid "Банк"
@@ -758,11 +768,6 @@ msgstr ""
 msgid "Белорусский государственный хореографический колледж"
 msgstr ""
 
-# Objects : [w302241180]
-# name:be: [Беларускі дзяржаўны эканамічны ўніверсітэт]
-msgid "Белорусский государственный экономический университет"
-msgstr ""
-
 # Objects : [w25753407]
 # name:be: [Беларускі інстытут правазнаўства]
 msgid "Белорусский институт правоведенья"
@@ -871,11 +876,6 @@ msgstr ""
 # Objects : [w164682806]
 # name:be: []
 msgid "Бизнес-центр «Азимут»"
-msgstr ""
-
-# Objects : [r27606]
-# name:be: []
-msgid "Биологический факультет БГУ"
 msgstr ""
 
 # Objects : [w39669102]
@@ -1256,6 +1256,11 @@ msgstr ""
 # Objects : [w27422412]
 # name:be: []
 msgid "ГУМ"
+msgstr ""
+
+# Objects : [r27606]
+# name:be: []
+msgid "Гуманитарный факультет (факультет социокультурных коммуникаций), факультет радиофизики и компьютерных технологий БГУ"
 msgstr ""
 
 # Objects : [w25313702]
@@ -1718,14 +1723,9 @@ msgstr ""
 msgid "Калитка"
 msgstr ""
 
-# Objects : [n2723888933]
+# Objects : [n3493544775]
 # name:be: []
 msgid "Калитка СШ№55"
-msgstr ""
-
-# Objects : [n2723901411]
-# name:be: []
-msgid "Калитка Центра «Маяк»"
 msgstr ""
 
 # Objects : [w25322636]
@@ -1746,11 +1746,6 @@ msgstr ""
 # Objects : [w25393004]
 # name:be: [Кафэ]
 msgid "Кафе"
-msgstr ""
-
-# Objects : [w184268704]
-# name:be: []
-msgid "Кафе "Ассорти""
 msgstr ""
 
 # Objects : [w25322878]
@@ -2203,6 +2198,11 @@ msgstr ""
 msgid "Минское областное управление МЧС Республики Беларусь"
 msgstr ""
 
+# Objects : [w25318397]
+# name:be: []
+msgid "Минское РУВД"
+msgstr ""
+
 # Objects : [w330429129]
 # name:be: [Мінсктранс]
 msgid "Минсктранс"
@@ -2271,6 +2271,11 @@ msgstr ""
 # Objects : [w25389531]
 # name:be: []
 msgid "Молодёжный театр эстрады"
+msgstr ""
+
+# Objects : [w25321925]
+# name:be: []
+msgid "Молодёжный центр"
 msgstr ""
 
 # Objects : [w25327299]
@@ -2413,11 +2418,6 @@ msgstr ""
 msgid "НИИПФП им. А.Н.Севченко БГУ"
 msgstr ""
 
-# Objects : [w25388533]
-# name:be: []
-msgid "НИИЯП"
-msgstr ""
-
 # Objects : [w25322836]
 # name:be: []
 msgid "Новый взгляд"
@@ -2503,7 +2503,7 @@ msgstr ""
 msgid "Общежите музучилища"
 msgstr ""
 
-# Objects : [w25431961, w25432785, w25432791, w25436254, w60367220]
+# Objects : [w25432785, w25432791, w25436254, w60367220]
 # name:be: []
 msgid "Общежитие"
 msgstr ""
@@ -2533,6 +2533,11 @@ msgstr ""
 msgid "Общежитие СМУ СоюзТелефонСтрой"
 msgstr ""
 
+# Objects : [w25431961]
+# name:be: []
+msgid "Общежитие УП Минскметрострой"
+msgstr ""
+
 # Objects : [w25426076]
 # name:be: []
 msgid "Общежитие №1 (hostel №1)"
@@ -2556,6 +2561,11 @@ msgstr ""
 # Objects : [w25436247]
 # name:be: []
 msgid "Общежитие № 2 БГМУ"
+msgstr ""
+
+# Objects : [w25428529]
+# name:be: []
+msgid "Общежитие №6 БГАТУ"
 msgstr ""
 
 # Objects : [w25319567]
@@ -2661,11 +2671,6 @@ msgstr ""
 # Objects : [w28473432]
 # name:be: [Павільён D]
 msgid "Павильон D"
-msgstr ""
-
-# Objects : [n3399453889]
-# name:be: []
-msgid "Палата Представителей Национального собрания РБ"
 msgstr ""
 
 # Objects : [w59350619]
@@ -2806,6 +2811,11 @@ msgstr ""
 # Objects : [w25387086]
 # name:be: [Паліклініка]
 msgid "Поликлиника"
+msgstr ""
+
+# Objects : [w25389767]
+# name:be: []
+msgid "Поликлиника аэропорта Минск-1"
 msgstr ""
 
 # Objects : [w25388418]
@@ -3043,12 +3053,7 @@ msgstr ""
 msgid "Республиканский экспертно-криминалистический центр"
 msgstr ""
 
-# Objects : [w25318371]
-# name:be: [РНПЦ неўралогіі і нейрахірургіі]
-msgid "РНПЦ неврологии и нейрохирургии"
-msgstr ""
-
-# Objects : [w35819764, w51425615, w58441376, w80250758]
+# Objects : [w35819764, w51425615, w58441376]
 # name:be: [Рублёўскі]
 msgid "Рублевский"
 msgstr ""
@@ -3316,6 +3321,11 @@ msgstr ""
 # Objects : [w25313135, w25318018, w25319540, w25323393, w25393312]
 # name:be: [Сталовая]
 msgid "Столовая"
+msgstr ""
+
+# Objects : [w343549992]
+# name:be: []
+msgid "Столовая БГАТУ"
 msgstr ""
 
 # Objects : [w25327349]
@@ -3748,6 +3758,11 @@ msgstr ""
 msgid "УТЦ"
 msgstr ""
 
+# Objects : [w25321891]
+# name:be: []
+msgid "Учебно-выставочный павильон"
+msgstr ""
+
 # Objects : [w25391305]
 # name:be: []
 msgid "Учебно-курсовой к-т МПСМ РБ"
@@ -3791,11 +3806,6 @@ msgstr ""
 # Objects : [w25393532]
 # name:be: [Установа аховы здароў'я «Дом дзіця №1»]
 msgid "Учреждение здравоохранения «Дом ребёнка № 1»"
-msgstr ""
-
-# Objects : [w25388588]
-# name:be: []
-msgid "Физический факультет БГУ"
 msgstr ""
 
 # Objects : [n2542685519, w93265767]
@@ -3978,16 +3988,6 @@ msgstr ""
 msgid "Школа визажистов"
 msgstr ""
 
-# Objects : [w25317974]
-# name:be: []
-msgid "Школа-интернат № 5"
-msgstr ""
-
-# Objects : [r22102]
-# name:be: []
-msgid "Школа №159"
-msgstr ""
-
 # Objects : [w62236230]
 # name:be: []
 msgid "Шопен"
@@ -4016,11 +4016,6 @@ msgstr ""
 # Objects : [w39607482]
 # name:be: [ЭгідаБел]
 msgid "ЭгидаБел"
-msgstr ""
-
-# Objects : [r4130815]
-# name:be: []
-msgid "экзотариум"
 msgstr ""
 
 # Objects : [w25434696]

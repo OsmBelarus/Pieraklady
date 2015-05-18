@@ -3,19 +3,29 @@
 msgid "Баня"
 msgstr ""
 
+# Objects : [w214282069]
+# name:be: []
+msgid "Ветеран"
+msgstr ""
+
+# Objects : [w157073672]
+# name:be: [Ветстанцыя]
+msgid "Ветстанция"
+msgstr ""
+
 # Objects : [w262206022]
 # name:be: []
 msgid "гж"
 msgstr ""
 
-# Objects : [w157365129]
-# name:be: []
-msgid "магазин Ткани"
-msgstr ""
-
 # Objects : [w333572265]
 # name:be: []
 msgid "Павильоны"
+msgstr ""
+
+# Objects : [w260958756]
+# name:be: [Пракуратура Верхнядзвінскага раёна]
+msgid "Прокуратура Верхнедвинского района"
 msgstr ""
 
 # Objects : [w186262029]
@@ -26,6 +36,16 @@ msgstr ""
 # Objects : [w186262027]
 # name:be: []
 msgid "СКАД"
+msgstr ""
+
+# Objects : [w186262006]
+# name:be: [Суд Верхнядзвінскага раёна]
+msgid "Суд Верхнедвинского района"
+msgstr ""
+
+# Objects : [w157365129]
+# name:be: [Тканіны]
+msgid "Ткани"
 msgstr ""
 
 # Objects : [w157528379]

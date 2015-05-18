@@ -18,9 +18,19 @@ msgstr ""
 msgid "Крыница"
 msgstr ""
 
+# Objects : [w343400156]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
 # Objects : [w157271342]
 # name:be: []
 msgid "Магазин «Чародей»"
+msgstr ""
+
+# Objects : [w157315463]
+# name:be: []
+msgid "Магазин Янушковский"
 msgstr ""
 
 # Objects : [w229173537]

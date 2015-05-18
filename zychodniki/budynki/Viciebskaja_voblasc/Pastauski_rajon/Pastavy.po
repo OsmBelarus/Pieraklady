@@ -1,3 +1,18 @@
+# Objects : [w341537726]
+# name:be: []
+msgid ""Лимончик""
+msgstr ""
+
+# Objects : [w158854541]
+# name:be: []
+msgid ""Пассадник""
+msgstr ""
+
+# Objects : [w202370315]
+# name:be: []
+msgid ""Теремок""
+msgstr ""
+
 # Objects : [w228683984]
 # name:be: []
 msgid ""Энергосбыт""
@@ -13,9 +28,19 @@ msgstr ""
 msgid "Анселм"
 msgstr ""
 
+# Objects : [w66846918]
+# name:be: []
+msgid "Аптека"
+msgstr ""
+
 # Objects : [w203585891]
 # name:be: [лазня]
 msgid "баня"
+msgstr ""
+
+# Objects : [w204122734]
+# name:be: []
+msgid "Бар «Лагуна»"
 msgstr ""
 
 # Objects : [w119775072]
@@ -26,6 +51,11 @@ msgstr ""
 # Objects : [w119775093]
 # name:be: [Беларусбанк]
 msgid "Беларусбанк"
+msgstr ""
+
+# Objects : [w158854362]
+# name:be: []
+msgid "Библиотека"
 msgstr ""
 
 # Objects : [w158854368]
@@ -51,6 +81,11 @@ msgstr ""
 # Objects : [w119607530]
 # name:be: []
 msgid "Доброном"
+msgstr ""
+
+# Objects : [w66846914]
+# name:be: []
+msgid "Дом быта"
 msgstr ""
 
 # Objects : [w136591802]
@@ -103,6 +138,11 @@ msgstr ""
 msgid "Мобильная застава"
 msgstr ""
 
+# Objects : [w344329252]
+# name:be: []
+msgid "Мужская одежда"
+msgstr ""
+
 # Objects : [w245886926]
 # name:be: []
 msgid "опк "Мольдевичи""
@@ -133,6 +173,11 @@ msgstr ""
 msgid "Районный дом культуры"
 msgstr ""
 
+# Objects : [w158842718]
+# name:be: []
+msgid "Районный Суд"
+msgstr ""
+
 # Objects : [w118499332]
 # name:be: []
 msgid "РДК"
@@ -141,6 +186,21 @@ msgstr ""
 # Objects : [w204096133]
 # name:be: [Рэдакцыя газеты "Пастаўскі край"]
 msgid "Редакция газеты "Поставский край""
+msgstr ""
+
+# Objects : [w66846877]
+# name:be: []
+msgid "Ресторан «Свитанак»"
+msgstr ""
+
+# Objects : [w158854435]
+# name:be: []
+msgid "РОВД"
+msgstr ""
+
+# Objects : [w204122690]
+# name:be: []
+msgid "РО КГБ"
 msgstr ""
 
 # Objects : [w255759333]
@@ -166,6 +226,11 @@ msgstr ""
 # Objects : [w66846890]
 # name:be: [універсам]
 msgid "Универсам"
+msgstr ""
+
+# Objects : [w98784628]
+# name:be: []
+msgid "ФОК"
 msgstr ""
 
 # Objects : [w136483451]

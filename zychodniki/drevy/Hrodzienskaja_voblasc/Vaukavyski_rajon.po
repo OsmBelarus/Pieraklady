@@ -1,6 +1,6 @@
 # Objects : [w98404253]
 # name:be: []
-msgid "Городской  парк"
+msgid "Городской парк"
 msgstr ""
 
 # Objects : [w321269965]
@@ -9,7 +9,7 @@ msgid "Мицкевичский"
 msgstr ""
 
 # Objects : [w69137749]
-# name:be: []
+# name:be: [Сквер 40-годдзя Перамогі]
 msgid "Сквер 40 летия Победы"
 msgstr ""
 

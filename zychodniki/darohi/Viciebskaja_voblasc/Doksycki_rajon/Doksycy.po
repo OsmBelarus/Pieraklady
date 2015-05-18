@@ -8,7 +8,7 @@ msgstr ""
 msgid "1-й переулок Гидротехников"
 msgstr ""
 
-# Objects : [w150162456]
+# Objects : [w150162456, w345470846]
 # name:be: [1-ы завулак Якуба Коласа]
 msgid "1-й переулок Якуба Коласа"
 msgstr ""
@@ -26,6 +26,11 @@ msgstr ""
 # Objects : [w30109409]
 # name:be: [2-і завулак Гідратэхнікаў]
 msgid "2-й переулок Гидротехников"
+msgstr ""
+
+# Objects : [w148555112]
+# name:be: []
+msgid "2-й переулок Якуба Коласа"
 msgstr ""
 
 # Objects : [w30088890]
@@ -100,7 +105,7 @@ msgstr ""
 
 # Objects : [w150301720]
 # name:be: [Крынічны завулак]
-msgid "Криничный переулок"
+msgid "Крыничный переулок"
 msgstr ""
 
 # Objects : [w25268857]
@@ -223,9 +228,14 @@ msgstr ""
 msgid "Речной переулок"
 msgstr ""
 
-# Objects : [w150170034]
-# name:be: [Садовая вуліца]
+# Objects : [w30110828]
+# name:be: []
 msgid "Садовая улица"
+msgstr ""
+
+# Objects : [w150170034]
+# name:be: []
+msgid "Садовый переулок"
 msgstr ""
 
 # Objects : [w150346337]

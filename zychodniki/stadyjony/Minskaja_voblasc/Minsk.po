@@ -43,6 +43,11 @@ msgstr ""
 msgid "Стадион «Трактор»"
 msgstr ""
 
+# Objects : [w341878386]
+# name:be: []
+msgid "Стадион БГАТУ"
+msgstr ""
+
 # Objects : [n2627052833]
 # name:be: []
 msgid "Стадион гимназии №12 (2008-2012)"

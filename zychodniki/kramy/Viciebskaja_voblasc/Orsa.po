@@ -448,12 +448,7 @@ msgstr ""
 msgid "Экзотик"
 msgstr ""
 
-# Objects : [n3318274661]
-# name:be: []
-msgid "электросила"
-msgstr ""
-
-# Objects : [n3128132075]
+# Objects : [n3128132075, n3318274661]
 # name:be: []
 msgid "Электросила"
 msgstr ""

@@ -12,14 +12,6 @@
       <tuv lang="BE"><seg>"Беларусбанк" ЦБП 203</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>«Альфа-Банк», отделение «На Советской»</seg></tuv>
-      <tuv lang="BE"><seg>Альфа-Банк</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Idea Bank</seg></tuv>
-      <tuv lang="BE"><seg>Idea Bank</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Абсолютбанк</seg></tuv>
       <tuv lang="BE"><seg>Абсалютбанк</seg></tuv>
     </tu>
@@ -164,10 +156,6 @@
       <tuv lang="BE"><seg>Белрасбанк</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>БелСвиссБанк</seg></tuv>
-      <tuv lang="BE"><seg>БелСвісБанк</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>БПС-Cбербанк</seg></tuv>
       <tuv lang="BE"><seg>БПС-банк</seg></tuv>
     </tu>
@@ -220,6 +208,10 @@
       <tuv lang="BE"><seg>Ідэя Банк</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Москва-Минск</seg></tuv>
+      <tuv lang="BE"><seg>Масква-Мінск</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>МТБанк</seg></tuv>
       <tuv lang="BE"><seg>МТБанк</seg></tuv>
     </tu>
@@ -250,6 +242,10 @@
     <tu>
       <tuv lang="RU"><seg>Отделение Беларусбанк № 614/70</seg></tuv>
       <tuv lang="BE"><seg>Аддзяленне Беларусбанк № 614/70</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отделение №514/329</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Отделение №529/350 "Белсвязь"</seg></tuv>
@@ -302,6 +298,10 @@
     <tu>
       <tuv lang="RU"><seg>Хоум Кредит Банк, ЦБУ №706</seg></tuv>
       <tuv lang="BE"><seg>Хоўм Крэдыт Банк, ЦБП №706</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦБУ "Беларусбанк"</seg></tuv>
+      <tuv lang="BE"><seg>ЦБП "Беларусбанк"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ЦБУ №1</seg></tuv>

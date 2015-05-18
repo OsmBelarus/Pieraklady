@@ -273,14 +273,9 @@ msgstr ""
 msgid "ДЮСШ"
 msgstr ""
 
-# Objects : [w169679694, w315851967]
+# Objects : [w169679694, w315813888]
 # name:be: []
 msgid "Евроопт"
-msgstr ""
-
-# Objects : [w315813888]
-# name:be: []
-msgid "Евроопт +++"
 msgstr ""
 
 # Objects : [w85146627]
@@ -611,11 +606,6 @@ msgstr ""
 # Objects : [n1674193925, n1674193980, n2717807226, r2086041]
 # name:be: []
 msgid "Стоматология"
-msgstr ""
-
-# Objects : [n1652609639]
-# name:be: []
-msgid "стоянка Евроопта"
 msgstr ""
 
 # Objects : [n1674173985, n1674173986, r2086040]

@@ -173,6 +173,11 @@ msgstr ""
 msgid "Краснослободское"
 msgstr ""
 
+# Objects : [w280419434, w344209890]
+# name:be: []
+msgid "КУП "Солигорскводоканал""
+msgstr ""
+
 # Objects : [n1670673866]
 # name:be: []
 msgid "Листопадовичское лесничество"
@@ -221,11 +226,6 @@ msgstr ""
 # Objects : [w319996148, w319996811]
 # name:be: []
 msgid "Новы Рожан"
-msgstr ""
-
-# Objects : [w280419434]
-# name:be: []
-msgid "ООО "Сельэнергомонтаж""
 msgstr ""
 
 # Objects : [n1256459859, n1256462414]
@@ -396,6 +396,11 @@ msgstr ""
 # Objects : [n1456709753, w132417050]
 # name:be: []
 msgid "Строитель-2"
+msgstr ""
+
+# Objects : [w343695006]
+# name:be: []
+msgid "Строительство заведения общепита"
 msgstr ""
 
 # Objects : [w82366220]

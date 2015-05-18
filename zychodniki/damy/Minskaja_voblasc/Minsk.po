@@ -38,24 +38,9 @@ msgstr ""
 msgid "Дом "У Троицкого""
 msgstr ""
 
-# Objects : [w86412867]
-# name:be: []
-msgid "Жилое здание"
-msgstr ""
-
-# Objects : [w86412859]
-# name:be: []
-msgid "Жилой дом"
-msgstr ""
-
 # Objects : [n2626937852]
 # name:be: []
 msgid "жкх №28"
-msgstr ""
-
-# Objects : [n2627520514]
-# name:be: []
-msgid "Зоомагазин"
 msgstr ""
 
 # Objects : [w274094177]

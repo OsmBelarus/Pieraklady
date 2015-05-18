@@ -263,6 +263,11 @@ msgstr ""
 msgid "Ветер странствий"
 msgstr ""
 
+# Objects : [n306063920]
+# name:be: []
+msgid "Ветразь"
+msgstr ""
+
 # Objects : [n306063909]
 # name:be: []
 msgid "Винарь-2"
@@ -368,7 +373,7 @@ msgstr ""
 msgid "Киоск «Европа»"
 msgstr ""
 
-# Objects : [n306062405, n306063326, n306063920]
+# Objects : [n306062405, n306063326]
 # name:be: [Кнігі]
 msgid "Книги"
 msgstr ""
@@ -638,7 +643,7 @@ msgstr ""
 msgid "Пресса № 1"
 msgstr ""
 
-# Objects : [n306061916, n306062406, n306062408, n306063102, n306063889, n306063971]
+# Objects : [n306061916, n306062406, n306062408, n306063102, n306063971]
 # name:be: []
 msgid "Прод"
 msgstr ""
@@ -693,7 +698,7 @@ msgstr ""
 msgid "Продуктовый магазин"
 msgstr ""
 
-# Objects : [n1307717613, n2189004398, n306062269, n306063132]
+# Objects : [n1307717613, n2189004398, n306062269, n306063132, n306063889]
 # name:be: [Прадукты]
 msgid "Продукты"
 msgstr ""
@@ -956,6 +961,11 @@ msgstr ""
 # Objects : [n306063152]
 # name:be: [Кветкі]
 msgid "Цветы"
+msgstr ""
+
+# Objects : [n3519054421]
+# name:be: []
+msgid "Цветы от "Жардан""
 msgstr ""
 
 # Objects : [n306061945]

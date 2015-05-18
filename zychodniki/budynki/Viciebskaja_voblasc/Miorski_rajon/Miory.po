@@ -1,16 +1,16 @@
-# Objects : [w35839506]
-# name:be: []
-msgid ""Архидея""
-msgstr ""
-
 # Objects : [w35805645]
 # name:be: []
-msgid ""Бригантина""
+msgid "Бригантина"
 msgstr ""
 
 # Objects : [w35805657]
 # name:be: []
 msgid "ГорСовет"
+msgstr ""
+
+# Objects : [w35805656]
+# name:be: [Гасцініца]
+msgid "Гостиница Миоры"
 msgstr ""
 
 # Objects : [w35763098]
@@ -43,6 +43,11 @@ msgstr ""
 msgid "Котельная ЖКХ"
 msgstr ""
 
+# Objects : [w138713267]
+# name:be: [Магазін]
+msgid "Магазин"
+msgstr ""
+
 # Objects : [w134893008]
 # name:be: []
 msgid "Миорские РЭС"
@@ -55,7 +60,7 @@ msgstr ""
 
 # Objects : [w35692813]
 # name:be: [Маладзёжная]
-msgid "Молодежное"
+msgid "Молодёжное"
 msgstr ""
 
 # Objects : [w35837994]
@@ -66,6 +71,11 @@ msgstr ""
 # Objects : [w133569494]
 # name:be: []
 msgid "Орион"
+msgstr ""
+
+# Objects : [w35839506]
+# name:be: []
+msgid "Орхидея"
 msgstr ""
 
 # Objects : [w35692810]

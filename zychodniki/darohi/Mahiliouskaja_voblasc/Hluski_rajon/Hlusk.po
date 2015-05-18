@@ -43,6 +43,11 @@ msgstr ""
 msgid "Комсомольская улица"
 msgstr ""
 
+# Objects : [w219752589]
+# name:be: []
+msgid "Короткевича"
+msgstr ""
+
 # Objects : [w219752615]
 # name:be: [Чырвонаармейская вуліца]
 msgid "Красноармейская улица"
@@ -63,7 +68,7 @@ msgstr ""
 msgid "Парковый переулок"
 msgstr ""
 
-# Objects : [w219752613, w326497057, w326497126]
+# Objects : [w326497126]
 # name:be: []
 msgid "пер. Я.Коласа"
 msgstr ""
@@ -78,7 +83,7 @@ msgstr ""
 msgid "переулок Будённого"
 msgstr ""
 
-# Objects : [w206077540]
+# Objects : [w206077540, w343403164]
 # name:be: [завулак Вялюгі]
 msgid "переулок Вилюги"
 msgstr ""
@@ -103,6 +108,11 @@ msgstr ""
 msgid "переулок Шутова"
 msgstr ""
 
+# Objects : [w219752613, w326496254, w326497057]
+# name:be: []
+msgid "переулок Якуба Коласа"
+msgstr ""
+
 # Objects : [w206086079]
 # name:be: [Піянерская вуліца]
 msgid "Пионерская улица"
@@ -121,11 +131,6 @@ msgstr ""
 # Objects : [w206073413]
 # name:be: [Пасялковая вуліца]
 msgid "Поселковая улица"
-msgstr ""
-
-# Objects : [w326496254]
-# name:be: []
-msgid "пре. Я.Коласа"
 msgstr ""
 
 # Objects : [w263172260, w263172261]
@@ -258,7 +263,7 @@ msgstr ""
 msgid "улица Короткевича"
 msgstr ""
 
-# Objects : [w205316534]
+# Objects : [w205316534, w342905543]
 # name:be: [вуліца Луначарскага]
 msgid "улица Луначарского"
 msgstr ""
@@ -308,7 +313,7 @@ msgstr ""
 msgid "улица Чапаева"
 msgstr ""
 
-# Objects : [w154611129, w326208970]
+# Objects : [w154611129]
 # name:be: [вуліца Швякава]
 msgid "улица Швякова"
 msgstr ""
@@ -325,7 +330,7 @@ msgstr ""
 
 # Objects : [w219752608, w326497058]
 # name:be: []
-msgid "улица Я.Коласа"
+msgid "улица Якуба Коласа"
 msgstr ""
 
 # Objects : [w218982548]

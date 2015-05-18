@@ -492,12 +492,16 @@
       <tuv lang="BE"><seg>[Кафетэрый, Кафэтэрый]</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>кафетерий «Колос»</seg></tuv>
+      <tuv lang="BE"><seg>кафетэрый «Колас»</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кафетерий Веста</seg></tuv>
       <tuv lang="BE"><seg>Кафетэрый Веста</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кафэ</seg></tuv>
-      <tuv lang="BE"><seg>[Кавярня, Кафэ]</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Квартал</seg></tuv>
@@ -624,12 +628,8 @@
       <tuv lang="BE"><seg>Міраж</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Молодежное</seg></tuv>
+      <tuv lang="RU"><seg>Молодёжное</seg></tuv>
       <tuv lang="BE"><seg>Маладзёжная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Москва</seg></tuv>
-      <tuv lang="BE"><seg>Масква</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мостки</seg></tuv>

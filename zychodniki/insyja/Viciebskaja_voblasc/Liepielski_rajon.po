@@ -8,7 +8,7 @@ msgstr ""
 msgid "Бабча"
 msgstr ""
 
-# Objects : [r3400208, w253737149]
+# Objects : [w253737149]
 # name:be: [Бярэзінскі біясферны запаведнік]
 msgid "Березинский биосферный заповедник"
 msgstr ""
@@ -31,6 +31,11 @@ msgstr ""
 # Objects : [n306064809]
 # name:be: [Бароўка 1]
 msgid "Боровка-1"
+msgstr ""
+
+# Objects : [r3400208]
+# name:be: [Бярэзінскі біясферны запаведнік]
+msgid "Бярэзінскі біясферны запаведнік"
 msgstr ""
 
 # Objects : [w279973314]
@@ -123,6 +128,11 @@ msgstr ""
 msgid "Заяловское"
 msgstr ""
 
+# Objects : [r4850384]
+# name:be: []
+msgid "Иванский сельский Совет"
+msgstr ""
+
 # Objects : [w25195178]
 # name:be: [Кабак]
 msgid "Кабак"
@@ -141,6 +151,11 @@ msgstr ""
 # Objects : [n2788681704]
 # name:be: [Касцёл (руіны)]
 msgid "Костел (руины)"
+msgstr ""
+
+# Objects : [r4850385]
+# name:be: []
+msgid "Краснолукский сельский Совет"
 msgstr ""
 
 # Objects : [w25196926]
@@ -208,6 +223,11 @@ msgstr ""
 msgid "Нивки"
 msgstr ""
 
+# Objects : [r4850387]
+# name:be: []
+msgid "Новозарянский сельский Совет"
+msgstr ""
+
 # Objects : [w25201829]
 # name:be: [воз. Окана]
 msgid "Оконо"
@@ -216,11 +236,6 @@ msgstr ""
 # Objects : [w25201519]
 # name:be: [воз. Вольшыца]
 msgid "Ольшица"
-msgstr ""
-
-# Objects : [w25186033]
-# name:be: []
-msgid "Остапощково"
 msgstr ""
 
 # Objects : [n382011998]
@@ -303,11 +318,6 @@ msgstr ""
 msgid "Ужасья"
 msgstr ""
 
-# Objects : [w25200375]
-# name:be: [Урада]
-msgid "Урода"
-msgstr ""
-
 # Objects : [n2788684981]
 # name:be: [Сядзіба]
 msgid "Усадьба"
@@ -326,11 +336,6 @@ msgstr ""
 # Objects : [n2788686520]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
-msgstr ""
-
-# Objects : [w25196554]
-# name:be: [Чорная Урада]
-msgid "Черная Урода"
 msgstr ""
 
 # Objects : [w25186351]

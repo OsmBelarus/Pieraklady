@@ -3,12 +3,17 @@
 msgid "2-й Садовый переулок"
 msgstr ""
 
+# Objects : [w344699131]
+# name:be: []
+msgid "3-й Садовый переулок"
+msgstr ""
+
 # Objects : [w111411030]
 # name:be: [Армейская вуліца]
 msgid "Армейская улица"
 msgstr ""
 
-# Objects : [w111411018]
+# Objects : [w342758684]
 # name:be: []
 msgid "Веселая улица"
 msgstr ""

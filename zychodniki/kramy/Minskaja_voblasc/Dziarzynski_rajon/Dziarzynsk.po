@@ -18,6 +18,11 @@ msgstr ""
 msgid "Стройматериалы"
 msgstr ""
 
+# Objects : [n3500643496]
+# name:be: []
+msgid "ТД Восточный (конфискат)"
+msgstr ""
+
 # Objects : [n2186949475]
 # name:be: []
 msgid "ТЦ Престиж"

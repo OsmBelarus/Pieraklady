@@ -13,7 +13,7 @@ msgstr ""
 msgid "ДДУ п.Привольный"
 msgstr ""
 
-# Objects : [n1736124859]
+# Objects : [w161639117]
 # name:be: []
 msgid "Детский сад"
 msgstr ""
@@ -36,6 +36,11 @@ msgstr ""
 # Objects : [w37439296]
 # name:be: []
 msgid "Детский сад №17"
+msgstr ""
+
+# Objects : [w343943747]
+# name:be: []
+msgid "Сад-ясли «Вишенка»"
 msgstr ""
 
 # Objects : [w37439297]

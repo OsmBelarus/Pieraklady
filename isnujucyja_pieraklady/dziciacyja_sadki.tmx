@@ -572,6 +572,10 @@
       <tuv lang="BE"><seg>Дзіцячы сад №19</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Детский сад № 2 «Радуга»</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад № 2 «Вясёлка»</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Детский сад №20</seg></tuv>
       <tuv lang="BE"><seg>Дзіцячы сад №20</seg></tuv>
     </tu>
@@ -718,10 +722,6 @@
     <tu>
       <tuv lang="RU"><seg>Детский сад № 5 Нафтан</seg></tuv>
       <tuv lang="BE"><seg>Дзіцячы сад №56</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Детский сад №6</seg></tuv>
-      <tuv lang="BE"><seg>Дзіцячы сад №6</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Детский сад № 6</seg></tuv>

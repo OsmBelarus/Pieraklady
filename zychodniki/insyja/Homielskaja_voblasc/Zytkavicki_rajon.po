@@ -13,14 +13,39 @@ msgstr ""
 msgid "Белое"
 msgstr ""
 
+# Objects : [w344078590]
+# name:be: []
+msgid "Бережцы"
+msgstr ""
+
+# Objects : [w344079958]
+# name:be: []
+msgid "Борки"
+msgstr ""
+
 # Objects : [n271041159]
 # name:be: [Брынёва]
 msgid "Бринёво"
 msgstr ""
 
+# Objects : [w343965215]
+# name:be: []
+msgid "Бывшая школа"
+msgstr ""
+
+# Objects : [w344078746]
+# name:be: []
+msgid "Вересница"
+msgstr ""
+
 # Objects : [n2666727051]
 # name:be: []
 msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w344078799]
+# name:be: []
+msgid "Воронино"
 msgstr ""
 
 # Objects : [w332227861]
@@ -58,6 +83,11 @@ msgstr ""
 msgid "Забродье"
 msgstr ""
 
+# Objects : [w344078912]
+# name:be: []
+msgid "Запесочье"
+msgstr ""
+
 # Objects : [w292988994]
 # name:be: []
 msgid "заправка ГСМ"
@@ -91,6 +121,11 @@ msgstr ""
 # Objects : [w294804385]
 # name:be: []
 msgid "Красноармейская улица"
+msgstr ""
+
+# Objects : [w344078244]
+# name:be: []
+msgid "Любовичи"
 msgstr ""
 
 # Objects : [w293000589]
@@ -148,6 +183,11 @@ msgstr ""
 msgid "Полюшка"
 msgstr ""
 
+# Objects : [w344078650]
+# name:be: []
+msgid "Ричёв"
+msgstr ""
+
 # Objects : [n3392198073]
 # name:be: []
 msgid "Селiца"
@@ -188,6 +228,11 @@ msgstr ""
 msgid "Старушки"
 msgstr ""
 
+# Objects : [w344079365]
+# name:be: []
+msgid "Сторожовцы"
+msgstr ""
+
 # Objects : [w293032259]
 # name:be: []
 msgid "Территория гаража"
@@ -218,6 +263,16 @@ msgstr ""
 msgid "Учебный городок"
 msgstr ""
 
+# Objects : [w344078483]
+# name:be: []
+msgid "Хильчицы"
+msgstr ""
+
+# Objects : [w344079214]
+# name:be: []
+msgid "Хочень"
+msgstr ""
+
 # Objects : [n3392198000]
 # name:be: []
 msgid "Хутор у Скрипицы"
@@ -231,6 +286,11 @@ msgstr ""
 # Objects : [r540963]
 # name:be: [Чырвоная]
 msgid "Червоное"
+msgstr ""
+
+# Objects : [w344079781]
+# name:be: []
+msgid "Черничи"
 msgstr ""
 
 # Objects : [w25198061]

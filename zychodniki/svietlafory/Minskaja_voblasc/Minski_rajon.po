@@ -493,7 +493,7 @@ msgstr ""
 msgid "Переезд"
 msgstr ""
 
-# Objects : [n1840661781, n767183559]
+# Objects : [n1840661781, n378274681, n767183559]
 # name:be: [Скрыжаванне, Скрыжаваньне]
 msgid "Перекресток"
 msgstr ""
@@ -520,7 +520,7 @@ msgstr ""
 
 # Objects : [n1116664918, n1116664932]
 # name:be: [Паварот на Вішнёўку]
-msgid "поворот на Вишневку"
+msgid "Поворот на Вишнёвку"
 msgstr ""
 
 # Objects : [n767183465, n767183560]
@@ -788,11 +788,6 @@ msgstr ""
 msgid "Сухорукие"
 msgstr ""
 
-# Objects : [n378274681]
-# name:be: []
-msgid "Танк"
-msgstr ""
-
 # Objects : [n767485283]
 # name:be: []
 msgid "Тарасово"
@@ -860,7 +855,7 @@ msgstr ""
 
 # Objects : [n523137023]
 # name:be: []
-msgid "филиал БГУ"
+msgid "Филиал БГУ"
 msgstr ""
 
 # Objects : [n965543004, n965543005]
@@ -916,6 +911,11 @@ msgstr ""
 # Objects : [n1956793157, n1956793222]
 # name:be: []
 msgid "Щитомиричи"
+msgstr ""
+
+# Objects : [n3515054565]
+# name:be: []
+msgid "Щомыслица"
 msgstr ""
 
 # Objects : [n1598869156]

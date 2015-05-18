@@ -273,7 +273,7 @@ msgstr ""
 msgid "Луговая улица"
 msgstr ""
 
-# Objects : [w235363786, w242742067]
+# Objects : [w235363786, w242742067, w343011410]
 # name:be: []
 msgid "лыжная трасса Зарица"
 msgstr ""
@@ -1026,6 +1026,11 @@ msgstr ""
 # Objects : [w273601924]
 # name:be: []
 msgid "улица Церковная"
+msgstr ""
+
+# Objects : [w192675238]
+# name:be: [вуліца Чашчаўляны]
+msgid "улица Чещавляны"
 msgstr ""
 
 # Objects : [w312729831]

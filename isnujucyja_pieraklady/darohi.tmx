@@ -1240,6 +1240,10 @@
       <tuv lang="BE"><seg>1-ы завулак Прытыцкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>1-й переулок Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>1-ы завулак Пушкіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>1-й переулок Репина</seg></tuv>
       <tuv lang="BE"><seg>1-ы завулак Рэпіна</seg></tuv>
     </tu>
@@ -2150,10 +2154,6 @@
     <tu>
       <tuv lang="RU"><seg>1-я Станционная улица</seg></tuv>
       <tuv lang="BE"><seg>1-я Станцыйная вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>1-я Строительная улица</seg></tuv>
-      <tuv lang="BE"><seg>1-я Будаўнічая вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>1-я Тепличная улица</seg></tuv>
@@ -3614,6 +3614,10 @@
     <tu>
       <tuv lang="RU"><seg>2-й Прилукский переулок</seg></tuv>
       <tuv lang="BE"><seg>2-і Прылуцкі завулак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-й Приозёрный переулок</seg></tuv>
+      <tuv lang="BE"><seg>2-i Прыазёрны завулак</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>2-й Прогонный переулок</seg></tuv>
@@ -6232,6 +6236,10 @@
       <tuv lang="BE"><seg>4-я Верасовая вуліца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>4-я Ветеранская улица</seg></tuv>
+      <tuv lang="BE"><seg>4-я Вецяранская вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>4-я Железнодорожная улица</seg></tuv>
       <tuv lang="BE"><seg>4-я Чыгуначная вуліца</seg></tuv>
     </tu>
@@ -6918,6 +6926,10 @@
     <tu>
       <tuv lang="RU"><seg>6-й переулок Космонавтов</seg></tuv>
       <tuv lang="BE"><seg>6-ы завулак Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>6-й переулок Куйбышева</seg></tuv>
+      <tuv lang="BE"><seg>6-ы завулак Куйбышава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>6-й переулок Лизы Чайкиной</seg></tuv>
@@ -11012,6 +11024,10 @@
       <tuv lang="BE"><seg>Кобрынскі завулак</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ковалёва улица</seg></tuv>
+      <tuv lang="BE"><seg>Кавалёва вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ковальская улица</seg></tuv>
       <tuv lang="BE"><seg>Кавальская вуліца</seg></tuv>
     </tu>
@@ -11214,6 +11230,10 @@
     <tu>
       <tuv lang="RU"><seg>Конечная улица</seg></tuv>
       <tuv lang="BE"><seg>Канечная вуліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Константина Заслонова улица</seg></tuv>
+      <tuv lang="BE"><seg>Канстанціна Заслонава вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Константиновский переулок</seg></tuv>
@@ -11444,6 +11464,10 @@
       <tuv lang="BE"><seg>Крэпасны праезд</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крестовая улица</seg></tuv>
+      <tuv lang="BE"><seg>Крыжовая вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Крестьянская улица</seg></tuv>
       <tuv lang="BE"><seg>[Сялянкая вуліца, Сялянская, Сялянская вуліца]</seg></tuv>
     </tu>
@@ -11530,10 +11554,6 @@
     <tu>
       <tuv lang="RU"><seg>Крушинская улица</seg></tuv>
       <tuv lang="BE"><seg>Крушынская вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Крыжовая улица</seg></tuv>
-      <tuv lang="BE"><seg>Крыжовая вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крымский переулок</seg></tuv>
@@ -14773,7 +14793,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>переулок Медвежино</seg></tuv>
-      <tuv lang="BE"><seg>завулак Мядзвежына</seg></tuv>
+      <tuv lang="BE"><seg>завулак Мядзведжына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>переулок Мелиораторов</seg></tuv>
@@ -16392,6 +16412,10 @@
       <tuv lang="BE"><seg>Падоўжная вуліца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>проезд 1-й Ветеранский</seg></tuv>
+      <tuv lang="BE"><seg>праезд 1-шы Вецяранскi</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>проезд 30 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>праезд 30 гадоў Кастрычніка</seg></tuv>
     </tu>
@@ -17749,7 +17773,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская улица</seg></tuv>
-      <tuv lang="BE"><seg>[Савецкая вуліца, Советская улица]</seg></tuv>
+      <tuv lang="BE"><seg>[Савецкая вуліца, Советская улица, вуліца Савецкая]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советский переулок</seg></tuv>
@@ -18126,6 +18150,10 @@
     <tu>
       <tuv lang="RU"><seg>Степной переулок</seg></tuv>
       <tuv lang="BE"><seg>Стэпавы завулак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Степянская улица</seg></tuv>
+      <tuv lang="BE"><seg>Сцяпянская вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Стефановская улица</seg></tuv>
@@ -18782,6 +18810,10 @@
     <tu>
       <tuv lang="RU"><seg>Украинская улица</seg></tuv>
       <tuv lang="BE"><seg>Украінская вуліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Спольника</seg></tuv>
+      <tuv lang="BE"><seg>вул. Спольнiка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Улановическая улица</seg></tuv>
@@ -21070,10 +21102,6 @@
     <tu>
       <tuv lang="RU"><seg>улица Горького</seg></tuv>
       <tuv lang="BE"><seg>вуліца Горкага</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>улица Горького;Советская улица</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Госпитальный остров</seg></tuv>
@@ -23857,7 +23885,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Медвежино</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Мядзвежына</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Мядзведжына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Мележа</seg></tuv>
@@ -24673,10 +24701,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Пантелеева</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Панцялеева</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>улица Пантиелева</seg></tuv>
       <tuv lang="BE"><seg>вуліца Панцялеева</seg></tuv>
     </tu>
     <tu>

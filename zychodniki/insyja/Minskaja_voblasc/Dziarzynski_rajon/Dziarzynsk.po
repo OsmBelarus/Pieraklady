@@ -63,6 +63,11 @@ msgstr ""
 msgid "Костел Святой Анны"
 msgstr ""
 
+# Objects : [n243004979]
+# name:be: []
+msgid "Макавчицы"
+msgstr ""
+
 # Objects : [w208230341]
 # name:be: []
 msgid "ОАО «Амкодор-Дзержинск»"
@@ -93,7 +98,7 @@ msgstr ""
 msgid "Рембаза"
 msgstr ""
 
-# Objects : [w238904751, w275158343]
+# Objects : [w275158343]
 # name:be: []
 msgid "Родники"
 msgstr ""

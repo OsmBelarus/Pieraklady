@@ -163,7 +163,7 @@ msgstr ""
 msgid "Курганьвская улица"
 msgstr ""
 
-# Objects : [w230151287, w340408113]
+# Objects : [w340408113]
 # name:be: [Ленiнградзкая вулiца]
 msgid "Ленинградская улица"
 msgstr ""
@@ -198,7 +198,7 @@ msgstr ""
 msgid "Майская улица"
 msgstr ""
 
-# Objects : [w127906855, w258888032]
+# Objects : [w186027112, w258888032]
 # name:be: [Магілёўская вуліца]
 msgid "Могилёвская улица"
 msgstr ""
@@ -403,7 +403,7 @@ msgstr ""
 msgid "улица Заслонова"
 msgstr ""
 
-# Objects : [w252151869]
+# Objects : [w252151869, w341403465, w341403466]
 # name:be: []
 msgid "улица Захарова"
 msgstr ""
@@ -493,7 +493,7 @@ msgstr ""
 msgid "улица Школльная"
 msgstr ""
 
-# Objects : [w171126157]
+# Objects : [w141278136, w171126157, w342730114, w342730115]
 # name:be: []
 msgid "улица Щербакова"
 msgstr ""

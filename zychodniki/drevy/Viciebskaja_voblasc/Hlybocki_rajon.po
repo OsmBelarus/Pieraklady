@@ -4,12 +4,12 @@ msgid "аллея знаменитых уроженцев Глуботчины"
 msgstr ""
 
 # Objects : [w275514271]
-# name:be: []
+# name:be: [Дэндрапарк]
 msgid "Дендропарк"
 msgstr ""
 
 # Objects : [w303369307]
-# name:be: []
+# name:be: [Парк Перамогі]
 msgid "Парк Победы"
 msgstr ""
 

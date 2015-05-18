@@ -564,10 +564,6 @@
       <tuv lang="BE"><seg>Абашына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Авиабаза Бобр</seg></tuv>
-      <tuv lang="BE"><seg>Авіябаза Бобр</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Авиабаза Засимовичи</seg></tuv>
       <tuv lang="BE"><seg>Пружаны</seg></tuv>
     </tu>
@@ -984,6 +980,10 @@
       <tuv lang="BE"><seg>Асіна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Асиновка</seg></tuv>
+      <tuv lang="BE"><seg>Асінаўка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аслесье</seg></tuv>
       <tuv lang="BE"><seg>Аслессе</seg></tuv>
     </tu>
@@ -1256,10 +1256,6 @@
       <tuv lang="BE"><seg>БДУ РФіЭ</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>БГЭУ корпус 6</seg></tuv>
-      <tuv lang="BE"><seg>БДЭУ корпус 6</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Беденка</seg></tuv>
       <tuv lang="BE"><seg>Бедзенка</seg></tuv>
     </tu>
@@ -1366,6 +1362,10 @@
     <tu>
       <tuv lang="RU"><seg>Белорусский государственный университет физкультуры</seg></tuv>
       <tuv lang="BE"><seg>Беларускі дзяржаўны ўніверсытэт фізкультуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусский государственный экономический университет</seg></tuv>
+      <tuv lang="BE"><seg>Беларускі дзяржаўны эканамічны ўніверсітэт</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белорусский часть Августовского канала</seg></tuv>
@@ -2032,6 +2032,10 @@
       <tuv lang="BE"><seg>Брэсцкая вуліца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Брестский государственный политехнический колледж</seg></tuv>
+      <tuv lang="BE"><seg>УА "Брэсцкі дзяржаўны політэхнічны каледж"</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Брестский государственный технический университет</seg></tuv>
       <tuv lang="BE"><seg>Брэсцкі дзяржауны тэхнічны універсітэт</seg></tuv>
     </tu>
@@ -2078,6 +2082,10 @@
     <tu>
       <tuv lang="RU"><seg>Брестский СИЗО №7</seg></tuv>
       <tuv lang="BE"><seg>Брэскцкі СІЗА №7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брестский театр кукол (стр.)</seg></tuv>
+      <tuv lang="BE"><seg>Брэсцкі тэатр лялек</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брестский филиал РУП "Белтелеком"</seg></tuv>
@@ -2158,10 +2166,6 @@
     <tu>
       <tuv lang="RU"><seg>Бтива на Березине</seg></tuv>
       <tuv lang="BE"><seg>Бтіва на Бярэзіне</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Буг</seg></tuv>
-      <tuv lang="BE"><seg>Буг</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Бугры</seg></tuv>
@@ -2308,6 +2312,10 @@
       <tuv lang="BE"><seg>бюст Пятруся Броўкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бярэзінскі біясферны запаведнік</seg></tuv>
+      <tuv lang="BE"><seg>Бярэзінскі біясферны запаведнік</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>В/Ч 07147</seg></tuv>
       <tuv lang="BE"><seg>В/Ч 07147</seg></tuv>
     </tu>
@@ -2356,10 +2364,6 @@
       <tuv lang="BE"><seg>Валькі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Васарабы</seg></tuv>
-      <tuv lang="BE"><seg>Васарабы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Василевичи</seg></tuv>
       <tuv lang="BE"><seg>Васілевічы</seg></tuv>
     </tu>
@@ -2398,10 +2402,6 @@
     <tu>
       <tuv lang="RU"><seg>Великая Лотва</seg></tuv>
       <tuv lang="BE"><seg>Вялікая Лотва</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Великая Ольшанка</seg></tuv>
-      <tuv lang="BE"><seg>Вялікая Альшанка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великий Киловец</seg></tuv>
@@ -2480,8 +2480,8 @@
       <tuv lang="BE"><seg>Верхнядзвінск</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Верхнедвинский районный исполнительный комитет</seg></tuv>
-      <tuv lang="BE"><seg>Верхнядзвінскі раённы выканаўчы камітэт</seg></tuv>
+      <tuv lang="RU"><seg>Верхнедвинский райисполком</seg></tuv>
+      <tuv lang="BE"><seg>Верхнядзвінскі райвыканкам</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Верхнедвинский районный Совет депутатов</seg></tuv>
@@ -2518,6 +2518,10 @@
     <tu>
       <tuv lang="RU"><seg>Веснянка</seg></tuv>
       <tuv lang="BE"><seg>Вяснянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веста №125</seg></tuv>
@@ -3188,6 +3192,10 @@
       <tuv lang="BE"><seg>Героям 120-й дывізіі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Героям витебского подполья</seg></tuv>
+      <tuv lang="BE"><seg>Героям віцебскага падполля</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Героям–пограничникам</seg></tuv>
       <tuv lang="BE"><seg>Героям-пагранічнікам</seg></tuv>
     </tu>
@@ -3496,10 +3504,6 @@
       <tuv lang="BE"><seg>Гарадок</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Городок (нежил.)</seg></tuv>
-      <tuv lang="BE"><seg>Гарадок (нежывы)</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Городская баня</seg></tuv>
       <tuv lang="BE"><seg>Гарадская лазня</seg></tuv>
     </tu>
@@ -3780,6 +3784,10 @@
       <tuv lang="BE"><seg>Грань</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Граффити</seg></tuv>
+      <tuv lang="BE"><seg>Графіці</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гребной канал</seg></tuv>
       <tuv lang="BE"><seg>Вяслярны канал</seg></tuv>
     </tu>
@@ -4050,6 +4058,10 @@
     <tu>
       <tuv lang="RU"><seg>ГСК №2</seg></tuv>
       <tuv lang="BE"><seg>ГБК №2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГУ "РНПЦ неврологии и нейрохирургии"</seg></tuv>
+      <tuv lang="BE"><seg>РНПЦ неўралогіі і нейрахірургіі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Губинка</seg></tuv>
@@ -4468,6 +4480,10 @@
       <tuv lang="BE"><seg>Дэнта</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Департамент охраны МВД РБ</seg></tuv>
+      <tuv lang="BE"><seg>Дэпартамент аховы МУС РБ</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дераки</seg></tuv>
       <tuv lang="BE"><seg>Дзяракі</seg></tuv>
     </tu>
@@ -4608,6 +4624,10 @@
       <tuv lang="BE"><seg>Дзіцячы сад №53</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Детский сад №6</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы сад №6</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Детский спортклуб</seg></tuv>
       <tuv lang="BE"><seg>Дзіцячы спортклуб</seg></tuv>
     </tu>
@@ -4728,6 +4748,10 @@
       <tuv lang="BE"><seg>Докшыцы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Долговское</seg></tuv>
+      <tuv lang="BE"><seg>Доўгаўскае</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Долгое</seg></tuv>
       <tuv lang="BE"><seg>[Доўгае, Доўгае воз.]</seg></tuv>
     </tu>
@@ -4738,10 +4762,6 @@
     <tu>
       <tuv lang="RU"><seg>Долинная улица</seg></tuv>
       <tuv lang="BE"><seg>Далінная вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Доловая</seg></tuv>
-      <tuv lang="BE"><seg>Далавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Доманово</seg></tuv>
@@ -4778,6 +4798,10 @@
     <tu>
       <tuv lang="RU"><seg>Домбровские</seg></tuv>
       <tuv lang="BE"><seg>Дамброўскія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом быта</seg></tuv>
+      <tuv lang="BE"><seg>Дом быту</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дом Быта</seg></tuv>
@@ -4826,6 +4850,10 @@
     <tu>
       <tuv lang="RU"><seg>Дом пионеров</seg></tuv>
       <tuv lang="BE"><seg>Дом піянераў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Природы</seg></tuv>
+      <tuv lang="BE"><seg>Дом Прыроды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дом Советов</seg></tuv>
@@ -5042,10 +5070,6 @@
     <tu>
       <tuv lang="RU"><seg>Дягили</seg></tuv>
       <tuv lang="BE"><seg>Дзягілі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Дялино</seg></tuv>
-      <tuv lang="BE"><seg>Дзяліна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дятловский краеведческий музей</seg></tuv>
@@ -5296,6 +5320,10 @@
       <tuv lang="BE"><seg>Жылы дом працаўнікоў паперні</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Жилой комплекс "Аквамарин"</seg></tuv>
+      <tuv lang="BE"><seg>Жылы комплекс "Аквамарын"</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Житковичи</seg></tuv>
       <tuv lang="BE"><seg>Жыткавічы</seg></tuv>
     </tu>
@@ -5432,7 +5460,7 @@
       <tuv lang="BE"><seg>Забалацце</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Заболоченный карер</seg></tuv>
+      <tuv lang="RU"><seg>Заболоченный карьер</seg></tuv>
       <tuv lang="BE"><seg>Забалочаны кар’ер</seg></tuv>
     </tu>
     <tu>
@@ -5606,6 +5634,10 @@
     <tu>
       <tuv lang="RU"><seg>Замосточье</seg></tuv>
       <tuv lang="BE"><seg>Замасточча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Замошенье</seg></tuv>
+      <tuv lang="BE"><seg>Замашэнне</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Замошье</seg></tuv>
@@ -6140,16 +6172,16 @@
       <tuv lang="BE"><seg>Інстытут павышэння кваліфікацыі і перападрыхтоўкі кадраў ГрДУ</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Институт подготовки научных кадров НАН Беларуси</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут падрыхтоўкі навуковых кадраў Нацыянальнай акадэміі навук Беларусі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Институт правоведения</seg></tuv>
       <tuv lang="BE"><seg>Інстытут правазнаўства</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная улица</seg></tuv>
       <tuv lang="BE"><seg>Інтэрнацыянальная вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Интернет WiFi</seg></tuv>
-      <tuv lang="BE"><seg>Інтэрнэт WiFi</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>интернет-магазин Морковка</seg></tuv>
@@ -6170,6 +6202,10 @@
     <tu>
       <tuv lang="RU"><seg>Инфокиоск Беларусбанк</seg></tuv>
       <tuv lang="BE"><seg>Інфашапік Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>инфокиоск Белпочта</seg></tuv>
+      <tuv lang="BE"><seg>інфакіёск Белпошта</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ИП ООО «Минавто»</seg></tuv>
@@ -6662,6 +6698,10 @@
     <tu>
       <tuv lang="RU"><seg>Карьер</seg></tuv>
       <tuv lang="BE"><seg>Кар’ер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>карьер "Хмелевские пруды"</seg></tuv>
+      <tuv lang="BE"><seg>кар'ер "Хмелеўская сажалкі"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карьер (кварцевого песка)</seg></tuv>
@@ -7580,10 +7620,6 @@
       <tuv lang="BE"><seg>Касцёл Апекі Маці Божай</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Костел Опеки Матери Божией Руженцовой</seg></tuv>
-      <tuv lang="BE"><seg>Касцёл Апекі Маці Божай Ружанцовай</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Костел Открытия Святого Креста</seg></tuv>
       <tuv lang="BE"><seg>Касцёл Адшукання Святога Крыжа</seg></tuv>
     </tu>
@@ -8012,10 +8048,6 @@
       <tuv lang="BE"><seg>Крыж</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Кривуля</seg></tuv>
-      <tuv lang="BE"><seg>Крывуля</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кривые окуни</seg></tuv>
       <tuv lang="BE"><seg>воз . Крывыя Акуні</seg></tuv>
     </tu>
@@ -8392,6 +8424,10 @@
       <tuv lang="BE"><seg>Леніну У. І.</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленину В. И.</seg></tuv>
+      <tuv lang="BE"><seg>Леніну У. І.</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленковщина</seg></tuv>
       <tuv lang="BE"><seg>Ленкаўшчына</seg></tuv>
     </tu>
@@ -8528,10 +8564,6 @@
       <tuv lang="BE"><seg>Лінія Смаленск — Віцебск</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Линия Сталина</seg></tuv>
-      <tuv lang="BE"><seg>Лінія Сталіна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Линки</seg></tuv>
       <tuv lang="BE"><seg>Лінкі</seg></tuv>
     </tu>
@@ -8612,6 +8644,10 @@
       <tuv lang="BE"><seg>Лічыняты</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ліпнішкаўскі сельвыканкам</seg></tuv>
+      <tuv lang="BE"><seg>Ліпнішкаўскі сельвыканкам</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ловжа</seg></tuv>
       <tuv lang="BE"><seg>воз. Лоўжа</seg></tuv>
     </tu>
@@ -8622,6 +8658,10 @@
     <tu>
       <tuv lang="RU"><seg>Ловша</seg></tuv>
       <tuv lang="BE"><seg>Лоўжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Логойская центральная районная больница</seg></tuv>
+      <tuv lang="BE"><seg>Лагойская цэнтральная раённая бальніца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лозино</seg></tuv>
@@ -9544,10 +9584,6 @@
       <tuv lang="BE"><seg>Мінская вуліца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Минская школа киноискусства</seg></tuv>
-      <tuv lang="BE"><seg>Мінская школа кінамастацтва</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Минск-Восточный</seg></tuv>
       <tuv lang="BE"><seg>Мінск Усходні</seg></tuv>
     </tu>
@@ -9654,6 +9690,10 @@
     <tu>
       <tuv lang="RU"><seg>Мишково</seg></tuv>
       <tuv lang="BE"><seg>Мішкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мі́нскі тра́ктарны заво́д</seg></tuv>
+      <tuv lang="BE"><seg>Мі́нскі тра́ктарны заво́д</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Млынарная улица</seg></tuv>
@@ -9774,6 +9814,14 @@
     <tu>
       <tuv lang="RU"><seg>могилы польских солдат 1920 г.</seg></tuv>
       <tuv lang="BE"><seg>магілы польскіх жаўнераў 1920г.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>могілкі</seg></tuv>
+      <tuv lang="BE"><seg>могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могілкі каталіцкія</seg></tuv>
+      <tuv lang="BE"><seg>Могілкі каталіцкія. Капліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Можеевка</seg></tuv>
@@ -9946,6 +9994,10 @@
     <tu>
       <tuv lang="RU"><seg>Монастырь тринитариев</seg></tuv>
       <tuv lang="BE"><seg>Кляштар трынітарыяў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь Троицкий базилианок: жилой корпус</seg></tuv>
+      <tuv lang="BE"><seg>Манастыр Троіцкі базилианок: жылы корпус</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Монастырь Успения Пресвятой Богородицы</seg></tuv>
@@ -10276,6 +10328,10 @@
       <tuv lang="BE"><seg>Инспекция МНС РБ, Минский район</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Налоговая инспекция</seg></tuv>
+      <tuv lang="BE"><seg>Падатковая інспекцыя</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Наркодиспансер</seg></tuv>
       <tuv lang="BE"><seg>Наркадыспансер</seg></tuv>
     </tu>
@@ -10290,6 +10346,10 @@
     <tu>
       <tuv lang="RU"><seg>Нарцизово</seg></tuv>
       <tuv lang="BE"><seg>Нарцызава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Насосная</seg></tuv>
+      <tuv lang="BE"><seg>Пампоўня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Насосная №7</seg></tuv>
@@ -10432,10 +10492,6 @@
       <tuv lang="BE"><seg>Ніагара</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Нивы</seg></tuv>
-      <tuv lang="BE"><seg>Нівы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Нивье</seg></tuv>
       <tuv lang="BE"><seg>Ніўе</seg></tuv>
     </tu>
@@ -10470,6 +10526,10 @@
     <tu>
       <tuv lang="RU"><seg>Никрополье</seg></tuv>
       <tuv lang="BE"><seg>[Нiкраполле, Нікраполле]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая Вергань</seg></tuv>
+      <tuv lang="BE"><seg>Новая Вергань</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая Гута</seg></tuv>
@@ -11018,6 +11078,10 @@
     <tu>
       <tuv lang="RU"><seg>Общежитие №8 БГПУ</seg></tuv>
       <tuv lang="BE"><seg>Інтэрнат №8 БДПУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Общественный пункт охраны порядка</seg></tuv>
+      <tuv lang="BE"><seg>Грамадскі пункт аховы парадку</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Объездная улица</seg></tuv>
@@ -11592,6 +11656,10 @@
       <tuv lang="BE"><seg>Офіс продажу "А-100"</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Охрана природы</seg></tuv>
+      <tuv lang="BE"><seg>Ахова прыроды</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ошивки</seg></tuv>
       <tuv lang="BE"><seg>Ашыўкі</seg></tuv>
     </tu>
@@ -11656,10 +11724,6 @@
       <tuv lang="BE"><seg>помнік</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Памятник</seg></tuv>
-      <tuv lang="BE"><seg>Помнік</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Памятник "Рогнеда и Изяслав"</seg></tuv>
       <tuv lang="BE"><seg>Помнік "Рагнеда і Ізяслаў"</seg></tuv>
     </tu>
@@ -11674,6 +11738,10 @@
     <tu>
       <tuv lang="RU"><seg>Памятник  авиаконструктору П.Сухому: самолёт Су-17МЗ</seg></tuv>
       <tuv lang="BE"><seg>Помнік авіяканструктару П.Сухому: самалёт Су-17МЗ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Памятник Адаму Мицкевичу</seg></tuv>
+      <tuv lang="BE"><seg>Помнік Адаму Міцкевічу</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Памятник букве "Ў"</seg></tuv>
@@ -11728,10 +11796,6 @@
       <tuv lang="BE"><seg>помнік героям</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Памятник героям Витебского подполья</seg></tuv>
-      <tuv lang="BE"><seg>Помнік героям віцебскага падполля</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Памятник героям  войны 1812 г.</seg></tuv>
       <tuv lang="BE"><seg>Помнік героям 1812 г.</seg></tuv>
     </tu>
@@ -11773,15 +11837,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>памятник Ленину</seg></tuv>
-      <tuv lang="BE"><seg>помнік Леніну</seg></tuv>
+      <tuv lang="BE"><seg>[Помнік Леніну, помнік Леніну]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Памятник Ленину</seg></tuv>
       <tuv lang="BE"><seg>[Помнiк Ленiну, помнік Леніну]</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>памятник  Ленину</seg></tuv>
-      <tuv lang="BE"><seg>Помнік Леніну</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Памятник летчикам</seg></tuv>
@@ -12240,10 +12300,6 @@
       <tuv lang="BE"><seg>Піркі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Пищалёвка</seg></tuv>
-      <tuv lang="BE"><seg>Пішчалёўка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пищаловский замок</seg></tuv>
       <tuv lang="BE"><seg>Пішчалаўскі замак</seg></tuv>
     </tu>
@@ -12292,6 +12348,10 @@
       <tuv lang="BE"><seg>Плябанскія</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Племенной свинокомплекс</seg></tuv>
+      <tuv lang="BE"><seg>Племянны свінакомплекс</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Плещеницы</seg></tuv>
       <tuv lang="BE"><seg>Плешчаніцы</seg></tuv>
     </tu>
@@ -12326,6 +12386,10 @@
     <tu>
       <tuv lang="RU"><seg>Площадь Ленина</seg></tuv>
       <tuv lang="BE"><seg>Плошча Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Площадь Независимости</seg></tuv>
+      <tuv lang="BE"><seg>Плошча Незалежнасці</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>площадь Победы</seg></tuv>
@@ -12686,6 +12750,10 @@
     <tu>
       <tuv lang="RU"><seg>Поминальный стол</seg></tuv>
       <tuv lang="BE"><seg>Памінальны стол</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Помнік</seg></tuv>
+      <tuv lang="BE"><seg>Помнік</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Помыслище</seg></tuv>
@@ -13372,10 +13440,6 @@
       <tuv lang="BE"><seg>Пракуратура</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Прокуратура Верхнедвинского района</seg></tuv>
-      <tuv lang="BE"><seg>Пракуратура Верхнядзвінскага раёна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Прокуратура города Гродно</seg></tuv>
       <tuv lang="BE"><seg>Пракуратура горада Гродна</seg></tuv>
     </tu>
@@ -13494,6 +13558,10 @@
     <tu>
       <tuv lang="RU"><seg>ПСК "Орджоникидзе"</seg></tuv>
       <tuv lang="BE"><seg>ВБК "Арджанікідзэ"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Птицкие</seg></tuv>
+      <tuv lang="BE"><seg>Пціцкія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Птичь</seg></tuv>
@@ -13706,10 +13774,6 @@
     <tu>
       <tuv lang="RU"><seg>Рашев</seg></tuv>
       <tuv lang="BE"><seg>Рашаў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Рашное</seg></tuv>
-      <tuv lang="BE"><seg>воз. Рашнае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ребуса</seg></tuv>
@@ -13948,12 +14012,24 @@
       <tuv lang="BE"><seg>Рошчынскі завулак</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>РП-16</seg></tuv>
+      <tuv lang="BE"><seg>РП-16</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>РП-38</seg></tuv>
       <tuv lang="BE"><seg>РП-38</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>РП-64</seg></tuv>
+      <tuv lang="BE"><seg>РП-64</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>РП-68</seg></tuv>
       <tuv lang="BE"><seg>РП-68</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>РП-76</seg></tuv>
+      <tuv lang="BE"><seg>РП-76</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>РПУ "Городокрайгаз"</seg></tuv>
@@ -14084,6 +14160,10 @@
       <tuv lang="BE"><seg>Русота</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Русское Село</seg></tuv>
+      <tuv lang="BE"><seg>Рускае Сяло</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Рутковщина</seg></tuv>
       <tuv lang="BE"><seg>Руткоўшчына</seg></tuv>
     </tu>
@@ -14208,6 +14288,10 @@
       <tuv lang="BE"><seg>с/т "Цэментава-1"</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Савиничи</seg></tuv>
+      <tuv lang="BE"><seg>Савінічы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Савичи</seg></tuv>
       <tuv lang="BE"><seg>Савічы</seg></tuv>
     </tu>
@@ -14226,6 +14310,14 @@
     <tu>
       <tuv lang="RU"><seg>Садовка</seg></tuv>
       <tuv lang="BE"><seg>Садоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>садовое товарищество "Глобус"</seg></tuv>
+      <tuv lang="BE"><seg>садовае таварыства "Глобус"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>садовое товарищество "Лукоморье"</seg></tuv>
+      <tuv lang="BE"><seg>садовае таварыства "Лукамор'е"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовые участки</seg></tuv>
@@ -14840,6 +14932,10 @@
       <tuv lang="BE"><seg>Слабада</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Слобода Жуковская</seg></tuv>
+      <tuv lang="BE"><seg>Слабада Жукаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Слободка</seg></tuv>
       <tuv lang="BE"><seg>Слабодка</seg></tuv>
     </tu>
@@ -15144,10 +15240,6 @@
       <tuv lang="BE"><seg>Спартыўны комплекс "Алімп"</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Спортивный комплекс БГЭУ</seg></tuv>
-      <tuv lang="BE"><seg>Спартыўны комплекс БДЭУ</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Спортплощадка</seg></tuv>
       <tuv lang="BE"><seg>Спортпляцоўка</seg></tuv>
     </tu>
@@ -15214,6 +15306,10 @@
     <tu>
       <tuv lang="RU"><seg>СТ «Приозерное»</seg></tuv>
       <tuv lang="BE"><seg>СТ «Прыазернае»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СТ «Судники»</seg></tuv>
+      <tuv lang="BE"><seg>СТ «Суднікі»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Стадион</seg></tuv>
@@ -15536,12 +15632,12 @@
       <tuv lang="BE"><seg>Будаўніцтва жылога дома</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Строительство жилого комплекса "Аквамарин"</seg></tuv>
-      <tuv lang="BE"><seg>Будаўніцтва жылога комплексу "Аквамарын"</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Строительство комплекса группы Газпром</seg></tuv>
       <tuv lang="BE"><seg>Будаўніцтва комплексу групы Газпром</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строительство станции метро</seg></tuv>
+      <tuv lang="BE"><seg>Будаўніцтва станцыі метро</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строкло</seg></tuv>
@@ -15590,10 +15686,6 @@
     <tu>
       <tuv lang="RU"><seg>Суд Берестовицкого района</seg></tuv>
       <tuv lang="BE"><seg>Суд Бераставіцкага раёна</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Суд Верхнедвинского района</seg></tuv>
-      <tuv lang="BE"><seg>Суд Верхнядзвінскага раёна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Суд Витебского района</seg></tuv>
@@ -15658,10 +15750,6 @@
     <tu>
       <tuv lang="RU"><seg>Супольная улица</seg></tuv>
       <tuv lang="BE"><seg>Супольная вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Суслишки</seg></tuv>
-      <tuv lang="BE"><seg>Суслішкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сухарево</seg></tuv>
@@ -15752,6 +15840,14 @@
       <tuv lang="BE"><seg>Сябровічы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>сядзіба СВК «Агра-Ліпнішкі»</seg></tuv>
+      <tuv lang="BE"><seg>сядзіба СВК «Агра-Ліпнішкі»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сядзібна-паркавы комплекс</seg></tuv>
+      <tuv lang="BE"><seg>Сядзібна-паркавы комплекс</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Т10</seg></tuv>
       <tuv lang="BE"><seg>Т10</seg></tuv>
     </tu>
@@ -15792,6 +15888,10 @@
       <tuv lang="BE"><seg>Таксі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Таксофон</seg></tuv>
+      <tuv lang="BE"><seg>Таксафон</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Талька</seg></tuv>
       <tuv lang="BE"><seg>Талька</seg></tuv>
     </tu>
@@ -15820,10 +15920,6 @@
       <tuv lang="BE"><seg>Тарасаўка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Тарасовщина</seg></tuv>
-      <tuv lang="BE"><seg>Тарасаўшчына</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Тарас Шевченко</seg></tuv>
       <tuv lang="BE"><seg>Тарас Шаўчэнка</seg></tuv>
     </tu>
@@ -15838,10 +15934,6 @@
     <tu>
       <tuv lang="RU"><seg>Тартак</seg></tuv>
       <tuv lang="BE"><seg>Тартак</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Тарусичи</seg></tuv>
-      <tuv lang="BE"><seg>Тарусічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тарусичская улица</seg></tuv>
@@ -16112,20 +16204,116 @@
       <tuv lang="BE"><seg>ТП</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>ТП-101</seg></tuv>
+      <tuv lang="BE"><seg>ТП-101</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-115</seg></tuv>
+      <tuv lang="BE"><seg>ТП-115</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-116</seg></tuv>
+      <tuv lang="BE"><seg>ТП-116</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-139</seg></tuv>
+      <tuv lang="BE"><seg>ТП-139</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-167</seg></tuv>
+      <tuv lang="BE"><seg>ТП-167</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-168</seg></tuv>
+      <tuv lang="BE"><seg>ТП-168</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-172</seg></tuv>
+      <tuv lang="BE"><seg>ТП-172</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-177</seg></tuv>
+      <tuv lang="BE"><seg>ТП-177</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-178</seg></tuv>
+      <tuv lang="BE"><seg>ТП-178</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-199</seg></tuv>
+      <tuv lang="BE"><seg>ТП-199</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>ТП-209</seg></tuv>
       <tuv lang="BE"><seg>ТП-209</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-225</seg></tuv>
+      <tuv lang="BE"><seg>ТП-225</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-226</seg></tuv>
+      <tuv lang="BE"><seg>ТП-226</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-252</seg></tuv>
+      <tuv lang="BE"><seg>ТП-252</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-27</seg></tuv>
+      <tuv lang="BE"><seg>ТП-27</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-280</seg></tuv>
+      <tuv lang="BE"><seg>ТП-280</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-281</seg></tuv>
+      <tuv lang="BE"><seg>ТП-281</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-282</seg></tuv>
+      <tuv lang="BE"><seg>ТП-282</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-283</seg></tuv>
+      <tuv lang="BE"><seg>ТП-283</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-304</seg></tuv>
+      <tuv lang="BE"><seg>ТП-304</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-305</seg></tuv>
+      <tuv lang="BE"><seg>ТП-305</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТП-326</seg></tuv>
       <tuv lang="BE"><seg>ТП-326</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>ТП-327</seg></tuv>
+      <tuv lang="BE"><seg>ТП-327</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-33</seg></tuv>
+      <tuv lang="BE"><seg>ТП-33</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>ТП-354</seg></tuv>
       <tuv lang="BE"><seg>ТП-354</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>ТП-407</seg></tuv>
+      <tuv lang="BE"><seg>ТП-407</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>ТП-409</seg></tuv>
       <tuv lang="BE"><seg>ТП-409</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-411</seg></tuv>
+      <tuv lang="BE"><seg>ТП-411</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТП-420</seg></tuv>
@@ -16154,6 +16342,18 @@
     <tu>
       <tuv lang="RU"><seg>ТП-592</seg></tuv>
       <tuv lang="BE"><seg>ТП-592</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-599</seg></tuv>
+      <tuv lang="BE"><seg>ТП-599</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-67</seg></tuv>
+      <tuv lang="BE"><seg>ТП-67</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-81</seg></tuv>
+      <tuv lang="BE"><seg>ТП-81</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТП-85</seg></tuv>
@@ -17480,6 +17680,10 @@
       <tuv lang="BE"><seg>Універмаг</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Универсам «Замкавы»</seg></tuv>
+      <tuv lang="BE"><seg>Універсам «Замкавы»</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Университет им. Машерова</seg></tuv>
       <tuv lang="BE"><seg>ВДУ імя П.М.Машэрава</seg></tuv>
     </tu>
@@ -17530,10 +17734,6 @@
     <tu>
       <tuv lang="RU"><seg>Уречье</seg></tuv>
       <tuv lang="BE"><seg>Урэчча</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Урода</seg></tuv>
-      <tuv lang="BE"><seg>Урада</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урология</seg></tuv>
@@ -18604,6 +18804,10 @@
       <tuv lang="BE"><seg>Факультэт эканомікі і кіравання ГрДУ</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Фаланстэр</seg></tuv>
+      <tuv lang="BE"><seg>Фаланстэр</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Фаличи</seg></tuv>
       <tuv lang="BE"><seg>Фалічы</seg></tuv>
     </tu>
@@ -18810,6 +19014,10 @@
     <tu>
       <tuv lang="RU"><seg>Франсабанк</seg></tuv>
       <tuv lang="BE"><seg>Франсабанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франтишек Богушевич</seg></tuv>
+      <tuv lang="BE"><seg>Францішак Багушэвіч</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франтишканы</seg></tuv>
@@ -19214,10 +19422,6 @@
     <tu>
       <tuv lang="RU"><seg>Хутор Сергеев</seg></tuv>
       <tuv lang="BE"><seg>Хутар Сяргееў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>ЦБУ "Беларусбанк"</seg></tuv>
-      <tuv lang="BE"><seg>ЦБП "Беларусбанк"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная улица</seg></tuv>
@@ -19684,6 +19888,10 @@
       <tuv lang="BE"><seg>Чаботкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Чабрынь</seg></tuv>
+      <tuv lang="BE"><seg>Чабрынь</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Чалнок</seg></tuv>
       <tuv lang="BE"><seg>воз. Чаўнок</seg></tuv>
     </tu>
@@ -19952,10 +20160,6 @@
       <tuv lang="BE"><seg>Чорная Лужа</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Черная Урода</seg></tuv>
-      <tuv lang="BE"><seg>Чорная Урада</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Чернец</seg></tuv>
       <tuv lang="BE"><seg>Чарнец</seg></tuv>
     </tu>
@@ -19996,6 +20200,10 @@
       <tuv lang="BE"><seg>Чорны Бор</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Черный Застенок</seg></tuv>
+      <tuv lang="BE"><seg>Чарны Засец</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Черняты</seg></tuv>
       <tuv lang="BE"><seg>Чарняты</seg></tuv>
     </tu>
@@ -20010,10 +20218,6 @@
     <tu>
       <tuv lang="RU"><seg>Чечерск</seg></tuv>
       <tuv lang="BE"><seg>Чачэрск</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Чещавляны</seg></tuv>
-      <tuv lang="BE"><seg>Чашчаўляны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чижовка</seg></tuv>
@@ -20338,6 +20542,10 @@
     <tu>
       <tuv lang="RU"><seg>Эмпирей</seg></tuv>
       <tuv lang="BE"><seg>Эмпірэй</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энгельсу Ф.</seg></tuv>
+      <tuv lang="BE"><seg>Энгельсу Ф.</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Эндокринологический диспансер</seg></tuv>

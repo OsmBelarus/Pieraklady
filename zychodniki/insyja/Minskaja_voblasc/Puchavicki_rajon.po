@@ -13,6 +13,11 @@ msgstr ""
 msgid "OOO "Литейный двор""
 msgstr ""
 
+# Objects : [n3499402802]
+# name:be: []
+msgid "Агроусадьба "Заречаны""
+msgstr ""
+
 # Objects : [w228748414]
 # name:be: []
 msgid "Аэродром "Войровка""
@@ -388,7 +393,7 @@ msgstr ""
 msgid "с/т Магистраль-5"
 msgstr ""
 
-# Objects : [n3479858916]
+# Objects : [w341700166]
 # name:be: []
 msgid "с/т Мара"
 msgstr ""
@@ -428,7 +433,7 @@ msgstr ""
 msgid "с/т Стрелок"
 msgstr ""
 
-# Objects : [n3479858917]
+# Objects : [w341700168]
 # name:be: []
 msgid "с/т Строитель"
 msgstr ""
@@ -443,7 +448,7 @@ msgstr ""
 msgid "с/т Хозяюшка"
 msgstr ""
 
-# Objects : [n1493195133]
+# Objects : [w341700173]
 # name:be: []
 msgid "садовое товарищество "Лотос""
 msgstr ""

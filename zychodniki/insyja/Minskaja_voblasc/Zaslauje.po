@@ -53,6 +53,16 @@ msgstr ""
 msgid "Детский музей мифологии леса"
 msgstr ""
 
+# Objects : [w51182110]
+# name:be: []
+msgid "Детский сад N5"
+msgstr ""
+
+# Objects : [w51181088]
+# name:be: [Дзіцячы сад №6]
+msgid "Детский сад №6"
+msgstr ""
+
 # Objects : [n1572577730]
 # name:be: []
 msgid "Детский центр творчества"
@@ -78,14 +88,14 @@ msgstr ""
 msgid "Дот Линия Сталина"
 msgstr ""
 
-# Objects : [w295664297]
-# name:be: []
-msgid "Енисей"
-msgstr ""
-
 # Objects : [r2074778]
 # name:be: []
 msgid "Заброшенный карьер"
+msgstr ""
+
+# Objects : [w295664297]
+# name:be: []
+msgid "Завод ЧУП "Енисей""
 msgstr ""
 
 # Objects : [n2788680408]
@@ -116,6 +126,11 @@ msgstr ""
 # Objects : [w141774297]
 # name:be: [Кар’ер]
 msgid "Карьер"
+msgstr ""
+
+# Objects : [w342704722]
+# name:be: [кар'ер "Хмелеўская сажалкі"]
+msgid "карьер "Хмелевские пруды""
 msgstr ""
 
 # Objects : [n2788681816]
@@ -151,6 +166,11 @@ msgstr ""
 # Objects : [n1572448293]
 # name:be: []
 msgid "ОПОП"
+msgstr ""
+
+# Objects : [w136280244]
+# name:be: []
+msgid "Офисное здание ЧУП "Енисей""
 msgstr ""
 
 # Objects : [n931588890]
@@ -193,6 +213,11 @@ msgstr ""
 msgid "Служба занятости населения"
 msgstr ""
 
+# Objects : [w51181084]
+# name:be: [СШ №2]
+msgid "СШ №2"
+msgstr ""
+
 # Objects : [w51182099]
 # name:be: []
 msgid "Техполимер"
@@ -216,5 +241,10 @@ msgstr ""
 # Objects : [n2788686144]
 # name:be: [Царква Праабражэння Гасподняга]
 msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [w341288225]
+# name:be: []
+msgid "ЧУП "Енисей""
 msgstr ""
 

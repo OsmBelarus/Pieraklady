@@ -218,11 +218,6 @@ msgstr ""
 msgid "улица Чапаева"
 msgstr ""
 
-# Objects : [w238831269]
-# name:be: [Хутарская вуліца]
-msgid "Хуторская улица"
-msgstr ""
-
 # Objects : [w157063237]
 # name:be: [Кветкавая вуліца]
 msgid "Цветочная улица"

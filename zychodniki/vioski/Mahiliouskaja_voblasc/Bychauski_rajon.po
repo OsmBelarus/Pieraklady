@@ -3,11 +3,6 @@
 msgid "Адаменка"
 msgstr ""
 
-# Objects : [n243042545, w25084805, w25084811]
-# name:be: [Анэліна]
-msgid "Анелино"
-msgstr ""
-
 # Objects : [n243035051, w25096863]
 # name:be: []
 msgid "Антаполь"
@@ -75,7 +70,7 @@ msgstr ""
 
 # Objects : [n243042528, w25084722]
 # name:be: [Бутрамееўка]
-msgid "Бутромеевка"
+msgid "Бутрамеевка"
 msgstr ""
 
 # Objects : [n243041870, w25086571]
@@ -348,11 +343,6 @@ msgstr ""
 msgid "Золотва"
 msgstr ""
 
-# Objects : [w25089327]
-# name:be: []
-msgid "Им.Ленина"
-msgstr ""
-
 # Objects : [n243043308, w25089281]
 # name:be: [Ірдзіца]
 msgid "Ирдица"
@@ -370,7 +360,7 @@ msgstr ""
 
 # Objects : [n243035221, n243043296, w25089307, w25096915]
 # name:be: [Калініна]
-msgid "Калинино"
+msgid "Калинина"
 msgstr ""
 
 # Objects : [n243035211, w25096873]
@@ -421,6 +411,11 @@ msgstr ""
 # Objects : [n243041828, w25086673]
 # name:be: []
 msgid "Крапива"
+msgstr ""
+
+# Objects : [n243035192, r4850842]
+# name:be: [Чырвоная Беларусь]
+msgid "Красная Беларусь"
 msgstr ""
 
 # Objects : [n243042550, w25086632]
@@ -500,7 +495,7 @@ msgstr ""
 
 # Objects : [n243043289, n243043295, w25089303, w25089328]
 # name:be: [Леніна]
-msgid "Ленино"
+msgid "Ленина"
 msgstr ""
 
 # Objects : [n243035240, w25096916]
@@ -580,7 +575,7 @@ msgstr ""
 
 # Objects : [n243043306, w25089296]
 # name:be: [Няраж]
-msgid "Нераж"
+msgid "Неряж"
 msgstr ""
 
 # Objects : [n243043271, w25089385]
@@ -646,6 +641,11 @@ msgstr ""
 # Objects : [w25102817]
 # name:be: [Алень]
 msgid "Олень"
+msgstr ""
+
+# Objects : [n243042545, r4850841]
+# name:be: [Анэліна]
+msgid "Онелино"
 msgstr ""
 
 # Objects : [n243043304, w25089285]
@@ -738,7 +738,7 @@ msgstr ""
 msgid "Поповка"
 msgstr ""
 
-# Objects : [n243043290, w25089343, w25089352]
+# Objects : [n243043290, r4850843]
 # name:be: [Партолеўка]
 msgid "Портолевка"
 msgstr ""
@@ -993,7 +993,7 @@ msgstr ""
 msgid "Ульяново"
 msgstr ""
 
-# Objects : [n243041824, w25086646, w25086671]
+# Objects : [n243041824, r4850844]
 # name:be: [Усохі]
 msgid "Усохи"
 msgstr ""
@@ -1056,11 +1056,6 @@ msgstr ""
 # Objects : [n243041321, w25102924]
 # name:be: [Чачэвічы]
 msgid "Чечевичи"
-msgstr ""
-
-# Objects : [n243035192, w25096877, w25096878, w25096880]
-# name:be: [Чырвоная Беларусь]
-msgid "Чирвоная Беларусь"
 msgstr ""
 
 # Objects : [w25086570]

@@ -273,7 +273,7 @@ msgstr ""
 msgid "Пружинищи"
 msgstr ""
 
-# Objects : [n2783721552, w25108833, w273532097]
+# Objects : [n2783721552, r5139546]
 # name:be: [Рабкор]
 msgid "Рабкор"
 msgstr ""
@@ -323,6 +323,11 @@ msgstr ""
 msgid "Романищи"
 msgstr ""
 
+# Objects : [n243027981, w25106386]
+# name:be: [Сапейкаў]
+msgid "Сапейков"
+msgstr ""
+
 # Objects : [n243024366, w25107149]
 # name:be: [Сялец]
 msgid "Селец"
@@ -341,11 +346,6 @@ msgstr ""
 # Objects : [n243024345, w25107135]
 # name:be: [Смыковічы]
 msgid "Смыковичи"
-msgstr ""
-
-# Objects : [n243027981, w25106386]
-# name:be: [Сапейкаў]
-msgid "Сопейков"
 msgstr ""
 
 # Objects : [n243023472, w25111371]

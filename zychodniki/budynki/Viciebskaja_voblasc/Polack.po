@@ -248,6 +248,11 @@ msgstr ""
 msgid "ТРК "Скарб 2""
 msgstr ""
 
+# Objects : [w344287800]
+# name:be: []
+msgid "ТРЦ "Манеж""
+msgstr ""
+
 # Objects : [w62495401]
 # name:be: []
 msgid "ТЦ Евролюкс"

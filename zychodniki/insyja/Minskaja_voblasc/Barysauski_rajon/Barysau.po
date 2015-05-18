@@ -283,6 +283,11 @@ msgstr ""
 msgid "Октябрь"
 msgstr ""
 
+# Objects : [w312720278, w342933380]
+# name:be: []
+msgid "ООО РУСАВТОПРОМ"
+msgstr ""
+
 # Objects : [n243023563, w48677658]
 # name:be: [Востраў]
 msgid "Остров"
@@ -331,6 +336,11 @@ msgstr ""
 # Objects : [w292075627]
 # name:be: []
 msgid "Поликлинника №1"
+msgstr ""
+
+# Objects : [w342934614]
+# name:be: []
+msgid "Полымя"
 msgstr ""
 
 # Objects : [n3001957605, w292074925]

@@ -1043,6 +1043,11 @@ msgstr ""
 msgid "улица Проминского"
 msgstr ""
 
+# Objects : [w25284420]
+# name:be: []
+msgid "улица Промышленная"
+msgstr ""
+
 # Objects : [w25284455]
 # name:be: [вуліца Пушкіна]
 msgid "улица Пушкина"

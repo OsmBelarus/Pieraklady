@@ -58,16 +58,6 @@ msgstr ""
 msgid "Дом быта"
 msgstr ""
 
-# Objects : [w150170012]
-# name:be: []
-msgid "К. 1"
-msgstr ""
-
-# Objects : [w150170005]
-# name:be: []
-msgid "К. 2"
-msgstr ""
-
 # Objects : [w150341880, w150341954]
 # name:be: []
 msgid "КБО"

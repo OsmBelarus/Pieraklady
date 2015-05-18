@@ -3,6 +3,11 @@
 msgid "Бар н.п. Клястицы"
 msgstr ""
 
+# Objects : [w25195940]
+# name:be: []
+msgid "Беленец"
+msgstr ""
+
 # Objects : [w25199757, w25201466]
 # name:be: [Белае]
 msgid "Белое"
@@ -191,6 +196,11 @@ msgstr ""
 # Objects : [w25189518]
 # name:be: []
 msgid "Ночевки"
+msgstr ""
+
+# Objects : [w25193619]
+# name:be: []
+msgid "Окуневец"
 msgstr ""
 
 # Objects : [r391169]

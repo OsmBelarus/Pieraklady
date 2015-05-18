@@ -523,6 +523,11 @@ msgstr ""
 msgid "Нотна"
 msgstr ""
 
+# Objects : [w342817083]
+# name:be: []
+msgid "опс "Гудогай""
+msgstr ""
+
 # Objects : [n242993623, w25138859]
 # name:be: [Асіноўка]
 msgid "Осиновка"

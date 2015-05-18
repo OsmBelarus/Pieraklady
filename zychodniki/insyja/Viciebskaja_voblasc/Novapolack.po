@@ -583,6 +583,11 @@ msgstr ""
 msgid "Переговорный пункт, интернет"
 msgstr ""
 
+# Objects : [n3483947965]
+# name:be: []
+msgid "Перед школой"
+msgstr ""
+
 # Objects : [n615050925]
 # name:be: [Пластылін]
 msgid "Пластилин"
@@ -661,6 +666,11 @@ msgstr ""
 # Objects : [n1436219163]
 # name:be: [Прафілакторый НПЗ]
 msgid "Профилакторий НПЗ"
+msgstr ""
+
+# Objects : [n3483883197]
+# name:be: []
+msgid "ПТО Новополоцкая ТЭЦ"
 msgstr ""
 
 # Objects : [n1687527038]
@@ -818,11 +828,6 @@ msgstr ""
 msgid "Строительство начальной школы"
 msgstr ""
 
-# Objects : [w270786258]
-# name:be: []
-msgid "Строительство торгового центра"
-msgstr ""
-
 # Objects : [w220941780]
 # name:be: []
 msgid "Строительство торгового центра в 9 микрорайоне"
@@ -906,6 +911,11 @@ msgstr ""
 # Objects : [n3273391922]
 # name:be: []
 msgid "Шнитки"
+msgstr ""
+
+# Objects : [n3483951279]
+# name:be: []
+msgid "Электронное табло счета"
 msgstr ""
 
 # Objects : [n1597371691]

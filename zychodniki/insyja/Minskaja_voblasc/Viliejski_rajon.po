@@ -143,6 +143,11 @@ msgstr ""
 msgid "Кладбище старое католическое"
 msgstr ""
 
+# Objects : [n3496841079]
+# name:be: []
+msgid "Клёвое место"
+msgstr ""
+
 # Objects : [w25193030]
 # name:be: [Калодкі]
 msgid "Колодки"

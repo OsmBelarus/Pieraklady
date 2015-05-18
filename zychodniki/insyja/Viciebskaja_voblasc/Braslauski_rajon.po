@@ -3,11 +3,6 @@
 msgid ""Гора Маяк""
 msgstr ""
 
-# Objects : [w132054113]
-# name:be: []
-msgid "Augsdaugava"
-msgstr ""
-
 # Objects : [w22568944]
 # name:be: [Опиварда]
 msgid "ež. Apvardai"
@@ -168,6 +163,11 @@ msgstr ""
 msgid "Василькишки 5"
 msgstr ""
 
+# Objects : [n3519913145]
+# name:be: []
+msgid "Вацкелюны"
+msgstr ""
+
 # Objects : [w265910077, w265910081]
 # name:be: []
 msgid "Видзы"
@@ -203,6 +203,11 @@ msgstr ""
 msgid "Гаврилово"
 msgstr ""
 
+# Objects : [n3519913146]
+# name:be: []
+msgid "Генужа"
+msgstr ""
+
 # Objects : [w25195067]
 # name:be: []
 msgid "Глубовщина"
@@ -231,6 +236,11 @@ msgstr ""
 # Objects : [n3015898674]
 # name:be: [Грайтунішкі]
 msgid "Грейтунишки"
+msgstr ""
+
+# Objects : [n3519897275]
+# name:be: []
+msgid "Гробишки"
 msgstr ""
 
 # Objects : [w25191501]
@@ -583,6 +593,11 @@ msgstr ""
 msgid "Лабутевское"
 msgstr ""
 
+# Objects : [n3519897276]
+# name:be: []
+msgid "Леонишки"
+msgstr ""
+
 # Objects : [n2766728132]
 # name:be: []
 msgid "Леошки"
@@ -606,6 +621,11 @@ msgstr ""
 # Objects : [n1646600340, w151814597]
 # name:be: [Лук’янцы]
 msgid "Лукьянцы"
+msgstr ""
+
+# Objects : [n3519896130]
+# name:be: []
+msgid "Мальковщина"
 msgstr ""
 
 # Objects : [w25195517]
@@ -923,6 +943,11 @@ msgstr ""
 msgid "Прудинка"
 msgstr ""
 
+# Objects : [n3519896131]
+# name:be: []
+msgid "Пузово"
+msgstr ""
+
 # Objects : [n3015849662]
 # name:be: [Пустаселле]
 msgid "Пустоселье"
@@ -1031,6 +1056,11 @@ msgstr ""
 # Objects : [w241082260]
 # name:be: [закінутыя каталіцкія могілкі]
 msgid "старое католическое кладбище"
+msgstr ""
+
+# Objects : [n3519896132]
+# name:be: []
+msgid "Таленишки"
 msgstr ""
 
 # Objects : [w241074452]
@@ -1228,6 +1258,11 @@ msgstr ""
 msgid "Часовня кладбищенская католическая"
 msgstr ""
 
+# Objects : [n3519851874]
+# name:be: [Чарны Засец]
+msgid "Черный Застенок"
+msgstr ""
+
 # Objects : [w25191552]
 # name:be: []
 msgid "Чертовское"
@@ -1236,6 +1271,11 @@ msgstr ""
 # Objects : [n243013545, w25127070]
 # name:be: [Шаркелі]
 msgid "Шаркели"
+msgstr ""
+
+# Objects : [n3519896133]
+# name:be: []
+msgid "Шаркишки"
 msgstr ""
 
 # Objects : [w25194236]

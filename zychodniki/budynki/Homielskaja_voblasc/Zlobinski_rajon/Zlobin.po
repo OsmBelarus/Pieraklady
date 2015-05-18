@@ -53,6 +53,11 @@ msgstr ""
 msgid "Белшина"
 msgstr ""
 
+# Objects : [w343449169]
+# name:be: []
+msgid "Библиотека СШ №6"
+msgstr ""
+
 # Objects : [w182490575]
 # name:be: []
 msgid "Больница. детское отделение"
@@ -76,6 +81,11 @@ msgstr ""
 # Objects : [w201078129]
 # name:be: []
 msgid "Ветлечебница"
+msgstr ""
+
+# Objects : [w226850618]
+# name:be: []
+msgid "ГЛХУ «Жлобинский лесхоз»"
 msgstr ""
 
 # Objects : [w226857865]
@@ -163,6 +173,16 @@ msgstr ""
 msgid "ЗАГС"
 msgstr ""
 
+# Objects : [w343152560]
+# name:be: []
+msgid "Зерноочистительно-сушильный комплекс"
+msgstr ""
+
+# Objects : [w226844194]
+# name:be: []
+msgid "Зерносушилка"
+msgstr ""
+
 # Objects : [w334282611]
 # name:be: []
 msgid "Игорвые автоматы"
@@ -188,7 +208,7 @@ msgstr ""
 msgid "Колизей"
 msgstr ""
 
-# Objects : [w180580310]
+# Objects : [w180580310, w226844202]
 # name:be: []
 msgid "Котельная"
 msgstr ""
@@ -393,17 +413,12 @@ msgstr ""
 msgid "Терапевтический корпус"
 msgstr ""
 
-# Objects : [w160279008]
-# name:be: []
-msgid "Торгово-коммерческий центр ОАО "Белфа""
-msgstr ""
-
 # Objects : [w84534373]
 # name:be: []
 msgid "Торговый центр"
 msgstr ""
 
-# Objects : [w243916052, w244950600, w334816866, w334816867, w334817201, w340068513]
+# Objects : [w243916052, w244950600, w334816866, w334816867, w334817201, w340068513, w343682870]
 # name:be: []
 msgid "ТП"
 msgstr ""

@@ -84,6 +84,10 @@
       <tuv lang="BE"><seg>Касцёл Найсвяцейшай Тройцы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Касцел Святога Казiмiра</seg></tuv>
+      <tuv lang="BE"><seg>Касцел Святога Казiмiра</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі</seg></tuv>
       <tuv lang="BE"><seg>Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі</seg></tuv>
     </tu>
@@ -174,6 +178,10 @@
     <tu>
       <tuv lang="RU"><seg>Костёл Николая-чудотворца</seg></tuv>
       <tuv lang="BE"><seg>Касцёл Мікалая-цудатворца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Опеки Матери Божией Руженцовой</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Апекі Маці Божай Ружанцовай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>костел Отыскания Св.Креста и монастырь бернардинцев</seg></tuv>
@@ -281,7 +289,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Костёл Святого Казимира</seg></tuv>
-      <tuv lang="BE"><seg>[Касцел Святога Казимира, Касцёл Святога Казіміра]</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Казіміра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Костел Святого Михаила Архангела</seg></tuv>
@@ -494,6 +502,10 @@
     <tu>
       <tuv lang="RU"><seg>Свято-Николаевский кафедральный собор</seg></tuv>
       <tuv lang="BE"><seg>Свята-Нікалаеўскі кафедральны сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Петро-Павловский собор</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Петра-Паўлаўскі сабор</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свято-Покровский кафедральный собор</seg></tuv>
@@ -712,6 +724,10 @@
       <tuv lang="BE"><seg>Свята-Ільінская царква</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Церковь Воскресения Христова</seg></tuv>
+      <tuv lang="BE"><seg>Царква Уваскрэшання Хрыстова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Церковь Воскресенская</seg></tuv>
       <tuv lang="BE"><seg>Царква</seg></tuv>
     </tu>
@@ -796,6 +812,10 @@
       <tuv lang="BE"><seg>царква св. Параскевы Пятніцы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Церковь Святого Архангела Михаила</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Міхала Арханёла</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Церковь Святого Владимира</seg></tuv>
       <tuv lang="BE"><seg>Царква Святога Ўладзіміра</seg></tuv>
     </tu>
@@ -873,7 +893,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Часовня</seg></tuv>
-      <tuv lang="BE"><seg>[Капліца, капліца]</seg></tuv>
+      <tuv lang="BE"><seg>Капліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Часовня (дерев.)</seg></tuv>

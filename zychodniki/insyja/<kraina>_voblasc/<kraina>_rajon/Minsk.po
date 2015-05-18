@@ -293,6 +293,11 @@ msgstr ""
 msgid "7 - терапевтический корпус"
 msgstr ""
 
+# Objects : [r4872323]
+# name:be: []
+msgid "7 улица Ваупшасова"
+msgstr ""
+
 # Objects : [w25324841]
 # name:be: []
 msgid "7-я городская поликлиника"
@@ -356,11 +361,6 @@ msgstr ""
 # Objects : [n661142093]
 # name:be: []
 msgid "AneromHolod - refrigeration equipment"
-msgstr ""
-
-# Objects : [n2379013897]
-# name:be: []
-msgid "ApartHotel"
 msgstr ""
 
 # Objects : [n2584452840]
@@ -468,6 +468,11 @@ msgstr ""
 msgid "Citybook"
 msgstr ""
 
+# Objects : [n3484829975]
+# name:be: []
+msgid "City Health"
+msgstr ""
+
 # Objects : [n1359221146]
 # name:be: []
 msgid "Coca-Cola"
@@ -476,6 +481,11 @@ msgstr ""
 # Objects : [n2574511470]
 # name:be: []
 msgid "Colorway"
+msgstr ""
+
+# Objects : [n2379013897]
+# name:be: []
+msgid "Comfort"
 msgstr ""
 
 # Objects : [n1582900935, n1585232866]
@@ -681,6 +691,16 @@ msgstr ""
 # Objects : [n2614739030]
 # name:be: []
 msgid "iGroup"
+msgstr ""
+
+# Objects : [n3489631147]
+# name:be: []
+msgid "IndiGo"
+msgstr ""
+
+# Objects : [n3503972306]
+# name:be: []
+msgid "Iron System"
 msgstr ""
 
 # Objects : [n3396942559]
@@ -993,11 +1013,6 @@ msgstr ""
 msgid "Terrum"
 msgstr ""
 
-# Objects : [n2620202442]
-# name:be: []
-msgid "Tez Tour"
-msgstr ""
-
 # Objects : [n2921818339]
 # name:be: []
 msgid "The Office"
@@ -1138,14 +1153,9 @@ msgstr ""
 msgid "АБРИКОС"
 msgstr ""
 
-# Objects : [n604715837]
+# Objects : [n2772232212, n604715837]
 # name:be: []
 msgid "Абсолютбанк"
-msgstr ""
-
-# Objects : [n2772232212]
-# name:be: []
-msgid "Абсолютбанк. Обменный пункт № 12"
 msgstr ""
 
 # Objects : [n305679514, n305680289, n3138072208]
@@ -1318,6 +1328,11 @@ msgstr ""
 msgid "Автошкола "Stellar""
 msgstr ""
 
+# Objects : [n2528258708]
+# name:be: []
+msgid "Автошкола "Досааф""
+msgstr ""
+
 # Objects : [n2621339076]
 # name:be: []
 msgid "Автошкола "ДОСААФ""
@@ -1331,11 +1346,6 @@ msgstr ""
 # Objects : [w25392381]
 # name:be: []
 msgid "Аграрный университет"
-msgstr ""
-
-# Objects : [n281570500]
-# name:be: []
-msgid "Адам Мицкевич"
 msgstr ""
 
 # Objects : [w197689183]
@@ -1356,6 +1366,11 @@ msgstr ""
 # Objects : [w116540065]
 # name:be: []
 msgid "Администрация рынка"
+msgstr ""
+
+# Objects : [n3489350380]
+# name:be: []
+msgid "Администрация студенческого городка БГАТУ"
 msgstr ""
 
 # Objects : [w25391814]
@@ -1401,6 +1416,11 @@ msgstr ""
 # Objects : [n280687580]
 # name:be: [Акадэмія кіравання пры Прэзыдэнце РБ]
 msgid "Академия управления при Президенте РБ"
+msgstr ""
+
+# Objects : [n3523504005]
+# name:be: []
+msgid "Аква-Минск"
 msgstr ""
 
 # Objects : [n3482648313]
@@ -1573,6 +1593,11 @@ msgstr ""
 msgid "Ангарская-3"
 msgstr ""
 
+# Objects : [r4859135]
+# name:be: []
+msgid "Ангарская 38"
+msgstr ""
+
 # Objects : [w83986732]
 # name:be: [Ангарская-4]
 msgid "Ангарская-4"
@@ -1601,11 +1626,6 @@ msgstr ""
 # Objects : [n2268257908]
 # name:be: [Антонаў Ан-2 EW-237CD АК "Гродна"]
 msgid "Антонов Ан-2 EW-237CD АК "Гродно""
-msgstr ""
-
-# Objects : [n2766736790]
-# name:be: []
-msgid "апартОтель Comfort"
 msgstr ""
 
 # Objects : [n2748154260]
@@ -1863,6 +1883,11 @@ msgstr ""
 msgid "Бар ПМЖ"
 msgstr ""
 
+# Objects : [w303062540]
+# name:be: []
+msgid "Баскетбол"
+msgstr ""
+
 # Objects : [w290459754, w290459864, w54896173]
 # name:be: []
 msgid "Баскетбольная площадка"
@@ -1968,17 +1993,17 @@ msgstr ""
 msgid "БГЭУ корпус 3"
 msgstr ""
 
-# Objects : [n991008650]
+# Objects : [w25322936]
 # name:be: []
 msgid "БГЭУ корпус 4"
 msgstr ""
 
-# Objects : [n991008658]
-# name:be: [БДЭУ корпус 6]
+# Objects : [w25322933]
+# name:be: []
 msgid "БГЭУ корпус 6"
 msgstr ""
 
-# Objects : [n991008647]
+# Objects : [w25322932]
 # name:be: []
 msgid "БГЭУ корпус 7"
 msgstr ""
@@ -1988,7 +2013,7 @@ msgstr ""
 msgid "БГЭУ общежиетие №6"
 msgstr ""
 
-# Objects : [n991027116]
+# Objects : [w25322937]
 # name:be: []
 msgid "БГЭУ общежитие №2"
 msgstr ""
@@ -2068,7 +2093,7 @@ msgstr ""
 msgid "Белвнешэкономбанк"
 msgstr ""
 
-# Objects : [n1193864159, n2303956108, n3225624219]
+# Objects : [n1193864159, n2303956108, n3225624219, r5149960, w345705082]
 # name:be: [Белгазпрамбанк]
 msgid "Белгазпромбанк"
 msgstr ""
@@ -2081,6 +2106,11 @@ msgstr ""
 # Objects : [n1583390434, n1695377551, n1841776372, n2433464609, n2477356104, n2628790339, n3142400893, n3146898248, n3206003022, n3267718814, n3267735285, n849466186]
 # name:be: [Белгосстрах, Белдзяржстрах]
 msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [n2766736488]
+# name:be: []
+msgid "Белдорстрой"
 msgstr ""
 
 # Objects : [n2381164695, n305683664]
@@ -2098,7 +2128,7 @@ msgstr ""
 msgid "Белинвест"
 msgstr ""
 
-# Objects : [n1193864158, n1437409439, n305682996, n3283853127, n3295054033, n3327597060]
+# Objects : [n1193864158, n1437409439, n3283853127, n3295054033, n3327597060]
 # name:be: [Белінвестбанк]
 msgid "Белинвестбанк"
 msgstr ""
@@ -2171,6 +2201,11 @@ msgstr ""
 # Objects : [n280399789]
 # name:be: [Беларускі дзяржаўны ўніверсытэт фізкультуры]
 msgid "Белорусский государственный университет физкультуры"
+msgstr ""
+
+# Objects : [w302241180]
+# name:be: [Беларускі дзяржаўны эканамічны ўніверсітэт]
+msgid "Белорусский государственный экономический университет"
 msgstr ""
 
 # Objects : [n3472660947]
@@ -2403,11 +2438,6 @@ msgstr ""
 msgid "БНТУ 8 к"
 msgstr ""
 
-# Objects : [w25327684]
-# name:be: []
-msgid "Больница"
-msgstr ""
-
 # Objects : [n2672929111]
 # name:be: []
 msgid "Большой куш"
@@ -2486,11 +2516,6 @@ msgstr ""
 # Objects : [n306065132]
 # name:be: []
 msgid "Бти Юр Лица"
-msgstr ""
-
-# Objects : [w307599198]
-# name:be: []
-msgid "Будаўніцтва станцыі метро"
 msgstr ""
 
 # Objects : [n2857640770, n2859818502]
@@ -2793,14 +2818,14 @@ msgstr ""
 msgid "Вокзальная"
 msgstr ""
 
+# Objects : [w303061691]
+# name:be: []
+msgid "Волейбол"
+msgstr ""
+
 # Objects : [w257098347, w290459936, w290459947]
 # name:be: []
 msgid "Волейбольная площадка"
-msgstr ""
-
-# Objects : [w28105337]
-# name:be: []
-msgid "Волковыский"
 msgstr ""
 
 # Objects : [n2621401167]
@@ -2871,6 +2896,11 @@ msgstr ""
 # Objects : [n281917255]
 # name:be: [Вянок]
 msgid "Вянок"
+msgstr ""
+
+# Objects : [n3513105916]
+# name:be: []
+msgid "Вясковая сядзиба"
 msgstr ""
 
 # Objects : [n2621429855]
@@ -2971,6 +3001,11 @@ msgstr ""
 # Objects : [w129209530]
 # name:be: [Геафізік 22]
 msgid "Геофизик 22"
+msgstr ""
+
+# Objects : [r4855085]
+# name:be: []
+msgid "Герасименко 27"
 msgstr ""
 
 # Objects : [n2381163311]
@@ -3163,11 +3198,6 @@ msgstr ""
 msgid "Гостиница Академическая"
 msgstr ""
 
-# Objects : [n2766736488]
-# name:be: []
-msgid "Гостиница Белдорстрой"
-msgstr ""
-
 # Objects : [n2766736489]
 # name:be: []
 msgid "Гостиница Белстройцентр"
@@ -3338,6 +3368,11 @@ msgstr ""
 msgid "ГУ "Редакция газеты "Прысталiчча""
 msgstr ""
 
+# Objects : [w341667987]
+# name:be: [РНПЦ неўралогіі і нейрахірургіі]
+msgid "ГУ "РНПЦ неврологии и нейрохирургии""
+msgstr ""
+
 # Objects : [w338891282]
 # name:be: []
 msgid "ГУ "РНПЦ пульмонологии и фтизиатрии""
@@ -3371,11 +3406,6 @@ msgstr ""
 # Objects : [w25697645]
 # name:be: []
 msgid "Дальневосточный"
-msgstr ""
-
-# Objects : [n2627179335]
-# name:be: []
-msgid "дантист"
 msgstr ""
 
 # Objects : [n2627179337]
@@ -3498,7 +3528,7 @@ msgstr ""
 msgid "Детская железная дорога имени Константина Сергеевича Заслонова"
 msgstr ""
 
-# Objects : [n2618472438, n2618472443, n3258010382]
+# Objects : [n2618472438, n2618472443]
 # name:be: []
 msgid "детская площадка"
 msgstr ""
@@ -3511,11 +3541,6 @@ msgstr ""
 # Objects : [n2629115924]
 # name:be: []
 msgid "детская площадка(с паравозиком)"
-msgstr ""
-
-# Objects : [n3176135265]
-# name:be: []
-msgid "Детская площадка с горкой"
 msgstr ""
 
 # Objects : [w25393753]
@@ -3734,7 +3759,7 @@ msgid "Дом Пинхусовича"
 msgstr ""
 
 # Objects : [n1685777687]
-# name:be: []
+# name:be: [Дом Прыроды]
 msgid "Дом Природы"
 msgstr ""
 
@@ -3756,6 +3781,11 @@ msgstr ""
 # Objects : [n305679680]
 # name:be: []
 msgid "Дом Фото"
+msgstr ""
+
+# Objects : [w344303797]
+# name:be: []
+msgid "Дорожная больница на станции "Минск" БелЖД"
 msgstr ""
 
 # Objects : [w263007267]
@@ -3953,6 +3983,11 @@ msgstr ""
 msgid "Жилищно-эксплуатационный участок №114"
 msgstr ""
 
+# Objects : [w302570210]
+# name:be: [Жылы комплекс "Аквамарын"]
+msgid "Жилой комплекс "Аквамарин""
+msgstr ""
+
 # Objects : [w330335151]
 # name:be: []
 msgid "ЖК Браславский"
@@ -4076,6 +4111,11 @@ msgstr ""
 # Objects : [w329897291]
 # name:be: []
 msgid "забор"
+msgstr ""
+
+# Objects : [w343554860, w343554861, w343554862]
+# name:be: []
+msgid "Забор"
 msgstr ""
 
 # Objects : [n2621083915]
@@ -4248,11 +4288,6 @@ msgstr ""
 msgid "Звезда"
 msgstr ""
 
-# Objects : [w25326889]
-# name:be: []
-msgid "Здание Центра дополнительного образования детей и молодёжи «Маяк»"
-msgstr ""
-
 # Objects : [n2626449980]
 # name:be: [Зялёны яблычак]
 msgid "Зеленое яблочко"
@@ -4398,6 +4433,21 @@ msgstr ""
 msgid "Измет"
 msgstr ""
 
+# Objects : [r4857215]
+# name:be: []
+msgid "Илимская 10к2"
+msgstr ""
+
+# Objects : [r4857216]
+# name:be: []
+msgid "Илимская 12"
+msgstr ""
+
+# Objects : [r4857217]
+# name:be: []
+msgid "Илимская 16"
+msgstr ""
+
 # Objects : [n2268257900]
 # name:be: [Ільюшын Іл-76МД EW-76709 ТрансАвіяЭкспарт]
 msgid "Ильюшин Ил-76МД EW-76709 ТрансАвиаЭкспорт"
@@ -4479,18 +4529,13 @@ msgid "Институт математики НАН Беларуси"
 msgstr ""
 
 # Objects : [n3456677400]
-# name:be: []
+# name:be: [Інстытут падрыхтоўкі навуковых кадраў Нацыянальнай акадэміі навук Беларусі]
 msgid "Институт подготовки научных кадров НАН Беларуси"
 msgstr ""
 
 # Objects : [n959639366]
 # name:be: []
 msgid "Интернет-клуб"
-msgstr ""
-
-# Objects : [n2575618617]
-# name:be: []
-msgid "Интернет-клуб "Galanet""
 msgstr ""
 
 # Objects : [n3448499604]
@@ -5118,7 +5163,7 @@ msgstr ""
 msgid "Крестильный храм пророка Захарии и праведной Елисаветы"
 msgstr ""
 
-# Objects : [w67831667]
+# Objects : [w28105337, w67831667]
 # name:be: [Крышталь]
 msgid "Кристалл"
 msgstr ""
@@ -5141,6 +5186,11 @@ msgstr ""
 # Objects : [w25326793]
 # name:be: []
 msgid "Крышталь"
+msgstr ""
+
+# Objects : [n3506710347]
+# name:be: []
+msgid "Крэатыўная прастора "ЦЭХ""
 msgstr ""
 
 # Objects : [w209042306]
@@ -5243,7 +5293,7 @@ msgstr ""
 msgid "лавка"
 msgstr ""
 
-# Objects : [n2618450737, n2628128934]
+# Objects : [n2628128934]
 # name:be: []
 msgid "лавочка"
 msgstr ""
@@ -5281,6 +5331,11 @@ msgstr ""
 # Objects : [n1494376915]
 # name:be: []
 msgid "Ландшафтный амфитеатр"
+msgstr ""
+
+# Objects : [n3513105923]
+# name:be: []
+msgid "Ластоногие"
 msgstr ""
 
 # Objects : [n2803997505]
@@ -5508,11 +5563,6 @@ msgstr ""
 msgid "Магазин Мила"
 msgstr ""
 
-# Objects : [n3143637366]
-# name:be: []
-msgid "Магазин рвзливного пива"
-msgstr ""
-
 # Objects : [n2621450026]
 # name:be: []
 msgid "Магазин спортивного питания"
@@ -5551,6 +5601,11 @@ msgstr ""
 # Objects : [n282318498]
 # name:be: []
 msgid "Максимус"
+msgstr ""
+
+# Objects : [n3474266310]
+# name:be: []
+msgid "Макулатура"
 msgstr ""
 
 # Objects : [w103528158]
@@ -5636,6 +5691,11 @@ msgstr ""
 # Objects : [n1327195192]
 # name:be: [Маманты]
 msgid "Мамонты"
+msgstr ""
+
+# Objects : [n3513105915]
+# name:be: []
+msgid "Манеж для лошадей"
 msgstr ""
 
 # Objects : [n3207831440]
@@ -5798,11 +5858,6 @@ msgstr ""
 msgid "Международное общественное благотворительное объединение «Независимая помощь детям»"
 msgstr ""
 
-# Objects : [n1849990773]
-# name:be: []
-msgid "Международные ЖД кассы"
-msgstr ""
-
 # Objects : [n316942258]
 # name:be: [Міжнародны адукацыйны цэнтр]
 msgid "Международный образовательный центр"
@@ -5851,6 +5906,11 @@ msgstr ""
 # Objects : [n2752536890]
 # name:be: []
 msgid "Мемориал жертвам лагеря смерти Тростенец"
+msgstr ""
+
+# Objects : [n3501427777]
+# name:be: []
+msgid "Мемориальный комплекс "Тростенец""
 msgstr ""
 
 # Objects : [n650719921]
@@ -5956,11 +6016,6 @@ msgstr ""
 # Objects : [w144988093]
 # name:be: [Мінская ТЭЦ-2]
 msgid "Минская ТЭЦ-2"
-msgstr ""
-
-# Objects : [n2723888926]
-# name:be: [Мінская школа кінамастацтва]
-msgid "Минская школа киноискусства"
 msgstr ""
 
 # Objects : [n282160283]
@@ -6126,6 +6181,11 @@ msgstr ""
 # Objects : [w273744778]
 # name:be: []
 msgid "Михалово-2"
+msgstr ""
+
+# Objects : [w100453967]
+# name:be: [Мі́нскі тра́ктарны заво́д]
+msgid "Мі́нскі тра́ктарны заво́д"
 msgstr ""
 
 # Objects : [n1336376481]
@@ -6314,7 +6374,7 @@ msgid "Монастырь Св. Духа базилианок: жилой кор
 msgstr ""
 
 # Objects : [n1369972953]
-# name:be: []
+# name:be: [Манастыр Троіцкі базилианок: жылы корпус]
 msgid "Монастырь Троицкий базилианок: жилой корпус"
 msgstr ""
 
@@ -6426,6 +6486,11 @@ msgstr ""
 # Objects : [n2788683139]
 # name:be: [Музей валуноў]
 msgid "Музей валунов"
+msgstr ""
+
+# Objects : [n3517023113]
+# name:be: []
+msgid "Музей землеведения БГУ"
 msgstr ""
 
 # Objects : [n1160904335]
@@ -6588,6 +6653,11 @@ msgstr ""
 msgid "Наркодиспансер"
 msgstr ""
 
+# Objects : [w25388533]
+# name:be: []
+msgid "Научно исследовательское учреждение "Институт ядерных проблем" БГУ"
+msgstr ""
+
 # Objects : [n1576058060]
 # name:be: []
 msgid "На футбольных полях"
@@ -6628,6 +6698,16 @@ msgstr ""
 msgid "Неврологический корпус"
 msgstr ""
 
+# Objects : [r4851506]
+# name:be: []
+msgid "Независимости 6"
+msgstr ""
+
+# Objects : [r4853099]
+# name:be: []
+msgid "Независимости 8"
+msgstr ""
+
 # Objects : [n462266693]
 # name:be: []
 msgid "Незнакомка"
@@ -6646,6 +6726,16 @@ msgstr ""
 # Objects : [n305682386]
 # name:be: []
 msgid "Неовит"
+msgstr ""
+
+# Objects : [r4855086]
+# name:be: []
+msgid "Нестерова 49"
+msgstr ""
+
+# Objects : [r4860826]
+# name:be: []
+msgid "Нестерова 58"
 msgstr ""
 
 # Objects : [n2808214568]
@@ -6898,7 +6988,7 @@ msgstr ""
 msgid "Общежитие №2 БГУ"
 msgstr ""
 
-# Objects : [n1257027184]
+# Objects : [w25428511]
 # name:be: []
 msgid "Общежитие №3 БГАТУ"
 msgstr ""
@@ -6938,7 +7028,7 @@ msgstr ""
 msgid "Общежитие №4 МГЛУ"
 msgstr ""
 
-# Objects : [n1257027176]
+# Objects : [w25428526]
 # name:be: []
 msgid "Общежитие №5 БГАТУ"
 msgstr ""
@@ -6958,11 +7048,6 @@ msgstr ""
 msgid "Общежитие №5 БГУ"
 msgstr ""
 
-# Objects : [n1257027187]
-# name:be: []
-msgid "Общежитие №6 БГАТУ"
-msgstr ""
-
 # Objects : [w25437600]
 # name:be: [Інтэрнат №6 БДМУ]
 msgid "Общежитие №6 БГМУ"
@@ -6973,7 +7058,7 @@ msgstr ""
 msgid "Общежитие №6 БГУ"
 msgstr ""
 
-# Objects : [n1257027186]
+# Objects : [w25428548]
 # name:be: []
 msgid "Общежитие №7 БГАТУ"
 msgstr ""
@@ -7103,11 +7188,6 @@ msgstr ""
 msgid "ООО "БелКультПроект""
 msgstr ""
 
-# Objects : [n3270431265]
-# name:be: []
-msgid "ООО"Викингсервис""
-msgstr ""
-
 # Objects : [n2486356762]
 # name:be: []
 msgid "ООО "Гарантия Сервис 111""
@@ -7213,9 +7293,19 @@ msgstr ""
 msgid "ООО Альянспласт"
 msgstr ""
 
+# Objects : [n3522167885]
+# name:be: []
+msgid "ООО Алютех Воротные Системы"
+msgstr ""
+
 # Objects : [n3206003007]
 # name:be: []
 msgid "ООО АртДепоСтудия"
+msgstr ""
+
+# Objects : [n3270431265]
+# name:be: []
+msgid "ООО Викингсервис"
 msgstr ""
 
 # Objects : [n3207832896]
@@ -7231,6 +7321,11 @@ msgstr ""
 # Objects : [n3260332186]
 # name:be: []
 msgid "ООО Смартфаус"
+msgstr ""
+
+# Objects : [n3514814636]
+# name:be: []
+msgid "ООО Фирма Дина"
 msgstr ""
 
 # Objects : [n1561301180]
@@ -7430,7 +7525,7 @@ msgstr ""
 
 # Objects : [n305680795]
 # name:be: []
-msgid "Опоп-21"
+msgid "ОПОП-21"
 msgstr ""
 
 # Objects : [n305680911]
@@ -7555,7 +7650,7 @@ msgstr ""
 
 # Objects : [n305680784]
 # name:be: []
-msgid "Опоп-51"
+msgid "ОПОП-51"
 msgstr ""
 
 # Objects : [n305678962]
@@ -7700,7 +7795,7 @@ msgstr ""
 
 # Objects : [n305685747]
 # name:be: []
-msgid "Опоп-84"
+msgid "ОПОП-84"
 msgstr ""
 
 # Objects : [n305686923]
@@ -7918,6 +8013,16 @@ msgstr ""
 msgid "п/с Колядичи"
 msgstr ""
 
+# Objects : [n3399453889]
+# name:be: []
+msgid "Палата Представителей Национального собрания РБ"
+msgstr ""
+
+# Objects : [n281570500]
+# name:be: [Помнік Адаму Міцкевічу]
+msgid "Памятник Адаму Мицкевичу"
+msgstr ""
+
 # Objects : [n2795760454]
 # name:be: []
 msgid "Памятник воинам-интернационалистам"
@@ -7943,14 +8048,29 @@ msgstr ""
 msgid "Памятники"
 msgstr ""
 
+# Objects : [n3514423164]
+# name:be: []
+msgid "Памятник Кирилле Туровскому"
+msgstr ""
+
 # Objects : [n3127462074]
 # name:be: []
 msgid "Памятник Сергею Мироновичу Кирову"
 msgstr ""
 
+# Objects : [n3514418217]
+# name:be: []
+msgid "Памятник Симону Будному и Василию Тяпинскому"
+msgstr ""
+
 # Objects : [n3223251261]
 # name:be: []
 msgid "памятник Софии Слуцкой"
+msgstr ""
+
+# Objects : [n3514461485]
+# name:be: []
+msgid "Памятник студентам, преподавателям и сотрудникам БГУ, оддавшим свою жизнь за освобождение Родины в годы Великой Отечественной войны"
 msgstr ""
 
 # Objects : [n3045533924]
@@ -7978,6 +8098,11 @@ msgstr ""
 msgid "Парикмахерская "Милагро""
 msgstr ""
 
+# Objects : [w303607844]
+# name:be: []
+msgid "Парк аттракционов"
+msgstr ""
+
 # Objects : [n1512992710, n305685229, n640034622]
 # name:be: []
 msgid "Паркинг"
@@ -7988,7 +8113,7 @@ msgstr ""
 msgid "парковка"
 msgstr ""
 
-# Objects : [w256478870, w256485099]
+# Objects : [w256478870]
 # name:be: []
 msgid "Парковка"
 msgstr ""
@@ -8213,11 +8338,6 @@ msgstr ""
 msgid "П-ка 24"
 msgstr ""
 
-# Objects : [n305678341]
-# name:be: []
-msgid "П-Ка Аэропорта Минск-1"
-msgstr ""
-
 # Objects : [n305676071]
 # name:be: []
 msgid "П-Ка Дет.№4"
@@ -8341,6 +8461,11 @@ msgstr ""
 # Objects : [w338626626]
 # name:be: []
 msgid "Площадь Государственного флага"
+msgstr ""
+
+# Objects : [w28569119]
+# name:be: [Плошча Незалежнасці]
+msgid "Площадь Независимости"
 msgstr ""
 
 # Objects : [n2899021458, n2899021459]
@@ -8693,6 +8818,11 @@ msgstr ""
 msgid "Приорбанк"
 msgstr ""
 
+# Objects : [r5149961]
+# name:be: []
+msgid "Притыцкого 60 к5"
+msgstr ""
+
 # Objects : [w309979096]
 # name:be: []
 msgid "Приход в честь Рождества Крестителя Господня Иоанна"
@@ -8736,6 +8866,11 @@ msgstr ""
 # Objects : [n2621104318]
 # name:be: []
 msgid "Проездные билеты"
+msgstr ""
+
+# Objects : [n3483913516]
+# name:be: []
+msgid "Проектный институт Параметрического Проектирования"
 msgstr ""
 
 # Objects : [w257433192]
@@ -8785,7 +8920,7 @@ msgstr ""
 
 # Objects : [n2901240190]
 # name:be: []
-msgid "ПРОКАТ СКУТЕРОВ И ВЕЛОСИПЕДОВ MOTOLUX.BY"
+msgid "Прокат скутеров и велосипедов MotoLux.by"
 msgstr ""
 
 # Objects : [n3178697061]
@@ -8871,6 +9006,11 @@ msgstr ""
 # Objects : [n2793138783]
 # name:be: [Псіхатерапеўт Шпілеўская]
 msgid "Психотерапевт Шпилевская"
+msgstr ""
+
+# Objects : [n3513105913]
+# name:be: []
+msgid "Птичий двор"
 msgstr ""
 
 # Objects : [n1261066508]
@@ -9318,6 +9458,11 @@ msgstr ""
 msgid "РУВД Октябрьского района"
 msgstr ""
 
+# Objects : [r4850293]
+# name:be: []
+msgid "РУП "МИНСКЭНЕРГО" филиал "Минские кабельные сети""
+msgstr ""
+
 # Objects : [n2807950773]
 # name:be: []
 msgid "РУП "СтройМедиаПроект""
@@ -9373,6 +9518,21 @@ msgstr ""
 msgid "Рынок строительных материалов"
 msgstr ""
 
+# Objects : [n3488383313]
+# name:be: []
+msgid "РЭС-1"
+msgstr ""
+
+# Objects : [n3488383311]
+# name:be: []
+msgid "РЭС-5"
+msgstr ""
+
+# Objects : [n3488383312]
+# name:be: []
+msgid "РЭС-6"
+msgstr ""
+
 # Objects : [n281922216]
 # name:be: []
 msgid "Рэспубліканскі тэатр беларускай драматургіі"
@@ -9423,11 +9583,6 @@ msgstr ""
 msgid "Салон "Счастье""
 msgstr ""
 
-# Objects : [n846322423]
-# name:be: []
-msgid "салон Princess SPA"
-msgstr ""
-
 # Objects : [w319683089]
 # name:be: []
 msgid "Салон Velcom"
@@ -9458,9 +9613,9 @@ msgstr ""
 msgid "Салон МТС"
 msgstr ""
 
-# Objects : [n3256977700]
+# Objects : [n2624524871]
 # name:be: []
-msgid "Салюти фитнес-центр"
+msgid "Салюти"
 msgstr ""
 
 # Objects : [n376017809]
@@ -9476,6 +9631,11 @@ msgstr ""
 # Objects : [n1664701649]
 # name:be: []
 msgid "Самолёт"
+msgstr ""
+
+# Objects : [n3484271807]
+# name:be: []
+msgid "Самолёт Миг-21"
 msgstr ""
 
 # Objects : [n2766722636]
@@ -9548,11 +9708,6 @@ msgstr ""
 msgid "Светлана"
 msgstr ""
 
-# Objects : [n3095527537, n3095530935, n3106555185, n3106556531, n3106556532, n3106559691]
-# name:be: []
-msgid "светофор"
-msgstr ""
-
 # Objects : [n2622758609, n3248317562]
 # name:be: []
 msgid "Светофор"
@@ -9561,11 +9716,6 @@ msgstr ""
 # Objects : [n305684116]
 # name:be: [Свіслач]
 msgid "Свислочь"
-msgstr ""
-
-# Objects : [w39089539]
-# name:be: []
-msgid "свх. Ждановичи"
 msgstr ""
 
 # Objects : [w143970375]
@@ -9898,6 +10048,11 @@ msgstr ""
 msgid "Смотровая площадка"
 msgstr ""
 
+# Objects : [r4851507]
+# name:be: []
+msgid "Советская 11"
+msgstr ""
+
 # Objects : [n2769346997, r59250]
 # name:be: [Савецкі раён]
 msgid "Советский район"
@@ -9983,11 +10138,6 @@ msgstr ""
 msgid "Спарта"
 msgstr ""
 
-# Objects : [n3444730225]
-# name:be: []
-msgid "СП Белокрио ООО"
-msgstr ""
-
 # Objects : [n1709545404]
 # name:be: []
 msgid "Спектр"
@@ -10048,7 +10198,7 @@ msgstr ""
 msgid "Спортивная площадка"
 msgstr ""
 
-# Objects : [n3138706312, n3138706314, n3138706315, n3138706337]
+# Objects : [n3138706312, n3138706314, n3138706315]
 # name:be: []
 msgid "Спортивно - гимнастический комплекс"
 msgstr ""
@@ -10068,17 +10218,12 @@ msgstr ""
 msgid "Спортивный клуб "Пульс""
 msgstr ""
 
-# Objects : [n993864507]
-# name:be: [Спартыўны комплекс БДЭУ]
-msgid "Спортивный комплекс БГЭУ"
-msgstr ""
-
 # Objects : [n3184406868]
 # name:be: []
 msgid "Спортивный Комплекс Мапид"
 msgstr ""
 
-# Objects : [w273852200, w53022526]
+# Objects : [w53022526]
 # name:be: []
 msgid "Спортплощадка"
 msgstr ""
@@ -10098,11 +10243,6 @@ msgstr ""
 msgid "Спорт Эксперт"
 msgstr ""
 
-# Objects : [w25324860]
-# name:be: []
-msgid "Средняя школа №40"
-msgstr ""
-
 # Objects : [w83023820]
 # name:be: [Сярэдня школа №9]
 msgid "Средняя школа №9"
@@ -10111,11 +10251,6 @@ msgstr ""
 # Objects : [n2886727204]
 # name:be: []
 msgid "ст.м. Московская"
-msgstr ""
-
-# Objects : [w46099233]
-# name:be: []
-msgid "стадион"
 msgstr ""
 
 # Objects : [w144001650]
@@ -10473,11 +10608,6 @@ msgstr ""
 msgid "Строительство детской поликлиники"
 msgstr ""
 
-# Objects : [w302570210]
-# name:be: [Будаўніцтва жылога комплексу "Аквамарын"]
-msgid "Строительство жилого комплекса "Аквамарин""
-msgstr ""
-
 # Objects : [w230093030]
 # name:be: []
 msgid "Строительство ЖЭСа"
@@ -10508,8 +10638,8 @@ msgstr ""
 msgid "строительство спортивно-оздоровительного комплекса"
 msgstr ""
 
-# Objects : [w297350532]
-# name:be: []
+# Objects : [w297350532, w307599198]
+# name:be: [Будаўніцтва станцыі метро]
 msgid "Строительство станции метро"
 msgstr ""
 
@@ -10548,7 +10678,7 @@ msgstr ""
 msgid "Стройматериалы"
 msgstr ""
 
-# Objects : [w311368498, w311368507, w311368555]
+# Objects : [w311368555]
 # name:be: []
 msgid "стройплощадка"
 msgstr ""
@@ -10561,6 +10691,11 @@ msgstr ""
 # Objects : [w286150237]
 # name:be: []
 msgid "Строящийся колледж"
+msgstr ""
+
+# Objects : [n3489461623]
+# name:be: []
+msgid "Студенческий клуб"
 msgstr ""
 
 # Objects : [n3376540111]
@@ -10693,11 +10828,6 @@ msgstr ""
 msgid "СШ № 223"
 msgstr ""
 
-# Objects : [n3170047065, w25389228]
-# name:be: []
-msgid "СШ №48"
-msgstr ""
-
 # Objects : [w25320804]
 # name:be: []
 msgid "СШ№58"
@@ -10706,11 +10836,6 @@ msgstr ""
 # Objects : [w25322539]
 # name:be: []
 msgid "СШ №73"
-msgstr ""
-
-# Objects : [w25322941]
-# name:be: []
-msgid "СШ №98"
 msgstr ""
 
 # Objects : [w25391866]
@@ -10868,6 +10993,16 @@ msgstr ""
 msgid "ТерраМедика"
 msgstr ""
 
+# Objects : [n3499359305]
+# name:be: []
+msgid "Терра Медика"
+msgstr ""
+
+# Objects : [n3513105922]
+# name:be: []
+msgid "Террариум"
+msgstr ""
+
 # Objects : [w339774726]
 # name:be: []
 msgid "территория ДИН МВД"
@@ -10876,6 +11011,16 @@ msgstr ""
 # Objects : [w138105540]
 # name:be: []
 msgid "территория под строительство"
+msgstr ""
+
+# Objects : [w343152054]
+# name:be: []
+msgid "Территория под строительство ДС на 230 мест № 59 по генплану (2015-2016, срок ввода 2016)"
+msgstr ""
+
+# Objects : [w343152055]
+# name:be: []
+msgid "Территория под строительство СШ с бассейном № 54 по генплану (2015-2017, срок ввода 2017)"
 msgstr ""
 
 # Objects : [n3283853840]
@@ -11005,7 +11150,12 @@ msgstr ""
 
 # Objects : [n2628215899]
 # name:be: []
-msgid "Тренажерный зал Бьюти Фри"
+msgid "Тренажёрный зал Бьюти Фри"
+msgstr ""
+
+# Objects : [w343902783]
+# name:be: []
+msgid "Тренажеры, турники"
 msgstr ""
 
 # Objects : [n1468093992]
@@ -11216,11 +11366,6 @@ msgstr ""
 # Objects : [n3206003016]
 # name:be: []
 msgid "ТЧУП "Твои авто""
-msgstr ""
-
-# Objects : [n1163044347]
-# name:be: []
-msgid "Тысяча мелочей"
 msgstr ""
 
 # Objects : [w24423222]
@@ -11473,6 +11618,11 @@ msgstr ""
 msgid "Факультет международных отношений БГУ"
 msgstr ""
 
+# Objects : [n3506692157]
+# name:be: [Фаланстэр]
+msgid "Фаланстэр"
+msgstr ""
+
 # Objects : [w284413886]
 # name:be: []
 msgid "Фаренгейт"
@@ -11481,6 +11631,11 @@ msgstr ""
 # Objects : [n3446982243]
 # name:be: []
 msgid "Федерация хоккея Республики Беларусь"
+msgstr ""
+
+# Objects : [w25388588]
+# name:be: []
+msgid "Физический факультет БГУ"
 msgstr ""
 
 # Objects : [w35672164]
@@ -11511,11 +11666,6 @@ msgstr ""
 # Objects : [w90765885]
 # name:be: []
 msgid "Филиал «Трамвайный парк» ГП «Минсктранс»"
-msgstr ""
-
-# Objects : [n3176137261]
-# name:be: []
-msgid "Филиал ВТБ-банка"
 msgstr ""
 
 # Objects : [n2593661606]
@@ -11573,14 +11723,14 @@ msgstr ""
 msgid "Фитнес-студия "Кипарис""
 msgstr ""
 
-# Objects : [n2624524871]
-# name:be: []
-msgid "фитнесс-центр"
-msgstr ""
-
 # Objects : [n2614739049]
 # name:be: []
 msgid "Фитнес Центр"
+msgstr ""
+
+# Objects : [w25389275]
+# name:be: []
+msgid "Фитнес-центр "Lifestyle""
 msgstr ""
 
 # Objects : [n1576058067]
@@ -11591,6 +11741,11 @@ msgstr ""
 # Objects : [n1594946710]
 # name:be: []
 msgid "Флаг"
+msgstr ""
+
+# Objects : [n3111011327]
+# name:be: []
+msgid "Флэтком"
 msgstr ""
 
 # Objects : [w280560784]
@@ -11608,7 +11763,7 @@ msgstr ""
 msgid "Фонд социальной защиты населения"
 msgstr ""
 
-# Objects : [n1683150209]
+# Objects : [n1683150209, n281570492, n3062923633]
 # name:be: []
 msgid "Фонтан"
 msgstr ""
@@ -11743,7 +11898,12 @@ msgstr ""
 msgid "Фторотекс"
 msgstr ""
 
-# Objects : [w290459597, w294717632, w312948685, w319096989, w320784116, w320784126, w92515541]
+# Objects : [w257067162]
+# name:be: []
+msgid "Футбол"
+msgstr ""
+
+# Objects : [w290459597, w294717632, w312948685, w319096989, w320784116, w320784126]
 # name:be: []
 msgid "Футбольное поле"
 msgstr ""
@@ -11828,11 +11988,6 @@ msgstr ""
 msgid "Хостел Постоялец"
 msgstr ""
 
-# Objects : [n3111011327]
-# name:be: []
-msgid "Хостел Флэтком"
-msgstr ""
-
 # Objects : [n2507690321]
 # name:be: []
 msgid "Художественная галерея"
@@ -11861,11 +12016,6 @@ msgstr ""
 # Objects : [n2576851745]
 # name:be: []
 msgid "Хулиган"
-msgstr ""
-
-# Objects : [w25317741]
-# name:be: [ЦБП "Беларусбанк"]
-msgid "ЦБУ "Беларусбанк""
 msgstr ""
 
 # Objects : [w157327149]
@@ -12213,6 +12363,11 @@ msgstr ""
 msgid "Шиномонтаж"
 msgstr ""
 
+# Objects : [n1041688686, n3518972567]
+# name:be: []
+msgid "Школа иностранных языков Streamline"
+msgstr ""
+
 # Objects : [n2859402437, n2859717193]
 # name:be: []
 msgid "Школа-интернат"
@@ -12243,11 +12398,6 @@ msgstr ""
 msgid "Школа № 183"
 msgstr ""
 
-# Objects : [n3054826037]
-# name:be: []
-msgid "Шлагбаум"
-msgstr ""
-
 # Objects : [n1668699297]
 # name:be: []
 msgid "Шпиль"
@@ -12256,6 +12406,16 @@ msgstr ""
 # Objects : [n3268820987]
 # name:be: [Эвента М, ЧП]
 msgid "Эвента М, ЧП"
+msgstr ""
+
+# Objects : [n3513105924]
+# name:be: []
+msgid "экзотариум"
+msgstr ""
+
+# Objects : [n3513105914]
+# name:be: []
+msgid "Экзотариум"
 msgstr ""
 
 # Objects : [n2626421896]
@@ -12288,11 +12448,6 @@ msgstr ""
 msgid "Электромонтажком"
 msgstr ""
 
-# Objects : [n2627521329, n2628395977]
-# name:be: []
-msgid "Электростанция"
-msgstr ""
-
 # Objects : [n305681735]
 # name:be: []
 msgid "Эльдорадо"
@@ -12305,7 +12460,7 @@ msgstr ""
 
 # Objects : [n3147945564]
 # name:be: []
-msgid "ЭСТ"
+msgid "ЭСТ+"
 msgstr ""
 
 # Objects : [n2772396888]

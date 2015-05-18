@@ -13,14 +13,19 @@ msgstr ""
 msgid "Wysoczyzna Białostocka"
 msgstr ""
 
-# Objects : [n2403669785]
-# name:be: []
-msgid "Агроусадьба"
-msgstr ""
-
 # Objects : [n2403669784]
 # name:be: []
 msgid "Агроусадьба "Колонная""
+msgstr ""
+
+# Objects : [n2403669785]
+# name:be: []
+msgid "Гостевые комнаты"
+msgstr ""
+
+# Objects : [n3489576907]
+# name:be: []
+msgid "Гостиница "Жарковщина""
 msgstr ""
 
 # Objects : [w288481489]

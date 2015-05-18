@@ -93,7 +93,7 @@ msgstr ""
 msgid "ДорОРС"
 msgstr ""
 
-# Objects : [n1685688743, n2334770556, n2717807216, n3219848263]
+# Objects : [n1685688743, n2334770556, n2717807216]
 # name:be: []
 msgid "Евроопт"
 msgstr ""
@@ -188,11 +188,6 @@ msgstr ""
 msgid "Ремонт Бензопил"
 msgstr ""
 
-# Objects : [n3219832950]
-# name:be: []
-msgid "Родны кут"
-msgstr ""
-
 # Objects : [n1426933980]
 # name:be: []
 msgid "Родны кут магазин №1"
@@ -241,11 +236,6 @@ msgstr ""
 # Objects : [n2153309832]
 # name:be: []
 msgid "Стройпродукт"
-msgstr ""
-
-# Objects : [n3219828165]
-# name:be: []
-msgid "Супермаркет "Алми""
 msgstr ""
 
 # Objects : [n1130431413]

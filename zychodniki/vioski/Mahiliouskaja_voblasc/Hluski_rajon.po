@@ -223,7 +223,7 @@ msgstr ""
 msgid "Зеленка"
 msgstr ""
 
-# Objects : [n243024386, w25107123, w25108186]
+# Objects : [n243024386, r4850836]
 # name:be: [Зелянковічы]
 msgid "Зеленковичи"
 msgstr ""
@@ -423,7 +423,7 @@ msgstr ""
 msgid "Пятенка"
 msgstr ""
 
-# Objects : [n243025425, w25108175, w25108176]
+# Objects : [n243025425, r4850837]
 # name:be: [Розлевічы]
 msgid "Розлевичи"
 msgstr ""

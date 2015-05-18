@@ -673,7 +673,7 @@ msgstr ""
 msgid "Сапрыновичи"
 msgstr ""
 
-# Objects : [n243045216, w25078705, w25078720]
+# Objects : [n243045216, w25078720]
 # name:be: [Свярдлова]
 msgid "Свердлово"
 msgstr ""
@@ -776,11 +776,6 @@ msgstr ""
 # Objects : [n243045326, w25078712]
 # name:be: []
 msgid "Чапуркино"
-msgstr ""
-
-# Objects : [w25079488]
-# name:be: [Чапляёўка]
-msgid "Чеплеёвка"
 msgstr ""
 
 # Objects : [n243045677, w25079708]

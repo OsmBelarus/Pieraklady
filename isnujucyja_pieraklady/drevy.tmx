@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>Аляксандраўскі сквер</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Алея героев</seg></tuv>
+      <tuv lang="BE"><seg>Алея герояў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Алея Дружбы</seg></tuv>
       <tuv lang="BE"><seg>Алея Дружбы</seg></tuv>
     </tu>
@@ -24,12 +28,20 @@
       <tuv lang="BE"><seg>алея знакамітых ураджэнцаў Глыбоччыны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Аллея Молодожёнов</seg></tuv>
+      <tuv lang="BE"><seg>Алея Маладых</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аллея праведников мира</seg></tuv>
       <tuv lang="BE"><seg>Алея праведнікаў свету</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Английский парк</seg></tuv>
       <tuv lang="BE"><seg>Англійскі парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Английский пейзажный парк</seg></tuv>
+      <tuv lang="BE"><seg>Англійскі пейзажны парк парк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Антоновский парк</seg></tuv>
@@ -44,8 +56,20 @@
       <tuv lang="BE"><seg>Батанічны сад</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Брагинский сквер</seg></tuv>
+      <tuv lang="BE"><seg>Брагінскі сквер</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бульвар Данилы Сердича</seg></tuv>
       <tuv lang="BE"><seg>Бульвар Данілы Сердзіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бульвар Мулявина</seg></tuv>
+      <tuv lang="BE"><seg>Бульвар Трактарабудаўнікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бульвар Толбухина</seg></tuv>
+      <tuv lang="BE"><seg>Бульвар Таўбухіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Бульвар Тракторостроителей</seg></tuv>
@@ -68,8 +92,20 @@
       <tuv lang="BE"><seg>Гарадскі парк імя Горкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гороховое урочище</seg></tuv>
+      <tuv lang="BE"><seg>Гарохавае ўрочышча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дворцово -парковый комплекс XVIII—XIX вв.</seg></tuv>
       <tuv lang="BE"><seg>Палацава-паркавы комплекс XVIII-XIX стст.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дендропарк</seg></tuv>
+      <tuv lang="BE"><seg>Дэндрапарк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский парк</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы парк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Замковая площадь</seg></tuv>
@@ -78,6 +114,10 @@
     <tu>
       <tuv lang="RU"><seg>Застенок</seg></tuv>
       <tuv lang="BE"><seg>Засценак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Итальянский парк</seg></tuv>
+      <tuv lang="BE"><seg>Італ'янскі парк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кальварийский сквер</seg></tuv>
@@ -100,6 +140,14 @@
       <tuv lang="BE"><seg>Камароўскі сквер</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Комсомольский парк</seg></tuv>
+      <tuv lang="BE"><seg>Камсамольскі парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольский сквер</seg></tuv>
+      <tuv lang="BE"><seg>Камсамольскі сквер</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красная площадь</seg></tuv>
       <tuv lang="BE"><seg>Чырвоная плошча</seg></tuv>
     </tu>
@@ -108,16 +156,32 @@
       <tuv lang="BE"><seg>Лес Ляўцова</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Лесопарк "АЛЬБА"</seg></tuv>
-      <tuv lang="BE"><seg>Лесапарк "Альба"</seg></tuv>
+      <tuv lang="RU"><seg>Лесопарк</seg></tuv>
+      <tuv lang="BE"><seg>Лесапарк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесопарк Альба</seg></tuv>
+      <tuv lang="BE"><seg>Лесапарк Альба</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>лесопарк Юрьева Горка</seg></tuv>
       <tuv lang="BE"><seg>лесапарк Юр'ева горка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Липовая роща</seg></tuv>
+      <tuv lang="BE"><seg>Ліпавы гай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лукавица</seg></tuv>
       <tuv lang="BE"><seg>Лукавіца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лютеранский сквер</seg></tuv>
+      <tuv lang="BE"><seg>Лютаранскі сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ляды</seg></tuv>
+      <tuv lang="BE"><seg>Ляды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ляховский сквер</seg></tuv>
@@ -136,12 +200,28 @@
       <tuv lang="BE"><seg>Мемарыяльны сквер</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минский зоопарк</seg></tuv>
+      <tuv lang="BE"><seg>Мінскі заапарк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михайловский сквер</seg></tuv>
+      <tuv lang="BE"><seg>Міхайлаўскі сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырский Сквер</seg></tuv>
+      <tuv lang="BE"><seg>Мазырскі сквер</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Молодой парк</seg></tuv>
       <tuv lang="BE"><seg>Парк 30-годдзя УЛКСМ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ольшевский сквер</seg></tuv>
       <tuv lang="BE"><seg>Альшэўскі сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк</seg></tuv>
+      <tuv lang="BE"><seg>Парк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парк 1000-летия Витебска</seg></tuv>
@@ -156,12 +236,32 @@
       <tuv lang="BE"><seg>Парк 50-год БССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Парк 60-летия Октября</seg></tuv>
+      <tuv lang="BE"><seg>Парк 60-годдзя Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк 900-летия Минска</seg></tuv>
+      <tuv lang="BE"><seg>Парк 900-годдзя Мінска</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Антония</seg></tuv>
+      <tuv lang="BE"><seg>Парк Антонія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Горького</seg></tuv>
+      <tuv lang="BE"><seg>Парк Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Грековой</seg></tuv>
+      <tuv lang="BE"><seg>Парк Грэкавай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>парк Дививелка</seg></tuv>
       <tuv lang="BE"><seg>парк Дзівівелка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Парк Дружбы народов</seg></tuv>
-      <tuv lang="BE"><seg>Парк Дружбы народаў</seg></tuv>
+      <tuv lang="RU"><seg>Парк Дружбы Народов</seg></tuv>
+      <tuv lang="BE"><seg>Парк Дружбы Народаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парк Железнодорожников</seg></tuv>
@@ -172,28 +272,8 @@
       <tuv lang="BE"><seg>Парк Жылібера</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>парк им. Грековой</seg></tuv>
-      <tuv lang="BE"><seg>Парк імя Грэкавай</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Парк им. Челюскинцев</seg></tuv>
-      <tuv lang="BE"><seg>Парк імя Чалюскінцаў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>парк им. Янки Купалы</seg></tuv>
-      <tuv lang="BE"><seg>парк імя Янкі Купалы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Парк имени 30-летия ВЛКСМ</seg></tuv>
       <tuv lang="BE"><seg>Парк 30-годдзя УЛКСМ</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Парк имени 60-летия Октября</seg></tuv>
-      <tuv lang="BE"><seg>Парк імя 60-годдзя Кастрычніка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Парк имени Михаила Павлова</seg></tuv>
-      <tuv lang="BE"><seg>Парк імя Міхаіла Паўлава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парк имени Советской Армии</seg></tuv>
@@ -212,6 +292,10 @@
       <tuv lang="BE"><seg>Парк Марата Казея</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Парк Михаила Павлова</seg></tuv>
+      <tuv lang="BE"><seg>Парк Міхаіла Паўлава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Парк Партизанской славы им. Миная Шмырёва</seg></tuv>
       <tuv lang="BE"><seg>Парк Партызанскай славы імя Шмырова</seg></tuv>
     </tu>
@@ -228,12 +312,24 @@
       <tuv lang="BE"><seg>Парк Цівалі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>парк Уручье</seg></tuv>
-      <tuv lang="BE"><seg>парк Уручча</seg></tuv>
+      <tuv lang="RU"><seg>Парк Уго Чавеса</seg></tuv>
+      <tuv lang="BE"><seg>Парк Угі Чавэса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Уручье</seg></tuv>
+      <tuv lang="BE"><seg>Парк Уручча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парк Фрунзе</seg></tuv>
       <tuv lang="BE"><seg>Парк Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Челюскинцев</seg></tuv>
+      <tuv lang="BE"><seg>Парк Чалюскінцаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Янки Купалы</seg></tuv>
+      <tuv lang="BE"><seg>Парк Янкі Купалы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Переспенский сквер</seg></tuv>
@@ -252,6 +348,18 @@
       <tuv lang="BE"><seg>плошча Свабоды</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Привокзальная площадь</seg></tuv>
+      <tuv lang="BE"><seg>Прывакзальная плошча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приднепровский парк</seg></tuv>
+      <tuv lang="BE"><seg>Прыдняпроўскі парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приусадебный парк</seg></tuv>
+      <tuv lang="BE"><seg>Сядзібны парк</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Приусадебный парк при бывшей усадьбе Сеножецких</seg></tuv>
       <tuv lang="BE"><seg>Прысядзібны парк пры былой сядзібе Сянажэцкіх</seg></tuv>
     </tu>
@@ -264,6 +372,14 @@
       <tuv lang="BE"><seg>Гай</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Румлёвский лес</seg></tuv>
+      <tuv lang="BE"><seg>Румлёўскі лес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Никольский сквер</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Нікольскі сквер</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Севастопольский парк</seg></tuv>
       <tuv lang="BE"><seg>Севастопальскі парк</seg></tuv>
     </tu>
@@ -272,32 +388,52 @@
       <tuv lang="BE"><seg>Сэндайскі сквер</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Сквер</seg></tuv>
+      <tuv lang="BE"><seg>Сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сквер 40 летия Победы</seg></tuv>
+      <tuv lang="BE"><seg>Сквер 40-годдзя Перамогі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Сквер Адама Мицкевича</seg></tuv>
       <tuv lang="BE"><seg>Сквер Адама Міцкевіча</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Сквер Брагинский</seg></tuv>
-      <tuv lang="BE"><seg>Брагінскі сквер</seg></tuv>
+      <tuv lang="RU"><seg>Сквер Горовца</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Гараўца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сквер Громыко</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Грамыкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сквер Дубки</seg></tuv>
       <tuv lang="BE"><seg>Сквер Дубкі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Сквер имени Надежды Харченко</seg></tuv>
-      <tuv lang="BE"><seg>Сквер імя Надзеі Харчанка</seg></tuv>
+      <tuv lang="RU"><seg>Сквер Клумова</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Клумава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>сквер Клумова</seg></tuv>
-      <tuv lang="BE"><seg>сквер Клумава</seg></tuv>
+      <tuv lang="RU"><seg>Сквер Маяковского</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Маякоўскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Сквер Мозырский</seg></tuv>
-      <tuv lang="BE"><seg>Мазырскі сквер</seg></tuv>
+      <tuv lang="RU"><seg>Сквер Надежды Харченко</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Надзеі Харчанка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>сквер Омара Хайяма</seg></tuv>
-      <tuv lang="BE"><seg>сквер Амара Хаяма</seg></tuv>
+      <tuv lang="RU"><seg>Сквер Омара Хайяма</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Амара Хаяма</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сквер Пограничников</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Памежнікаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сквер Симона Боливара</seg></tuv>
+      <tuv lang="BE"><seg>Сквер Сімона Балівара</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сквер Содружество</seg></tuv>
@@ -332,20 +468,56 @@
       <tuv lang="BE"><seg>Траецкая гара</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тугановичский парк</seg></tuv>
+      <tuv lang="BE"><seg>Тугановіцкі парк</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Тучинский сквер</seg></tuv>
       <tuv lang="BE"><seg>Тучынскі сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урочище Гребля</seg></tuv>
+      <tuv lang="BE"><seg>Урочышча Грэбля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урочище Новая Земля</seg></tuv>
+      <tuv lang="BE"><seg>Урочышча Новая Зямля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урочище Подселице</seg></tuv>
+      <tuv lang="BE"><seg>Урочышча Падселіцэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урочище Шубино</seg></tuv>
+      <tuv lang="BE"><seg>Урочышча Шубіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усадьба Ястржембских</seg></tuv>
+      <tuv lang="BE"><seg>Сядзіба Ястражэмбскіх</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фестивальный</seg></tuv>
+      <tuv lang="BE"><seg>Фэстывальны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>фруктовый сад</seg></tuv>
       <tuv lang="BE"><seg>Фруктовы сад</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Центральный детский парк имени Максима Горького</seg></tuv>
-      <tuv lang="BE"><seg>Цэнтральны дзіцячы парк імя Максіма Горкага</seg></tuv>
+      <tuv lang="RU"><seg>Школьный парк</seg></tuv>
+      <tuv lang="BE"><seg>Школьны парк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьный сад</seg></tuv>
+      <tuv lang="BE"><seg>Школьны сад</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шпитальный сквер</seg></tuv>
       <tuv lang="BE"><seg>Шпітальны сквер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яблоневый сад</seg></tuv>
+      <tuv lang="BE"><seg>Ябланевы сад</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Яловина</seg></tuv>

@@ -178,7 +178,7 @@ msgstr ""
 msgid "Веселый"
 msgstr ""
 
-# Objects : [n243041885, n2972560105, w25086004, w293651342]
+# Objects : [n243041885, n2972560105, w25086004]
 # name:be: [Высокае]
 msgid "Высокое"
 msgstr ""
@@ -643,7 +643,7 @@ msgstr ""
 msgid "Ломачино"
 msgstr ""
 
-# Objects : [n243043630, r4708177]
+# Objects : [n243043630, n2972576847, r4708177, w293653640]
 # name:be: [Лужкі]
 msgid "Лужки"
 msgstr ""

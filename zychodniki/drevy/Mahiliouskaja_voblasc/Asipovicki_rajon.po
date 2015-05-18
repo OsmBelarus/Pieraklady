@@ -9,12 +9,12 @@ msgid "парк"
 msgstr ""
 
 # Objects : [w205040989]
-# name:be: []
-msgid "Парк."
+# name:be: [Парк]
+msgid "Парк"
 msgstr ""
 
 # Objects : [w205040994, w307733014]
-# name:be: []
+# name:be: [Сквер]
 msgid "Сквер"
 msgstr ""
 

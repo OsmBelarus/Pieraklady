@@ -13,11 +13,6 @@ msgstr ""
 msgid "Евроопт"
 msgstr ""
 
-# Objects : [n1521061748]
-# name:be: [Магазін]
-msgid "Магазин"
-msgstr ""
-
 # Objects : [n1807025440]
 # name:be: []
 msgid "Минимаркет"

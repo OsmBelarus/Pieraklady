@@ -268,6 +268,11 @@ msgstr ""
 msgid "Памятник Ленину"
 msgstr ""
 
+# Objects : [w342724472]
+# name:be: []
+msgid "Парковка"
+msgstr ""
+
 # Objects : [w97549554]
 # name:be: [плошча Леніна]
 msgid "площадь Ленина"

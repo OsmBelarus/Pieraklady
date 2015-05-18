@@ -163,6 +163,11 @@ msgstr ""
 msgid "4"
 msgstr ""
 
+# Objects : [w206250983]
+# name:be: []
+msgid "5"
+msgstr ""
+
 # Objects : [w86761044]
 # name:be: []
 msgid "55А"
@@ -273,7 +278,7 @@ msgstr ""
 msgid "баня"
 msgstr ""
 
-# Objects : [w241068845, w242464241, w244831005, w334974979]
+# Objects : [w241068845, w242464241, w334974979]
 # name:be: []
 msgid "Баня"
 msgstr ""
@@ -318,7 +323,7 @@ msgstr ""
 msgid "Буслик"
 msgstr ""
 
-# Objects : [w326527092]
+# Objects : [w326527092, w341468541]
 # name:be: []
 msgid "вольер"
 msgstr ""
@@ -906,6 +911,11 @@ msgstr ""
 # Objects : [w335538667]
 # name:be: []
 msgid "тп"
+msgstr ""
+
+# Objects : [w343201530]
+# name:be: []
+msgid "ТП-663"
 msgstr ""
 
 # Objects : [w319890763]

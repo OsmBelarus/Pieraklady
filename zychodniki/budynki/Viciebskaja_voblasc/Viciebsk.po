@@ -13,11 +13,6 @@ msgstr ""
 msgid ""Золотой теленок" *"
 msgstr ""
 
-# Objects : [w126028933]
-# name:be: ["Князь Альгерд"]
-msgid ""Князь Ольгерд""
-msgstr ""
-
 # Objects : [w27899163]
 # name:be: ["Музыкальная гасцінная"]
 msgid "«Музыкальная гостиная»"
@@ -46,11 +41,6 @@ msgstr ""
 # Objects : [w208366631]
 # name:be: []
 msgid "5а"
-msgstr ""
-
-# Objects : [w309968638]
-# name:be: []
-msgid "Green Центр"
 msgstr ""
 
 # Objects : [w65726522]
@@ -131,11 +121,6 @@ msgstr ""
 # Objects : [w180945792]
 # name:be: []
 msgid "Автошкола №7"
-msgstr ""
-
-# Objects : [w27904352]
-# name:be: []
-msgid "Агропромышленный холдинг "Славянский велес", СООО "Виткопродукт""
 msgstr ""
 
 # Objects : [w158029339]
@@ -333,7 +318,7 @@ msgstr ""
 msgid "Белль Бимбо"
 msgstr ""
 
-# Objects : [w119933409, w228604019]
+# Objects : [w119933409]
 # name:be: []
 msgid "Белмаркет"
 msgstr ""
@@ -423,14 +408,9 @@ msgstr ""
 msgid "ВГРЭС"
 msgstr ""
 
-# Objects : [w162947668]
-# name:be: []
-msgid "Вегас"
-msgstr ""
-
 # Objects : [w27896711]
 # name:be: []
-msgid "ВЕНЕРОЛОГИЧЕСКОЕ ОТДЕЛЕНИЕ  КОЖНО-ВЕНЕРОЛОГИЧЕСКОГО ДИСПАНСЕРА"
+msgid "Венерологическое отделение кожвендиспансера"
 msgstr ""
 
 # Objects : [w294218098, w295269059]
@@ -1248,6 +1228,11 @@ msgstr ""
 msgid "Инкубатор малого бизнеса"
 msgstr ""
 
+# Objects : [w127287883]
+# name:be: [Інспекцыя па справах непаўналетніх]
+msgid "Инспекция по делам несовершеннолетних"
+msgstr ""
+
 # Objects : [w161409275]
 # name:be: [Інстытут тэхнічнай акустыкі]
 msgid "Институт технической акустики"
@@ -1268,14 +1253,14 @@ msgstr ""
 msgid "Каравай Придвинья"
 msgstr ""
 
+# Objects : [w30639937]
+# name:be: [Кавярня «Метан»]
+msgid "Кафе «Метан»"
+msgstr ""
+
 # Objects : [w102188391]
 # name:be: [Кафедра педыятрыі ВДМУ]
 msgid "Кафедра педиатрии ВГМУ"
-msgstr ""
-
-# Objects : [w30639937]
-# name:be: [Кавярня «Метан»]
-msgid "Кафе Метан"
 msgstr ""
 
 # Objects : [w30807233]
@@ -1313,7 +1298,7 @@ msgstr ""
 msgid "Книги"
 msgstr ""
 
-# Objects : [w109932368, w171603667, w333785658]
+# Objects : [w109932368, w333785658]
 # name:be: [КНС]
 msgid "КНС"
 msgstr ""
@@ -1326,6 +1311,11 @@ msgstr ""
 # Objects : [w187790826]
 # name:be: []
 msgid "КНС №8 (станция перекачки)"
+msgstr ""
+
+# Objects : [w126028933]
+# name:be: [Князь Альгерд]
+msgid "Князь Ольгерд"
 msgstr ""
 
 # Objects : [w127287865, w27896705, w27902538]
@@ -1453,11 +1443,6 @@ msgstr ""
 msgid "Летний Амфитеатр"
 msgstr ""
 
-# Objects : [w136293346]
-# name:be: []
-msgid "Летняя кухня"
-msgstr ""
-
 # Objects : [w243123035]
 # name:be: []
 msgid "Летняя эстрада"
@@ -1481,11 +1466,6 @@ msgstr ""
 # Objects : [w27896665]
 # name:be: [Лакаматыў]
 msgid "Локомотив"
-msgstr ""
-
-# Objects : [w179450265]
-# name:be: []
-msgid "Ломбард ООО"УайтСофт""
 msgstr ""
 
 # Objects : [w27901146]
@@ -1678,7 +1658,7 @@ msgstr ""
 msgid "Музыкальный колледж"
 msgstr ""
 
-# Objects : [w119933396, w119961680, w131390464, w134768087, w167562028]
+# Objects : [w119961680, w131390464, w134768087, w167562028]
 # name:be: [Пампоўня]
 msgid "Насосная"
 msgstr ""
@@ -1758,11 +1738,6 @@ msgstr ""
 msgid "ОАО «Витебскоблавтотранс»"
 msgstr ""
 
-# Objects : [w27903754]
-# name:be: [ААТ Віцебскаблрэсурсы]
-msgid "ОАО Витебскоблресурсы"
-msgstr ""
-
 # Objects : [w29977186]
 # name:be: [Абл. стаматалагічная паліклініка]
 msgid "Обл. стоматологическая поликлиника"
@@ -1801,11 +1776,6 @@ msgstr ""
 # Objects : [w168961664]
 # name:be: []
 msgid "Облпотребсоюз"
-msgstr ""
-
-# Objects : [w75299320]
-# name:be: []
-msgid "Обмен валюты"
 msgstr ""
 
 # Objects : [w27901828]
@@ -2318,7 +2288,7 @@ msgstr ""
 msgid "Ритуальные услуги"
 msgstr ""
 
-# Objects : [w120162266, w169412969, w173253333, w27903459, w283794850, w72611562, w78336960]
+# Objects : [w169412969, w173253333, w27903459, w283794850, w72611562, w78336960]
 # name:be: [Родны Кут, Родны кут]
 msgid "Родная Сторона"
 msgstr ""
@@ -2348,16 +2318,6 @@ msgstr ""
 msgid "РП-14"
 msgstr ""
 
-# Objects : [w169856080]
-# name:be: []
-msgid "РП-16"
-msgstr ""
-
-# Objects : [w126828440]
-# name:be: []
-msgid "РП-21"
-msgstr ""
-
 # Objects : [w163926930]
 # name:be: []
 msgid "РП-24"
@@ -2376,11 +2336,6 @@ msgstr ""
 # Objects : [w133733531]
 # name:be: []
 msgid "РП-59"
-msgstr ""
-
-# Objects : [w172494422]
-# name:be: []
-msgid "РП-64"
 msgstr ""
 
 # Objects : [w118728847]
@@ -2451,11 +2406,6 @@ msgstr ""
 # Objects : [w27901904]
 # name:be: [Сэрвіс Peugeot]
 msgid "сервис Peugeot"
-msgstr ""
-
-# Objects : [w75123744]
-# name:be: [СІЗА]
-msgid "СИЗО"
 msgstr ""
 
 # Objects : [w175014873]
@@ -2573,7 +2523,7 @@ msgstr ""
 msgid "Станция пожаротушения(заброшена)"
 msgstr ""
 
-# Objects : [w185866323]
+# Objects : [w179450261, w185866323]
 # name:be: [СТА]
 msgid "СТО"
 msgstr ""
@@ -2693,11 +2643,6 @@ msgstr ""
 msgid "ТП"
 msgstr ""
 
-# Objects : [w186622613]
-# name:be: []
-msgid "ТП 101"
-msgstr ""
-
 # Objects : [w168955172]
 # name:be: []
 msgid "ТП-103"
@@ -2719,8 +2664,8 @@ msgid "ТП-128"
 msgstr ""
 
 # Objects : [w279258050]
-# name:be: []
-msgid "ТП 151"
+# name:be: [ТП-151]
+msgid "ТП-151"
 msgstr ""
 
 # Objects : [w169107040]
@@ -2788,11 +2733,6 @@ msgstr ""
 msgid "ТП-245"
 msgstr ""
 
-# Objects : [w110532847]
-# name:be: [ТП-252]
-msgid "ТП-252"
-msgstr ""
-
 # Objects : [w168983049]
 # name:be: []
 msgid "ТП-259"
@@ -2838,6 +2778,11 @@ msgstr ""
 msgid "ТП-30"
 msgstr ""
 
+# Objects : [w105952847]
+# name:be: [ТП-309]
+msgid "ТП-309"
+msgstr ""
+
 # Objects : [w299314206]
 # name:be: []
 msgid "ТП-310"
@@ -2848,24 +2793,9 @@ msgstr ""
 msgid "ТП-316"
 msgstr ""
 
-# Objects : [w126828448]
-# name:be: [ТП-326]
-msgid "ТП-326"
-msgstr ""
-
-# Objects : [w215198795]
-# name:be: []
-msgid "ТП-33"
-msgstr ""
-
 # Objects : [w168288905]
 # name:be: []
 msgid "ТП-35"
-msgstr ""
-
-# Objects : [w126438734]
-# name:be: []
-msgid "ТП-353"
 msgstr ""
 
 # Objects : [w126828438]
@@ -2908,11 +2838,6 @@ msgstr ""
 msgid "ТП-405"
 msgstr ""
 
-# Objects : [w168768117]
-# name:be: []
-msgid "ТП-407"
-msgstr ""
-
 # Objects : [w137296521]
 # name:be: []
 msgid "ТП-415"
@@ -2921,11 +2846,6 @@ msgstr ""
 # Objects : [w133959595]
 # name:be: [ТП-418]
 msgid "ТП-418"
-msgstr ""
-
-# Objects : [w126828432]
-# name:be: [ТП-420]
-msgid "ТП-420"
 msgstr ""
 
 # Objects : [w172275952]
@@ -3013,19 +2933,9 @@ msgstr ""
 msgid "ТП-579"
 msgstr ""
 
-# Objects : [w126828445]
-# name:be: [ТП-592]
-msgid "ТП-592"
-msgstr ""
-
 # Objects : [w135510024]
 # name:be: []
 msgid "ТП-593"
-msgstr ""
-
-# Objects : [w134998397]
-# name:be: []
-msgid "ТП-599"
 msgstr ""
 
 # Objects : [w172628265]
@@ -3091,11 +3001,6 @@ msgstr ""
 # Objects : [w161143864]
 # name:be: []
 msgid "ТП-78"
-msgstr ""
-
-# Objects : [w136277648]
-# name:be: []
-msgid "ТП-81"
 msgstr ""
 
 # Objects : [w188463708]

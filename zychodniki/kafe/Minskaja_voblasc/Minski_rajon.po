@@ -33,19 +33,19 @@ msgstr ""
 msgid "ЖКХ"
 msgstr ""
 
-# Objects : [n1737652248]
-# name:be: []
-msgid "Кафе "ГородОк""
-msgstr ""
-
 # Objects : [n1821323658]
 # name:be: []
 msgid "Кафе "Корсар""
 msgstr ""
 
+# Objects : [n2970033195]
+# name:be: []
+msgid "кафе "На ростанях""
+msgstr ""
+
 # Objects : [n1014617858]
 # name:be: []
-msgid "Кафе "Улет""
+msgid "Кафе «Улёт»"
 msgstr ""
 
 # Objects : [n833390249]
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Сова"
 msgstr ""
 
-# Objects : [n1736082777, w77893770]
+# Objects : [n3507843905, w77893770]
 # name:be: []
 msgid "Столовая"
 msgstr ""

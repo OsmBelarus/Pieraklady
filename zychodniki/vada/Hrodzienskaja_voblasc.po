@@ -73,6 +73,11 @@ msgstr ""
 msgid "Антозеро"
 msgstr ""
 
+# Objects : [r3519016, w25175154]
+# name:be: [Апіта]
+msgid "Апіта"
+msgstr ""
+
 # Objects : [r2751435, w204952191, w204952192, w204952194, w204952196, w25176330]
 # name:be: []
 msgid "Барташунка"
@@ -288,7 +293,7 @@ msgstr ""
 msgid "Вязовка"
 msgstr ""
 
-# Objects : [r3240256, w124256857, w25174815, w312501459]
+# Objects : [r3240256, w124256857, w312501459]
 # name:be: [Гаўя]
 msgid "Гавья"
 msgstr ""
@@ -306,6 +311,11 @@ msgstr ""
 # Objects : [w25173582]
 # name:be: []
 msgid "Гасток"
+msgstr ""
+
+# Objects : [w25174815]
+# name:be: [Гаўя]
+msgid "Гаўя"
 msgstr ""
 
 # Objects : [w340379630, w340379631, w38282685]
@@ -943,6 +953,11 @@ msgstr ""
 msgid "озеро Красное"
 msgstr ""
 
+# Objects : [w29168027, w90110466]
+# name:be: []
+msgid "Озеро Лосевича"
+msgstr ""
+
 # Objects : [w35711779]
 # name:be: []
 msgid "Озеро на Репина"
@@ -983,7 +998,7 @@ msgstr ""
 msgid "Ольшанка"
 msgstr ""
 
-# Objects : [r3519016, w25175123, w25175154]
+# Objects : [w25175123]
 # name:be: [Апіта]
 msgid "Опита"
 msgstr ""

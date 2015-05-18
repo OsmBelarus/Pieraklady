@@ -63,11 +63,6 @@ msgstr ""
 msgid "Белмаркет"
 msgstr ""
 
-# Objects : [w138944677]
-# name:be: []
-msgid "Белоруснефть"
-msgstr ""
-
 # Objects : [w97728387]
 # name:be: []
 msgid "БЕЛХОЛ"
@@ -406,6 +401,11 @@ msgstr ""
 # Objects : [w169786981]
 # name:be: [Фестывальны]
 msgid "Фестивальный"
+msgstr ""
+
+# Objects : [w138944677]
+# name:be: []
+msgid "Шиномонтаж"
 msgstr ""
 
 # Objects : [w109200652]

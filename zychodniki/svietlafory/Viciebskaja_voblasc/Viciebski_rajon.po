@@ -3,6 +3,11 @@
 msgid "аптека-Управление"
 msgstr ""
 
+# Objects : [n2286020722, n2286020723]
+# name:be: []
+msgid "Белвитунифарм"
+msgstr ""
+
 # Objects : [n2660097610, n2660097619]
 # name:be: []
 msgid "Боровская"
@@ -153,7 +158,7 @@ msgstr ""
 msgid "Ольгово"
 msgstr ""
 
-# Objects : [n1588881006]
+# Objects : [n1588881006, n3520681241]
 # name:be: []
 msgid "Орлово-2"
 msgstr ""
@@ -193,7 +198,12 @@ msgstr ""
 msgid "Скрыдлево"
 msgstr ""
 
-# Objects : [n1901105659]
+# Objects : [n2751953626, n3485206004]
+# name:be: []
+msgid "Сокольники"
+msgstr ""
+
+# Objects : [n1901105659, n2411191408, n2843347700]
 # name:be: []
 msgid "Станция Лужесно"
 msgstr ""

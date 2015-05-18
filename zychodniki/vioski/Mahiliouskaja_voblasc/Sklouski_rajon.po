@@ -578,7 +578,7 @@ msgstr ""
 msgid "Миллеры"
 msgstr ""
 
-# Objects : [n243042702, n243043495, w25084490, w25088807]
+# Objects : [n243042702, n3486474551, w25084490, w25088807]
 # name:be: [Маісеенкі]
 msgid "Моисеенки"
 msgstr ""
@@ -883,12 +883,17 @@ msgstr ""
 msgid "Скубиловка"
 msgstr ""
 
+# Objects : [n243043545, w25088703]
+# name:be: [Слабодка]
+msgid "Слабодка"
+msgstr ""
+
 # Objects : [n243042712, w25084459]
 # name:be: [Сліжы]
 msgid "Слижи"
 msgstr ""
 
-# Objects : [n243041786, n243043545, r4686065, w25088703]
+# Objects : [n243041786, r4686065]
 # name:be: [Слабодка]
 msgid "Слободка"
 msgstr ""

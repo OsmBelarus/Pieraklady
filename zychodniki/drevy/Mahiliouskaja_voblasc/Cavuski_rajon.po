@@ -1,15 +1,15 @@
-# Objects : [w204107141]
-# name:be: []
-msgid ""Дендропарк""
+# Objects : [w204117718]
+# name:be: [Алея герояў]
+msgid "Алея героев"
 msgstr ""
 
-# Objects : [w204117718]
-# name:be: []
-msgid "Парк. Алея героев"
+# Objects : [w204107141]
+# name:be: [Дэндрапарк]
+msgid "Дендропарк"
 msgstr ""
 
 # Objects : [w210001707]
-# name:be: []
+# name:be: [Школьны парк]
 msgid "Школьный парк"
 msgstr ""
 

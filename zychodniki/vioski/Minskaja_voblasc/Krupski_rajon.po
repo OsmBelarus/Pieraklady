@@ -38,7 +38,7 @@ msgstr ""
 msgid "Берёзовка"
 msgstr ""
 
-# Objects : [n242979065, r4785825]
+# Objects : [n242979065, n3488903460, r4785825, w289494524]
 # name:be: [Бобр]
 msgid "Бобр"
 msgstr ""
@@ -46,6 +46,16 @@ msgstr ""
 # Objects : [n243032006, w25105153]
 # name:be: [Бобрык]
 msgid "Бобрик"
+msgstr ""
+
+# Objects : [n243029231, w25106917]
+# name:be: [Вялікае Горадна]
+msgid "Большое Городно"
+msgstr ""
+
+# Objects : [n243027390, w25106111]
+# name:be: [Вялікі Вязок]
+msgid "Большой Вязок"
 msgstr ""
 
 # Objects : [n243029092, w25107661]
@@ -98,11 +108,6 @@ msgstr ""
 msgid "Великие Хольневичи"
 msgstr ""
 
-# Objects : [n243027390, w25106111]
-# name:be: [Вялікі Вязок]
-msgid "Великий Вязок"
-msgstr ""
-
 # Objects : [n243029083, w25106851]
 # name:be: [Вялікі Каменец]
 msgid "Великий Каменец"
@@ -111,11 +116,6 @@ msgstr ""
 # Objects : [n243027539, w25106102]
 # name:be: [Вялікі Лес]
 msgid "Великий Лес"
-msgstr ""
-
-# Objects : [n243029231, w25106917]
-# name:be: [Вялікае Горадна]
-msgid "Великое Городно"
 msgstr ""
 
 # Objects : [n243024695, w25107714]
@@ -1103,7 +1103,7 @@ msgstr ""
 msgid "Шинки"
 msgstr ""
 
-# Objects : [n243029167]
+# Objects : [n243029167, w134095673]
 # name:be: [Шыялоўка]
 msgid "Шияловка"
 msgstr ""

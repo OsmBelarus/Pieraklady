@@ -780,7 +780,7 @@ msgstr ""
 
 # Objects : [n242992149, r4004464]
 # name:be: [Ліпнішкі]
-msgid "Липнишки"
+msgid "Ліпнішкі"
 msgstr ""
 
 # Objects : [n242993347, w25139078]
@@ -856,11 +856,6 @@ msgstr ""
 # Objects : [n242993220, w25139027]
 # name:be: [Мажулі]
 msgid "Мажули"
-msgstr ""
-
-# Objects : [n242995189, w25138037]
-# name:be: [Макары]
-msgid "Макары"
 msgstr ""
 
 # Objects : [n242995099, w25138119]
@@ -1008,7 +1003,7 @@ msgstr ""
 msgid "Новая Березина"
 msgstr ""
 
-# Objects : [n242992137, w25139772]
+# Objects : [n242992137]
 # name:be: [Новая Вергань]
 msgid "Новая Вергань"
 msgstr ""
@@ -1288,11 +1283,6 @@ msgstr ""
 msgid "Сеньковичи"
 msgstr ""
 
-# Objects : [n2724847254, w267003786]
-# name:be: []
-msgid "Сергеевка"
-msgstr ""
-
 # Objects : [n3325969330, w200487140]
 # name:be: [Сібір]
 msgid "Сибирь"
@@ -1463,7 +1453,7 @@ msgstr ""
 msgid "Цепеняты"
 msgstr ""
 
-# Objects : [n242992131, w25139770]
+# Objects : [n242992131]
 # name:be: [Чабрынь]
 msgid "Чабрынь"
 msgstr ""

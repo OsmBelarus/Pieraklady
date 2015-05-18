@@ -88,6 +88,11 @@ msgstr ""
 msgid "3-й Железнодорожный переулок"
 msgstr ""
 
+# Objects : [w25244874]
+# name:be: [3-і Садовы завулак]
+msgid "3-й Садовый переулок"
+msgstr ""
+
 # Objects : [w216617511]
 # name:be: []
 msgid "3-я Пролетарская улица"
@@ -288,6 +293,11 @@ msgstr ""
 msgid "Жемчужная 2-я Улица"
 msgstr ""
 
+# Objects : [w25245485]
+# name:be: []
+msgid "Жемчужная 3-я Улица"
+msgstr ""
+
 # Objects : [w169018154, w235380246, w25240851]
 # name:be: []
 msgid "Жемчужная улица"
@@ -303,7 +313,7 @@ msgstr ""
 msgid "Заводская улица"
 msgstr ""
 
-# Objects : [w25245466]
+# Objects : [w25245466, w342907474]
 # name:be: []
 msgid "Западная улица"
 msgstr ""
@@ -573,6 +583,11 @@ msgstr ""
 msgid "пер. 3 Садовый"
 msgstr ""
 
+# Objects : [w341708341]
+# name:be: []
+msgid "пер. Полевой"
+msgstr ""
+
 # Objects : [w232851566, w25240478, w25241390]
 # name:be: []
 msgid "Первомайская улица"
@@ -728,7 +743,7 @@ msgstr ""
 msgid "Радужный 1-й переулок"
 msgstr ""
 
-# Objects : [w217109984, w227623352, w232120436, w232120437, w25241988, w25245472, w25245485, w25245488]
+# Objects : [w217109984, w227623352, w232120436, w232120437, w25241988, w25245472, w25245488]
 # name:be: []
 msgid "Речная улица"
 msgstr ""
@@ -913,6 +928,11 @@ msgstr ""
 msgid "улица Орловского"
 msgstr ""
 
+# Objects : [w338591470]
+# name:be: []
+msgid "улица Печеринка"
+msgstr ""
+
 # Objects : [w324986352, w324986353]
 # name:be: []
 msgid "улица Подгорная"
@@ -1003,7 +1023,7 @@ msgstr ""
 msgid "Школьный переулок"
 msgstr ""
 
-# Objects : [w187901596, w205059728, w331332415]
+# Objects : [w187901596, w331332415, w345703065]
 # name:be: []
 msgid "Шоссейная улица"
 msgstr ""

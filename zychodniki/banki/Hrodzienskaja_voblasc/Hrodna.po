@@ -8,7 +8,7 @@ msgstr ""
 msgid "Абсолютбанк"
 msgstr ""
 
-# Objects : [w33554566]
+# Objects : [n1257993798, w33554566]
 # name:be: [Альфа-Банк]
 msgid "Альфа-Банк"
 msgstr ""
@@ -76,11 +76,6 @@ msgstr ""
 # Objects : [n1257952009]
 # name:be: []
 msgid "Белорусский Банк Малого Бизнеса"
-msgstr ""
-
-# Objects : [n1257993798]
-# name:be: [Белрасбанк]
-msgid "Белросбанк"
 msgstr ""
 
 # Objects : [n1249994752, n387411494]

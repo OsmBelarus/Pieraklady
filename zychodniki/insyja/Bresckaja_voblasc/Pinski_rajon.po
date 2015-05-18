@@ -103,6 +103,11 @@ msgstr ""
 msgid "Невель"
 msgstr ""
 
+# Objects : [n3514724910]
+# name:be: []
+msgid "ОАО «Пинский винодельческий завод»"
+msgstr ""
+
 # Objects : [n306069552]
 # name:be: [Парахонск]
 msgid "Парохонск"

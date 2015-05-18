@@ -223,6 +223,11 @@ msgstr ""
 msgid "Рогачев"
 msgstr ""
 
+# Objects : [r3551849]
+# name:be: [Рагачоў]
+msgid "Рогачёв"
+msgstr ""
+
 # Objects : [n577336345]
 # name:be: []
 msgid "Рогачевская ЦРБ"
@@ -246,6 +251,11 @@ msgstr ""
 # Objects : [w263308561]
 # name:be: []
 msgid "РЭС"
+msgstr ""
+
+# Objects : [w262196879, w263450831, w263450832, w263450835, w263450837, w263450838]
+# name:be: []
+msgid "Сарай"
 msgstr ""
 
 # Objects : [n577626755]

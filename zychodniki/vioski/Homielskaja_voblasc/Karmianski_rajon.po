@@ -28,7 +28,7 @@ msgstr ""
 msgid "Берестовец"
 msgstr ""
 
-# Objects : [n243042330, w25084991, w25085002]
+# Objects : [n243042330, r4850999]
 # name:be: [Багданавічы]
 msgid "Богдановичи"
 msgstr ""
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Замошье"
 msgstr ""
 
-# Objects : [n243046082, w25083158, w25083162]
+# Objects : [n243046082, r5143526]
 # name:be: [Залатаміно]
 msgid "Золотомино"
 msgstr ""
@@ -503,7 +503,7 @@ msgstr ""
 msgid "Шереховская Буда"
 msgstr ""
 
-# Objects : [n243042307, w25083222, w25084877]
+# Objects : [n243042307, r5143552]
 # name:be: [Янаўка]
 msgid "Яновка"
 msgstr ""

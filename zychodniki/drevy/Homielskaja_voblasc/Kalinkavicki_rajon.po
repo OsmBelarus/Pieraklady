@@ -1,3 +1,8 @@
+# Objects : [w306992554]
+# name:be: [Гарохавае ўрочышча]
+msgid "Гороховое урочище"
+msgstr ""
+
 # Objects : [n2781015046]
 # name:be: []
 msgid "Дуб"
@@ -9,7 +14,7 @@ msgid "площадь Ленина"
 msgstr ""
 
 # Objects : [w288505239]
-# name:be: []
+# name:be: [Сядзібны парк]
 msgid "Приусадебный парк"
 msgstr ""
 
@@ -18,14 +23,9 @@ msgstr ""
 msgid "урочище Большое городище"
 msgstr ""
 
-# Objects : [w306992554]
-# name:be: []
-msgid "урочище Гороховое"
-msgstr ""
-
 # Objects : [r382515]
-# name:be: []
-msgid "урочище Гребля"
+# name:be: [Урочышча Грэбля]
+msgid "Урочище Гребля"
 msgstr ""
 
 # Objects : [w234529367]
@@ -44,7 +44,7 @@ msgid "урочище Корма"
 msgstr ""
 
 # Objects : [r536971]
-# name:be: []
+# name:be: [Урочышча Новая Зямля]
 msgid "Урочище Новая Земля"
 msgstr ""
 

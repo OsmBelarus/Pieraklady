@@ -8,16 +8,16 @@
       <tuv lang="BE"><seg>Верасы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>"Пилот"</seg></tuv>
-      <tuv lang="BE"><seg>"Пілот"</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>"Родник"</seg></tuv>
       <tuv lang="BE"><seg>«Крыніца»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>"Союзпечать"</seg></tuv>
       <tuv lang="BE"><seg>Саюздрук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>«Виктория»</seg></tuv>
+      <tuv lang="BE"><seg>«Вікторыя»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>1000 мелочей</seg></tuv>
@@ -126,10 +126,6 @@
     <tu>
       <tuv lang="RU"><seg>Life:)</seg></tuv>
       <tuv lang="BE"><seg>Life:)</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Life Три кита</seg></tuv>
-      <tuv lang="BE"><seg>Life Тры кіты</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Mark Formelle (магазин одежды и нижнего белья)</seg></tuv>
@@ -336,6 +332,10 @@
       <tuv lang="BE"><seg>Азарэнне</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Азбука красоты</seg></tuv>
+      <tuv lang="BE"><seg>Азбука прыгажосці</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Азбука Красоты</seg></tuv>
       <tuv lang="BE"><seg>Азбука прыгажосці</seg></tuv>
     </tu>
@@ -365,7 +365,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Алми</seg></tuv>
-      <tuv lang="BE"><seg>Гастраном</seg></tuv>
+      <tuv lang="BE"><seg>[Алмі, Гастраном]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>АЛМИ</seg></tuv>
@@ -518,10 +518,6 @@
     <tu>
       <tuv lang="RU"><seg>Берёзка</seg></tuv>
       <tuv lang="BE"><seg>Бярозка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>БиМарт</seg></tuv>
-      <tuv lang="BE"><seg>БіМарт</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Биолита</seg></tuv>
@@ -732,6 +728,10 @@
       <tuv lang="BE"><seg>Веста № 70</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Веста № 84</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 84</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Веста № 88</seg></tuv>
       <tuv lang="BE"><seg>Веста № 88</seg></tuv>
     </tu>
@@ -788,20 +788,16 @@
       <tuv lang="BE"><seg>Віцебскія прадукты № 32</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Витебские продукты №4</seg></tuv>
-      <tuv lang="BE"><seg>Віцебскія прадукты №4</seg></tuv>
+      <tuv lang="RU"><seg>Витебские продукты № 4</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскія прадукты № 4</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Витебский хозторг</seg></tuv>
       <tuv lang="BE"><seg>Гаспадарчы гандаль</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Витебскоблресурсы</seg></tuv>
-      <tuv lang="BE"><seg>Віцебскаблрэсурсы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Витебскоблсоюзпечать</seg></tuv>
-      <tuv lang="BE"><seg>[Белсаюздрук, Вiцебскаблсаюздрук, Вицебскаблсаюздрук]</seg></tuv>
+      <tuv lang="BE"><seg>[Вiцебскаблсаюздрук, Вицебскаблсаюздрук]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Витязь</seg></tuv>
@@ -934,10 +930,6 @@
     <tu>
       <tuv lang="RU"><seg>Грузовой шиномонтаж</seg></tuv>
       <tuv lang="BE"><seg>Грузавы шынамантаж</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>ГУМ</seg></tuv>
-      <tuv lang="BE"><seg>ГУМ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Далида</seg></tuv>
@@ -1369,11 +1361,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кулинария</seg></tuv>
-      <tuv lang="BE"><seg>[Кулінарыя, Панскі  пачастунак]</seg></tuv>
+      <tuv lang="BE"><seg>[Кулінарыя, Панскі пачастунак]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кулинария, промтовары</seg></tuv>
       <tuv lang="BE"><seg>Кулінарыя, прамтавары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулинария «Колос»</seg></tuv>
+      <tuv lang="BE"><seg>Кулінарыя «Колас»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Купалинка</seg></tuv>
@@ -1582,6 +1578,10 @@
     <tu>
       <tuv lang="RU"><seg>Марта</seg></tuv>
       <tuv lang="BE"><seg>Марта</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мастер</seg></tuv>
+      <tuv lang="BE"><seg>Майстар</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>МастерВик</seg></tuv>
@@ -2012,10 +2012,6 @@
       <tuv lang="BE"><seg>Цырульня «Гламур»</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Парикмахерская «Виктория»</seg></tuv>
-      <tuv lang="BE"><seg>Цырульня «Вікторыя»</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Парикмахерская Де Франж</seg></tuv>
       <tuv lang="BE"><seg>Цырульня</seg></tuv>
     </tu>
@@ -2086,6 +2082,10 @@
     <tu>
       <tuv lang="RU"><seg>Пивной разлив</seg></tuv>
       <tuv lang="BE"><seg>Піўны разліў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пилот</seg></tuv>
+      <tuv lang="BE"><seg>Пілот</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пингвин</seg></tuv>
@@ -2169,7 +2169,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Продукты</seg></tuv>
-      <tuv lang="BE"><seg>Прадукты</seg></tuv>
+      <tuv lang="BE"><seg>[Прадукты, Продукты]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Продукты.ТУТ</seg></tuv>
@@ -2272,10 +2272,6 @@
       <tuv lang="BE"><seg>Юбілейны 92;Родны Кут</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Родничок</seg></tuv>
-      <tuv lang="BE"><seg>Крынічка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Родны кут</seg></tuv>
       <tuv lang="BE"><seg>Родны кут</seg></tuv>
     </tu>
@@ -2312,10 +2308,6 @@
       <tuv lang="BE"><seg>Рускае футра</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рыбак</seg></tuv>
-      <tuv lang="BE"><seg>Рыбак</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Рыбалка</seg></tuv>
       <tuv lang="BE"><seg>Рыбалка</seg></tuv>
     </tu>
@@ -2342,6 +2334,10 @@
     <tu>
       <tuv lang="RU"><seg>Салон мобильной связи "Сотос"</seg></tuv>
       <tuv lang="BE"><seg>Продаж мабільных тэлефонаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Салон обуви</seg></tuv>
+      <tuv lang="BE"><seg>ГУМ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Салон оптики</seg></tuv>
@@ -2680,10 +2676,6 @@
       <tuv lang="BE"><seg>Тавары для дома</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Товары для спорта охоты рыбалки</seg></tuv>
-      <tuv lang="BE"><seg>Тавары для спорту і турызму</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Топаз</seg></tuv>
       <tuv lang="BE"><seg>Тапаз</seg></tuv>
     </tu>
@@ -2778,14 +2770,6 @@
     <tu>
       <tuv lang="RU"><seg>Универсам "Сельмашевский"</seg></tuv>
       <tuv lang="BE"><seg>Універсам "Сельмашаўскі"</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Универсам «Замкавы»</seg></tuv>
-      <tuv lang="BE"><seg>Універсам «Замкавы»</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Универсам «Рублёвский» №126</seg></tuv>
-      <tuv lang="BE"><seg>Універсам «Рублёўскі» №126</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Универсам на АЗС</seg></tuv>
@@ -2917,7 +2901,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Царское золото</seg></tuv>
-      <tuv lang="BE"><seg>Рускае золата</seg></tuv>
+      <tuv lang="BE"><seg>Царскае золата</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветок</seg></tuv>

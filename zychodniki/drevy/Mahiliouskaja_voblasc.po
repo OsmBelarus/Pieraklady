@@ -1,15 +1,15 @@
 # Objects : [w284982397]
-# name:be: []
+# name:be: [Дзіцячы парк]
 msgid "Детский парк"
 msgstr ""
 
-# Objects : [r3138457]
-# name:be: []
-msgid "Свято-Никольский сквер"
+# Objects : [w135175748]
+# name:be: [Камсамольскі сквер]
+msgid "Комсомольский сквер"
 msgstr ""
 
-# Objects : [w135175748]
-# name:be: []
-msgid "Сквер Комсомольский"
+# Objects : [r3138457]
+# name:be: [Свята-Нікольскі сквер]
+msgid "Свято-Никольский сквер"
 msgstr ""
 

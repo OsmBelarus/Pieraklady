@@ -23,7 +23,7 @@ msgstr ""
 msgid "Ананино"
 msgstr ""
 
-# Objects : [n243043805, n2810475065, w25088119]
+# Objects : [n2810475065, w25088119]
 # name:be: [Андронавічы]
 msgid "Андроновичи"
 msgstr ""
@@ -1433,11 +1433,6 @@ msgstr ""
 msgid "Слобода"
 msgstr ""
 
-# Objects : [n3207127461, w333578074]
-# name:be: [Слабада Жукаўская]
-msgid "Слобода Жуковская"
-msgstr ""
-
 # Objects : [n243042792, w25083944]
 # name:be: [Сабалёва]
 msgid "Соболёво"
@@ -1448,7 +1443,7 @@ msgstr ""
 msgid "Сокольники"
 msgstr ""
 
-# Objects : [n243043690, n243043704, w25088218, w35813345]
+# Objects : [n243043690, r4850136]
 # name:be: [Сасноўка]
 msgid "Сосновка"
 msgstr ""
@@ -1456,6 +1451,11 @@ msgstr ""
 # Objects : [n243046723, w25082385]
 # name:be: [Стайкі]
 msgid "Стайки"
+msgstr ""
+
+# Objects : [n2357543363, w25090461]
+# name:be: [Станцыя Лужасна]
+msgid "Станция Лужесно"
 msgstr ""
 
 # Objects : [n243043829, w25088187]

@@ -418,7 +418,7 @@ msgstr ""
 msgid "с/т Керамин"
 msgstr ""
 
-# Objects : [w315258817]
+# Objects : [w343430902]
 # name:be: []
 msgid "с/т Птичь-2"
 msgstr ""
@@ -426,6 +426,11 @@ msgstr ""
 # Objects : [w284423304]
 # name:be: []
 msgid "С/т Ракета"
+msgstr ""
+
+# Objects : [n1453592208, r2346587]
+# name:be: []
+msgid "С.Т. Вершина"
 msgstr ""
 
 # Objects : [w192487755]
@@ -441,6 +446,11 @@ msgstr ""
 # Objects : [w279538855]
 # name:be: []
 msgid "Свиноферма"
+msgstr ""
+
+# Objects : [w252408559]
+# name:be: []
+msgid "СТ "Автострада""
 msgstr ""
 
 # Objects : [n306062873, n3347924806, n3347924807]

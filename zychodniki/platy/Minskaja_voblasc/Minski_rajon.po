@@ -28,11 +28,6 @@ msgstr ""
 msgid "Госпиталь ВОВ"
 msgstr ""
 
-# Objects : [w27949049]
-# name:be: []
-msgid "ГСПК карьер"
-msgstr ""
-
 # Objects : [w41314168]
 # name:be: []
 msgid "Детская деревня SOS"
@@ -51,6 +46,16 @@ msgstr ""
 # Objects : [r1626777]
 # name:be: []
 msgid "дол Лесная поляна (заброшен)"
+msgstr ""
+
+# Objects : [w161635069]
+# name:be: []
+msgid "Завод АМТ"
+msgstr ""
+
+# Objects : [w161804065]
+# name:be: []
+msgid "Зерноток"
 msgstr ""
 
 # Objects : [w151480359]

@@ -3,6 +3,11 @@
 msgid "1000 мелочей"
 msgstr ""
 
+# Objects : [n3512114388]
+# name:be: []
+msgid "CD Лайф"
+msgstr ""
+
 # Objects : [n1299525563]
 # name:be: []
 msgid "Legion Auto"
@@ -31,6 +36,11 @@ msgstr ""
 # Objects : [n824470281]
 # name:be: []
 msgid "Автомир"
+msgstr ""
+
+# Objects : [n3498522490]
+# name:be: []
+msgid "Алми"
 msgstr ""
 
 # Objects : [n1357108427]
@@ -86,11 +96,6 @@ msgstr ""
 # Objects : [n1288948841]
 # name:be: []
 msgid "Вяснянка"
-msgstr ""
-
-# Objects : [n1182853166]
-# name:be: []
-msgid "Галактика"
 msgstr ""
 
 # Objects : [n1142394750]
@@ -188,6 +193,11 @@ msgstr ""
 msgid "Магазин Дверей"
 msgstr ""
 
+# Objects : [n3512306845]
+# name:be: []
+msgid "Мега Топ"
+msgstr ""
+
 # Objects : [n1327670478]
 # name:be: []
 msgid "Мода"
@@ -233,7 +243,7 @@ msgstr ""
 msgid "Пралеска"
 msgstr ""
 
-# Objects : [n1145390535, n1182853238, n1328345457, n1332409600, n857400125]
+# Objects : [n1145390535, n1182853238, n1328345457, n1332409600]
 # name:be: [Прадукты]
 msgid "Продукты"
 msgstr ""
@@ -291,6 +301,11 @@ msgstr ""
 # Objects : [n1182881450]
 # name:be: []
 msgid "Смак"
+msgstr ""
+
+# Objects : [n3512306846]
+# name:be: []
+msgid "СмартДом"
 msgstr ""
 
 # Objects : [n1142500234]
@@ -361,6 +376,11 @@ msgstr ""
 # Objects : [n1327664405]
 # name:be: []
 msgid "Хоз. маг"
+msgstr ""
+
+# Objects : [n3512306847]
+# name:be: []
+msgid "Царское Золото"
 msgstr ""
 
 # Objects : [n1132729275, n1132811395]

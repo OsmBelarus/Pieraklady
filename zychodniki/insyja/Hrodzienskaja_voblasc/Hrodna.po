@@ -1023,11 +1023,6 @@ msgstr ""
 msgid "Вежливая улица"
 msgstr ""
 
-# Objects : [n320409966]
-# name:be: [Вялікая Альшанка]
-msgid "Великая Ольшанка"
-msgstr ""
-
 # Objects : [n3477232899]
 # name:be: []
 msgid "веломастерская Dr.Bike"
@@ -3633,6 +3628,11 @@ msgstr ""
 msgid "Отделение по гражданству и миграции"
 msgstr ""
 
+# Objects : [n3515149983]
+# name:be: []
+msgid "Отдел метрологии Гродненского ЦСМС"
+msgstr ""
+
 # Objects : [n2827441960]
 # name:be: []
 msgid "Отдел уголовного розыска"
@@ -4768,7 +4768,7 @@ msgstr ""
 msgid "СУ-24МР"
 msgstr ""
 
-# Objects : [n2621931686]
+# Objects : [n3504437098]
 # name:be: [Суд Гродзенскага раёна]
 msgid "Суд Гродненского района"
 msgstr ""
@@ -4816,11 +4816,6 @@ msgstr ""
 # Objects : [n523866085]
 # name:be: []
 msgid "Танк Т-34"
-msgstr ""
-
-# Objects : [n320409940]
-# name:be: [Тарусічы]
-msgid "Тарусичи"
 msgstr ""
 
 # Objects : [r3685809]
@@ -6511,11 +6506,6 @@ msgstr ""
 # Objects : [r2530475]
 # name:be: [Чарнічная вуліца]
 msgid "Черничная улица"
-msgstr ""
-
-# Objects : [n320409374]
-# name:be: [Чашчаўляны]
-msgid "Чещавляны"
 msgstr ""
 
 # Objects : [n3476026013]

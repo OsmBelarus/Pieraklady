@@ -183,11 +183,6 @@ msgstr ""
 msgid "Зал бокса"
 msgstr ""
 
-# Objects : [w25193713]
-# name:be: []
-msgid "Затонское"
-msgstr ""
-
 # Objects : [n3386014725]
 # name:be: []
 msgid "Искра"
@@ -246,6 +241,11 @@ msgstr ""
 # Objects : [n3390958363]
 # name:be: []
 msgid "Летний домик "Великий бор""
+msgstr ""
+
+# Objects : [w25189220]
+# name:be: []
+msgid "Лошницы"
 msgstr ""
 
 # Objects : [w245979208, w272447319, w283111289, w284610238]

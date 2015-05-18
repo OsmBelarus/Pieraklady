@@ -568,14 +568,14 @@ msgstr ""
 msgid "Перки"
 msgstr ""
 
-# Objects : [n242983741, w25144948]
+# Objects : [n242983737, w25145561]
 # name:be: [Пескі]
 msgid "Пески"
 msgstr ""
 
-# Objects : [n242983737, w25145561]
-# name:be: []
-msgid "Пески 2"
+# Objects : [n242983741, w25144948]
+# name:be: [Пескі 1]
+msgid "Пески 1"
 msgstr ""
 
 # Objects : [n242981862, w25145503]

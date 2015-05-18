@@ -843,11 +843,6 @@ msgstr ""
 msgid "Литовчики"
 msgstr ""
 
-# Objects : [n243023806, w25120404]
-# name:be: [Лазоўка]
-msgid "Лозовка"
-msgstr ""
-
 # Objects : [n1656677288, w152893481]
 # name:be: [Лоншчына]
 msgid "Лонщино"
@@ -1223,11 +1218,6 @@ msgstr ""
 msgid "Пруды"
 msgstr ""
 
-# Objects : [n243018186, w25125929]
-# name:be: [Пціцкія]
-msgid "Птицкие"
-msgstr ""
-
 # Objects : [n243019800, w25124392]
 # name:be: [Пугаўкі]
 msgid "Пуговки"
@@ -1311,11 +1301,6 @@ msgstr ""
 # Objects : [n243019730, w25124381]
 # name:be: [Рунды]
 msgid "Рунды"
-msgstr ""
-
-# Objects : [n1656529403, w152873200]
-# name:be: [Рускае Сяло]
-msgid "Русское Село"
 msgstr ""
 
 # Objects : [n243013587, w25127078]

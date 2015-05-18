@@ -63,6 +63,11 @@ msgstr ""
 msgid "Детская школа искусств"
 msgstr ""
 
+# Objects : [w66846899]
+# name:be: []
+msgid "Дом ремесленника"
+msgstr ""
+
 # Objects : [w107958190]
 # name:be: []
 msgid "Заготскот"
@@ -118,6 +123,11 @@ msgstr ""
 msgid "ОАО "Поставский молочный завод""
 msgstr ""
 
+# Objects : [w119775105]
+# name:be: []
+msgid "ООО «Стильный дом»"
+msgstr ""
+
 # Objects : [r4730807]
 # name:be: []
 msgid "Отдел пограничной службы "Поставы""
@@ -138,6 +148,11 @@ msgstr ""
 msgid "Памятник польским солдатам"
 msgstr ""
 
+# Objects : [w179496995]
+# name:be: []
+msgid "Пожарный водоем"
+msgstr ""
+
 # Objects : [w339921478]
 # name:be: []
 msgid "Поставский мебельный центр"
@@ -151,6 +166,11 @@ msgstr ""
 # Objects : [n3471061795]
 # name:be: []
 msgid "ПостКамень ООО"
+msgstr ""
+
+# Objects : [w345711187]
+# name:be: []
+msgid "ПТУП "Фрешфудпак""
 msgstr ""
 
 # Objects : [w137590973]
@@ -181,6 +201,11 @@ msgstr ""
 # Objects : [n2788686528]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w158841802]
+# name:be: []
+msgid "Цех"
 msgstr ""
 
 # Objects : [w137587474]

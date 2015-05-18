@@ -83,6 +83,16 @@ msgstr ""
 msgid "улица Зеленая"
 msgstr ""
 
+# Objects : [w93938296]
+# name:be: []
+msgid "улица имени Коперника"
+msgstr ""
+
+# Objects : [w232959038]
+# name:be: []
+msgid "улица имени Скорины"
+msgstr ""
+
 # Objects : [w25579357, w95791249]
 # name:be: [вуліца Карла Лібкнехта]
 msgid "улица Карла Либкнехта"

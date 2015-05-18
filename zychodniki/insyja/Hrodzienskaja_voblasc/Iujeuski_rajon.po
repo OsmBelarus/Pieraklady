@@ -1,6 +1,16 @@
+# Objects : [w262094317]
+# name:be: []
+msgid "Aстравок"
+msgstr ""
+
 # Objects : [w262045853, w292869023]
 # name:be: []
 msgid "cвалка"
+msgstr ""
+
+# Objects : [w262047254]
+# name:be: []
+msgid "ачышчальныя збудаванні"
 msgstr ""
 
 # Objects : [n2595877148, w253695679]
@@ -93,11 +103,6 @@ msgstr ""
 msgid "Кладбище католическое"
 msgstr ""
 
-# Objects : [n2788681190]
-# name:be: [Могілкі каталіцкія. Капліца]
-msgid "Кладбище католическое. Часовня"
-msgstr ""
-
 # Objects : [n2788681499]
 # name:be: [Могілкі старыя]
 msgid "Кладбище старое"
@@ -148,19 +153,34 @@ msgstr ""
 msgid "Кузьмянка"
 msgstr ""
 
-# Objects : [w262044821]
-# name:be: []
-msgid "Лесничество"
-msgstr ""
-
 # Objects : [r3798390]
 # name:be: []
 msgid "Липнишковский сельский Совет"
 msgstr ""
 
+# Objects : [n2677660600]
+# name:be: [Ліпнішкаўскі сельвыканкам]
+msgid "Ліпнішкаўскі сельвыканкам"
+msgstr ""
+
 # Objects : [n242995136, w25138089]
 # name:be: [Лойбішкі]
 msgid "Лойбишки"
+msgstr ""
+
+# Objects : [w262044821]
+# name:be: []
+msgid "Лясніцтва"
+msgstr ""
+
+# Objects : [w262034022]
+# name:be: [могілкі]
+msgid "могілкі"
+msgstr ""
+
+# Objects : [n2788681190]
+# name:be: [Могілкі каталіцкія. Капліца]
+msgid "Могілкі каталіцкія"
 msgstr ""
 
 # Objects : [n2766457415, w271699056]
@@ -188,6 +208,11 @@ msgstr ""
 msgid "НЕМАН"
 msgstr ""
 
+# Objects : [w25139772]
+# name:be: [Новая Вергань]
+msgid "Новая Вергань"
+msgstr ""
+
 # Objects : [n2766461195, w271699227]
 # name:be: [Аглоблішкі]
 msgid "Оглоблишки"
@@ -201,11 +226,6 @@ msgstr ""
 # Objects : [n2104866690, w25137100]
 # name:be: [Восігіры]
 msgid "Осигиры"
-msgstr ""
-
-# Objects : [n1280353815]
-# name:be: [Помнік]
-msgid "Памятник"
 msgstr ""
 
 # Objects : [n1555752734]
@@ -228,6 +248,11 @@ msgstr ""
 msgid "Петухово"
 msgstr ""
 
+# Objects : [n1280353815]
+# name:be: [Помнік]
+msgid "Помнік"
+msgstr ""
+
 # Objects : [n2104866692, w25137122]
 # name:be: [Посалі]
 msgid "Посоли"
@@ -236,11 +261,6 @@ msgstr ""
 # Objects : [n2788683702]
 # name:be: [Прысядзібны парк пры былой сядзібе Корвінаў-Мілеўскіх]
 msgid "Приусадебный парк при бывшей усадьбе Корвин-Милевских"
-msgstr ""
-
-# Objects : [n2676906500]
-# name:be: []
-msgid "противопожарная вышка"
 msgstr ""
 
 # Objects : [w25186083]
@@ -278,6 +298,11 @@ msgstr ""
 msgid "Субботники"
 msgstr ""
 
+# Objects : [n2676906500]
+# name:be: []
+msgid "супрацьпажарная вышка"
+msgstr ""
+
 # Objects : [n242996565, w25136083]
 # name:be: [Сухі Барок]
 msgid "Сухой Борок"
@@ -288,14 +313,19 @@ msgstr ""
 msgid "Сябрыньское водохранилище"
 msgstr ""
 
-# Objects : [n306068751]
-# name:be: [Трабы]
-msgid "Трабы"
+# Objects : [n2677660311]
+# name:be: [сядзіба СВК «Агра-Ліпнішкі»]
+msgid "сядзіба СВК «Агра-Ліпнішкі»"
 msgstr ""
 
 # Objects : [n2788684625]
 # name:be: [Сядзібна-паркавы комплекс]
-msgid "Усадебно-парковый комплекс"
+msgid "Сядзібна-паркавы комплекс"
+msgstr ""
+
+# Objects : [n306068751]
+# name:be: [Трабы]
+msgid "Трабы"
 msgstr ""
 
 # Objects : [n2788684872]
@@ -356,6 +386,11 @@ msgstr ""
 # Objects : [n2788686806]
 # name:be: [Царква Святых апосталаў Пятра й Паўла]
 msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [w25139770]
+# name:be: [Чабрынь]
+msgid "Чабрынь"
 msgstr ""
 
 # Objects : [n2788687680, n2788687694]

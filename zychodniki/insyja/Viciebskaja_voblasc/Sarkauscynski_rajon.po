@@ -3,14 +3,14 @@
 msgid "Авласы"
 msgstr ""
 
-# Objects : [n243018545, w25125965]
-# name:be: [Бяляны]
-msgid "Беляны"
+# Objects : [r4867828]
+# name:be: []
+msgid "бол. Жада"
 msgstr ""
 
 # Objects : [r3555456]
 # name:be: []
-msgid "Болото Мох"
+msgid "бол. Мох"
 msgstr ""
 
 # Objects : [n2788680160, n2788680162, n2788680163]
@@ -41,11 +41,6 @@ msgstr ""
 # Objects : [n2788680505]
 # name:be: [Царква Святога прарока Іллі]
 msgid "Илии"
-msgstr ""
-
-# Objects : [w25200187]
-# name:be: [воз. Ілава]
-msgid "Илово"
 msgstr ""
 
 # Objects : [n2788681220, n2788681223]
@@ -108,11 +103,6 @@ msgstr ""
 msgid "Молельный дом староверов"
 msgstr ""
 
-# Objects : [w23004108]
-# name:be: []
-msgid "Мох"
-msgstr ""
-
 # Objects : [n494144803]
 # name:be: []
 msgid "Музей Ивана Сикоры"
@@ -136,11 +126,6 @@ msgstr ""
 # Objects : [w231886357]
 # name:be: []
 msgid "Очистные сооружения"
-msgstr ""
-
-# Objects : [n243018629]
-# name:be: [Пішчалёўка]
-msgid "Пищалёвка"
 msgstr ""
 
 # Objects : [n2788684227]
@@ -196,10 +181,5 @@ msgstr ""
 # Objects : [n494139252]
 # name:be: []
 msgid "Этнографический музей имени Язэпа Драздовича"
-msgstr ""
-
-# Objects : [w25198305]
-# name:be: []
-msgid "Яжгиня"
 msgstr ""
 

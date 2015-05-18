@@ -23,7 +23,7 @@ msgstr ""
 msgid "Александровка"
 msgstr ""
 
-# Objects : [n243034048, n306064168, w25097219]
+# Objects : [n306064168]
 # name:be: [Бабічы]
 msgid "Бабичи"
 msgstr ""
@@ -171,6 +171,11 @@ msgstr ""
 # Objects : [n2686057043]
 # name:be: []
 msgid "дер.Милоград"
+msgstr ""
+
+# Objects : [n3498619651]
+# name:be: []
+msgid "Днеприк"
 msgstr ""
 
 # Objects : [n2684760909]

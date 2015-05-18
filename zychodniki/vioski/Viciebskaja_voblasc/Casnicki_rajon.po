@@ -473,7 +473,7 @@ msgstr ""
 msgid "Заречная"
 msgstr ""
 
-# Objects : [n243027019]
+# Objects : [n243027019, w341743081]
 # name:be: [Зарэчная Слабада]
 msgid "Заречная Слобода"
 msgstr ""
@@ -558,7 +558,7 @@ msgstr ""
 msgid "Константиново"
 msgstr ""
 
-# Objects : [n243027017]
+# Objects : [n243027017, w341743082]
 # name:be: [Копцевічы]
 msgid "Коптевичи"
 msgstr ""
@@ -693,7 +693,7 @@ msgstr ""
 msgid "Медведск"
 msgstr ""
 
-# Objects : [n1609778413, w25105120, w25106031]
+# Objects : [n1609778413, w25105120]
 # name:be: [Мялешкавічы]
 msgid "Мелешковичи"
 msgstr ""

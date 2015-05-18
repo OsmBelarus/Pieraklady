@@ -8,9 +8,19 @@ msgstr ""
 msgid "Д/К"
 msgstr ""
 
+# Objects : [w344459597]
+# name:be: []
+msgid "Клуб"
+msgstr ""
+
 # Objects : [w296566581]
 # name:be: []
 msgid "Контора"
+msgstr ""
+
+# Objects : [w344459598]
+# name:be: []
+msgid "Магазин"
 msgstr ""
 
 # Objects : [w296566585]

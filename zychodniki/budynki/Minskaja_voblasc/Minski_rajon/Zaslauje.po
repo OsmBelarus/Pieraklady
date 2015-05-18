@@ -43,11 +43,6 @@ msgstr ""
 msgid "Налоговая инспекция г. Заславль"
 msgstr ""
 
-# Objects : [w136280244]
-# name:be: []
-msgid "Офисное здание Енисей"
-msgstr ""
-
 # Objects : [w79721049]
 # name:be: [Паліклініка]
 msgid "Поликлиника"

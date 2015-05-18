@@ -60,6 +60,10 @@
       <tuv lang="BE"><seg>р. Альзініца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Апіта</seg></tuv>
+      <tuv lang="BE"><seg>Апіта</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аута</seg></tuv>
       <tuv lang="BE"><seg>Авута</seg></tuv>
     </tu>
@@ -148,6 +152,10 @@
       <tuv lang="BE"><seg>Білеіца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бирвета</seg></tuv>
+      <tuv lang="BE"><seg>Бирвета</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бобр</seg></tuv>
       <tuv lang="BE"><seg>Бобр</seg></tuv>
     </tu>
@@ -206,6 +214,10 @@
     <tu>
       <tuv lang="RU"><seg>Вавюрка</seg></tuv>
       <tuv lang="BE"><seg>Вавёрка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>вдхр. Вяча</seg></tuv>
+      <tuv lang="BE"><seg>вдсх. Вяча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>вдхр. Криница</seg></tuv>
@@ -300,8 +312,8 @@
       <tuv lang="BE"><seg>р. Валынка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ворле (Ворлес)</seg></tuv>
-      <tuv lang="BE"><seg>Ворле (Ворлес)</seg></tuv>
+      <tuv lang="RU"><seg>Ворле</seg></tuv>
+      <tuv lang="BE"><seg>Ворле</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Воронка</seg></tuv>
@@ -350,6 +362,10 @@
     <tu>
       <tuv lang="RU"><seg>Гаружанка</seg></tuv>
       <tuv lang="BE"><seg>Гаружанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гаўя</seg></tuv>
+      <tuv lang="BE"><seg>Гаўя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>главный канал Вилейско-Минской водной системы</seg></tuv>
@@ -422,6 +438,10 @@
     <tu>
       <tuv lang="RU"><seg>Громоть</seg></tuv>
       <tuv lang="BE"><seg>р. Громаць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гуйка</seg></tuv>
+      <tuv lang="BE"><seg>Гуйка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дворище</seg></tuv>
@@ -1309,7 +1329,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Вогзино</seg></tuv>
-      <tuv lang="BE"><seg>воз Вогзіна</seg></tuv>
+      <tuv lang="BE"><seg>воз. Вогзіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Волконька</seg></tuv>
@@ -1322,6 +1342,10 @@
     <tu>
       <tuv lang="RU"><seg>оз.Волосно</seg></tuv>
       <tuv lang="BE"><seg>воз. Воласна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Воронь</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ворань</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Вослепно</seg></tuv>
@@ -1342,6 +1366,10 @@
     <tu>
       <tuv lang="RU"><seg>оз. Вымно (спортивное)</seg></tuv>
       <tuv lang="BE"><seg>воз. Вымна (спартыўнае)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Высокое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Высокае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Вышедское</seg></tuv>
@@ -1388,12 +1416,16 @@
       <tuv lang="BE"><seg>воз. Міхалінава (Грабеніцкае)</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Дворище</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дворышча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Девинское</seg></tuv>
       <tuv lang="BE"><seg>воз. Дзевінскае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Девичье</seg></tuv>
-      <tuv lang="BE"><seg>Дзявочае воз.</seg></tuv>
+      <tuv lang="BE"><seg>воз. Дзявочае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Добеевское</seg></tuv>
@@ -1422,6 +1454,10 @@
     <tu>
       <tuv lang="RU"><seg>оз. Дубровское</seg></tuv>
       <tuv lang="BE"><seg>воз. Дубраўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Ельня</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ельня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Ершово</seg></tuv>
@@ -1494,6 +1530,10 @@
     <tu>
       <tuv lang="RU"><seg>оз. Зеленское</seg></tuv>
       <tuv lang="BE"><seg>воз. Зелянскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Илово</seg></tuv>
+      <tuv lang="BE"><seg>воз. Ілава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Исса</seg></tuv>
@@ -1784,6 +1824,10 @@
       <tuv lang="BE"><seg>воз. Азёркі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Окнистое</seg></tuv>
+      <tuv lang="BE"><seg>воз. Акністае</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Ольшанка</seg></tuv>
       <tuv lang="BE"><seg>воз. Альшанка</seg></tuv>
     </tu>
@@ -1802,6 +1846,10 @@
     <tu>
       <tuv lang="RU"><seg>оз. Оршино</seg></tuv>
       <tuv lang="BE"><seg>Оршына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Осиновка</seg></tuv>
+      <tuv lang="BE"><seg>воз. Асінаўка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Осиновское</seg></tuv>
@@ -1872,6 +1920,10 @@
       <tuv lang="BE"><seg>воз. Плесна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Плоское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Плоскае</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Подшапье</seg></tuv>
       <tuv lang="BE"><seg>Падшап'е</seg></tuv>
     </tu>
@@ -1902,6 +1954,10 @@
     <tu>
       <tuv lang="RU"><seg>оз. Разван</seg></tuv>
       <tuv lang="BE"><seg>воз. Разван</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Рашное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Рашнае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Рогово</seg></tuv>
@@ -2000,6 +2056,10 @@
       <tuv lang="BE"><seg>воз. Стрэшна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Суйковское</seg></tuv>
+      <tuv lang="BE"><seg>воз. Суйкаўскае</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Сукременское</seg></tuv>
       <tuv lang="BE"><seg>Сукрэменскае воз.</seg></tuv>
     </tu>
@@ -2052,6 +2112,10 @@
       <tuv lang="BE"><seg>воз. Улазавіцкае</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Урода</seg></tuv>
+      <tuv lang="BE"><seg>воз. Урада</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Усая</seg></tuv>
       <tuv lang="BE"><seg>воз. Усая</seg></tuv>
     </tu>
@@ -2076,12 +2140,20 @@
       <tuv lang="BE"><seg>воз. Чарбамысла</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>оз. Чёрная Урода</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чорная Урада</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>оз. Черница</seg></tuv>
       <tuv lang="BE"><seg>воз. Чарніца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Черново</seg></tuv>
       <tuv lang="BE"><seg>воз. Чарнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>оз. Чёрное</seg></tuv>
+      <tuv lang="BE"><seg>воз. Чорнае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>оз. Чёрное Болото</seg></tuv>
@@ -2226,10 +2298,6 @@
     <tu>
       <tuv lang="RU"><seg>озеро Озерко</seg></tuv>
       <tuv lang="BE"><seg>возера Азярко</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>озеро Окнистое</seg></tuv>
-      <tuv lang="BE"><seg>возера Акністае</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>озеро Окно</seg></tuv>
@@ -2382,6 +2450,10 @@
     <tu>
       <tuv lang="RU"><seg>Островлянка</seg></tuv>
       <tuv lang="BE"><seg>р. Астраўлянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Острошицкое вдхр.</seg></tuv>
+      <tuv lang="BE"><seg>Астрашыцкае вдсх.</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ошмянка</seg></tuv>

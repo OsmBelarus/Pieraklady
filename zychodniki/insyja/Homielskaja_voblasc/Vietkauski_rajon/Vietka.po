@@ -78,6 +78,11 @@ msgstr ""
 msgid "ОАО   «Ветковская хлопкопрядильная фабрика»"
 msgstr ""
 
+# Objects : [n3502403264]
+# name:be: []
+msgid "Столб"
+msgstr ""
+
 # Objects : [w318066847]
 # name:be: []
 msgid "ТП"

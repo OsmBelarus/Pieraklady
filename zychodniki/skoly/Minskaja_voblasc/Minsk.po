@@ -33,11 +33,6 @@ msgstr ""
 msgid "Автошкола "Автоштурман""
 msgstr ""
 
-# Objects : [n2528258708]
-# name:be: []
-msgid "Автошкола "Досааф""
-msgstr ""
-
 # Objects : [w25389868]
 # name:be: []
 msgid "Автошкола ЦАУК"
@@ -81,6 +76,11 @@ msgstr ""
 # Objects : [w159458201]
 # name:be: []
 msgid "Гимназия №12"
+msgstr ""
+
+# Objects : [w341489777]
+# name:be: []
+msgid "Гимназия №13"
 msgstr ""
 
 # Objects : [w226148459]
@@ -275,7 +275,7 @@ msgstr ""
 
 # Objects : [w330215598]
 # name:be: []
-msgid "Д/с №297"
+msgid "д/с №297"
 msgstr ""
 
 # Objects : [n2626939896]
@@ -286,6 +286,11 @@ msgstr ""
 # Objects : [n1159763566]
 # name:be: []
 msgid "Детская художественная школа № 1 им. В.К. Цвирко"
+msgstr ""
+
+# Objects : [w341489820]
+# name:be: []
+msgid "Детский сад - начальная школа №93"
 msgstr ""
 
 # Objects : [w87517409]
@@ -301,6 +306,11 @@ msgstr ""
 # Objects : [n2620202456]
 # name:be: []
 msgid "Йога"
+msgstr ""
+
+# Objects : [n3508968771]
+# name:be: []
+msgid "Лагерь «Acting Camp»"
 msgstr ""
 
 # Objects : [w25327538]
@@ -348,6 +358,11 @@ msgstr ""
 msgid "Минская киношкола-студия"
 msgstr ""
 
+# Objects : [n2723888926]
+# name:be: [Мінская школа кінамастацтва]
+msgid "Минская школа киноискусства"
+msgstr ""
+
 # Objects : [n569784280]
 # name:be: []
 msgid "Минский государственный профессиональный лицей № 5 транспортного строительства"
@@ -356,11 +371,6 @@ msgstr ""
 # Objects : [n3419752944]
 # name:be: []
 msgid "Минский государстенный музыкальный колледж имени М.И.Глинки"
-msgstr ""
-
-# Objects : [n846339978]
-# name:be: []
-msgid "Муз. шк. №9"
 msgstr ""
 
 # Objects : [n281709346]
@@ -388,6 +398,11 @@ msgstr ""
 msgid "Музыкальная школа №5"
 msgstr ""
 
+# Objects : [n846339978]
+# name:be: []
+msgid "Музыкальная школа №9"
+msgstr ""
+
 # Objects : [w25391856]
 # name:be: []
 msgid "Начальная школа-сад № 270"
@@ -403,11 +418,6 @@ msgstr ""
 msgid "Начальная школа №29 («Солнышко»)"
 msgstr ""
 
-# Objects : [n305674423]
-# name:be: []
-msgid "Начальная школа № 93"
-msgstr ""
-
 # Objects : [n1118913422]
 # name:be: [СОЛ Мінск]
 msgid "СОЛ Минск"
@@ -416,11 +426,6 @@ msgstr ""
 # Objects : [w25321138, w25537602]
 # name:be: []
 msgid "Специальная школа № 14 для детей с нарушением слуха"
-msgstr ""
-
-# Objects : [w312558037]
-# name:be: [Сярэдняя школа №199]
-msgid "Средняя школа №199"
 msgstr ""
 
 # Objects : [n305675009]
@@ -480,7 +485,7 @@ msgstr ""
 
 # Objects : [w330228448]
 # name:be: []
-msgid "Сш№109"
+msgid "СШ №109"
 msgstr ""
 
 # Objects : [n305679902]
@@ -503,7 +508,7 @@ msgstr ""
 msgid "СШ№115"
 msgstr ""
 
-# Objects : [n305676250]
+# Objects : [w342694011]
 # name:be: []
 msgid "СШ №116"
 msgstr ""
@@ -683,11 +688,6 @@ msgstr ""
 msgid "СШ №153"
 msgstr ""
 
-# Objects : [w96688403]
-# name:be: []
-msgid "СШ №153, начальные классы"
-msgstr ""
-
 # Objects : [n305675560]
 # name:be: [СШ №154]
 msgid "СШ №154"
@@ -708,14 +708,14 @@ msgstr ""
 msgid "Сш№157"
 msgstr ""
 
-# Objects : [n305674401]
+# Objects : [r4848170]
 # name:be: []
-msgid "Сш№159"
+msgid "СШ №159"
 msgstr ""
 
-# Objects : [w25390949]
+# Objects : [n3509282795]
 # name:be: []
-msgid "СШ № 16"
+msgid "СШ №16"
 msgstr ""
 
 # Objects : [w78392879]
@@ -733,7 +733,7 @@ msgstr ""
 msgid "СШ №162"
 msgstr ""
 
-# Objects : [n305685825]
+# Objects : [w39670259]
 # name:be: [СШ №163]
 msgid "Сш№163"
 msgstr ""
@@ -758,7 +758,7 @@ msgstr ""
 msgid "СШ №168"
 msgstr ""
 
-# Objects : [n256315171]
+# Objects : [n256315171, w160975824]
 # name:be: [CI №169]
 msgid "СШ №169"
 msgstr ""
@@ -878,6 +878,11 @@ msgstr ""
 msgid "СШ №197"
 msgstr ""
 
+# Objects : [w312558037]
+# name:be: [СШ №199]
+msgid "СШ №199"
+msgstr ""
+
 # Objects : [w283082049]
 # name:be: []
 msgid "СШ №2"
@@ -983,9 +988,9 @@ msgstr ""
 msgid "СШ №22"
 msgstr ""
 
-# Objects : [w25318871]
-# name:be: [СШ 25]
-msgid "СШ№25"
+# Objects : [w342694007]
+# name:be: []
+msgid "СШ №25"
 msgstr ""
 
 # Objects : [w111698276]
@@ -1148,12 +1153,7 @@ msgstr ""
 msgid "Сш№62"
 msgstr ""
 
-# Objects : [w25321873]
-# name:be: []
-msgid "СШ№63"
-msgstr ""
-
-# Objects : [n281704095]
+# Objects : [n281704095, w25321873]
 # name:be: []
 msgid "СШ №63"
 msgstr ""
@@ -1173,8 +1173,8 @@ msgstr ""
 msgid "Сш№67"
 msgstr ""
 
-# Objects : [n305686109]
-# name:be: [СШ №68]
+# Objects : [w342472831]
+# name:be: []
 msgid "СШ №68"
 msgstr ""
 
@@ -1193,7 +1193,7 @@ msgstr ""
 msgid "СШ №70"
 msgstr ""
 
-# Objects : [w25392430]
+# Objects : [w341423539]
 # name:be: []
 msgid "СШ №71"
 msgstr ""
@@ -1223,14 +1223,14 @@ msgstr ""
 msgid "СШ №78"
 msgstr ""
 
-# Objects : [n305685849]
+# Objects : [w135423485]
 # name:be: []
-msgid "Сш№8"
+msgid "СШ №8"
 msgstr ""
 
 # Objects : [n305677454]
 # name:be: []
-msgid "Сш№80"
+msgid "СШ №80"
 msgstr ""
 
 # Objects : [n3419455384]
@@ -1318,11 +1318,6 @@ msgstr ""
 msgid "СШ №98"
 msgstr ""
 
-# Objects : [n305674369]
-# name:be: []
-msgid "Технологическая гимназия №13 (СШ №158)"
-msgstr ""
-
 # Objects : [n3284637903]
 # name:be: []
 msgid "Учебный центр "Далидович""
@@ -1333,14 +1328,14 @@ msgstr ""
 msgid "ЦВР (Центр внешкольного развития)"
 msgstr ""
 
+# Objects : [n2723888925]
+# name:be: []
+msgid "ЦДОДиМ «Маяк»"
+msgstr ""
+
 # Objects : [n305675522]
 # name:be: [СШ №39]
 msgid "ЦДОДМ "Ранак""
-msgstr ""
-
-# Objects : [n2723888925]
-# name:be: []
-msgid "Центр дополнительного образования детей и молодёжи «Маяк»"
 msgstr ""
 
 # Objects : [n3384103061]
@@ -1356,6 +1351,11 @@ msgstr ""
 # Objects : [w25393249]
 # name:be: [Школа-інтэрнат № 11]
 msgid "Школа-интернат № 11"
+msgstr ""
+
+# Objects : [w342483610]
+# name:be: []
+msgid "Школа-интернат №5"
 msgstr ""
 
 # Objects : [w25392852]
@@ -1393,7 +1393,7 @@ msgstr ""
 msgid "Школа № 53"
 msgstr ""
 
-# Objects : [n281716000]
+# Objects : [w274444990]
 # name:be: []
 msgid "Школа №55"
 msgstr ""

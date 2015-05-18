@@ -103,6 +103,11 @@ msgstr ""
 msgid "Зелёная улица"
 msgstr ""
 
+# Objects : [w215189201]
+# name:be: []
+msgid "Интернациональный переулок"
+msgstr ""
+
 # Objects : [w215404714]
 # name:be: []
 msgid "Колхозная улица"
@@ -118,7 +123,7 @@ msgstr ""
 msgid "Ленинская улица"
 msgstr ""
 
-# Objects : [w212639890, w215063903, w250109044, w298674519]
+# Objects : [w212639890, w250109044, w298674519, w342427745]
 # name:be: [Лясная вуліца]
 msgid "Лесная улица"
 msgstr ""
@@ -158,7 +163,7 @@ msgstr ""
 msgid "Озёрная улица"
 msgstr ""
 
-# Objects : [w156746736, w213067987, w215241786, w215404715, w266767940, w340909990]
+# Objects : [w156746736, w213067987, w215241786, w215404715, w266767940, w342738411]
 # name:be: []
 msgid "Октябрьская улица"
 msgstr ""
@@ -173,16 +178,6 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
-# Objects : [w215189201]
-# name:be: []
-msgid "пер.Интернациональный"
-msgstr ""
-
-# Objects : [w341149366]
-# name:be: []
-msgid "пер. Советский"
-msgstr ""
-
 # Objects : [w276925826]
 # name:be: []
 msgid "Первомайская улица"
@@ -193,7 +188,7 @@ msgstr ""
 msgid "Песчаная улица"
 msgstr ""
 
-# Objects : [w215063905, w215063906, w215063907, w250112030]
+# Objects : [w215063905, w250112030]
 # name:be: []
 msgid "Полевая улица"
 msgstr ""
@@ -263,6 +258,11 @@ msgstr ""
 msgid "Советская улица"
 msgstr ""
 
+# Objects : [w341149366]
+# name:be: []
+msgid "Советский переулок"
+msgstr ""
+
 # Objects : [w215244439]
 # name:be: []
 msgid "Солнечная улица"
@@ -286,11 +286,6 @@ msgstr ""
 # Objects : [w213064227, w215521067, w252661909]
 # name:be: []
 msgid "Тихая улица"
-msgstr ""
-
-# Objects : [w215063908]
-# name:be: []
-msgid "ул.Р.Кунько"
 msgstr ""
 
 # Objects : [w213750681]
@@ -358,6 +353,11 @@ msgstr ""
 msgid "улица Климовича"
 msgstr ""
 
+# Objects : [w215063908]
+# name:be: []
+msgid "улица Кунько"
+msgstr ""
+
 # Objects : [w215059505, w215195182, w99015895]
 # name:be: []
 msgid "улица Ленина"
@@ -366,6 +366,16 @@ msgstr ""
 # Objects : [w216730825, w99015793]
 # name:be: []
 msgid "улица Новосёлов"
+msgstr ""
+
+# Objects : [w215063907, w343215837]
+# name:be: []
+msgid "улица Полевая-1"
+msgstr ""
+
+# Objects : [w215063906]
+# name:be: []
+msgid "Улица Полевая-1"
 msgstr ""
 
 # Objects : [w112454997, w276159545, w276159546]

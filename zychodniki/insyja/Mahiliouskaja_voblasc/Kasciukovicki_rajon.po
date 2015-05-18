@@ -288,6 +288,11 @@ msgstr ""
 msgid "Читовые"
 msgstr ""
 
+# Objects : [n243045192]
+# name:be: []
+msgid "Шишковка"
+msgstr ""
+
 # Objects : [r2969237]
 # name:be: [Школьная вуліца]
 msgid "Школьная улица"

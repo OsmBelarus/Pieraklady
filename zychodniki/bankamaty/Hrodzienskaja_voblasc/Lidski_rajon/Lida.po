@@ -63,7 +63,7 @@ msgstr ""
 msgid "Белинвестбанк"
 msgstr ""
 
-# Objects : [n3392152510, n3392152511, n3392152512, n3392152513]
+# Objects : [n3392152510, n3392152512, n3392152513]
 # name:be: []
 msgid "Белинвестбанк. Инфокиоск"
 msgstr ""
@@ -76,11 +76,6 @@ msgstr ""
 # Objects : [n3392152505]
 # name:be: []
 msgid "Белинвестбанк №11"
-msgstr ""
-
-# Objects : [n3392152506]
-# name:be: []
-msgid "Белинвестбанк №12"
 msgstr ""
 
 # Objects : [n3392152507]
@@ -416,11 +411,6 @@ msgstr ""
 # Objects : [n3393573703]
 # name:be: []
 msgid "Приорбанк №98"
-msgstr ""
-
-# Objects : [n3127101561]
-# name:be: [Тэхнабанк]
-msgid "Технобанк"
 msgstr ""
 
 # Objects : [n3393684847]

@@ -298,6 +298,11 @@ msgstr ""
 msgid "Начальная школа №2"
 msgstr ""
 
+# Objects : [w226844231]
+# name:be: []
+msgid "ОАО "АФПК ЖМК" ф-л "Комбикормовый завод""
+msgstr ""
+
 # Objects : [w182769218]
 # name:be: []
 msgid "ОАО "Белфа""
@@ -316,6 +321,11 @@ msgstr ""
 # Objects : [n2766736769]
 # name:be: []
 msgid "Отель Амакс Сити"
+msgstr ""
+
+# Objects : [w343152566]
+# name:be: []
+msgid "отстойник"
 msgstr ""
 
 # Objects : [n2104221797]

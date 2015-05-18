@@ -1,3 +1,8 @@
+# Objects : [w115544795]
+# name:be: []
+msgid "Комсомольская улица"
+msgstr ""
+
 # Objects : [w288455874, w288481571]
 # name:be: []
 msgid "Луговая улица"
@@ -8,7 +13,7 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
-# Objects : [w288481558]
+# Objects : [w288481558, w328918838]
 # name:be: []
 msgid "Новая улица"
 msgstr ""
@@ -38,6 +43,11 @@ msgstr ""
 msgid "Тепличная улица"
 msgstr ""
 
+# Objects : [w266291276]
+# name:be: []
+msgid "улица 40 лет Победы"
+msgstr ""
+
 # Objects : [w232016817]
 # name:be: []
 msgid "улица В. Лобача"
@@ -46,11 +56,6 @@ msgstr ""
 # Objects : [w184205154]
 # name:be: []
 msgid "улица имени Прохора"
-msgstr ""
-
-# Objects : [w115544795]
-# name:be: []
-msgid "улица Комсомольская"
 msgstr ""
 
 # Objects : [w288481569, w288481570, w289199116]

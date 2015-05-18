@@ -45,22 +45,22 @@ msgstr ""
 
 # Objects : [n2498780907]
 # name:be: []
-msgid "Аэропорт"
+msgid "Аэродром"
 msgstr ""
 
 # Objects : [w261279880]
 # name:be: []
-msgid "Аэропорт-2"
+msgid "Аэродром-2"
 msgstr ""
 
 # Objects : [w261279881]
 # name:be: []
-msgid "Аэропорт-3"
+msgid "Аэродром-3"
 msgstr ""
 
 # Objects : [w261279882]
 # name:be: []
-msgid "Аэропорт-6"
+msgid "Аэродром-6"
 msgstr ""
 
 # Objects : [n306067304]
@@ -658,6 +658,11 @@ msgstr ""
 msgid "Стрелецкий Рынок"
 msgstr ""
 
+# Objects : [w332925134]
+# name:be: []
+msgid "Строительство 2-ой очереди ТРЦ "Манеж""
+msgstr ""
+
 # Objects : [w295932745]
 # name:be: []
 msgid "Строительство гостиницы"
@@ -676,11 +681,6 @@ msgstr ""
 # Objects : [w245467942]
 # name:be: []
 msgid "Строительство суперстора "Родная Сторона""
-msgstr ""
-
-# Objects : [w295932747]
-# name:be: []
-msgid "Строительство ТРЦ "Манеж""
 msgstr ""
 
 # Objects : [n525675087]
@@ -716,6 +716,11 @@ msgstr ""
 # Objects : [n3134255145]
 # name:be: []
 msgid "Теплогион"
+msgstr ""
+
+# Objects : [w191052086]
+# name:be: []
+msgid "Техника"
 msgstr ""
 
 # Objects : [w130436341]

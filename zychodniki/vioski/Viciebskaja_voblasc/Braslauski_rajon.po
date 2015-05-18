@@ -558,6 +558,11 @@ msgstr ""
 msgid "Даньки"
 msgstr ""
 
+# Objects : [n3519946365]
+# name:be: []
+msgid "Даржели"
+msgstr ""
+
 # Objects : [n243007060, w25132139]
 # name:be: [Даўблі]
 msgid "Даубли"
@@ -1286,6 +1291,11 @@ msgstr ""
 # Objects : [n1646615467, r4684334]
 # name:be: [Лушнева]
 msgid "Лушнево"
+msgstr ""
+
+# Objects : [n3519896129, w345303808]
+# name:be: []
+msgid "Любишки"
 msgstr ""
 
 # Objects : [n243004497, w25133455]

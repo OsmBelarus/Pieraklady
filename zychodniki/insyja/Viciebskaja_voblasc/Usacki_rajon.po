@@ -13,8 +13,8 @@ msgstr ""
 msgid "Беленок"
 msgstr ""
 
-# Objects : [w25195029]
-# name:be: [Белае]
+# Objects : [r5121245]
+# name:be: []
 msgid "Белое"
 msgstr ""
 
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Березинец"
 msgstr ""
 
-# Objects : [r3400208, w253737149]
+# Objects : [w253737149]
 # name:be: [Бярэзінскі біясферны запаведнік]
 msgid "Березинский биосферный заповедник"
 msgstr ""
@@ -56,6 +56,11 @@ msgstr ""
 # Objects : [w25191677, w25193337]
 # name:be: [воз. Баравянок]
 msgid "Боровенок"
+msgstr ""
+
+# Objects : [r3400208]
+# name:be: [Бярэзінскі біясферны запаведнік]
+msgid "Бярэзінскі біясферны запаведнік"
 msgstr ""
 
 # Objects : [w146423796]
@@ -298,11 +303,6 @@ msgstr ""
 msgid "Приусадебный парк"
 msgstr ""
 
-# Objects : [w25187679]
-# name:be: [воз. Рашнае]
-msgid "Рашное"
-msgstr ""
-
 # Objects : [n306067069]
 # name:be: []
 msgid "Рыбалка На Паульском"
@@ -398,17 +398,12 @@ msgstr ""
 msgid "Часовня кладбищенская"
 msgstr ""
 
-# Objects : [w25196554]
-# name:be: [Чорная Урада]
-msgid "Черная Урода"
-msgstr ""
-
 # Objects : [w25194572]
 # name:be: [Чорнае]
 msgid "Черное"
 msgstr ""
 
-# Objects : [w25196913]
+# Objects : [r5121247]
 # name:be: []
 msgid "Язно"
 msgstr ""

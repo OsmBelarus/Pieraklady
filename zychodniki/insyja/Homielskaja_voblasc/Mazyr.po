@@ -788,11 +788,6 @@ msgstr ""
 msgid "Привоз"
 msgstr ""
 
-# Objects : [w253459226]
-# name:be: [Прыпяць]
-msgid "Припять"
-msgstr ""
-
 # Objects : [n2759481330]
 # name:be: []
 msgid "Прокат катамаранов"
@@ -823,7 +818,7 @@ msgstr ""
 msgid "Пховский лесопункт"
 msgstr ""
 
-# Objects : [w291966628, w292099399, w292099401, w292099731]
+# Objects : [w291966628, w292099399, w292099731]
 # name:be: []
 msgid "Р"
 msgstr ""

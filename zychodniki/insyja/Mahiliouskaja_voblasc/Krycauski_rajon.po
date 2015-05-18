@@ -8,11 +8,6 @@ msgstr ""
 msgid "Винодельня"
 msgstr ""
 
-# Objects : [w244822899]
-# name:be: []
-msgid "ГРС"
-msgstr ""
-
 # Objects : [n306068417]
 # name:be: [Крычаў 2]
 msgid "Кричев-2"
@@ -33,9 +28,24 @@ msgstr ""
 msgid "Осовец"
 msgstr ""
 
+# Objects : [n3522547540]
+# name:be: []
+msgid "поворот на Бель-1"
+msgstr ""
+
+# Objects : [n3522547539]
+# name:be: []
+msgid "Поворот на Бель-1"
+msgstr ""
+
 # Objects : [w267411501]
 # name:be: []
 msgid "Пушка"
+msgstr ""
+
+# Objects : [w345612428]
+# name:be: []
+msgid "Садовое товарищество "Дорожник""
 msgstr ""
 
 # Objects : [w25184957, w25185114, w25192600, w25193280, w25195345]

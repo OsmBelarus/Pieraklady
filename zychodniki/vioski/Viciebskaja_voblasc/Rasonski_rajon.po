@@ -178,6 +178,11 @@ msgstr ""
 msgid "Дмитрово"
 msgstr ""
 
+# Objects : [w25110512]
+# name:be: [Дабраплёсы]
+msgid "Доброплёсы"
+msgstr ""
+
 # Objects : [n243026455, w25109050]
 # name:be: []
 msgid "Долгий Бор"
@@ -306,6 +311,11 @@ msgstr ""
 # Objects : [n243026731, w25105694]
 # name:be: [Краснаполле]
 msgid "Краснополье"
+msgstr ""
+
+# Objects : [n3508075259, w343886668]
+# name:be: []
+msgid "Красный Бор"
 msgstr ""
 
 # Objects : [n243030965, w25104944]

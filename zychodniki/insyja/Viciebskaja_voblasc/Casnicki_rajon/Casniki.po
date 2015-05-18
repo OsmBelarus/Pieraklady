@@ -58,9 +58,19 @@ msgstr ""
 msgid "Общежитие ПМК-71"
 msgstr ""
 
+# Objects : [r4850388]
+# name:be: []
+msgid "Ольшанский сельский Совет"
+msgstr ""
+
 # Objects : [r4789703]
 # name:be: []
 msgid "Подстанция"
+msgstr ""
+
+# Objects : [r4850389]
+# name:be: []
+msgid "Проземлянский сельский Совет"
 msgstr ""
 
 # Objects : [w176352306]

@@ -223,6 +223,11 @@ msgstr ""
 msgid "магазин 31"
 msgstr ""
 
+# Objects : [w233349631]
+# name:be: []
+msgid "МартИнн"
+msgstr ""
+
 # Objects : [w205312444]
 # name:be: []
 msgid "Медицинский колледж"
@@ -363,6 +368,11 @@ msgstr ""
 msgid "Спортзал"
 msgstr ""
 
+# Objects : [w205328232]
+# name:be: []
+msgid "Спортивный зал"
+msgstr ""
+
 # Objects : [w234988625]
 # name:be: []
 msgid "станция 3 подъема"
@@ -386,6 +396,11 @@ msgstr ""
 # Objects : [w306328452]
 # name:be: []
 msgid "ТЕХАС"
+msgstr ""
+
+# Objects : [w205328415]
+# name:be: []
+msgid "Тимьян"
 msgstr ""
 
 # Objects : [w204087288]

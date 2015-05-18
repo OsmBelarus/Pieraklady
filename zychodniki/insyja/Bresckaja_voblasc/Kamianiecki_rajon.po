@@ -1,8 +1,3 @@
-# Objects : [r4520071]
-# name:be: []
-msgid "Park Krajobrazowy Podlaski Przełom Bugu"
-msgstr ""
-
 # Objects : [r1757706]
 # name:be: []
 msgid "Podlaski Przełom Bugu"
@@ -38,7 +33,7 @@ msgstr ""
 msgid "Бам"
 msgstr ""
 
-# Objects : [n2105527497, n2766728032]
+# Objects : [n2766728032]
 # name:be: []
 msgid "Без проблем"
 msgstr ""

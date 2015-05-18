@@ -58,11 +58,6 @@ msgstr ""
 msgid "ГСК"
 msgstr ""
 
-# Objects : [w248630895]
-# name:be: []
-msgid "закрыт"
-msgstr ""
-
 # Objects : [w246973999]
 # name:be: []
 msgid "ЗКТП"
@@ -96,6 +91,11 @@ msgstr ""
 # Objects : [n306066530]
 # name:be: [Коханава]
 msgid "Коханово"
+msgstr ""
+
+# Objects : [r4850386]
+# name:be: []
+msgid "Круглицкий сельский Совет"
 msgstr ""
 
 # Objects : [w246772867]
@@ -198,7 +198,7 @@ msgstr ""
 msgid "Строительство АЗС"
 msgstr ""
 
-# Objects : [w246774419]
+# Objects : [w246774419, w246974810]
 # name:be: []
 msgid "теплотрасса"
 msgstr ""
@@ -206,11 +206,6 @@ msgstr ""
 # Objects : [w246774171, w246974570]
 # name:be: []
 msgid "Теплоузел"
-msgstr ""
-
-# Objects : [w246974810]
-# name:be: []
-msgid "тепротрасса"
 msgstr ""
 
 # Objects : [w289701185]

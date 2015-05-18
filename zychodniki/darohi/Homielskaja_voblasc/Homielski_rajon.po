@@ -108,11 +108,6 @@ msgstr ""
 msgid "5-я Новая улица"
 msgstr ""
 
-# Objects : [w25237985, w340384805, w340384806]
-# name:be: []
-msgid "60 лет Октяря улица"
-msgstr ""
-
 # Objects : [w307542224]
 # name:be: []
 msgid "60 лет СССР улица"
@@ -1043,7 +1038,7 @@ msgstr ""
 msgid "улица К.Маркса"
 msgstr ""
 
-# Objects : [w248968397, w248988770]
+# Objects : [w248968397, w248988770, w331953613]
 # name:be: []
 msgid "улица Калинина"
 msgstr ""
@@ -1083,6 +1078,11 @@ msgstr ""
 msgid "Улица Комсомольская"
 msgstr ""
 
+# Objects : [w124343181, w342745632]
+# name:be: []
+msgid "Улица Крестьянская"
+msgstr ""
+
 # Objects : [w245788020, w245939250, w85488693]
 # name:be: [вуліца Крупскай]
 msgid "улица Крупской"
@@ -1096,6 +1096,11 @@ msgstr ""
 # Objects : [w245533997]
 # name:be: []
 msgid "улица Лермонтова"
+msgstr ""
+
+# Objects : [w331953607]
+# name:be: []
+msgid "Улица Лесная"
 msgstr ""
 
 # Objects : [w131612400, w250491050]
@@ -1128,14 +1133,29 @@ msgstr ""
 msgid "улица Механизаторов"
 msgstr ""
 
+# Objects : [w341434570]
+# name:be: []
+msgid "Улица Минская"
+msgstr ""
+
 # Objects : [w127248281, w169780360, w239990995, w244676160, w248698724, w291647486, w291731411, w310908156, w314368670, w37757399, w50241215, w83092682, w94940580]
 # name:be: [вуліца Міру]
 msgid "улица Мира"
 msgstr ""
 
+# Objects : [w331953615]
+# name:be: []
+msgid "Улица Мира"
+msgstr ""
+
 # Objects : [w25235165]
 # name:be: [вуліца Мічурына]
 msgid "улица Мичурина"
+msgstr ""
+
+# Objects : [w341434571]
+# name:be: []
+msgid "улица Молодежная"
 msgstr ""
 
 # Objects : [w50241222]
@@ -1146,6 +1166,11 @@ msgstr ""
 # Objects : [w245533996, w25235280, w25235282, w25235284]
 # name:be: []
 msgid "улица Некрасова"
+msgstr ""
+
+# Objects : [w341434569]
+# name:be: []
+msgid "Улица Октябрьская"
 msgstr ""
 
 # Objects : [w248698726]
@@ -1181,6 +1206,11 @@ msgstr ""
 # Objects : [w124190240, w296469394, w296612526, w297495337, w306639122]
 # name:be: [вуліца Перамогі]
 msgid "улица Победы"
+msgstr ""
+
+# Objects : [w331953617]
+# name:be: []
+msgid "Улица Победы"
 msgstr ""
 
 # Objects : [w169095881]

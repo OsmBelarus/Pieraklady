@@ -9,17 +9,17 @@ msgid "Дубрава"
 msgstr ""
 
 # Objects : [w48492331]
-# name:be: []
+# name:be: [Лесапарк]
 msgid "Лесопарк"
 msgstr ""
 
 # Objects : [w325389405]
-# name:be: []
+# name:be: [Сядзібны парк]
 msgid "Приусадебный парк"
 msgstr ""
 
 # Objects : [w53855582]
-# name:be: []
-msgid "урочище Подселице"
+# name:be: [Урочышча Падселіцэ]
+msgid "Урочище Подселице"
 msgstr ""
 

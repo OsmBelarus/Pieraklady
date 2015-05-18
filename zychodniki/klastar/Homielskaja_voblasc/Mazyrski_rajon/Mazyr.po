@@ -48,6 +48,11 @@ msgstr ""
 msgid "Храм Сергия Радонежского"
 msgstr ""
 
+# Objects : [w345835370]
+# name:be: []
+msgid "Церковь евангеличтов"
+msgstr ""
+
 # Objects : [w264126849]
 # name:be: []
 msgid "Церковь Спасение"

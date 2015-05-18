@@ -1,8 +1,3 @@
-# Objects : [w32682785]
-# name:be: []
-msgid "35а"
-msgstr ""
-
 # Objects : [n377596336]
 # name:be: []
 msgid "OВД"
@@ -21,6 +16,11 @@ msgstr ""
 # Objects : [n2389014320]
 # name:be: []
 msgid "Белгосстрах"
+msgstr ""
+
+# Objects : [w32682553]
+# name:be: [Белсаюздрук]
+msgid "Белсоюзпечать"
 msgstr ""
 
 # Objects : [n1304763087]
@@ -103,6 +103,11 @@ msgstr ""
 msgid "ИП ООО «Минавто»"
 msgstr ""
 
+# Objects : [w32682568]
+# name:be: []
+msgid "Кафе «Улитка»"
+msgstr ""
+
 # Objects : [n367770650]
 # name:be: []
 msgid "кафе-бар «Остров»"
@@ -119,12 +124,12 @@ msgid "Купальня"
 msgstr ""
 
 # Objects : [n377596702]
-# name:be: [Ленін]
-msgid "Ленин"
+# name:be: [Леніну У. І.]
+msgid "Ленину В. И."
 msgstr ""
 
-# Objects : [n941778469]
-# name:be: []
+# Objects : [w344166453]
+# name:be: [Лагойская цэнтральная раённая бальніца]
 msgid "Логойская центральная районная больница"
 msgstr ""
 
@@ -136,6 +141,11 @@ msgstr ""
 # Objects : [n942629184]
 # name:be: []
 msgid "Мельница"
+msgstr ""
+
+# Objects : [w32682560]
+# name:be: []
+msgid "Микромакрет «Крылова»"
 msgstr ""
 
 # Objects : [w32682896]
@@ -158,11 +168,6 @@ msgstr ""
 msgid "Паненская гора"
 msgstr ""
 
-# Objects : [w32681334]
-# name:be: []
-msgid "Пассаж торговый центр"
-msgstr ""
-
 # Objects : [n2788683780]
 # name:be: [Прысядзібны парк пры былой сядзібе Тышкевічаў]
 msgid "Приусадебный парк при бывшей усадьбе Тышкевичей"
@@ -183,14 +188,14 @@ msgstr ""
 msgid "редакция "Родны Край""
 msgstr ""
 
+# Objects : [w32682801]
+# name:be: [Крынічка]
+msgid "Родничок"
+msgstr ""
+
 # Objects : [w80764794]
 # name:be: []
 msgid "Рынок"
-msgstr ""
-
-# Objects : [n2389014324]
-# name:be: []
-msgid "Салон связи МТС"
 msgstr ""
 
 # Objects : [w32682775]
@@ -211,6 +216,16 @@ msgstr ""
 # Objects : [w32682024]
 # name:be: [Тэхагляд]
 msgid "Техосмотр"
+msgstr ""
+
+# Objects : [w32681334]
+# name:be: []
+msgid "ТЦ «Пассаж»"
+msgstr ""
+
+# Objects : [w32682870]
+# name:be: [Універсам «Замкавы»]
+msgid "Универсам «Замкавы»"
 msgstr ""
 
 # Objects : [n941841080]
@@ -249,7 +264,7 @@ msgid "Электро подстанция"
 msgstr ""
 
 # Objects : [n377596406]
-# name:be: []
-msgid "Энгельс"
+# name:be: [Энгельсу Ф.]
+msgid "Энгельсу Ф."
 msgstr ""
 

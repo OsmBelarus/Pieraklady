@@ -273,6 +273,11 @@ msgstr ""
 msgid "Нивки"
 msgstr ""
 
+# Objects : [n2798130034]
+# name:be: [Нівы]
+msgid "Нивы"
+msgstr ""
+
 # Objects : [n242987352, w25142190]
 # name:be: [Навое]
 msgid "Новое"

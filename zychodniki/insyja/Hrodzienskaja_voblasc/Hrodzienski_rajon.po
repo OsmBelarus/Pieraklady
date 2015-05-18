@@ -373,11 +373,6 @@ msgstr ""
 msgid "База "У Шрека""
 msgstr ""
 
-# Objects : [w29168799]
-# name:be: []
-msgid "Балиненты"
-msgstr ""
-
 # Objects : [w213788859]
 # name:be: []
 msgid "баня"
@@ -466,11 +461,6 @@ msgstr ""
 # Objects : [w309024090]
 # name:be: []
 msgid "Бычник"
-msgstr ""
-
-# Objects : [w30233722]
-# name:be: [Васарабы]
-msgid "Васарабы"
 msgstr ""
 
 # Objects : [w29168775]
@@ -701,11 +691,6 @@ msgstr ""
 # Objects : [r317873]
 # name:be: [Зарэчная вуліца]
 msgid "Заречная улица"
-msgstr ""
-
-# Objects : [w225859496]
-# name:be: []
-msgid "Зарица"
 msgstr ""
 
 # Objects : [w29425803]
@@ -1093,11 +1078,6 @@ msgstr ""
 msgid "Новосады"
 msgstr ""
 
-# Objects : [w29168366]
-# name:be: [Навасёлкі]
-msgid "Новоселки"
-msgstr ""
-
 # Objects : [w29168314]
 # name:be: [Навасёлкі]
 msgid "Новосёлки"
@@ -1256,11 +1236,6 @@ msgstr ""
 # Objects : [n2788684138]
 # name:be: [Прысядзібны парк]
 msgid "Приусадебный парк"
-msgstr ""
-
-# Objects : [n2501781566]
-# name:be: []
-msgid "Проезд закрыт!"
 msgstr ""
 
 # Objects : [w283137207]
@@ -1521,6 +1496,11 @@ msgstr ""
 # Objects : [w29168264]
 # name:be: [Тартак]
 msgid "Тартак"
+msgstr ""
+
+# Objects : [w341486776]
+# name:be: []
+msgid "территория эл.под.станции"
 msgstr ""
 
 # Objects : [w29168276]

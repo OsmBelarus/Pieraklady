@@ -233,7 +233,7 @@ msgstr ""
 msgid "2 (уч. №58)"
 msgstr ""
 
-# Objects : [w306080935]
+# Objects : [w306080935, w342723577]
 # name:be: []
 msgid "20"
 msgstr ""
@@ -426,6 +426,11 @@ msgstr ""
 # Objects : [w309366937]
 # name:be: []
 msgid "27(уч.№ 201)"
+msgstr ""
+
+# Objects : [w309366965]
+# name:be: []
+msgid "27(уч.№ 246)"
 msgstr ""
 
 # Objects : [w324650177]
@@ -1128,9 +1133,19 @@ msgstr ""
 msgid "Гомельмежрайгаз"
 msgstr ""
 
+# Objects : [w87012153]
+# name:be: []
+msgid "Гомельская городская ветеринарная станция"
+msgstr ""
+
 # Objects : [w64719187]
 # name:be: []
 msgid "Гомельская городская стоматологическая поликлиника № 1"
+msgstr ""
+
+# Objects : [w275237260]
+# name:be: []
+msgid "Гомельская областная ветеринарная лаборатория"
 msgstr ""
 
 # Objects : [w233206081]
@@ -1173,6 +1188,11 @@ msgstr ""
 msgid "Гомельский музей военной славы"
 msgstr ""
 
+# Objects : [r5128685]
+# name:be: []
+msgid "Гомельский научно-технологический парк (7-13 этаж) / Ратон (1-6 этаж)"
+msgstr ""
+
 # Objects : [w254647354]
 # name:be: []
 msgid "Гомельский областной наркологический диспансер"
@@ -1208,11 +1228,6 @@ msgstr ""
 msgid "Горисполком"
 msgstr ""
 
-# Objects : [w168539600]
-# name:be: []
-msgid "Городская больница №3"
-msgstr ""
-
 # Objects : [w91029092]
 # name:be: []
 msgid "Городской центр гигиены и эпидемиологии"
@@ -1221,11 +1236,6 @@ msgstr ""
 # Objects : [w64749297]
 # name:be: []
 msgid "Городской центр культуры"
-msgstr ""
-
-# Objects : [w168539717]
-# name:be: []
-msgid "Госпиталь инвалидов"
 msgstr ""
 
 # Objects : [w61980096]
@@ -1278,6 +1288,11 @@ msgstr ""
 msgid "Дежурная аптека"
 msgstr ""
 
+# Objects : [w130682557]
+# name:be: []
+msgid "Дельтавто"
+msgstr ""
+
 # Objects : [w240496046]
 # name:be: []
 msgid "Детская музыкальная школа № 2"
@@ -1326,11 +1341,6 @@ msgstr ""
 # Objects : [w38108466]
 # name:be: [Дабраном]
 msgid "Доброном"
-msgstr ""
-
-# Objects : [w65348049]
-# name:be: [Дом быту]
-msgid "Дом быта"
 msgstr ""
 
 # Objects : [w64742645]
@@ -1461,6 +1471,11 @@ msgstr ""
 # Objects : [w335713485]
 # name:be: []
 msgid "кн"
+msgstr ""
+
+# Objects : [w345268633]
+# name:be: []
+msgid "КН"
 msgstr ""
 
 # Objects : [w120124576, w121273226]
@@ -1848,16 +1863,6 @@ msgstr ""
 msgid "поз.2"
 msgstr ""
 
-# Objects : [w320497559]
-# name:be: []
-msgid "ПОЗ. №31"
-msgstr ""
-
-# Objects : [w320497560]
-# name:be: []
-msgid "поз. №34"
-msgstr ""
-
 # Objects : [w173933455, w248443396, w64719151]
 # name:be: []
 msgid "Поликлиника"
@@ -2071,11 +2076,6 @@ msgstr ""
 # Objects : [w44534229]
 # name:be: []
 msgid "Студенческий санаторий - профилакторий ГГУ им. Ф. Скорины"
-msgstr ""
-
-# Objects : [w86100643]
-# name:be: []
-msgid "Суды Железнодорожного и Центрального районов"
 msgstr ""
 
 # Objects : [w247610151]
@@ -2986,11 +2986,6 @@ msgstr ""
 # Objects : [w309367008]
 # name:be: []
 msgid "уч.№245"
-msgstr ""
-
-# Objects : [w309366965]
-# name:be: []
-msgid "уч.№ 246"
 msgstr ""
 
 # Objects : [w309183715]
@@ -4513,7 +4508,7 @@ msgstr ""
 msgid "Школа машинистов"
 msgstr ""
 
-# Objects : [w247191837, w248214829]
+# Objects : [w247191837]
 # name:be: []
 msgid "ШРП"
 msgstr ""
@@ -4521,6 +4516,11 @@ msgstr ""
 # Objects : [w243123637]
 # name:be: []
 msgid "ШРП № 97"
+msgstr ""
+
+# Objects : [w287433350]
+# name:be: []
+msgid "Ясли-сад №21"
 msgstr ""
 
 # Objects : [w136655025]

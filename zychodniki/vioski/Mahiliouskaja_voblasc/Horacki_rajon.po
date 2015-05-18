@@ -38,12 +38,7 @@ msgstr ""
 msgid "Болбечино"
 msgstr ""
 
-# Objects : [w25081527]
-# name:be: [Вялікая Каралёўка]
-msgid "Большая Королевка"
-msgstr ""
-
-# Objects : [n243046557]
+# Objects : [n243046557, w25081527]
 # name:be: [Вялікая Каралёўка]
 msgid "Большая Королёвка"
 msgstr ""
@@ -133,7 +128,7 @@ msgstr ""
 msgid "Горы"
 msgstr ""
 
-# Objects : [n243046565, r4785613, w25081509]
+# Objects : [n243046565, r4785613]
 # name:be: [Гошч-Чарны]
 msgid "Гощ-Чарный"
 msgstr ""
@@ -173,7 +168,7 @@ msgstr ""
 msgid "Дубовый Угол"
 msgstr ""
 
-# Objects : [w331252486]
+# Objects : [n3488845246, w331252486]
 # name:be: []
 msgid "Дубровенский"
 msgstr ""

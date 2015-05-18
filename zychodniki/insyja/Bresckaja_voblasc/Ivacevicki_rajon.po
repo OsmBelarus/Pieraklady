@@ -13,6 +13,11 @@ msgstr ""
 msgid "Бобровичское"
 msgstr ""
 
+# Objects : [n306069033, n3523219804]
+# name:be: []
+msgid "Братская могила"
+msgstr ""
+
 # Objects : [w259131489]
 # name:be: []
 msgid "в/ч 15994"
@@ -118,9 +123,19 @@ msgstr ""
 msgid "Лунево"
 msgstr ""
 
+# Objects : [w342981062, w342982764]
+# name:be: []
+msgid "Насосная"
+msgstr ""
+
 # Objects : [n306069215]
 # name:be: []
 msgid "Охотничий Домик"
+msgstr ""
+
+# Objects : [w342798420]
+# name:be: []
+msgid "Подстанция"
 msgstr ""
 
 # Objects : [n3338344311]
@@ -173,6 +188,11 @@ msgstr ""
 msgid "Тадэуша Костюшко музей"
 msgstr ""
 
+# Objects : [w342795885]
+# name:be: []
+msgid "Территория аэродрома"
+msgstr ""
+
 # Objects : [n2788684717]
 # name:be: [Сядзіба Касцюшкаў]
 msgid "Усадьба Костюшко"
@@ -181,6 +201,11 @@ msgstr ""
 # Objects : [n2788685112]
 # name:be: [Капліца-пахавальня]
 msgid "Усыпальница"
+msgstr ""
+
+# Objects : [w342986806]
+# name:be: []
+msgid "Ферма"
 msgstr ""
 
 # Objects : [n2788687335]

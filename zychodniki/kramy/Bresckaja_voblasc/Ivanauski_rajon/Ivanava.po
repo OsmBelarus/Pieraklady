@@ -38,6 +38,11 @@ msgstr ""
 msgid "бытовая химия"
 msgstr ""
 
+# Objects : [n3212189645]
+# name:be: []
+msgid "Визит"
+msgstr ""
+
 # Objects : [n3212157130]
 # name:be: []
 msgid "Галантерея"

@@ -23,6 +23,21 @@ msgstr ""
 msgid "Баскетбольная площадка"
 msgstr ""
 
+# Objects : [n3483983260]
+# name:be: []
+msgid "Башня сотовой связи"
+msgstr ""
+
+# Objects : [w289498543]
+# name:be: []
+msgid "Болотнянская средняя школа"
+msgstr ""
+
+# Objects : [w343655206]
+# name:be: []
+msgid "Бункер"
+msgstr ""
+
 # Objects : [w318477419]
 # name:be: []
 msgid "Бывший детский лагер отдыха"
@@ -58,7 +73,7 @@ msgstr ""
 msgid "деревообработка"
 msgstr ""
 
-# Objects : [w297376914]
+# Objects : [w289374005, w297376914]
 # name:be: []
 msgid "Детский сад"
 msgstr ""
@@ -248,11 +263,6 @@ msgstr ""
 msgid "Приусадебный парк при бывшей усадьбе Верман"
 msgstr ""
 
-# Objects : [r3551849]
-# name:be: [Рагачоў]
-msgid "Рогачёв"
-msgstr ""
-
 # Objects : [r3392911]
 # name:be: [Садовая вуліца]
 msgid "Садовая улица"
@@ -298,7 +308,7 @@ msgstr ""
 msgid "Территория детсада"
 msgstr ""
 
-# Objects : [w262503603, w323626913, w338793169, w340408114]
+# Objects : [w262503603, w323626913, w338793169, w340408114, w344267236]
 # name:be: []
 msgid "Территория школы"
 msgstr ""
@@ -308,7 +318,7 @@ msgstr ""
 msgid "ФАП"
 msgstr ""
 
-# Objects : [w340287618, w340287619]
+# Objects : [w340287618, w340287619, w341403442]
 # name:be: []
 msgid "Фруктовый сад"
 msgstr ""
@@ -346,11 +356,6 @@ msgstr ""
 # Objects : [r3392912]
 # name:be: [Юбілейная вуліца]
 msgid "Юбилейная улица"
-msgstr ""
-
-# Objects : [w340258131]
-# name:be: []
-msgid "Яблоневый сад"
 msgstr ""
 
 # Objects : [w326362301, w326362359, w326362360, w326491748, w326730153, w327243344, w327565974, w327566937, w330903488]

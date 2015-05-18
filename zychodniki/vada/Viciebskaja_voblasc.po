@@ -154,7 +154,7 @@ msgid "Билеица"
 msgstr ""
 
 # Objects : [w326561340]
-# name:be: []
+# name:be: [Бирвета]
 msgid "Бирвета"
 msgstr ""
 
@@ -203,7 +203,7 @@ msgstr ""
 msgid "Будовица"
 msgstr ""
 
-# Objects : [w249793062, w250437444, w250437445, w250437446]
+# Objects : [w249793062, w250437444, w250437445, w250437446, w25197050]
 # name:be: [Бузянка]
 msgid "Бузянка"
 msgstr ""
@@ -289,8 +289,8 @@ msgid "Волынка"
 msgstr ""
 
 # Objects : [w25082850, w306101700, w306101701, w310932132, w310932133]
-# name:be: [Ворле (Ворлес)]
-msgid "Ворле (Ворлес)"
+# name:be: [Ворле]
+msgid "Ворле"
 msgstr ""
 
 # Objects : [w25037463]
@@ -308,7 +308,7 @@ msgstr ""
 msgid "Выгорка"
 msgstr ""
 
-# Objects : [w25036728]
+# Objects : [w25036728, w345678193, w345678194, w345807520]
 # name:be: [р. Выдрэйка]
 msgid "Выдрейка"
 msgstr ""
@@ -323,7 +323,7 @@ msgstr ""
 msgid "Вымнянка"
 msgstr ""
 
-# Objects : [w25066275]
+# Objects : [w25066275, w343063032, w343063033]
 # name:be: []
 msgid "Вянужка"
 msgstr ""
@@ -428,6 +428,11 @@ msgstr ""
 msgid "Дамба"
 msgstr ""
 
+# Objects : [w343880720]
+# name:be: []
+msgid "Дегтяревка"
+msgstr ""
+
 # Objects : [w25036920]
 # name:be: [р. Дзеравіж]
 msgid "Деревиж"
@@ -453,7 +458,7 @@ msgstr ""
 msgid "Дивать"
 msgstr ""
 
-# Objects : [w160338548, w25066336, w25167718, w25195474]
+# Objects : [w160338548, w25167718]
 # name:be: [Дзісна]
 msgid "Дисна"
 msgstr ""
@@ -548,7 +553,7 @@ msgstr ""
 msgid "Еленка"
 msgstr ""
 
-# Objects : [w25066292, w25066317, w25066432]
+# Objects : [w25066292, w25066432, w343063034]
 # name:be: []
 msgid "Ельнянка"
 msgstr ""
@@ -588,7 +593,7 @@ msgstr ""
 msgid "Заольшанка"
 msgstr ""
 
-# Objects : [r4029974, r4297964, r549362, w160338459, w25196644, w25196673, w25196765, w25196993, w25197345, w25197493, w25197645, w25197839, w25197899, w25198021, w25198085, w25198304, w294746121, w30015476, w30015598, w30015768, w30015769, w30015770, w340153919, w79226572, w80109123, w81886452, w81886741]
+# Objects : [r4029974, r4297964, r5122725, r549362, w160338459, w25196644, w25196673, w25196765, w25196993, w25197345, w25197493, w25197645, w25197839, w25197899, w25198021, w25198085, w25198304, w294746121, w30015476, w30015598, w30015768, w30015769, w30015770, w342833371, w79226572, w80109123, w81886452]
 # name:be: [Заходняя Дзвіна]
 msgid "Западная Двина"
 msgstr ""
@@ -671,11 +676,6 @@ msgstr ""
 # Objects : [w25033048, w25033050]
 # name:be: [р. Івата]
 msgid "Ивата"
-msgstr ""
-
-# Objects : [w25196914]
-# name:be: []
-msgid "Идолта"
 msgstr ""
 
 # Objects : [w25062203]
@@ -1023,7 +1023,7 @@ msgstr ""
 msgid "Мерея"
 msgstr ""
 
-# Objects : [w25068321]
+# Objects : [w25068321, w343113000, w343113001]
 # name:be: []
 msgid "Мерица"
 msgstr ""
@@ -1283,9 +1283,14 @@ msgstr ""
 msgid "оз. Белец"
 msgstr ""
 
-# Objects : [w25188750, w25193743, w25194014, w25194199, w25194332, w25197395, w25197648, w25197907, w25201340]
+# Objects : [w25188750, w25193743, w25194014, w25194199, w25194332, w25197395, w25197648, w25197801, w25197907, w25201340]
 # name:be: [Белае, Белае воз., воз. Белае]
 msgid "оз. Белое"
+msgstr ""
+
+# Objects : [w25197940]
+# name:be: []
+msgid "оз. Бережа"
 msgstr ""
 
 # Objects : [w25200132]
@@ -1328,6 +1333,11 @@ msgstr ""
 msgid "оз. Бикложа"
 msgstr ""
 
+# Objects : [w25195280]
+# name:be: []
+msgid "оз. Ближнее"
+msgstr ""
+
 # Objects : [w25200785]
 # name:be: [воз. Бабрыца]
 msgid "оз. Бобрица"
@@ -1363,7 +1373,7 @@ msgstr ""
 msgid "оз. Болта"
 msgstr ""
 
-# Objects : [w25185464]
+# Objects : [w25185464, w25192063]
 # name:be: []
 msgid "оз. Большое"
 msgstr ""
@@ -1504,7 +1514,7 @@ msgid "оз. Вобренка"
 msgstr ""
 
 # Objects : [w25197346]
-# name:be: [воз Вогзіна]
+# name:be: [воз. Вогзіна]
 msgid "оз. Вогзино"
 msgstr ""
 
@@ -1548,6 +1558,11 @@ msgstr ""
 msgid "оз. Волос Южный"
 msgstr ""
 
+# Objects : [r4868202]
+# name:be: [воз. Ворань]
+msgid "оз. Воронь"
+msgstr ""
+
 # Objects : [r286706]
 # name:be: [воз. Васлепна]
 msgid "оз. Вослепно"
@@ -1578,6 +1593,11 @@ msgstr ""
 msgid "оз. Вымно (спортивное)"
 msgstr ""
 
+# Objects : [w25189520]
+# name:be: [воз. Высокае]
+msgid "оз. Высокое"
+msgstr ""
+
 # Objects : [w25197117]
 # name:be: [воз. Вышадскае]
 msgid "оз. Вышедское"
@@ -1598,7 +1618,7 @@ msgstr ""
 msgid "оз. Глистовик"
 msgstr ""
 
-# Objects : [w25184275, w25195077, w25196419]
+# Objects : [w25184275, w25187172, w25195077, w25196419]
 # name:be: [Глыбокае воз., воз. Глыбокае]
 msgid "оз. Глубокое"
 msgstr ""
@@ -1658,13 +1678,18 @@ msgstr ""
 msgid "оз. Датыно"
 msgstr ""
 
+# Objects : [w25193676]
+# name:be: [воз. Дворышча]
+msgid "оз. Дворище"
+msgstr ""
+
 # Objects : [w25200811]
 # name:be: [воз. Дзевінскае]
 msgid "оз. Девинское"
 msgstr ""
 
 # Objects : [w25196999]
-# name:be: [Дзявочае воз.]
+# name:be: [воз. Дзявочае]
 msgid "оз. Девичье"
 msgstr ""
 
@@ -1688,7 +1713,7 @@ msgstr ""
 msgid "оз. Добрино"
 msgstr ""
 
-# Objects : [w25188837, w25190621, w25192543, w25193431, w25194047, w25194203, w25196897, w25199600]
+# Objects : [w25188837, w25190621, w25192543, w25193431, w25193737, w25194047, w25194203, w25196897, w25199600]
 # name:be: [Доўгае воз., воз. Доўгае]
 msgid "оз. Долгое"
 msgstr ""
@@ -1721,6 +1746,11 @@ msgstr ""
 # Objects : [w25196655]
 # name:be: []
 msgid "оз. Ельно"
+msgstr ""
+
+# Objects : [w23004350]
+# name:be: [воз. Ельня]
+msgid "оз. Ельня"
 msgstr ""
 
 # Objects : [w25188800]
@@ -1771,6 +1801,11 @@ msgstr ""
 # Objects : [w25191262]
 # name:be: []
 msgid "оз. Жуковское"
+msgstr ""
+
+# Objects : [w25188226]
+# name:be: []
+msgid "оз. Жучино"
 msgstr ""
 
 # Objects : [w25200564]
@@ -1853,14 +1888,19 @@ msgstr ""
 msgid "оз. Зосино"
 msgstr ""
 
-# Objects : [w25197625]
+# Objects : [w25196914]
 # name:be: []
-msgid "оз. Ивесь"
+msgid "оз. Идолта"
 msgstr ""
 
 # Objects : [w25201133]
 # name:be: []
 msgid "оз. Иказнь"
+msgstr ""
+
+# Objects : [w25200187]
+# name:be: [воз. Ілава]
+msgid "оз. Илово"
 msgstr ""
 
 # Objects : [w25194788]
@@ -1916,6 +1956,11 @@ msgstr ""
 # Objects : [w25196825]
 # name:be: []
 msgid "оз. Карпово"
+msgstr ""
+
+# Objects : [w120905759]
+# name:be: []
+msgid "оз. Катилово"
 msgstr ""
 
 # Objects : [w25191344]
@@ -2048,6 +2093,11 @@ msgstr ""
 msgid "оз. Куликовское"
 msgstr ""
 
+# Objects : [w25189297]
+# name:be: []
+msgid "оз. Курганистое"
+msgstr ""
+
 # Objects : [w25195510]
 # name:be: [Кураўшчына]
 msgid "оз. Куровщина"
@@ -2126,6 +2176,11 @@ msgstr ""
 # Objects : [w25199453, w25199749]
 # name:be: [воз. Ліпна]
 msgid "оз. Липно"
+msgstr ""
+
+# Objects : [w25193136]
+# name:be: []
+msgid "оз. Лопухи"
 msgstr ""
 
 # Objects : [w25197437]
@@ -2233,6 +2288,11 @@ msgstr ""
 msgid "оз. Маслицкое"
 msgstr ""
 
+# Objects : [w25190864]
+# name:be: []
+msgid "оз. Медведок"
+msgstr ""
+
 # Objects : [r4440657]
 # name:be: [воз. Мядзесна]
 msgid "оз. Медесно"
@@ -2261,6 +2321,11 @@ msgstr ""
 # Objects : [w25191297]
 # name:be: [Мінтуроўскае воз.]
 msgid "оз. Минтуровское"
+msgstr ""
+
+# Objects : [r1833961]
+# name:be: []
+msgid "оз. Миорское"
 msgstr ""
 
 # Objects : [w25188730]
@@ -2378,6 +2443,11 @@ msgstr ""
 msgid "оз. Озёрки"
 msgstr ""
 
+# Objects : [w120905761]
+# name:be: [воз. Акністае]
+msgid "оз. Окнистое"
+msgstr ""
+
 # Objects : [w25196359]
 # name:be: [воз. Альшанка]
 msgid "оз. Ольшанка"
@@ -2398,7 +2468,7 @@ msgstr ""
 msgid "оз. Ореховое"
 msgstr ""
 
-# Objects : [w25201072]
+# Objects : [r2031663]
 # name:be: [воз. Арэхаўскае]
 msgid "оз. Ореховское"
 msgstr ""
@@ -2406,6 +2476,11 @@ msgstr ""
 # Objects : [w25193639]
 # name:be: [Оршына]
 msgid "оз. Оршино"
+msgstr ""
+
+# Objects : [r1833987]
+# name:be: [воз. Асінаўка]
+msgid "оз. Осиновка"
 msgstr ""
 
 # Objects : [w25193988]
@@ -2426,6 +2501,11 @@ msgstr ""
 # Objects : [w25195006]
 # name:be: [воз. Асотна]
 msgid "оз. Осотно"
+msgstr ""
+
+# Objects : [w25186033]
+# name:be: []
+msgid "оз. Остапощково"
 msgstr ""
 
 # Objects : [r2716151]
@@ -2516,6 +2596,11 @@ msgstr ""
 # Objects : [r3279389]
 # name:be: [воз. Плесна]
 msgid "оз. Плесно"
+msgstr ""
+
+# Objects : [w25197504]
+# name:be: [воз. Плоскае]
+msgid "оз. Плоское"
 msgstr ""
 
 # Objects : [w25192651]
@@ -2611,6 +2696,11 @@ msgstr ""
 # Objects : [w25196069]
 # name:be: []
 msgid "оз. Расно"
+msgstr ""
+
+# Objects : [w25187679]
+# name:be: [воз. Рашнае]
+msgid "оз. Рашное"
 msgstr ""
 
 # Objects : [w25184453]
@@ -2728,6 +2818,11 @@ msgstr ""
 msgid "оз.Скрыдлево"
 msgstr ""
 
+# Objects : [w25186860]
+# name:be: []
+msgid "оз. Смовж"
+msgstr ""
+
 # Objects : [w25192150]
 # name:be: []
 msgid "оз. Смоловское"
@@ -2788,7 +2883,7 @@ msgstr ""
 msgid "оз. Стерник"
 msgstr ""
 
-# Objects : [w25191010]
+# Objects : [w25191010, w25197053]
 # name:be: []
 msgid "оз. Стречно"
 msgstr ""
@@ -2808,9 +2903,19 @@ msgstr ""
 msgid "оз. Струсто"
 msgstr ""
 
+# Objects : [w176115907]
+# name:be: [воз. Суйкаўскае]
+msgid "оз. Суйковское"
+msgstr ""
+
 # Objects : [w25192667]
 # name:be: [Сукрэменскае воз.]
 msgid "оз. Сукременское"
+msgstr ""
+
+# Objects : [w25188497]
+# name:be: []
+msgid "оз. Сухое"
 msgstr ""
 
 # Objects : [w25189615, w25199098]
@@ -2836,6 +2941,11 @@ msgstr ""
 # Objects : [r1423753]
 # name:be: [воз. Цёста]
 msgid "оз. Тиосто"
+msgstr ""
+
+# Objects : [w25190982]
+# name:be: []
+msgid "оз. Тоболки"
 msgstr ""
 
 # Objects : [w99408376]
@@ -2903,6 +3013,11 @@ msgstr ""
 msgid "оз. Умильно"
 msgstr ""
 
+# Objects : [w25200375]
+# name:be: [воз. Урада]
+msgid "оз. Урода"
+msgstr ""
+
 # Objects : [r2898355]
 # name:be: [воз. Усая]
 msgid "оз. Усая"
@@ -2953,6 +3068,11 @@ msgstr ""
 msgid "оз. Чербомысло"
 msgstr ""
 
+# Objects : [w25196554]
+# name:be: [воз. Чорная Урада]
+msgid "оз. Чёрная Урода"
+msgstr ""
+
 # Objects : [w25183703, w25186278]
 # name:be: []
 msgid "оз. Чёрненькое"
@@ -2971,6 +3091,11 @@ msgstr ""
 # Objects : [w25199985]
 # name:be: [воз. Чарнова]
 msgid "оз. Черново"
+msgstr ""
+
+# Objects : [w23004224, w25182770]
+# name:be: [воз. Чорнае]
+msgid "оз. Чёрное"
 msgstr ""
 
 # Objects : [w25184753]
@@ -3036,6 +3161,16 @@ msgstr ""
 # Objects : [w25196049]
 # name:be: [воз. Шчыбат]
 msgid "оз. Щибот"
+msgstr ""
+
+# Objects : [w25199189]
+# name:be: []
+msgid "оз. Щолно"
+msgstr ""
+
+# Objects : [w25198305]
+# name:be: []
+msgid "оз. Яжгиня"
 msgstr ""
 
 # Objects : [w25200453]
@@ -3143,11 +3278,6 @@ msgstr ""
 msgid "озеро Озерко"
 msgstr ""
 
-# Objects : [w120905761]
-# name:be: [возера Акністае]
-msgid "озеро Окнистое"
-msgstr ""
-
 # Objects : [w25181380]
 # name:be: [возера Акно]
 msgid "озеро Окно"
@@ -3198,7 +3328,7 @@ msgstr ""
 msgid "Окменица"
 msgstr ""
 
-# Objects : [w25167536]
+# Objects : [w25167536, w342535721]
 # name:be: [Акунёўка]
 msgid "Окуневка"
 msgstr ""
@@ -3448,7 +3578,7 @@ msgstr ""
 msgid "Прудчинская"
 msgstr ""
 
-# Objects : [w25895306]
+# Objects : [r4850637]
 # name:be: [Пастаўскае возера]
 msgid "р. Мяделка"
 msgstr ""
@@ -3518,7 +3648,7 @@ msgstr ""
 msgid "Рудня"
 msgstr ""
 
-# Objects : [w182542861, w182542862, w275902053, w275902054, w306016471, w75778799, w75778801, w75778805, w75778812, w75778814, w75778815]
+# Objects : [w182542861, w182542862, w275902053, w275902054, w306016471, w345141545, w345141546, w75778799, w75778801, w75778805, w75778812, w75778814, w75778815]
 # name:be: []
 msgid "руч. Александровский"
 msgstr ""
@@ -3688,7 +3818,7 @@ msgstr ""
 msgid "Симониха"
 msgstr ""
 
-# Objects : [w25036745, w306631898, w306631899]
+# Objects : [w25036745, w306631898, w306631899, w345811676, w345811677]
 # name:be: [Скулянка]
 msgid "Скулянка"
 msgstr ""
@@ -3908,7 +4038,7 @@ msgstr ""
 msgid "Усыса"
 msgstr ""
 
-# Objects : [w105246102, w160034425, w25061182, w25061227, w25061293, w25062508, w25062719, w25062765, w25062766, w25062774, w25064101]
+# Objects : [w105246102, w160034425, w25061182, w25061227, w25062508, w25062719, w25062765, w25062766, w25062774, w25064101]
 # name:be: [Ушача, р. Ушача]
 msgid "Ушача"
 msgstr ""

@@ -3,6 +3,11 @@
 msgid "Военкомат"
 msgstr ""
 
+# Objects : [w344215876, w344216839]
+# name:be: []
+msgid "гараж"
+msgstr ""
+
 # Objects : [w157259739]
 # name:be: []
 msgid "Городская баня"
@@ -26,6 +31,11 @@ msgstr ""
 # Objects : [w157228859]
 # name:be: []
 msgid "Дом пана Глазко"
+msgstr ""
+
+# Objects : [w344277817]
+# name:be: []
+msgid "кн"
 msgstr ""
 
 # Objects : [w157228871, w157259760]
@@ -56,6 +66,11 @@ msgstr ""
 # Objects : [w157228874]
 # name:be: []
 msgid "Музей боевой славы"
+msgstr ""
+
+# Objects : [w344216840, w344221740, w344226510, w344226512, w344226513, w344277818]
+# name:be: []
+msgid "н"
 msgstr ""
 
 # Objects : [w157228878]
@@ -126,6 +141,11 @@ msgstr ""
 # Objects : [w157228897, w157515540]
 # name:be: []
 msgid "Славянский"
+msgstr ""
+
+# Objects : [w344438618]
+# name:be: []
+msgid "станция обезжелезивания"
 msgstr ""
 
 # Objects : [w156996000]

@@ -83,6 +83,11 @@ msgstr ""
 msgid "Лукомльская ГРЭС"
 msgstr ""
 
+# Objects : [r4680037]
+# name:be: []
+msgid "Лукомльский сельский Совет"
+msgstr ""
+
 # Objects : [n1137585554]
 # name:be: [Міліцыя]
 msgid "Милиция"

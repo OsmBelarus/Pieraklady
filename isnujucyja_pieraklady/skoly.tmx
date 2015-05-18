@@ -280,6 +280,10 @@
       <tuv lang="BE"><seg>Медыцынскі каледж</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минская школа киноискусства</seg></tuv>
+      <tuv lang="BE"><seg>Мінская школа кінамастацтва</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Муз. школа №1</seg></tuv>
       <tuv lang="BE"><seg>Муз. школа №1</seg></tuv>
     </tu>
@@ -426,10 +430,6 @@
     <tu>
       <tuv lang="RU"><seg>Средняя школа №19</seg></tuv>
       <tuv lang="BE"><seg>Сярэдняя школа №19</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Средняя школа №199</seg></tuv>
-      <tuv lang="BE"><seg>Сярэдняя школа №199</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Средняя школа №2</seg></tuv>
@@ -652,6 +652,10 @@
       <tuv lang="BE"><seg>СШ №197</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>СШ №199</seg></tuv>
+      <tuv lang="BE"><seg>СШ №199</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>СШ №2</seg></tuv>
       <tuv lang="BE"><seg>СШ №2</seg></tuv>
     </tu>
@@ -678,10 +682,6 @@
     <tu>
       <tuv lang="RU"><seg>СШ №219</seg></tuv>
       <tuv lang="BE"><seg>СШ №219</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>СШ№25</seg></tuv>
-      <tuv lang="BE"><seg>СШ 25</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>СШ №3</seg></tuv>
@@ -726,10 +726,6 @@
     <tu>
       <tuv lang="RU"><seg>СШ № 66</seg></tuv>
       <tuv lang="BE"><seg>СШ № 66</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>СШ №68</seg></tuv>
-      <tuv lang="BE"><seg>СШ №68</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>СШ №7</seg></tuv>

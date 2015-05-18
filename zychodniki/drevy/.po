@@ -19,8 +19,8 @@ msgid "Аллея 940 летия Минска"
 msgstr ""
 
 # Objects : [w135798422]
-# name:be: []
-msgid "Аллея Молодоженов"
+# name:be: [Алея Маладых]
+msgid "Аллея Молодожёнов"
 msgstr ""
 
 # Objects : [w107748466]
@@ -38,19 +38,24 @@ msgstr ""
 msgid "Бондаревский сквер"
 msgstr ""
 
+# Objects : [w101783862]
+# name:be: [Брагінскі сквер]
+msgid "Брагинский сквер"
+msgstr ""
+
 # Objects : [w23586619]
 # name:be: [Бульвар Данілы Сердзіча]
 msgid "Бульвар Данилы Сердича"
 msgstr ""
 
 # Objects : [w100139141]
-# name:be: []
+# name:be: [Бульвар Трактарабудаўнікоў]
 msgid "Бульвар Мулявина"
 msgstr ""
 
 # Objects : [w32562255, w32562263]
-# name:be: []
-msgid "бульвар Толбухина"
+# name:be: [Бульвар Таўбухіна]
+msgid "Бульвар Толбухина"
 msgstr ""
 
 # Objects : [w100145129]
@@ -61,11 +66,6 @@ msgstr ""
 # Objects : [w84586436, w84586481]
 # name:be: [Бульвар Шаўчэнкі]
 msgid "Бульвар Шевченко"
-msgstr ""
-
-# Objects : [w82097628]
-# name:be: []
-msgid "Внутренний дворик БГУ"
 msgstr ""
 
 # Objects : [n2794243477]
@@ -114,7 +114,7 @@ msgid "Лесопарковая зона "Медвежино""
 msgstr ""
 
 # Objects : [w36129498]
-# name:be: []
+# name:be: [Лютаранскі сквер]
 msgid "Лютеранский сквер"
 msgstr ""
 
@@ -144,13 +144,18 @@ msgid "Минина"
 msgstr ""
 
 # Objects : [w135798765]
-# name:be: []
+# name:be: [Мінскі заапарк]
 msgid "Минский зоопарк"
 msgstr ""
 
 # Objects : [w244053458]
-# name:be: []
+# name:be: [Міхайлаўскі сквер]
 msgid "Михайловский сквер"
+msgstr ""
+
+# Objects : [w101783526]
+# name:be: [Мазырскі сквер]
+msgid "Мозырский Сквер"
 msgstr ""
 
 # Objects : [w335326413]
@@ -159,7 +164,7 @@ msgid "Ольшевский сквер"
 msgstr ""
 
 # Objects : [n2621400662, n2621401414, n2621402373, n2621403450, n2621405338]
-# name:be: []
+# name:be: [Парк]
 msgid "Парк"
 msgstr ""
 
@@ -168,14 +173,14 @@ msgstr ""
 msgid "Парк 40-летия Октября"
 msgstr ""
 
-# Objects : [w23554339]
-# name:be: []
-msgid "Парк 900-летия Минска"
+# Objects : [w23558822]
+# name:be: [Парк 60-годдзя Кастрычніка]
+msgid "Парк 60-летия Октября"
 msgstr ""
 
-# Objects : [n3195502447]
-# name:be: []
-msgid "Парк аттракционов"
+# Objects : [w23554339]
+# name:be: [Парк 900-годдзя Мінска]
+msgid "Парк 900-летия Минска"
 msgstr ""
 
 # Objects : [w101975595]
@@ -183,49 +188,24 @@ msgstr ""
 msgid "Парк города-побратима Чанчунь"
 msgstr ""
 
+# Objects : [w30951233]
+# name:be: [Парк Горкага]
+msgid "Парк Горького"
+msgstr ""
+
+# Objects : [w23973853]
+# name:be: [Парк Грэкавай]
+msgid "Парк Грековой"
+msgstr ""
+
 # Objects : [w136697793]
 # name:be: [парк Дзівівелка]
 msgid "парк Дививелка"
 msgstr ""
 
-# Objects : [w25721252, w332098996]
-# name:be: [Парк Дружбы народаў]
-msgid "Парк Дружбы народов"
-msgstr ""
-
-# Objects : [n3106612247]
-# name:be: []
+# Objects : [n3106612247, w25721252, w332098996]
+# name:be: [Парк Дружбы Народаў]
 msgid "Парк Дружбы Народов"
-msgstr ""
-
-# Objects : [w23973853]
-# name:be: [Парк імя Грэкавай]
-msgid "парк им. Грековой"
-msgstr ""
-
-# Objects : [w23554162]
-# name:be: [Парк імя Чалюскінцаў]
-msgid "Парк им. Челюскинцев"
-msgstr ""
-
-# Objects : [w102188799]
-# name:be: [парк імя Янкі Купалы]
-msgid "парк им. Янки Купалы"
-msgstr ""
-
-# Objects : [w23558822]
-# name:be: [Парк імя 60-годдзя Кастрычніка]
-msgid "Парк имени 60-летия Октября"
-msgstr ""
-
-# Objects : [w80243457]
-# name:be: [Парк імя Міхаіла Паўлава]
-msgid "Парк имени Михаила Павлова"
-msgstr ""
-
-# Objects : [w230094117]
-# name:be: []
-msgid "Парк имени Уго Чавеса"
 msgstr ""
 
 # Objects : [w41199124]
@@ -236,6 +216,11 @@ msgstr ""
 # Objects : [w23554110]
 # name:be: [Парк Марата Казея]
 msgid "Парк Марата Казея"
+msgstr ""
+
+# Objects : [w80243457]
+# name:be: [Парк Міхаіла Паўлава]
+msgid "Парк Михаила Павлова"
 msgstr ""
 
 # Objects : [n3095522352]
@@ -253,9 +238,24 @@ msgstr ""
 msgid "Парк Тиволи"
 msgstr ""
 
+# Objects : [w230094117]
+# name:be: [Парк Угі Чавэса]
+msgid "Парк Уго Чавеса"
+msgstr ""
+
 # Objects : [n991738219]
-# name:be: [парк Уручча]
-msgid "парк Уручье"
+# name:be: [Парк Уручча]
+msgid "Парк Уручье"
+msgstr ""
+
+# Objects : [w23554162]
+# name:be: [Парк Чалюскінцаў]
+msgid "Парк Челюскинцев"
+msgstr ""
+
+# Objects : [w102188799]
+# name:be: [Парк Янкі Купалы]
+msgid "Парк Янки Купалы"
 msgstr ""
 
 # Objects : [w84585498]
@@ -279,7 +279,7 @@ msgid "Сендайский сквер"
 msgstr ""
 
 # Objects : [w245834861]
-# name:be: []
+# name:be: [Сквер]
 msgid "Сквер"
 msgstr ""
 
@@ -293,34 +293,24 @@ msgstr ""
 msgid "сквер Беларусь партизанская"
 msgstr ""
 
-# Objects : [w101783862]
-# name:be: [Брагінскі сквер]
-msgid "Сквер Брагинский"
-msgstr ""
-
 # Objects : [w23558836]
 # name:be: [Сквер Дубкі]
 msgid "Сквер Дубки"
 msgstr ""
 
-# Objects : [w66832236]
-# name:be: []
-msgid "Сквер имени Симона Боливара"
-msgstr ""
-
 # Objects : [w100144576]
-# name:be: [сквер Клумава]
-msgid "сквер Клумова"
-msgstr ""
-
-# Objects : [w101783526]
-# name:be: [Мазырскі сквер]
-msgid "Сквер Мозырский"
+# name:be: [Сквер Клумава]
+msgid "Сквер Клумова"
 msgstr ""
 
 # Objects : [n993876900]
-# name:be: [сквер Амара Хаяма]
-msgid "сквер Омара Хайяма"
+# name:be: [Сквер Амара Хаяма]
+msgid "Сквер Омара Хайяма"
+msgstr ""
+
+# Objects : [w66832236]
+# name:be: [Сквер Сімона Балівара]
+msgid "Сквер Симона Боливара"
 msgstr ""
 
 # Objects : [w100145130]
@@ -356,11 +346,6 @@ msgstr ""
 # Objects : [w41179005]
 # name:be: [Тучынскі сквер]
 msgid "Тучинский сквер"
-msgstr ""
-
-# Objects : [w30951233]
-# name:be: [Цэнтральны дзіцячы парк імя Максіма Горкага]
-msgid "Центральный детский парк имени Максима Горького"
 msgstr ""
 
 # Objects : [w102306995]

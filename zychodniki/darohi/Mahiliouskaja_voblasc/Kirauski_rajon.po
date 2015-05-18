@@ -113,12 +113,7 @@ msgstr ""
 msgid "Полевая улица"
 msgstr ""
 
-# Objects : [w207547185]
-# name:be: []
-msgid "Приозёрная"
-msgstr ""
-
-# Objects : [w207712982]
+# Objects : [w207547185, w207712982]
 # name:be: []
 msgid "Приозёрная улица"
 msgstr ""
@@ -208,7 +203,7 @@ msgstr ""
 msgid "Юбилейная улица"
 msgstr ""
 
-# Objects : [w207599359]
+# Objects : [w207599359, w235245989]
 # name:be: []
 msgid "Южная улица"
 msgstr ""

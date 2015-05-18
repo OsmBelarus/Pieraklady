@@ -28,10 +28,6 @@
       <tuv lang="BE"><seg>1-ы Асенні завулак</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>1-й переулок Артёма</seg></tuv>
-      <tuv lang="BE"><seg>1-ы завулак Арцёма</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>1-й переулок Лермонтова</seg></tuv>
       <tuv lang="BE"><seg>1-ы завулак Лермантава</seg></tuv>
     </tu>
@@ -184,10 +180,6 @@
       <tuv lang="BE"><seg>5-ы Брэсцкі завулак</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>6-й переулок Куйбышева</seg></tuv>
-      <tuv lang="BE"><seg>6-ы завулак Куйбышава</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>8-я Иногородняя улица</seg></tuv>
       <tuv lang="BE"><seg>8-я Іншагародняя вуліца</seg></tuv>
     </tu>
@@ -210,10 +202,6 @@
     <tu>
       <tuv lang="RU"><seg>Биологическая улица</seg></tuv>
       <tuv lang="BE"><seg>Біялагічная вуліца</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Болотная улица</seg></tuv>
-      <tuv lang="BE"><seg>Балотная вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Больничный переулок</seg></tuv>
@@ -248,20 +236,12 @@
       <tuv lang="BE"><seg>Вакзальная вуліца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Высокий переулок</seg></tuv>
-      <tuv lang="BE"><seg>Высокі завулак</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Гаражный проезд</seg></tuv>
       <tuv lang="BE"><seg>Гаражны праезд</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гарбарский переулок</seg></tuv>
       <tuv lang="BE"><seg>Гарбарскі завулак</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Геологическая улица</seg></tuv>
-      <tuv lang="BE"><seg>Геалагічная вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Грушевая улица</seg></tuv>
@@ -314,10 +294,6 @@
     <tu>
       <tuv lang="RU"><seg>Зелёный переулок</seg></tuv>
       <tuv lang="BE"><seg>Зялёны завулак</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Илимская улица</seg></tuv>
-      <tuv lang="BE"><seg>Ілімская вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная улица</seg></tuv>
@@ -456,6 +432,10 @@
       <tuv lang="BE"><seg>Набярэжная вуліца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Нагорная улица</seg></tuv>
+      <tuv lang="BE"><seg>Нагорная вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Невельский переулок</seg></tuv>
       <tuv lang="BE"><seg>Невельскі завулак</seg></tuv>
     </tu>
@@ -544,10 +524,6 @@
       <tuv lang="BE"><seg>завулак Майкава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>переулок Маяковского</seg></tuv>
-      <tuv lang="BE"><seg>завулак Маякоўскага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>переулок Менделеева</seg></tuv>
       <tuv lang="BE"><seg>завулак Мендзялеева</seg></tuv>
     </tu>
@@ -570,10 +546,6 @@
     <tu>
       <tuv lang="RU"><seg>переулок Тимирязева</seg></tuv>
       <tuv lang="BE"><seg>завулак Ціміразева</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>переулок Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>завулак Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>переулок Чкалова</seg></tuv>
@@ -622,10 +594,6 @@
     <tu>
       <tuv lang="RU"><seg>Полоцкий переулок</seg></tuv>
       <tuv lang="BE"><seg>Полацкі завулак</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Полярная улица</seg></tuv>
-      <tuv lang="BE"><seg>Палярная вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Почтовый переулок</seg></tuv>
@@ -712,10 +680,6 @@
       <tuv lang="BE"><seg>Слаўны завулак</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Слободской переулок</seg></tuv>
-      <tuv lang="BE"><seg>Слабадскі завулак</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Слонимская улица</seg></tuv>
       <tuv lang="BE"><seg>Слонімская вуліца</seg></tuv>
     </tu>
@@ -758,10 +722,6 @@
     <tu>
       <tuv lang="RU"><seg>Степной переулок</seg></tuv>
       <tuv lang="BE"><seg>Стэпавы завулак</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Степянская улица</seg></tuv>
-      <tuv lang="BE"><seg>Сцяпянская вуліца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Страконицкий бульвар</seg></tuv>
@@ -1074,10 +1034,6 @@
     <tu>
       <tuv lang="RU"><seg>улица Розы Люксембург</seg></tuv>
       <tuv lang="BE"><seg>вуліца Розы Люксембург</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>улица Ромашкина</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Рамашкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Серебренникова</seg></tuv>

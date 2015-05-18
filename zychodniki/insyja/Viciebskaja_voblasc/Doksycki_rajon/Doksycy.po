@@ -93,6 +93,11 @@ msgstr ""
 msgid "Докшицы"
 msgstr ""
 
+# Objects : [w344735919]
+# name:be: []
+msgid "Еврейское кладбище"
+msgstr ""
+
 # Objects : [n2667353900]
 # name:be: []
 msgid "Инспекция МНС по Докшицкому району"

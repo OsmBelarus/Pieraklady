@@ -63,6 +63,11 @@ msgstr ""
 msgid "Парковая улица"
 msgstr ""
 
+# Objects : [w151987400]
+# name:be: []
+msgid "Первомайская улица"
+msgstr ""
+
 # Objects : [w30110853]
 # name:be: []
 msgid "Полевая улица"
@@ -108,7 +113,7 @@ msgstr ""
 msgid "улица 17 Сентября"
 msgstr ""
 
-# Objects : [w151987400, w201534773]
+# Objects : [w201534773]
 # name:be: []
 msgid "улица 1 Мая"
 msgstr ""

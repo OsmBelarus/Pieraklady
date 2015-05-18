@@ -53,11 +53,6 @@ msgstr ""
 msgid "Водонапорная башня"
 msgstr ""
 
-# Objects : [w35142854]
-# name:be: []
-msgid "Вяча"
-msgstr ""
-
 # Objects : [n419178930]
 # name:be: []
 msgid "Горнолыжная база Логойск"
@@ -106,11 +101,6 @@ msgstr ""
 # Objects : [w295565118]
 # name:be: []
 msgid "Лесное-90"
-msgstr ""
-
-# Objects : [w157315463]
-# name:be: []
-msgid "Магазин Янушковский"
 msgstr ""
 
 # Objects : [n306063679, w34850401]

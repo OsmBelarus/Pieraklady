@@ -13,11 +13,6 @@ msgstr ""
 msgid "1-й Осенний переулок"
 msgstr ""
 
-# Objects : [w58765050]
-# name:be: [1-ы завулак Арцёма]
-msgid "1-й переулок Артёма"
-msgstr ""
-
 # Objects : [w25226445]
 # name:be: [1-ы завулак Металістаў]
 msgid "1-й переулок Металлистов"
@@ -58,11 +53,6 @@ msgstr ""
 msgid "аллея Тополя канадского"
 msgstr ""
 
-# Objects : [w25225427]
-# name:be: [Балотная вуліца]
-msgid "Болотная улица"
-msgstr ""
-
 # Objects : [w138156483]
 # name:be: [Вірская вуліца]
 msgid "Вирская улица"
@@ -71,16 +61,6 @@ msgstr ""
 # Objects : [w25229271]
 # name:be: [Вішнёвы завулак]
 msgid "Вишнёвый переулок"
-msgstr ""
-
-# Objects : [w25225452]
-# name:be: [Высокі завулак]
-msgid "Высокий переулок"
-msgstr ""
-
-# Objects : [w25225406]
-# name:be: [Геалагічная вуліца]
-msgid "Геологическая улица"
 msgstr ""
 
 # Objects : [w305862648]
@@ -96,11 +76,6 @@ msgstr ""
 # Objects : [w42823699, w42824428]
 # name:be: [Язмінавая вуліца]
 msgid "Жасминовая улица"
-msgstr ""
-
-# Objects : [w135168764]
-# name:be: [Ілімская вуліца]
-msgid "Илимская улица"
 msgstr ""
 
 # Objects : [w25229535]
@@ -171,11 +146,6 @@ msgstr ""
 # Objects : [w25229255]
 # name:be: [Полацкі завулак]
 msgid "Полоцкий переулок"
-msgstr ""
-
-# Objects : [w25225105, w99688751]
-# name:be: [Палярная вуліца]
-msgid "Полярная улица"
 msgstr ""
 
 # Objects : [w42318618]
@@ -291,11 +261,6 @@ msgstr ""
 # Objects : [w25229520]
 # name:be: [Стэпавы завулак]
 msgid "Степной переулок"
-msgstr ""
-
-# Objects : [w25225102]
-# name:be: [Сцяпянская вуліца]
-msgid "Степянская улица"
 msgstr ""
 
 # Objects : [w25229258]
@@ -428,23 +393,13 @@ msgstr ""
 msgid "Экскаваторный переулок"
 msgstr ""
 
-# Objects : [w25225103]
-# name:be: [Паўднёвая вуліца]
-msgid "Южная улица"
-msgstr ""
-
 # Objects : [w151724687]
 # name:be: [Бурштынавы завулак]
 msgid "Янтарный переулок"
 msgstr ""
 
-# Objects : [w25225136, w25225453]
+# Objects : [w25225453]
 # name:be: [Ясная вуліца]
 msgid "Ясная улица"
-msgstr ""
-
-# Objects : [w77500366]
-# name:be: [Ясны завулак]
-msgid "Ясный переулок"
 msgstr ""
 

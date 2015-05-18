@@ -113,6 +113,11 @@ msgstr ""
 msgid "Спортивный переулок"
 msgstr ""
 
+# Objects : [w131590160]
+# name:be: []
+msgid "ул. Брестская ?"
+msgstr ""
+
 # Objects : [w25307844]
 # name:be: [вуліца Багдановіча]
 msgid "улица Богдановича"

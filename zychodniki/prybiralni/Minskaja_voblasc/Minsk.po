@@ -1,8 +1,3 @@
-# Objects : [n3045985533]
-# name:be: []
-msgid "Бесплатный туалет"
-msgstr ""
-
 # Objects : [n3286395761]
 # name:be: []
 msgid "Магазин разливного пива"
@@ -13,7 +8,7 @@ msgstr ""
 msgid "Платный туалет"
 msgstr ""
 
-# Objects : [n281595904]
+# Objects : [n1596668534, n281595904, n3045985533]
 # name:be: [Прыбiральня]
 msgid "Туалет"
 msgstr ""

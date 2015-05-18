@@ -33,6 +33,11 @@ msgstr ""
 msgid "Букштово"
 msgstr ""
 
+# Objects : [n2586456415, w252595338]
+# name:be: [Вялікая Воля]
+msgid "Великая Воля"
+msgstr ""
+
 # Objects : [n242986527, w25142793]
 # name:be: [Вялікія Азёркі]
 msgid "Великие Озёрки"

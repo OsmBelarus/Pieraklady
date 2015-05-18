@@ -74,8 +74,8 @@ msgid "Бук"
 msgstr ""
 
 # Objects : [n243042297, w25085374]
-# name:be: [Васілева]
-msgid "Василево"
+# name:be: [Васілёва]
+msgid "Василёво"
 msgstr ""
 
 # Objects : [n243046805, w25083735]
@@ -153,11 +153,6 @@ msgstr ""
 msgid "Гроза"
 msgstr ""
 
-# Objects : [w48615470]
-# name:be: []
-msgid "дачи"
-msgstr ""
-
 # Objects : [n243046421, w25081281]
 # name:be: [Дзікалаўка]
 msgid "Диколовка"
@@ -178,7 +173,7 @@ msgstr ""
 msgid "Дубино"
 msgstr ""
 
-# Objects : [n243042294, n243042299, w25085354, w25085362]
+# Objects : [n243042299, r4847827]
 # name:be: [Дубавец]
 msgid "Дубовец"
 msgstr ""
@@ -433,12 +428,12 @@ msgstr ""
 msgid "Маковье"
 msgstr ""
 
-# Objects : [n243042200, w25085279, w25085296]
+# Objects : [n243042200, w25085279]
 # name:be: [Малінаўка]
 msgid "Малиновка"
 msgstr ""
 
-# Objects : [n243042198]
+# Objects : [n243042198, w25085296]
 # name:be: [Малінаўка Целяшоўская]
 msgid "Малиновка Телешовская"
 msgstr ""
@@ -466,11 +461,6 @@ msgstr ""
 # Objects : [n243046218, w25083812]
 # name:be: [Межы]
 msgid "Межи"
-msgstr ""
-
-# Objects : [n243042182, w25085304]
-# name:be: [Мікольск]
-msgid "Микольск"
 msgstr ""
 
 # Objects : [n243046214, w25083799]
@@ -521,6 +511,11 @@ msgstr ""
 # Objects : [n243042293, w25085356]
 # name:be: [Някрасава]
 msgid "Некрасово"
+msgstr ""
+
+# Objects : [n243042182, w25085304]
+# name:be: [Нікольск]
+msgid "Никольск"
 msgstr ""
 
 # Objects : [n243046160, w25083788]

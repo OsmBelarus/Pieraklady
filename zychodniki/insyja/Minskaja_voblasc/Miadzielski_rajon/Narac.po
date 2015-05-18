@@ -1,3 +1,13 @@
+# Objects : [n3486874093]
+# name:be: []
+msgid "белагропромбанк"
+msgstr ""
+
+# Objects : [n3486866462]
+# name:be: []
+msgid "беларусьбанк"
+msgstr ""
+
 # Objects : [n1365666993]
 # name:be: [Нарач]
 msgid "Нарочь"
@@ -18,6 +28,11 @@ msgstr ""
 msgid "Пансионат Нарочанский берег"
 msgstr ""
 
+# Objects : [n3486870676]
+# name:be: []
+msgid "поликлиника"
+msgstr ""
+
 # Objects : [n3478513986, n3478534549, n3478562726]
 # name:be: []
 msgid "родник"
@@ -31,6 +46,11 @@ msgstr ""
 # Objects : [n2766722545]
 # name:be: []
 msgid "Санаторий Нарочь"
+msgstr ""
+
+# Objects : [n3486853515]
+# name:be: []
+msgid "фонтан"
 msgstr ""
 
 # Objects : [w229716102]

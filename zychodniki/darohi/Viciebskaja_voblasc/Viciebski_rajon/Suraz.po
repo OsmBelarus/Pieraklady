@@ -53,6 +53,11 @@ msgstr ""
 msgid "Льнозаводская улица"
 msgstr ""
 
+# Objects : [w234966103]
+# name:be: []
+msgid "Мельничная улица"
+msgstr ""
+
 # Objects : [w206102405]
 # name:be: [Моладзевая вуліца]
 msgid "Молодёжная улица"

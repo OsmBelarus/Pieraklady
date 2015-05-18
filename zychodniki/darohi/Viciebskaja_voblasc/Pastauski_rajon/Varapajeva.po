@@ -48,6 +48,11 @@ msgstr ""
 msgid "Молодёжная улица"
 msgstr ""
 
+# Objects : [w121476800]
+# name:be: []
+msgid "переулок 17 Сентября"
+msgstr ""
+
 # Objects : [w180807323]
 # name:be: [Піянерская вуліца]
 msgid "Пионерская улица"

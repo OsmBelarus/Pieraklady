@@ -43,6 +43,11 @@ msgstr ""
 msgid "Выжер"
 msgstr ""
 
+# Objects : [n3489633439]
+# name:be: []
+msgid "Гостевой дом "Переров""
+msgstr ""
+
 # Objects : [n2766728056]
 # name:be: []
 msgid "Гута"
@@ -116,6 +121,11 @@ msgstr ""
 # Objects : [n3074575293]
 # name:be: []
 msgid "Мост царской дороги"
+msgstr ""
+
+# Objects : [n2125748628]
+# name:be: []
+msgid "Музей народного быта"
 msgstr ""
 
 # Objects : [n242987238, w25142120]

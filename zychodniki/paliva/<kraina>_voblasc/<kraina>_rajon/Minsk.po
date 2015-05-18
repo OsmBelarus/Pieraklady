@@ -138,7 +138,7 @@ msgstr ""
 msgid "Бутан"
 msgstr ""
 
-# Objects : [w201305915]
+# Objects : [w201305915, w25387749]
 # name:be: []
 msgid "Газпромнефть"
 msgstr ""
@@ -148,9 +148,14 @@ msgstr ""
 msgid "Газпромнефть №48"
 msgstr ""
 
-# Objects : [n255020776, n278522500, w62212425]
+# Objects : [n255020776, n278522500, n3484282425]
 # name:be: [Лукоiл, Лукойл]
 msgid "Лукойл"
+msgstr ""
+
+# Objects : [n441586307]
+# name:be: []
+msgid "Лукойл Беларусь"
 msgstr ""
 
 # Objects : [n2283391518]
@@ -186,11 +191,6 @@ msgstr ""
 # Objects : [n1780135336]
 # name:be: [Звадкаваны газ]
 msgid "Сжиженный газ"
-msgstr ""
-
-# Objects : [w25387749]
-# name:be: []
-msgid "Славнефть"
 msgstr ""
 
 # Objects : [n650636068]

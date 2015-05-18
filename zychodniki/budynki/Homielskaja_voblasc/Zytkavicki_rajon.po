@@ -8,6 +8,11 @@ msgstr ""
 msgid "Комбинат бытового обслуживания"
 msgstr ""
 
+# Objects : [w341831472]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
 # Objects : [w293381061]
 # name:be: []
 msgid "насосная"
@@ -31,6 +36,11 @@ msgstr ""
 # Objects : [w289504368]
 # name:be: []
 msgid "Фельдшерско-акушерский пункт"
+msgstr ""
+
+# Objects : [w341836373]
+# name:be: []
+msgid "Ферма"
 msgstr ""
 
 # Objects : [w292994762]

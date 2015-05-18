@@ -3,11 +3,6 @@
 msgid "Garb Włodawski"
 msgstr ""
 
-# Objects : [r4520071]
-# name:be: []
-msgid "Park Krajobrazowy Podlaski Przełom Bugu"
-msgstr ""
-
 # Objects : [r1757706]
 # name:be: []
 msgid "Podlaski Przełom Bugu"
@@ -228,6 +223,11 @@ msgstr ""
 msgid "Отель Chalet Greenwood"
 msgstr ""
 
+# Objects : [n3519185839]
+# name:be: []
+msgid "Памятник расстрелянным детям Домачевского детского дома"
+msgstr ""
+
 # Objects : [w110516532]
 # name:be: []
 msgid "Пилорама"
@@ -278,6 +278,11 @@ msgstr ""
 msgid "Приусадебный парк при бывшем фольварке Игнацейкав"
 msgstr ""
 
+# Objects : [n3519185838]
+# name:be: []
+msgid "Протест"
+msgstr ""
+
 # Objects : [n1495217213]
 # name:be: []
 msgid "ПС Аэропорт"
@@ -291,6 +296,11 @@ msgstr ""
 # Objects : [w25196077]
 # name:be: []
 msgid "Рогознянское"
+msgstr ""
+
+# Objects : [w344724208]
+# name:be: []
+msgid "Рыбхоз"
 msgstr ""
 
 # Objects : [n2766728213]
@@ -413,7 +423,7 @@ msgstr ""
 msgid "Церковь Рождества Пресвятой Богородицы"
 msgstr ""
 
-# Objects : [n2788686358, n2788686364]
+# Objects : [n2788686364]
 # name:be: [Царква Святога Міхала Арханёла]
 msgid "Церковь Святого Архангела Михаила"
 msgstr ""

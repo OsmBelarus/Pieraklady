@@ -98,7 +98,7 @@ msgstr ""
 msgid "Братская могила"
 msgstr ""
 
-# Objects : [r4207836, w191030525, w198111367]
+# Objects : [r4207836, w191030525]
 # name:be: []
 msgid "Весовая"
 msgstr ""
@@ -183,6 +183,11 @@ msgstr ""
 msgid "Дачи"
 msgstr ""
 
+# Objects : [w345637619]
+# name:be: []
+msgid "Дендропарк"
+msgstr ""
+
 # Objects : [n243042795, w25083976]
 # name:be: [Дзеснянінава]
 msgid "Десняниново"
@@ -196,6 +201,11 @@ msgstr ""
 # Objects : [w171587250]
 # name:be: []
 msgid "Доломитовый карьер "Гралёво""
+msgstr ""
+
+# Objects : [n3485206002, n3485206003]
+# name:be: []
+msgid "Дыманово"
 msgstr ""
 
 # Objects : [w37730092]
@@ -236,11 +246,6 @@ msgstr ""
 # Objects : [w37730093]
 # name:be: [Ізаляцыйны фланец]
 msgid "Изолирующий фланец"
-msgstr ""
-
-# Objects : [n1537179684]
-# name:be: [Інтэрнэт WiFi]
-msgid "Интернет WiFi"
 msgstr ""
 
 # Objects : [w77229686]
@@ -308,7 +313,7 @@ msgstr ""
 msgid "Летчикам"
 msgstr ""
 
-# Objects : [w170063403, w303559981]
+# Objects : [w170063403, w345678196]
 # name:be: [Лінія Смаленск — Віцебск]
 msgid "Линия Смоленск - Витебск"
 msgstr ""
@@ -318,7 +323,7 @@ msgstr ""
 msgid "Лосвидо"
 msgstr ""
 
-# Objects : [n2357543363, n27239792, w25090461]
+# Objects : [n27239792]
 # name:be: [Лужасна]
 msgid "Лужесно"
 msgstr ""
@@ -326,6 +331,11 @@ msgstr ""
 # Objects : [n3328857933, n3328857934]
 # name:be: [Лычкоўскага]
 msgid "Лычковского"
+msgstr ""
+
+# Objects : [w57394388]
+# name:be: []
+msgid "Магазин "Должа""
 msgstr ""
 
 # Objects : [w174739695]
@@ -463,6 +473,11 @@ msgstr ""
 msgid "Пилорама"
 msgstr ""
 
+# Objects : [w345357408]
+# name:be: [Племянны свінакомплекс]
+msgid "Племенной свинокомплекс"
+msgstr ""
+
 # Objects : [w37437032]
 # name:be: [Пляцоўка запорнай арматуры]
 msgid "Площадка запорн. арм-ры"
@@ -588,6 +603,11 @@ msgstr ""
 msgid "Скробово"
 msgstr ""
 
+# Objects : [n3207127461, w333578074]
+# name:be: [Слабада Жукаўская]
+msgid "Слобода Жуковская"
+msgstr ""
+
 # Objects : [n3097301135]
 # name:be: [савецкім воінам]
 msgid "советским воинам"
@@ -683,6 +703,11 @@ msgstr ""
 msgid "СТ «Стоматолог»"
 msgstr ""
 
+# Objects : [w345634017]
+# name:be: [СТ «Суднікі»]
+msgid "СТ «Судники»"
+msgstr ""
+
 # Objects : [w28256306]
 # name:be: []
 msgid "СТ «Урожайные сотки»"
@@ -696,11 +721,6 @@ msgstr ""
 # Objects : [n447870460]
 # name:be: [Стайкі—Сянькова]
 msgid "Стайки-Сеньково"
-msgstr ""
-
-# Objects : [n2411191408]
-# name:be: []
-msgid "Станция Лужесно"
 msgstr ""
 
 # Objects : [n1613920598]

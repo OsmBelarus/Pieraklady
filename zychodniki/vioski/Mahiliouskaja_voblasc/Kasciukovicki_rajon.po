@@ -553,11 +553,6 @@ msgstr ""
 msgid "Ручей"
 msgstr ""
 
-# Objects : [w25078201]
-# name:be: [Рысін]
-msgid "Рысин"
-msgstr ""
-
 # Objects : [n243047185, w25078282]
 # name:be: [Саматэвічы]
 msgid "Самотевичи"
@@ -618,11 +613,6 @@ msgstr ""
 msgid "Теханичи"
 msgstr ""
 
-# Objects : [w25078581]
-# name:be: []
-msgid "Титовка"
-msgstr ""
-
 # Objects : [n243047354, w25077986]
 # name:be: [Траянаўка]
 msgid "Трояновка"
@@ -661,11 +651,6 @@ msgstr ""
 # Objects : [n243046854, w25077427]
 # name:be: [Шарэйкі]
 msgid "Шарейки"
-msgstr ""
-
-# Objects : [n243045192, w25078583]
-# name:be: []
-msgid "Шишковка"
 msgstr ""
 
 # Objects : [n243046882, w25077530]

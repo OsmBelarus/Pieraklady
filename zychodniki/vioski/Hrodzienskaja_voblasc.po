@@ -1,14 +1,9 @@
-# Objects : [w314804060]
-# name:be: [Вялікая Альшанка]
-msgid "Большая Ольшанка"
-msgstr ""
-
 # Objects : [w223306773]
 # name:be: []
 msgid "Дуброво"
 msgstr ""
 
-# Objects : [n320409904]
+# Objects : [n320409904, w192979027]
 # name:be: [Новікі]
 msgid "Новики"
 msgstr ""

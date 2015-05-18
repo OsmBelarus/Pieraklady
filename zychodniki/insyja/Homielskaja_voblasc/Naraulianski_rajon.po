@@ -133,7 +133,7 @@ msgstr ""
 msgid "Немецкое"
 msgstr ""
 
-# Objects : [n243038011, w25104180, w25104181]
+# Objects : [n243038011, r4851000]
 # name:be: []
 msgid "Новый Майдан"
 msgstr ""
@@ -146,6 +146,11 @@ msgstr ""
 # Objects : [n243038028, w25104183]
 # name:be: []
 msgid "Осиповка"
+msgstr ""
+
+# Objects : [w253459226]
+# name:be: [Прыпяць]
+msgid "Припять"
 msgstr ""
 
 # Objects : [n243031088, w25104913]

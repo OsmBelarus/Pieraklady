@@ -73,6 +73,11 @@ msgstr ""
 msgid "Аптечный склад"
 msgstr ""
 
+# Objects : [n3505724729]
+# name:be: []
+msgid "Б. Ольшанская"
+msgstr ""
+
 # Objects : [n2304012840, n2304012841]
 # name:be: []
 msgid "база "Галантерея""

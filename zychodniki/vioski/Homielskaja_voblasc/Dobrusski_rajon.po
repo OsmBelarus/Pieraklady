@@ -313,14 +313,14 @@ msgstr ""
 msgid "Николаевка"
 msgstr ""
 
+# Objects : [n243045648, w25079406]
+# name:be: [Новае Жыццё]
+msgid "Новая Жизнь"
+msgstr ""
+
 # Objects : [n243044546, w25080405]
 # name:be: [Навадружаскі]
 msgid "Новодружеский"
-msgstr ""
-
-# Objects : [n243045648, w25079406]
-# name:be: [Новае Жыццё]
-msgid "Новое Житьё"
 msgstr ""
 
 # Objects : [n243045647, w25080418]
@@ -378,7 +378,7 @@ msgstr ""
 msgid "Прудовка"
 msgstr ""
 
-# Objects : [n243044539, w25080351, w25080354]
+# Objects : [n243044539, r4850994]
 # name:be: [Рассвет]
 msgid "Рассвет"
 msgstr ""
@@ -386,6 +386,11 @@ msgstr ""
 # Objects : [n243044558, w25080413]
 # name:be: [Светлы]
 msgid "Светлый"
+msgstr ""
+
+# Objects : [w345053946, w345053947]
+# name:be: [Свабода]
+msgid "Свобода"
 msgstr ""
 
 # Objects : [n243045524, w25079353]
@@ -423,7 +428,7 @@ msgstr ""
 msgid "Степь"
 msgstr ""
 
-# Objects : [n242979098, n243045619, w25079420, w25080420]
+# Objects : [n242979098, r5139654]
 # name:be: [Церахоўка]
 msgid "Тереховка"
 msgstr ""

@@ -9,13 +9,13 @@ msgid "береза верба"
 msgstr ""
 
 # Objects : [w215194722]
-# name:be: []
-msgid "городской парк"
+# name:be: [Гарадскі парк]
+msgid "Городской парк"
 msgstr ""
 
 # Objects : [w217608976]
-# name:be: []
-msgid "Детския парк"
+# name:be: [Дзіцячы парк]
+msgid "Детский парк"
 msgstr ""
 
 # Objects : [n2432044307]

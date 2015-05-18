@@ -188,7 +188,7 @@ msgstr ""
 msgid "Набережная улица"
 msgstr ""
 
-# Objects : [w135989371, w169181973, w25295494, w25296932, w98310258]
+# Objects : [w135989371, w169181973, w25295494, w25296932, w277781555, w98310258]
 # name:be: [Новая вуліца]
 msgid "Новая улица"
 msgstr ""
@@ -296,6 +296,11 @@ msgstr ""
 # Objects : [w132978581]
 # name:be: []
 msgid "Торговая улица"
+msgstr ""
+
+# Objects : [w277781553]
+# name:be: []
+msgid "Узкая улица"
 msgstr ""
 
 # Objects : [w25295304]

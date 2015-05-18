@@ -3,6 +3,11 @@
 msgid "Агротуристический комплекс "Каробчыцы""
 msgstr ""
 
+# Objects : [n2501781566]
+# name:be: []
+msgid "Проезд закрыт!"
+msgstr ""
+
 # Objects : [w44131659]
 # name:be: []
 msgid "Радио узел"

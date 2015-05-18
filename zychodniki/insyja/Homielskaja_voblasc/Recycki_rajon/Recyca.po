@@ -88,6 +88,11 @@ msgstr ""
 msgid "Белагропромбанк"
 msgstr ""
 
+# Objects : [w343170587]
+# name:be: []
+msgid "Белоруснефть-Промсервис"
+msgstr ""
+
 # Objects : [r3248748]
 # name:be: [Беларуская вуліца]
 msgid "Белорусская улица"

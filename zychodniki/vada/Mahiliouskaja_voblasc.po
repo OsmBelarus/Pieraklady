@@ -403,7 +403,7 @@ msgstr ""
 msgid "дренажный канал"
 msgstr ""
 
-# Objects : [w25044947, w25045376, w25050050, w25084712, w298119351, w339119905, w85615441]
+# Objects : [w25044947, w25045376, w25050050, w25084712, w298119351, w339119905, w344073395, w85615441]
 # name:be: [Друць]
 msgid "Друть"
 msgstr ""
@@ -473,6 +473,11 @@ msgstr ""
 msgid "Забава"
 msgstr ""
 
+# Objects : [w25050192, w308574463, w308574464]
+# name:be: []
+msgid "Запокулка"
+msgstr ""
+
 # Objects : [w25063314]
 # name:be: []
 msgid "Зарудеча"
@@ -488,7 +493,7 @@ msgstr ""
 msgid "Зубар"
 msgstr ""
 
-# Objects : [w25027289, w25027296, w25077108]
+# Objects : [w25027289]
 # name:be: [Іпуць]
 msgid "Ипуть"
 msgstr ""
@@ -1141,6 +1146,11 @@ msgstr ""
 # Objects : [w141008817]
 # name:be: []
 msgid "Славковичско-Яминский"
+msgstr ""
+
+# Objects : [w25086333]
+# name:be: []
+msgid "Смородина"
 msgstr ""
 
 # Objects : [w25027291]

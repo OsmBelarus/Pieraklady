@@ -58,6 +58,11 @@ msgstr ""
 msgid "Кладбище"
 msgstr ""
 
+# Objects : [r4850386]
+# name:be: []
+msgid "Круглицкий сельский Совет"
+msgstr ""
+
 # Objects : [n243032914, w25097883]
 # name:be: [Кузьміно]
 msgid "Кузьмино"
@@ -71,11 +76,6 @@ msgstr ""
 # Objects : [n2948342154]
 # name:be: []
 msgid "лодочный причал"
-msgstr ""
-
-# Objects : [n3327626029, n3327626030]
-# name:be: [Лужкі]
-msgid "Лужки"
 msgstr ""
 
 # Objects : [w25194551]

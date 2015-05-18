@@ -83,6 +83,11 @@ msgstr ""
 msgid "Поперечная улица"
 msgstr ""
 
+# Objects : [w344728693]
+# name:be: []
+msgid "Советская улица"
+msgstr ""
+
 # Objects : [w25283442]
 # name:be: []
 msgid "улица Веры Хоружей"

@@ -1,6 +1,26 @@
+# Objects : [n1900900971, n1900900973]
+# name:be: []
+msgid "Брыли"
+msgstr ""
+
+# Objects : [n1900901058, n1900901079]
+# name:be: []
+msgid "Гатьковщина"
+msgstr ""
+
+# Objects : [n1900901007, n1900901009]
+# name:be: []
+msgid "Крапивно"
+msgstr ""
+
 # Objects : [n2836400220]
 # name:be: []
 msgid "с/т "Текстильщик""
+msgstr ""
+
+# Objects : [n1900900965, n1900900967]
+# name:be: []
+msgid "Стаховка"
 msgstr ""
 
 # Objects : [n1890449086, n1890449099]

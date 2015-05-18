@@ -793,6 +793,11 @@ msgstr ""
 msgid "Старый рынок"
 msgstr ""
 
+# Objects : [w281421236]
+# name:be: []
+msgid "СТО"
+msgstr ""
+
 # Objects : [n1045490927]
 # name:be: []
 msgid "Стоматологическая поликлиника"

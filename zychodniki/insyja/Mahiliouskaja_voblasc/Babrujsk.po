@@ -138,6 +138,11 @@ msgstr ""
 msgid "Вечный Огонь"
 msgstr ""
 
+# Objects : [w205338705]
+# name:be: []
+msgid "Визит-Тур"
+msgstr ""
+
 # Objects : [n1852299865]
 # name:be: []
 msgid "Воинам-интернационалистам"
@@ -153,7 +158,7 @@ msgstr ""
 msgid "Вэстор-2"
 msgstr ""
 
-# Objects : [w339698302, w339753674]
+# Objects : [w339698302, w339753674, w344809321]
 # name:be: []
 msgid "Гаражи"
 msgstr ""
@@ -341,11 +346,6 @@ msgstr ""
 # Objects : [w88686887]
 # name:be: []
 msgid "Мазутное хозяйство ТЭЦ-2"
-msgstr ""
-
-# Objects : [w233349631]
-# name:be: []
-msgid "МартИнн"
 msgstr ""
 
 # Objects : [n2415808415]

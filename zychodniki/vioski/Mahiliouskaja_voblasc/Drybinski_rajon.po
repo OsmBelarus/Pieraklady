@@ -8,7 +8,7 @@ msgstr ""
 msgid "Александровка"
 msgstr ""
 
-# Objects : [n243045978, w25082865, w25082872]
+# Objects : [n243045978, r4850811]
 # name:be: [Алюты]
 msgid "Алюты"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Ждановичи"
 msgstr ""
 
-# Objects : [n243046522, w25081583, w25081596]
+# Objects : [n243046522, r4850816]
 # name:be: [Жавань]
 msgid "Жевань"
 msgstr ""
@@ -318,7 +318,7 @@ msgstr ""
 msgid "Осиновка"
 msgstr ""
 
-# Objects : [n243046534, w25081591, w25081598]
+# Objects : [n243046534, r4850817]
 # name:be: [Первамайск]
 msgid "Первомайск"
 msgstr ""
@@ -348,7 +348,7 @@ msgstr ""
 msgid "Полоски"
 msgstr ""
 
-# Objects : [n243045984, w25082859, w25082884]
+# Objects : [n243045984, r4850818]
 # name:be: [Палуі]
 msgid "Полуи"
 msgstr ""
@@ -373,7 +373,7 @@ msgstr ""
 msgid "Прилеповка"
 msgstr ""
 
-# Objects : [n243042438, w25084536, w304645371]
+# Objects : [n243042438, r4850819]
 # name:be: [Пудаўня]
 msgid "Пудовня"
 msgstr ""
@@ -388,7 +388,7 @@ msgstr ""
 msgid "Русенка"
 msgstr ""
 
-# Objects : [n243045961, w25082814, w25082824]
+# Objects : [n243045961, r4850820]
 # name:be: [Рабкі]
 msgid "Рябки"
 msgstr ""
@@ -418,7 +418,7 @@ msgstr ""
 msgid "Старое Прибужье"
 msgstr ""
 
-# Objects : [n243046511, w25080618, w25081536]
+# Objects : [n243046511, r4850821]
 # name:be: [Старакожаўка]
 msgid "Старокожевка"
 msgstr ""
@@ -523,7 +523,7 @@ msgstr ""
 msgid "Ярыги"
 msgstr ""
 
-# Objects : [n243042707, w25082857, w25084509]
+# Objects : [n243042707, r4850822]
 # name:be: [Яськаўшчына]
 msgid "Яськовщина"
 msgstr ""

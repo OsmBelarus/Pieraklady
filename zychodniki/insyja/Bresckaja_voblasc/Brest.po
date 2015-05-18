@@ -313,6 +313,11 @@ msgstr ""
 msgid "Бреставтодор"
 msgstr ""
 
+# Objects : [w343025056]
+# name:be: []
+msgid "Брест-Восточная"
+msgstr ""
+
 # Objects : [n306062343]
 # name:be: [Брэст Усходні]
 msgid "Брест Восточный"
@@ -328,7 +333,7 @@ msgstr ""
 msgid "БрестГрузТрансЛогистик"
 msgstr ""
 
-# Objects : [w308362103]
+# Objects : [w308362103, w343026590]
 # name:be: []
 msgid "Брест-Западная"
 msgstr ""
@@ -336,6 +341,11 @@ msgstr ""
 # Objects : [n306062811]
 # name:be: [Брэсцкая стаматалагічная паліклініка]
 msgid "Бресткая стоматологическая поликлиника"
+msgstr ""
+
+# Objects : [w343025804]
+# name:be: []
+msgid "Брест-Киевская"
 msgstr ""
 
 # Objects : [n3306870428]
@@ -346,6 +356,11 @@ msgstr ""
 # Objects : [n908349181]
 # name:be: []
 msgid "Брест-Полесский"
+msgstr ""
+
+# Objects : [w343025269]
+# name:be: []
+msgid "Брест-Северная"
 msgstr ""
 
 # Objects : [n306064302]
@@ -406,6 +421,11 @@ msgstr ""
 # Objects : [w321094304]
 # name:be: [Брэсцкая ЦЭЦ]
 msgid "Брестская ТЭЦ"
+msgstr ""
+
+# Objects : [w62160514]
+# name:be: [УА "Брэсцкі дзяржаўны політэхнічны каледж"]
+msgid "Брестский государственный политехнический колледж"
 msgstr ""
 
 # Objects : [n1628851307]
@@ -493,6 +513,11 @@ msgstr ""
 msgid "Брестский СИЗО №7"
 msgstr ""
 
+# Objects : [w62160509]
+# name:be: [Брэсцкі тэатр лялек]
+msgid "Брестский театр кукол (стр.)"
+msgstr ""
+
 # Objects : [n838395934]
 # name:be: [Брэсцкі філіял РУП "Белтэлеком"]
 msgid "Брестский филиал РУП "Белтелеком""
@@ -506,6 +531,11 @@ msgstr ""
 # Objects : [n3295555814]
 # name:be: []
 msgid "Брестское агентство по государственной регистрации и земельному кадастру"
+msgstr ""
+
+# Objects : [w341230784]
+# name:be: []
+msgid "Брестское море"
 msgstr ""
 
 # Objects : [r4543894]
@@ -538,6 +568,11 @@ msgstr ""
 msgid "Брест-Центральный"
 msgstr ""
 
+# Objects : [w343028399]
+# name:be: []
+msgid "Брест Юго-Западная"
+msgstr ""
+
 # Objects : [n1092601181]
 # name:be: []
 msgid "Брест-Южный"
@@ -551,11 +586,6 @@ msgstr ""
 # Objects : [n3295396966]
 # name:be: []
 msgid "БРСМ"
-msgstr ""
-
-# Objects : [n306062965]
-# name:be: [Буг]
-msgid "Буг"
 msgstr ""
 
 # Objects : [n3295396964]
@@ -796,11 +826,6 @@ msgstr ""
 # Objects : [n2766736483]
 # name:be: []
 msgid "Гостиница Беларусь"
-msgstr ""
-
-# Objects : [n2766736503]
-# name:be: []
-msgid "Гостиница Буг"
 msgstr ""
 
 # Objects : [n2766736619]
@@ -2050,7 +2075,7 @@ msgstr ""
 
 # Objects : [n3072415169]
 # name:be: []
-msgid "Ремонт компьютеров ВИЗАРД"
+msgid "Ремонт компьютеров Визард"
 msgstr ""
 
 # Objects : [n306062002]
@@ -2586,6 +2611,11 @@ msgstr ""
 # Objects : [n2788686445]
 # name:be: [Царква Святога Мікалая]
 msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [w64503895]
+# name:be: []
+msgid "ЦТП 1-15"
 msgstr ""
 
 # Objects : [n1368888149, n306062864]

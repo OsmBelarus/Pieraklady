@@ -18,6 +18,11 @@ msgstr ""
 msgid "Бліно"
 msgstr ""
 
+# Objects : [w39238334]
+# name:be: []
+msgid "Вежа Града"
+msgstr ""
+
 # Objects : [w173723543]
 # name:be: []
 msgid "Военкомат"

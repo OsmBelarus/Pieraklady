@@ -448,11 +448,6 @@ msgstr ""
 msgid "Секеричи"
 msgstr ""
 
-# Objects : [n243023495, w25119187]
-# name:be: [Сярэдняя Рудня]
-msgid "Середняя Рудня"
-msgstr ""
-
 # Objects : [n243020762, w25124882]
 # name:be: [Серп]
 msgid "Серп"
@@ -501,6 +496,11 @@ msgstr ""
 # Objects : [n243023488, w25119202]
 # name:be: [Сотнічы]
 msgid "Сотничи"
+msgstr ""
+
+# Objects : [n243023495, w25119187]
+# name:be: [Сярэдняя Рудня]
+msgid "Средняя Рудня"
 msgstr ""
 
 # Objects : [n243022423, w25110302]

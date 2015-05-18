@@ -29,13 +29,13 @@ msgid "Глуховичи"
 msgstr ""
 
 # Objects : [n243044157]
-# name:be: [Гарадок (нежывы)]
-msgid "Городок (нежил.)"
+# name:be: [Гарадок]
+msgid "Городок"
 msgstr ""
 
 # Objects : [n243044155]
 # name:be: []
-msgid "Демеевка (нежил.)"
+msgid "Демеевка"
 msgstr ""
 
 # Objects : [n243043078, w25090120]

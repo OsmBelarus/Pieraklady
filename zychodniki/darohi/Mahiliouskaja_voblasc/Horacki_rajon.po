@@ -18,6 +18,11 @@ msgstr ""
 msgid "Дубровенская улица"
 msgstr ""
 
+# Objects : [w345084302]
+# name:be: []
+msgid "Заречная"
+msgstr ""
+
 # Objects : [w170640949]
 # name:be: []
 msgid "Заречная улица"
@@ -53,9 +58,19 @@ msgstr ""
 msgid "Ленинская улица"
 msgstr ""
 
+# Objects : [w345084309]
+# name:be: []
+msgid "Лесная"
+msgstr ""
+
 # Objects : [w169531370, w207562510, w208217113, w213126209, w213126214, w213139239]
 # name:be: []
 msgid "Лесная улица"
+msgstr ""
+
+# Objects : [w345084311]
+# name:be: []
+msgid "Луговая"
 msgstr ""
 
 # Objects : [w325148439, w76477445]
@@ -86,6 +101,11 @@ msgstr ""
 # Objects : [w327203585]
 # name:be: []
 msgid "Овражный переулок"
+msgstr ""
+
+# Objects : [w345084307]
+# name:be: []
+msgid "Озёрная"
 msgstr ""
 
 # Objects : [w325148440]

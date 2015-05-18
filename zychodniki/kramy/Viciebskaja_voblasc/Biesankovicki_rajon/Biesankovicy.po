@@ -1,15 +1,10 @@
-# Objects : [n1439122865]
+# Objects : [n3523481933]
 # name:be: []
-msgid "киоски"
+msgid ""Родны кут""
 msgstr ""
 
-# Objects : [n2480114157]
+# Objects : [n3523481935]
 # name:be: []
-msgid "павильон "Продукты""
-msgstr ""
-
-# Objects : [n1439122873]
-# name:be: []
-msgid "цветочный павильон"
+msgid "Хозтовары"
 msgstr ""
 

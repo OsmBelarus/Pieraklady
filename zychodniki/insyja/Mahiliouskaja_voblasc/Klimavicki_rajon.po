@@ -1,6 +1,61 @@
+# Objects : [n243047308]
+# name:be: [Аляксандраўка]
+msgid "Александровка"
+msgstr ""
+
+# Objects : [n243047561]
+# name:be: []
+msgid "Богдановка"
+msgstr ""
+
+# Objects : [n243045201]
+# name:be: [Будзішча]
+msgid "Будище"
+msgstr ""
+
+# Objects : [n243046900]
+# name:be: []
+msgid "Будловка"
+msgstr ""
+
+# Objects : [n243046949]
+# name:be: []
+msgid "Глинчино"
+msgstr ""
+
+# Objects : [n243045197]
+# name:be: [Горкі]
+msgid "Горки"
+msgstr ""
+
+# Objects : [n243045193]
+# name:be: []
+msgid "Городешня 1"
+msgstr ""
+
+# Objects : [n243045199]
+# name:be: []
+msgid "Городешня 2"
+msgstr ""
+
+# Objects : [n243047310]
+# name:be: []
+msgid "Грязивец"
+msgstr ""
+
 # Objects : [n243047114]
 # name:be: []
 msgid "Гульки"
+msgstr ""
+
+# Objects : [n243045151]
+# name:be: []
+msgid "Деряжня"
+msgstr ""
+
+# Objects : [n243046925]
+# name:be: []
+msgid "Дударевка"
 msgstr ""
 
 # Objects : [w135284877]
@@ -8,14 +63,39 @@ msgstr ""
 msgid "Дюльки"
 msgstr ""
 
-# Objects : [n243047053, w25077130]
+# Objects : [n243045205]
+# name:be: [Замашэнне]
+msgid "Замошенье"
+msgstr ""
+
+# Objects : [n243047057]
+# name:be: []
+msgid "Затишье"
+msgstr ""
+
+# Objects : [n243045190]
+# name:be: []
+msgid "Канчары"
+msgstr ""
+
+# Objects : [n243045203]
+# name:be: []
+msgid "Кислядь"
+msgstr ""
+
+# Objects : [n243047053]
 # name:be: []
 msgid "Ковалевка 1-я"
 msgstr ""
 
-# Objects : [w331261816]
+# Objects : [n243046926]
 # name:be: []
-msgid "Красавичское кладбище"
+msgid "Комаровка"
+msgstr ""
+
+# Objects : [n243047311]
+# name:be: []
+msgid "Кошановка"
 msgstr ""
 
 # Objects : [n1486186961]
@@ -26,6 +106,11 @@ msgstr ""
 # Objects : [w210732104]
 # name:be: []
 msgid "КУСП База Роднянская"
+msgstr ""
+
+# Objects : [n243047403]
+# name:be: []
+msgid "Лытковка"
 msgstr ""
 
 # Objects : [w228652337]
@@ -48,6 +133,16 @@ msgstr ""
 msgid "Писляковка"
 msgstr ""
 
+# Objects : [n243046958]
+# name:be: []
+msgid "Пожарь"
+msgstr ""
+
+# Objects : [n243045213]
+# name:be: [Савінічы]
+msgid "Савиничи"
+msgstr ""
+
 # Objects : [w135284875, w135284878, w135284880, w135284882, w135284883]
 # name:be: []
 msgid "Свиньи"
@@ -58,9 +153,24 @@ msgstr ""
 msgid "Семеновка 2"
 msgstr ""
 
-# Objects : [n243047135]
+# Objects : [n243047135, n243047626]
 # name:be: []
 msgid "Совна"
+msgstr ""
+
+# Objects : [n243047299]
+# name:be: []
+msgid "Спартак"
+msgstr ""
+
+# Objects : [n243045153]
+# name:be: [Студзянец]
+msgid "Студенец"
+msgstr ""
+
+# Objects : [n243045188]
+# name:be: []
+msgid "Титовка"
 msgstr ""
 
 # Objects : [n243047622]

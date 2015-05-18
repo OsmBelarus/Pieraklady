@@ -53,6 +53,11 @@ msgstr ""
 msgid "Бобрик"
 msgstr ""
 
+# Objects : [w30049883]
+# name:be: []
+msgid "Болото Копытское"
+msgstr ""
+
 # Objects : [w25198680]
 # name:be: []
 msgid "Большое Засоминое"
@@ -218,6 +223,11 @@ msgstr ""
 msgid "Западный Буг"
 msgstr ""
 
+# Objects : [w319217048]
+# name:be: []
+msgid "Зеленое"
+msgstr ""
+
 # Objects : [r2237770, w25176555, w25176893]
 # name:be: [Зяльвянка]
 msgid "Зельвянка"
@@ -278,14 +288,14 @@ msgstr ""
 msgid "Кобринка"
 msgstr ""
 
+# Objects : [w345232998]
+# name:be: []
+msgid "Копаёвка"
+msgstr ""
+
 # Objects : [w25168953]
 # name:be: []
 msgid "Копанец"
-msgstr ""
-
-# Objects : [w268558711]
-# name:be: []
-msgid "Копаювка"
 msgstr ""
 
 # Objects : [w224996741, w25176971]
@@ -353,7 +363,7 @@ msgstr ""
 msgid "Лохозва"
 msgstr ""
 
-# Objects : [w25071252, w25076899, w25167450, w25167474, w25167477, w25167478]
+# Objects : [w25071252, w25076899, w25167450, w25167477, w25167478]
 # name:be: []
 msgid "Льва"
 msgstr ""
@@ -763,6 +773,11 @@ msgstr ""
 msgid "Стир"
 msgstr ""
 
+# Objects : [w342981069, w342982763]
+# name:be: []
+msgid "Стрела"
+msgstr ""
+
 # Objects : [w25175382]
 # name:be: [Струга]
 msgid "Струга"
@@ -878,7 +893,7 @@ msgstr ""
 msgid "Ясельда"
 msgstr ""
 
-# Objects : [w114691513]
+# Objects : [w114691513, w342981063]
 # name:be: [Ясельдзінскі канал]
 msgid "Ясельдовский канал"
 msgstr ""

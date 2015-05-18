@@ -213,6 +213,11 @@ msgstr ""
 msgid "Кафетерий"
 msgstr ""
 
+# Objects : [n3511249654]
+# name:be: [кафетэрый «Колас»]
+msgid "кафетерий «Колос»"
+msgstr ""
+
 # Objects : [n1405018684]
 # name:be: [Кафетэрый Веста]
 msgid "Кафетерий Веста"
@@ -283,7 +288,7 @@ msgstr ""
 msgid "Мега"
 msgstr ""
 
-# Objects : [n2874246250]
+# Objects : [n2874246250, w342825588]
 # name:be: []
 msgid "Мини-кафе"
 msgstr ""
@@ -295,7 +300,7 @@ msgstr ""
 
 # Objects : [n1312612095]
 # name:be: [Маладзёжная]
-msgid "Молодежное"
+msgid "Молодёжное"
 msgstr ""
 
 # Objects : [n2969422406]
@@ -373,7 +378,7 @@ msgstr ""
 msgid "Придвинье"
 msgstr ""
 
-# Objects : [n1238734780, n2485339754]
+# Objects : [n1238734780, n2485339754, n3516554375]
 # name:be: [Пчала]
 msgid "Пчела"
 msgstr ""

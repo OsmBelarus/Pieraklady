@@ -858,6 +858,11 @@ msgstr ""
 msgid "Лавриновка"
 msgstr ""
 
+# Objects : [n2596447304, w253763398]
+# name:be: [Лазавікі]
+msgid "Лазовики"
+msgstr ""
+
 # Objects : [n243023911, w25120612]
 # name:be: [Ламці]
 msgid "Ламти"
@@ -946,11 +951,6 @@ msgstr ""
 # Objects : [n243013263, w25127267]
 # name:be: [Лазічы]
 msgid "Лозичи"
-msgstr ""
-
-# Objects : [n2596447304, w253763398]
-# name:be: [Лазавікі]
-msgid "Лозовики"
 msgstr ""
 
 # Objects : [n243023821, w25120566]
@@ -1258,11 +1258,6 @@ msgstr ""
 msgid "Отвалки 2"
 msgstr ""
 
-# Objects : [n2596447314, w253763408]
-# name:be: [Падавуты]
-msgid "Падауты"
-msgstr ""
-
 # Objects : [n243013103, w25127255]
 # name:be: [Панфілаўшчына]
 msgid "Панфиловщина"
@@ -1311,6 +1306,11 @@ msgstr ""
 # Objects : [n243016482, w25125153]
 # name:be: [Пліса]
 msgid "Плиса"
+msgstr ""
+
+# Objects : [n2596447314, w253763408]
+# name:be: [Падавуты]
+msgid "Подауты"
 msgstr ""
 
 # Objects : [n243018656, w25126097]
@@ -1423,6 +1423,11 @@ msgstr ""
 msgid "Пялевщина"
 msgstr ""
 
+# Objects : [n3488741390]
+# name:be: []
+msgid "Разьезд Замошье"
+msgstr ""
+
 # Objects : [n243013238, w25128358]
 # name:be: [Ракаўцы]
 msgid "Раковцы"
@@ -1493,16 +1498,6 @@ msgstr ""
 msgid "Сахновичи"
 msgstr ""
 
-# Objects : [n243016470, w25125155]
-# name:be: [Свіла 1]
-msgid "Свила 1"
-msgstr ""
-
-# Objects : [n243016445, w25125173]
-# name:be: [Свіла 2]
-msgid "Свила 2"
-msgstr ""
-
 # Objects : [n243016451, w253763366]
 # name:be: [Свілко 1]
 msgid "Свилко 1"
@@ -1511,6 +1506,16 @@ msgstr ""
 # Objects : [n2596447017, w25125180]
 # name:be: [Свілко 2]
 msgid "Свилко 2"
+msgstr ""
+
+# Objects : [n243016470, w25125155]
+# name:be: [Свіла 1]
+msgid "Свило 1"
+msgstr ""
+
+# Objects : [n243016445, w25125173]
+# name:be: [Свіла 2]
+msgid "Свило 2"
 msgstr ""
 
 # Objects : [n2596447321, w253763415]

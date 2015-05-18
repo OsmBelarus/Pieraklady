@@ -73,7 +73,7 @@ msgstr ""
 msgid "парковка"
 msgstr ""
 
-# Objects : [w306871366, w312083673]
+# Objects : [w256485099, w306871366, w312083673]
 # name:be: []
 msgid "Парковка"
 msgstr ""
@@ -116,11 +116,6 @@ msgstr ""
 # Objects : [w190437533]
 # name:be: []
 msgid "Платная охраняемая стоянка"
-msgstr ""
-
-# Objects : [w200994145]
-# name:be: []
-msgid "Подземная парковка"
 msgstr ""
 
 # Objects : [w303969619]
@@ -171,11 +166,6 @@ msgstr ""
 # Objects : [w203281627]
 # name:be: []
 msgid "Таможенный терминал  «КУНЦЕВЩИНА» 06542"
-msgstr ""
-
-# Objects : [w140364210]
-# name:be: []
-msgid "Только такси"
 msgstr ""
 
 # Objects : [w242938681]

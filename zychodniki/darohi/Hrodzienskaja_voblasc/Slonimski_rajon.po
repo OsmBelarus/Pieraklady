@@ -18,6 +18,11 @@ msgstr ""
 msgid "до ГРС"
 msgstr ""
 
+# Objects : [w308960121, w308960150, w308960159]
+# name:be: []
+msgid "Дружная улица"
+msgstr ""
+
 # Objects : [w53228760]
 # name:be: [Камсамольская вуліца]
 msgid "Комсомольская улица"
@@ -31,6 +36,11 @@ msgstr ""
 # Objects : [w53228732]
 # name:be: [Маладзёжная вуліца]
 msgid "Молодёжная улица"
+msgstr ""
+
+# Objects : [w344640956]
+# name:be: []
+msgid "Первомайская улица"
 msgstr ""
 
 # Objects : [w307775358, w53865277]
@@ -93,7 +103,7 @@ msgstr ""
 msgid "Центральная улица"
 msgstr ""
 
-# Objects : [w307773447]
+# Objects : [w307773447, w308960152]
 # name:be: []
 msgid "Юбилейная улица"
 msgstr ""

@@ -8,11 +8,6 @@ msgstr ""
 msgid "Билетные кассы"
 msgstr ""
 
-# Objects : [n2389914248]
-# name:be: []
-msgid "Борисовский край"
-msgstr ""
-
 # Objects : [n377604467]
 # name:be: []
 msgid "Гайна"
@@ -38,11 +33,6 @@ msgstr ""
 msgid "Магазин"
 msgstr ""
 
-# Objects : [n2388898516]
-# name:be: []
-msgid "Микромакрет «Крылова»"
-msgstr ""
-
 # Objects : [n825269106]
 # name:be: []
 msgid "Минский"
@@ -58,9 +48,9 @@ msgstr ""
 msgid "Погребок"
 msgstr ""
 
-# Objects : [n377596709]
-# name:be: [Крынічка]
-msgid "Родничок"
+# Objects : [n2389014324]
+# name:be: []
+msgid "Салон связи МТС"
 msgstr ""
 
 # Objects : [n2387922123]
@@ -71,10 +61,5 @@ msgstr ""
 # Objects : [n941778467]
 # name:be: []
 msgid "ТЦ "Логойский Пассаж""
-msgstr ""
-
-# Objects : [n941792046]
-# name:be: [Універсам «Замкавы»]
-msgid "Универсам «Замкавы»"
 msgstr ""
 

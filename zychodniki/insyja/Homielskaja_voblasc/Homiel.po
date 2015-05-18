@@ -108,7 +108,7 @@ msgstr ""
 msgid "32 Богартыря"
 msgstr ""
 
-# Objects : [n529806574]
+# Objects : [w341436913]
 # name:be: []
 msgid "3-я Городская Клиническая больница"
 msgstr ""
@@ -143,6 +143,11 @@ msgstr ""
 msgid "B&B insurance"
 msgstr ""
 
+# Objects : [n2054071458]
+# name:be: []
+msgid "Cож-89"
+msgstr ""
+
 # Objects : [n2921960324]
 # name:be: []
 msgid "EPAM Systems"
@@ -151,6 +156,16 @@ msgstr ""
 # Objects : [n2179691789]
 # name:be: []
 msgid "Lux"
+msgstr ""
+
+# Objects : [w345013863]
+# name:be: []
+msgid "MartInn"
+msgstr ""
+
+# Objects : [r2245550, w341436914]
+# name:be: []
+msgid "Pеспубликанский научно-практический центр радиационной медицины и экологии человека"
 msgstr ""
 
 # Objects : [w279502879]
@@ -578,6 +593,11 @@ msgstr ""
 msgid "Гомель-Северный"
 msgstr ""
 
+# Objects : [w168539600]
+# name:be: []
+msgid "Гомельская городская клиническая больница № 3"
+msgstr ""
+
 # Objects : [n1211615975]
 # name:be: []
 msgid "Гомельская городская стоматологическая поликлиника № 1"
@@ -626,6 +646,11 @@ msgstr ""
 # Objects : [w85138963]
 # name:be: []
 msgid "Гомельский колледж народных художественных промыслов"
+msgstr ""
+
+# Objects : [w168539717]
+# name:be: []
+msgid "Гомельский областной клинический госпиталь инвалидов Отечественной войны"
 msgstr ""
 
 # Objects : [n2197072361]
@@ -838,6 +863,11 @@ msgstr ""
 msgid "Дневной наркологический стационар № 1"
 msgstr ""
 
+# Objects : [w65348049]
+# name:be: [Дом быту]
+msgid "Дом быта"
+msgstr ""
+
 # Objects : [n2206580525]
 # name:be: []
 msgid "Дом культуры"
@@ -988,9 +1018,19 @@ msgstr ""
 msgid "Зубная поликлиника взрослых"
 msgstr ""
 
+# Objects : [w46687258]
+# name:be: []
+msgid "ИВА-Гомель"
+msgstr ""
+
 # Objects : [n3475464901]
 # name:be: []
 msgid "Идеал-Денталь"
+msgstr ""
+
+# Objects : [w284004519]
+# name:be: []
+msgid "Издательский дом "Вечерний Гомель Медиа""
 msgstr ""
 
 # Objects : [n2788680486]
@@ -1908,11 +1948,6 @@ msgstr ""
 msgid "Ремонт обуви"
 msgstr ""
 
-# Objects : [n529803914]
-# name:be: []
-msgid "Респ. центр радиационной медицины"
-msgstr ""
-
 # Objects : [n452540911]
 # name:be: []
 msgid "Роддом"
@@ -2078,6 +2113,11 @@ msgstr ""
 msgid "СП ОАО "Спартак""
 msgstr ""
 
+# Objects : [n3486421702]
+# name:be: []
+msgid "Старая Мильча"
+msgstr ""
+
 # Objects : [w50232933]
 # name:be: []
 msgid "Стеклозавод"
@@ -2141,6 +2181,11 @@ msgstr ""
 # Objects : [w121284738]
 # name:be: []
 msgid "СШ № 19 с художественным уклоном"
+msgstr ""
+
+# Objects : [w87012165]
+# name:be: []
+msgid "СШ №21"
 msgstr ""
 
 # Objects : [w42792839]
@@ -2283,11 +2328,6 @@ msgstr ""
 msgid "Туберкулезная больница"
 msgstr ""
 
-# Objects : [n2054071458]
-# name:be: []
-msgid "Турфирма Cож-89"
-msgstr ""
-
 # Objects : [w127729730, w97540555]
 # name:be: []
 msgid "ТЭЦ-1"
@@ -2296,6 +2336,11 @@ msgstr ""
 # Objects : [w97540563]
 # name:be: []
 msgid "ТЭЦ-2"
+msgstr ""
+
+# Objects : [w344643424]
+# name:be: []
+msgid "улица Островского"
 msgstr ""
 
 # Objects : [n786907754]
@@ -2366,6 +2411,11 @@ msgstr ""
 # Objects : [n794211340]
 # name:be: [ФАК]
 msgid "ФОК"
+msgstr ""
+
+# Objects : [w87012171]
+# name:be: []
+msgid "Фонд социальной защиты населения"
 msgstr ""
 
 # Objects : [n565633308]
@@ -2576,6 +2626,11 @@ msgstr ""
 # Objects : [w38536242, w38536243, w38536244, w38565945, w39951156]
 # name:be: [Яблыневы сад]
 msgid "Яблоневый сад"
+msgstr ""
+
+# Objects : [r4847786]
+# name:be: []
+msgid "Ясли-сад - средняя школа № 73"
 msgstr ""
 
 # Objects : [w64946704]

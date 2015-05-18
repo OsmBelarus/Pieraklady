@@ -1,3 +1,8 @@
+# Objects : [n243040167, w25103548]
+# name:be: [Асінаўка]
+msgid "Асиновка"
+msgstr ""
+
 # Objects : [n2766728127]
 # name:be: [База адпачынку «Крупеніна»]
 msgid "База отдыха «Крупенино»"
@@ -21,6 +26,11 @@ msgstr ""
 # Objects : [w25194331]
 # name:be: [Запольскае]
 msgid "Запольское"
+msgstr ""
+
+# Objects : [r4850384]
+# name:be: []
+msgid "Иванский сельский Совет"
 msgstr ""
 
 # Objects : [w25196269]

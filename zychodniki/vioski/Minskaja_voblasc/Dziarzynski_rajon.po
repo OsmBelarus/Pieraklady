@@ -68,6 +68,11 @@ msgstr ""
 msgid "Богдановщина"
 msgstr ""
 
+# Objects : [n243011103]
+# name:be: [Вялікая Шатаноўшчына]
+msgid "Большая Шатановщина"
+msgstr ""
+
 # Objects : [n243009842, w25129073]
 # name:be: [Вялікае Гарохавішча]
 msgid "Большие Гороховищи"
@@ -133,7 +138,7 @@ msgstr ""
 msgid "Васильково"
 msgstr ""
 
-# Objects : [n243011103, w25130524]
+# Objects : [w25130524]
 # name:be: [Вялікая Шатаноўшчына]
 msgid "Великая Шатановщина"
 msgstr ""
@@ -223,7 +228,7 @@ msgstr ""
 msgid "Вязанка"
 msgstr ""
 
-# Objects : [n243009699, n278074414, w25129018, w25129038]
+# Objects : [n243009699, r4847519]
 # name:be: [Вязань]
 msgid "Вязань"
 msgstr ""
@@ -413,7 +418,7 @@ msgstr ""
 msgid "Золотари"
 msgstr ""
 
-# Objects : [n2307678847, n243011128, w25130468]
+# Objects : [n2307678847, w25130468]
 # name:be: [Зосіна]
 msgid "Зосино"
 msgstr ""
@@ -633,7 +638,7 @@ msgstr ""
 msgid "Логовище"
 msgstr ""
 
-# Objects : [n2936558831, w25129065, w290127297, w290127298]
+# Objects : [n2936558831, r4847669]
 # name:be: [Лукашына]
 msgid "Лукашино"
 msgstr ""
@@ -656,11 +661,6 @@ msgstr ""
 # Objects : [n243010423, w25129017]
 # name:be: [Мазуры]
 msgid "Мазуры"
-msgstr ""
-
-# Objects : [n243004979]
-# name:be: []
-msgid "Макавчицы"
 msgstr ""
 
 # Objects : [w293264823]
@@ -723,7 +723,7 @@ msgstr ""
 msgid "Мигдаловичи"
 msgstr ""
 
-# Objects : [n243005114, w25131764, w25131767]
+# Objects : [n243005114, r4847670]
 # name:be: [Мікулічы]
 msgid "Микуличи"
 msgstr ""
@@ -853,6 +853,11 @@ msgstr ""
 msgid "Пеняка"
 msgstr ""
 
+# Objects : [n243009733, w25129026]
+# name:be: [Першамай]
+msgid "Первомай"
+msgstr ""
+
 # Objects : [n243005142, w25131753]
 # name:be: [Перацяткі]
 msgid "Перетятки"
@@ -861,11 +866,6 @@ msgstr ""
 # Objects : [n528852251, w25130336]
 # name:be: [Пярхурава]
 msgid "Перхурово"
-msgstr ""
-
-# Objects : [n243009733, w25129026]
-# name:be: [Першамай]
-msgid "Першемай"
 msgstr ""
 
 # Objects : [n243011140, w25130449]
@@ -908,7 +908,7 @@ msgstr ""
 msgid "Подсосонье"
 msgstr ""
 
-# Objects : [n2936531567, w25131734, w290121195]
+# Objects : [n2936531567, r4847672]
 # name:be: [Паедынкова]
 msgid "Поедынково"
 msgstr ""
@@ -988,11 +988,6 @@ msgstr ""
 msgid "Рябцевщина"
 msgstr ""
 
-# Objects : [n1453592208, r2346587]
-# name:be: []
-msgid "С.Т. Вершина"
-msgstr ""
-
 # Objects : [n243005124, w25131756]
 # name:be: [Садкаўшчына]
 msgid "Садковщина"
@@ -1058,7 +1053,7 @@ msgstr ""
 msgid "Сосновка"
 msgstr ""
 
-# Objects : [n1405104206, n243011067, w25130540]
+# Objects : [n1405104206, w25130540]
 # name:be: [Станькава]
 msgid "Станьково"
 msgstr ""
@@ -1198,14 +1193,9 @@ msgstr ""
 msgid "Цветково"
 msgstr ""
 
-# Objects : [n3245735092, w152094709, w152094717]
+# Objects : [n3245735092, r4847520]
 # name:be: [Чаркасы]
 msgid "Черкассы"
-msgstr ""
-
-# Objects : [n243009689]
-# name:be: [Чаркасы]
-msgid "Черкасы"
 msgstr ""
 
 # Objects : [n243011164, w25130433]

@@ -8,6 +8,11 @@ msgstr ""
 msgid "Башня"
 msgstr ""
 
+# Objects : [w162947668]
+# name:be: []
+msgid "Вегас"
+msgstr ""
+
 # Objects : [w27901764]
 # name:be: [Веста № 124]
 msgid "Веста № 124"

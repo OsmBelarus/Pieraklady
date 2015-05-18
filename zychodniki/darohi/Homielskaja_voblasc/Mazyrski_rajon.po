@@ -13,6 +13,11 @@ msgstr ""
 msgid "Берёзовая улица"
 msgstr ""
 
+# Objects : [w341377884]
+# name:be: []
+msgid "Брод"
+msgstr ""
+
 # Objects : [w112928736, w272265016, w272471985, w273402830]
 # name:be: [Ветравая вуліца]
 msgid "Ветровая улица"

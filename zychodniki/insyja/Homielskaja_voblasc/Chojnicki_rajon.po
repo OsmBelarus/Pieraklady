@@ -243,6 +243,11 @@ msgstr ""
 msgid "Погонное"
 msgstr ""
 
+# Objects : [w253459226]
+# name:be: [Прыпяць]
+msgid "Припять"
+msgstr ""
+
 # Objects : [w288325614]
 # name:be: []
 msgid "Приусадебный парк Ваньковичей"

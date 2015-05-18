@@ -43,6 +43,11 @@ msgstr ""
 msgid "д/с №116"
 msgstr ""
 
+# Objects : [n3371380793]
+# name:be: []
+msgid "д/с №117"
+msgstr ""
+
 # Objects : [w330215578]
 # name:be: []
 msgid "д/с №118"
@@ -333,7 +338,7 @@ msgstr ""
 msgid "д/с №221"
 msgstr ""
 
-# Objects : [n305675247]
+# Objects : [w333302117]
 # name:be: []
 msgid "д/с №224"
 msgstr ""
@@ -473,6 +478,11 @@ msgstr ""
 msgid "д/с №274"
 msgstr ""
 
+# Objects : [w342472832]
+# name:be: []
+msgid "д/с №277"
+msgstr ""
+
 # Objects : [n305676252]
 # name:be: []
 msgid "д/с №279"
@@ -570,7 +580,7 @@ msgstr ""
 
 # Objects : [w332105211]
 # name:be: []
-msgid "Д/с №310"
+msgid "д/с №310"
 msgstr ""
 
 # Objects : [n305676079]
@@ -708,7 +718,7 @@ msgstr ""
 msgid "д/с №345"
 msgstr ""
 
-# Objects : [n305685636]
+# Objects : [w341175300]
 # name:be: [д/с №347]
 msgid "д/с №347"
 msgstr ""
@@ -1013,7 +1023,7 @@ msgstr ""
 msgid "д/с №420"
 msgstr ""
 
-# Objects : [n305674713]
+# Objects : [w341513418]
 # name:be: []
 msgid "д/с №422"
 msgstr ""
@@ -1223,6 +1233,11 @@ msgstr ""
 msgid "д/с №475"
 msgstr ""
 
+# Objects : [w342472830]
+# name:be: []
+msgid "д/с №477"
+msgstr ""
+
 # Objects : [w329073111]
 # name:be: []
 msgid "д/с №478"
@@ -1426,6 +1441,11 @@ msgstr ""
 # Objects : [w331601802]
 # name:be: []
 msgid "д/с №54"
+msgstr ""
+
+# Objects : [w96688429]
+# name:be: []
+msgid "д/с №540"
 msgstr ""
 
 # Objects : [w35817104]
@@ -1658,6 +1678,11 @@ msgstr ""
 msgid "д/с №91"
 msgstr ""
 
+# Objects : [w333302116]
+# name:be: []
+msgid "д/с №92"
+msgstr ""
+
 # Objects : [w266832071]
 # name:be: [д/с №94]
 msgid "д/с №94"
@@ -1763,11 +1788,6 @@ msgstr ""
 msgid "Детский сад №536"
 msgstr ""
 
-# Objects : [w96688429]
-# name:be: []
-msgid "Детский Сад №540"
-msgstr ""
-
 # Objects : [w312559151]
 # name:be: []
 msgid "Детский сад №559"
@@ -1816,11 +1836,6 @@ msgstr ""
 # Objects : [w25321665]
 # name:be: []
 msgid "ДС№27"
-msgstr ""
-
-# Objects : [w25318568]
-# name:be: []
-msgid "ДС№277"
 msgstr ""
 
 # Objects : [n306068244]
@@ -1876,11 +1891,6 @@ msgstr ""
 # Objects : [w234875455]
 # name:be: []
 msgid "№110"
-msgstr ""
-
-# Objects : [n3371380793]
-# name:be: []
-msgid "№117"
 msgstr ""
 
 # Objects : [n305683934]
@@ -2028,11 +2038,6 @@ msgstr ""
 msgid "№437"
 msgstr ""
 
-# Objects : [n305685960]
-# name:be: []
-msgid "№477"
-msgstr ""
-
 # Objects : [w26391372]
 # name:be: []
 msgid "№532"
@@ -2076,11 +2081,6 @@ msgstr ""
 # Objects : [n305683097]
 # name:be: []
 msgid "№86"
-msgstr ""
-
-# Objects : [w333302116]
-# name:be: []
-msgid "№92"
 msgstr ""
 
 # Objects : [n305683474]

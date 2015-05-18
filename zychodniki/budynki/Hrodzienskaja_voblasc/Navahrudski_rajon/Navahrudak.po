@@ -20,7 +20,7 @@ msgstr ""
 
 # Objects : [w289718809]
 # name:be: []
-msgid "Библеотека"
+msgid "Библиотека"
 msgstr ""
 
 # Objects : [w288893531, w289715368]
@@ -93,6 +93,11 @@ msgstr ""
 msgid "Дворец Бракосочетаний"
 msgstr ""
 
+# Objects : [w300240712]
+# name:be: []
+msgid "Дежурная аптека"
+msgstr ""
+
 # Objects : [w289715375]
 # name:be: []
 msgid "Детская поликлиника"
@@ -111,6 +116,11 @@ msgstr ""
 # Objects : [w289718812]
 # name:be: []
 msgid "Дом Юнатов"
+msgstr ""
+
+# Objects : [w300240720]
+# name:be: []
+msgid "Златка"
 msgstr ""
 
 # Objects : [w289694161]
@@ -138,7 +148,12 @@ msgstr ""
 msgid "Клуб «Октябрь»"
 msgstr ""
 
-# Objects : [w289519567, w289550740, w289715439, w297174061, w298784455, w299221127, w299973655, w300197804]
+# Objects : [w300240726]
+# name:be: []
+msgid "Лилея"
+msgstr ""
+
+# Objects : [w289519567, w289550740, w289715439, w289883449, w297174061, w298784455, w299221127, w299973655, w300197804, w300240741]
 # name:be: []
 msgid "Магазин"
 msgstr ""
@@ -146,6 +161,11 @@ msgstr ""
 # Objects : [w289694162]
 # name:be: []
 msgid "Магазин "Свитанок""
+msgstr ""
+
+# Objects : [w264445905]
+# name:be: []
+msgid "магазин"спутник""
 msgstr ""
 
 # Objects : [w298794109]
@@ -166,6 +186,16 @@ msgstr ""
 # Objects : [w289715441]
 # name:be: []
 msgid "Общежитие НГАК"
+msgstr ""
+
+# Objects : [w300240732]
+# name:be: []
+msgid "Охрана"
+msgstr ""
+
+# Objects : [w273270442]
+# name:be: []
+msgid "Панский дом"
 msgstr ""
 
 # Objects : [w289718825]
@@ -266,5 +296,10 @@ msgstr ""
 # Objects : [w298745666]
 # name:be: []
 msgid "ШРП№5"
+msgstr ""
+
+# Objects : [w300240737]
+# name:be: []
+msgid "Эдельвейс"
 msgstr ""
 

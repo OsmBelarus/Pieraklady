@@ -3,6 +3,11 @@
 msgid "Автопарк №20"
 msgstr ""
 
+# Objects : [n3486963968]
+# name:be: []
+msgid "Автосервис"
+msgstr ""
+
 # Objects : [w217763778]
 # name:be: []
 msgid "Ветстанция"

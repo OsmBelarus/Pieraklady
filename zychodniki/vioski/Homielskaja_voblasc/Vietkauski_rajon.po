@@ -55,7 +55,7 @@ msgstr ""
 
 # Objects : [n243044512, w25081088]
 # name:be: [Вераб’ёўка]
-msgid "Веробьёвка"
+msgid "Воробьёвка"
 msgstr ""
 
 # Objects : [n243044524, w25080308]
@@ -255,7 +255,7 @@ msgstr ""
 
 # Objects : [n243044521, w25080263]
 # name:be: [Непераможны]
-msgid "Непераможный"
+msgid "Непобедимый"
 msgstr ""
 
 # Objects : [n243044941, w25081068]
@@ -268,6 +268,11 @@ msgstr ""
 msgid "Нинель"
 msgstr ""
 
+# Objects : [n243046578, w25082074]
+# name:be: [Новае Жыццё]
+msgid "Новая Жизнь"
+msgstr ""
+
 # Objects : [n243044937, w25081062]
 # name:be: [Навілаўка]
 msgid "Новиловка"
@@ -276,11 +281,6 @@ msgstr ""
 # Objects : [n243046592, w25082046]
 # name:be: [Новіны]
 msgid "Новины"
-msgstr ""
-
-# Objects : [n243046578, w25082074]
-# name:be: [Новае Жыццё]
-msgid "Новое Житьё"
 msgstr ""
 
 # Objects : [n243044496, w25080230]
@@ -473,7 +473,7 @@ msgstr ""
 msgid "Светиловичи"
 msgstr ""
 
-# Objects : [n243045564, w104720940, w139504781]
+# Objects : [n243045564, r5139593]
 # name:be: [Свабода]
 msgid "Свобода"
 msgstr ""
@@ -490,7 +490,7 @@ msgstr ""
 
 # Objects : [n243045551, w25079283]
 # name:be: [Сініцына]
-msgid "Синицыно"
+msgid "Синицино"
 msgstr ""
 
 # Objects : [n243044893, w25081044]

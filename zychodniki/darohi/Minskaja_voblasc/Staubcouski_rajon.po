@@ -3,6 +3,11 @@
 msgid "Белорусская улица"
 msgstr ""
 
+# Objects : [w141061598]
+# name:be: []
+msgid "Брод"
+msgstr ""
+
 # Objects : [w48188171]
 # name:be: [Зарэчная]
 msgid "Заречная улица"

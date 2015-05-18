@@ -12,10 +12,6 @@
       <tuv lang="BE"><seg>"Залатое цяля" *</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>"Князь Ольгерд"</seg></tuv>
-      <tuv lang="BE"><seg>"Князь Альгерд"</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>"Культовары"</seg></tuv>
       <tuv lang="BE"><seg>"Культавары"</seg></tuv>
     </tu>
@@ -412,10 +408,6 @@
       <tuv lang="BE"><seg>Беларускі дзяржаўны харэаграфічны каледж</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Белорусский государственный экономический университет</seg></tuv>
-      <tuv lang="BE"><seg>Беларускі дзяржаўны эканамічны ўніверсітэт</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Белорусский институт правоведенья</seg></tuv>
       <tuv lang="BE"><seg>Беларускі інстытут правазнаўства</seg></tuv>
     </tu>
@@ -546,10 +538,6 @@
     <tu>
       <tuv lang="RU"><seg>Брестский областной суд</seg></tuv>
       <tuv lang="BE"><seg>Брэсцкі абласны суд</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Брестский театр кукол</seg></tuv>
-      <tuv lang="BE"><seg>Брэсцкі тэатр лялек</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брестский филиал РУП "Белтелеком"</seg></tuv>
@@ -702,6 +690,10 @@
     <tu>
       <tuv lang="RU"><seg>Ветлечебница</seg></tuv>
       <tuv lang="BE"><seg>Ветлякарня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветстанция</seg></tuv>
+      <tuv lang="BE"><seg>Ветстанцыя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вечерняя школа</seg></tuv>
@@ -970,6 +962,10 @@
     <tu>
       <tuv lang="RU"><seg>Гостиница Беларусь</seg></tuv>
       <tuv lang="BE"><seg>Гасцініца «Беларусь»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница Миоры</seg></tuv>
+      <tuv lang="BE"><seg>Гасцініца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гостиничный комплекс</seg></tuv>
@@ -1472,6 +1468,10 @@
       <tuv lang="BE"><seg>Падаткавая інспекцыя Заводскага раёна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Инспекция по делам несовершеннолетних</seg></tuv>
+      <tuv lang="BE"><seg>Інспекцыя па справах непаўналетніх</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Институт биоорганической химии НАН Беларуси</seg></tuv>
       <tuv lang="BE"><seg>Інстытут біяарганічнай хіміі НАН Беларусі</seg></tuv>
     </tu>
@@ -1544,6 +1544,10 @@
       <tuv lang="BE"><seg>Кафэ "Казка"</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кафе «Метан»</seg></tuv>
+      <tuv lang="BE"><seg>Кавярня «Метан»</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кафе «Цитадель»</seg></tuv>
       <tuv lang="BE"><seg>Кафэ «Цытадэль»</seg></tuv>
     </tu>
@@ -1554,10 +1558,6 @@
     <tu>
       <tuv lang="RU"><seg>Кафедра педиатрии ВГМУ</seg></tuv>
       <tuv lang="BE"><seg>Кафедра педыятрыі ВДМУ</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Кафе Метан</seg></tuv>
-      <tuv lang="BE"><seg>Кавярня «Метан»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кафе Театральное</seg></tuv>
@@ -1630,6 +1630,10 @@
     <tu>
       <tuv lang="RU"><seg>КНС-3</seg></tuv>
       <tuv lang="BE"><seg>КПС-3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Князь Ольгерд</seg></tuv>
+      <tuv lang="BE"><seg>Князь Альгерд</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кожвендиспансер</seg></tuv>
@@ -2040,7 +2044,7 @@
       <tuv lang="BE"><seg>Моднае адзенне</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Молодежное</seg></tuv>
+      <tuv lang="RU"><seg>Молодёжное</seg></tuv>
       <tuv lang="BE"><seg>Маладзёжная</seg></tuv>
     </tu>
     <tu>
@@ -2194,10 +2198,6 @@
     <tu>
       <tuv lang="RU"><seg>ОАО "РАПС"</seg></tuv>
       <tuv lang="BE"><seg>ААТ РАПС</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>ОАО Витебскоблресурсы</seg></tuv>
-      <tuv lang="BE"><seg>ААТ Віцебскаблрэсурсы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ОАО Рудаково</seg></tuv>
@@ -2500,10 +2500,6 @@
       <tuv lang="BE"><seg>Плябанія XIX ст.</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Племенной свинокомплекс</seg></tuv>
-      <tuv lang="BE"><seg>Племянны свінакомплекс</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Повысительная насосная станция</seg></tuv>
       <tuv lang="BE"><seg>Павышальная помпавая станцыя</seg></tuv>
     </tu>
@@ -2728,6 +2724,10 @@
       <tuv lang="BE"><seg>Пракуратура</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Прокуратура Верхнедвинского района</seg></tuv>
+      <tuv lang="BE"><seg>Пракуратура Верхнядзвінскага раёна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Прокуратура витебской области</seg></tuv>
       <tuv lang="BE"><seg>Пракуратура Віцебскай вобласці</seg></tuv>
     </tu>
@@ -2838,10 +2838,6 @@
     <tu>
       <tuv lang="RU"><seg>Ритуальные услуги</seg></tuv>
       <tuv lang="BE"><seg>Рытуальныя паслугі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>РНПЦ неврологии и нейрохирургии</seg></tuv>
-      <tuv lang="BE"><seg>РНПЦ неўралогіі і нейрахірургіі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>РОВД</seg></tuv>
@@ -3140,6 +3136,10 @@
       <tuv lang="BE"><seg>Суд</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Суд Верхнедвинского района</seg></tuv>
+      <tuv lang="BE"><seg>Суд Верхнядзвінскага раёна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Супермаркет "Рублёвский"</seg></tuv>
       <tuv lang="BE"><seg>Супермаркет "Рублёўскі"</seg></tuv>
     </tu>
@@ -3200,6 +3200,10 @@
       <tuv lang="BE"><seg>Друкарня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ткани</seg></tuv>
+      <tuv lang="BE"><seg>Тканіны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Товарная биржа</seg></tuv>
       <tuv lang="BE"><seg>Таварная біржа</seg></tuv>
     </tu>
@@ -3232,6 +3236,10 @@
       <tuv lang="BE"><seg>ТП</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>ТП-151</seg></tuv>
+      <tuv lang="BE"><seg>ТП-151</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>ТП-21</seg></tuv>
       <tuv lang="BE"><seg>ЦП-21</seg></tuv>
     </tu>
@@ -3240,8 +3248,8 @@
       <tuv lang="BE"><seg>ЦП-213</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>ТП-252</seg></tuv>
-      <tuv lang="BE"><seg>ТП-252</seg></tuv>
+      <tuv lang="RU"><seg>ТП-309</seg></tuv>
+      <tuv lang="BE"><seg>ТП-309</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТП-377</seg></tuv>
@@ -3410,10 +3418,6 @@
     <tu>
       <tuv lang="RU"><seg>Универсам №40</seg></tuv>
       <tuv lang="BE"><seg>Універсам №40</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>УО "Брестский государственный политехнический колледж"</seg></tuv>
-      <tuv lang="BE"><seg>УА "Брэсцкі дзяржаўны політэхнічны каледж"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>УП "Брестоблсельстрой"</seg></tuv>

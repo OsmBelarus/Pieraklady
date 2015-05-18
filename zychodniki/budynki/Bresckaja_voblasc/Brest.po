@@ -323,11 +323,6 @@ msgstr ""
 msgid "Брестский облисполком"
 msgstr ""
 
-# Objects : [w62160509]
-# name:be: [Брэсцкі тэатр лялек]
-msgid "Брестский театр кукол"
-msgstr ""
-
 # Objects : [w58587276]
 # name:be: [Брэсцкі філіял РУП "Белтэлеком"]
 msgid "Брестский филиал РУП "Белтелеком""
@@ -338,6 +333,11 @@ msgstr ""
 msgid "Брестский филиал СООО "Мобильные ТелеСистемы""
 msgstr ""
 
+# Objects : [w62160515]
+# name:be: []
+msgid "Брестское городское ЖКХ"
+msgstr ""
+
 # Objects : [w84186771]
 # name:be: []
 msgid "Брестское ЖКХ"
@@ -346,6 +346,11 @@ msgstr ""
 # Objects : [w157860482]
 # name:be: []
 msgid "Брестское угощение"
+msgstr ""
+
+# Objects : [w58111516]
+# name:be: []
+msgid "Буг"
 msgstr ""
 
 # Objects : [w86883247]
@@ -391,6 +396,11 @@ msgstr ""
 # Objects : [w58064511]
 # name:be: []
 msgid "Детский центр туризма и краеведения"
+msgstr ""
+
+# Objects : [w344358788]
+# name:be: []
+msgid "Диадема Джевелер"
 msgstr ""
 
 # Objects : [w103571038]
@@ -993,11 +1003,6 @@ msgstr ""
 msgid "Умида"
 msgstr ""
 
-# Objects : [w62160514]
-# name:be: [УА "Брэсцкі дзяржаўны політэхнічны каледж"]
-msgid "УО "Брестский государственный политехнический колледж""
-msgstr ""
-
 # Objects : [w84187320]
 # name:be: []
 msgid "УП "Брестоблгаз""
@@ -1076,6 +1081,11 @@ msgstr ""
 # Objects : [w60705252]
 # name:be: [Цэнтральная Ўнівэрсальная крама]
 msgid "Цум"
+msgstr ""
+
+# Objects : [w58111527]
+# name:be: []
+msgid "ЧУП «Иванель»"
 msgstr ""
 
 # Objects : [w316340477]

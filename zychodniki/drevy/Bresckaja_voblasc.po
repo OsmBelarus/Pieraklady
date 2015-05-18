@@ -14,12 +14,12 @@ msgid "ПКиО имени 1 мая"
 msgstr ""
 
 # Objects : [r4513822]
-# name:be: []
+# name:be: [Сквер Памежнікаў]
 msgid "Сквер Пограничников"
 msgstr ""
 
 # Objects : [w230525157]
-# name:be: []
+# name:be: [Cтары парк]
 msgid "Старый парк"
 msgstr ""
 

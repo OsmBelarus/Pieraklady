@@ -1,11 +1,11 @@
+# Objects : [w183704518]
+# name:be: []
+msgid "5 Элемент"
+msgstr ""
+
 # Objects : [w277865302]
 # name:be: []
 msgid "АБК "Зодчий""
-msgstr ""
-
-# Objects : [w252100468]
-# name:be: []
-msgid "Алми"
 msgstr ""
 
 # Objects : [w309309237]
@@ -88,6 +88,11 @@ msgstr ""
 msgid "Дом торговли"
 msgstr ""
 
+# Objects : [w342724469, w342724473]
+# name:be: []
+msgid "ЕВРООПТ"
+msgstr ""
+
 # Objects : [w97869967]
 # name:be: []
 msgid "Золотой Феникс"
@@ -103,14 +108,14 @@ msgstr ""
 msgid "Магазин "Родная сторона""
 msgstr ""
 
-# Objects : [w183704518]
-# name:be: []
-msgid "Мебель Пинскдрев"
-msgstr ""
-
 # Objects : [w297893988]
 # name:be: []
 msgid "Насосная станция"
+msgstr ""
+
+# Objects : [w118013626]
+# name:be: []
+msgid "Пинскдрев"
 msgstr ""
 
 # Objects : [w118054974]

@@ -28,7 +28,7 @@ msgstr ""
 msgid "Аптека №241"
 msgstr ""
 
-# Objects : [n306063984]
+# Objects : [n306063984, n3511041903]
 # name:be: []
 msgid "Витафарм"
 msgstr ""
@@ -36,6 +36,11 @@ msgstr ""
 # Objects : [n2053095673]
 # name:be: [Мед-сэрвіс]
 msgid "Мед-сервис"
+msgstr ""
+
+# Objects : [n3072416604]
+# name:be: []
+msgid "Фармация № 100"
 msgstr ""
 
 # Objects : [n3295540832]

@@ -78,6 +78,11 @@ msgstr ""
 msgid "Белоруснефть №28"
 msgstr ""
 
+# Objects : [n3507076206, w308443518]
+# name:be: [Беларуснафта № 79]
+msgid "Белоруснефть № 79"
+msgstr ""
+
 # Objects : [n1779266829, n1780098826]
 # name:be: []
 msgid "Бутан"

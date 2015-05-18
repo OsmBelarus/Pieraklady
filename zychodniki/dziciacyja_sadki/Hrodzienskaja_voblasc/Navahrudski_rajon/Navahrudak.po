@@ -1,6 +1,11 @@
-# Objects : [w289694096, w289878869]
+# Objects : [w289694096]
 # name:be: []
 msgid "ДетСад"
+msgstr ""
+
+# Objects : [w341190357]
+# name:be: []
+msgid "Детский сад"
 msgstr ""
 
 # Objects : [w341126289]

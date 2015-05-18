@@ -143,16 +143,6 @@ msgstr ""
 msgid "Дворец (руины)"
 msgstr ""
 
-# Objects : [n2702145394, w264547614]
-# name:be: [Далавая]
-msgid "Доловая"
-msgstr ""
-
-# Objects : [n2086216565, w25138943, w271964691]
-# name:be: [Дзяліна]
-msgid "Дялино"
-msgstr ""
-
 # Objects : [w229949004]
 # name:be: []
 msgid "Жарпицца"
@@ -168,7 +158,7 @@ msgstr ""
 msgid "Загуровщина"
 msgstr ""
 
-# Objects : [n2724861705, n3050813572, w267005515, w300972346]
+# Objects : [n3050813572, w300972346]
 # name:be: [Зялёнка]
 msgid "Зелёнка"
 msgstr ""
@@ -266,11 +256,6 @@ msgstr ""
 # Objects : [n242995357, w25137946]
 # name:be: [Крамешава]
 msgid "Кремешево"
-msgstr ""
-
-# Objects : [n2724843148, w267003245]
-# name:be: [Крывуля]
-msgid "Кривуля"
 msgstr ""
 
 # Objects : [n242995272, w198491656]
@@ -418,7 +403,7 @@ msgstr ""
 msgid "Полевая база"
 msgstr ""
 
-# Objects : [n2769038635, w271970035, w271970036]
+# Objects : [n2769038635, r4850482]
 # name:be: [Памерач]
 msgid "Померечь"
 msgstr ""
@@ -458,11 +443,6 @@ msgstr ""
 msgid "Скирмантишки"
 msgstr ""
 
-# Objects : [w25138905]
-# name:be: [Слабада]
-msgid "Слобода"
-msgstr ""
-
 # Objects : [w129440769]
 # name:be: []
 msgid "Старое еврейское кладбище"
@@ -473,24 +453,9 @@ msgstr ""
 msgid "Старый Гольшанский замок"
 msgstr ""
 
-# Objects : [n2101991091, w200203102]
-# name:be: [Студзянец]
-msgid "Студенец"
-msgstr ""
-
-# Objects : [n2724861706, w267005518]
+# Objects : [r4850478]
 # name:be: [Суглобішкі]
 msgid "Суглобишки"
-msgstr ""
-
-# Objects : [n2724862951, w267005615]
-# name:be: [Суслішкі]
-msgid "Суслишки"
-msgstr ""
-
-# Objects : [n2724849208, w267004056]
-# name:be: [Тарасаўшчына]
-msgid "Тарасовщина"
 msgstr ""
 
 # Objects : [n2788684390]
@@ -541,6 +506,11 @@ msgstr ""
 # Objects : [n2788685174]
 # name:be: [Фальварак Чапскіх]
 msgid "Фольварк Чапских"
+msgstr ""
+
+# Objects : [n3519800122]
+# name:be: [Францішак Багушэвіч]
+msgid "Франтишек Богушевич"
 msgstr ""
 
 # Objects : [n3051496252, w301038037]

@@ -512,6 +512,10 @@
       <tuv lang="BE"><seg>[Веснінка, 10, вул. Веснінка, 10]</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ветлечебница</seg></tuv>
       <tuv lang="BE"><seg>[Ветлякарня, Ветлячэбніца]</seg></tuv>
     </tu>
@@ -1001,7 +1005,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дом Правосудия</seg></tuv>
-      <tuv lang="BE"><seg>Дом Правасуддзя</seg></tuv>
+      <tuv lang="BE"><seg>[Дом Правасуддзя, Дом правасуддзя]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дом связи</seg></tuv>
@@ -1324,6 +1328,10 @@
       <tuv lang="BE"><seg>Інстытут неўралогіі і нейрахірургіі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Институт химии новых материалов</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут хіміі новых матэр'ялаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кабушкина</seg></tuv>
       <tuv lang="BE"><seg>вуліца Кабушкіна</seg></tuv>
     </tu>
@@ -1558,10 +1566,6 @@
     <tu>
       <tuv lang="RU"><seg>Космонавтов, 17</seg></tuv>
       <tuv lang="BE"><seg>Касманаўтаў, 17</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Котельная</seg></tuv>
-      <tuv lang="BE"><seg>Кацельня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Котовского</seg></tuv>
@@ -1888,10 +1892,6 @@
       <tuv lang="BE"><seg>Медсанчастка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Медуниверситет</seg></tuv>
-      <tuv lang="BE"><seg>Медуніверсітэт</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Медцентр</seg></tuv>
       <tuv lang="BE"><seg>Медцэнтр</seg></tuv>
     </tu>
@@ -1985,7 +1985,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодежная</seg></tuv>
-      <tuv lang="BE"><seg>[Маладзёжная, Маладзёжны, вул. Маргелава]</seg></tuv>
+      <tuv lang="BE"><seg>[Маладзёжная, Маладзёжны]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная улица</seg></tuv>
@@ -2057,7 +2057,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Натуралистов</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Натуралістаў</seg></tuv>
+      <tuv lang="BE"><seg>Вуліца Натуралістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Национальная библиотека</seg></tuv>
@@ -2484,7 +2484,7 @@
       <tuv lang="BE"><seg>Пераможная вуліца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>поворот на Вишневку</seg></tuv>
+      <tuv lang="RU"><seg>Поворот на Вишнёвку</seg></tuv>
       <tuv lang="BE"><seg>Паварот на Вішнёўку</seg></tuv>
     </tu>
     <tu>
@@ -2956,6 +2956,10 @@
       <tuv lang="BE"><seg>Сельская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Семашко</seg></tuv>
+      <tuv lang="BE"><seg>Сямашкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Семёнова</seg></tuv>
       <tuv lang="BE"><seg>Сямёнава</seg></tuv>
     </tu>
@@ -3393,7 +3397,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТЦ Кирмаш</seg></tuv>
-      <tuv lang="BE"><seg>Гандлёвы цэнтр «Кірмаш»</seg></tuv>
+      <tuv lang="BE"><seg>[ГЦ Кірмаш, Гандлёвы цэнтр «Кірмаш»]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТЭЦ</seg></tuv>

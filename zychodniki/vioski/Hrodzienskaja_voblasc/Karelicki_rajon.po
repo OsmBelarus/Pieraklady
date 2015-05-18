@@ -728,14 +728,9 @@ msgstr ""
 msgid "Трасейки"
 msgstr ""
 
-# Objects : [n242995861]
+# Objects : [n242995861, w25136162]
 # name:be: [Трашчычы]
 msgid "Трощицы"
-msgstr ""
-
-# Objects : [w25136162]
-# name:be: [Трашчычы]
-msgid "Трощичи"
 msgstr ""
 
 # Objects : [n242992787, w25138500]

@@ -13,6 +13,11 @@ msgstr ""
 msgid "Братское"
 msgstr ""
 
+# Objects : [n243032524, w25105655]
+# name:be: [Буда Галоўчыцкая]
+msgid "Буда Головчицкая"
+msgstr ""
+
 # Objects : [n243032580, w25105672]
 # name:be: [Буда Красноўская]
 msgid "Буда Красновская"
@@ -46,11 +51,6 @@ msgstr ""
 # Objects : [n243028298, w25106525]
 # name:be: [Гажын]
 msgid "Гажин"
-msgstr ""
-
-# Objects : [n243032524, w25105655]
-# name:be: [Галоўчыцкая Буда]
-msgid "Головчицкая Буда"
 msgstr ""
 
 # Objects : [n243032533, w25105661]
@@ -121,6 +121,16 @@ msgstr ""
 # Objects : [n243028283, w25106516]
 # name:be: []
 msgid "Красный Борец"
+msgstr ""
+
+# Objects : [n243032541, w25105659]
+# name:be: [Чырвоны Прамень]
+msgid "Красный Луч"
+msgstr ""
+
+# Objects : [n243032544, w25105658]
+# name:be: [Красны Востраў]
+msgid "Красный Остров"
 msgstr ""
 
 # Objects : [n243032498, w25106499]
@@ -196,15 +206,5 @@ msgstr ""
 # Objects : [n243032535, w25105657]
 # name:be: [Чэхі]
 msgid "Чехи"
-msgstr ""
-
-# Objects : [n243032544, w25105658]
-# name:be: [Чырвоны Востраў]
-msgid "Чирвоный Остров"
-msgstr ""
-
-# Objects : [n243032541, w25105659]
-# name:be: [Чырвоны Прамень]
-msgid "Чирвоный Промень"
 msgstr ""
 

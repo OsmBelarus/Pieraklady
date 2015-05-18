@@ -523,7 +523,7 @@ msgstr ""
 msgid "Ильинка"
 msgstr ""
 
-# Objects : [n243041752, w25086319]
+# Objects : [n243041752, w25084609, w25086319]
 # name:be: [Кадзіна]
 msgid "Кадино"
 msgstr ""
@@ -1301,11 +1301,6 @@ msgstr ""
 # Objects : [n243041384, w25098396]
 # name:be: [Укружжа]
 msgid "Укружье"
-msgstr ""
-
-# Objects : [w25084618]
-# name:be: [Утра]
-msgid "Утра"
 msgstr ""
 
 # Objects : [n243041753, w25086314]
