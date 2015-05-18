@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Роща</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20150518T092248Z" creationid="alex" creationdate="20150518T092248Z">
+        <seg>Гай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Румлёвский лес</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20150428T150759Z" creationid="alex" creationdate="20150428T150759Z">
