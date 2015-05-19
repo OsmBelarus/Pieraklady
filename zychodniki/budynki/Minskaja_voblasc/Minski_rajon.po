@@ -1093,6 +1093,11 @@ msgstr ""
 msgid "Усадьба "Алекс""
 msgstr ""
 
+# Objects : [w162404875]
+# name:be: []
+msgid "Усадьба «Каменная горка»"
+msgstr ""
+
 # Objects : [w341225801]
 # name:be: []
 msgid "Фабрика здоровья №30"

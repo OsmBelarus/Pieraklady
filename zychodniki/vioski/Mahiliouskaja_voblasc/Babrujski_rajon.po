@@ -40,7 +40,7 @@ msgstr ""
 
 # Objects : [n243029506, w25107034]
 # name:be: [Барбарова]
-msgid "Барбарово"
+msgid "Барборово"
 msgstr ""
 
 # Objects : [n243029674, w25107079]
@@ -533,14 +533,9 @@ msgstr ""
 msgid "Лекерта"
 msgstr ""
 
-# Objects : [n243029659, w25107080]
+# Objects : [n243029614, n243029659, w25107046, w25107080]
 # name:be: [Леніна]
 msgid "Ленина"
-msgstr ""
-
-# Objects : [n243029614, w25107046]
-# name:be: [Леніна]
-msgid "Ленино"
 msgstr ""
 
 # Objects : [n2828396455, w25108129]
@@ -768,6 +763,11 @@ msgstr ""
 msgid "Панкратовичи"
 msgstr ""
 
+# Objects : [n243027769, w25106284]
+# name:be: [Панюшкавічы]
+msgid "Панюшковичи"
+msgstr ""
+
 # Objects : [n243025378, n243038345, w25104078, w278472732]
 # name:be: [Пасека]
 msgid "Пасека"
@@ -823,17 +823,12 @@ msgstr ""
 msgid "Полянки"
 msgstr ""
 
-# Objects : [n243027769, w25106284]
-# name:be: [Панюшкавічы]
-msgid "Понюшковичи"
-msgstr ""
-
-# Objects : [n243038326, w25104057, w25104072]
+# Objects : [n243038326, r5155199]
 # name:be: [Парасля]
 msgid "Поросля"
 msgstr ""
 
-# Objects : [n243030669, w25104749, w25104752]
+# Objects : [n243030669, r5155196]
 # name:be: [Постраш]
 msgid "Постраш"
 msgstr ""

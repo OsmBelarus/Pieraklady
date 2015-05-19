@@ -138,6 +138,11 @@ msgstr ""
 msgid "Комсомольская улица"
 msgstr ""
 
+# Objects : [w276139435]
+# name:be: []
+msgid "Красноармейская улица"
+msgstr ""
+
 # Objects : [w80251728]
 # name:be: [Ленінская вуліца]
 msgid "Ленинская улица"
@@ -221,6 +226,11 @@ msgstr ""
 # Objects : [w339889960]
 # name:be: []
 msgid "переулок Припятский"
+msgstr ""
+
+# Objects : [w345992178]
+# name:be: []
+msgid "переулок Школьный"
 msgstr ""
 
 # Objects : [w276299358]

@@ -1760,6 +1760,10 @@
       <tuv lang="BE"><seg>Барбэраўка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Барборово</seg></tuv>
+      <tuv lang="BE"><seg>Барбарова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Барвин</seg></tuv>
       <tuv lang="BE"><seg>Барвін</seg></tuv>
     </tu>
@@ -3900,6 +3904,10 @@
       <tuv lang="BE"><seg>Вялікая Бераставіца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Большая Боровка</seg></tuv>
+      <tuv lang="BE"><seg>Вялікая Бароўка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Большая Быховщина</seg></tuv>
       <tuv lang="BE"><seg>Вялікая Быхаўшчына</seg></tuv>
     </tu>
@@ -3930,6 +3938,10 @@
     <tu>
       <tuv lang="RU"><seg>Большая Горожа</seg></tuv>
       <tuv lang="BE"><seg>Вялікая Гарожа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большая Грава</seg></tuv>
+      <tuv lang="BE"><seg>Вялікая Грава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Большая Дубровка</seg></tuv>
@@ -4106,6 +4118,10 @@
     <tu>
       <tuv lang="RU"><seg>Большевик</seg></tuv>
       <tuv lang="BE"><seg>Бальшавік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большие Амхиничи</seg></tuv>
+      <tuv lang="BE"><seg>Вялікія Амхінічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Большие Барсучины</seg></tuv>
@@ -4546,6 +4562,10 @@
     <tu>
       <tuv lang="RU"><seg>Большое Уланово</seg></tuv>
       <tuv lang="BE"><seg>Бальшое Уланава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большое Хоново</seg></tuv>
+      <tuv lang="BE"><seg>Вялікае Хонава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Большое Чёрное</seg></tuv>
@@ -6812,7 +6832,7 @@
       <tuv lang="BE"><seg>Вейшычы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Векер</seg></tuv>
+      <tuv lang="RU"><seg>Веккер</seg></tuv>
       <tuv lang="BE"><seg>Векер</seg></tuv>
     </tu>
     <tu>
@@ -6896,20 +6916,12 @@
       <tuv lang="BE"><seg>Вялікая Боркаўшчына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Великая Боровка</seg></tuv>
-      <tuv lang="BE"><seg>Вялікая Бароўка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Великая Воля</seg></tuv>
       <tuv lang="BE"><seg>Вялікая Воля</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великая Гать</seg></tuv>
       <tuv lang="BE"><seg>Вялікая Гаць</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Великая Грава</seg></tuv>
-      <tuv lang="BE"><seg>Вялікая Грава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великая Гуменовщина</seg></tuv>
@@ -6978,10 +6990,6 @@
     <tu>
       <tuv lang="RU"><seg>Великие Автюки</seg></tuv>
       <tuv lang="BE"><seg>Вялікія Аўцюкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Великие Амхиничи</seg></tuv>
-      <tuv lang="BE"><seg>Вялікія Амхінічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великие Аниковичи</seg></tuv>
@@ -7162,10 +7170,6 @@
     <tu>
       <tuv lang="RU"><seg>Великое Село</seg></tuv>
       <tuv lang="BE"><seg>Вялікае Сяло</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Великое Хоново</seg></tuv>
-      <tuv lang="BE"><seg>Вялікае Хонава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великополье</seg></tuv>
@@ -8596,12 +8600,16 @@
       <tuv lang="BE"><seg>[Ваўкавічы, Ваўковічы, Воўкавічы]</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Волковка</seg></tuv>
+      <tuv lang="BE"><seg>Ваўкаўцы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Волково</seg></tuv>
       <tuv lang="BE"><seg>[Волкава, Воўкава]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Волковцы</seg></tuv>
-      <tuv lang="BE"><seg>[Ваўкаўцы, Воўкаўцы]</seg></tuv>
+      <tuv lang="BE"><seg>Воўкаўцы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Волковщина</seg></tuv>
@@ -13356,6 +13364,10 @@
       <tuv lang="BE"><seg>Дапаны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дараганово</seg></tuv>
+      <tuv lang="BE"><seg>Дараганава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дарани</seg></tuv>
       <tuv lang="BE"><seg>Дарані</seg></tuv>
     </tu>
@@ -14916,10 +14928,6 @@
       <tuv lang="BE"><seg>Дармантова</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дороганово</seg></tuv>
-      <tuv lang="BE"><seg>Дараганава</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Дорогая</seg></tuv>
       <tuv lang="BE"><seg>Дарагая</seg></tuv>
     </tu>
@@ -15060,7 +15068,7 @@
       <tuv lang="BE"><seg>Драгунск</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Драгунские Хуторы</seg></tuv>
+      <tuv lang="RU"><seg>Драгунские Хутора</seg></tuv>
       <tuv lang="BE"><seg>Драгунскія Хутары</seg></tuv>
     </tu>
     <tu>
@@ -16528,6 +16536,10 @@
       <tuv lang="BE"><seg>Жабінка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Жабино</seg></tuv>
+      <tuv lang="BE"><seg>Жабін</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Жабинцы</seg></tuv>
       <tuv lang="BE"><seg>Жабінцы</seg></tuv>
     </tu>
@@ -17280,10 +17292,6 @@
       <tuv lang="BE"><seg>Журавельнікі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Журавец</seg></tuv>
-      <tuv lang="BE"><seg>Журавец</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Журавец 1</seg></tuv>
       <tuv lang="BE"><seg>Журавец 1</seg></tuv>
     </tu>
@@ -17354,6 +17362,10 @@
     <tu>
       <tuv lang="RU"><seg>Журихи</seg></tuv>
       <tuv lang="BE"><seg>Журыхі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Журовец</seg></tuv>
+      <tuv lang="BE"><seg>Журавец</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Журовка</seg></tuv>
@@ -19452,6 +19464,10 @@
       <tuv lang="BE"><seg>Захоціна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Зацень</seg></tuv>
+      <tuv lang="BE"><seg>Зацень</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Заценье</seg></tuv>
       <tuv lang="BE"><seg>Зацэнне</seg></tuv>
     </tu>
@@ -20436,10 +20452,6 @@
       <tuv lang="BE"><seg>Івонцавічы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ивоны</seg></tuv>
-      <tuv lang="BE"><seg>Івоны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Иглица</seg></tuv>
       <tuv lang="BE"><seg>Ігліца</seg></tuv>
     </tu>
@@ -20742,6 +20754,10 @@
     <tu>
       <tuv lang="RU"><seg>Иоды</seg></tuv>
       <tuv lang="BE"><seg>Ёды</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ионы</seg></tuv>
+      <tuv lang="BE"><seg>Івоны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ипполитовка</seg></tuv>
@@ -27948,7 +27964,7 @@
       <tuv lang="BE"><seg>Ластаянцы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ластрыгино</seg></tuv>
+      <tuv lang="RU"><seg>Ластригино</seg></tuv>
       <tuv lang="BE"><seg>Ластрыгіна</seg></tuv>
     </tu>
     <tu>
@@ -30372,7 +30388,7 @@
       <tuv lang="BE"><seg>Людкаўшчына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Людогоща</seg></tuv>
+      <tuv lang="RU"><seg>Людогощь</seg></tuv>
       <tuv lang="BE"><seg>Людагошча</seg></tuv>
     </tu>
     <tu>
@@ -34232,10 +34248,6 @@
       <tuv lang="BE"><seg>Мішкенікі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Мишки</seg></tuv>
-      <tuv lang="BE"><seg>Мішкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Мишковичи</seg></tuv>
       <tuv lang="BE"><seg>Мішкавічы</seg></tuv>
     </tu>
@@ -34369,7 +34381,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Моисеевичи</seg></tuv>
-      <tuv lang="BE"><seg>Маісеевічы</seg></tuv>
+      <tuv lang="BE"><seg>[Майсеевічы, Маісеевічы]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Моисеевка</seg></tuv>
@@ -36940,6 +36952,10 @@
       <tuv lang="BE"><seg>Новааляксандраўка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ново-Александровка</seg></tuv>
+      <tuv lang="BE"><seg>Новааляксандраўка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новоандреевка</seg></tuv>
       <tuv lang="BE"><seg>Новаандрэеўка</seg></tuv>
     </tu>
@@ -36956,7 +36972,7 @@
       <tuv lang="BE"><seg>Новаберажное</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Нововасильевск</seg></tuv>
+      <tuv lang="RU"><seg>Ново-Васильевск</seg></tuv>
       <tuv lang="BE"><seg>Новавасільеўск</seg></tuv>
     </tu>
     <tu>
@@ -37056,7 +37072,7 @@
       <tuv lang="BE"><seg>Новае Высокае</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Новоегоровка</seg></tuv>
+      <tuv lang="RU"><seg>Ново-Егоровка</seg></tuv>
       <tuv lang="BE"><seg>Новаягораўка</seg></tuv>
     </tu>
     <tu>
@@ -39844,6 +39860,10 @@
       <tuv lang="BE"><seg>Панюцічы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Панюшковичи</seg></tuv>
+      <tuv lang="BE"><seg>Панюшкавічы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Папанин</seg></tuv>
       <tuv lang="BE"><seg>Папанін</seg></tuv>
     </tu>
@@ -41808,10 +41828,6 @@
       <tuv lang="BE"><seg>Паварчыцы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Повднёвое Белищено</seg></tuv>
-      <tuv lang="BE"><seg>Паўднёвае Бялішчана</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Повзики</seg></tuv>
       <tuv lang="BE"><seg>Поўзікі</seg></tuv>
     </tu>
@@ -42924,7 +42940,7 @@
       <tuv lang="BE"><seg>Палявая Рэчыца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Полевый</seg></tuv>
+      <tuv lang="RU"><seg>Полевой</seg></tuv>
       <tuv lang="BE"><seg>Палявы</seg></tuv>
     </tu>
     <tu>
@@ -42980,10 +42996,6 @@
       <tuv lang="BE"><seg>Палешына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ползуново</seg></tuv>
-      <tuv lang="BE"><seg>Паўзунова</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Поливники</seg></tuv>
       <tuv lang="BE"><seg>Паліўнікі</seg></tuv>
     </tu>
@@ -43030,10 +43042,6 @@
     <tu>
       <tuv lang="RU"><seg>Полна</seg></tuv>
       <tuv lang="BE"><seg>Пална</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Полночное Белищено</seg></tuv>
-      <tuv lang="BE"><seg>Паўночнае Бялішчана</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полночное Волое</seg></tuv>
@@ -43414,10 +43422,6 @@
     <tu>
       <tuv lang="RU"><seg>Пономари</seg></tuv>
       <tuv lang="BE"><seg>Панамары</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Понюшковичи</seg></tuv>
-      <tuv lang="BE"><seg>Панюшкавічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Поня</seg></tuv>
@@ -44800,6 +44804,10 @@
       <tuv lang="BE"><seg>Пустаборы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пустой Осовец</seg></tuv>
+      <tuv lang="BE"><seg>Пусты Асавец</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пустоселье</seg></tuv>
       <tuv lang="BE"><seg>Пустаселле</seg></tuv>
     </tu>
@@ -44810,10 +44818,6 @@
     <tu>
       <tuv lang="RU"><seg>Пустошка</seg></tuv>
       <tuv lang="BE"><seg>Пустошка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Пустый Осовец</seg></tuv>
-      <tuv lang="BE"><seg>Пусты Асавец</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пустынки</seg></tuv>
@@ -45112,7 +45116,7 @@
       <tuv lang="BE"><seg>Пячкавічы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Пячковичский льнозавод</seg></tuv>
+      <tuv lang="RU"><seg>Пячковский льнозавод</seg></tuv>
       <tuv lang="BE"><seg>Пячкавіцкі ільнозавод</seg></tuv>
     </tu>
     <tu>
@@ -45472,12 +45476,12 @@
       <tuv lang="BE"><seg>Ракіні</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ракитанка</seg></tuv>
-      <tuv lang="BE"><seg>Ракітанка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Раките</seg></tuv>
       <tuv lang="BE"><seg>Ракіце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ракитенка</seg></tuv>
+      <tuv lang="BE"><seg>Ракітанка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ракитник</seg></tuv>
@@ -47136,7 +47140,7 @@
       <tuv lang="BE"><seg>Рудава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рудодима</seg></tuv>
+      <tuv lang="RU"><seg>Рудодимо</seg></tuv>
       <tuv lang="BE"><seg>Рудодзіма</seg></tuv>
     </tu>
     <tu>
@@ -47512,10 +47516,6 @@
       <tuv lang="BE"><seg>Рыжкаўка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рыки</seg></tuv>
-      <tuv lang="BE"><seg>Рыкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Рыленки</seg></tuv>
       <tuv lang="BE"><seg>Рыленкі</seg></tuv>
     </tu>
@@ -47794,10 +47794,6 @@
     <tu>
       <tuv lang="RU"><seg>Савостеенки</seg></tuv>
       <tuv lang="BE"><seg>Савасцеенкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Савостяновичи</seg></tuv>
-      <tuv lang="BE"><seg>Савасцянавічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Савский Бор</seg></tuv>
@@ -48584,6 +48580,10 @@
       <tuv lang="BE"><seg>Севярыны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Северное Белищено</seg></tuv>
+      <tuv lang="BE"><seg>Паўночнае Бялішчана</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Северное Гнездилово</seg></tuv>
       <tuv lang="BE"><seg>Паўночнае Гняздзілава</seg></tuv>
     </tu>
@@ -48594,6 +48594,10 @@
     <tu>
       <tuv lang="RU"><seg>Севки</seg></tuv>
       <tuv lang="BE"><seg>Сяўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Севостьяновичи</seg></tuv>
+      <tuv lang="BE"><seg>Савасцянавічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Севруки</seg></tuv>
@@ -56316,16 +56320,16 @@
       <tuv lang="BE"><seg>Вуткі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Утра</seg></tuv>
-      <tuv lang="BE"><seg>Утра</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Утраны</seg></tuv>
       <tuv lang="BE"><seg>Утраны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Утрилово</seg></tuv>
       <tuv lang="BE"><seg>Утрылава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Утро</seg></tuv>
+      <tuv lang="BE"><seg>Утра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Уть</seg></tuv>
@@ -57296,10 +57300,6 @@
       <tuv lang="BE"><seg>Хадоркі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ходоров</seg></tuv>
-      <tuv lang="BE"><seg>Ходараў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Ходоровичи</seg></tuv>
       <tuv lang="BE"><seg>Ходаравічы</seg></tuv>
     </tu>
@@ -57309,7 +57309,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ходорово</seg></tuv>
-      <tuv lang="BE"><seg>Ходарава</seg></tuv>
+      <tuv lang="BE"><seg>[Ходарава, Ходараў]</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ходоровцы</seg></tuv>
@@ -57560,7 +57560,7 @@
       <tuv lang="BE"><seg>Харомцы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Хоронев</seg></tuv>
+      <tuv lang="RU"><seg>Хоронево</seg></tuv>
       <tuv lang="BE"><seg>Харанеў</seg></tuv>
     </tu>
     <tu>
@@ -58852,12 +58852,12 @@
       <tuv lang="BE"><seg>Чорны Ручай</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Черныши</seg></tuv>
-      <tuv lang="BE"><seg>Чарнышы</seg></tuv>
+      <tuv lang="RU"><seg>Чернышен</seg></tuv>
+      <tuv lang="BE"><seg>Чарнышын</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чернышин</seg></tuv>
-      <tuv lang="BE"><seg>Чарнышын</seg></tuv>
+      <tuv lang="RU"><seg>Черныши</seg></tuv>
+      <tuv lang="BE"><seg>Чарнышы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черня</seg></tuv>
@@ -61106,6 +61106,10 @@
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>
       <tuv lang="BE"><seg>Южная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южное Белищено</seg></tuv>
+      <tuv lang="BE"><seg>Паўднёвае Бялішчана</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южное Гнездилово</seg></tuv>

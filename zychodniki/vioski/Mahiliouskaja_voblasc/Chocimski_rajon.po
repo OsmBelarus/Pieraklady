@@ -28,7 +28,7 @@ msgstr ""
 msgid "Беседовичи"
 msgstr ""
 
-# Objects : [n243047115, w25076900, w25076921]
+# Objects : [n243047115, r5155541]
 # name:be: [Бесядскі Прудок]
 msgid "Беседский Прудок"
 msgstr ""
@@ -153,7 +153,7 @@ msgstr ""
 msgid "Еловец"
 msgstr ""
 
-# Objects : [n243046965, w25077023, w25077290]
+# Objects : [n243046965, r5155542]
 # name:be: [Ельня]
 msgid "Ельня"
 msgstr ""
@@ -228,7 +228,7 @@ msgstr ""
 msgid "Липаки"
 msgstr ""
 
-# Objects : [n243047100, w25076752, w25076872]
+# Objects : [n243047100, r5155543]
 # name:be: [Ліпаўка]
 msgid "Липовка"
 msgstr ""
@@ -383,7 +383,7 @@ msgstr ""
 msgid "Хотимск"
 msgstr ""
 
-# Objects : [n243046938, w25077353, w25077358]
+# Objects : [n243046938, r5155544]
 # name:be: [Чарняўка]
 msgid "Чернявка"
 msgstr ""

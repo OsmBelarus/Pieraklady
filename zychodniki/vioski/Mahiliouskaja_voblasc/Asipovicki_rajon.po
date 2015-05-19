@@ -28,6 +28,11 @@ msgstr ""
 msgid "Большая Горожа"
 msgstr ""
 
+# Objects : [n243022377, w25110111]
+# name:be: [Вялікая Грава]
+msgid "Большая Грава"
+msgstr ""
+
 # Objects : [n243025589, w25108072]
 # name:be: [Барок]
 msgid "Борок"
@@ -56,11 +61,6 @@ msgstr ""
 # Objects : [n243025532, w25108055]
 # name:be: [Булгары]
 msgid "Булгары"
-msgstr ""
-
-# Objects : [n243022377, w25110111]
-# name:be: [Вялікая Грава]
-msgid "Великая Грава"
 msgstr ""
 
 # Objects : [n243021000, w25124816]
@@ -148,6 +148,11 @@ msgstr ""
 msgid "Гумнище"
 msgstr ""
 
+# Objects : [n243023437, w25111270]
+# name:be: [Дараганава]
+msgid "Дараганово"
+msgstr ""
+
 # Objects : [n243021011, w25124818]
 # name:be: [Дворышча]
 msgid "Дворище"
@@ -161,11 +166,6 @@ msgstr ""
 # Objects : [n243022226, w25111242]
 # name:be: [Дзераўцы]
 msgid "Деревцы"
-msgstr ""
-
-# Objects : [n243023437, w25111270]
-# name:be: [Дараганава]
-msgid "Дороганово"
 msgstr ""
 
 # Objects : [n243023420, w25111235]
@@ -225,7 +225,7 @@ msgstr ""
 
 # Objects : [n243029508, w25107033]
 # name:be: [Журавец]
-msgid "Журавец"
+msgid "Журовец"
 msgstr ""
 
 # Objects : [n243022238, w25110151]
@@ -283,7 +283,7 @@ msgstr ""
 msgid "Зорька"
 msgstr ""
 
-# Objects : [n243025564, w25108037, w25108038, w25108042]
+# Objects : [n243025564, r5155581]
 # name:be: [Ігнатоўка]
 msgid "Игнатовка"
 msgstr ""
@@ -338,7 +338,7 @@ msgstr ""
 msgid "Корма"
 msgstr ""
 
-# Objects : [n243025654, w25108087, w277752440]
+# Objects : [n243025654, w277752440]
 # name:be: [Карытнае]
 msgid "Корытное"
 msgstr ""
@@ -358,7 +358,7 @@ msgstr ""
 msgid "Красник"
 msgstr ""
 
-# Objects : [n243029580, w25107029, w25107039]
+# Objects : [n243029580, r5155582]
 # name:be: [Краснае]
 msgid "Красное"
 msgstr ""
@@ -460,7 +460,7 @@ msgstr ""
 
 # Objects : [n243020184, w25122197]
 # name:be: [Майсеевічы]
-msgid "Мойсеевичи"
+msgid "Моисеевичи"
 msgstr ""
 
 # Objects : [n243022346, w25110145]
@@ -753,7 +753,7 @@ msgstr ""
 msgid "Татарковичи"
 msgstr ""
 
-# Objects : [n243022374, w25110117, w25110128]
+# Objects : [n243022374, r5155580]
 # name:be: [Цяплухі]
 msgid "Теплухи"
 msgstr ""

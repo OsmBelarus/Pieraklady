@@ -43,6 +43,11 @@ msgstr ""
 msgid "Северная улица"
 msgstr ""
 
+# Objects : [w288278547]
+# name:be: [вуліца Ганны Місуны]
+msgid "улица Анны Мисуны"
+msgstr ""
+
 # Objects : [w288270106]
 # name:be: [вуліца Вінаградова]
 msgid "улица Виноградова"
@@ -61,11 +66,6 @@ msgstr ""
 # Objects : [w290235107]
 # name:be: [вуліца Леніна]
 msgid "улица Ленина"
-msgstr ""
-
-# Objects : [w288278547]
-# name:be: [вуліца Місуны]
-msgid "улица Мисуны"
 msgstr ""
 
 # Objects : [w288291420]

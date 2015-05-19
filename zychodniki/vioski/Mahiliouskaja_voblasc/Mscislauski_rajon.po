@@ -38,7 +38,7 @@ msgstr ""
 msgid "Белый Мох"
 msgstr ""
 
-# Objects : [n243045424, w25078836, w25078840]
+# Objects : [n243045424, r5155594]
 # name:be: [Бялынец]
 msgid "Белынец"
 msgstr ""
@@ -135,7 +135,7 @@ msgstr ""
 
 # Objects : [n243045697, w25079699]
 # name:be: [Ваўкаўцы]
-msgid "Волковцы"
+msgid "Волковка"
 msgstr ""
 
 # Objects : [n243045290, n243045422, n243045426, w25078831, w25078838, w25078855]
@@ -248,7 +248,7 @@ msgstr ""
 msgid "Заполье"
 msgstr ""
 
-# Objects : [n243045247, n893257363, w288407569, w288407765]
+# Objects : [n243045247, n893257363, w288407765]
 # name:be: [Зарэчча]
 msgid "Заречье"
 msgstr ""
@@ -265,7 +265,7 @@ msgstr ""
 
 # Objects : [n243045595, w25079522]
 # name:be: [Івоны]
-msgid "Ивоны"
+msgid "Ионы"
 msgstr ""
 
 # Objects : [n243045334, w25078719]
@@ -420,7 +420,7 @@ msgstr ""
 
 # Objects : [n243045079, w25078421]
 # name:be: [Ластрыгіна]
-msgid "Ластрыгино"
+msgid "Ластригино"
 msgstr ""
 
 # Objects : [n243045288, w25078827]
@@ -440,7 +440,7 @@ msgstr ""
 
 # Objects : [n243047378, w25078047]
 # name:be: [Людагошча]
-msgid "Людогоща"
+msgid "Людогощь"
 msgstr ""
 
 # Objects : [n243047240, w25078343]
@@ -573,11 +573,6 @@ msgstr ""
 msgid "Победа"
 msgstr ""
 
-# Objects : [n243047364, w25078001]
-# name:be: [Паўднёвае Бялішчана]
-msgid "Повднёвое Белищено"
-msgstr ""
-
 # Objects : [n243047377, w25078050]
 # name:be: [Падлужжа]
 msgid "Подлужье"
@@ -586,11 +581,6 @@ msgstr ""
 # Objects : [n243045226, w25078738]
 # name:be: [Падсолтава]
 msgid "Подсолтово"
-msgstr ""
-
-# Objects : [n243047363, w25078000]
-# name:be: [Паўночнае Бялішчана]
-msgid "Полночное Белищено"
 msgstr ""
 
 # Objects : [n243045673, w25079722]
@@ -615,7 +605,7 @@ msgstr ""
 
 # Objects : [n243045704, w25079567]
 # name:be: [Пячкавіцкі ільнозавод]
-msgid "Пячковичский льнозавод"
+msgid "Пячковский льнозавод"
 msgstr ""
 
 # Objects : [n243045590, w25079512]
@@ -625,7 +615,7 @@ msgstr ""
 
 # Objects : [n243045449, w25079685]
 # name:be: [Ракітанка]
-msgid "Ракитанка"
+msgid "Ракитенка"
 msgstr ""
 
 # Objects : [n243045709, w25079561]
@@ -643,6 +633,11 @@ msgstr ""
 msgid "Реместово"
 msgstr ""
 
+# Objects : [n243047361, w25078007]
+# name:be: [Рыкі]
+msgid "Рики"
+msgstr ""
+
 # Objects : [n243045062, w25078388]
 # name:be: [Рожава]
 msgid "Рожево"
@@ -655,15 +650,10 @@ msgstr ""
 
 # Objects : [n243045718, w25079584]
 # name:be: [Рудодзіма]
-msgid "Рудодима"
+msgid "Рудодимо"
 msgstr ""
 
-# Objects : [n243047361, w25078007]
-# name:be: [Рыкі]
-msgid "Рыки"
-msgstr ""
-
-# Objects : [n243047369, w25078015, w25078029]
+# Objects : [n243047369, r5155595]
 # name:be: [Разанцы]
 msgid "Рязанцы"
 msgstr ""
@@ -681,6 +671,11 @@ msgstr ""
 # Objects : [n243047226, w25078382]
 # name:be: [Святазер’е]
 msgid "Святозерье"
+msgstr ""
+
+# Objects : [n243047363, w25078000]
+# name:be: [Паўночнае Бялішчана]
+msgid "Северное Белищено"
 msgstr ""
 
 # Objects : [n243045051, w25078405]
@@ -816,6 +811,11 @@ msgstr ""
 # Objects : [n243047228, w25078377]
 # name:be: [Шумянічы]
 msgid "Шумяничи"
+msgstr ""
+
+# Objects : [n243047364, w25078001]
+# name:be: [Паўднёвае Бялішчана]
+msgid "Южное Белищено"
 msgstr ""
 
 # Objects : [n243045427, w25078843]

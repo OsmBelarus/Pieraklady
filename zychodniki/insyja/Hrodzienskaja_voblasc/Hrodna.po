@@ -4853,6 +4853,11 @@ msgstr ""
 msgid "Тенистый переулок"
 msgstr ""
 
+# Objects : [w346136730]
+# name:be: []
+msgid "Тепловые сети"
+msgstr ""
+
 # Objects : [n3178670093]
 # name:be: []
 msgid "Теремок"

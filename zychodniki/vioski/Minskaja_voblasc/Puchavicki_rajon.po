@@ -258,7 +258,7 @@ msgstr ""
 msgid "Голенберг"
 msgstr ""
 
-# Objects : [n243015694, w25125512]
+# Objects : [n243015694]
 # name:be: [Голацк]
 msgid "Голоцк"
 msgstr ""
@@ -703,7 +703,7 @@ msgstr ""
 msgid "Леоновка"
 msgstr ""
 
-# Objects : [n243018090, w341711627]
+# Objects : [n243018090, n3526736123, w341711627]
 # name:be: [Лешніца]
 msgid "Лешница"
 msgstr ""

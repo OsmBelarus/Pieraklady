@@ -183,7 +183,7 @@ msgstr ""
 msgid "Буды"
 msgstr ""
 
-# Objects : [n243010154, w25128719]
+# Objects : [w25128719]
 # name:be: [Буцэвічы]
 msgid "Буцевичи"
 msgstr ""
@@ -638,6 +638,11 @@ msgstr ""
 msgid "Захаричи"
 msgstr ""
 
+# Objects : [n3526600689]
+# name:be: [Зацень]
+msgid "Зацень"
+msgstr ""
+
 # Objects : [n243017232, w25125480]
 # name:be: [Заямачнае]
 msgid "Заямочное"
@@ -993,7 +998,7 @@ msgstr ""
 msgid "Ломшино"
 msgstr ""
 
-# Objects : [n243011477, n611559096, w25128824, w25130047]
+# Objects : [n243011477, n611559096, w25128824, w346179918]
 # name:be: [Лашаны]
 msgid "Лошаны"
 msgstr ""
@@ -1068,7 +1073,7 @@ msgstr ""
 msgid "Марьяливо КИЗ"
 msgstr ""
 
-# Objects : [n243015615, w25127652]
+# Objects : [n243015615, n3526736124, w25127652]
 # name:be: [Маславічы]
 msgid "Масловичи"
 msgstr ""
@@ -1213,7 +1218,7 @@ msgstr ""
 msgid "Паздерки"
 msgstr ""
 
-# Objects : [n243015646, r2122124, r2122125]
+# Objects : [n243015646, n3526600690, r2122124, r2122125]
 # name:be: [Паперня]
 msgid "Паперня"
 msgstr ""

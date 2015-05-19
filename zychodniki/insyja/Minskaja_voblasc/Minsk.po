@@ -848,11 +848,6 @@ msgstr ""
 msgid "PAUL MITCHELL офис в РБ"
 msgstr ""
 
-# Objects : [w251445225]
-# name:be: []
-msgid "playground"
-msgstr ""
-
 # Objects : [n3184984271]
 # name:be: []
 msgid "Prime Hall"
@@ -2738,7 +2733,7 @@ msgstr ""
 msgid "ВиоДент"
 msgstr ""
 
-# Objects : [w209174419, w226721368, w25393034]
+# Objects : [w226721368, w25393034]
 # name:be: [Віталюр]
 msgid "Виталюр"
 msgstr ""
@@ -3256,11 +3251,6 @@ msgstr ""
 # Objects : [n2766736759]
 # name:be: []
 msgid "Гостиничный комплекс Турист"
-msgstr ""
-
-# Objects : [n2766736762]
-# name:be: []
-msgid "Гостиничный комплекс Юбилейный"
 msgstr ""
 
 # Objects : [n1369894909, w196755410]
@@ -5751,11 +5741,6 @@ msgstr ""
 # Objects : [n3206003013]
 # name:be: []
 msgid "Мастерская по ремонту обуви №4"
-msgstr ""
-
-# Objects : [n2626410353]
-# name:be: [Майстар шын Шынамантаж ТАА "Стэфрадо"]
-msgid "Мастер шин Шиномонтаж ООО "Стефрадо""
 msgstr ""
 
 # Objects : [n243010354, n3206003023]
@@ -8483,6 +8468,11 @@ msgstr ""
 msgid "Победителей 100"
 msgstr ""
 
+# Objects : [r5156897]
+# name:be: []
+msgid "Победителей 11"
+msgstr ""
+
 # Objects : [r4757132]
 # name:be: []
 msgid "Победителей 111"
@@ -8508,14 +8498,34 @@ msgstr ""
 msgid "Победителей 127"
 msgstr ""
 
+# Objects : [r5156898]
+# name:be: []
+msgid "Победителей 13"
+msgstr ""
+
 # Objects : [r4754373]
 # name:be: []
 msgid "Победителей 133"
 msgstr ""
 
+# Objects : [r5156899]
+# name:be: []
+msgid "Победителей 17"
+msgstr ""
+
 # Objects : [r4778513]
 # name:be: []
 msgid "Победителей 20к2"
+msgstr ""
+
+# Objects : [r5156900]
+# name:be: []
+msgid "Победителей 7"
+msgstr ""
+
+# Objects : [r5156901]
+# name:be: []
+msgid "Победителей 7А"
 msgstr ""
 
 # Objects : [r4775357]
@@ -11328,6 +11338,11 @@ msgstr ""
 msgid "ТЦ "Импульс""
 msgstr ""
 
+# Objects : [w260188977]
+# name:be: []
+msgid "ТЦ "Магнит""
+msgstr ""
+
 # Objects : [w58095741]
 # name:be: []
 msgid "ТЦ "Монетка""
@@ -11486,6 +11501,11 @@ msgstr ""
 # Objects : [w315749678]
 # name:be: []
 msgid "Управление Бел. ж.д."
+msgstr ""
+
+# Objects : [n1898557309]
+# name:be: []
+msgid "Управление по раскрытию преступлений в сфере высоких технологий МВД РБ"
 msgstr ""
 
 # Objects : [n2857681283, n2859781909]

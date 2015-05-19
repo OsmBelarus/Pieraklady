@@ -98,7 +98,7 @@ msgstr ""
 msgid "4kids"
 msgstr ""
 
-# Objects : [n3123708529]
+# Objects : [n3123708529, n3525848993, n3525858117]
 # name:be: []
 msgid "500 Ампер"
 msgstr ""
@@ -7483,7 +7483,7 @@ msgstr ""
 msgid "Спортимпорт"
 msgstr ""
 
-# Objects : [n1013397938, n3266595087]
+# Objects : [n1013397938, n3266595087, n3525641073]
 # name:be: []
 msgid "Спортмастер"
 msgstr ""

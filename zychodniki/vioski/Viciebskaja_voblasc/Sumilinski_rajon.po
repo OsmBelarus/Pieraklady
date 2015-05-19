@@ -153,11 +153,6 @@ msgstr ""
 msgid "Гали"
 msgstr ""
 
-# Objects : [n243038635, w25104268]
-# name:be: []
-msgid "Гарбузы"
-msgstr ""
-
 # Objects : [n243026987, w25105777]
 # name:be: [Глінна]
 msgid "Глинно"
@@ -253,7 +248,7 @@ msgstr ""
 msgid "Данилово"
 msgstr ""
 
-# Objects : [n243031567, n243038687, n243040480, w25103517, w25104248, w25105016]
+# Objects : [n243031567, n243040480, w25103517, w25105016]
 # name:be: [Дворышча]
 msgid "Дворище"
 msgstr ""
@@ -638,11 +633,6 @@ msgstr ""
 msgid "Мазурино"
 msgstr ""
 
-# Objects : [n243038695, w25104243]
-# name:be: []
-msgid "Мазуры"
-msgstr ""
-
 # Objects : [n243031495, w25104977]
 # name:be: [Малышкі]
 msgid "Малышки"
@@ -681,11 +671,6 @@ msgstr ""
 # Objects : [n243031649, w25104995]
 # name:be: [Міхалова]
 msgid "Михалово"
-msgstr ""
-
-# Objects : [n243039769, w25103492]
-# name:be: [Мішкі]
-msgid "Мишки"
 msgstr ""
 
 # Objects : [n243031606, w25105005]
@@ -841,11 +826,6 @@ msgstr ""
 # Objects : [n243026904, w25105781]
 # name:be: [Падоры]
 msgid "Подоры"
-msgstr ""
-
-# Objects : [n243039826, w25103489]
-# name:be: [Паўзунова]
-msgid "Ползуново"
 msgstr ""
 
 # Objects : [n243039857, w25103538]

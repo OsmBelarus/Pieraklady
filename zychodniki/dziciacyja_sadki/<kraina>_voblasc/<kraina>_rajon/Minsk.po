@@ -118,6 +118,11 @@ msgstr ""
 msgid "д/с №149"
 msgstr ""
 
+# Objects : [w345941114]
+# name:be: []
+msgid "д/с №15"
+msgstr ""
+
 # Objects : [n3435909691]
 # name:be: []
 msgid "д/с №150"
@@ -1303,6 +1308,11 @@ msgstr ""
 msgid "д/с №499"
 msgstr ""
 
+# Objects : [w173213934]
+# name:be: []
+msgid "д/с №5"
+msgstr ""
+
 # Objects : [n305684597]
 # name:be: []
 msgid "д/с №50"
@@ -1603,7 +1613,7 @@ msgstr ""
 msgid "д/с №64"
 msgstr ""
 
-# Objects : [n305683623, w53656803]
+# Objects : [w345941113, w53656803]
 # name:be: []
 msgid "д/с №67"
 msgstr ""
@@ -1911,11 +1921,6 @@ msgstr ""
 # Objects : [n305678449]
 # name:be: []
 msgid "№143"
-msgstr ""
-
-# Objects : [n305683606]
-# name:be: []
-msgid "№15"
 msgstr ""
 
 # Objects : [n305677644]

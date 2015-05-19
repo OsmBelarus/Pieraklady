@@ -13304,6 +13304,10 @@
       <tuv lang="BE"><seg>Агародны ўезд</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Огородняя улица</seg></tuv>
+      <tuv lang="BE"><seg>Агародняя вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Одельская улица</seg></tuv>
       <tuv lang="BE"><seg>Адэльская вуліца</seg></tuv>
     </tu>
@@ -19520,6 +19524,10 @@
       <tuv lang="BE"><seg>вуліца Анны Каваль</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>улица Анны Мисуны</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Ганны Місуны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>улица Анохина</seg></tuv>
       <tuv lang="BE"><seg>вуліца Анохіна</seg></tuv>
     </tu>
@@ -24010,10 +24018,6 @@
     <tu>
       <tuv lang="RU"><seg>улица Мирошниченко</seg></tuv>
       <tuv lang="BE"><seg>вуліца Мірашнічэнкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>улица Мисуны</seg></tuv>
-      <tuv lang="BE"><seg>вуліца Місуны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>улица Митьки</seg></tuv>

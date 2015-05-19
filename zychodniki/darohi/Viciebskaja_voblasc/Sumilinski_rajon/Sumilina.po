@@ -193,6 +193,11 @@ msgstr ""
 msgid "переулок Строителей"
 msgstr ""
 
+# Objects : [w346145305]
+# name:be: []
+msgid "переулок Угневенка"
+msgstr ""
+
 # Objects : [w155791454]
 # name:be: [завулак Шчорса]
 msgid "переулок Щорса"
@@ -393,7 +398,7 @@ msgstr ""
 msgid "улица Строителей"
 msgstr ""
 
-# Objects : [w155941423]
+# Objects : [w346151135]
 # name:be: [вуліца Суворава]
 msgid "улица Суворова"
 msgstr ""

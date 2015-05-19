@@ -208,6 +208,11 @@ msgstr ""
 msgid "Дворец Культуры Нефтяников"
 msgstr ""
 
+# Objects : [n3470938463]
+# name:be: []
+msgid "Департамент охраны"
+msgstr ""
+
 # Objects : [w326284887, w326284888]
 # name:be: []
 msgid "детская игровая площадка"
@@ -491,6 +496,11 @@ msgstr ""
 # Objects : [w323979127]
 # name:be: []
 msgid "ОАО "АТП №6 г. Новополоцк""
+msgstr ""
+
+# Objects : [n3527807461]
+# name:be: []
+msgid "ОАО "Базис-Новополоцк""
 msgstr ""
 
 # Objects : [w253581799]

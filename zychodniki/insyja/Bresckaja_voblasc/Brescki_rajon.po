@@ -163,6 +163,11 @@ msgstr ""
 msgid "Курница"
 msgstr ""
 
+# Objects : [w344684514]
+# name:be: []
+msgid "Леплевский Дом культуры"
+msgstr ""
+
 # Objects : [w132986012, w132986013]
 # name:be: []
 msgid "Локаторы"

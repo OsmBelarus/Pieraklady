@@ -14,7 +14,7 @@ msgid "школа № 1"
 msgstr ""
 
 # Objects : [w203855483]
-# name:be: []
-msgid "№ 1"
+# name:be: [Школа № 1]
+msgid "Школа № 1"
 msgstr ""
 

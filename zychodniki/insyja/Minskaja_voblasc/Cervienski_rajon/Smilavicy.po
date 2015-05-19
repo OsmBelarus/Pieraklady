@@ -38,6 +38,11 @@ msgstr ""
 msgid "Ограда"
 msgstr ""
 
+# Objects : [n242979042]
+# name:be: [Смілавічы]
+msgid "Смиловичи"
+msgstr ""
+
 # Objects : [n742227929]
 # name:be: []
 msgid "Телеграф"

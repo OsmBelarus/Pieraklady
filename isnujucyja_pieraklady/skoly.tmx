@@ -824,6 +824,10 @@
       <tuv lang="BE"><seg>Школа №1</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Школа № 1</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 1</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Школа №10</seg></tuv>
       <tuv lang="BE"><seg>Школа №10</seg></tuv>
     </tu>

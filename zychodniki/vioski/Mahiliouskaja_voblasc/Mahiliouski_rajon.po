@@ -78,6 +78,11 @@ msgstr ""
 msgid "Бокотовка"
 msgstr ""
 
+# Objects : [n243041775, w25086363]
+# name:be: [Вялікая Бароўка]
+msgid "Большая Боровка"
+msgstr ""
+
 # Objects : [n243042502, w25084709]
 # name:be: [Бальшая Дубраўка]
 msgid "Большая Дубровка"
@@ -96,6 +101,11 @@ msgstr ""
 # Objects : [n243041418, w25102791]
 # name:be: [Вялікае Запаточча]
 msgid "Большое Запоточье"
+msgstr ""
+
+# Objects : [n243041402, w25102681]
+# name:be: [Вялікае Хонава]
+msgid "Большое Хоново"
 msgstr ""
 
 # Objects : [n243043401, w25089164]
@@ -138,7 +148,7 @@ msgstr ""
 msgid "Будовля"
 msgstr ""
 
-# Objects : [n243043404, n2922644457, w25089112, w288712842]
+# Objects : [n243043404, r5155632]
 # name:be: [Буйнічы]
 msgid "Буйничи"
 msgstr ""
@@ -170,17 +180,7 @@ msgstr ""
 
 # Objects : [n243043411, w25089129]
 # name:be: [Векер]
-msgid "Векер"
-msgstr ""
-
-# Objects : [n243041775, w25086363]
-# name:be: [Вялікая Бароўка]
-msgid "Великая Боровка"
-msgstr ""
-
-# Objects : [n243041402, w25102681]
-# name:be: [Вялікае Хонава]
-msgid "Великое Хоново"
+msgid "Веккер"
 msgstr ""
 
 # Objects : [n243035004, w25096734]
@@ -385,7 +385,7 @@ msgstr ""
 
 # Objects : [n243034993, w25096739]
 # name:be: [Жабін]
-msgid "Жабин"
+msgid "Жабино"
 msgstr ""
 
 # Objects : [n243043458, w25088994]
@@ -1010,7 +1010,7 @@ msgstr ""
 
 # Objects : [n243034968, w25096761]
 # name:be: [Палявы]
-msgid "Полевый"
+msgid "Полевой"
 msgstr ""
 
 # Objects : [n243041784, w25086434]
@@ -1070,7 +1070,7 @@ msgstr ""
 
 # Objects : [n243042524, w25084725]
 # name:be: [Пусты Асавец]
-msgid "Пустый Осовец"
+msgid "Пустой Осовец"
 msgstr ""
 
 # Objects : [n243041410, w25102728]
@@ -1128,14 +1128,14 @@ msgstr ""
 msgid "Русинка"
 msgstr ""
 
-# Objects : [n243034875, w25096671]
-# name:be: [Савасцянавічы]
-msgid "Савостяновичи"
-msgstr ""
-
 # Objects : [n243034771, w25096727]
 # name:be: []
 msgid "Северный Жабин"
+msgstr ""
+
+# Objects : [n243034875, w25096671]
+# name:be: [Савасцянавічы]
+msgid "Севостьяновичи"
 msgstr ""
 
 # Objects : [n243043405, w25089140]

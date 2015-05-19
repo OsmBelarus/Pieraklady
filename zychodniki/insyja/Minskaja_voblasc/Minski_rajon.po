@@ -2118,11 +2118,6 @@ msgstr ""
 msgid "Сельсовет;ЗАГС"
 msgstr ""
 
-# Objects : [w23563834]
-# name:be: []
-msgid "Семков городок"
-msgstr ""
-
 # Objects : [n2788684327]
 # name:be: [Сінагога]
 msgid "Синагога"

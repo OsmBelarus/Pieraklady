@@ -3356,6 +3356,10 @@
       <tuv lang="BE"><seg>Галаўня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Голоцк</seg></tuv>
+      <tuv lang="BE"><seg>Голацк</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Голубина</seg></tuv>
       <tuv lang="BE"><seg>Галубіна</seg></tuv>
     </tu>
@@ -9192,10 +9196,6 @@
       <tuv lang="BE"><seg>Маскі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Мастер шин Шиномонтаж ООО "Стефрадо"</seg></tuv>
-      <tuv lang="BE"><seg>Майстар шын Шынамантаж ТАА "Стэфрадо"</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Масюковщина</seg></tuv>
       <tuv lang="BE"><seg>Масюкоўшчына</seg></tuv>
     </tu>
@@ -9686,6 +9686,10 @@
     <tu>
       <tuv lang="RU"><seg>Мицкевичи</seg></tuv>
       <tuv lang="BE"><seg>Міцкевічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мишки</seg></tuv>
+      <tuv lang="BE"><seg>Мішкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мишково</seg></tuv>
@@ -12644,6 +12648,10 @@
       <tuv lang="BE"><seg>Палессе</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ползуново</seg></tuv>
+      <tuv lang="BE"><seg>Паўзунова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Поликлиника</seg></tuv>
       <tuv lang="BE"><seg>Паліклініка</seg></tuv>
     </tu>
@@ -14980,6 +14988,10 @@
       <tuv lang="BE"><seg>Сматра</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Смиловичи</seg></tuv>
+      <tuv lang="BE"><seg>Смілавічы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Смолевичи</seg></tuv>
       <tuv lang="BE"><seg>Смалявічы</seg></tuv>
     </tu>
@@ -16350,6 +16362,10 @@
     <tu>
       <tuv lang="RU"><seg>ТП-67</seg></tuv>
       <tuv lang="BE"><seg>ТП-67</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТП-700</seg></tuv>
+      <tuv lang="BE"><seg>ТП-700</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>ТП-81</seg></tuv>

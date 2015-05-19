@@ -23,6 +23,11 @@ msgstr ""
 msgid "Вокнище"
 msgstr ""
 
+# Objects : [n243038635, w25104268]
+# name:be: []
+msgid "Гарбузы"
+msgstr ""
+
 # Objects : [w25190992]
 # name:be: [Глухое воз.]
 msgid "Глухое"
@@ -33,7 +38,7 @@ msgstr ""
 msgid "Гринево"
 msgstr ""
 
-# Objects : [n243039783]
+# Objects : [n243038687, n243039783, w25104248]
 # name:be: [Дворышча]
 msgid "Дворище"
 msgstr ""
@@ -103,6 +108,11 @@ msgstr ""
 msgid "Лукомщина"
 msgstr ""
 
+# Objects : [n243038695, w25104243]
+# name:be: []
+msgid "Мазуры"
+msgstr ""
+
 # Objects : [w232957870]
 # name:be: []
 msgid "Макулькин"
@@ -116,6 +126,11 @@ msgstr ""
 # Objects : [w25188191]
 # name:be: [воз. Марынец]
 msgid "Маринец"
+msgstr ""
+
+# Objects : [n243039769, w25103492]
+# name:be: [Мішкі]
+msgid "Мишки"
 msgstr ""
 
 # Objects : [w25199959]
@@ -146,6 +161,11 @@ msgstr ""
 # Objects : [n2412875369]
 # name:be: []
 msgid "пожарный"
+msgstr ""
+
+# Objects : [n243039826, w25103489]
+# name:be: [Паўзунова]
+msgid "Ползуново"
 msgstr ""
 
 # Objects : [w25197810]

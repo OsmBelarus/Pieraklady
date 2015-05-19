@@ -33,6 +33,11 @@ msgstr ""
 msgid "КСУП "Агробересневка" Сушилка"
 msgstr ""
 
+# Objects : [w198256476]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
 # Objects : [w163700685]
 # name:be: []
 msgid "ОАО "Докшицкий райагросервис" Сушилка"

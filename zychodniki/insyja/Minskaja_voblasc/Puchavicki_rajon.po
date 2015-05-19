@@ -93,6 +93,11 @@ msgstr ""
 msgid "Географический центр Республики Беларусь"
 msgstr ""
 
+# Objects : [w25125512]
+# name:be: [Голацк]
+msgid "Голоцк"
+msgstr ""
+
 # Objects : [w25193603]
 # name:be: []
 msgid "Градирни, Земснаряд"

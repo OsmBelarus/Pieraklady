@@ -13,6 +13,11 @@ msgstr ""
 msgid "Белоруснефть"
 msgstr ""
 
+# Objects : [w113056604]
+# name:be: []
+msgid "Боксы"
+msgstr ""
+
 # Objects : [w333264814, w333264817, w333264819, w333380278, w337354573, w337360286]
 # name:be: []
 msgid "гараж"
@@ -86,6 +91,11 @@ msgstr ""
 # Objects : [w263925925]
 # name:be: []
 msgid "сельсовет"
+msgstr ""
+
+# Objects : [w113056395]
+# name:be: []
+msgid "Склад"
 msgstr ""
 
 # Objects : [w122659005]

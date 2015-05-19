@@ -303,11 +303,6 @@ msgstr ""
 msgid "KIA"
 msgstr ""
 
-# Objects : [w260188977]
-# name:be: []
-msgid "Magnit"
-msgstr ""
-
 # Objects : [w67027976]
 # name:be: []
 msgid "Mart Inn"
@@ -1003,7 +998,7 @@ msgstr ""
 msgid "Виктория"
 msgstr ""
 
-# Objects : [w39669104, w58818347]
+# Objects : [w209174419, w39669104, w58818347]
 # name:be: [Віталюр]
 msgid "Виталюр"
 msgstr ""
@@ -1536,11 +1531,6 @@ msgstr ""
 # Objects : [w25324109]
 # name:be: []
 msgid "Женский институт "Энвила""
-msgstr ""
-
-# Objects : [w25434702]
-# name:be: []
-msgid "Жилой"
 msgstr ""
 
 # Objects : [w169013012]
